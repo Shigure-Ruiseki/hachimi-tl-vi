@@ -1,0 +1,21 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Director Akikawa",
+      "text": "Splendid! It appears your training\nregimen is going swimmingly!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah! Director!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "I came to check in on things, but... color\nme impressed! I see you've been\nsupporting your trainee with panache!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yes. ♪ Keep up the good work and\nwatch your trainee grow stronger over\ntime!"
+    }
+  ]
+}

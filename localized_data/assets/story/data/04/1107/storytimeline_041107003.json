@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Girl with pigtails",
+      "text": "Look, there's treasure near the river!"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Treasure?! Wait... I've been had! \nDuring my training, even... Geez!"
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "I'm sorry, I'm sorry! Heh... Tap, you look happy recently, \nand you're so focused on racing. ...Before long, you \nwon't be coming here anymore, right?"
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "You, and the rest of us... We'll be seeing each other \na lot less... I guess we'll talk over LANE."
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Hahaha, what are you saying?! \nWe'll have fun together until the end of time!"
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "Haha, you exaggerate. \nDo you really think that's gonna happen?"
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "Whether the world will end or not... \nEventually we'll all graduate from school."
+    },
+    {
+      "choice_data_list": [
+        "But Katsuragi Ace's \"great escape...\""
+      ],
+      "text": "I'm looking over documents that I gathered while \nresearching Tap Dance City's runner strategy."
+    },
+    {
+      "choice_data_list": [
+        "To be even better than that..."
+      ],
+      "text": "One of the most legendary runners has to be \nSilence Suzuka. Her spectacular record at the \nKinko Sho still stands to this day."
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "And I'm going to bring them to fruition! How about it?"
+    },
+    {
+      "choice_data_list": [
+        "I'm still feeling out our bond.",
+        "I'm still feeling out our bond."
+      ],
+      "text": "I shake my head. At that moment, I just couldn't refuse. \nNow I'm here collecting data to make a plan for her."
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "<i>Yeah!</i> The day has come! \nA race of me <i>versus</i> all of you!"
+    },
+    {
+      "name": "Tap's Friends",
+      "text": "Yeah!"
+    },
+    {
+      "choice_data_list": [
+        "Let's see..."
+      ],
+      "name": "Tap Dance City",
+      "text": "Yo, Trainer! What's your plan to steer my path?"
+    },
+    {
+      "choice_data_list": [
+        "<size=35>Don't give them a chance to catch their breath.</size>"
+      ],
+      "text": "From what I gathered, none of them are assertive \nenough to run far ahead. It's looking like the race \nwill develop at a slow pace."
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Okay... 12.4 seconds per furlong... \nYou've brought out your usual level of detail, eh?"
+    },
+    {
+      "choice_data_list": [
+        "I do. That's why I made this plan.",
+        "I do. That's why I made this plan."
+      ],
+      "name": "Tap Dance City",
+      "text": "And I have to destroy the others through my stamina? You \nthink I've got the strength, let alone brains to timekeep?"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "<i>Great!</i> I'm glad I ran so much for you. I'll be sailing to my \nheart's content, over the waves you laid out for me!"
+    },
+    {
+      "text": "Thus, the race begins..."
+    },
+    {
+      "name": "Trainee with sunglasses",
+      "text": "Ugh! I can't...! \nThis speed...!"
+    },
+    {
+      "choice_data_list": [
+        "<size=42>(I can't believe she's making it work...!)</size>",
+        "<size=42>(I can't believe she's making it work...!)</size>"
+      ],
+      "text": "The success of this plan was a big gamble. \nUsing speed to create a gap early on..."
+    },
+    {
+      "choice_data_list": [
+        "Our forces, joined together...",
+        "Our forces, joined together..."
+      ],
+      "name": "Tap Dance City",
+      "text": "Haaa!"
+    },
+    {
+      "text": "Seeing her accelerate even more on the final stretch, \nit's like a dream come true. I'm starting to feel like she'd \nbe able to make any future plans come true as well."
+    },
+    {
+      "text": "I'm astonished by Tap Dance City's excellent display of \nthe runner strategy,"
+    },
+    {
+      "choice_data_list": [
+        "(I will make her the strongest leader!)",
+        "(I will make her the strongest leader!)"
+      ],
+      "text": "I'm sure that she'll be able to surpass \nthe runners of the past!"
+    },
+    {
+      "choice_data_list": [
+        "Yes, I'm sure of it now.",
+        "Yes, I'm sure of it now."
+      ],
+      "name": "Tap Dance City",
+      "text": "*huff* *huff* Whadda ya think, Trainer? \nWill I be able to be \"the world's greatest trainee?\""
+    },
+    {
+      "choice_data_list": [
+        "Ah? Isn't she your friend?",
+        "Ah? Isn't she your friend?"
+      ],
+      "name": "Girl with pigtails",
+      "text": "Bye-bye, Tap! \nThat was a lot of fun!"
+    },
+    {
+      "choice_data_list": [
+        "...? Tap?!"
+      ],
+      "name": "Tap Dance City",
+      "text": "\"Bye-bye\"...? ...<i>Sorry, Trainer!</i> \nHey, hold on!"
+    },
+    {
+      "choice_data_list": [
+        "*huff* That's what I'd like to..."
+      ],
+      "name": "Girl with pigtails",
+      "text": "Huh? Tap? ...And your trainer, too? \nWhy'd you follow me?"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "You just left all of a sudden. \nHey, you've been acting a bit weird for some time..."
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "... We... We can't be together forever. \nI thought it was time to say goodbye."
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "You see... I got a C on the mock exam for the university \nI want to go to... So my mom arranged for me to go \nto cram school starting tomorrow."
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "...And? It's not like you won't have any free time. \nAnd what about after the exams are over?"
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "Tap... It's not like we'll be kids forever. You should be \na bit more realistic, or you'll never grow up."
+    },
+    {
+      "choice_data_list": [
+        "(\"More realistic...\")"
+      ],
+      "name": "Tap Dance City",
+      "text": "...!"
+    },
+    {
+      "choice_data_list": [
+        "(...It comes up again.)"
+      ],
+      "name": "Veteran Trainer A",
+      "text": "You should act a bit more realistic. You're an adult. \nWhat you're going for is like a child's dream."
+    },
+    {
+      "choice_data_list": [
+        "Hold on, Tap..."
+      ],
+      "name": "Tap Dance City",
+      "text": "Haha! I see... More realistic... More realistic! Yeah, \nof course! Realistically, us breaking up is inevitable!"
+    },
+    {
+      "choice_data_list": [
+        "(Real life is cruel like that...)"
+      ],
+      "text": "Farewells happen at many turning points in life. \nGraduating, getting employed, moving, arguments..."
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Pu-hah! Hahaha! I get it, I get it. \nSo... How about we continue \"realistically.\""
+    },
+    {
+      "name": "Girl with pigtails",
+      "text": "Huh?"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Think about it. All our paths are starting to diverge. All \nwe need is a means, a place and a time to meet up again!"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "All we need is the power of money, and our paths \nwill meet again! ...Am I wrong?"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Of course, you don't need to worry about the money! \nI'm gonna build the most amazing castle for us all!"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "All I need now is a ship. \nHey, Trainer!"
+    },
+    {
+      "name": "Tap Dance City",
+      "text": "Let me ask you again. \nWill I be able to be \"the world's greatest trainee?\""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "color_text_info_list": [
+        "affinity"
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "The two selected Legacy Umamusume\nand your Trainee Umamusume have an\naffinity level determined by their\nrelationship."
+    },
+    {
+      "color_text_info_list": [
+        "something nice",
+        "a little more likely"
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "It's said that if they share a good\naffinity, it becomes a little more likely\nfor something nice to happen."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "This might be good to remember when\nyou're making arrangements in the\nfuture. ♪"
+    }
+  ]
+}

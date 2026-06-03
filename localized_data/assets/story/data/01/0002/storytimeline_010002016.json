@@ -1,0 +1,21 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Here you can manage your Veteran\nUmamusume, the racers who've\ncompleted a Career playthrough. You\ncan also strengthen Trainee Umamusume\nand your Support Cards."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Strengthening your Trainee Umamusume\nand Support Cards will set you up to\ngain better results in your Career\nplaythroughs!"
+    },
+    {
+      "color_text_info_list": [
+        "Materials used for strengthening are",
+        "mainly acquired by racing"
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "Materials used for strengthening are\nmainly acquired by racing."
+    }
+  ]
+}
