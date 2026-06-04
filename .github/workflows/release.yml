@@ -13,54 +13,71 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout release
+      # 1. Lấy dữ liệu nhánh main (Tiếng Việt) và các file script
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
-          ref: release
-          fetch-depth: 0
+          ref: main
+          path: main_repo
 
-      - name: Merge Main into Release
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git merge -X theirs origin/main --no-edit
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
+      # 2. Lấy khung dữ liệu chuẩn từ repo EN (Mọi file mới/cũ đều ở đây)
       - name: Checkout hachimi-tl-en
         uses: actions/checkout@v4
         with:
           repository: Shigure-Ruiseki/hachimi-tl-en
           path: hachimi-tl-en
 
+      # 3. Checkout nhánh release để ghi kết quả cuối cùng lên đây
+      - name: Checkout release
+        uses: actions/checkout@v4
+        with:
+          ref: release
+          path: release_repo
+
+      # 4. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 5. Cài đặt thư viện bổ trợ
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f main_repo/requirements.txt ]; then 
+            pip install -r main_repo/requirements.txt
+          else
+            pip install pygit2 blake3 cffi
+          fi
+
+      # 6. THỰC HIỆN MERGE THÔNG MINH BẰNG PYTHON
+      # Lấy dữ liệu VN dịch (main_repo) gộp đè vào khung EN (hachimi-tl-en) để giữ file chuẩn
       - name: Merge missing keys from EN
         run: |
-          python quick_merge.py localized_data hachimi-tl-en/localized_data
+          # Chạy script: giữ text dịch từ main_repo, bổ sung key từ hachimi-tl-en
+          python main_repo/quick_merge.py main_repo/localized_data hachimi-tl-en/localized_data
+          
+          echo "=== Làm sạch và chuyển dữ liệu hoàn chỉnh sang thư mục release ==="
+          rm -rf release_repo/localized_data
+          mkdir -p release_repo/localized_data
+          
+          # Đưa dữ liệu sau khi gộp hoàn chỉnh sang release
+          cp -r main_repo/localized_data/. release_repo/localized_data/
+          
+          # Dọn dẹp bộ nhớ tạm
           rm -rf hachimi-tl-en
 
+      # 7. CHỈ GENERATE INDEX KHI DỮ LIỆU ĐÃ SẠCH 100%
       - name: Create index
-        run: python gen_index.py
+        run: |
+          cp main_repo/gen_index.py release_repo/
+          cd release_repo
+          python gen_index.py
+          rm -f gen_index.py
 
+      # 8. Commit kết quả trực tiếp lên nhánh release
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync release: Merge main and update index"
+          commit_message: "Sync release: Smart merge from main and EN base"
           branch: release
-
-      - name: Send update
-        if: ${{ vars.NOTIFY_REPO }}
-        run: |
-          curl -L -X POST \
-          -H "Accept: application/vnd.github+json" \
-          -H "Authorization: Bearer ${{ secrets.UPD_TOKEN }}" \
-          -H "X-GitHub-Api-Version: 2026-03-10" \
-          https://api.github.com/repos/${{ github.repository_owner }}/${{ vars.NOTIFY_REPO }}/actions/workflows/release.yml/dispatches \
-          -d '{"ref":"main"}'
+          repository: release_repo
