@@ -4,6 +4,31 @@
   },
   "data": {
     "motion_parameter_list": {
+      "4": {
+        "text_param_list": {
+          "0": {
+            "position_offset": {
+              "x": 3.025,
+              "y": -0.025,
+              "z": 0
+            }
+          }
+        }
+      },
+      "6": {
+        "text_param_list": {
+          "0": {
+            "text": "left"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "Turns"
+          }
+        }
+      },
       "12": {
         "text_param_list": {
           "0": {
@@ -45,31 +70,6 @@
         "text_param_list": {
           "0": {
             "text": "U.A.F. Match:"
-          }
-        }
-      },
-      "4": {
-        "text_param_list": {
-          "0": {
-            "position_offset": {
-              "x": 3.025,
-              "y": -0.025,
-              "z": 0
-            }
-          }
-        }
-      },
-      "6": {
-        "text_param_list": {
-          "0": {
-            "text": "left"
-          }
-        }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "text": "Turns"
           }
         }
       }
