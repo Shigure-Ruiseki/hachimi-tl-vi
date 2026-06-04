@@ -21817,11 +21817,6 @@
       "path": "race_jikkyo_message_dict.json",
       "hash": "a7daecd94408bc4318b2217d07ed2db1887499a5171e4f3c5cb06fa3238d6a11",
       "size": 257684
-    },
-    {
-      "path": "text_data_dict.json",
-      "hash": "70d482982d6d03b39697c5d93496dbda5919bd236c78e61472ee625d8db1aa6a",
-      "size": 3802315
     }
   ]
 }
