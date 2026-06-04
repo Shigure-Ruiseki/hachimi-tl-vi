@@ -122,7 +122,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Merge changes (with Custom Textures)
+          commit_message: Merge changes
           branch: release
           file_pattern: 'localized_data/*'
 
