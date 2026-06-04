@@ -56,6 +56,10 @@ jobs:
             localized_data \
             hachimi-tl-en/localized_data
 
+      - name: Cleanup
+        run: |
+          rm -rf hachimi-tl-en
+
       - name: Create index
         run: |
           python gen_index.py
