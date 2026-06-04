@@ -2,17 +2,17 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "For some reason, when I pushed the button for coffee, \na sweet-looking drink came out of the vending machine.",
       "choice_data_list": [
         "(Would this be considered marvelous……?)"
-      ],
-      "text": "For some reason, when I pushed the button for coffee, \na sweet-looking drink came out of the vending machine."
+      ]
     },
     {
+      "text": "Because of work, I was eating lunch later than usual. \nBut luckily, I was still able to get the usual.",
       "choice_data_list": [
         "(Marvelous! No, wait, which is it!?)",
         "(Marvelous! No, wait, which is it!?)"
-      ],
-      "text": "Because of work, I was eating lunch later than usual. \nBut luckily, I was still able to get the usual."
+      ]
     },
     {
       "text": "It had been a while since that really rainy day. The only thing I \ncould think of was trying to figure out what 『Marvelous』 meant――"
@@ -27,11 +27,11 @@
       "text": "At this rate, my everday life would be destroyed \nby marvelous. Or was it already too late? I mean, \nit seemed like I could hear it right now――"
     },
     {
+      "name": "???",
+      "text": "Marvelous☆★☆",
       "choice_data_list": [
         "Uwaaah!!!!"
-      ],
-      "name": "???",
-      "text": "Marvelous☆★☆"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -63,12 +63,12 @@
       "text": "Nature~! Laurel~! Ahahahaa, Marvelous!"
     },
     {
+      "name": "Nice Nature",
+      "text": "C'mon, you're late……wait, huh? Aren't you that trainer from \nbefore? Ahaha, she caught you, huh? Good work~, I guess.",
       "choice_data_list": [
         "You're……",
         "You're……"
-      ],
-      "name": "Nice Nature",
-      "text": "C'mon, you're late……wait, huh? Aren't you that trainer from \nbefore? Ahaha, she caught you, huh? Good work~, I guess."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -103,11 +103,11 @@
       "text": "I was looking forward to parallel training but…… Hmmmmm~? Marve-chan, \nare you hiding something from us? Like you're feeling off or――"
     },
     {
+      "name": "Marvelous Sunday",
+      "text": "Not a bit~! Today, I'm very Marvelous☆ too, you know. If I can run \nwith Laurel and Nature, it'll be mooore~ Marvelous★",
       "choice_data_list": [
         "But, your hands were really warm……?"
-      ],
-      "name": "Marvelous Sunday",
-      "text": "Not a bit~! Today, I'm very Marvelous☆ too, you know. If I can run \nwith Laurel and Nature, it'll be mooore~ Marvelous★"
+      ]
     },
     {
       "text": "When I mentioned that to Sakura Laurel and Nice Nature, \nit seemed like their expressions clouded a bit."
@@ -125,12 +125,12 @@
       "text": "Geez, I'm glad we realized it was a slight fever. \nIf she did training like that, it would definitely get worse."
     },
     {
+      "name": "Sakura Laurel",
+      "text": "Trainer-san too, thanks for coming with us. \nMarve-chan's always pushing herself like that.",
       "choice_data_list": [
         "So this happens often?",
         "So this happens often?"
-      ],
-      "name": "Sakura Laurel",
-      "text": "Trainer-san too, thanks for coming with us. \nMarve-chan's always pushing herself like that."
+      ]
     },
     {
       "name": "Sakura Laurel",
@@ -158,10 +158,10 @@
       "text": "I was captivated by her cheerful laugh while running, maybe that \nwas why I was so interested in the meaning of 『Marvelous』."
     },
     {
+      "text": "However, for her 『Marvelous』 seemed to have some kind of \nmeaning that made her pursue it to the detriment of her health.",
       "choice_data_list": [
         "(What could that marvelous be……?)"
-      ],
-      "text": "However, for her 『Marvelous』 seemed to have some kind of \nmeaning that made her pursue it to the detriment of her health."
+      ]
     },
     {
       "text": "I was confused by the large gap between her \nenergetic appearance whenever she said 『Marvelous!』 \nand her current state of laying passed out in bed."

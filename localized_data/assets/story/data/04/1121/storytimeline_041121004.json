@@ -17,11 +17,11 @@
       "text": "(Her own pace…… I know Believe-san very well. \nGoing at her own pace is the one thing that can't be underestimated)"
     },
     {
+      "name": "Durandal",
+      "text": "(As a Leader, her ability to consistently win is much \nlike the ability of a skilled craftsmen. Unless I \npress the attack, she won't crumble. Which means……)",
       "choice_data_list": [
         "Durandal! Just do it like usual!"
-      ],
-      "name": "Durandal",
-      "text": "(As a Leader, her ability to consistently win is much \nlike the ability of a skilled craftsmen. Unless I \npress the attack, she won't crumble. Which means……)"
+      ]
     },
     {
       "name": "Durandal",
@@ -74,10 +74,10 @@
       "text": "In that moment, there was a sense of despair. \nHer face clouded at the prospect of defeat."
     },
     {
+      "text": "I wanted to disperse those clouds. \nTo once again revive that spark of hope——!",
       "choice_data_list": [
         "Durandal, to victory!"
-      ],
-      "text": "I wanted to disperse those clouds. \nTo once again revive that spark of hope——!"
+      ]
     },
     {
       "name": "Durandal",
@@ -116,22 +116,22 @@
       "text": "With a single swing, I will dispel any uncertainty! \nThat is what it means to be a true knight! Haaaaaaaaaaa!"
     },
     {
+      "text": "——And the result. Durandal was the victor. There she stood, \nproud that she had accomplished what she set out to.",
       "choice_data_list": [
         "You didn't give up! That was awesome!",
         "You didn't give up! That was awesome!"
-      ],
-      "text": "——And the result. Durandal was the victor. There she stood, \nproud that she had accomplished what she set out to."
+      ]
     },
     {
       "name": "Durandal",
       "text": "Thank you very much, Trainer-dono. \nNo——"
     },
     {
+      "name": "Durandal",
+      "text": "My King. Your words inspired me. \nThe one I should offer my sword to is you.",
       "choice_data_list": [
         "……Durandal!"
-      ],
-      "name": "Durandal",
-      "text": "My King. Your words inspired me. \nThe one I should offer my sword to is you."
+      ]
     },
     {
       "name": "Durandal",
@@ -142,25 +142,25 @@
       "text": "Welcome. I had them reassemble the set \nused at the Fan Appreciation Festival."
     },
     {
+      "name": "Durandal",
+      "text": "I wanted to do this here, by all means. \n——The Accolades.",
       "choice_data_list": [
         "Accolade?"
-      ],
-      "name": "Durandal",
-      "text": "I wanted to do this here, by all means. \n——The Accolades."
+      ]
     },
     {
+      "name": "Durandal",
+      "text": "Yes. A ritual, after which I'll be your knight. \nWould you mind, Trainer-dono?",
       "choice_data_list": [
         "Yeah, of course. Gladly",
         "Yeah, of course. Gladly"
-      ],
-      "name": "Durandal",
-      "text": "Yes. A ritual, after which I'll be your knight. \nWould you mind, Trainer-dono?"
+      ]
     },
     {
+      "text": "And so the two of us decided to perform the \nritual that Durandal had always dreamed of.",
       "choice_data_list": [
         "『Durandal, come forth』"
-      ],
-      "text": "And so the two of us decided to perform the \nritual that Durandal had always dreamed of."
+      ]
     },
     {
       "text": "——Victory, glory, joy. May you become the protector \nof all, fulfilling your duties as an Uma Musume."
@@ -173,23 +173,23 @@
       "text": "I tapped the flat of my sword on Durandal's shoulder 3 times——"
     },
     {
+      "name": "Durandal",
+      "text": "Thank you very much, Trainer-dono. And now we are lord and retainer. \nThere is no one else with a capacity such as you.",
       "choice_data_list": [
         "You too, Durandal. You're awesome!"
-      ],
-      "name": "Durandal",
-      "text": "Thank you very much, Trainer-dono. And now we are lord and retainer. \nThere is no one else with a capacity such as you."
+      ]
     },
     {
       "name": "Durandal",
       "text": "Y-you think so……? \nI'm very honored……"
     },
     {
+      "name": "Durandal",
+      "text": "……Huh?",
       "choice_data_list": [
         "What's wrong……?",
         "What's wrong……?"
-      ],
-      "name": "Durandal",
-      "text": "……Huh?"
+      ]
     },
     {
       "name": "Durandal",
@@ -200,12 +200,12 @@
       "text": "(Just now I felt that I really wanted to serve this person. \nI thought it was because of their \"capacity\" as a King……)"
     },
     {
+      "name": "Durandal",
+      "text": "(Their limitless kindness, and bold decision-making. \nI thought I was drawn to that. But……)",
       "choice_data_list": [
         "Yeah, you look really respectable!",
         "Yeah, you look really respectable!"
-      ],
-      "name": "Durandal",
-      "text": "(Their limitless kindness, and bold decision-making. \nI thought I was drawn to that. But……)"
+      ]
     },
     {
       "name": "Durandal",
@@ -228,19 +228,19 @@
       "text": "(That's it. That's what it was…… This person will \npraise me more than anyone. For what I do. In that case——)"
     },
     {
+      "name": "Durandal",
+      "text": "My King. I'll do my best. \nI'll really do my best.",
       "choice_data_list": [
         "Eh, ah, yeah……"
-      ],
-      "name": "Durandal",
-      "text": "My King. I'll do my best. \nI'll really do my best."
+      ]
     },
     {
+      "name": "Durandal",
+      "text": "So look forward to it! I'll really do my best. \nSo when I do my best……I'll be looking forward to it!",
       "choice_data_list": [
         "Ah, oh, okay……",
         "Ah, oh, okay……"
-      ],
-      "name": "Durandal",
-      "text": "So look forward to it! I'll really do my best. \nSo when I do my best……I'll be looking forward to it!"
+      ]
     },
     {
       "text": "And so, Durandal became a knight serving me. A loyal and dignified \nknight, and——now it looked like she wanted something from me."

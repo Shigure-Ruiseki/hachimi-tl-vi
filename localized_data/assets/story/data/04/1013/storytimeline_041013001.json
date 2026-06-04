@@ -170,11 +170,11 @@
       "text": "Oh my, if it isn't the new promising trainer standing here!"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "After watching the Selection Race, did any \nof the competitors pique your interest?",
       "choice_data_list": [
         "I'm interested in Mejiro McQueen."
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "After watching the Selection Race, did any \nof the competitors pique your interest?"
+      ]
     },
     {
       "text": "The following day, I decided to go and meet Mejiro McQueen."

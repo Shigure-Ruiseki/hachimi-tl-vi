@@ -5,11 +5,11 @@
       "text": "The following morning as I sorted through paperwork…"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "Trainer-san, horrible news!! \nWe can't find Curren Chan-san anywhere…",
       "choice_data_list": [
         "Eh…!!"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "Trainer-san, horrible news!! \nWe can't find Curren Chan-san anywhere…"
+      ]
     },
     {
       "text": "Rumours of Curren Chan's dissappearance \nquickly spread amongst the students."
@@ -69,18 +69,18 @@
       "text": "Ehehe, you found me… I guess you really are the \nbest at finding me when I'm lost, huh, Onee-chan?"
     },
     {
+      "text": "I knew she left clues on her Umasta \npost so that I'd be able to find her.",
       "choice_data_list": [
         "We need to talk."
-      ],
-      "text": "I knew she left clues on her Umasta \npost so that I'd be able to find her."
+      ]
     },
     {
+      "name": "Curren Chan",
+      "text": "Okay, that's fine. But what about?",
       "choice_data_list": [
         "I want to learn more about you.",
         "I want to learn more about you."
-      ],
-      "name": "Curren Chan",
-      "text": "Okay, that's fine. But what about?"
+      ]
     },
     {
       "text": "The reason I wanted to learn more about \nher is because as of now I know nothing. \nAfter I said this Curren Chan smiled at me."
@@ -98,11 +98,11 @@
       "text": "But tell me, are you really prepared \nto learn everything about me?"
     },
     {
+      "text": "She looked at me in such a serious manner that I flinched. \nHowever, if I can't even meet her gaze, I'm not qualified to be \nher trainer. However, if I can't even meet her gaze, I'm not \nqualified to be her trainer.",
       "choice_data_list": [
         "Of course!",
         "Of course!"
-      ],
-      "text": "She looked at me in such a serious manner that I flinched. \nHowever, if I can't even meet her gaze, I'm not qualified to be \nher trainer. However, if I can't even meet her gaze, I'm not \nqualified to be her trainer."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -121,11 +121,11 @@
       "text": "Onii-san… I mean my real older brother would always tell me \nthat my cuteness had the power to make those around me happy."
     },
     {
+      "name": "Curren Chan",
+      "text": "So I decided that I'd live my life being \"cute\". \nI decided that when I was… around 3 years old maybe?",
       "choice_data_list": [
         "3 years old!?"
-      ],
-      "name": "Curren Chan",
-      "text": "So I decided that I'd live my life being \"cute\". \nI decided that when I was… around 3 years old maybe?"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -148,17 +148,17 @@
       "text": "I was happy to receive their praise, \nand they were happy because I was cute."
     },
     {
+      "name": "Curren Chan",
+      "text": "So I thought that I would continue \nto expand this cycle of happiness!",
       "choice_data_list": [
         "I see…"
-      ],
-      "name": "Curren Chan",
-      "text": "So I thought that I would continue \nto expand this cycle of happiness!"
+      ]
     },
     {
+      "text": "I had no idea that the concept of \"cuteness\" \nhad such a deep meaning for her.",
       "choice_data_list": [
         "So why'd you come to this academy?"
-      ],
-      "text": "I had no idea that the concept of \"cuteness\" \nhad such a deep meaning for her."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -193,11 +193,11 @@
       "text": "When you're cute you have to be perfect. \nIf you destroy everyone's dreams… \nyou're no longer cute."
     },
     {
+      "name": "Curren Chan",
+      "text": "I can't believe that I prepared so poorly that my horseshoe ended \nup falling off. It wasn't cute at all!! It wasn't cute at all!!",
       "choice_data_list": [
         "Curren…"
-      ],
-      "name": "Curren Chan",
-      "text": "I can't believe that I prepared so poorly that my horseshoe ended \nup falling off. It wasn't cute at all!! It wasn't cute at all!!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -213,11 +213,11 @@
       "text": "Her amazing racing ability is no exception. \nThere is no way that she could have gotten this good without \nworking herself to death, even when no one was around."
     },
     {
+      "text": "And all of this… for the sake of \"cuteness…\"",
       "choice_data_list": [
         "You must really hate losing…",
         "You must really hate losing…"
-      ],
-      "text": "And all of this… for the sake of \"cuteness…\""
+      ]
     },
     {
       "name": "Curren Chan",
@@ -231,17 +231,17 @@
       "text": "This was the first time that I saw her not as some alien, but as \na true Uma Musume. And that's when I realized that I truly \nrespected her way of life."
     },
     {
+      "text": "As her trainer, there are things I must do. \nI will help her reach the stage that she yearns for!",
       "choice_data_list": [
         "Let's train together",
         "Let's train together"
-      ],
-      "text": "As her trainer, there are things I must do. \nI will help her reach the stage that she yearns for!"
+      ]
     },
     {
+      "text": "With more training she will definitely regain the cuteness that \nshe had lost. In order to do that, I handed her back the horseshoe \nthat had come off.",
       "choice_data_list": [
         "I found this for you, Princess"
-      ],
-      "text": "With more training she will definitely regain the cuteness that \nshe had lost. In order to do that, I handed her back the horseshoe \nthat had come off."
+      ]
     },
     {
       "name": "Curren Chan",

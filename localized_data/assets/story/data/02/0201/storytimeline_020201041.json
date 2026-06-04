@@ -38,10 +38,10 @@
       "text": "Wah, you're right! I'm going to head back to my room! \nCesario, wait for me by the front gate~!!"
     },
     {
+      "text": "A New Year. Rhein Kraft and Cesario were now in \ntheir Classic year, and we had decided to go as a \ngroup for the first shrine visit of the new year, but――",
       "choice_data_list": [
         "(It's crowded like usual……!)"
-      ],
-      "text": "A New Year. Rhein Kraft and Cesario were now in \ntheir Classic year, and we had decided to go as a \ngroup for the first shrine visit of the new year, but――"
+      ]
     },
     {
       "name": "King Halo",
@@ -81,12 +81,12 @@
       "text": "(And now that we'd wrapped up our shrine visit, and since it \nwas the new year, I felt we should take it easy, however――)"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Ehehe……thanks for tagging along with our independent \ntraining! When I think about how this is the start \nof my classic year, I can't help but get restless.",
       "choice_data_list": [
         "I'm glad you're both so motivated",
         "I'm glad you're both so motivated"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Ehehe……thanks for tagging along with our independent \ntraining! When I think about how this is the start \nof my classic year, I can't help but get restless."
+      ]
     },
     {
       "name": "Cesario",
@@ -141,21 +141,21 @@
       "text": "It's still a far off dream, however…… \nsomeday, I'd like to be a part of that too."
     },
     {
+      "name": "Cesario",
+      "text": "To me, obtaining results in the Triple Tiara \nrotation was part of my dream since the beginning.",
       "choice_data_list": [
         "I see……",
         "I see……"
-      ],
-      "name": "Cesario",
-      "text": "To me, obtaining results in the Triple Tiara \nrotation was part of my dream since the beginning."
+      ]
     },
     {
       "text": "(What Cesario was speaking about was part of the history, \ntradition, and appeal of the Triple Tiara route)"
     },
     {
+      "text": "(There was nothing wrong with that――however. \nThere was still one thing I'd have to remind them of……)",
       "choice_data_list": [
         "Kraft, Cesario"
-      ],
-      "text": "(There was nothing wrong with that――however. \nThere was still one thing I'd have to remind them of……)"
+      ]
     },
     {
       "text": "Generally speaking, the Classic Triple Crown, \nthe 『Satsuki Sho』 『Japan Derby』 and 『Kikka Sho』 \n――honestly, they draw much more attention."
@@ -180,11 +180,11 @@
       "text": "……Um!!"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "But that's just――how it is 『now』 right?",
       "choice_data_list": [
         "!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "But that's just――how it is 『now』 right?"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -203,12 +203,12 @@
       "text": "And that's why I'm choosing the Triple Tiara \nrotation. And, I'll become strong enough that \nI won't lose against Triple Crown Uma Musume!"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "What kept me going……what gave me all of my \ninspiration, was those Triple Tiara senpais. \nSo I want to prove their merit, their strength!",
       "choice_data_list": [
         "……I see. Alright, I got it!",
         "……I see. Alright, I got it!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "What kept me going……what gave me all of my \ninspiration, was those Triple Tiara senpais. \nSo I want to prove their merit, their strength!"
+      ]
     },
     {
       "text": "Sorry for saying something so insensitive. I understand \nboth of your feelings. In your Classic year, the first \nmajor goal for both of you is to win the 『Oka Sho』!"

@@ -5,12 +5,12 @@
       "text": "(WAAAAAAAAAAAAAAAAAAH!)"
     },
     {
+      "name": "Copano Rickey",
+      "text": "Alright then, Trainer, I'll be off!",
       "choice_data_list": [
         "Yeah, do your best",
         "Yeah, do your best"
-      ],
-      "name": "Copano Rickey",
-      "text": "Alright then, Trainer, I'll be off!"
+      ]
     },
     {
       "name": "Experienced Trainer A",
@@ -92,12 +92,12 @@
       "text": "(It's just like Trainer predicted. So that's how it was, \nFeng Shui has better compatibility with dirt!)"
     },
     {
+      "name": "Hokko Tarumae",
+      "text": "Rickey, compared to before, she's so lively…… \nTrainer-san, what happened……?",
       "choice_data_list": [
         "The \"Sand\" is showing her",
         "The \"Sand\" is showing her"
-      ],
-      "name": "Hokko Tarumae",
-      "text": "Rickey, compared to before, she's so lively…… \nTrainer-san, what happened……?"
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -107,10 +107,10 @@
       "text": "―Feng Shui is not something mystical, it's more like the study of \nenvironmental fortune. If that's true, then understading the \nconditions and location are important."
     },
     {
+      "text": "What conveyed that the most vividly was the \"Sand\". Whether it \nwas the gravel on the grounds or the sand on the beach, dirt \ncould show the flow of qi.",
       "choice_data_list": [
         "Go, Rickey!!"
-      ],
-      "text": "What conveyed that the most vividly was the \"Sand\". Whether it \nwas the gravel on the grounds or the sand on the beach, dirt \ncould show the flow of qi."
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -155,12 +155,12 @@
       "text": "And with that, I want to spread the wonder of Feng Shui's power, \nand make all those that are down and lost happy, but―"
     },
     {
+      "name": "Copano Rickey",
+      "text": "Will you lend me your strength? As my trainer! \nThis time, you won't say No, right?",
       "choice_data_list": [
         "Yeah, of course!",
         "Yeah, of course!"
-      ],
-      "name": "Copano Rickey",
-      "text": "Will you lend me your strength? As my trainer! \nThis time, you won't say No, right?"
+      ]
     },
     {
       "name": "Copano Rickey",

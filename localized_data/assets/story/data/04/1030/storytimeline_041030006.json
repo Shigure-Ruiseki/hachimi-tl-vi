@@ -6,36 +6,36 @@
       "text": "Yaayyy～!! Yay, yaaay～!! Ehehehe…!"
     },
     {
+      "text": "On a free day, I happened to spot Rice Shower \nin town, seemingly in high spirits.",
       "choice_data_list": [
         "Hey, Rice! Did something good happen?",
         "Hey, Rice! Did something good happen?"
-      ],
-      "text": "On a free day, I happened to spot Rice Shower \nin town, seemingly in high spirits."
+      ]
     },
     {
+      "name": "Rice Shower",
+      "text": "Ah, big brother…! Ehehe, yeah! \nI have really exciting news to share～",
       "choice_data_list": [
         "Exciting news?"
-      ],
-      "name": "Rice Shower",
-      "text": "Ah, big brother…! Ehehe, yeah! \nI have really exciting news to share～"
+      ]
     },
     {
+      "name": "Rice Shower",
+      "text": "Ah, big sister…! Ehehe, yeah! \nI have really exciting news to share～",
       "choice_data_list": [
         "Exciting news?"
-      ],
-      "name": "Rice Shower",
-      "text": "Ah, big sister…! Ehehe, yeah! \nI have really exciting news to share～"
+      ]
     },
     {
       "name": "Rice Shower",
       "text": "You see… I bought a ticket to see the theatre \nperformance of \"The Blue Rose of Happiness\"!"
     },
     {
+      "text": "If I remember correctly, \"The Blue Rose of Happiness\" \nis Rice Shower's favorite picture book.",
       "choice_data_list": [
         "That's great! I'm so happy for you!",
         "That's great! I'm so happy for you!"
-      ],
-      "text": "If I remember correctly, \"The Blue Rose of Happiness\" \nis Rice Shower's favorite picture book."
+      ]
     },
     {
       "name": "Rice Shower",
@@ -100,11 +100,11 @@
       "text": "<i>Haa, haa…</i>… We finally found you…!"
     },
     {
+      "name": "Black Cat",
+      "text": "Meeoowww～!",
       "choice_data_list": [
         "Let's approach very quietly…!"
-      ],
-      "name": "Black Cat",
-      "text": "Meeoowww～!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -126,10 +126,10 @@
       "text": "Owieee… Big sister, are you okay?! \nWhat are two banana peels doing here of all places…?!"
     },
     {
+      "text": "I hurriedly stood up to scan the surroundings, but the black \ncat had already vanished. With no clues as to which direction \nit had fled, we were at a loss……",
       "choice_data_list": [
         "(What should we do…?)"
-      ],
-      "text": "I hurriedly stood up to scan the surroundings, but the black \ncat had already vanished. With no clues as to which direction \nit had fled, we were at a loss……"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -154,12 +154,12 @@
       "text": "… Meeowww～"
     },
     {
+      "name": "Rice Shower",
+      "text": "It's the black cat…! And it's still holding \nmy ticket in its mouth… Thank goodness!",
       "choice_data_list": [
         "All right, I'll get your ticket back this time!",
         "All right, I'll get your ticket back this time!"
-      ],
-      "name": "Rice Shower",
-      "text": "It's the black cat…! And it's still holding \nmy ticket in its mouth… Thank goodness!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -208,19 +208,19 @@
       "text": "Thank you, Mr. Black Cat…!"
     },
     {
+      "name": "Rice Shower",
+      "text": "I'm so glad it turned out fine… \nThank you so much for helping me, big brother!",
       "choice_data_list": [
         "<size=34>Good job doing your best without giving up, Rice!</size>"
-      ],
-      "name": "Rice Shower",
-      "text": "I'm so glad it turned out fine… \nThank you so much for helping me, big brother!"
+      ]
     },
     {
+      "name": "Rice Shower",
+      "text": "I'm so glad it turned out fine… \nThank you so much for helping me, big sister!",
       "choice_data_list": [
         "<size=34>Good job doing your best without giving up, Rice!</size>",
         "<size=34>Good job doing your best without giving up, Rice!</size>"
-      ],
-      "name": "Rice Shower",
-      "text": "I'm so glad it turned out fine… \nThank you so much for helping me, big sister!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -247,12 +247,12 @@
       "text": "So, big sister, there's something I want to give you…"
     },
     {
+      "name": "Rice Shower",
+      "text": "—— Please accept this ticket!!",
       "choice_data_list": [
         "Huh, for me?!",
         "Huh, for me?!"
-      ],
-      "name": "Rice Shower",
-      "text": "—— Please accept this ticket!!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -263,23 +263,23 @@
       "text": "Um, this ticket is actually… for two people. \nI wanted to use the ticket with you as \na present, to thank you for everything."
     },
     {
+      "name": "Rice Shower",
+      "text": "W-Would you like to come with me to see \nthe play? Or am I asking for too much… \nAh, of course… who do I think I am……",
       "choice_data_list": [
         "Not at all! I'd be happy to go with you!",
         "Not at all! I'd be happy to go with you!"
-      ],
-      "name": "Rice Shower",
-      "text": "W-Would you like to come with me to see \nthe play? Or am I asking for too much… \nAh, of course… who do I think I am……"
+      ]
     },
     {
       "name": "Rice Shower",
       "text": "R-Really?! \nI'm so glad…!!"
     },
     {
+      "text": "However, when I checked the dates for the performance…",
       "choice_data_list": [
         "The performance is today?!",
         "The performance is today?!"
-      ],
-      "text": "However, when I checked the dates for the performance…"
+      ]
     },
     {
       "name": "Rice Shower",

@@ -1,241 +1,241 @@
 {
   "text_block_list": [
     {
-      "name": "Mid-level Trainer",
-      "text": "What a run… she might be someone who can aim for the top…!\n"
+      "name": "Trainer trung cấp",
+      "text": "Chạy tốt lắm... cô bé này có khi sẽ vươn tới đỉnh cao thật đấy...!"
     },
     {
       "name": "Loves Only You",
-      "text": "<i>Huff... Huff... Huff... Huff...!</i>"
+      "text": "<i>Hộc... hộc... hộc... hộc...!</i>"
     },
     {
       "name": "Loves Only You",
-      "text": "<i>Hah... whew...!</i>"
+      "text": "<i>Hà... phù...!</i>"
     },
     {
       "choice_data_list": [
-        "<size=34>(As I thought, her skill is head and shoulders above the rest…)</size>"
+        "<size=38>(Quả nhiên, thực lực của cô ấy vượt xa mọi người...)</size>"
       ],
       "name": "Loves Only You",
-      "text": "Phew…! Mm-hmm, today might be turning out pretty good?"
+      "text": "Phù...! Ưm, hôm nay có vẻ khá ổn nhỉ?"
     },
     {
-      "name": "Mid-level Trainer",
-      "text": "Excellent work! Your sustained speed is especially impressive! Why don’t you let me help bring out that talent?\n"
+      "name": "Trainer trung cấp",
+      "text": "Làm tốt lắm! Đặc biệt là khả năng duy trì tốc độ của em rất ấn tượng. Với tài năng đó, em có muốn cùng tôi phát huy tối đa không?"
     },
     {
-      "name": "Monologue",
-      "text": "I’ve seen her get scouted like that plenty of times already. Even from my perspective as a rookie, it wouldn’t be strange if she already had someone in charge.\n"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "—So, I was scouted, but… I decided to turn it down this time.\n"
+      "name": "Độc thoại",
+      "text": "Tôi đã chứng kiến cảnh cô ấy được chiêu mộ như thế nhiều lần rồi. Dưới góc nhìn của một tân binh như tôi, chuyện cô ấy đã có trainer riêng cũng chẳng có gì lạ cả."
     },
     {
       "name": "Loves Only You",
-      "text": "[ You’ll definitely find a good trainer! ] …Mm-hm, thanks ♡ Finding the right person really comes down to timing and chance.\n"
+      "text": "—Chuyện là vậy đó, em có được mời chào… nhưng lần này em quyết định từ chối."
     },
     {
       "name": "Loves Only You",
-      "text": "It's like staking your entire career on that person, you know? It's such an important decision, so I don’t want to make a decision half-heartedly.\n"
+      "text": "『Chắc chắn cậu sẽ tìm được một người hướng dẫn tuyệt vời thôi!』... Ừm, cảm ơn nhé♡ Chuyện này ấy mà, quan trọng vẫn là do duyên số cả thôi."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Vì đó là đặt cược cả sự nghiệp của mình vào người ta mà, đúng không? Đây là chuyện hệ trọng, nên em không muốn quyết định một cách qua loa đâu."
     },
     {
       "choice_data_list": [
-        " <size=29>If she’s aiming to debut this year, she should be making a decision soon.</size>"
-      ],
-      "name": "Hard Worker@Overseas Posting",
-      "text": "At Tracen Academy, you can’t debut without a trainer, right? Is Loves-chan gonna be okay? Like, about her debut timing and stuff?”\n"
-    },
-    {
-      "choice_data_list": [
-        " N-no, I only heard that somewhere…!"
+        "<size=28>Nếu muốn kịp debut trong năm nay thì cô ấy nên sớm quyết định thôi.</size>"
       ],
       "name": "Hard Worker@Overseas Posting",
-      "text": "Oh, really! Wait, Bridge-san, are you actually pretty knowledgeable about this stuff?\n"
-    },
-    {
-      "name": "Monologue",
-      "text": "I quickly tried to cover it up. If my identity were exposed, keeping things as they are would probably be impossible. I need to be careful.\n"
-    },
-    {
-      "name": "Monologue",
-      "text": "The next day. As I passed by the cafeteria, I spotted a familiar figure once again.\n"
+      "text": "『Ở Học viện Tracen, không có trainer thì không được debut đúng không nhỉ? Loves-chan ổn chứ? Ý tớ là về thời điểm debut ấy...』"
     },
     {
       "choice_data_list": [
-        "<size=42>(That person has also handled GI Umamusumes…)</size>"
+        "<size=40>L-làm gì có, tớ chỉ tình cờ nghe được thôi mà...!</size>"
       ],
-      "name": "Loves Only You",
-      "text": "Hehe, to be approached by such a seasoned veteran is truly an honor."
+      "name": "Hard Worker@Overseas Posting",
+      "text": "『Thật sao! Mà khoan đã,\"Bridge-san\", cậu rành chuyện này ghê nhỉ?』"
+    },
+    {
+      "name": "Độc thoại",
+      "text": "Tôi cuống quýt chữa lời. Nếu để lộ danh tính thật, mối quan hệ hiện tại chắc chắn sẽ khó mà giữ vững. Mình phải cảnh giác hơn thôi."
+    },
+    {
+      "name": "Độc thoại",
+      "text": "Ngày hôm sau. Lúc tình cờ đi ngang qua khu vực căn tin, tôi lại thấy bóng hình quen thuộc đó một lần nữa."
     },
     {
       "choice_data_list": [
-        " (It’s decided. I can’t find a reason to refuse.)"
+        "<size=30>(Người đó... từng dẫn dắt cả những Umamusume vô địch G1...)</size>"
       ],
-      "name": "Veteran Trainer",
-      "text": "I can take you to the heights you’re aiming for. Why not put that talent to work in the graded stakes… no, on the GI stage itself?\n"
-    },
-    {
       "name": "Loves Only You",
-      "text": "―I turned it down ♡"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "[ Do you have that strong of a reason? ] you’d say? Hmm… well, that’s true. Getting scouted by a GI trainer, anyone would normally leap at the chance.\n"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Considering the trainer’s track record, I know this is definitely an offer I should accept. But—\n"
-    },
-    {
-      "name": "Veteran Trainer",
-      "text": "Sorry, but I’d like you to shut down this so-called fan community. ―That’s the condition of the contract.\n"
-    },
-    {
-      "name": "Veteran Trainer",
-      "text": "Needless hassle or trouble can wear you down mentally and even cause injuries. If you think about priorities as an athlete, you should be able to understand.\n"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "…I understand what you are saying. But… for me, it’s different. You might not understand, though.\n"
+      "text": "Hehe, được một tiền bối giàu kinh nghiệm như người ngỏ lời, quả thực là vinh hạnh của em."
     },
     {
       "choice_data_list": [
-        "…Aren’t you scared?"
+        "<size=40>(Thế là rõ rồi. Chẳng có cớ gì để từ chối cả.)</size>"
       ],
-      "name": "Loves Only You",
-      "text": "―[ You don’t need excessive fan interaction to get stronger. ] The ones I’ve turned down before more or less thought the same way.\n"
+      "name": "Trainer kỳ cựu",
+      "text": "Tôi sẽ đưa em tới đỉnh vinh quang. Hãy để tài năng đó được chứng minh tại các giải lớn... không, là tại chính giải G1!"
     },
     {
       "name": "Loves Only You",
-      "text": "... [ ...Aren’t you scared? ] ..."
+      "text": "—Em từ chối mất rồi♡"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "『Cậu có lý do gì đặc biệt à?』... Ừm, đúng thật. Nhận được lời mời từ Trainer G1 thì ai cũng sẽ gật đầu cái rụp thôi nhỉ."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Nếu chỉ xét về thành tích thì đúng là em nên nhận lời. Nhưng—"
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Xin lỗi, nhưng tôi muốn em đóng cái gọi là 'cộng đồng commumem' gì đó đi. —Đó là điều kiện ký hợp đồng của tôi."
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Những phiền nhiễu vô ích sẽ gây kiệt sức và thậm chí dẫn đến chấn thương. Hãy đặt tư cách vận động viên lên ưu tiên hàng đầu, em thừa hiểu tại sao tôi lại yêu cầu như vậy."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Em hiểu. Nhưng mà... đối với em, nó lại là chuyện khác. Có lẽ trainer sẽ không hiểu được đâu."
     },
     {
       "choice_data_list": [
-        "<size=30>What if you weren’t discovered by someone who truly understands you</size>"
+        "…Em không thấy sợ à?"
       ],
-      "name": "Monologue",
-      "text": "Before I knew it, I had posted such a question. I couldn’t help but ask.\n"
+      "name": "Loves Only You",
+      "text": "—'Chẳng cần phải tương tác quá mức với người hâm mộ để mạnh lên làm gì'. Những người em đã từ chối cũng đều có quan điểm tương tự như vậy đấy."
     },
     {
       "name": "Loves Only You",
-      "text": "[ What if you weren’t discovered by someone who truly understands you ] ...huh\n"
+      "text": "... [ …Em không thấy sợ à? ] ..."
+    },
+    {
+      "choice_data_list": [
+        "<size=28>Nếu em không được tìm thấy bởi một người thực sự hiểu em thì sao?</size>"
+      ],
+      "name": "Độc thoại",
+      "text": "Trước khi kịp nhận ra, tôi đã gửi đi câu hỏi mà bản thân không sao kìm lòng được."
     },
     {
       "name": "Loves Only You",
-      "text": "…Hehe ♪ That question might not even matter anymore. I haven't thought about it. A path where I can’t walk with everyone.\n"
+      "text": "『Nếu em không được tìm thấy bởi một người thực sự hiểu em thì sao?』... Phải nhỉ."
     },
     {
-      "name": "Monologue",
-      "text": "Some time has passed since then.\n"
+      "name": "Loves Only You",
+      "text": "…Hehe ♪ Câu hỏi đó có lẽ chẳng còn ý nghĩa gì nữa rồi. Vì em chưa bao giờ nghĩ đến chuyện đó cả. Một con đường mà em không thể bước đi cùng với mọi người."
     },
     {
-      "name": "Monologue",
-      "text": "Loves Only You still doesn’t have a trainer.\n"
+      "name": "Độc thoại",
+      "text": "Đã một thời gian trôi qua kể từ lúc đó."
+    },
+    {
+      "name": "Độc thoại",
+      "text": "Loves Only You vẫn chưa có trainer nào cả."
     },
     {
       "name": "Middle-aged Lifter",
-      "text": "Aren’t we taking away your opportunities?"
+      "text": "『Phải chăng chúng tớ đang tước đi những cơ hội của cậu?』"
     },
     {
       "name": "Loves Only You",
-      "text": "Saying you’re taking away my opportunities? That’s not true at all. I'm making sure to set aside time for training, too.\n"
+      "text": "Đừng nói là 'tước đi cơ hội' nữa, chẳng có chuyện đó đâu. Thời gian tập luyện em vẫn đang đảm bảo rất tốt mà."
     },
     {
       "name": "Loves Only You",
-      "text": "[ But if streaming ends up becoming a burden on your contract ] ...?\n"
+      "text": "—『Nhưng nếu việc livestream lại trở thành rào cản cho hợp đồng của cậu thì sao』……?"
     },
     {
       "choice_data_list": [
-        "...!?"
+        "…Hả!?"
       ],
       "name": "Middle-aged Lifter",
-      "text": "[ I don’t mind if I only watch from afar ]\n"
+      "text": "『Tôi không bận tâm nếu chỉ có thể dõi theo cậu từ xa đâu.』"
     },
     {
       "name": "Loves Only You",
-      "text": "『Just watching from afar』…you mean?"
+      "text": "『Chỉ dõi theo từ xa』… ý anh là sao…?"
     },
     {
       "name": "Loves Only You",
-      "text": "[ If the reason you can’t find a trainer is because of us ]"
+      "text": "―『Nếu lý do cậu không thể tìm được trainer là vì chúng tôi』―"
     },
     {
       "name": "Loves Only You",
-      "text": "…Hehe, really. You really don’t need to worry about that.\n"
+      "text": "…Hehe, thật là. Anh không cần phải lo lắng về chuyện đó đâu mà."
     },
     {
       "name": "Loves Only You",
-      "text": "There are still plenty of trainers at Tracen Academy. It’s just that I had some differences in opinion with a few people.\n"
+      "text": "Ở Học viện Tracen vẫn còn rất nhiều trainer mà. Chỉ là em có chút bất đồng quan điểm với vài người trong số họ thôi."
     },
     {
       "name": "Loves Only You",
-      "text": "...Say. Does anyone remember the story about when I was little?\n"
+      "text": "…Mà này. Không biết có ai… còn nhớ về chuyện hồi bé của em không nhỉ?"
     },
     {
       "name": "Caster",
-      "text": "Alright! Today’s special event! The winner of today’s kids’ race is Loves Only You-chan!\n"
+      "text": "Được rồi! Sự kiện đặc biệt hôm nay đã tìm ra chủ nhân! Người giành chiến thắng trong cuộc đua trẻ em chính là Loves Only You-chan!"
     },
     {
-      "name": "Young Loves",
-      "text": "Yay~! Papa~! Mommy~! Did you see~!?\n"
+      "name": "Loves thuở nhỏ",
+      "text": "Yay~! Bố ơi~! Mẹ ơi~! Bố mẹ có thấy con không~?"
     },
     {
-      "name": "Loves’ Mother",
-      "text": "Hehe, yes, congratulations on your victory ♪ Mommy is so happy, Loves ♪\n"
+      "name": "Mẹ của Loves",
+      "text": "Hì hì, đúng vậy, chúc mừng con yêu đã giành chiến thắng♪ Mẹ hạnh phúc lắm, Loves của mẹ ♪"
     },
     {
-      "name": "Loves’ Father",
-      "text": "Honey, look at Loves’ smile! Ahh, I wish more people could see this smile…!\n"
+      "name": "Bố của Loves",
+      "text": "Em xem này, nhìn nụ cười của con bé kìa! Ước gì có thể cho nhiều người hơn nữa thấy được nụ cười rạng rỡ đó…"
     },
     {
-      "name": "Loves’ Father",
-      "text": "Look, Loves. This is the streaming you said you wanted to try. Look at the camera here and try saying hello.\n"
+      "name": "Bố của Loves",
+      "text": "Đến đây nào, Loves. Đây là việc phát sóng mà con vẫn mong được thử đấy. Con nhìn vào ống kính này rồi thử nói 'Xin chào' đi con?"
     },
     {
-      "name": "Young Loves",
-      "text": "H-h-hello?"
+      "name": "Loves thuở nhỏ",
+      "text": "X… xin… chào… ạ?"
     },
     {
-      "name": "Passionate teacher",
-      "text": "[ Hello! ]"
+      "name": "Nekketsu-sensei",
+      "text": "[ Xin chào! ]"
     },
     {
-      "name": "Young Loves",
-      "text": "Hwah!? Papa! Look, it popped up here with Hello!"
+      "name": "Loves thuở nhỏ",
+      "text": "Hwah!? Papa! Có chữ 『Xin chào!』 hiện lên ở đây này!"
     },
     {
       "name": "3-Day Type Girl",
-      "text": "You’re so small and cute, but wow, you’re really fast! That race just made me your fan!\n"
+      "text": "『Nhìn em nhỏ mà xinh thế kia, không ngờ chạy nhanh thật đấy! Chị vừa xem cuộc đua xong là thành fan của em luôn rồi!』"
     },
     {
-      "name": "Young Loves",
+      "name": "Loves thuở nhỏ",
       "text": "Fan…?"
     },
     {
-      "name": "Loves’ Father",
-      "text": "Ahaha, it means people who really like you, Loves!"
+      "name": "Bố của Loves",
+      "text": "Hahaha, ý của người ta là họ rất 'yêu quý' con đó, Loves à!"
     },
     {
-      "name": "Young Loves",
-      "text": "Wow…!"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "[ Loves-chan was so small back then ]..."
+      "name": "Loves thuở nhỏ",
+      "text": "Oa…!"
     },
     {
       "name": "Loves Only You",
-      "text": "Hehe, that's right. This brings back memories. …This place is special to me. It’s where I first met all of you.\n"
+      "text": "『Hồi đó, Loves-chan trông nhỏ nhắn quá chừng』…"
     },
     {
       "name": "Loves Only You",
-      "text": "And more than anything... "
+      "text": "Hì hì, đúng thật nhỉ. Hoài niệm quá. ……Với em, đây là một nơi vô cùng đặc biệt. Là nơi lần đầu tiên em được gặp gỡ tất cả mọi người."
     },
     {
       "name": "Loves Only You",
-      "text": "This is the place where I found my own love. A love that belongs only to me.\n"
+      "text": "Và hơn hết thảy——"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Đây là nơi mà em đã tìm thấy \"tình yêu\" của riêng mình."
     }
   ],
-  "title": "Each person's \"Love\""
+  "title": "\"Tình yêu\" của mỗi người"
 }

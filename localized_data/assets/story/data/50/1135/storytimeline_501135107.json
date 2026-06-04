@@ -37,11 +37,11 @@
       "text": "My oath to forever support you is contained \nwithin these chocolates! Please……!"
     },
     {
+      "name": "Dream Journey",
+      "text": "Yes, please direct all gifts to Big Sis into the \nbox. You may leave all correspondence to me.",
       "color_text_info_list": [
         "Big Sis"
-      ],
-      "name": "Dream Journey",
-      "text": "Yes, please direct all gifts to Big Sis into the \nbox. You may leave all correspondence to me."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -62,25 +62,25 @@
       "text": "Yet on this very day I ——"
     },
     {
+      "name": "Stay Gold",
+      "text": "Aaand there we go. \nThe soil should be just about ready now.",
       "choice_data_list": [
         "Why are you out here levelling the soil…"
-      ],
-      "name": "Stay Gold",
-      "text": "Aaand there we go. \nThe soil should be just about ready now."
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "Well, the soil froze over during winter. \nYou gotta prepare the soil like this first.",
       "choice_data_list": [
         "No not that, why today of all days…?"
-      ],
-      "name": "Stay Gold",
-      "text": "Well, the soil froze over during winter. \nYou gotta prepare the soil like this first."
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "Well, it's only meaningful because it's done \ntoday. Ceremonies have certain conditions \nyou need to fulfill first!",
       "choice_data_list": [
         "Yeah, so then what's all this!?"
-      ],
-      "name": "Stay Gold",
-      "text": "Well, it's only meaningful because it's done \ntoday. Ceremonies have certain conditions \nyou need to fulfill first!"
+      ]
     },
     {
       "text": "I paused her for a moment to find out what \nshe was doing, and it seems that there was a \ncertain ritual she wanted to try out after \nhearing about it on one of her journeys."
@@ -90,23 +90,23 @@
       "text": "It's a special ritual carried out on the 14th \nof February, and it seems that it's for couples \nto wish for blessings for a journey ahead."
     },
     {
+      "name": "Stay Gold",
+      "text": "We're both comrades on our continuing \njourney right? Not a bad idea to give this \na go then.",
       "choice_data_list": [
         "…Blessings for a journey …Sounds good"
-      ],
-      "name": "Stay Gold",
-      "text": "We're both comrades on our continuing \njourney right? Not a bad idea to give this \na go then."
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "Right? I knew you'd say something like that!"
     },
     {
+      "name": "Stay Gold",
+      "text": "Alright, the soil is level now. Let's begin.",
       "choice_data_list": [
         "What are the steps for this ritual?",
         "What are the steps for this ritual?"
-      ],
-      "name": "Stay Gold",
-      "text": "Alright, the soil is level now. Let's begin."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -129,41 +129,41 @@
       "text": "……<i>Hmm</i>, I guess I'll start by wishing for a \nsafe journey ahead."
     },
     {
+      "text": "I copied Stay Gold's movements, struck the \nwedge and voiced a wish for our journey.",
       "choice_data_list": [
         "For you to enter many thrilling races",
         "For you to enter many thrilling races"
-      ],
-      "text": "I copied Stay Gold's movements, struck the \nwedge and voiced a wish for our journey."
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "That and ——journeys, y'know, they have to \nbe fun.",
       "choice_data_list": [
         "For you to enjoy this journey freely",
         "For you to enjoy this journey freely"
-      ],
-      "name": "Stay Gold",
-      "text": "That and ——journeys, y'know, they have to \nbe fun."
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "——Say, you're not making any wishes for \nyourself are you?"
     },
     {
+      "text": "Her comment made me only just realize it, \nbut it's true. My wishes for her journey to \nbecome even better… It comes directly \nfrom the bottom of my heart.",
       "choice_data_list": [
         "I'm properly voicing my own wishes"
-      ],
-      "text": "Her comment made me only just realize it, \nbut it's true. My wishes for her journey to \nbecome even better… It comes directly \nfrom the bottom of my heart."
+      ]
     },
     {
+      "text": "Repositioning myself to hit the wedge again, \nI announce my wish, \"To follow you along \nyour Golden Journey…\"",
       "choice_data_list": [
         "$(scale 95)and, to forever watch over you by your side"
-      ],
-      "text": "Repositioning myself to hit the wedge again, \nI announce my wish, \"To follow you along \nyour Golden Journey…\""
+      ]
     },
     {
+      "text": "Repositioning myself to hit the wedge again, \nI announce my wish, \"To follow you along \nyour Golden Journey…\"",
       "choice_data_list": [
         "$(scale 95)and, to forever watch over you by your side"
-      ],
-      "text": "Repositioning myself to hit the wedge again, \nI announce my wish, \"To follow you along \nyour Golden Journey…\""
+      ]
     },
     {
       "name": "Stay Gold",
@@ -178,12 +178,12 @@
       "text": "Now that we've made a wedge circle in the \nsoil, we can now pick the seed we're going \nto plant."
     },
     {
+      "name": "Stay Gold",
+      "text": "Before long, the roots will grow strong, the \nleaves will flourish and the wishes upon the \nwedges will be granted. The tree will watch \nover our journey.",
       "choice_data_list": [
         "It's amazing… What seed are we picking?",
         "It's wonderful… What are we growing?"
-      ],
-      "name": "Stay Gold",
-      "text": "Before long, the roots will grow strong, the \nleaves will flourish and the wishes upon the \nwedges will be granted. The tree will watch \nover our journey."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -198,28 +198,28 @@
       "text": "We sow the seeds and cover them with soil."
     },
     {
+      "name": "Stay Gold",
+      "text": "<i>Heheh</i>, working together like this is the best.",
       "choice_data_list": [
         "You're right… Or perhaps"
-      ],
-      "name": "Stay Gold",
-      "text": "<i>Heheh</i>, working together like this is the best."
+      ]
     },
     {
+      "text": "A ritual where we express our wishes \ntogether for our endless journey, \nsomething about this is……",
       "choice_data_list": [
         "(Greater than a wish, it's moreso a prayer)"
-      ],
-      "text": "A ritual where we express our wishes \ntogether for our endless journey, \nsomething about this is……"
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "Alright, since we covered the top with loose \nleaves, there should be no worries with frost."
     },
     {
+      "name": "Stay Gold",
+      "text": "<i>Hm</i>? You alright, Trainer?",
       "choice_data_list": [
         "No, it's nothing at all"
-      ],
-      "name": "Stay Gold",
-      "text": "<i>Hm</i>? You alright, Trainer?"
+      ]
     },
     {
       "text": "We completed the ritual, and we can \ncheck the seeds again another time."
@@ -232,40 +232,40 @@
       "text": "Is there anyone with chocolate～～! \nTrick or Choco～～!"
     },
     {
+      "name": "Stay Gold",
+      "text": "Oh, what's happening, Golshi. \nA Valentine's and Halloween double pincer?",
       "color_text_info_list": [
         "Golshi"
-      ],
-      "name": "Stay Gold",
-      "text": "Oh, what's happening, Golshi. \nA Valentine's and Halloween double pincer?"
+      ]
     },
     {
       "name": "Gold Ship",
       "text": "You betterrr give me chocolate～～ \nOtherwise its a tuna fishing rendezvous with \nme on my Golden Valentine Vessel～"
     },
     {
+      "name": "Gold Ship",
+      "text": "C'mon, c'mon Stego～? \nTrick orーー",
       "choice_data_list": [
         "H-H-Have this!"
-      ],
-      "name": "Gold Ship",
-      "text": "C'mon, c'mon Stego～? \nTrick orーー"
+      ]
     },
     {
+      "text": "I opened the bag of chocolates I had \non me and handed one to Gold Ship.",
       "color_text_info_list": [
         "Gold Ship"
-      ],
-      "text": "I opened the bag of chocolates I had \non me and handed one to Gold Ship."
+      ]
     },
     {
       "name": "Gold Ship",
       "text": "Ohhhhhh! Bite-sized chocolate!"
     },
     {
+      "name": "Stay Gold",
+      "text": "Hey now, you had chocolates on you \nall this time?",
       "choice_data_list": [
         "Well… I thought of sharing them with you",
         "Well… I thought of sharing them with you"
-      ],
-      "name": "Stay Gold",
-      "text": "Hey now, you had chocolates on you \nall this time?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -283,22 +283,22 @@
       "text": "Now that she said this, I only just realized… \nStay Gold would probably be heading off \non journeys quite frequently from now on."
     },
     {
+      "text": "Extremely free-spirited——but that's just \nhow she is.",
       "choice_data_list": [
         "Leave it to me, I'll become it's protector!",
         "Leave it to me, I'll become it's protector!"
-      ],
-      "text": "Extremely free-spirited——but that's just \nhow she is."
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "Aah, thanks. I know you'll raise it up to \nbecome a great tree."
     },
     {
+      "name": "Stay Gold",
+      "text": "……Hey, protector of the tree. I'm looking \nforward to seeing it grow big and strong.",
       "choice_data_list": [
         "$(scale 95)So you can make jam or jelly from this?"
-      ],
-      "name": "Stay Gold",
-      "text": "……Hey, protector of the tree. I'm looking \nforward to seeing it grow big and strong."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -312,11 +312,11 @@
       "text": "<i>(Grumble Grumble)</i>"
     },
     {
+      "name": "Stay Gold",
+      "text": "<i>Fuhah</i>! What was that? The berries haven't \neven started growing yet!",
       "choice_data_list": [
         "S-S-Sorry……"
-      ],
-      "name": "Stay Gold",
-      "text": "<i>Fuhah</i>! What was that? The berries haven't \neven started growing yet!"
+      ]
     },
     {
       "name": "Stay Gold",

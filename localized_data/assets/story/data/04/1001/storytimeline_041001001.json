@@ -58,20 +58,20 @@
       "text": "Where even am I?!"
     },
     {
+      "name": "Special Week",
+      "text": "W-w-w-w-what do I do?! I'm gonna miss\nthe dorm curfew!",
       "choice_data_list": [
         "Would you like to get back to TracenAcademy?",
         "Would you like to get back to TracenAcademy?"
-      ],
-      "name": "Special Week",
-      "text": "W-w-w-w-what do I do?! I'm gonna miss\nthe dorm curfew!"
+      ]
     },
     {
+      "name": "Special Week",
+      "text": "Huh?! Um, you are...?",
       "choice_data_list": [
         "I'm a trainer. I'll show you the way back.",
         "I'm a trainer. I'll show you the way back."
-      ],
-      "name": "Special Week",
-      "text": "Huh?! Um, you are...?"
+      ]
     },
     {
       "name": "Special Week",
@@ -124,11 +124,11 @@
       "text": "Every student here will be gunning to\nprove their skills to the best trainers in\nhopes of getting scouted!"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "I'm sure today's races will be just as\nexciting as ever.",
       "choice_data_list": [
         "Looking forward to it!"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "I'm sure today's races will be just as\nexciting as ever."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -185,24 +185,24 @@
       "text": "<i>Pant... pant...</i> I did it! I won! Now I—"
     },
     {
+      "name": "Special Week",
+      "text": "Oh! You're the person from yesterday! You\ncame to watch the race!",
       "choice_data_list": [
         "You were amazing!",
         "You were amazing!"
-      ],
-      "name": "Special Week",
-      "text": "Oh! You're the person from yesterday! You\ncame to watch the race!"
+      ]
     },
     {
       "name": "Special Week",
       "text": "Ehehe... Thanks! I hope I managed to show\nyou what I'm capable of!"
     },
     {
+      "name": "Special Week",
+      "text": "I came to Tracen Academy to achieve my\ndream, and it all starts with my debut... I'll\nmake sure it happens, no matter what!",
       "choice_data_list": [
         "Your dream?",
         "Your dream?"
-      ],
-      "name": "Special Week",
-      "text": "I came to Tracen Academy to achieve my\ndream, and it all starts with my debut... I'll\nmake sure it happens, no matter what!"
+      ]
     },
     {
       "name": "Special Week",
@@ -231,20 +231,20 @@
       "text": "It's as if just beyond those glimmering\neyes, she can see the shining future she\ndreams of gazing back at her."
     },
     {
+      "name": "Special Week",
+      "text": "Oh... U-um... Are you still with me? Did I\nsay something weird? Sorry about that...",
       "choice_data_list": [
         "I want to help you with your dream!",
         "I want to help you with your dream!"
-      ],
-      "name": "Special Week",
-      "text": "Oh... U-um... Are you still with me? Did I\nsay something weird? Sorry about that..."
+      ]
     },
     {
+      "name": "Special Week",
+      "text": "Huh?",
       "choice_data_list": [
         "Please, let me be your trainer!",
         "Please, let me be your trainer!"
-      ],
-      "name": "Special Week",
-      "text": "Huh?"
+      ]
     },
     {
       "name": "Special Week",

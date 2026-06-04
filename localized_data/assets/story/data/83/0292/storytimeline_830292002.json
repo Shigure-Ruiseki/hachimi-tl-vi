@@ -51,12 +51,12 @@
       "text": "I- I need to think of something… \nSomething that'll make everyone happy…!"
     },
     {
+      "name": "Loves Only You",
+      "text": "…Maru-chan…",
       "choice_data_list": [
         "Are you not going to talk to her?",
         "Are you not going to talk to her?"
-      ],
-      "name": "Loves Only You",
-      "text": "…Maru-chan…"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -79,10 +79,10 @@
       "text": "\"Yo! G'morning! \nHow are you doing? \nBecause Maru-chan's doing great!\""
     },
     {
+      "text": "…So says the puppet, but her face told a different story.",
       "choice_data_list": [
         "…Any ideas for the exhibition?"
-      ],
-      "text": "…So says the puppet, but her face told a different story."
+      ]
     },
     {
       "text": "I figured that, as long as it was a third party like me asking, and not Loves Only You, then it wouldn't affect her too badly."
@@ -100,19 +100,19 @@
       "text": "\"I'm really worried about letting them down, and I guess it's giving me art block. Ha ha. Ha.\""
     },
     {
+      "text": "It sounded to me like she wasn't telling the whole truth. Like she was trying to hide her anxiety.",
       "choice_data_list": [
         "Don't worry about quality, just create.",
         "How'd you feel making the last piece?",
         "Maybe try a change of scenery?"
-      ],
-      "text": "It sounded to me like she wasn't telling the whole truth. Like she was trying to hide her anxiety."
+      ]
     },
     {
+      "name": "Marche Lorraine",
+      "text": "……… \n\"But I have to worry about quality! It's for an exhibition, remember?\"",
       "choice_data_list": [
         "Just for a little bit."
-      ],
-      "name": "Marche Lorraine",
-      "text": "……… \n\"But I have to worry about quality! It's for an exhibition, remember?\""
+      ]
     },
     {
       "text": "I told her, exhibition or not, getting her hands moving to work on something would be more productive than doing nothing but worry."

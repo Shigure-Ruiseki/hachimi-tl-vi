@@ -8,12 +8,12 @@
       "text": "Hoping to pick up even a sliver of what goes \nthrough hers, I decided to go see the race."
     },
     {
+      "name": "T.M. Opera O",
+      "text": "Oh… It's a surprise to find you here.",
       "choice_data_list": [
         "I wanted to try and understand you better.",
         "I wanted to try and understand you better."
-      ],
-      "name": "T.M. Opera O",
-      "text": "Oh… It's a surprise to find you here."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -65,11 +65,11 @@
       "text": "………"
     },
     {
+      "text": "Though T.M. Opera O had come victorious over \nher rivals, she didn't look that pleased about it.",
       "choice_data_list": [
         "You did great, coming first and all.",
         "You did great, coming first and all."
-      ],
-      "text": "Though T.M. Opera O had come victorious over \nher rivals, she didn't look that pleased about it."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -84,11 +84,11 @@
       "text": "Huh? What's wrong with Ope…?"
     },
     {
+      "name": "Meisho Doto",
+      "text": "…… Maybe she's not happy with how she won.",
       "choice_data_list": [
         "<i>How?</i>"
-      ],
-      "name": "Meisho Doto",
-      "text": "…… Maybe she's not happy with how she won."
+      ]
     },
     {
       "name": "Meisho Doto",
@@ -120,12 +120,12 @@
       "text": "Which do you prefer between a clear sky and an overcast one?"
     },
     {
+      "name": "T.M. Opera O",
+      "text": "Yours truly loves clear skies. For it is a sky in which \nthe sun's radiance fills us all with courage.",
       "choice_data_list": [
         "W-What's this about…?",
         "W-What's this about…?"
-      ],
-      "name": "T.M. Opera O",
-      "text": "Yours truly loves clear skies. For it is a sky in which \nthe sun's radiance fills us all with courage."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -144,11 +144,11 @@
       "text": "… Ah, but yours truly was blessed. \nFor deep in the forest I had an encounter."
     },
     {
+      "name": "T.M. Opera O",
+      "text": "With a single trainee who would change my destiny.",
       "choice_data_list": [
         "A trainee who'd change your destiny?"
-      ],
-      "name": "T.M. Opera O",
-      "text": "With a single trainee who would change my destiny."
+      ]
     },
     {
       "name": "T.M. Opera O",
@@ -163,12 +163,12 @@
       "text": "Her image was more powerful… more beautiful than anything \nI'd ever seen, and my heart skipped a few beats…!"
     },
     {
+      "name": "T.M. Opera O",
+      "text": "I was in awe that a being exuding such brilliance existed…!",
       "choice_data_list": [
         "Hold it. The water surface? You mean…",
         "Hold it. The water surface? You mean…"
-      ],
-      "name": "T.M. Opera O",
-      "text": "I was in awe that a being exuding such brilliance existed…!"
+      ]
     },
     {
       "name": "T.M. Opera O",

@@ -5,12 +5,12 @@
       "text": "A day off. It was an opportunity, so I was \nwondering where to go after leaving the station――"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Oh. Good morning, Trainer-san. \nHeading somewhere?",
       "choice_data_list": [
         "I thought I'd just look around. You?",
         "I thought I'd just look around. You?"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Oh. Good morning, Trainer-san. \nHeading somewhere?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -21,19 +21,19 @@
       "text": "I know! \nTrainer-san, how about coming with me?"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "How about just playing 9 holes? \nWe can take it easy, just the two of us.",
       "choice_data_list": [
         "Bubble, do you play golf often?",
         "Bubble, do you play golf often?"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "How about just playing 9 holes? \nWe can take it easy, just the two of us."
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Hmmm～……it's not like I'm particularly invested. It's just one \nof the ways to take a breather. What about you, Trainer-san?",
       "choice_data_list": [
         "I'm pretty much a beginner"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Hmmm～……it's not like I'm particularly invested. It's just one \nof the ways to take a breather. What about you, Trainer-san?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -44,11 +44,11 @@
       "text": "Huuu……! \n――Hmmm. Seems like I'm in good form today."
     },
     {
+      "text": "She said it was just to take a breather but……she was \nreally good! She knew how to handle the clubs and could \nconsistently hit the ball into the cup with minimal strokes.",
       "choice_data_list": [
         "You're really good, Bubble!",
         "You're really good, Bubble!"
-      ],
-      "text": "She said it was just to take a breather but……she was \nreally good! She knew how to handle the clubs and could \nconsistently hit the ball into the cup with minimal strokes."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -63,21 +63,21 @@
       "text": "――I've got it! Since we're doing this, how about we set goals \nfor ourselves. Don't you think it'll be more fun that way?"
     },
     {
+      "text": "Goals――to start with, I want to hit 『Par』 at least once…… \nto hit the ball in to the cup without needing extra strokes. \nI'm not confident, but I should set my goals high!",
       "choice_data_list": [
         "I'm aiming for 『Par』!"
-      ],
-      "text": "Goals――to start with, I want to hit 『Par』 at least once…… \nto hit the ball in to the cup without needing extra strokes. \nI'm not confident, but I should set my goals high!"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
       "text": "That sounds good. If you can hit it a little further, you \nshould be able to do it! Then, what should I aim for～?"
     },
     {
+      "text": "I figured it might be a good idea to give Bubble \nGum Fellow a reward if she achieved her goal.",
       "choice_data_list": [
         "I'll buy you some sweets if you do it",
         "I'll buy you some sweets if you do it"
-      ],
-      "text": "I figured it might be a good idea to give Bubble \nGum Fellow a reward if she achieved her goal."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -91,11 +91,11 @@
       "text": "Once again, I was surprised by how high she was aiming. \nI've heard something like that was akin to a miracle……"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Though, with that said, I don't want to be the \nonly one with a good memory. As thanks for the \nsweets, how about I dedicate this shot to you?",
       "choice_data_list": [
         "Eh――"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Though, with that said, I don't want to be the \nonly one with a good memory. As thanks for the \nsweets, how about I dedicate this shot to you?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -105,17 +105,17 @@
       "text": "(Hyuuuu～～～～……tap, roll roll roll……)"
     },
     {
+      "text": "(――――Clatter!)",
       "choice_data_list": [
         "……I-it went in!?"
-      ],
-      "text": "(――――Clatter!)"
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "――How was that? Did you like my shot?",
       "choice_data_list": [
         "Amazing! That was inspiring!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "――How was that? Did you like my shot?"
+      ]
     },
     {
       "text": "I never thought she was going to make it with one shot! \nI'm even more moved by her ability to make things happen!"
@@ -132,12 +132,12 @@
       "text": "Uwaah, so cute……! I've been wanting to come to \nthis shop. The interior and menu are really cute!"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Uwah～, it all looks tasty! \nWhat should I order～!?",
       "choice_data_list": [
         "Order whatever you want!",
         "Order whatever you want!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Uwah～, it all looks tasty! \nWhat should I order～!?"
+      ]
     },
     {
       "text": "As we looked over the menu, we found something amazing. \n『Super Sweet&Dreamy Cute Jumbo Pancake Tower』……!"
@@ -147,11 +147,11 @@
       "text": "Oh, this is amazing, isn't it!? It's cute and looks \nreally tasty! Ooh, there's also a challenge too."
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "If you can finish it in 15 minutes, it's free, and you even \nget a present too……Yeah. That sounds good, let's do it!",
       "choice_data_list": [
         "This much, in 15 minutes……!?"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "If you can finish it in 15 minutes, it's free, and you even \nget a present too……Yeah. That sounds good, let's do it!"
+      ]
     },
     {
       "text": "It was stacked so high, 8 layers of pancakes covered with \nmany sweets and lots of cream――it was a crazy amount!"
@@ -191,18 +191,18 @@
       "text": " Alright! Haa～……it was so good. \nIt was kind of a shame I had to hurry though."
     },
     {
+      "text": "She really did break the record……! As always, I was impressed \nby how she was able to follow through on her words……!",
       "choice_data_list": [
         "Amazing! You really did it!",
         "Amazing! You really did it!"
-      ],
-      "text": "She really did break the record……! As always, I was impressed \nby how she was able to follow through on her words……!"
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "You think? It's not a big deal. \nI never say I'll do something I can't.",
       "choice_data_list": [
         "……!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "You think? It's not a big deal. \nI never say I'll do something I can't."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -215,11 +215,11 @@
       "text": "But, Bubble Gum Fellow is different. Her strength……it's not just \nthat her ability is high, she also 『Strongly believes in herself』"
     },
     {
+      "text": "――I want to believe like her. I want to do my best to believe in \nher strength. I'll declare it. I want to have that same outlook……",
       "choice_data_list": [
         "I believe in you too! You can do anything!",
         "I believe in you too! You can do anything!"
-      ],
-      "text": "――I want to believe like her. I want to do my best to believe in \nher strength. I'll declare it. I want to have that same outlook……"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",

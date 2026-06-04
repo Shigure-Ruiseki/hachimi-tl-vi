@@ -18,19 +18,19 @@
       "text": "Trainer-san, hello!!"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Today's a great day for training, doncha think!? \nI'm really itching to race right now!",
       "choice_data_list": [
         "Did you eat something bad?",
         "Did you eat something bad?"
-      ],
-      "name": "Seiun Sky",
-      "text": "Today's a great day for training, doncha think!? \nI'm really itching to race right now!"
+      ]
     },
     {
+      "name": "Seiun Sky",
+      "text": "Woah, that's how you react when the trainee you're training \narrives? How depressing. I thought you'd be glad to see me.",
       "choice_data_list": [
         "I just figured you'd ditch."
-      ],
-      "name": "Seiun Sky",
-      "text": "Woah, that's how you react when the trainee you're training \narrives? How depressing. I thought you'd be glad to see me."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -82,11 +82,11 @@
       "text": "Looking closely, all the girls she raced with \nwere favored to win in the upcoming race."
     },
     {
+      "text": "Then that means… she's doing this to gather \ninformation on her rivals? If so…",
       "choice_data_list": [
         "I know what I have to do!",
         "I know what I have to do!"
-      ],
-      "text": "Then that means… she's doing this to gather \ninformation on her rivals? If so…"
+      ]
     },
     {
       "text": "Since Seiun Sky's been putting in so much \neffort, I should give it my all as well."
@@ -96,12 +96,12 @@
       "text": "Haa… How was today's training? Don't you think I \ndid a great job despite how crowded it was?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Don't you think I deserve a reward for my hard work today?",
       "choice_data_list": [
         "You did amazing, here's your reward.",
         "You did amazing, here's your reward."
-      ],
-      "name": "Seiun Sky",
-      "text": "Don't you think I deserve a reward for my hard work today?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -116,11 +116,11 @@
       "text": "The second girl I raced against seemed to struggle \nwhen she was directly behind me…"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Oh… I get it now. You were preparing this \"reward\" \nfor me while I was training.",
       "choice_data_list": [
         "Are you happy with it?"
-      ],
-      "name": "Seiun Sky",
-      "text": "Oh… I get it now. You were preparing this \"reward\" \nfor me while I was training."
+      ]
     },
     {
       "name": "Seiun Sky",

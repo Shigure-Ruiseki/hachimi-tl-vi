@@ -24,11 +24,11 @@
       "text": "Next up is filming for the talk show. \nPlus, I should check the script for the dinner show on the way there."
     },
     {
+      "text": "She had a lot to do today, but I was sure she could handle it. She could achieve her dream——",
       "choice_data_list": [
         "Getting closer to being the greatest!",
         "Getting closer to being the greatest!"
-      ],
-      "text": "She had a lot to do today, but I was sure she could handle it. She could achieve her dream——"
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -47,44 +47,44 @@
       "text": "I poured all the gratitude I have into this letter. \nI would love the oppurtunity to read it for them."
     },
     {
+      "name": "TV Director",
+      "text": "Wew, that'll make for a real tearjerker of an ending! \nTwo thumbs up on that idea! Dang, Trainer, your trainee sure is prepared! Thanks, she's a huge help! ",
       "choice_data_list": [
         "Oh, no, thank you for the opportunity!"
-      ],
-      "name": "TV Director",
-      "text": "Wew, that'll make for a real tearjerker of an ending! \nTwo thumbs up on that idea! Dang, Trainer, your trainee sure is prepared! Thanks, she's a huge help! "
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "Three more stops until we reach the assembly hall? \nI should check the script again while I have the chance—— \n"
     },
     {
+      "text": "(SCREEEEEEECH!!)",
       "choice_data_list": [
         "!?"
-      ],
-      "text": "(SCREEEEEEECH!!)"
+      ]
     },
     {
       "name": "Announcement",
       "text": "\"As abnormal noises have been detected, this train has come to an emergency stop. Please wait while we perform safety checks.\""
     },
     {
+      "name": "Royce and Royoce",
+      "text": "We're stopped!? \nBut there's not much time until the event starts…!",
       "choice_data_list": [
         "We should let them know we'll be late."
-      ],
-      "name": "Royce and Royoce",
-      "text": "We're stopped!? \nBut there's not much time until the event starts…!"
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "………"
     },
     {
+      "name": "Royce and Royce",
+      "text": "…Trainer. Let's get off at the next stop.",
       "choice_data_list": [
         "Did you come up with a plan?",
         "Did you come up with a plan?"
-      ],
-      "name": "Royce and Royce",
-      "text": "…Trainer. Let's get off at the next stop."
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -122,11 +122,11 @@
       "text": "With the hall now full of energy, I felt a wave of relief. \nWe closed out the day with an incredible event——"
     },
     {
+      "name": "Royce and Royce",
+      "text": "That was no good. Not at all.",
       "choice_data_list": [
         "What? Why…?"
-      ],
-      "name": "Royce and Royce",
-      "text": "That was no good. Not at all."
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -137,22 +137,22 @@
       "text": "Right? Royce was as cute as she always is～ \n…She was cute, but, well… \nHmm…"
     },
     {
+      "name": "Old Fan B",
+      "text": "I- I get you! It's something like… I want to see a new side of Royce-chan! You know, something about her we've never seen before…",
       "choice_data_list": [
         "…!!"
-      ],
-      "name": "Old Fan B",
-      "text": "I- I get you! It's something like… I want to see a new side of Royce-chan! You know, something about her we've never seen before…"
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "You heard them. I'm getting stale. \nIf I want to be the greatest, I'll need to diversify my portfolio."
     },
     {
+      "text": "Royce and Royce never takes half-measures. \nIf I'm her trainer, then neither should I——",
       "choice_data_list": [
         "I'll do everything I can to help.",
         "I'll do everything I can to help."
-      ],
-      "text": "Royce and Royce never takes half-measures. \nIf I'm her trainer, then neither should I——"
+      ]
     },
     {
       "name": "Royce and Royce",

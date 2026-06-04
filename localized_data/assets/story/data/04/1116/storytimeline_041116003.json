@@ -61,11 +61,11 @@
       "text": "Aah……what good timing, you over there. \nRookie Trainer-san."
     },
     {
+      "name": "Gentildonna",
+      "text": "Would you record the time? \nAll of it, until the goal.",
       "choice_data_list": [
         "!? ……Understood."
-      ],
-      "name": "Gentildonna",
-      "text": "Would you record the time? \nAll of it, until the goal."
+      ]
     },
     {
       "name": "Gentildonna",
@@ -108,10 +108,10 @@
       "text": "………… ……what was my time?"
     },
     {
+      "text": "At Gentildonna's words, I look at my stopwatch. The time was……",
       "choice_data_list": [
         "Compared to before……it's faster"
-      ],
-      "text": "At Gentildonna's words, I look at my stopwatch. The time was……"
+      ]
     },
     {
       "name": "Gentildonna",
@@ -170,20 +170,20 @@
       "text": "Yes. ……be well."
     },
     {
+      "text": "Gentildonna watched Verxina leave. A rival with the \"power\" \nto stand against her. She stood as a noble, towering above.",
       "choice_data_list": [
         "(……she's so cool)"
-      ],
-      "text": "Gentildonna watched Verxina leave. A rival with the \"power\" \nto stand against her. She stood as a noble, towering above."
+      ]
     },
     {
       "text": "Was there a trainer that wouldn't admire that \nstrength? Was there a trainer who wouldn't \nwant to see where that strength would lead?"
     },
     {
+      "text": "Even when I had returned to my room, my excitement \nhadn't faded. I wrote down all the training \nideas that came to me, one after the other.",
       "choice_data_list": [
         "I want to be……the one to make her the strongest",
         "I want to be……the one to make her the strongest"
-      ],
-      "text": "Even when I had returned to my room, my excitement \nhadn't faded. I wrote down all the training \nideas that came to me, one after the other."
+      ]
     },
     {
       "text": "Gentildonna's action all were for the sake of honing \nher strength. Whether it be listening to my guidance, \nor inspiring Verxina to continue to fight."
@@ -198,18 +198,18 @@
       "text": "That's why she favors someone with \"strength\". \nTo create a partner that would never falter―― \nall to bring out her own full potential."
     },
     {
+      "text": "……I reach my hand out to the shining lights in the ceiling.",
       "choice_data_list": [
         "……in which case, me too.",
         "……in which case, me too."
-      ],
-      "text": "……I reach my hand out to the shining lights in the ceiling."
+      ]
     },
     {
+      "text": "I need to prove I have \"strength\" too. ……more \nthan anyone else. Even more than her. I believe I \nhave the \"power\" to draw out her true strength.",
       "choice_data_list": [
         "To give her the \"strength\" to never yield",
         "To give her the \"strength\" to never yield"
-      ],
-      "text": "I need to prove I have \"strength\" too. ……more \nthan anyone else. Even more than her. I believe I \nhave the \"power\" to draw out her true strength."
+      ]
     },
     {
       "name": "Gentildonna",

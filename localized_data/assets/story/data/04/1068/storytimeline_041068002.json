@@ -9,11 +9,11 @@
       "text": "I was trying to scout Kitasan Black, who had just lost in this \nmock race. But… the response was laced with doubt."
     },
     {
+      "name": "Kitasan Black",
+      "text": "Umm～, even though I lost? \nWhat was it about me that caught your interest?",
       "choice_data_list": [
         "…the look in your eyes and your face"
-      ],
-      "name": "Kitasan Black",
-      "text": "Umm～, even though I lost? \nWhat was it about me that caught your interest?"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -54,19 +54,19 @@
       "text": "In that case, I'll carry them! \nI'll be fine, it's only 20km roundtrip! That much is nothing!"
     },
     {
+      "name": "Kitasan Black",
+      "text": "Uuuuuu, I'm sorry～. I was super late… It's just that when I \nsee someone in trouble, I can't just leave them.",
       "choice_data_list": [
         "Did something happen?",
         "Did something happen?"
-      ],
-      "name": "Kitasan Black",
-      "text": "Uuuuuu, I'm sorry～. I was super late… It's just that when I \nsee someone in trouble, I can't just leave them."
+      ]
     },
     {
+      "name": "Kitasan Black",
+      "text": "I carried a Sumo Wrestler, caught a dog, delivered \nsome emergency supplies… each one by itself wasn't \nmuch, but the time it took… I'm sorry～.",
       "choice_data_list": [
         "T-that much happened…?"
-      ],
-      "name": "Kitasan Black",
-      "text": "I carried a Sumo Wrestler, caught a dog, delivered \nsome emergency supplies… each one by itself wasn't \nmuch, but the time it took… I'm sorry～."
+      ]
     },
     {
       "text": "She was the epitomy of empathy. Kitasan Black was \njust that kind of Uma Musume. For now, I won't \nworry about her being late and advise her."
@@ -76,22 +76,22 @@
       "text": "How can I get better at racing? Tracen Academy is way different \nfrom what I was imagining, and I wasn't prepared at all…"
     },
     {
+      "name": "Kitasan Black",
+      "text": "I can't help but think I have to do something about that but, \nI just really have no idea where to start…",
       "choice_data_list": [
         "How about figuring out your strong point?"
-      ],
-      "name": "Kitasan Black",
-      "text": "I can't help but think I have to do something about that but, \nI just really have no idea where to start…"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "My strong point! That's right. I usually just end up leaving it \nto fighting spirit and don't think about anything else…!"
     },
     {
+      "name": "Kitasan Black",
+      "text": "Hmmmm. In that case… I probably need to understand myself \nbetter. To figure out what I can do I need to…",
       "choice_data_list": [
         "Face a strong rival"
-      ],
-      "name": "Kitasan Black",
-      "text": "Hmmmm. In that case… I probably need to understand myself \nbetter. To figure out what I can do I need to…"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -151,11 +151,11 @@
       "text": "I couldn't figure anything out…! If I stay like this, I won't \nbe able to be an Uma Musume that can grant people courage…"
     },
     {
+      "name": "Kitasan Black",
+      "text": "Someday becoming someone like that— \nEven though I want to be just like my dad…",
       "choice_data_list": [
         "Your dad?"
-      ],
-      "name": "Kitasan Black",
-      "text": "Someday becoming someone like that— \nEven though I want to be just like my dad…"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -170,11 +170,11 @@
       "text": "It's different from singing and racing, but I want to be like \nthat. I want to become the kind of Uma Musume that can give \ncourage and spirit to others…"
     },
     {
+      "name": "Kitasan Black",
+      "text": "But, with the way I am now, unable to find my strength, \nthere's no way I can become like that. Offering people \nin need my help is about all I can do…",
       "choice_data_list": [
         "I think that that's admirable, though"
-      ],
-      "name": "Kitasan Black",
-      "text": "But, with the way I am now, unable to find my strength, \nthere's no way I can become like that. Offering people \nin need my help is about all I can do…"
+      ]
     },
     {
       "name": "Kitasan Black",
@@ -206,19 +206,19 @@
       "text": "That case has already been resolved. \nThe thing that's troubling me now is our mountain villa."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "The generator seems to be in bade shape. If there \nwasn't snow, I'd take the replacement one there \nmyself as part of training but…",
       "choice_data_list": [
         "Excuse me… do you have a moment?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "The generator seems to be in bade shape. If there \nwasn't snow, I'd take the replacement one there \nmyself as part of training but…"
+      ]
     },
     {
+      "name": "Tokai Teio",
+      "text": "Huh? You're… that trainer from before. \nNeed something?",
       "choice_data_list": [
         "Do you think you can leave it to Kitasan?",
         "Do you think you can leave it to Kitasan?"
-      ],
-      "name": "Tokai Teio",
-      "text": "Huh? You're… that trainer from before. \nNeed something?"
+      ]
     },
     {
       "name": "Mejiro McQueen",

@@ -72,11 +72,11 @@
       "text": "Are you feeling alright…? El, don't you think \nyou're being too reckless day in, day out?"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Fmww…</i> not at all～ \nEl is okay, I'm okay… ¿¡Uy!?",
       "choice_data_list": [
         "Watch out!"
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Fmww…</i> not at all～ \nEl is okay, I'm okay… ¿¡Uy!?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -87,12 +87,12 @@
       "text": "<i>Uwawa</i>, I'm sorry! My legs feel a little wobbly ——"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Hn?! It's you!! The False Start Trainer!! \nWhat a coincidence!!",
       "choice_data_list": [
         "Really, are you okay?",
         "Are you really okay?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Hn?! It's you!! The False Start Trainer!! \nWhat a coincidence!!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -163,12 +163,12 @@
       "text": "<i>Aaah</i>… As ever, she just says \nwhatever she wants and leaves～"
     },
     {
+      "name": "Grass Wonder",
+      "text": "I presume today she'll be aiming to become \nthe \"world's strongest\" with that trainer lady.",
       "choice_data_list": [
         "She seems a rather wilful lass.",
         "She seems a rather wilful lass."
-      ],
-      "name": "Grass Wonder",
-      "text": "I presume today she'll be aiming to become \nthe \"world's strongest\" with that trainer lady."
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -179,12 +179,12 @@
       "text": "Her goals are set high and she carries them proudly, \ngiving her all to reach them, without hesitation… \nI do think that's what's so wonderful about her."
     },
     {
+      "name": "Grass Wonder",
+      "text": "However…… I also believe that sometimes, a person's \nstrengths can become their weakness.",
       "choice_data_list": [
         "You think she's pushing herself too hard?",
         "You think she's pushing herself too hard?"
-      ],
-      "name": "Grass Wonder",
-      "text": "However…… I also believe that sometimes, a person's \nstrengths can become their weakness."
+      ]
     },
     {
       "name": "Grass Wonder",

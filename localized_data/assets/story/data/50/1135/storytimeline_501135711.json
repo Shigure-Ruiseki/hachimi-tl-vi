@@ -14,22 +14,22 @@
       "text": "I apologise, Trainer."
     },
     {
+      "name": "Stay Gold",
+      "text": "Even though you've been enthusiastically \nwatching over my training all this time…",
       "choice_data_list": [
         "No need to apologize, you did your best",
         "No need to apologize, you did your best",
         "Let's become strong together"
-      ],
-      "name": "Stay Gold",
-      "text": "Even though you've been enthusiastically \nwatching over my training all this time…"
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "Even though you've been enthusiastically \nwatching over my training all this time…",
       "choice_data_list": [
         "No need to apologize, you did your best",
         "No need to apologize, you did your best",
         "Let's become strong together"
-      ],
-      "name": "Stay Gold",
-      "text": "Even though you've been enthusiastically \nwatching over my training all this time…"
+      ]
     },
     {
       "name": "Stay Gold",

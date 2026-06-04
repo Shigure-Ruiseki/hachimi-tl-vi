@@ -9,11 +9,11 @@
       "text": "Oh, there you are! I've been meaning to speak with you!"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "I have news about the grace period before Team Sirius's dissolution!",
       "choice_data_list": [
         "Really?! How long is it?"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "I have news about the grace period before Team Sirius's dissolution!"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -28,10 +28,10 @@
       "text": "They decided to allow you both ample time to train."
     },
     {
+      "text": "I'm relieved. That means we can forget about our recruitment issues \nfor now!",
       "choice_data_list": [
         "Thank you so much!"
-      ],
-      "text": "I'm relieved. That means we can forget about our recruitment issues \nfor now!"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -64,12 +64,12 @@
       "text": "McQueen!"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "…",
       "choice_data_list": [
         "How are you feeling, McQueen?",
         "How are you feeling, McQueen?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "…"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -86,12 +86,12 @@
       "text": "A fever? Oh… I must have been more fatigued than I thought."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "When I was younger, I often used to break out into fevers after \nrunning around in my childhood.",
       "choice_data_list": [
         "You pushed yourself too hard.",
         "You pushed yourself too hard."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "When I was younger, I often used to break out into fevers after \nrunning around in my childhood."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -109,11 +109,11 @@
       "text": "I see… You always are sharp when it comes to these sorts of things."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "Go ahead and say it, then. No more private training, right?",
       "choice_data_list": [
         "I can't have you overdoing it now."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "Go ahead and say it, then. No more private training, right?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -144,12 +144,12 @@
       "text": "But are you sure? If you're serious about helping me, you need to be \nprepared to handle the responsibility of training a Mejiro."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "Are you ready for that? To… well… to become one of heart and mind?",
       "choice_data_list": [
         "You know it!",
         "You know it!"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "Are you ready for that? To… well… to become one of heart and mind?"
+      ]
     },
     {
       "name": "Mejiro McQueen",

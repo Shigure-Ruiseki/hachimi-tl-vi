@@ -1,11 +1,11 @@
 {
   "text_block_list": [
     {
+      "name": "Fenomeno",
+      "text": "Boss, I've bought some yakisoba.\nLet's eat it together.",
       "choice_data_list": [
         "Thanks, Meno."
-      ],
-      "name": "Fenomeno",
-      "text": "Boss, I've bought some yakisoba.\nLet's eat it together."
+      ]
     },
     {
       "text": "It was a day off during summer training. Hoping to give Fenomeno a break from her tireless training, I brought her along to a fireworks show."
@@ -34,12 +34,12 @@
       "text": "Yes. It seems like they wanted to watch the show away from the crowd, so they went into the woods. We're going to send a search party, but we're short on manpower..."
     },
     {
+      "name": "Fenomeno",
+      "text": "――Boss.",
       "choice_data_list": [
         "Can we help with the search?",
         "Can we help with the search?"
-      ],
-      "name": "Fenomeno",
-      "text": "――Boss."
+      ]
     },
     {
       "name": "Manager",
@@ -58,12 +58,12 @@
       "text": "HEYYYYYYYYY!!\nIF YOU CAN HEAR ME, ANSWERRRRRR!!"
     },
     {
+      "name": "Fenomeno",
+      "text": "!!\n...Boss.\nI've caught the \"scent\".",
       "choice_data_list": [
         "Let's look over there, then.",
         "Let's look over there, then."
-      ],
-      "name": "Fenomeno",
-      "text": "!!\n...Boss.\nI've caught the \"scent\"."
+      ]
     },
     {
       "text": "After checking in with the rest of the search party, we headed into the woods where Fenomeno sensed the \"scent\". It was dark and hard to see, but she was still hot on their trail."
@@ -81,11 +81,11 @@
       "text": "!!\nTarget in sight!!"
     },
     {
+      "text": "Following the sound of crying, the two of us found the kids sitting on the ground.",
       "choice_data_list": [
         "Are you kids alright!?",
         "Are you kids alright!?"
-      ],
-      "text": "Following the sound of crying, the two of us found the kids sitting on the ground."
+      ]
     },
     {
       "name": "Children",
@@ -100,19 +100,19 @@
       "text": "One, two, three... four?\nWhere's the last of you!?"
     },
     {
+      "name": "Girl A",
       "choice_data_list": [
         "WHAT!?"
       ],
-      "name": "Girl A",
       "text": "Sniff... We lost him... at the river...!"
     },
     {
+      "name": "Fenomeno",
+      "text": "Boss. Take these children to a safe place, please. \nAnd tell the search party to prepare for a potential water rescue, in case of emergency.",
       "choice_data_list": [
         "What about you?",
         "What about you?"
-      ],
-      "name": "Fenomeno",
-      "text": "Boss. Take these children to a safe place, please. \nAnd tell the search party to prepare for a potential water rescue, in case of emergency."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -130,12 +130,12 @@
       "text": "I'm grateful for your concern.\nBut please, leave this to me."
     },
     {
+      "name": "Fenomeno",
+      "text": "――I can handle it.",
       "choice_data_list": [
         "...Bring him back safe. No matter what.",
         "...Bring him back safe. No matter what."
-      ],
-      "name": "Fenomeno",
-      "text": "――I can handle it."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -188,12 +188,12 @@
       "text": "Yes. Much obliged."
     },
     {
+      "text": "...Phew. It's profoundly satisfying.",
+      "name": "Fenomeno",
       "choice_data_list": [
         "Must be because of a job well done.",
         "Must be because of a job well done."
-      ],
-      "name": "Fenomeno",
-      "text": "...Phew. It's profoundly satisfying."
+      ]
     },
     {
       "text": "The missing children were brought back to the search party, safe and sound. And Fenomeno had returned, covered in mud, with the last of the missing children on her back."
@@ -209,12 +209,12 @@
       "text": "We'd gone back to the cabin to change out of our dirtied clothes, but by the time we did, it'd gotten pretty late..."
     },
     {
+      "name": "Fenomeno",
+      "text": "Mmhm. But this was still a day well spent.\nI got to protect another precious future, after all.",
       "choice_data_list": [
         "Yeah. You sure did.",
         "Yeah. You sure did."
-      ],
-      "name": "Fenomeno",
-      "text": "Mmhm. But this was still a day well spent.\nI got to protect another precious future, after all."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -233,11 +233,11 @@
       "text": "Not only did you teach me how to conquer my weakness...\nYou also gave me the power to make my ideal justice a reality."
     },
     {
+      "name": "Fenomeno",
+      "text": "You're the greatest Boss I could ever ask for!",
       "choice_data_list": [
         "...........!"
-      ],
-      "name": "Fenomeno",
-      "text": "You're the greatest Boss I could ever ask for!"
+      ]
     },
     {
       "text": "I felt my eyes well up in the face of her sincerity."
@@ -249,22 +249,22 @@
       "text": "(Boom! Boom, boom!)"
     },
     {
+      "name": "Fenomeno",
+      "text": "Over there...!",
       "choice_data_list": [
         "The fireworks...!"
-      ],
-      "name": "Fenomeno",
-      "text": "Over there...!"
+      ]
     },
     {
       "name": "Fenomeno",
       "text": "Haha...\nSo we can see them, even here."
     },
     {
+      "text": "She looked up at the sky, eyes on the fireworks.\nSeeing her face, I gave her a pat on the back.",
       "choice_data_list": [
         "Let's keep on protecting those futures.",
         "Let's keep on protecting those futures."
-      ],
-      "text": "She looked up at the sky, eyes on the fireworks.\nSeeing her face, I gave her a pat on the back."
+      ]
     },
     {
       "name": "Fenomeno",

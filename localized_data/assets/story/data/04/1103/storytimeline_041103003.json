@@ -1,11 +1,11 @@
 {
   "text_block_list": [
     {
+      "text": "With the nature of Royce and Royce's preparations still a mystery—— The day of the all-or-nothing tryouts arrived, without a single trainer having seen her practice.",
       "choice_data_list": [
         "Is she really that confident?",
         "Is she really that confident?"
-      ],
-      "text": "With the nature of Royce and Royce's preparations still a mystery—— The day of the all-or-nothing tryouts arrived, without a single trainer having seen her practice."
+      ]
     },
     {
       "text": "Her opponents included Biwa Hayahide, Winning Ticket, and Narita Taishin. How would she race in the face of those rivals…? With the long wait over, the tryouts began."
@@ -62,41 +62,41 @@
       "text": "Royce and Royce wasn't too bad either, but… \nWhen I think about the stunt she pulled before the race… \nShe seems a little too hard to deal with."
     },
     {
+      "text": "If she didn't have the results to back it up, it was only natural people would think Royce's declaration was just her being performative.",
       "choice_data_list": [
         "(What was she planning…?)"
-      ],
-      "text": "If she didn't have the results to back it up, it was only natural people would think Royce's declaration was just her being performative."
+      ]
     },
     {
       "text": "As she withdrew to the underground passage, she wore a solemn expression, completely unlike the goofy girl I had come to expect. Something about it tugged at my heartstrings…"
     },
     {
+      "name": "Royce and Royce",
+      "text": "…What is it? \nI assume you're not here to scout me.",
       "choice_data_list": [
         "Why… Why'd you do it?"
-      ],
-      "name": "Royce and Royce",
-      "text": "…What is it? \nI assume you're not here to scout me."
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "It's exactly as I explained. I wanted them to judge my performance at the actual race. …I couldn't have them writing me off just by seeing my practice."
     },
     {
+      "name": "Royce and Royce",
+      "text": "I thought I had a chance if I made a big enough impact… \n…But I suppose things are never so easy.",
       "choice_data_list": [
         "Was that \"self-production\", too?"
-      ],
-      "name": "Royce and Royce",
-      "text": "I thought I had a chance if I made a big enough impact… \n…But I suppose things are never so easy."
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "Of course. First, I have to catch the trainers' attention. I can demonstrate my racing skills after that. There's no skipping the first step of getting my foot in the door."
     },
     {
+      "text": "But there were times where her self-production backfired on her, like the incident with the contacts and her decision to practice in private.",
       "choice_data_list": [
         "If you focused on training instead…"
-      ],
-      "text": "But there were times where her self-production backfired on her, like the incident with the contacts and her decision to practice in private."
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -107,11 +107,11 @@
       "text": "Can you really say you would have remembered me? \nEven after you saw how much potential and talent Hayahide-san and the others have? Be honest."
     },
     {
+      "name": "Royce and Royce",
+      "text": "If I just ran, without doing anything else… \nYou wouldn't even be here talking to me. \n——Am I wrong?",
       "choice_data_list": [
         "…I——"
-      ],
-      "name": "Royce and Royce",
-      "text": "If I just ran, without doing anything else… \nYou wouldn't even be here talking to me. \n——Am I wrong?"
+      ]
     },
     {
       "text": "I couldn't say it. \nNot after watching that race…"
@@ -121,11 +121,11 @@
       "text": "…Haha. Aren't you the honest one. \nYou were worried about me, and came to check in on me, didn't you? I suppose your kindness deserves something in return."
     },
     {
+      "name": "Royce and Royce",
+      "text": "My dream is to be \"the greatest\".",
       "choice_data_list": [
         "The greatest?"
-      ],
-      "name": "Royce and Royce",
-      "text": "My dream is to be \"the greatest\"."
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -140,11 +140,11 @@
       "text": "You won again, Royce-chan! You're a racing genius! \nIs it just me or do we have a future GI superchamp on our hands!?"
     },
     {
+      "name": "Royce's Mother",
+      "text": "You solved all these problems? Good girl, Royce-chan! \nYou're a genius! You're going to have your name in the history books!",
       "choice_data_list": [
         "Wait, but…"
-      ],
-      "name": "Royce's Mother",
-      "text": "You solved all these problems? Good girl, Royce-chan! \nYou're a genius! You're going to have your name in the history books!"
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -179,11 +179,11 @@
       "text": "I'm… not one of them. \nAfter studying and analyzing them, I know it all too well. \n…They're on a whole nother level."
     },
     {
+      "name": "Royce and Royce",
+      "text": "But I still want to become the greatest. \nI want to find a trainer who can take a non-genius like me and make that happen.",
       "choice_data_list": [
         "\"The greatest\", huh…"
-      ],
-      "name": "Royce and Royce",
-      "text": "But I still want to become the greatest. \nI want to find a trainer who can take a non-genius like me and make that happen."
+      ]
     },
     {
       "name": "Royce and Royce",

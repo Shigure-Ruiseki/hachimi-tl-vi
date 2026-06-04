@@ -9,17 +9,17 @@
       "text": "……Huu."
     },
     {
+      "text": "She let out a deep sigh. She must be tired from the consecutive \ndays of training. If that's the case――",
       "choice_data_list": [
         "Let's take the afternoon off"
-      ],
-      "text": "She let out a deep sigh. She must be tired from the consecutive \ndays of training. If that's the case――"
+      ]
     },
     {
+      "name": "Zenno Rob Roy",
+      "text": "Ah, I'm sorry! It's because I'm sighing, isn't it…… \nUm, I'm fine. There's no problem with training――",
       "choice_data_list": [
         "Take a look at this"
-      ],
-      "name": "Zenno Rob Roy",
-      "text": "Ah, I'm sorry! It's because I'm sighing, isn't it…… \nUm, I'm fine. There's no problem with training――"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -29,11 +29,11 @@
       "text": "Even just running was causing her times to slow. Her steps were \nmisaligned, and it was starting to become a concern."
     },
     {
+      "name": "Zenno Rob Roy",
+      "text": "B-but, I'm not really tired. \nIn terms of stamina, I have plenty left――",
       "choice_data_list": [
         "Even heroes need to rest"
-      ],
-      "name": "Zenno Rob Roy",
-      "text": "B-but, I'm not really tired. \nIn terms of stamina, I have plenty left――"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -47,10 +47,10 @@
       "text": "That said, it's true that the training amount \nshouldn't be a problem stamina-wise. Does she \nhave a lot of built up mental fatigue?"
     },
     {
+      "text": "Now that I think about it, the locals \nmentioned a great spot to see the fireworks from.",
       "choice_data_list": [
         "……would she want to go see them?"
-      ],
-      "text": "Now that I think about it, the locals \nmentioned a great spot to see the fireworks from."
+      ]
     },
     {
       "text": "The fireworks wouldn't be until night time. \nMaybe I should scope the place out first."
@@ -160,11 +160,11 @@
       "text": "This is what they call trust……!!"
     },
     {
+      "name": "Zenno Rob Roy",
+      "text": "Trainer-san, Trainer-san! \nPlease answer me, Trainer-san!",
       "choice_data_list": [
         "……Rob Roy?"
-      ],
-      "name": "Zenno Rob Roy",
-      "text": "Trainer-san, Trainer-san! \nPlease answer me, Trainer-san!"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -175,25 +175,25 @@
       "text": "I'm glad, so this is where you were……!"
     },
     {
+      "text": "Zenno Rob Roy appeared in front of me, her face full of worry. \n……I guess I got tired after walking and fell asleep.",
       "choice_data_list": [
         "Sorry for worrying you"
-      ],
-      "text": "Zenno Rob Roy appeared in front of me, her face full of worry. \n……I guess I got tired after walking and fell asleep."
+      ]
     },
     {
+      "text": "I came all the way out here to make her happy…… \nbut it seems like all I did was trouble her.",
       "choice_data_list": [
         "I guess I'm still far away from your ideal――",
         "I guess I'm still far away from your ideal――"
-      ],
-      "text": "I came all the way out here to make her happy…… \nbut it seems like all I did was trouble her."
+      ]
     },
     {
+      "name": "Zenno Rob Roy",
+      "text": "……You're wrong! Trainer-san, you're fine the \nway you are! Just because of something I said――",
       "choice_data_list": [
         "Being your ideal is one of my dreams",
         "Being your ideal is one of my dreams"
-      ],
-      "name": "Zenno Rob Roy",
-      "text": "……You're wrong! Trainer-san, you're fine the \nway you are! Just because of something I said――"
+      ]
     },
     {
       "name": "Zenno Rob Roy",
@@ -208,10 +208,10 @@
       "text": "……Haa-…… Huu-…… U-ummmm…… well, \nTrainer-san…… why did you come all the way out here?"
     },
     {
+      "text": "I didn't really know what to say, but I should \nbe honest after worrying her like that. I wanted her to \ncheer up after seeing the scenery. And so――",
       "choice_data_list": [
         "Rob Roy, I just wanted to make you happy……"
-      ],
-      "text": "I didn't really know what to say, but I should \nbe honest after worrying her like that. I wanted her to \ncheer up after seeing the scenery. And so――"
+      ]
     },
     {
       "name": "Zenno Rob Roy",

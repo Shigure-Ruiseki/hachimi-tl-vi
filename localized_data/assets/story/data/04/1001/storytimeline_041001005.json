@@ -5,12 +5,12 @@
       "text": "Today, Special Week and I went for a long \ntraining run off campus… The catch is-"
     },
     {
+      "name": "Special Week",
+      "text": "Pant… Sigh…",
       "choice_data_list": [
         "What's wrong? You look down.",
         "What's wrong? You look down."
-      ],
-      "name": "Special Week",
-      "text": "Pant… Sigh…"
+      ]
     },
     {
       "name": "Special Week",
@@ -43,24 +43,24 @@
       "text": "Gosh, you'll be too full for dinner! We're going home, come now!"
     },
     {
+      "name": "Special Week",
+      "text": "Ah…",
       "choice_data_list": [
         "Is something wrong?",
         "What's wrong?"
-      ],
-      "name": "Special Week",
-      "text": "Ah…"
+      ]
     },
     {
       "name": "Special Week",
       "text": "Huh?…Ah, sorry! They just reminded me of my mom, that's all."
     },
     {
+      "name": "Special Week",
+      "text": "I used to pester Mom just like that boy. And \nthat's exactly how she gave me an earful…",
       "choice_data_list": [
         "… Do you want to see her?",
         "… Do you want to see her?"
-      ],
-      "name": "Special Week",
-      "text": "I used to pester Mom just like that boy. And \nthat's exactly how she gave me an earful…"
+      ]
     },
     {
       "name": "Special Week",
@@ -83,12 +83,12 @@
       "text": "She replied, \"You sound down. Are you doing alright? Aren't you \nburning yourself out?\"…Mom was worried sick about me."
     },
     {
+      "name": "Special Week",
+      "text": "I resolved to be my Moms' pride and joy, and yet here I am…",
       "choice_data_list": [
         "So that's why you're feeling down.",
         "So that's why you're feeling down."
-      ],
-      "name": "Special Week",
-      "text": "I resolved to be my Moms' pride and joy, and yet here I am…"
+      ]
     },
     {
       "name": "Special Week",
@@ -103,12 +103,12 @@
       "text": "Ah… T-That's just a banter! I'm sorry for bringing this up out \nof nowhere. You must be at a loss too."
     },
     {
+      "name": "Special Week",
+      "text": "Uhh, let's head back to campus quickly… Huh?",
       "choice_data_list": [
         "What's up?",
         "What's the matter?"
-      ],
-      "name": "Special Week",
-      "text": "Uhh, let's head back to campus quickly… Huh?"
+      ]
     },
     {
       "name": "Special Week",
@@ -126,12 +126,12 @@
       "text": "Suzuka-san is such a legend! She's \nbeen acing her races, after all."
     },
     {
+      "name": "Special Week",
+      "text": "Right… I better stop sweating the small stuff, and work hard \nenough to get featured on magazines.",
       "choice_data_list": [
         "You can show you're popping off if you get featured.",
         "You can show you're popping off if you get featured."
-      ],
-      "name": "Special Week",
-      "text": "Right… I better stop sweating the small stuff, and work hard \nenough to get featured on magazines."
+      ]
     },
     {
       "name": "Special Week",
@@ -142,12 +142,12 @@
       "text": "If I get on a magazine like Suzuka-san… I \ncan let Mom know that I'm doing very well."
     },
     {
+      "name": "Special Week",
+      "text": "I'm sure she'll be overjoyed by this…!",
       "choice_data_list": [
         "That's the spirit!",
         "That's the spirit!"
-      ],
-      "name": "Special Week",
-      "text": "I'm sure she'll be overjoyed by this…!"
+      ]
     },
     {
       "name": "Special Week",

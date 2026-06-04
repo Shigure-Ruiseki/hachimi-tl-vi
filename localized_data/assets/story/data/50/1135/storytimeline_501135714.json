@@ -17,19 +17,19 @@
       "text": "If I lag behind now, we'll end up with a \nbig gap in the middle of our journey."
     },
     {
+      "text": "These were the words spoken quietly by \nthe girl. I could tell she was forcibly \ntrying to return to training but…",
       "choice_data_list": [
         "You should rest right now",
         "Then I'll leave it up to you"
-      ],
-      "text": "These were the words spoken quietly by \nthe girl. I could tell she was forcibly \ntrying to return to training but…"
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "…………",
       "choice_data_list": [
         "…Let's not make it worse. Just rest for me.",
         "…Let's not make it worse. Just rest."
-      ],
-      "name": "Stay Gold",
-      "text": "…………"
+      ]
     },
     {
       "text": "If she acts recklessly now, it would affect \nher next races, and end up influencing her \nlife… I confronted her directly with these \nwords."

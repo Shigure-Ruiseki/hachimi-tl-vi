@@ -51,10 +51,10 @@
       "text": "It was fundamentally down to how their body developed."
     },
     {
+      "text": "Even if they had the distance suitability, it was still difficult to \nwin even one race. To aim for more was an incredibly high hurdle——",
       "choice_data_list": [
         "Incredible……"
-      ],
-      "text": "Even if they had the distance suitability, it was still difficult to \nwin even one race. To aim for more was an incredibly high hurdle——"
+      ]
     },
     {
       "text": "Even for a veteran trainer, this would be a lofty dream. Of course, \nit's not like there weren't Uma Musume who would aim for that."
@@ -81,23 +81,23 @@
       "text": "Up until now, I'd also only been looking at things from the \nperspective of distance suitability. Perhaps because of that, \nI couldn't see myself as a trainer that could overcome that."
     },
     {
+      "name": "Gran Alegria",
+      "text": "Trainer-san! Good Miling～!?",
       "choice_data_list": [
         "……Ah, sorry!"
-      ],
-      "name": "Gran Alegria",
-      "text": "Trainer-san! Good Miling～!?"
+      ]
     },
     {
       "name": "Gran Alegria",
       "text": "Are you tired? I wanted you to learn a lot about me, \nso I dragged you around to so many places……"
     },
     {
+      "name": "Gran Alegria",
+      "text": "But the scenery here is nice, so let's have a little \nchat while taking a break. Ummm… I really love Miles!!",
       "choice_data_list": [
         "Yeah, I can tell",
         "Yeah, I can tell"
-      ],
-      "name": "Gran Alegria",
-      "text": "But the scenery here is nice, so let's have a little \nchat while taking a break. Ummm… I really love Miles!!"
+      ]
     },
     {
       "text": "We'd only just met, but I could understand that much. \n——And that's why I couldn't say it thoughtlessly."
@@ -109,11 +109,11 @@
       "text": "I can't let myself get swept up in the moment and \nthen end up destroying her dream. I decided it \nwould be best to tell her my honest thoughts."
     },
     {
+      "name": "Gran Alegria",
+      "text": "………",
       "choice_data_list": [
         "………"
-      ],
-      "name": "Gran Alegria",
-      "text": "………"
+      ]
     },
     {
       "text": "I didn't say 『I can't do it』 \nI couldn't say that about something I had never tried before."
@@ -122,11 +122,11 @@
       "text": "But at this point, it was just so implausible and unimaginable \nfor me. That's what I wanted her to know but——"
     },
     {
+      "name": "Gran Alegria",
+      "text": "What, so that's all it is!",
       "choice_data_list": [
         "Ehh"
-      ],
-      "name": "Gran Alegria",
-      "text": "What, so that's all it is!"
+      ]
     },
     {
       "name": "Gran Alegria",

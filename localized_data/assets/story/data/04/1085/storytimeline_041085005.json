@@ -17,11 +17,11 @@
       "text": "No thanks."
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "Are you okay with this trainer? I'm going to \narrange a schedule so it doesn't get in the \nway of training.",
       "choice_data_list": [
         "There is plenty of time for training, but…"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "Are you okay with this trainer? I'm going to \narrange a schedule so it doesn't get in the \nway of training."
+      ]
     },
     {
       "text": "Her schedule is planned minute by minute. \nIs there enough time for rest and her hobby?"
@@ -34,18 +34,18 @@
       "text": "Since becoming Daiichi Ruby's personal trainer, \nI've been amazed at how busy her schedule is."
     },
     {
+      "text": "Other than daily training, there is also language lesson. \nFollowed by goodwill exchanges with the business world \nwhich are important for the heir of the noble family.",
       "choice_data_list": [
         "(I wonder if I can give her a little distraction…)"
-      ],
-      "text": "Other than daily training, there is also language lesson. \nFollowed by goodwill exchanges with the business world \nwhich are important for the heir of the noble family."
+      ]
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "Preparation is complete. \nIs it okay to follow the usual routine?",
       "choice_data_list": [
         "……No, let's go run outside today!",
         "……No, let's go run outside today!"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "Preparation is complete. \nIs it okay to follow the usual routine?"
+      ]
     },
     {
       "text": "I explained to Daichi Ruby about the sudden \nchange of schedule, that I had an idea and take \nher outside of the school."
@@ -61,11 +61,11 @@
       "text": "Hah… Hah…"
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "…………？",
       "choice_data_list": [
         "I'm thirsty, let's have a drink, shall we?"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "…………？"
+      ]
     },
     {
       "text": "I points to a honey drink shop across the \nstreet. The horse girls at the school were \ntalking about being healed by the sweetness, but―"
@@ -86,11 +86,11 @@
       "text": "Hah… Hah…"
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "……What is it this time.",
       "choice_data_list": [
         "Look, there's a beautiful bird over there!"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "……What is it this time."
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -104,18 +104,18 @@
       "text": "……Are we taking another break?"
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "Trainer-san, if you don't mean to taunt me, \nplease explain the purpose of today's training.",
       "choice_data_list": [
         "Seeing different scenery can stimulate your brain―"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "Trainer-san, if you don't mean to taunt me, \nplease explain the purpose of today's training."
+      ]
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "In short.",
       "choice_data_list": [
         "I thought it would be a good way to relax!"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "In short."
+      ]
     },
     {
       "name": "Daiichi Ruby",

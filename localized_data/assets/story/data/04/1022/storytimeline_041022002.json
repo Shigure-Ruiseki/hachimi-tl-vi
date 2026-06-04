@@ -5,12 +5,12 @@
       "text": "Several days later, I was visiting the \nHanshin racecourse to spectate. When-"
     },
     {
+      "name": "Fine Motion",
+      "text": "No way, you're…! \nWaaa, that badge, so you're one of the school's trainers!",
       "choice_data_list": [
         "You're… Your Highness, Fine Motion!?",
         "You're… Your Highness, Fine Motion!?"
-      ],
-      "name": "Fine Motion",
-      "text": "No way, you're…! \nWaaa, that badge, so you're one of the school's trainers!"
+      ]
     },
     {
       "name": "Fine Motion",
@@ -71,10 +71,10 @@
       "text": "Shakur…!"
     },
     {
+      "text": "At that moment - I casually look to my side and realize.",
       "choice_data_list": [
         "(Ah…just like before, those sparkling eyes…)"
-      ],
-      "text": "At that moment - I casually look to my side and realize."
+      ]
     },
     {
       "text": "(WHOOOOOOOOOA!)"
@@ -119,11 +119,11 @@
       "text": "Ah, Your Highness!? Please wait-!"
     },
     {
+      "name": "Fine Motion",
+      "text": "Haa, haa, haa… not yet, not yet! \nSave your strength, and then…!",
       "choice_data_list": [
         "…!?"
-      ],
-      "name": "Fine Motion",
-      "text": "Haa, haa, haa… not yet, not yet! \nSave your strength, and then…!"
+      ]
     },
     {
       "text": "I was surprised when she suddenly took off but… more so than \nthat, she displayed an unexpectedly splendid running form!"
@@ -132,11 +132,11 @@
       "text": "Her form is a little rough, but on the other hand there seems to \nbe some potential…And, maybe even more than that."
     },
     {
+      "name": "Fine Motion",
+      "text": "Haa, haa, and here…! \nLast, Spurt! Yaaaaaaaaa!!",
       "choice_data_list": [
         "(Again, that sparkle…)"
-      ],
-      "name": "Fine Motion",
-      "text": "Haa, haa, and here…! \nLast, Spurt! Yaaaaaaaaa!!"
+      ]
     },
     {
       "text": "I can't pull my gaze away from Fine Motion's eyes. \nIt's just that… she's-"
@@ -149,23 +149,23 @@
       "text": "Your Highness…! I-is something the matter?! \nHave you forgotten that sprinting at full \nspeed has been strictly forbidden?!"
     },
     {
+      "name": "Fine Motion",
+      "text": "Eh?…Ah! I'm deeply sorry! \nI… couldn't help myself.",
       "choice_data_list": [
         "You…aren't supposed to run?",
         "You…aren't supposed to run?"
-      ],
-      "name": "Fine Motion",
-      "text": "Eh?…Ah! I'm deeply sorry! \nI… couldn't help myself."
+      ]
     },
     {
       "name": "Fine Motion",
       "text": "Ahaha… yeah, that's how it is."
     },
     {
+      "name": "Fine Motion",
+      "text": "From the start \"Absolute Safety\" was a condition of studying \nabroad. Things where there's a risk of getting hurt… and \nrunning in races, all of those are forbidden.",
       "choice_data_list": [
         "All of that's forbidden…no way…"
-      ],
-      "name": "Fine Motion",
-      "text": "From the start \"Absolute Safety\" was a condition of studying \nabroad. Things where there's a risk of getting hurt… and \nrunning in races, all of those are forbidden."
+      ]
     },
     {
       "name": "Fine Motion",
@@ -176,11 +176,11 @@
       "text": "I wanted to be friends with, and speak with… all those girls \naround my age that were giving their all to chase their dreams."
     },
     {
+      "name": "Fine Motion",
+      "text": "Things like that, will become my treasure… It will become an \nimportant experience, with regards to fulfilling my duty.",
       "choice_data_list": [
         "(\"Fulfilling your duty\"…)"
-      ],
-      "name": "Fine Motion",
-      "text": "Things like that, will become my treasure… It will become an \nimportant experience, with regards to fulfilling my duty."
+      ]
     },
     {
       "text": "The weight of the words she casually spoke, unconsciously gave me \npause. This amiable, innocent girl…she's still-"
@@ -197,11 +197,11 @@
       "text": "I made friends, got to go to the stores I wanted to, and even got \nto spectate a few races at such a good place."
     },
     {
+      "name": "Fine Motion",
+      "text": "-I can return home, fully satisfied!",
       "choice_data_list": [
         "…really?"
-      ],
-      "name": "Fine Motion",
-      "text": "-I can return home, fully satisfied!"
+      ]
     },
     {
       "text": "That was the word that unconsciously came out of my mouth."
@@ -211,11 +211,11 @@
       "text": "…eh?"
     },
     {
+      "text": "She laughed, saying she was fully satisfied. Just \nbeing able to come to the academy, just making friends, \neven though she couldn't run. But-",
       "choice_data_list": [
         "Really, you're satisfied with only that…?",
         "Really, you're satisfied with only that…?"
-      ],
-      "text": "She laughed, saying she was fully satisfied. Just \nbeing able to come to the academy, just making friends, \neven though she couldn't run. But-"
+      ]
     },
     {
       "text": "Even though she said all that while laughing, \nher eyes weren't sparkling like before."
@@ -229,28 +229,28 @@
       "text": "…Your Highness, you will catch a cold out here. \nPlease return to your dorm."
     },
     {
+      "text": "In the end, her guard cut our conversation short so I couldn't \nspeak with her more than that. But…somewhere in my heart, I \nalready had my answer.",
       "choice_data_list": [
         "For sure, that girl-!"
-      ],
-      "text": "In the end, her guard cut our conversation short so I couldn't \nspeak with her more than that. But…somewhere in my heart, I \nalready had my answer."
+      ]
     },
     {
+      "name": "Air Shakur",
+      "text": "Hey…you got any idea what you're sticking your nose in to?",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Air Shakur",
-      "text": "Hey…you got any idea what you're sticking your nose in to?"
+      ]
     },
     {
       "name": "Air Shakur",
       "text": "Don't 'Eh' me with that stupid look on your face! \n…Ah, damnit."
     },
     {
+      "name": "Air Shakur",
+      "text": "-Don't even try to help with such half-hearted resolve.",
       "choice_data_list": [
         "(Resolve…)"
-      ],
-      "name": "Air Shakur",
-      "text": "-Don't even try to help with such half-hearted resolve."
+      ]
     },
     {
       "text": "That warning, sharply pierced my heart."

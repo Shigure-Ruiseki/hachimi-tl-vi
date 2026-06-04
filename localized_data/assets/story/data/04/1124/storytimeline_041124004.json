@@ -10,11 +10,11 @@
       "text": "――There's the same kind of tension as a real race. \nI wonder how Bubble-san is going to run against her today……?"
     },
     {
+      "name": "Experienced Trainer",
+      "text": "How will one of the rumored 『Elite Four』 do against \nsomeone like Symboli Rudolf? I'll be sure to get a good look――",
       "choice_data_list": [
         "Do your best, Bubble……!"
-      ],
-      "name": "Experienced Trainer",
-      "text": "How will one of the rumored 『Elite Four』 do against \nsomeone like Symboli Rudolf? I'll be sure to get a good look――"
+      ]
     },
     {
       "text": "(――Clank!!)"
@@ -24,11 +24,11 @@
       "text": "Ah, the same as last time……! \nBubble-san is taking the lead again……!"
     },
     {
+      "name": "Academy Trainee B",
+      "text": "……But, last time, wasn't her acceleration at the start more amazing? \nIt feels like she isn't creating a lead as big――",
       "choice_data_list": [
         "(Alright, this is good……!)"
-      ],
-      "name": "Academy Trainee B",
-      "text": "……But, last time, wasn't her acceleration at the start more amazing? \nIt feels like she isn't creating a lead as big――"
+      ]
     },
     {
       "name": "Experienced Trainer",
@@ -39,11 +39,11 @@
       "text": "Aaah, the lead is growing smaller! She couldn't hold \nthe lead……! Like this, it'll be worse than before――"
     },
     {
+      "text": "――Wrong. It wasn't that Bubble Gum Fellow couldn't increase \nher lead and was being passed. This was what we chose to do.",
       "choice_data_list": [
         "Now, Bubbleーーーー!!",
         "Now, Bubbleーーーー!!"
-      ],
-      "text": "――Wrong. It wasn't that Bubble Gum Fellow couldn't increase \nher lead and was being passed. This was what we chose to do."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -62,20 +62,20 @@
       "text": "But……huh……? \nDoesn't it seem like she's faster than before……!?"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "――In the second half, just match with her?",
       "choice_data_list": [
         "Don't take a big lead like last time",
         "Don't take a big lead like last time"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "――In the second half, just match with her?"
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "……Can I ask why?",
       "choice_data_list": [
         "Competing head-to-head gets you fired up",
         "Competing head-to-head gets you fired up"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "……Can I ask why?"
+      ]
     },
     {
       "text": "That was what I learned from analyzing Bubble Gum \nFellow's running to this date. Head-to-head competition \ncauses her fighting spirit to burn stronger."
@@ -87,12 +87,12 @@
       "text": "To create a chance of victory against someone on the level \nof Symboli Rudolf, we should bet on that explosive power……!"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "So, in other words, to increase the length of time I'm \ncompeting directly against Prez, match with her……is it?",
       "choice_data_list": [
         "Right. Stand ready, and accept it head on",
         "Right. Stand ready, and accept it head on"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "So, in other words, to increase the length of time I'm \ncompeting directly against Prez, match with her……is it?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -103,11 +103,11 @@
       "text": "Challenging Prez head on, with my strongest――――I'll win!!"
     },
     {
+      "name": "Academy Trainee B",
+      "text": "No way!? She's keeping up longer than before……! \nMaybe, she can……!?",
       "choice_data_list": [
         "Goーーーー!!!!"
-      ],
-      "name": "Academy Trainee B",
-      "text": "No way!? She's keeping up longer than before……! \nMaybe, she can……!?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -138,19 +138,19 @@
       "text": "Well then. Thank you for today――"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "…………Prez……―― \nThank you very much!",
       "choice_data_list": [
         "――――Bubble!!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "…………Prez……―― \nThank you very much!"
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer-san……! ……Sorry. \nEven though you helped me so much……I still lost.",
       "choice_data_list": [
         "No, it was me who was lacking……!",
         "No, it was me who was lacking……!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Trainer-san……! ……Sorry. \nEven though you helped me so much……I still lost."
+      ]
     },
     {
       "text": "If I had been able to do more, maybe it would have been enough \nto reach Symboli Rudolf. Even now……it was frustrating."
@@ -164,11 +164,11 @@
       "text": "Hey. About after this――"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "――Okay, cheers!",
       "choice_data_list": [
         "Cheers!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "――Okay, cheers!"
+      ]
     },
     {
       "text": "At Bubble Gum Fellow's suggestion, we were holding \nan 『After Party』 for both of us. The canned juice \nI drank strangely tasted better than usual."
@@ -178,19 +178,19 @@
       "text": "But still, it looks like you bought a lot of snacks, huh. \nWith so many choices, it'll be hard to decide……wait, this――"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Bubble gum! And it's my usual……! \nTrainer-san, did you buy this for me?",
       "choice_data_list": [
         "I figured you'd want some"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Bubble gum! And it's my usual……! \nTrainer-san, did you buy this for me?"
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Hahaa, you get me, don't you? \nThen, I'll gratefully accept.",
       "choice_data_list": [
         "……You really like bubble gum, huh?",
         "……You really like bubble gum, huh?"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Hahaa, you get me, don't you? \nThen, I'll gratefully accept."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -218,11 +218,11 @@
       "text": "Hahaa, what a nice sound! \n……So? Has your dream grown now too?"
     },
     {
+      "text": "……I nod. And then, \nI put to words the growing feelings I had right now.",
       "choice_data_list": [
         "――I want to be your trainer",
         "――I want to be your trainer"
-      ],
-      "text": "……I nod. And then, \nI put to words the growing feelings I had right now."
+      ]
     },
     {
       "text": "Straight-forward, fearlessly, expanding that dream without stopping. \nTogether with her……I had a dream that could not be broken."

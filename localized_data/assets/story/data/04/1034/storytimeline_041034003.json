@@ -5,18 +5,18 @@
       "text": "Several days have passed since the festival I went to with Inari One. \nWhen I was passing through the front gate of Tracen Academy――"
     },
     {
+      "name": "Inari One",
+      "text": "Let's see, the front gate is this way……oh, Uooh!! \nYou're, from that time……！",
       "choice_data_list": [
         "Oh！ Inari One……！？"
-      ],
-      "name": "Inari One",
-      "text": "Let's see, the front gate is this way……oh, Uooh!! \nYou're, from that time……！"
+      ]
     },
     {
+      "name": "Inari One",
+      "text": "Tahaha, looks like ya found me. \nWell～, you see, the reason I came here……",
       "choice_data_list": [
         "……want me to show you around？"
-      ],
-      "name": "Inari One",
-      "text": "Tahaha, looks like ya found me. \nWell～, you see, the reason I came here……"
+      ]
     },
     {
       "name": "Inari One",
@@ -107,18 +107,18 @@
       "text": "(……Huh？ These two……what's with them？ \nThere's a strange……sense of pressure――)"
     },
     {
+      "name": "Inari One",
+      "text": "……Hey. You, do ya know anything about those two？",
       "choice_data_list": [
         "They're Oguri Cap and Super Creek",
         "They're Oguri Cap and Super Creek"
-      ],
-      "name": "Inari One",
-      "text": "……Hey. You, do ya know anything about those two？"
+      ]
     },
     {
+      "text": "I answer her question. Both of them are Uma Musume who haven't debuted yet. \nHowever――",
       "choice_data_list": [
         "Both of them have huge potential"
-      ],
-      "text": "I answer her question. Both of them are Uma Musume who haven't debuted yet. \nHowever――"
+      ]
     },
     {
       "name": "Oguri Cap",
@@ -149,18 +149,18 @@
       "text": "What is this……what's with those two……！"
     },
     {
+      "text": "Next to me, Inari One had her breath taken away. \nJudging by her reaction, she was completely overwhelmed \nby their parallel running, but……",
       "choice_data_list": [
         "Inari One"
-      ],
-      "text": "Next to me, Inari One had her breath taken away. \nJudging by her reaction, she was completely overwhelmed \nby their parallel running, but……"
+      ]
     },
     {
+      "name": "Inari One",
+      "text": "Eh?",
       "choice_data_list": [
         "You can win against those two",
         "You can win against those two"
-      ],
-      "name": "Inari One",
-      "text": "Eh?"
+      ]
     },
     {
       "name": "Inari One",
@@ -199,29 +199,29 @@
       "text": "(……a narrow victory after a tough battle with opponents like these. \nAn explosive cheer louder than fireworks, with the Chief \nand everyone from town there)"
     },
     {
+      "name": "Inari One",
+      "text": "(And then, after I've won, \nthose guys joyfully come runnin'――)",
       "choice_data_list": [
         "……Inari One？"
-      ],
-      "name": "Inari One",
-      "text": "(And then, after I've won, \nthose guys joyfully come runnin'――)"
+      ]
     },
     {
       "name": "Inari One",
       "text": "Uwaaa！？ Ah……J-just now…… \n………………"
     },
     {
+      "name": "Inari One",
+      "text": "……Sorry！ I need to…… get goin' now！！",
       "choice_data_list": [
         "Eh！？ Wait……！！"
-      ],
-      "name": "Inari One",
-      "text": "……Sorry！ I need to…… get goin' now！！"
+      ]
     },
     {
+      "name": "Chief",
+      "text": "……Geez. I thought something like this might happen, you idiot.",
       "choice_data_list": [
         "Huh！？ Y-you're……！"
-      ],
-      "name": "Chief",
-      "text": "……Geez. I thought something like this might happen, you idiot."
+      ]
     },
     {
       "name": "Chief",

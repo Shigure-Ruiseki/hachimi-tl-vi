@@ -131,11 +131,11 @@
       "text": "And I need you and our trusty trainer to pitch in. You'd better start \npracticing your griddle skills."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "I don't like the sound of this at all… I'll have you taste it first, Trainer. \nSomeone needs to check if it's safe.",
       "choice_data_list": [
         "Safe? Don't you mean I should check if it tastes \ngood?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "I don't like the sound of this at all… I'll have you taste it first, Trainer. \nSomeone needs to check if it's safe."
+      ]
     },
     {
       "name": "Gold Ship",
@@ -153,10 +153,10 @@
       "text": "There you are."
     },
     {
+      "text": "Tazuna Hayakawa, assistant to the director of Tracen, approaches \nwith a big smile.",
       "choice_data_list": [
         "You were looking for me?"
-      ],
-      "text": "Tazuna Hayakawa, assistant to the director of Tracen, approaches \nwith a big smile."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -207,11 +207,11 @@
       "text": "No matter how many defeats or injuries, she kept on running. This \nracer had SO much heart. <i>Sob…</i>"
     },
     {
+      "text": "Her voice shatters the silence of the library. With no one else around, \nI know who it is I'm supposed to assist.",
       "choice_data_list": [
         "Are you the one who needs help with the \nSolefall Faire?",
         "Are you the one who needs help with the \nSolefall Faire?"
-      ],
-      "text": "Her voice shatters the silence of the library. With no one else around, \nI know who it is I'm supposed to assist."
+      ]
     },
     {
       "name": "???",
@@ -222,11 +222,11 @@
       "text": "Wait… I didn't introduce myself! Nice to meet ya! I'm Winning Ticket!"
     },
     {
+      "name": "Winning Ticket",
+      "text": "Really though, I volunteered 'cause I had this rad idea, but now that \nI'm in the thick of prepping, I can't manage at all.",
       "choice_data_list": [
         "I'm here to help. What do you need?"
-      ],
-      "name": "Winning Ticket",
-      "text": "Really though, I volunteered 'cause I had this rad idea, but now that \nI'm in the thick of prepping, I can't manage at all."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -287,11 +287,11 @@
       "text": "Oh, but I have to focus on the exhibit! We can't fail if we work \ntogether!"
     },
     {
+      "name": "Winning Ticket",
+      "text": "And you know, you can call me Tickezo. Easier than saying my full \nname, right?",
       "choice_data_list": [
         "You got it, Tickezo."
-      ],
-      "name": "Winning Ticket",
-      "text": "And you know, you can call me Tickezo. Easier than saying my full \nname, right?"
+      ]
     },
     {
       "name": "Winning Ticket",

@@ -12,11 +12,11 @@
       "text": "You're telling me to race Vodka again!?"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "…You mean as revenge for the Selection Race? \nWhat's the point in that?",
       "choice_data_list": [
         "To get the \"number one\" spot back."
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "…You mean as revenge for the Selection Race? \nWhat's the point in that?"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -27,23 +27,23 @@
       "text": "Just so you know, it won't be easy. \nYou have a plan, don't you?"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "Like, instead of letting me be the front runner I usually am, \nyou're going to tell me to save my stamina. But changing how I do \nthings all of a sudden won't do me any good against her…",
       "choice_data_list": [
         "Speed up one furlong earlier than usual."
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "Like, instead of letting me be the front runner I usually am, \nyou're going to tell me to save my stamina. But changing how I do \nthings all of a sudden won't do me any good against her…"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
       "text": "Huh!?"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "What the heck! Do you even know what \"stamina management\" \nis?? If anyone went all out that early, they'd \nobviously get exhausted and lose!",
       "choice_data_list": [
         "You're not just \"anyone\", you're \"number one\".",
         "You're not just \"anyone\", you're \"number one\"."
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "What the heck! Do you even know what \"stamina management\" \nis?? If anyone went all out that early, they'd \nobviously get exhausted and lose!"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -77,12 +77,12 @@
       "text": "I mean, a one-on-one with Scarlet and Vodka is bound to be \ninteresting!…Ah, looks like they're about to start!"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "…",
       "choice_data_list": [
         "Are you nervous?",
         "Are you nervous?"
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "…"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

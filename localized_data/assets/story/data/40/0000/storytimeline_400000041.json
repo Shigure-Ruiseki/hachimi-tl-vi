@@ -10,43 +10,43 @@
       "text": "By the way… it's finally that\ntime of year again!"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "It's almost time for the annual\n\"Summer Camp\" at Tracen Academy!",
       "choice_data_list": [
         "Summer Camp…!"
       ],
       "color_text_info_list": [
         "Summer Camp"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "It's almost time for the annual\n\"Summer Camp\" at Tracen Academy!"
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "This is a different kind of training, where\nyou stay overnight at the facility…",
       "color_text_info_list": [
         "a different kind of training"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "This is a different kind of training, where\nyou stay overnight at the facility…"
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "I'm sure your horse girl will\ngrow even more than usual!",
       "color_text_info_list": [
         "grow even more"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "I'm sure your horse girl will\ngrow even more than usual!"
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "… So please make sure she's in good shape\nfor the summer camp in July.",
       "color_text_info_list": [
         "July",
         "in good shape"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "… So please make sure she's in good shape\nfor the summer camp in July."
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "Summer camp goes by so fast! There's\nno time to take a \"break\".",
       "choice_data_list": [
         "Yes, ma'am!"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "Summer camp goes by so fast! There's\nno time to take a \"break\"."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -61,18 +61,18 @@
       "text": "Sometimes it's nice to take a break\nand \"go out\" to the beach!"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "I'm sure it will refresh your horse\ngirl and relieve her fatigue!",
       "choice_data_list": [
         "I see…"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "I'm sure it will refresh your horse\ngirl and relieve her fatigue!"
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "It's only a short two months\nfrom July to August, but…",
       "color_text_info_list": [
         "from July to August"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "It's only a short two months\nfrom July to August, but…"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -82,18 +82,18 @@
       "text": "Tazuna told me about the \"summer camp\"!"
     },
     {
+      "text": "I should pay attention to <chrname>'s\ncondition and energy to prepare\nfor the camp…",
       "color_text_info_list": [
         "condition",
         "energy"
-      ],
-      "text": "I should pay attention to <chrname>'s\ncondition and energy to prepare\nfor the camp…"
+      ]
     },
     {
+      "text": "It starts in two turns, in the first half of\nJuly, so we'd better start preparing now.",
       "color_text_info_list": [
         "in two turns",
         "preparing now"
-      ],
-      "text": "It starts in two turns, in the first half of\nJuly, so we'd better start preparing now."
+      ]
     }
   ]
 }

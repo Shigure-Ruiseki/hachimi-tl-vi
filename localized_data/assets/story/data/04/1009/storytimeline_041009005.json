@@ -17,12 +17,12 @@
       "text": "Now if you'll excuse me, I'll be going now!"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "…Phew. People have been asking me favors all day… \nI've got to start getting ready for training-",
       "choice_data_list": [
         "You look a bit tired.",
         "You look a bit tired."
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "…Phew. People have been asking me favors all day… \nI've got to start getting ready for training-"
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -37,12 +37,12 @@
       "text": "…Also, I'm not tired at all. \nYou're just imagining things."
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "Doing favors for people is part of my daily \nroutine so this is nothing to me.",
       "choice_data_list": [
         "Don't overdo it, okay?",
         "Don't overdo it, okay?"
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "Doing favors for people is part of my daily \nroutine so this is nothing to me."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -57,12 +57,12 @@
       "text": "That's what it means to be Daiwa Scarlet! \nI can handle something as small as this myself."
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "Don't worry about my personal life and just focus on my training.",
       "choice_data_list": [
         "I told you I'd support you, though?",
         "I told you I'd support you, though?"
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "Don't worry about my personal life and just focus on my training."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -93,11 +93,11 @@
       "text": "Wow, thanks! I knew I should have asked you! \nSee you at the storage room, then!"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "Trainer, sorry but you'll have to go without me.",
       "choice_data_list": [
         "I'll help you."
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "Trainer, sorry but you'll have to go without me."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
@@ -118,24 +118,24 @@
       "text": "Phew… That sure took longer than I thought it would. \nAnyway, let's get started."
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "…Hey, what's with you? You've been staring… are you angry at \nme? Well, sorry for making you wait.",
       "choice_data_list": [
         "Don't push yourself so hard.",
         "Don't push yourself so hard."
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "…Hey, what's with you? You've been staring… are you angry at \nme? Well, sorry for making you wait."
+      ]
     },
     {
       "name": "Daiwa Scarlet",
       "text": "I-I'm not! \nI can't stay number one if I can't even do something like that!"
     },
     {
+      "name": "Daiwa Scarlet",
+      "text": "The same goes for my training. \nI'll just have to make up for how long I've been late-",
       "choice_data_list": [
         "You've got to rely on me more!",
         "You've got to rely on me more!"
-      ],
-      "name": "Daiwa Scarlet",
-      "text": "The same goes for my training. \nI'll just have to make up for how long I've been late-"
+      ]
     },
     {
       "name": "Daiwa Scarlet",

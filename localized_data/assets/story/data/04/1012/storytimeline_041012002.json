@@ -60,12 +60,12 @@
       "text": "And don't trip, will ya!! ……Hehehh, she's looking \na lot stauncher than before."
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Might not be too long before she'll be a real \nforce to be reckoned with on the track…!",
       "choice_data_list": [
         "You sound pretty happy about that.",
         "You sound pretty happy about that."
-      ],
-      "name": "Hishi Amazon",
-      "text": "Might not be too long before she'll be a real \nforce to be reckoned with on the track…!"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -76,12 +76,12 @@
       "text": "Sound happy? Nah, I <i>am</i> happy. It's great to see \nthe younger kids getting stronger all the time!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "'Cause it also means I'll have that many more worthwhile \nopponents to have a one-v-one with, right?",
       "choice_data_list": [
         "Point taken.",
         "That's true."
-      ],
-      "name": "Hishi Amazon",
-      "text": "'Cause it also means I'll have that many more worthwhile \nopponents to have a one-v-one with, right?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -135,12 +135,12 @@
       "text": "How's this!? <i>Hoh! Huoo! Haaaah!!</i>"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Whew…… huh, you again?",
       "choice_data_list": [
         "You're going at it hard.",
         "You're going at it hard."
-      ],
-      "name": "Hishi Amazon",
-      "text": "Whew…… huh, you again?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -151,24 +151,24 @@
       "text": "I need to show the trainers there my best side \nand snag myself one with searing hot soul!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "I told ya before, didn't I? I wanna face off with those \nin the Twinkle Series, not just the kids at Tracen!",
       "choice_data_list": [
         "You really like having them battles, huh?",
         "You really like having them battles, huh?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "I told ya before, didn't I? I wanna face off with those \nin the Twinkle Series, not just the kids at Tracen!"
+      ]
     },
     {
       "name": "Hishi Amazon",
       "text": "Ahaha! Well of course, being at an academy \nlike this should make that clear!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "And also… I guess I got it from mom.",
       "choice_data_list": [
         "Your mom ran in races too?",
         "Your mom ran in races too?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "And also… I guess I got it from mom."
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -187,12 +187,12 @@
       "text": "I still remember my excitement clearly!! \nThese insanely fast runners were battling it out…!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "I was screaming things like \"amazing!\", \"unreal!\", \n\"I wanna join too!\", \"I wanna fight strong people!\", \nand jumped out of the stands!",
       "choice_data_list": [
         "You what?!",
         "You what?!"
-      ],
-      "name": "Hishi Amazon",
-      "text": "I was screaming things like \"amazing!\", \"unreal!\", \n\"I wanna join too!\", \"I wanna fight strong people!\", \nand jumped out of the stands!"
+      ]
     },
     {
       "name": "Hishi Amazon",

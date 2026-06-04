@@ -5,12 +5,12 @@
       "text": "Class was over for the day. I came to the office to pass the time \nbefore the start of evening training, when…"
     },
     {
+      "name": "Nice Nature",
+      "text": "Oh, Trainer-san. Don't mind me.",
       "choice_data_list": [
         "You're early!",
         "You're early!"
-      ],
-      "name": "Nice Nature",
-      "text": "Oh, Trainer-san. Don't mind me."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -32,12 +32,12 @@
       "text": "Really now, Trainer-san! It won't do to be out of \ntouch with the youth when it comes to these things… \nWell, I'd never heard of it either, but…"
     },
     {
+      "name": "Nice Nature",
+      "text": "Anyway, my friend insisted I read it. And you know what, I can \nsee why it's so popular. I'm telling you, I can't put it down!",
       "choice_data_list": [
         "Oh yeah? What's it about?",
         "Oh yeah? What's it about?"
-      ],
-      "name": "Nice Nature",
-      "text": "Anyway, my friend insisted I read it. And you know what, I can \nsee why it's so popular. I'm telling you, I can't put it down!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -48,12 +48,12 @@
       "text": "And right now she's just missed out on her dream of \nwinning the Triple Crown…! It's brutal!"
     },
     {
+      "name": "Nice Nature",
+      "text": "And she's like \"As long as I can run one more step… \nmy dream of being a star Uma Musume will never die…!!!\" \nAhh, I'm getting choked up again just thinking about it…!",
       "choice_data_list": [
         "Words to live by, huh.",
         "Words to live by, huh."
-      ],
-      "name": "Nice Nature",
-      "text": "And she's like \"As long as I can run one more step… \nmy dream of being a star Uma Musume will never die…!!!\" \nAhh, I'm getting choked up again just thinking about it…!"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -68,12 +68,12 @@
       "text": "Well I mean, uh, she is just a manga character, but…"
     },
     {
+      "name": "Nice Nature",
+      "text": "But you know what I mean, right? We've even got \na couple of girls like that at the academy. The \nreal celebs. You know who I'm talking about.",
       "choice_data_list": [
         "But you're not going to let them get \nthe better of you, am I right?",
         "But you're not going to let them get \nthe better of you, am I right?"
-      ],
-      "name": "Nice Nature",
-      "text": "But you know what I mean, right? We've even got \na couple of girls like that at the academy. The \nreal celebs. You know who I'm talking about."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -116,12 +116,12 @@
       "text": "She's all like… \"I know I'm not the strongest, I know I'm not the \nfastest… but I'll give it my best… so I can stand on the top step \nof the podium… and smile!\" You've got to read it!!"
     },
     {
+      "name": "Nice Nature",
+      "text": "Hahahaa hey! Whoa! Spoiler alert! Ahaha… wait, what? \nSHE said that? But she's just a background character, right?",
       "choice_data_list": [
         "You really are alike, huh.",
         "You really are alike, huh."
-      ],
-      "name": "Nice Nature",
-      "text": "Hahahaa hey! Whoa! Spoiler alert! Ahaha… wait, what? \nSHE said that? But she's just a background character, right?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -136,11 +136,11 @@
       "text": "Huh!? Not you too! No, no, no, no, no, don't be ridiculous, \nyou'd never catch me carrying on like that. C'mon, cut it out!"
     },
     {
+      "name": "Nice Nature",
+      "text": "Uhhh anyway! Isn't it time for training? I'm going to the track.",
       "choice_data_list": [
         "That's it! Reach for that top step!!!"
-      ],
-      "name": "Nice Nature",
-      "text": "Uhhh anyway! Isn't it time for training? I'm going to the track."
+      ]
     },
     {
       "name": "Nice Nature",

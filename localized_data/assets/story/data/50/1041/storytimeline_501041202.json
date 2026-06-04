@@ -10,12 +10,12 @@
       "text": "With my speed, I could run \nthrough it in a flash!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I'm going to win this thing, no problem!",
       "choice_data_list": [
         "You're full of fighting spirit!",
         "You're full of fighting spirit!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I'm going to win this thing, no problem!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -26,12 +26,12 @@
       "text": "After this win, the next is the Satsuki Sho. \nAfter that, the Japan Derby…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Yes, this is the gateway to my Classic \nbattlefield! Now that's something that fills \nyou with that fighting spirit!",
       "choice_data_list": [
         "Depending on the results… You haven't forgotten, \nhave you?",
         "Depending on the results… You haven't forgotten, \nhave you?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Yes, this is the gateway to my Classic \nbattlefield! Now that's something that fills \nyou with that fighting spirit!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

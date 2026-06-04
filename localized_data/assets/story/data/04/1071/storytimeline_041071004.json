@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Mejiro Ardan",
+      "text": "Well then, once more…… my name is Mejiro Ardan. \nFrom now on, I look forward to working under your kind guidance.",
       "choice_data_list": [
         "Looking forward to it, Ardan",
         "Looking forward to it, Ardan"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Well then, once more…… my name is Mejiro Ardan. \nFrom now on, I look forward to working under your kind guidance."
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -21,11 +21,11 @@
       "text": "And, just like that―"
     },
     {
+      "name": "Elderly Maid",
+      "text": "Well then… my lady Ardan, be careful but please enjoy yourself. \nTrainer-sama, please take good care of my lady.",
       "choice_data_list": [
         "Y-yes!"
-      ],
-      "name": "Elderly Maid",
-      "text": "Well then… my lady Ardan, be careful but please enjoy yourself. \nTrainer-sama, please take good care of my lady."
+      ]
     },
     {
       "text": "…After riding in a vehicle provided by the Mejiro household, we arrived \nat an art gallery."
@@ -38,29 +38,29 @@
       "text": "Maybe it was because I was still a little nervous from earlier, \nbut I couldn't keep calm and ended up glancing around…"
     },
     {
+      "text": "When I do, I happen to see what is apparently the title \nof this special exhibit.",
       "choice_data_list": [
         "…'Temporary Exposition'?"
-      ],
-      "text": "When I do, I happen to see what is apparently the title \nof this special exhibit."
+      ]
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Yes…… originally I had planned to explore the exhibit myself \nsince I was interested, but I wanted to see if Trainer-san \nwould accompany me.",
       "choice_data_list": [
         "What kind of exhibition is it?",
         "What kind of exhibition is it?"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Yes…… originally I had planned to explore the exhibit myself \nsince I was interested, but I wanted to see if Trainer-san \nwould accompany me."
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "…There's a wide variety of exhibits. \nPainting, sculptures, photographs, film, handicrafts―"
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "But each and every one of those, has one single common theme.",
       "choice_data_list": [
         "…A theme?"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "But each and every one of those, has one single common theme."
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -119,12 +119,12 @@
       "text": "For a long, long time, together with Mejiro Ardan, \nI stayed silently gazing at the picture―"
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "As I'm sure you're already aware. \n…I was born with a frail, extremely weak body.",
       "choice_data_list": [
         "……Yeah",
         "……Yeah"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "As I'm sure you're already aware. \n…I was born with a frail, extremely weak body."
+      ]
     },
     {
       "text": "After leaving the art gallery, we were taking a short break at a cafe. \nThat was how Mejiro Ardan, calmly started our conversation."
@@ -150,11 +150,11 @@
       "text": "I was originally supposed to be born with a twin but… the other was \nstillborn. They're probably desperate to make sure I don't \nmeet a similar end."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "However- \nEven with all that. \nEven despite that, Trainer-san.",
       "choice_data_list": [
         "……!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "However- \nEven with all that. \nEven despite that, Trainer-san."
+      ]
     },
     {
       "text": "And saying that, Mejiro Ardan — with those eyes \nfilled with extraordinary resolve, cast her gaze at me."
@@ -176,30 +176,30 @@
       "text": "No matter how short. Or fleeting. Or how slight that shine is."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "I, myself, wish to use the miracle of my life, \nto leave at least one mark \"right now\".",
       "choice_data_list": [
         "Ardan……"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "I, myself, wish to use the miracle of my life, \nto leave at least one mark \"right now\"."
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "……Would I be able to ask for your cooperation, Trainer-san?"
     },
     {
+      "text": "Mejiro Ardan, once again asked this of me. Each of the times before this, \nwhen faced with her resolve I was left speechless, but―",
       "choice_data_list": [
         "That picture from before, must definitely have been beautiful",
         "That picture from before, must definitely have been beautiful"
-      ],
-      "text": "Mejiro Ardan, once again asked this of me. Each of the times before this, \nwhen faced with her resolve I was left speechless, but―"
+      ]
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "……!",
       "choice_data_list": [
         "I'll do my best to make sure Ardan also shines like that",
         "I'll do my best to make sure Ardan also shines like that"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "……!"
+      ]
     },
     {
       "name": "Mejiro Ardan",

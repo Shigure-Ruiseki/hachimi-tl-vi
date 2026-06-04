@@ -8,19 +8,19 @@
       "text": "What I, as a trainer, could do for the girl who \nhas her goal of becoming Japan's number one at \nheart, but with a mind gone astray-"
     },
     {
+      "name": "Special Week",
+      "text": "Pant… Pant… Wha-Trainer-san!? Were you waiting \nfor me!? It's already late at night…",
       "choice_data_list": [
         "Wanna go out tomorrow?"
-      ],
-      "name": "Special Week",
-      "text": "Pant… Pant… Wha-Trainer-san!? Were you waiting \nfor me!? It's already late at night…"
+      ]
     },
     {
+      "name": "Special Week",
+      "text": "Eh, go out, you say? But, where to…?",
       "choice_data_list": [
         "To see the place you're aiming for!",
         "To see the place you're aiming for!"
-      ],
-      "name": "Special Week",
-      "text": "Eh, go out, you say? But, where to…?"
+      ]
     },
     {
       "text": "( Uwwooooohhh!! )"
@@ -42,12 +42,12 @@
       "text": "Not to mention the thunderous cheers…! It's ear-ringing even!"
     },
     {
+      "name": "Special Week",
+      "text": "What a spectacle… The Twinkle Series \nis really no thing short of amazing!",
       "choice_data_list": [
         "Since when did you aspire to be in it?",
         "Since when did you aspire to be in it?"
-      ],
-      "name": "Special Week",
-      "text": "What a spectacle… The Twinkle Series \nis really no thing short of amazing!"
+      ]
     },
     {
       "name": "Special Week",
@@ -82,11 +82,11 @@
       "text": "Before anything else, I got scolded for running off on my own… \nbut soon after, Mom held me tight, and said to me…"
     },
     {
+      "name": "Special Week",
+      "text": "…\"You're my pride and joy.\"",
       "choice_data_list": [
         "Pride and joy?"
-      ],
-      "name": "Special Week",
-      "text": "…\"You're my pride and joy.\""
+      ]
     },
     {
       "name": "Special Week",
@@ -257,11 +257,11 @@
       "text": "Oh my, Spe-chan, wasn't that…"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Pfft-Ahahahaha!! What perfect timing ~!",
       "choice_data_list": [
         "… Ahaha!"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Pfft-Ahahahaha!! What perfect timing ~!"
+      ]
     },
     {
       "name": "Special Week",

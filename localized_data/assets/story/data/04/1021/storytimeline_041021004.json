@@ -5,29 +5,29 @@
       "text": "After training on a day with the Selection Race \nlooming. I called out to Tamamo Cross since I \nwanted to talk to her about something…"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "I'm done with my cooldown now. \nAnd… what did ya wanna talk about?",
       "choice_data_list": [
         "My last bit of advice for the Selection Race",
         "My last bit of advice for the Selection Race"
-      ],
-      "name": "Tamamo Cross",
-      "text": "I'm done with my cooldown now. \nAnd… what did ya wanna talk about?"
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "Last bit of… advice? Whadaya mean by that? \nDon't tell me, ya started ta think I can't win-"
     },
     {
+      "text": "I shook my head, denying her words. It's the exact \nopposite. If it's Tamamo Cross, I believe she \ncan win, so in that way, it's the last.",
       "choice_data_list": [
         "On the day of the race, make sure to have fun"
-      ],
-      "text": "I shook my head, denying her words. It's the exact \nopposite. If it's Tamamo Cross, I believe she \ncan win, so in that way, it's the last."
+      ]
     },
     {
+      "name": "Tamamo Cross",
+      "text": "W-… what the heck are ya sayin'?! It's a serious competition! \nThere's no way I've got th' leeway ta just have fun!!",
       "choice_data_list": [
         "That's not true!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "W-… what the heck are ya sayin'?! It's a serious competition! \nThere's no way I've got th' leeway ta just have fun!!"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -51,11 +51,11 @@
       "text": "That's the main reason her motivation is so strong. Maybe that \ndesire to grow stronger has narrowed her field of view."
     },
     {
+      "text": "But those feelings are an irreplaceable, precious thing. \nTherefore, I told her this. Embrace those feelings and-",
       "choice_data_list": [
         "Become \"White Lightning\"!",
         "Become \"White Lightning\"!"
-      ],
-      "text": "But those feelings are an irreplaceable, precious thing. \nTherefore, I told her this. Embrace those feelings and-"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -65,12 +65,12 @@
       "text": "The feelings towards her family, and the joy of \nrunning. With both of those, Tamamo Cross will \ndefinitely win. That's the answer I came to."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "…I did say that. Faster an' havin' more fun \nthan anyone, White Lightning… but… havin' \nfun while runnin'… can I really win…?",
       "choice_data_list": [
         "Who decided you couldn't win?",
         "Who decided you couldn't win?"
-      ],
-      "name": "Tamamo Cross",
-      "text": "…I did say that. Faster an' havin' more fun \nthan anyone, White Lightning… but… havin' \nfun while runnin'… can I really win…?"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -101,12 +101,12 @@
       "text": "Tama, yer really making it look like yer havin' fun! \n-Yo, \"White Lightning\"! Japan's best!"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "…That last bit 'a advice, I got it. Ya better be lookin' \nforward ta th' Selection Race. Me too… I'll be havin' a blast!",
       "choice_data_list": [
         "Yeah!",
         "Yeah!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "…That last bit 'a advice, I got it. Ya better be lookin' \nforward ta th' Selection Race. Me too… I'll be havin' a blast!"
+      ]
     },
     {
       "text": "And so, the day of the Selection Race arrived-"
@@ -152,19 +152,19 @@
       "text": "That powerful drive at the end… I thought she \nwouldn't have enough power in that small body, \nbut she's not to be taken lightly…"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "-I did it, I did it I diiiiiid it! \nDid ya see tha' run?!",
       "choice_data_list": [
         "Yo, \"White Lightning\"!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "-I did it, I did it I diiiiiid it! \nDid ya see tha' run?!"
+      ]
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Got tha' right! 'sall thanks ta you! \nReally… really, thank ya! ",
       "choice_data_list": [
         "It's because you worked so hard",
         "It's because you worked so hard"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Got tha' right! 'sall thanks ta you! \nReally… really, thank ya! "
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -175,19 +175,19 @@
       "text": "…well, ya see. Now tha' th' Selection Race \nis over, our provisional contract is done, so \nI guess tha' makes me a free agent…"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "…so. If someone \nreally wanted ta scout me, I'd-",
       "choice_data_list": [
         "Once again, please let me scout you!",
         "Once again, please let me scout you!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "…so. If someone \nreally wanted ta scout me, I'd-"
+      ]
     },
     {
+      "name": "Tamamo Cross",
+      "text": "-probably -Hey, C'mon!! I was still talkin' here! \nShouldn't ya wait yer turn?! Why th' heck are ya so eager?!",
       "choice_data_list": [
         "I just really wanted a real contract!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "-probably -Hey, C'mon!! I was still talkin' here! \nShouldn't ya wait yer turn?! Why th' heck are ya so eager?!"
+      ]
     },
     {
       "name": "Tamamo Cross",

@@ -6,11 +6,11 @@
       "text": "…Excuse me, Trainer."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "You look like you're on edge. \nWhat's wrong?",
       "choice_data_list": [
         "I want you to win…"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "You look like you're on edge. \nWhat's wrong?"
+      ]
     },
     {
       "text": "If you're a sprinter, this is the pinnacle stage \nthat everyone dreams of standing on, at \nleast once. \nThis is a race I really want her to win."
@@ -57,10 +57,10 @@
       "text": "Hello, Ms. Bakushin O."
     },
     {
+      "text": "Nishino Flower. A sprinter who debuted at \nthe same time as Sakura Bakushin O. \nShe's a talented Uma who is rapidly making \na name for herself.",
       "color_text_info_list": [
         "Nishino Flower"
-      ],
-      "text": "Nishino Flower. A sprinter who debuted at \nthe same time as Sakura Bakushin O. \nShe's a talented Uma who is rapidly making \na name for herself."
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -90,11 +90,11 @@
       "text": "Her meek demeanor belies the fact that she \nhas great speed. She'll be Bakushin's \nbiggest rival in today's race."
     },
     {
+      "text": "Competing against Nishino Flower will surely \nbe an inspiration for Sakura Bakushin O. \nI can't wait to see it!",
       "choice_data_list": [
         "Do your best today, both of you.",
         "Do your best today, both of you."
-      ],
-      "text": "Competing against Nishino Flower will surely \nbe an inspiration for Sakura Bakushin O. \nI can't wait to see it!"
+      ]
     },
     {
       "name": "Nishino Flower",

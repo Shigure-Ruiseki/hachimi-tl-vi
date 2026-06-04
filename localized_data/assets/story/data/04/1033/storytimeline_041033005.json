@@ -10,10 +10,10 @@
       "text": "I'm not finished yet. \nI… I need to run more."
     },
     {
+      "text": "It has been a few days since I became her trainer.",
       "choice_data_list": [
         "<i>I'm still a little soft with her, so…</i>"
-      ],
-      "text": "It has been a few days since I became her trainer."
+      ]
     },
     {
       "text": "I'm currently taking notes on how Admire Vega runs. \nI will use this as a basis for her training going forward, but…"
@@ -33,20 +33,20 @@
       "text": "If I don't have a trainer, I won't be able to enter the \nTwinkle Series. So either way, I'd need one eventually…"
     },
     {
+      "text": "It's hard to get her to do training \nthat requires her to cooperate with me…",
       "choice_data_list": [
         "<i>But…</i>"
-      ],
-      "text": "It's hard to get her to do training \nthat requires her to cooperate with me…"
+      ]
     },
     {
       "text": "I am her trainer. I told her that I would support \nher no matter what, so I have to prove that to―"
     },
     {
+      "name": "Admire Vega",
+      "text": "I'm going to run somewhere else…",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Admire Vega",
-      "text": "I'm going to run somewhere else…"
+      ]
     },
     {
       "name": "Admire Vega",
@@ -72,10 +72,10 @@
       "text": "All… by myself."
     },
     {
+      "text": "I was so busy organizing my notes \nthat I didn't realize it was already nighttime.",
       "choice_data_list": [
         "But there's only a little left to do…"
-      ],
-      "text": "I was so busy organizing my notes \nthat I didn't realize it was already nighttime."
+      ]
     },
     {
       "text": "I hope I can get my feelings across to Admire Vega \ntomorrow. And I hope that I can be useful to her too."

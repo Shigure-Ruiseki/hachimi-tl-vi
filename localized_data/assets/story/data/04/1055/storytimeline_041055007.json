@@ -72,18 +72,18 @@
       "text": "As usual, Marvelous Sunday's positive attitude \nwas wonderful. It only took a moment to change \nthe other students' outlook to a positive one."
     },
     {
+      "text": "However, since we're at Summer Training Camp, I wonder if we \ncould find something more special――no, Marvelous, to enjoy.",
       "choice_data_list": [
         "……I should try to find something too",
         "……I should try to find something too"
-      ],
-      "text": "However, since we're at Summer Training Camp, I wonder if we \ncould find something more special――no, Marvelous, to enjoy."
+      ]
     },
     {
+      "name": "Marvelous Sunday",
+      "text": "Is something wrong? Your eyebrows are all scrunched up. \nWorried about something?",
       "choice_data_list": [
         "I'm fine. Nothing to worry about!"
-      ],
-      "name": "Marvelous Sunday",
-      "text": "Is something wrong? Your eyebrows are all scrunched up. \nWorried about something?"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -102,12 +102,12 @@
       "text": "I was sure Marvelous Sunday and the others would \nbe overjoyed! I needed to relay this information \nASAP so we could make preparations to go!"
     },
     {
+      "name": "Marvelous Sunday",
+      "text": "Waaiii~! Welcome back☆★☆ \nEveryone here's ready to go, Trainer!",
       "choice_data_list": [
         "E-eeh!? How did you know……?",
         "E-eeh!? How did you know……?"
-      ],
-      "name": "Marvelous Sunday",
-      "text": "Waaiii~! Welcome back☆★☆ \nEveryone here's ready to go, Trainer!"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -132,10 +132,10 @@
       "text": "『If I hadn't done that, what would you have done……?』"
     },
     {
+      "text": "I'm sure the old me would have asked something like that. \nBut weirdly, those weren't the words that came out. Instead――",
       "choice_data_list": [
         "Thanks!"
-      ],
-      "text": "I'm sure the old me would have asked something like that. \nBut weirdly, those weren't the words that came out. Instead――"
+      ]
     },
     {
       "name": "Marvelous Sunday",
@@ -157,11 +157,11 @@
       "text": "Ahahahaa! This is great! It's flashier than I imagined! \nThis'll cause a buzz~!!"
     },
     {
+      "name": "Marvelous Sunday",
+      "text": "It will! It's Marvelous! \nMarvelous☆ Marvelous★",
       "choice_data_list": [
         "Marvelous☆ Marvelous★"
-      ],
-      "name": "Marvelous Sunday",
-      "text": "It will! It's Marvelous! \nMarvelous☆ Marvelous★"
+      ]
     },
     {
       "text": "After that, we followed the floats in high spirits, \neventually arriving at the Summer Festival venue."
@@ -191,11 +191,11 @@
       "text": "Ahahahahaa! Everyone's Marvelous, huh☆ \nMore than usual, much much more, a happy Marvelous★"
     },
     {
+      "name": "Marvelous Sunday",
+      "text": "As I thought, rather than with just one person, with two――",
       "choice_data_list": [
         "With two of us it's better――"
-      ],
-      "name": "Marvelous Sunday",
-      "text": "As I thought, rather than with just one person, with two――"
+      ]
     },
     {
       "name": "Marvelous Sunday",

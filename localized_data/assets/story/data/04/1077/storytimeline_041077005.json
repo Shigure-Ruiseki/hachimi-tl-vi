@@ -22,28 +22,28 @@
       "text": "Eh!? ……Really? Then……can I ask you to do it? \nI'll definitely make it up to you later!"
     },
     {
+      "name": "Narita Top Road",
+      "text": "Ahaha, you don't need to thank me. Something like this'll \nbe over in an instant! Do your best in the interview!",
       "choice_data_list": [
         "(She's being relied on again, huh)",
         "(She's being relied on again, huh)"
-      ],
-      "name": "Narita Top Road",
-      "text": "Ahaha, you don't need to thank me. Something like this'll \nbe over in an instant! Do your best in the interview!"
+      ]
     },
     {
+      "text": "While I was working, I overheard the conversation \noutside my window. And it made me smile.",
       "choice_data_list": [
         "(I'll work hard too!)",
         "(I'll work hard too!)"
-      ],
-      "text": "While I was working, I overheard the conversation \noutside my window. And it made me smile."
+      ]
     },
     {
       "text": "I turned back to the paperwork that I was working on. \nWhen I finished, I headed out on to the grounds."
     },
     {
+      "text": "However, when I passed by the garbage area――",
       "choice_data_list": [
         "(Huh……?)"
-      ],
-      "text": "However, when I passed by the garbage area――"
+      ]
     },
     {
       "text": "Narita Top Road was standing there. There were \nseveral crows gathered around the bird net \nthat prevented them from getting to the garbage."
@@ -73,12 +73,12 @@
       "text": "Caaaaaaaaw."
     },
     {
+      "name": "Narita Top Road",
+      "text": "Hiiii!! \n……~~~~~~",
       "choice_data_list": [
         "Are you……bad with crows?",
         "Are you……bad with crows?"
-      ],
-      "name": "Narita Top Road",
-      "text": "Hiiii!! \n……~~~~~~"
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -89,44 +89,44 @@
       "text": "Um, well yeah……when I was a kid, one of them scared me…… \nEven now, I still get reminded of that time……"
     },
     {
+      "name": "Narita Top Road",
+      "text": "……But when it comes to crows, I can't help it though……",
       "choice_data_list": [
         "――I'll do it for you then"
-      ],
-      "name": "Narita Top Road",
-      "text": "……But when it comes to crows, I can't help it though……"
+      ]
     },
     {
+      "name": "Narita Top Road",
+      "text": "Eh? You don't need to, I'd feel bad!",
       "choice_data_list": [
         "I'm fine with crows. Let me do it.",
         "I'm fine with crows. Let me do it."
-      ],
-      "name": "Narita Top Road",
-      "text": "Eh? You don't need to, I'd feel bad!"
+      ]
     },
     {
       "name": "Narita Top Road",
       "text": "……You really helped me out. \nReally, thank you for that."
     },
     {
+      "name": "Narita Top Road",
+      "text": "Aaah~, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
       "choice_data_list": [
         "This isn't a big deal though……"
-      ],
-      "name": "Narita Top Road",
-      "text": "Aaah~, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!"
+      ]
     },
     {
+      "text": "While it was praiseworthy that she was doing something \nthat was left to her and trying to deal with something \nshe was bad with, seeing how she was earlier……",
       "choice_data_list": [
         "Couldn't you ask someone else?"
-      ],
-      "text": "While it was praiseworthy that she was doing something \nthat was left to her and trying to deal with something \nshe was bad with, seeing how she was earlier……"
+      ]
     },
     {
+      "name": "Narita Top Road",
+      "text": "……Well, it was a task I had accepted. \nI thought I needed to see it through to the end.",
       "choice_data_list": [
         "But the crows were unexpected, right?",
         "But the crows were unexpected, right?"
-      ],
-      "name": "Narita Top Road",
-      "text": "……Well, it was a task I had accepted. \nI thought I needed to see it through to the end."
+      ]
     },
     {
       "name": "Narita Top Road",
@@ -149,11 +149,11 @@
       "text": "Living up to expectations makes it all worthwhile!"
     },
     {
+      "name": "Narita Top Road",
+      "text": "……though, I guess it's not very convincing when you had to come help me.",
       "choice_data_list": [
         "No, I think it's a great mindset"
-      ],
-      "name": "Narita Top Road",
-      "text": "……though, I guess it's not very convincing when you had to come help me."
+      ]
     },
     {
       "name": "Narita Top Road",

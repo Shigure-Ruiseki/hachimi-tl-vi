@@ -10,11 +10,11 @@
       "text": "That's what surprised me. Even though she was a student at \nTracen Academy, she hadn't changed a bit. On that day ——"
     },
     {
+      "name": "Nakayama's Former Teacher",
+      "text": "Festa was the opponent of a certain French Umamusume \nwho had made a name for herself internationally.",
       "choice_data_list": [
         "Huh?!"
-      ],
-      "name": "Nakayama's Former Teacher",
-      "text": "Festa was the opponent of a certain French Umamusume \nwho had made a name for herself internationally."
+      ]
     },
     {
       "name": "Nakayama's Former Teacher",
@@ -45,11 +45,11 @@
       "text": "\"AAARRRGGG! Shut up, shut up, SHUT UP! \nShut up, stupid heartbeat! I feel-\""
     },
     {
+      "name": "Nakayama Festa",
+      "text": "\"Alive…\"",
       "choice_data_list": [
         "(…Alive?)"
-      ],
-      "name": "Nakayama Festa",
-      "text": "\"Alive…\""
+      ]
     },
     {
       "name": "Nakayama's Former Teacher",
@@ -60,11 +60,11 @@
       "text": "Perhaps it was a reaction to going beyond her limits, but she \nwas a world-class Umamusume in a pre-debut body."
     },
     {
+      "name": "Nakayama's Former Teacher",
+      "text": "<i>…Cough, cough…!</i>",
       "choice_data_list": [
         "Are you okay?!"
-      ],
-      "name": "Nakayama's Former Teacher",
-      "text": "<i>…Cough, cough…!</i>"
+      ]
     },
     {
       "name": "Nakayama's Former Teacher",
@@ -83,37 +83,37 @@
       "text": "But the passion that brings her is just \nfor kicks. What she's really after is…"
     },
     {
+      "name": "Nakayama's Former Teacher",
+      "text": "A race that ignites her instincts. \nThat is the only moment she can let herself go.",
       "choice_data_list": [
         "…A race that ignites her instincts."
-      ],
-      "name": "Nakayama's Former Teacher",
-      "text": "A race that ignites her instincts. \nThat is the only moment she can let herself go."
+      ]
     },
     {
       "text": "I think about that as I leave the hospital. The video \nI saw of her running was completely different from \nher performance at the tryout race."
     },
     {
+      "text": "The challenge is already clear. There are some races \nshe can take seriously and others she can't.",
       "choice_data_list": [
         "(The race I saw in that video, for one.)"
-      ],
-      "text": "The challenge is already clear. There are some races \nshe can take seriously and others she can't."
+      ]
     },
     {
+      "text": "She was completely outclassed. The odds would've been \n10 to 1 in her opponent's favor. That's why. If she had won, \nshe'd have been…",
       "choice_data_list": [
         "<size=34>Is that the kind of gamble that ignites her passion?</size>",
         "<size=34>Is that the kind of gamble that ignites her passion?</size>"
-      ],
-      "text": "She was completely outclassed. The odds would've been \n10 to 1 in her opponent's favor. That's why. If she had won, \nshe'd have been…"
+      ]
     },
     {
       "text": "If one could intentionally create a gamble like that, I wonder if \nNakayama Festa would always feel \"alive\"."
     },
     {
+      "text": "I forced myself to dry swallow despite my parched throat. What I \nhad come up with was just a fantasy. An unrealistic hypothetical.",
       "choice_data_list": [
         "If that was the case, maybe it would \nbe what I could do to help her live.",
         "If that was the case, maybe it would \nbe what I could do to help her live."
-      ],
-      "text": "I forced myself to dry swallow despite my parched throat. What I \nhad come up with was just a fantasy. An unrealistic hypothetical."
+      ]
     },
     {
       "text": "Could a method like \"that\" carry world-class \ntalent to its fullest potential…?"
@@ -122,23 +122,23 @@
       "text": "That night. I asked Miho's dorm leader to let me \nstand at the dormitory's entrance for a while."
     },
     {
+      "name": "Nakayama Festa",
+      "text": "…Hm? What are you…",
       "choice_data_list": [
         "I thought I'd see you if I waited here.",
         "I thought I'd see you if I waited here."
-      ],
-      "name": "Nakayama Festa",
-      "text": "…Hm? What are you…"
+      ]
     },
     {
       "text": "Pointing to the trainer badge on my lapel, I explained \nthat she was the one who helped me before and that \nI'd watched the tryout race."
     },
     {
+      "name": "Nakayama Festa",
+      "text": "Oh, it was you. I knew I had seen that suspicious \nperson before. So… you came here to lecture me? \nYou should take running more seriously.",
       "choice_data_list": [
         "I saw the video of you competing \nagainst a foreign Umamusume.",
         "I saw the video of you competing \nagainst a foreign Umamusume."
-      ],
-      "name": "Nakayama Festa",
-      "text": "Oh, it was you. I knew I had seen that suspicious \nperson before. So… you came here to lecture me? \nYou should take running more seriously."
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -149,19 +149,19 @@
       "text": "That race was an illusion. Just a fluke. You saw the tryouts, \nyou know what I mean. I'll never have a race like that again."
     },
     {
+      "name": "Nakayama Festa",
+      "text": "Worst case scenario, I throw a fit. I'll end up losing my debut \nand every maiden race that comes after, and that'll be that. \n…Some brat who was never able to really get fired up.",
       "choice_data_list": [
         "I won't let that happen, I'll let you live.",
         "I won't let that happen, I'll let you live."
-      ],
-      "name": "Nakayama Festa",
-      "text": "Worst case scenario, I throw a fit. I'll end up losing my debut \nand every maiden race that comes after, and that'll be that. \n…Some brat who was never able to really get fired up."
+      ]
     },
     {
+      "name": "Nakayama Festa",
+      "text": "….Wha?",
       "choice_data_list": [
         "Let's go pick a fight against the world."
-      ],
-      "name": "Nakayama Festa",
-      "text": "….Wha?"
+      ]
     },
     {
       "text": "If she wants a thrilling gamble, she should put herself in \na situation where she has no choice but to be thrilled. \nShe could even cut off all her escape routes."
@@ -185,12 +185,12 @@
       "text": "Yeah. I've been looking for someone to pass the mask onto \nfor a while. But then I decided! The one who should win over \nthe world is none other than myself!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Now, long term expedition plans are already in the making! \nYou can look forward to seeing me as early as next year.",
       "choice_data_list": [
         "<size=38>But first, we'll compete against you, and win.</size>",
         "<size=38>But first, we'll compete against you, and win.</size>"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Now, long term expedition plans are already in the making! \nYou can look forward to seeing me as early as next year."
+      ]
     },
     {
       "name": "Reporters",
@@ -209,20 +209,20 @@
       "text": "…You've finished the game and became a thing of the past. \nThe one who can put that ticket to good use is me."
     },
     {
+      "name": "El Condor Pasa",
+      "text": "…",
       "choice_data_list": [
         "We're here to put our futures on the line.",
         "We're here to put our futures on the line."
-      ],
-      "name": "El Condor Pasa",
-      "text": "…"
+      ]
     },
     {
+      "name": "Nakayama Festa",
+      "text": "Challenge the El? The one who placed during the \nPrix de l'Arc de Triomphe? While she's being interviewed \nin front of the press before my debut?",
       "choice_data_list": [
         "<size=34>And just like that, you'll be on the world's radar.</size>",
         "<size=34>And just like that, you'll be on the world's radar.</size>"
-      ],
-      "name": "Nakayama Festa",
-      "text": "Challenge the El? The one who placed during the \nPrix de l'Arc de Triomphe? While she's being interviewed \nin front of the press before my debut?"
+      ]
     },
     {
       "text": "With such big talk, the media has to take the bait. Her future \nwill be the focus of attention from his debut race on, adding \ntension to every race."
@@ -235,12 +235,12 @@
       "text": "Haha, if that were to happen every time, I'd have \nno choice but to get fired up. And what if I'm \na complete failure in my race against El?"
     },
     {
+      "name": "Nakayama Festa",
+      "text": "If nobody thinks I'm even worth looking into after that, \nthat's the end of the line, you know?",
       "choice_data_list": [
         "Isn't that kind of \"fear\" necessary \nin the games you play?",
         "Isn't that kind of \"fear\" necessary \nin the games you play?"
-      ],
-      "name": "Nakayama Festa",
-      "text": "If nobody thinks I'm even worth looking into after that, \nthat's the end of the line, you know?"
+      ]
     },
     {
       "name": "Nakayama Festa",

@@ -54,23 +54,23 @@
       "text": "(Is it because I can't win that I'm afraid? \nBecause I was afraid of that person, did I……)"
     },
     {
+      "name": "Verxina",
+      "text": "Give up……?",
       "choice_data_list": [
         "Sorry, do you have a moment?"
-      ],
-      "name": "Verxina",
-      "text": "Give up……?"
+      ]
     },
     {
       "name": "Verxina",
       "text": "……? You're――"
     },
     {
+      "name": "Verxina",
+      "text": "――I see, Vivlos told you about this place.",
       "choice_data_list": [
         "I wanted to properly talk to you at least once",
         "I wanted to properly talk to you at least once"
-      ],
-      "name": "Verxina",
-      "text": "――I see, Vivlos told you about this place."
+      ]
     },
     {
       "name": "Verxina",
@@ -81,30 +81,30 @@
       "text": "Thank you very much, for worrying about me. \nHowever, I don't think there's anything more to talk about."
     },
     {
+      "name": "Verxina",
+      "text": "As I've already mentioned, I'm rejecting all \nscouting offers. When it comes to debuting, I……――",
       "choice_data_list": [
         "You said you 『Gave up』――Are you serious?"
-      ],
-      "name": "Verxina",
-      "text": "As I've already mentioned, I'm rejecting all \nscouting offers. When it comes to debuting, I……――"
+      ]
     },
     {
       "name": "Verxina",
       "text": "……I don't know. \nHowever, I can't help but feel like it's impossible."
     },
     {
+      "name": "Verxina",
+      "text": "It must be because I'm afraid of Gentildonna-san……",
       "choice_data_list": [
         "……Don't you think that's not true?"
-      ],
-      "name": "Verxina",
-      "text": "It must be because I'm afraid of Gentildonna-san……"
+      ]
     },
     {
+      "name": "Verxina",
+      "text": "Eh……?",
       "choice_data_list": [
         "You're aiming for the 『Peak』, but for who?",
         "You're aiming for the 『Peak』, but for who?"
-      ],
-      "name": "Verxina",
-      "text": "Eh……?"
+      ]
     },
     {
       "name": "Verxina",
@@ -136,11 +136,11 @@
       "text": "And at times, even become the obstacle to be overcome."
     },
     {
+      "text": "As their predecessor, she wanted to shine bright. That's \nwhat it meant to be the Uma Musume, Verxina. In that case――",
       "choice_data_list": [
         "Is she really what you're afraid of?",
         "Is she really what you're afraid of?"
-      ],
-      "text": "As their predecessor, she wanted to shine bright. That's \nwhat it meant to be the Uma Musume, Verxina. In that case――"
+      ]
     },
     {
       "name": "Verxina",
@@ -214,38 +214,38 @@
       "text": "I've resolved myself to that. I was losing sight of \nmyself, but you helped me remember what my true goal was."
     },
     {
+      "text": "From the way Verxina was speaking now, that sense of pride \nI felt in her now was the same as when I first saw her.",
       "choice_data_list": [
         "In that case, I'd like to scout you"
-      ],
-      "text": "From the way Verxina was speaking now, that sense of pride \nI felt in her now was the same as when I first saw her."
+      ]
     },
     {
+      "name": "Verxina",
+      "text": "Eh……?",
       "choice_data_list": [
         "Will you let me help you on that path?",
         "Will you let me help you on that path?"
-      ],
-      "name": "Verxina",
-      "text": "Eh……?"
+      ]
     },
     {
+      "name": "Verxina",
+      "text": "But……are you okay with that? \nI already declined your offer before……",
       "choice_data_list": [
         "It can't be anyone but you!",
         "It can't be anyone but you!"
-      ],
-      "name": "Verxina",
-      "text": "But……are you okay with that? \nI already declined your offer before……"
+      ]
     },
     {
       "name": "Verxina",
       "text": "Trainer-san…… \nThen, can I ask you to accompany on this path――"
     },
     {
+      "name": "Verxina",
+      "text": "To not lose to anyone――even Gentildonna-san, \non the Queen's path to the 『Peak』, together.",
       "choice_data_list": [
         "Yeah! Together we'll reach the 『Peak』!",
         "Yeah! Together we'll reach the 『Peak』!"
-      ],
-      "name": "Verxina",
-      "text": "To not lose to anyone――even Gentildonna-san, \non the Queen's path to the 『Peak』, together."
+      ]
     },
     {
       "name": "Verxina",

@@ -24,12 +24,12 @@
       "text": "Espoir, I got you some pepper steak with carrots and yogurt on the side!"
     },
     {
+      "name": "Espoir City",
+      "text": "I don't need all this crap! How much do you think I eat, dammit?!",
       "choice_data_list": [
         "Getting along well, I see.",
         "Getting along well, I see."
-      ],
-      "name": "Espoir City",
-      "text": "I don't need all this crap! How much do you think I eat, dammit?!"
+      ]
     },
     {
       "name": "Espoir City",
@@ -79,12 +79,12 @@
       "text": "After breakfast, we're supposed to start training for the day, but…"
     },
     {
+      "name": "Espoir City",
+      "text": "Uuughhh…",
       "choice_data_list": [
         "What's the matter?",
         "What's the matter?"
-      ],
-      "name": "Espoir City",
-      "text": "Uuughhh…"
+      ]
     },
     {
       "name": "Espoir City",
@@ -99,11 +99,11 @@
       "text": "(Wait, then… what <i>do</i> I want to say, exactly? 'Lookin' for a fight, punk?!' No, that's not it… it's more like…)"
     },
     {
+      "name": "Espoir City",
+      "text": "(Ugh, damn it all! Why the hell am I so worked up about this?!)",
       "choice_data_list": [
         "(W-What exactly is going on here?!)"
-      ],
-      "name": "Espoir City",
-      "text": "(Ugh, damn it all! Why the hell am I so worked up about this?!)"
+      ]
     },
     {
       "name": "Espoir City",
@@ -118,11 +118,11 @@
       "text": "(Wait, no! 'Ur pretty useful ig' is probably fine…)"
     },
     {
+      "name": "Espoir City",
+      "text": "Hey, you! \nC'mere a sec.",
       "choice_data_list": [
         "W-What's up?"
-      ],
-      "name": "Espoir City",
-      "text": "Hey, you! \nC'mere a sec."
+      ]
     },
     {
       "name": "Espoir City",
@@ -132,12 +132,12 @@
       "text": "(Sploosh!)"
     },
     {
+      "name": "Espoir City",
+      "text": "Ah?! A-All my hard work…",
       "choice_data_list": [
         "Um… is there something in the sea, or…?",
         "Um… is there something in the sea, or…?"
-      ],
-      "name": "Espoir City",
-      "text": "Ah?! A-All my hard work…"
+      ]
     },
     {
       "name": "Espoir City",
@@ -179,96 +179,96 @@
       "text": "Espoir City has been in a bad mood today ever since we started training. I'm wondering if it's because she's worn out from all the activities, when…"
     },
     {
+      "name": "Espoir City",
+      "text": "Hey… hey!",
       "choice_data_list": [
         "Hm?"
-      ],
-      "name": "Espoir City",
-      "text": "Hey… hey!"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "C'mere a sec."
     },
     {
+      "text": "Perplexed though I am, I follow her to the beach.",
       "choice_data_list": [
         "(Is that… a watermelon? And a bat?)"
-      ],
-      "text": "Perplexed though I am, I follow her to the beach."
+      ]
     },
     {
+      "name": "Espoir City",
+      "text": "So. If you… tried to split that watermelon, I wonder what would happen, yeah?",
       "choice_data_list": [
         "Why?"
-      ],
-      "name": "Espoir City",
-      "text": "So. If you… tried to split that watermelon, I wonder what would happen, yeah?"
+      ]
     },
     {
+      "name": "Espoir City",
+      "text": "J-Just shut up and hit the damn watermelon! I went and bought it myself, and it's a real good one, okay?!",
       "choice_data_list": [
         "Whaaa…?"
-      ],
-      "name": "Espoir City",
-      "text": "J-Just shut up and hit the damn watermelon! I went and bought it myself, and it's a real good one, okay?!"
+      ]
     },
     {
       "text": "I'm still clueless, but Espoir City ties a bandana around my eyes for me. On the already-dim beach, I blindly try to split the watermelon, now in total darkness."
     },
     {
+      "name": "Espoir City",
+      "text": "Where are you goin', dumbass?! \nTo the right! No, not your right, <i>my</i> right!",
       "choice_data_list": [
         "(Where the heck?)"
-      ],
-      "name": "Espoir City",
-      "text": "Where are you goin', dumbass?! \nTo the right! No, not your right, <i>my</i> right!"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "Woah, woah, why the hell're you going in the ocean?! There's a jellyfish like thirty centimeters from you! Get outta there!"
     },
     {
+      "name": "Espoir City",
+      "text": "Ooh?! That's good, right there is perfect! Go for it!",
       "choice_data_list": [
         "H-Hiyaaah!"
-      ],
-      "name": "Espoir City",
-      "text": "Ooh?! That's good, right there is perfect! Go for it!"
+      ]
     },
     {
       "text": "(Bam!)"
     },
     {
+      "text": "I lift the bandana, and the perfectly split watermelon is laying in front of me— along with what appears to be a letter.",
       "choice_data_list": [
         "(What is this?)"
-      ],
-      "text": "I lift the bandana, and the perfectly split watermelon is laying in front of me— along with what appears to be a letter."
+      ]
     },
     {
       "text": "\"Thx for everything\""
     },
     {
+      "name": "Espoir City",
+      "text": "…",
       "choice_data_list": [
         "U-Um, what's this…?"
-      ],
-      "name": "Espoir City",
-      "text": "…"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "Urghhh… \"Everything\" means \"everything\", and \"thx for\" means \"thanks for\" obviously, you dumbass!"
     },
     {
+      "name": "Espoir City",
+      "text": "Or do you not know what \"thanks for\" and \"everything\" means, somehow?! Do I gotta teach you the alphabet next or what?!",
       "choice_data_list": [
         "N-No, I…"
-      ],
-      "name": "Espoir City",
-      "text": "Or do you not know what \"thanks for\" and \"everything\" means, somehow?! Do I gotta teach you the alphabet next or what?!"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "Anyway, I don't need you here anymore! Enjoy your watermelon n' go home already! I'm out!"
     },
     {
+      "text": "With that, Espoir City storms off the beach, leaving just me and the watermelon in the moonlight.",
       "choice_data_list": [
         "…You're welcome."
-      ],
-      "text": "With that, Espoir City storms off the beach, leaving just me and the watermelon in the moonlight."
+      ]
     },
     {
       "text": "She's awkward till the very end."

@@ -106,10 +106,10 @@
       "text": "Miss Stego's running, it is as if she reached \nher full speed… I… what should I…"
     },
     {
+      "text": "I waited to greet the Stay Gold who ran \ntremendously well at the Satsuki Sho \ntoday. Her expression was that of \nmaximum satisfaction…!",
       "choice_data_list": [
         "That was the greatest Satsuki Sho ever…!"
-      ],
-      "text": "I waited to greet the Stay Gold who ran \ntremendously well at the Satsuki Sho \ntoday. Her expression was that of \nmaximum satisfaction…!"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -144,12 +144,12 @@
       "text": "That's the way."
     },
     {
+      "name": "Stay Gold",
+      "text": "——Now then, Trainer. Let's have \neven more fun with the next one.",
       "choice_data_list": [
         "Yeah, for sure!",
         "Yeah, for sure!"
-      ],
-      "name": "Stay Gold",
-      "text": "——Now then, Trainer. Let's have \neven more fun with the next one."
+      ]
     },
     {
       "text": "With this, Stay Gold has successfully won \nher first battle with the Classics —"
@@ -158,28 +158,28 @@
       "text": "——That night."
     },
     {
+      "text": "Now that we're facing the Japan Derby, \nI'm reflecting on today's performance \nat the Satsuki Sho.",
       "choice_data_list": [
         "(…Honestly, this development was abrupt)"
-      ],
-      "text": "Now that we're facing the Japan Derby, \nI'm reflecting on today's performance \nat the Satsuki Sho."
+      ]
     },
     {
       "text": "It was apparent that Meijiro Bright \nwas the one expected to win."
     },
     {
+      "text": "Sharing an incredibly strong connection, \nStay Gold named her as one of the 'Ones \nWho Shine', which is why I also found \nmyself feeling cautious about this race but —",
       "choice_data_list": [
         "(…Her power couldn't dominate the race)"
-      ],
-      "text": "Sharing an incredibly strong connection, \nStay Gold named her as one of the 'Ones \nWho Shine', which is why I also found \nmyself feeling cautious about this race but —"
+      ]
     },
     {
       "text": "She was certainly strong, yet I couldn't \ndeny that there were other horse girls \nwho emitted a far more oppressive aura \nthan Bright could…"
     },
     {
+      "text": "Ending on that note, just as I was about \nto start adjusting our strategies for the \nupcoming Japan Derby —",
       "choice_data_list": [
         "(…A harmonica?)"
-      ],
-      "text": "Ending on that note, just as I was about \nto start adjusting our strategies for the \nupcoming Japan Derby —"
+      ]
     },
     {
       "text": "I was able to hear it's sound floating gently \nthrough the night. Guided by the tune, I \nexited the trainer's suite and —"
@@ -189,11 +189,11 @@
       "text": "————"
     },
     {
+      "name": "Stay Gold",
+      "text": "…Thought I'd take a break and go for a walk.",
       "choice_data_list": [
         "…I thought I heard you in the distance"
-      ],
-      "name": "Stay Gold",
-      "text": "…Thought I'd take a break and go for a walk."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -215,12 +215,12 @@
       "text": "Bright in the other world glimmered \nwith a power that could carry her on \nfor thousands of miles."
     },
     {
+      "name": "Stay Gold",
+      "text": "I'm sure she's on her way to finding that \npower… like a flower bud hoping to bloom.",
       "choice_data_list": [
         "So her glimmer has yet to shine…",
         "So her glimmer has yet to shine…"
-      ],
-      "name": "Stay Gold",
-      "text": "I'm sure she's on her way to finding that \npower… like a flower bud hoping to bloom."
+      ]
     },
     {
       "name": "Stay Gold",
@@ -239,11 +239,11 @@
       "text": "To Bright and the other guys, I have no \nidea what the future holds for them."
     },
     {
+      "name": "Stay Gold",
+      "text": "Of course, that includes me as well… \nBut ——",
       "choice_data_list": [
         "…Let's both look forward to all of this."
-      ],
-      "name": "Stay Gold",
-      "text": "Of course, that includes me as well… \nBut ——"
+      ]
     },
     {
       "name": "Stay Gold",

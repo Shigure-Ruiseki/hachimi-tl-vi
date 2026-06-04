@@ -21,11 +21,11 @@
       "text": "I came across Stay Gold, who was \nrestlessly looking over her body."
     },
     {
+      "name": "Stay Gold",
+      "text": "Hey, you… can you see it?",
       "choice_data_list": [
         "Can I see it? …See what?"
-      ],
-      "name": "Stay Gold",
-      "text": "Hey, you… can you see it?"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -51,12 +51,12 @@
       "text": "Whatever could this light be? The colors are \ndiverse, the illumination sways from sparkling \nto flickering, it's all over the place…"
     },
     {
+      "name": "Stay Gold",
+      "text": "Haha, I don't get it. But it sure is interesting! \nI want to uncover the truth behind this…",
       "choice_data_list": [
         "<size=38>How about consulting an expert on ghosts?</size>",
         "I think you can swat it down with your tail."
-      ],
-      "name": "Stay Gold",
-      "text": "Haha, I don't get it. But it sure is interesting! \nI want to uncover the truth behind this…"
+      ]
     },
     {
       "name": "Stay Gold",
@@ -79,11 +79,11 @@
       "text": "It might be something akin to a \n\"fragmented thought\". I feel a faint \nspiritual energy behind them…"
     },
     {
+      "name": "Stay Gold",
+      "text": "A spiritual energy, huh. \nI see, it could very well be…",
       "choice_data_list": [
         "Do you have an idea?"
-      ],
-      "name": "Stay Gold",
-      "text": "A spiritual energy, huh. \nI see, it could very well be…"
+      ]
     },
     {
       "name": "Stay Gold",

@@ -94,16 +94,16 @@
       "text": "As boos echo across the stadium, McQueen sends a wholehearted \ncheer to the stage."
     },
     {
+      "text": "If no one else wants to sing Rice Shower's praises, then it's up to us to \ndo so, as her teammates.",
       "choice_data_list": [
         "Rice! Congratulations!"
-      ],
-      "text": "If no one else wants to sing Rice Shower's praises, then it's up to us to \ndo so, as her teammates."
+      ]
     },
     {
+      "text": "If no one else wants to sing Rice Shower's praises, then it's up to us to \ndo so, as her teammates.",
       "choice_data_list": [
         "Rice! Congratulations!"
-      ],
-      "text": "If no one else wants to sing Rice Shower's praises, then it's up to us to \ndo so, as her teammates."
+      ]
     },
     {
       "text": "As I let loose a cheer of my own, a balloon floats up into the air, with \na banner drooping down from it."
@@ -234,10 +234,10 @@
       "text": "Trainer, if I may."
     },
     {
+      "text": "McQueen pays a surprise late-night visit to my office, her face more \nstern than usual.",
       "choice_data_list": [
         "Oh, hey. Need anything?"
-      ],
-      "text": "McQueen pays a surprise late-night visit to my office, her face more \nstern than usual."
+      ]
     },
     {
       "name": "Mejiro McQueen",

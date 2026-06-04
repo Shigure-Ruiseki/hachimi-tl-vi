@@ -17,12 +17,12 @@
       "text": "Although she did not take first\nplace, I think her unique personality\ncame out in this race."
     },
     {
+      "name": "Otonashi Etsuko",
+      "text": "… Well, trainer. How are you planning\nto adjust next race?",
       "choice_data_list": [
         "I will seriously reflect on this result.",
         "We'll keep pushing forward!"
-      ],
-      "name": "Otonashi Etsuko",
-      "text": "… Well, trainer. How are you planning\nto adjust next race?"
+      ]
     },
     {
       "name": "Otonashi Etsuko",
@@ -54,10 +54,10 @@
       "text": "This time, it didn't seem like I was able to\nsway the reporters much…"
     },
     {
+      "text": "… Setting aside the coverage, I went to\ncheer up <chrname> after the race.",
       "color_text_info_list": [
         "<chrname>"
-      ],
-      "text": "… Setting aside the coverage, I went to\ncheer up <chrname> after the race."
+      ]
     },
     {
       "name": "Otonashi Etsuko",
@@ -87,10 +87,10 @@
       "text": "… Looks like things were a little\nembellished, but at least it\nwas taken well (?)."
     },
     {
+      "text": "I tended to <chrname> after the race and\ntold her about the interview.",
       "color_text_info_list": [
         "<chrname>"
-      ],
-      "text": "I tended to <chrname> after the race and\ntold her about the interview."
+      ]
     }
   ]
 }

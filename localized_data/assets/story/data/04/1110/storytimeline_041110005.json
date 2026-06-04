@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "It had been a few days since the start of Cesario's \nstory, to become 『A guiding light for future Uma \nMusume』. We got a request to do a photo shoot.",
       "choice_data_list": [
         "『Daily Life of Uma Musume and Trainer』, huh?"
-      ],
-      "text": "It had been a few days since the start of Cesario's \nstory, to become 『A guiding light for future Uma \nMusume』. We got a request to do a photo shoot."
+      ]
     },
     {
       "text": "It probably focused on 『Popular Uma Musume』, so not \njust us. Probably the girls that ran the Selection \nrace with her, Rhein Kraft, Air Messiah, Daring Heart――"
     },
     {
+      "text": "This generation was filled with talented girls who \nattracted attention. Appearing in that environment would \nprobably be a good start to becoming a 『Guiding Light』",
       "choice_data_list": [
         "Let's do our best at the photo shoot too!"
-      ],
-      "text": "This generation was filled with talented girls who \nattracted attention. Appearing in that environment would \nprobably be a good start to becoming a 『Guiding Light』"
+      ]
     },
     {
       "name": "Cesario",
@@ -25,18 +25,18 @@
       "text": "It's fine if you keep things more informal. The theme \nis school-life together with your trainer, after all!"
     },
     {
+      "name": "Cesario",
+      "text": "Thank you very much. ……Oh. \nLooks like Trainer has arrived, though――",
       "choice_data_list": [
         "Sorry, I made you wait!"
-      ],
-      "name": "Cesario",
-      "text": "Thank you very much. ……Oh. \nLooks like Trainer has arrived, though――"
+      ]
     },
     {
+      "name": "Cesario",
+      "text": "Um……Trainer, what's with those clothes? \nYou're dressed much more smartly than normal.",
       "choice_data_list": [
         "This is important so I wanted to do my best!"
-      ],
-      "name": "Cesario",
-      "text": "Um……Trainer, what's with those clothes? \nYou're dressed much more smartly than normal."
+      ]
     },
     {
       "text": "To look better in the photos, I bought a new suit and \nhad my hair done at a salon. My preparations were perfect!"
@@ -54,12 +54,12 @@
       "text": "Understood. Then――"
     },
     {
+      "name": "Cesario",
+      "text": "Trainer, I'd like to consult with you about the next race.",
       "choice_data_list": [
         "Sounds good! Let's get to it!",
         "Sounds good! Let's get to it!"
-      ],
-      "name": "Cesario",
-      "text": "Trainer, I'd like to consult with you about the next race."
+      ]
     },
     {
       "name": "Photographer",
@@ -74,46 +74,46 @@
       "text": "Trainer. I made a lot of side dishes today, \nif you'd like, how about joining me for lunch?"
     },
     {
+      "name": "Photographer",
+      "text": "That's good～! Even with that dignified appearance, \nit's still a cozy atmosphere! Trainer-san――",
       "choice_data_list": [
         "Yeah～!! Thanks for asking!!"
-      ],
-      "name": "Photographer",
-      "text": "That's good～! Even with that dignified appearance, \nit's still a cozy atmosphere! Trainer-san――"
+      ]
     },
     {
+      "name": "Cesario",
+      "text": "……Um, Trainer. I think you might be over acting…… \nYour normal smile would make the best photo……",
       "choice_data_list": [
         "Eh? Am I trying too hard……!?"
-      ],
-      "name": "Cesario",
-      "text": "……Um, Trainer. I think you might be over acting…… \nYour normal smile would make the best photo……"
+      ]
     },
     {
       "name": "Photographer",
       "text": "W-weeell……Um, how about taking a short break!? If you're not \nused to it, a photoshoot can be really tiring, after all."
     },
     {
+      "text": "I thought I was doing this for Cesario, but it \nseems like my enthusiasm backfired. I was just \nacting like an idiot who couldn't read the mood.",
       "choice_data_list": [
         "Sorry, I'm holding you back……",
         "Sorry, I'm holding you back……"
-      ],
-      "text": "I thought I was doing this for Cesario, but it \nseems like my enthusiasm backfired. I was just \nacting like an idiot who couldn't read the mood."
+      ]
     },
     {
+      "name": "Cesario",
+      "text": "No, that's not true. Please don't worry about it. But, are you okay? \nIt seems like you're putting quite a lot of effort in to it.",
       "choice_data_list": [
         "But your future students will see the photo!"
-      ],
-      "name": "Cesario",
-      "text": "No, that's not true. Please don't worry about it. But, are you okay? \nIt seems like you're putting quite a lot of effort in to it."
+      ]
     },
     {
       "name": "Cesario",
       "text": "……? What do you mean……?"
     },
     {
+      "text": "With her success in racing her name will remain in history, \nonce she becomes the 『Guiding Light』, people will look \nback and see these photos――that's what I tell her.",
       "choice_data_list": [
         "That's why I need to keep it together……!"
-      ],
-      "text": "With her success in racing her name will remain in history, \nonce she becomes the 『Guiding Light』, people will look \nback and see these photos――that's what I tell her."
+      ]
     },
     {
       "name": "Cesario",
@@ -124,11 +124,11 @@
       "text": "……Even though we don't know when we'll even reach that point. \nTo think you're already looking ahead and preparing for it――"
     },
     {
+      "name": "Cesario",
+      "text": "Really, I'm glad you're my 『Partner』 ……Thank you very much. \nI can't think of any better words to describe how I feel now.",
       "choice_data_list": [
         "Cesario……"
-      ],
-      "name": "Cesario",
-      "text": "Really, I'm glad you're my 『Partner』 ……Thank you very much. \nI can't think of any better words to describe how I feel now."
+      ]
     },
     {
       "text": "(Click!)"
@@ -154,12 +154,12 @@
       "text": "……Fuu. Good work throughout the day♪ \nI can't wait to show it to the girls I teach."
     },
     {
+      "name": "Cesario",
+      "text": "I can proudly tell them that Trainer \nwas a passionate person from the start!",
       "choice_data_list": [
         "I hope so",
         "I hope so"
-      ],
-      "name": "Cesario",
-      "text": "I can proudly tell them that Trainer \nwas a passionate person from the start!"
+      ]
     },
     {
       "name": "Cesario",

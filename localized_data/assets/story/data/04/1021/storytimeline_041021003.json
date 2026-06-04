@@ -5,23 +5,23 @@
       "text": "A few days after forming a provisional \ncontract with Tamamo Cross-"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "-Fuu. Time?",
       "choice_data_list": [
         "Another personal best!",
         "Another personal best!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "-Fuu. Time?"
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "Alright!! Even after that run, \nI still got gas in the tank… lookin' good, huh?!"
     },
     {
+      "text": "Due to the frantic training she's been doing lately, it seems \nlike she's truly growing stronger. If she's doing this well, she \nshould probably try another real race…",
       "choice_data_list": [
         "How about trying out a mock race?",
         "How about trying out a mock race?"
-      ],
-      "text": "Due to the frantic training she's been doing lately, it seems \nlike she's truly growing stronger. If she's doing this well, she \nshould probably try another real race…"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -53,11 +53,11 @@
       "text": "Tamamo Cross' mock race that was supposed to be just warm-up, \nended with a bitter also-ran result."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Why… why do I keep havin' these pathetic results…!?",
       "choice_data_list": [
         "Tamamo Cross…"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Why… why do I keep havin' these pathetic results…!?"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -82,12 +82,12 @@
       "text": "Geez, I told ya I didn't come here ta play! \nReally, whenever ya see me, ya just come a runnin'-"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Ah…",
       "choice_data_list": [
         "…Do you come here often?",
         "…Do you come here often?"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Ah…"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -106,12 +106,12 @@
       "text": "…they're about th' same age as the brats- \nmy siblings, back home."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "…Wonder if they're doin' okay. \nDad and Mom too… hopefully they're doin' well too…",
       "choice_data_list": [
         "You care alot about your family, huh?",
         "You care alot about your family, huh?"
-      ],
-      "name": "Tamamo Cross",
-      "text": "…Wonder if they're doin' okay. \nDad and Mom too… hopefully they're doin' well too…"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -197,22 +197,22 @@
       "text": "And, Tama-oneechan looked like she was having fun~!"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Got that right! That's- the \"White Lightning\" for ya!",
       "choice_data_list": [
         "…\"White Lightning\"?"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Got that right! That's- the \"White Lightning\" for ya!"
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "…A long time ago, Dad used ta say that while I was runnin'. \n[Faster and havin' more fun than anyone, yer just like \"White \nLightning\", Tama] she'd say."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Everyone back home, believes that \"White Lightning\" will be th' \nbest in Japan. Tha' feelin'… I don't wanna disappoint 'em.",
       "choice_data_list": [
         "(Having more fun than anyone… running faster-)"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Everyone back home, believes that \"White Lightning\" will be th' \nbest in Japan. Tha' feelin'… I don't wanna disappoint 'em."
+      ]
     },
     {
       "text": "At that moment, one possibility as to why Tamamo Cross couldn't \nrealize her full power floated to the front of my mind…"

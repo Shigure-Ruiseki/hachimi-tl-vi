@@ -15,35 +15,35 @@
       "text": "Hold iiiiiiiiit!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "You there! \nThe campus is off-limits to everyone except students and faculty!",
       "choice_data_list": [
         "It's me!",
         "It's me!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "You there! \nThe campus is off-limits to everyone except students and faculty!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "I am aware! It was a joke!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I would never mistake my Trainer, you \nknow～!",
       "choice_data_list": [
         "(Is that so?)",
         "(Is that so?)"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I would never mistake my Trainer, you \nknow～!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Now that's exactly what I call a typical class \npresident joke!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "What do you think? Isn't it just marvelous \nthat I'm not only serious, but I can also \nappreciate a good joke!",
       "choice_data_list": [
         "Sure…"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "What do you think? Isn't it just marvelous \nthat I'm not only serious, but I can also \nappreciate a good joke!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

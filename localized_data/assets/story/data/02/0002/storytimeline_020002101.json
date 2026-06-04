@@ -89,10 +89,10 @@
       "text": "I <i>will</i> be the first to cross that finish line."
     },
     {
+      "text": "I can't detect a single trace of hesitation in her eyes. She means every \nword.",
       "choice_data_list": [
         "Well, you can add my hopes in there as well."
-      ],
-      "text": "I can't detect a single trace of hesitation in her eyes. She means every \nword."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -158,12 +158,12 @@
       "text": "There's a… \"sight\" she wants me to see?"
     },
     {
+      "name": "Rice Shower",
+      "text": "…Okay. I'll see it for myself.",
       "choice_data_list": [
         "Now go get that win!",
         "Now go get that win!"
-      ],
-      "name": "Rice Shower",
-      "text": "…Okay. I'll see it for myself."
+      ]
     },
     {
       "name": "Rice Shower",

@@ -9,24 +9,24 @@
       "text": "One! Two! Three!"
     },
     {
+      "name": "King Halo",
+      "text": "Ha… Hmm… I wonder If that last turn wasn't sharp enough. \nWell then. one more time…",
       "choice_data_list": [
         "It's almost training time…",
         "It's almost time for training…"
-      ],
-      "name": "King Halo",
-      "text": "Ha… Hmm… I wonder If that last turn wasn't sharp enough. \nWell then. one more time…"
+      ]
     },
     {
       "name": "King Halo",
       "text": "Geez. I know already. \nHorse girls hate trainers who rush."
     },
     {
+      "name": "King Halo",
+      "text": "But let me focus just a little bit more. I messed up in \nthe middle of the winning live the other day. didn't I?",
       "choice_data_list": [
         "You did?",
         "You did?"
-      ],
-      "name": "King Halo",
-      "text": "But let me focus just a little bit more. I messed up in \nthe middle of the winning live the other day. didn't I?"
+      ]
     },
     {
       "name": "King Halo",
@@ -41,19 +41,19 @@
       "text": "…After all, I'm a first-class horse girl."
     },
     {
+      "name": "King Halo",
+      "text": "So please, let me confirm it one more time \nAll you have to do is shift the training time a little.",
       "choice_data_list": [
         "Fine, one more time.",
         "All right, let's do it again."
-      ],
-      "name": "King Halo",
-      "text": "So please, let me confirm it one more time \nAll you have to do is shift the training time a little."
+      ]
     },
     {
+      "name": "King Halo",
+      "text": "Yes. \nLet's practice until I'm satisfied one more time.",
       "choice_data_list": [
         "… Eh?"
-      ],
-      "name": "King Halo",
-      "text": "Yes. \nLet's practice until I'm satisfied one more time."
+      ]
     },
     {
       "name": "King Halo",
@@ -68,11 +68,11 @@
       "text": "Now, I’ll give you the privilege of playing the music! We're \ngoing to raise King's dancing to the ultimate level together!"
     },
     {
+      "name": "King Halo",
+      "text": "Now, let's commence training. \nYou're ready, aren't you?",
       "choice_data_list": [
         "But we don't have much time…"
-      ],
-      "name": "King Halo",
-      "text": "Now, let's commence training. \nYou're ready, aren't you?"
+      ]
     },
     {
       "name": "King Halo",
@@ -98,12 +98,12 @@
       "text": "It is time to end training. The course will be maintained \ntoday so all students are encouraged to prepare \nto return home as soon as possible."
     },
     {
+      "name": "King Halo",
+      "text": "…Ah.",
       "choice_data_list": [
         "Don't tell me, you forgot about the maintenance?",
         "Don't tell me, you forgot about the maintenance?"
-      ],
-      "name": "King Halo",
-      "text": "…Ah."
+      ]
     },
     {
       "name": "King Halo",
@@ -114,35 +114,35 @@
       "text": "Hmph. I don't mind if you leave first. \nI can at least do normal outdoors exercise by myself."
     },
     {
+      "name": "King Halo",
+      "text": "C'mon, hurry u-",
       "choice_data_list": [
         "I'll stay."
-      ],
-      "name": "King Halo",
-      "text": "C'mon, hurry u-"
+      ]
     },
     {
       "name": "King Halo",
       "text": "Eh?"
     },
     {
+      "name": "King Halo",
+      "text": "But, the plan is ruined and you have your own job don't you? \nThere's no real reason for you to accompany m-",
       "choice_data_list": [
         "Because I'm your trainer.",
         "Because, I'm your trainer."
-      ],
-      "name": "King Halo",
-      "text": "But, the plan is ruined and you have your own job don't you? \nThere's no real reason for you to accompany m-"
+      ]
     },
     {
       "name": "King Halo",
       "text": "…"
     },
     {
+      "name": "King Halo",
+      "text": "Th-then accompany me till the end! \nCause I'm not letting you leave till I'm satisfied!",
       "choice_data_list": [
         "I wouldn't have it any other way!",
         "I wouldn't have it any other way!"
-      ],
-      "name": "King Halo",
-      "text": "Th-then accompany me till the end! \nCause I'm not letting you leave till I'm satisfied!"
+      ]
     },
     {
       "name": "King Halo",

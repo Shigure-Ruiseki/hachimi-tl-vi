@@ -72,11 +72,11 @@
       "text": "If she were to lose again in the Arima Kinen, your guidance could be \ncalled into question. You'll have her run knowing that?"
     },
     {
+      "text": "That's definitely a real possibility. But I don't care.",
       "choice_data_list": [
         "I will always put what Brian wants above all else.",
         "I will always put what Brian wants above all else."
-      ],
-      "text": "That's definitely a real possibility. But I don't care."
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -185,18 +185,18 @@
       "text": "Brian glares at me with piercing eyes, almost growling out the words."
     },
     {
+      "text": "When I see that glimmer in her gaze, I become sure of it.",
       "choice_data_list": [
         "No, you're running in the Arima Kinen.",
         "No, you're running in the Arima Kinen."
-      ],
-      "text": "When I see that glimmer in her gaze, I become sure of it."
+      ]
     },
     {
+      "text": "When I see that glimmer in her gaze, I become sure of it.",
       "choice_data_list": [
         "No, you're running in the Arima Kinen.",
         "No, you're running in the Arima Kinen."
-      ],
-      "text": "When I see that glimmer in her gaze, I become sure of it."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -219,12 +219,12 @@
       "text": "…I see."
     },
     {
+      "name": "Narita Brian",
+      "text": "Sorry, I shouldn't have doubted you. Um… thank you.",
       "choice_data_list": [
         "Let's win this, Brian!",
         "Let's win this, Brian!"
-      ],
-      "name": "Narita Brian",
-      "text": "Sorry, I shouldn't have doubted you. Um… thank you."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -297,10 +297,10 @@
       "text": "But she continues on — she always pushes forward."
     },
     {
+      "text": "All the pieces click into place in my mind, and I shout—",
       "choice_data_list": [
         "You can do it, Brian!"
-      ],
-      "text": "All the pieces click into place in my mind, and I shout—"
+      ]
     },
     {
       "name": "Spectator A",

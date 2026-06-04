@@ -22,10 +22,10 @@
       "text": "(Because that is all it ever knew.)"
     },
     {
+      "text": "The \"stars of the next generation\" are all too common a topic \namong trainers. In recent times however, a particular name \nhad begun standing out.",
       "choice_data_list": [
         "Admire Groove…"
-      ],
-      "text": "The \"stars of the next generation\" are all too common a topic \namong trainers. In recent times however, a particular name \nhad begun standing out."
+      ]
     },
     {
       "name": "Older Trainer",
@@ -47,11 +47,11 @@
       "text": "<i>Haahh…!</i>"
     },
     {
+      "name": "Cheerful Trainee",
+      "text": "…Look at her go! Hmm… you know, something about \nthe way she runs is just different from the rest of us…",
       "choice_data_list": [
         "(I can tell immediately. It's her form…!)"
-      ],
-      "name": "Cheerful Trainee",
-      "text": "…Look at her go! Hmm… you know, something about \nthe way she runs is just different from the rest of us…"
+      ]
     },
     {
       "text": "It's beautiful. Devoid of nonnecessities. Every action perfectly \nconverted into forward motion. All those present were rooted \nto the ground in awe."
@@ -60,10 +60,10 @@
       "text": "Even among the higher levels of racers it would be difficult \nto find someone who not only understood the elements of \nform this well, but could effectively realize them so perfectly."
     },
     {
+      "text": "And this before her debut. She <i>must</i> be driven by a fierce \nrivalry, surrounded by peers of equal ambition.",
       "choice_data_list": [
         "(Yet, as this thought entered my mind…)"
-      ],
-      "text": "And this before her debut. She <i>must</i> be driven by a fierce \nrivalry, surrounded by peers of equal ambition."
+      ]
     },
     {
       "name": "Cheerful Trainee",
@@ -74,11 +74,11 @@
       "text": "I really want to learn about your form and how you can \nbe so fast! Would you mind training together with me…?!"
     },
     {
+      "name": "Admire Groove",
+      "text": "…I don't intend to train with anyone. You're asking \nthe wrong person, try someone else.",
       "choice_data_list": [
         "(…She's pretty blunt…)"
-      ],
-      "name": "Admire Groove",
-      "text": "…I don't intend to train with anyone. You're asking \nthe wrong person, try someone else."
+      ]
     },
     {
       "text": "The girl's earnest request was coldly pushed aside. \nIndifferent to the resulting mood shift among onlookers, \nshe began running — alone."
@@ -122,29 +122,29 @@
       "text": "Even Air Groove's words seemed to fall on deaf ears. \nI guess you could call this an example of talking to a wall."
     },
     {
+      "text": "After finishing training, Admire Groove returns trackside. \nPerhaps she'll just think me meddlesome, but…",
       "choice_data_list": [
         "Excuse me…",
         "Excuse me…"
-      ],
-      "text": "After finishing training, Admire Groove returns trackside. \nPerhaps she'll just think me meddlesome, but…"
+      ]
     },
     {
+      "name": "Admire Groove",
+      "text": "…That badge means you're a trainer. \nDid you need something?",
       "choice_data_list": [
         "I saw Air Groove talking to you earlier."
-      ],
-      "name": "Admire Groove",
-      "text": "…That badge means you're a trainer. \nDid you need something?"
+      ]
     },
     {
       "name": "Admire Groove",
       "text": "…It wasn't because I caused any issues. She invited me \nto train with her, and I declined. That's all."
     },
     {
+      "name": "Admire Groove",
+      "text": "I find that sort of attention bothersome. Surely <i>she</i> can't have \nintended to approach me when coming here, either.",
       "choice_data_list": [
         "I think she was just worried about you."
-      ],
-      "name": "Admire Groove",
-      "text": "I find that sort of attention bothersome. Surely <i>she</i> can't have \nintended to approach me when coming here, either."
+      ]
     },
     {
       "name": "Admire Groove",

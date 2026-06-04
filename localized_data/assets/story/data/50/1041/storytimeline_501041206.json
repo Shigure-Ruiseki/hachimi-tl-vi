@@ -6,11 +6,11 @@
       "text": "Long…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "The long race is about to begin…",
       "choice_data_list": [
         "(Something's happening.)"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "The long race is about to begin…"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -21,12 +21,12 @@
       "text": "But, I have to try."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "――I should be a role model for everyone, \nas class president!",
       "choice_data_list": [
         "……That's right!",
         "……That's right!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "――I should be a role model for everyone, \nas class president!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

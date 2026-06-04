@@ -5,63 +5,63 @@
       "text": "The day before Christmas, after training \nwas over."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Trainer, what are your plans for tomorrow?",
       "choice_data_list": [
         "Nothing special, I guess."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Trainer, what are your plans for tomorrow?"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I see! Then, I shall do you the honor of \ngoing out somewhere together with me!",
       "choice_data_list": [
         "Huh?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I see! Then, I shall do you the honor of \ngoing out somewhere together with me!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Well, then, farewell―!",
       "choice_data_list": [
         "Where and when!?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Well, then, farewell―!"
+      ]
     },
     {
       "text": "I then managed to get the details of the \nmeeting, and the next day…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Oya! \nYou're quite early, Trainer.",
       "choice_data_list": [
         "I thought Bakushin O would get here with her usual \nspeed."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Oya! \nYou're quite early, Trainer."
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "That is true! \nI'm an honors student, after all!",
       "choice_data_list": [
         "But, I thought you said an hour ago was early."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "That is true! \nI'm an honors student, after all!"
+      ]
     },
     {
       "text": "Our engagement is at eleven. \nAnd it's only 10:00 now."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "It's good to be fast―rather, early! \nSo, with all haste, let's get to it!",
       "choice_data_list": [
         "Where to?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "It's good to be fast―rather, early! \nSo, with all haste, let's get to it!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Well, well, I can understand your \nexcitement, but please do settle down."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Because I've learned how to spend \nChristmas in a proper and exemplary way!",
       "choice_data_list": [
         "An exemplary Christmas?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Because I've learned how to spend \nChristmas in a proper and exemplary way!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -83,11 +83,11 @@
       "text": "Holdupholdup, looks like it's right over \nthere! \nThat brick building is an Italian restaurant!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "It certainly has an Italian look to it! \nAnd with so few people around, it's like a \nnice little secret hideaway!",
       "choice_data_list": [
         "Maybe it's because it's still early?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "It certainly has an Italian look to it! \nAnd with so few people around, it's like a \nnice little secret hideaway!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -110,12 +110,12 @@
       "text": "But, sure enough, I suppose I just couldn't \nhide my class president aura, can I?"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I had no idea that they would serve it in a \nheart-shaped bowl… I could feel the \nwaitress's unwavering trust in me!",
       "choice_data_list": [
         "(Is that so?)",
         "(Is that so?)"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I had no idea that they would serve it in a \nheart-shaped bowl… I could feel the \nwaitress's unwavering trust in me!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -151,11 +151,11 @@
       "text": "……Wait, hug!? \nEeehh, why?!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "But it looked like it most certainly, definitely, \nundeniably did say that! Could I have \noverlooked something?!",
       "choice_data_list": [
         "Wasn't today a plan for a date, though?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "But it looked like it most certainly, definitely, \nundeniably did say that! Could I have \noverlooked something?!"
+      ]
     },
     {
       "text": "When I look back the day, I feel like I \nwent on your typical, run-of-the-mill date \nplan, so to speak."
@@ -181,11 +181,11 @@
       "text": "To think that the class president herself \nwould take part in impure relations!!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Sakura Bakushin O, today's \ndisappointment!!",
       "choice_data_list": [
         "(Today?)"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Sakura Bakushin O, today's \ndisappointment!!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -200,30 +200,30 @@
       "text": "As punishment for betraying everyone's \ntrust, will I forever be branded as a good- \nfor-nothing class president―!?"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Trainer, what do I dooo～!?",
       "choice_data_list": [
         "……Good job on your patrols!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Trainer, what do I dooo～!?"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Eh!",
       "choice_data_list": [
         "I didn't see any students getting carried away!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Eh!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Ohhh～!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "That's right! \nNone whatsoever!",
       "choice_data_list": [
         "Right then, let's go home!",
         "Right then, let's go home!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "That's right! \nNone whatsoever!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -233,12 +233,12 @@
       "text": "And so, that was how I spent a wholesome \nChristmas with Sakura Bakushin O."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "――Well, I suppose it's alright!",
       "choice_data_list": [
         "Are you sure?",
         "Are you sure?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "――Well, I suppose it's alright!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -249,11 +249,11 @@
       "text": "In fact, I'd say it's a very pure affair!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "However, hugging is a no-go for the \nclass president, so I'll give you something \nspecial instead!",
       "choice_data_list": [
         "Something special?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "However, hugging is a no-go for the \nclass president, so I'll give you something \nspecial instead!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -278,11 +278,11 @@
       "text": "For now I'm thinking we'll enter every race, but I'll book an appointment to hash it out \nwith you, Trainer!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Canceling appointments is a Miracle-no-go! \nLet's Bakushin together next year, too!",
       "choice_data_list": [
         "Without a doubt. Thanks!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Canceling appointments is a Miracle-no-go! \nLet's Bakushin together next year, too!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -297,11 +297,11 @@
       "text": "As class presdient, I absolutely cannot \nbreak the curfew!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Let's Bakushin, Trainer! \nI'll lead you along this time, just for you!",
       "choice_data_list": [
         "Huh!?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Let's Bakushin, Trainer! \nI'll lead you along this time, just for you!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

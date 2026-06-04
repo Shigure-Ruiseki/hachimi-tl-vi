@@ -2,20 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Lucky Lilac",
+      "text": "And that's how I made the first quip between us. \nReally clashes with my graceful, lovely image, don't it?",
       "choice_data_list": [
         "WELL I THINK YOU'RE ALWAYS LOVELY!",
         "WELL I THINK YOU'RE ALWAYS LOVELY!"
-      ],
-      "name": "Lucky Lilac",
-      "text": "And that's how I made the first quip between us. \nReally clashes with my graceful, lovely image, don't it?"
+      ]
     },
     {
+      "name": "Lucky Lilac",
+      "text": "Keep ya dang voice down, it's embarrassin'! …But now that I \nthink about it, that moment was the first thing leading to us \nteaming up.",
       "choice_data_list": [
         "Team Lucky & Lilac!",
         "Team Lucky & Lilac!"
-      ],
-      "name": "Lucky Lilac",
-      "text": "Keep ya dang voice down, it's embarrassin'! …But now that I \nthink about it, that moment was the first thing leading to us \nteaming up."
+      ]
     },
     {
       "name": "Lucky Lilac",
@@ -86,72 +86,72 @@
       "text": "(Every day, I controlled my usual emotional self… And \nI finally got to where I am today. I should be just \na step away from my dream… Just one more step…!)"
     },
     {
+      "text": "I'd started observing Lucky Lilac's training, hoping to figure \nout what she needed to gain Orfevre's approval.",
       "choice_data_list": [
         "I want to see what you're capable of first.",
         "I want to see what you're capable of first."
-      ],
-      "text": "I'd started observing Lucky Lilac's training, hoping to figure \nout what she needed to gain Orfevre's approval."
+      ]
     },
     {
       "name": "Lucky Lilac",
       "text": "Understood. So muscle training's first on the schedule? \nThis regimen seems a mite bit tough… \n…But I'll do my best."
     },
     {
+      "name": "Lucky Lilac",
+      "text": "——Phew… I've finished without any issues. I do have to \nmention… I wouldn't mind if ya made the workout a bit more \nintense.",
       "choice_data_list": [
         "<size=30>(That workout was meant for post-debut racers, though…)</size>"
-      ],
-      "name": "Lucky Lilac",
-      "text": "——Phew… I've finished without any issues. I do have to \nmention… I wouldn't mind if ya made the workout a bit more \nintense."
+      ]
     },
     {
+      "text": "Lucky Lilac's skills were no joke. She had strong fundamentals, \nand even outside of running she was excellent. I couldn't point \nout a single flaw. But that meant…",
       "choice_data_list": [
         "(There's nothing she needs to change…)"
-      ],
-      "text": "Lucky Lilac's skills were no joke. She had strong fundamentals, \nand even outside of running she was excellent. I couldn't point \nout a single flaw. But that meant…"
+      ]
     },
     {
       "name": "Lucky Lilac",
       "text": "……She didn't give me her approval today either."
     },
     {
+      "name": "Lucky Lilac",
+      "text": "…I even had ya helpin' me, but I still haven't made any progress. \n…I really must apologize.",
       "choice_data_list": [
         "No, I'm sorry for not being any help…"
-      ],
-      "name": "Lucky Lilac",
-      "text": "…I even had ya helpin' me, but I still haven't made any progress. \n…I really must apologize."
+      ]
     },
     {
       "name": "Lucky Lilac",
       "text": "Please don't apologize… It's my fault for not bein' \ngood enough. In fact, my numbers have actually \ngotten better since ya started helpin' me…"
     },
     {
+      "name": "Lucky Lilac",
+      "text": "……Really, what am I missing?",
       "choice_data_list": [
         "(…I want to cheer her up, but…)"
-      ],
-      "name": "Lucky Lilac",
-      "text": "……Really, what am I missing?"
+      ]
     },
     {
+      "text": "I didn't know the right thing to say to get her \nout of her situation. But at the very least, I wanted \nto put a smile back on her worried face——",
       "choice_data_list": [
         "…Watch my hands, Lala.",
         "…Watch my hands, Lala."
-      ],
-      "text": "I didn't know the right thing to say to get her \nout of her situation. But at the very least, I wanted \nto put a smile back on her worried face——"
+      ]
     },
     {
+      "name": "Lucky Lilac",
+      "text": "Hm?",
       "choice_data_list": [
         "Put 'em together… Look, a turkey!",
         "Put 'em together… Look, a turkey!"
-      ],
-      "name": "Lucky Lilac",
-      "text": "Hm?"
+      ]
     },
     {
+      "name": "Lucky Lilac",
+      "text": "………………………… \nWoooow～ It really does look like a turkey. \nI'd say it looks like a dog, myself, but ain't that cute?",
       "choice_data_list": [
         "(I hope that helped her relax a bit.)"
-      ],
-      "name": "Lucky Lilac",
-      "text": "………………………… \nWoooow～ It really does look like a turkey. \nI'd say it looks like a dog, myself, but ain't that cute?"
+      ]
     },
     {
       "text": "I knew it didn't count for much, but at least \nI managed to get her to smile again."
@@ -163,36 +163,36 @@
       "text": "We decided we'd train out in the fields to give her a change of \nscenery. It was pretty clear that she'd been tiring herself out \nlately…"
     },
     {
+      "name": "Lucky Lilac",
+      "text": "……",
       "choice_data_list": [
         "…I'll play you a fanfare to cheer you up!",
         "…I'll play you a fanfare to cheer you up!"
-      ],
-      "name": "Lucky Lilac",
-      "text": "……"
+      ]
     },
     {
+      "name": "Lucky Lilac",
+      "text": "What?",
       "choice_data_list": [
         "Doodoodoobydooby DOOT DOOT DOOT!"
-      ],
-      "name": "Lucky Lilac",
-      "text": "What?"
+      ]
     },
     {
+      "name": "Lucky Lilac",
+      "text": "————",
       "choice_data_list": [
         "(…? Did she just——)"
-      ],
-      "name": "Lucky Lilac",
-      "text": "————"
+      ]
     },
     {
       "text": "After that, Lucky Lilac's running changed completely. \nIt was different from anything I'd seen her do before."
     },
     {
+      "name": "Lucky Lilac",
+      "text": "Hut… \n…HAAAAAAAAAAAAAAAAAH!!",
       "choice_data_list": [
         "(Wait, this explosive acceleration…!)"
-      ],
-      "name": "Lucky Lilac",
-      "text": "Hut… \n…HAAAAAAAAAAAAAAAAAH!!"
+      ]
     },
     {
       "text": "——For the first time, she seemed as if she was glowing."
@@ -217,47 +217,47 @@
       "text": "……Heehee. The fool plays things loose, and the foil \nstraightens him out with a blunt comeback. The two of them \nare well balanced, and their timing's great too."
     },
     {
+      "name": "Lucky Lilac",
+      "text": "Say, Trainer. Which half of a <i>manzai</i> duo do ya think sets the \nrhythm for their routine? The fool or the foil?",
       "choice_data_list": [
         "Hmm… The foil, I guess?",
         "Hmm… The foil, I guess?"
-      ],
-      "name": "Lucky Lilac",
-      "text": "Say, Trainer. Which half of a <i>manzai</i> duo do ya think sets the \nrhythm for their routine? The fool or the foil?"
+      ]
     },
     {
       "name": "Lucky Lilac",
       "text": "That's certainly a valid theory. But personally… I think it's the \nfool that takes the lead by bringing out the foil's energy,"
     },
     {
+      "name": "Lucky Lilac",
+      "text": "The fool's best goofs get followed up by a satisfying quip \nfrom the foil. …That rhythm is the source of their \nexplosive comedic power.",
       "choice_data_list": [
         "…You're a big comedy fan, huh?",
         "…You're a big comedy fan, huh?"
-      ],
-      "name": "Lucky Lilac",
-      "text": "The fool's best goofs get followed up by a satisfying quip \nfrom the foil. …That rhythm is the source of their \nexplosive comedic power."
+      ]
     },
     {
       "name": "Lucky Lilac",
       "text": "……Oh, no, not especially. \nThat little tidbit was just something I saw on the TV."
     },
     {
+      "text": "The fool brings out the best in the foil… The same \ncould apply to a trainer and their trainee. Suddenly, \nI remembered the training we did earlier that day.",
       "choice_data_list": [
         "(When I acted goofy like a fool——)"
-      ],
-      "text": "The fool brings out the best in the foil… The same \ncould apply to a trainer and their trainee. Suddenly, \nI remembered the training we did earlier that day."
+      ]
     },
     {
+      "text": "Lucky Lilac made a very peculiar hand motion. \nAnd right after that, she unleashed that incredible acceleration.",
       "choice_data_list": [
         "(It was almost like Orfevre's…)"
-      ],
-      "text": "Lucky Lilac made a very peculiar hand motion. \nAnd right after that, she unleashed that incredible acceleration."
+      ]
     },
     {
+      "text": "…Her hand took that iconic shape. The way she accelerated… \nPutting it all together——",
       "choice_data_list": [
         "(…Could THAT have been it?)",
         "(…Could THAT have been it?)"
-      ],
-      "text": "…Her hand took that iconic shape. The way she accelerated… \nPutting it all together——"
+      ]
     },
     {
       "text": "Her prim and proper racing was excellent. It suited the \"flower \nof the flock\" she talked about becoming. But there was \nsomething else hiding beneath it. If I could only draw it out…"

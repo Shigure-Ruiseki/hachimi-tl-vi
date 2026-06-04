@@ -28,11 +28,11 @@
       "text": "Come on now, we're not here to play around."
     },
     {
+      "text": "I can't say that the environment doesn't lend itself to the idea, \nthough.",
       "choice_data_list": [
         "Why don't we take it easy on our first day here?",
         "Why don't we take it easy on our first day here?"
-      ],
-      "text": "I can't say that the environment doesn't lend itself to the idea, \nthough."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -112,11 +112,11 @@
       "text": "W-Wait! You're going much too fast!"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "<i>Pant, pant, pant…</i>",
       "choice_data_list": [
         "Good work, everyone."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "<i>Pant, pant, pant…</i>"
+      ]
     },
     {
       "name": "Mejiro Ryan",
@@ -201,21 +201,21 @@
       "text": "For some, winning the spring Tenno Sho and saving a star team would \nbe more than enough…"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "But for me… it's made me realize I have more that I want to \naccomplish.",
       "choice_data_list": [
         "For example?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "But for me… it's made me realize I have more that I want to \naccomplish."
+      ]
     },
     {
       "name": "Mejiro McQueen",
       "text": "I want to keep running. To live up to everyone's expectations by \nwinning even more races."
     },
     {
+      "text": "Even more striking than Mejiro McQueen's smile is the determination \ngleaming in her eyes.",
       "choice_data_list": [
         "Then I'll be expecting great things, McQueen."
-      ],
-      "text": "Even more striking than Mejiro McQueen's smile is the determination \ngleaming in her eyes."
+      ]
     },
     {
       "name": "Mejiro McQueen",

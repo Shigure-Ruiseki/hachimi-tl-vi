@@ -8,23 +8,23 @@
       "text": "(<i>Thud-ud-ud-ud-ud-ud!!</i>)"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Buueeeenos taardeeeeees!! \nFeeling good, Trainer?!",
       "choice_data_list": [
         "I can tell you are.",
         "I can tell you are."
-      ],
-      "name": "El Condor Pasa",
-      "text": "Buueeeenos taardeeeeees!! \nFeeling good, Trainer?!"
+      ]
     },
     {
       "name": "El Condor Pasa",
       "text": "That's right, El's always feeling good! \nOn-track or off-track, I perform in top fooorm!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Hn? ……Trainer, you look a little tired. \nWe haven't started yet, you know!?",
       "choice_data_list": [
         "Fatigue's been catching up with me…"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Hn? ……Trainer, you look a little tired. \nWe haven't started yet, you know!?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -39,12 +39,12 @@
       "text": "¡Hala, find the strength in your core! Take a breath! \nFill your lungs with fresh air!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos, Trainer! We're going to run!!",
       "choice_data_list": [
         "<i>We!?</i>",
         "<i>We!?</i>"
-      ],
-      "name": "El Condor Pasa",
-      "text": "¡Vamos, Trainer! We're going to run!!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -70,11 +70,11 @@
       "text": "Bueno!! Now that's El's trainer! \nYou look good when you're fired up!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Especially on that last lap, I felt your burning passion! \nGreat job, you get a flower mark!💮",
       "choice_data_list": [
         "T-Thanks……"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Especially on that last lap, I felt your burning passion! \nGreat job, you get a flower mark!💮"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -112,11 +112,11 @@
       "text": "Wha— Whawhawha…… Everyone's leaving…… \nThis can't be… It's time to go home already…?"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Does that mean our training is over……?",
       "choice_data_list": [
         "I'll hang out with you a while longer."
-      ],
-      "name": "El Condor Pasa",
-      "text": "Does that mean our training is over……?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -127,12 +127,12 @@
       "text": "<i>Woooh</i>, El's a lucky girl! I'm so happy you're my trainer!!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Well, let's pull ourselves together and go train! We're going to \nchase that sunset to the riverbank… no, to the ocean!",
       "choice_data_list": [
         "…… Let's keep it reasonable, yeah?",
         "…… Let's keep it reasonable, yeah?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Well, let's pull ourselves together and go train! We're going to \nchase that sunset to the riverbank… no, to the ocean!"
+      ]
     },
     {
       "name": "El Condor Pasa",

@@ -6,21 +6,21 @@
       "text": "——All right, Air Shakur. \nTry running the way I just laid out."
     },
     {
+      "text": "The day after I met Air Shakur, when I went to check out the \ncourse, there she was, getting instructions from another trainer.",
       "choice_data_list": [
         "(Wonder how she'll run.)"
-      ],
-      "text": "The day after I met Air Shakur, when I went to check out the \ncourse, there she was, getting instructions from another trainer."
+      ]
     },
     {
       "name": "Air Shakur",
       "text": "…Well, here goes."
     },
     {
+      "name": "Air Shakur",
+      "text": "…Rrraahh!!",
       "choice_data_list": [
         "(Whoa… She's intense!)"
-      ],
-      "name": "Air Shakur",
-      "text": "…Rrraahh!!"
+      ]
     },
     {
       "name": "Umamusume A",
@@ -30,21 +30,21 @@
       "text": "Air Shakur's running was wilder than I imagined. Wild, but not \nbarbaric. Her form seemed incredibly refined, as if she'd \neliminated all excess movements."
     },
     {
+      "name": "Air Shakur",
+      "text": "Haa… Ha… HA! \nHAHAHA!!",
       "choice_data_list": [
         "(Wow…)"
-      ],
-      "name": "Air Shakur",
-      "text": "Haa… Ha… HA! \nHAHAHA!!"
+      ]
     },
     {
       "text": "She attacked the straight like the last leg of a real race, steadily \npushing forward… I was drawn in by her striking display of \nability, but…"
     },
     {
+      "name": "Average Trainer",
+      "text": "Whoa, whoa…! Wait a second. \nThat wasn't even close to what I said!",
       "choice_data_list": [
         "(……!?)"
-      ],
-      "name": "Average Trainer",
-      "text": "Whoa, whoa…! Wait a second. \nThat wasn't even close to what I said!"
+      ]
     },
     {
       "name": "Average Trainer",
@@ -143,27 +143,27 @@
       "text": "…Someday, huh."
     },
     {
+      "name": "Air Shakur",
+      "text": "There's no point holding onto that hope…",
       "choice_data_list": [
         "(……!)"
-      ],
-      "name": "Air Shakur",
-      "text": "There's no point holding onto that hope…"
+      ]
     },
     {
+      "name": "Trainer B",
+      "text": "Ha～… Looks like she's calmed down somehow…? \nShe was worse than usual today.",
       "choice_data_list": [
         "(Nonsense? ……)"
-      ],
-      "name": "Trainer B",
-      "text": "Ha～… Looks like she's calmed down somehow…? \nShe was worse than usual today."
+      ]
     },
     {
       "text": "She probably didn't think anyone else heard her say it under her \nbreath—— But her whispered words kept ringing in my ear…"
     },
     {
+      "text": "While I was thinking about the way she ran that morning, I just \nso happened to stop by the course…",
       "choice_data_list": [
         "(Shakur ……?)"
-      ],
-      "text": "While I was thinking about the way she ran that morning, I just \nso happened to stop by the course…"
+      ]
     },
     {
       "name": "Air Shakur",
@@ -174,11 +174,11 @@
       "text": "Damn it, I can't…! \nI can't, I can't, <i>I can't…——</i>"
     },
     {
+      "name": "Air Shakur",
+      "text": "I can't break through that \"7cm\"…! \nIt's only that much! But still, <i>I…!</i>",
       "choice_data_list": [
         "(7cm……?)"
-      ],
-      "name": "Air Shakur",
-      "text": "I can't break through that \"7cm\"…! \nIt's only that much! But still, <i>I…!</i>"
+      ]
     },
     {
       "name": "???",
@@ -189,11 +189,11 @@
       "text": "Good evening. My name is Agnes Tachyon. A friend of \nShakur-kun's… Though she very much doesn't like for me to call \nmyself that."
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "All the telltale signs of overwork. For a pragmatic, logical person \nlike her to struggle in such an illogical fashion… It's hard to truly \nempathize with what she's experiencing.",
       "choice_data_list": [
         "What exactly is she struggling with?"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "All the telltale signs of overwork. For a pragmatic, logical person \nlike her to struggle in such an illogical fashion… It's hard to truly \nempathize with what she's experiencing."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -212,11 +212,11 @@
       "text": "Ah, here's an a way to put it… Her \"god\" is denying her a future. \nThis god has made an absolute judgement, one she cannot hope \nto overcome."
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "If this god's judgement were to be overcome, its divinity would \nbe called into question. A terrifying notion in and of itself. Thus \nthe faithful cannot deny god's judgement, nor even curse it.",
       "choice_data_list": [
         "Still… It looks like she's trying to change \nsomething."
-      ],
-      "name": "Agnes Tachyon",
-      "text": "If this god's judgement were to be overcome, its divinity would \nbe called into question. A terrifying notion in and of itself. Thus \nthe faithful cannot deny god's judgement, nor even curse it."
+      ]
     },
     {
       "name": "Agnes Tachyon",

@@ -72,24 +72,24 @@
       "text": "During our meeting about training afterwards, Maruzensky \noccasionally seemed to be dwelling on something."
     },
     {
+      "name": "Maruzensky",
+      "text": "……………",
       "choice_data_list": [
         "You okay?",
         "You okay?"
-      ],
-      "name": "Maruzensky",
-      "text": "……………"
+      ]
     },
     {
       "name": "Maruzensky",
       "text": "What? Oh…"
     },
     {
+      "name": "Maruzensky",
+      "text": "… I'm sorry, I couldn't concentrate. I've been \ngoing over what Spe said to me earlier.",
       "choice_data_list": [
         "About the training runs?",
         "About the training runs?"
-      ],
-      "name": "Maruzensky",
-      "text": "… I'm sorry, I couldn't concentrate. I've been \ngoing over what Spe said to me earlier."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -112,18 +112,18 @@
       "text": "… Ahaha, dearie me! I don't know why I always \nget like this so quickly when I'm with you."
     },
     {
+      "name": "Maruzensky",
+      "text": "She's counting on me, and as her senior, I have to respond! \nTrainer, can I tell Spe that it's OK?",
       "choice_data_list": [
         "Sure, we'll go tell her together."
-      ],
-      "name": "Maruzensky",
-      "text": "She's counting on me, and as her senior, I have to respond! \nTrainer, can I tell Spe that it's OK?"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "She's counting on me, and as her senior, I have to respond! \nTrainer, can I tell Spe that it's OK?",
       "choice_data_list": [
         "Sure, let's go tell her together…"
-      ],
-      "name": "Maruzensky",
-      "text": "She's counting on me, and as her senior, I have to respond! \nTrainer, can I tell Spe that it's OK?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -136,20 +136,20 @@
       "text": "But I don't think she should worry too much, the image that the \nyounger students and Special Week admire is likely—"
     },
     {
+      "name": "Maruzensky",
+      "text": "Trainer? What's going on? Let's go!",
       "choice_data_list": [
         "Sorry, I'm coming!",
         "Sorry, I'm coming!"
-      ],
-      "name": "Maruzensky",
-      "text": "Trainer? What's going on? Let's go!"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "Trainer? What's the matter? Let's get going!",
       "choice_data_list": [
         "Sorry, I'm coming!",
         "Sorry, I'm coming!"
-      ],
-      "name": "Maruzensky",
-      "text": "Trainer? What's the matter? Let's get going!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -160,12 +160,12 @@
       "text": "Yes, of course! Thank you very much…! I can't believe I get to \nrun with Marzen… I'm gonna have to work hard…!"
     },
     {
+      "name": "Maruzensky",
+      "text": "Oh my… there's no need to be so excited? \nIt's just me you're running with…",
       "choice_data_list": [
         "What exactly drew you to Marzen?",
         "What precisely has drawn you to Marzen?"
-      ],
-      "name": "Maruzensky",
-      "text": "Oh my… there's no need to be so excited? \nIt's just me you're running with…"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -212,18 +212,18 @@
       "text": "Ah, y-yeah. See you later～"
     },
     {
+      "name": "Maruzensky",
+      "text": "… Trainer. You've done it now!",
       "choice_data_list": [
         "Done what?"
-      ],
-      "name": "Maruzensky",
-      "text": "… Trainer. You've done it now!"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "… Trainer. You've gone and done it now!",
       "choice_data_list": [
         "What do you mean?"
-      ],
-      "name": "Maruzensky",
-      "text": "… Trainer. You've gone and done it now!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -264,18 +264,18 @@
       "text": "—Maruzensky displayed her magnificence to her junior."
     },
     {
+      "name": "Maruzensky",
+      "text": "Phew… I'm back, trainer.",
       "choice_data_list": [
         "You've deserved a rest, Maruzensky."
-      ],
-      "name": "Maruzensky",
-      "text": "Phew… I'm back, trainer."
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "Phew… I'm back, trainer.",
       "choice_data_list": [
         "You deserve a rest, Maruzensky."
-      ],
-      "name": "Maruzensky",
-      "text": "Phew… I'm back, trainer."
+      ]
     },
     {
       "name": "Maruzensky",

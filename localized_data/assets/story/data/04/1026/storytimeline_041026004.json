@@ -34,17 +34,17 @@
       "text": "That's all of the data log I wanted to share with you, \nas my Master. Because it explains the foundation \nof my current self."
     },
     {
+      "text": "It had been a few days since I became Mihono Bourbon's \ntrainer. She finally explained the reason for her goal \nof the Triple Crown title in more detail.",
       "choice_data_list": [
         "So that's why.",
         "So that's why."
-      ],
-      "text": "It had been a few days since I became Mihono Bourbon's \ntrainer. She finally explained the reason for her goal \nof the Triple Crown title in more detail."
+      ]
     },
     {
+      "text": "Hearing the story of this indecisive girl finally making \nher own decision and finding something to long for... \nIt got me a little emotional.",
       "choice_data_list": [
         "I'll make it happen, with you!"
-      ],
-      "text": "Hearing the story of this indecisive girl finally making \nher own decision and finding something to long for... \nIt got me a little emotional."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -71,10 +71,10 @@
       "text": "You want me to partake in a 2000 meters turf race in the \nSemiannual Race Meeting? I determined that the longest \nG1 race there, the Hopeful Stakes, is of that length."
     },
     {
+      "text": "The Semiannual Meet is a race meeting at \nTracen Academy where one may choose out of many \ndifferent races. It draws in quite a lot of visitors.",
       "choice_data_list": [
         "<size=36>Let's show everyone what you're capable of!</size>"
-      ],
-      "text": "The Semiannual Meet is a race meeting at \nTracen Academy where one may choose out of many \ndifferent races. It draws in quite a lot of visitors."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -88,11 +88,11 @@
       "text": "*huff huff*"
     },
     {
+      "name": "Mihono Bourbon",
+      "text": "(1600 meters passed. 400 meters left. \nPulse and breathing are within expected range.)",
       "choice_data_list": [
         "Keep going! Your times are improving!"
-      ],
-      "name": "Mihono Bourbon",
-      "text": "(1600 meters passed. 400 meters left. \nPulse and breathing are within expected range.)"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -112,12 +112,12 @@
       "text": "She ain't got no stamina, a longer distance is a no-go. \nI really doubt she's gonna finish the 2000 meters..."
     },
     {
+      "name": "Experienced Trainer",
+      "text": "How reckless. What is her trainer thinking?!",
       "choice_data_list": [
         "(I'm just believing in Bourbon!)",
         "(I'm just believing in Bourbon!)"
-      ],
-      "name": "Experienced Trainer",
-      "text": "How reckless. What is her trainer thinking?!"
+      ]
     },
     {
       "text": "Still, part of me was praying as I focused on the gate."
@@ -134,11 +134,11 @@
       "text": "(Positioning successful. Executing 'maintaining the lead' \nand 'break away'. Aware of lap time. Breathing OK.)"
     },
     {
+      "name": "Rookie Trainer",
+      "text": "Mihono Bourbon is able to stay in the front! But how?!",
       "choice_data_list": [
         "(Great! Now hang in there!)"
-      ],
-      "name": "Rookie Trainer",
-      "text": "Mihono Bourbon is able to stay in the front! But how?!"
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -206,36 +206,36 @@
       "text": "I have high hopes for you, Mihono Bourbon."
     },
     {
+      "name": "Mihono Bourbon",
+      "text": "Goal accomplished. I won the 2000 meters on turf.",
       "choice_data_list": [
         "You did an incredible job!",
         "You did an incredible job!"
-      ],
-      "name": "Mihono Bourbon",
-      "text": "Goal accomplished. I won the 2000 meters on turf."
+      ]
     },
     {
+      "text": "After the race, she was still her usual emotionless self.",
       "choice_data_list": [
         "(But I know...)",
         "(But I know...)"
-      ],
-      "text": "After the race, she was still her usual emotionless self."
+      ]
     },
     {
       "text": "I know that what led her to this victory \nwas her own tremendous effort."
     },
     {
+      "text": "Hard work is what surpasses talent. It once again goes \nto show that you shouldn't judge a book by its cover.",
       "choice_data_list": [
         "*sniffle*"
-      ],
-      "text": "Hard work is what surpasses talent. It once again goes \nto show that you shouldn't judge a book by its cover."
+      ]
     },
     {
+      "name": "Mihono Bourbon",
+      "text": "Big changes in breathing and sensation were logged. \nAssuming that confusion of unknown cause has occurred.",
       "choice_data_list": [
         "<size=38>Your running has the power to give courage.</size>",
         "<size=38>Your running has the power to give courage.</size>"
-      ],
-      "name": "Mihono Bourbon",
-      "text": "Big changes in breathing and sensation were logged. \nAssuming that confusion of unknown cause has occurred."
+      ]
     },
     {
       "text": "I'm sure that we will continue to prove that hard work \nis more important than raw talent. And I hope that one day, \nshe'll break free from her robotic self. Even just a little bit."
@@ -245,11 +245,11 @@
       "text": "All I'm doing is racing to achieve my objective. \nDisplays of emotion do not exist in my database."
     },
     {
+      "name": "Mihono Bourbon",
+      "text": "But if you say so, Master... \nThen perhaps, I can place my trust in those words.",
       "choice_data_list": [
         "Bourbon!"
-      ],
-      "name": "Mihono Bourbon",
-      "text": "But if you say so, Master... \nThen perhaps, I can place my trust in those words."
+      ]
     },
     {
       "name": "Mihono Bourbon",

@@ -19,12 +19,12 @@
       "text": "It's Sakura Bakushin O!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "There's a lot of people out here today, \nso be sure to watch out for one another!",
       "choice_data_list": [
         "You're working hard.",
         "You're working hard."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "There's a lot of people out here today, \nso be sure to watch out for one another!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -35,26 +35,26 @@
       "text": "Of course, the class president should keep \na watchful eye on these kinds of events."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "But though that may be so, today is going \nto be my day to shine even brighter!",
       "choice_data_list": [
         "What does that mean?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "But though that may be so, today is going \nto be my day to shine even brighter!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I've registered to run in all sorts of \nevents! Roughly thirty different ones!",
       "choice_data_list": [
         "Thirty?!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I've registered to run in all sorts of \nevents! Roughly thirty different ones!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I just wanted to show off my speed to \nas many attendees as possible!",
       "choice_data_list": [
         "D, don't do anything rash.",
         "D, don't do anything rash."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I just wanted to show off my speed to \nas many attendees as possible!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

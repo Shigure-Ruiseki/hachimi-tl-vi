@@ -8,18 +8,18 @@
       "text": "I'd hoped to make an offer to be Manhattan Cafe's \ntrainer… but the chance hadn't come up…"
     },
     {
+      "name": "New Trainer A",
+      "text": "Wait, wait, <username>. You're not seriously \nplanning on scouting HER are you?",
       "choice_data_list": [
         "You'd better believe it."
-      ],
-      "name": "New Trainer A",
-      "text": "Wait, wait, <username>. You're not seriously \nplanning on scouting HER are you?"
+      ]
     },
     {
+      "name": "Colleague B",
+      "text": "I mean sure, she can run, but when I talked to \nher she just started talking nonsense about her \nimaginary friend… She say that to you too?",
       "choice_data_list": [
         "I think her friend is real."
-      ],
-      "name": "Colleague B",
-      "text": "I mean sure, she can run, but when I talked to \nher she just started talking nonsense about her \nimaginary friend… She say that to you too?"
+      ]
     },
     {
       "name": "New Trainer A",
@@ -37,39 +37,39 @@
       "text": "(Dashdashdashdash…!!)"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "…… \nSorry… to interrupt.",
       "choice_data_list": [
         "It's okay. We'd just finished."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "…… \nSorry… to interrupt."
+      ]
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "………",
       "choice_data_list": [
         "Is your friend here today?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "………"
+      ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "She's here."
     },
     {
+      "text": "There were a lot of other fast Uma Musume lining \nup that day. She'd be better off concentrating \non them rather than chasing her friend…",
       "choice_data_list": [
         "Just relax and run your own race!"
-      ],
-      "text": "There were a lot of other fast Uma Musume lining \nup that day. She'd be better off concentrating \non them rather than chasing her friend…"
+      ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "………"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "I know you… can't see her… \nBut… it feels almost as if you do…",
       "choice_data_list": [
         "Hm? Did you say something?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "I know you… can't see her… \nBut… it feels almost as if you do…"
+      ]
     },
     {
       "name": "Selection Race Official A",
@@ -194,12 +194,12 @@
       "text": "And I asked myself… just what had I been worried \nabout all this time…? Because even if no one believed \nin her… She still ran with that same joy…"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "And ever since then, my friend has kept on running… \njust ahead of me…",
       "choice_data_list": [
         "I can tell your friend is very important to you.",
         "I can tell your friend is very important to you."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "And ever since then, my friend has kept on running… \njust ahead of me…"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -221,26 +221,26 @@
       "text": "In her small voice, barely a whisper… I could \nsense a powerful, unwavering will."
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "You… still can't see her… can you…? \nBut… um…",
       "choice_data_list": [
         "You'll just have to be my eyes."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "You… still can't see her… can you…? \nBut… um…"
+      ]
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "………",
       "choice_data_list": [
         "Let me be your trainer.",
         "Let me be your trainer."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "………"
+      ]
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "Will I… catch her…?",
       "choice_data_list": [
         "You'll beat her!"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "Will I… catch her…?"
+      ]
     },
     {
       "name": "Manhattan Cafe",

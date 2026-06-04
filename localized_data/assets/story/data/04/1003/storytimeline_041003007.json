@@ -6,11 +6,11 @@
       "text": "Summer, the sea, and training! \nBus, continue forward towards our lodging! Go, go, go!"
     },
     {
+      "text": "Our summer training has finally come. \nThe bus moved forward, aiming for the sea.",
       "choice_data_list": [
         "You seem pretty excited, Teio.",
         "You seem pretty excited, Teio."
-      ],
-      "text": "Our summer training has finally come. \nThe bus moved forward, aiming for the sea."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -70,12 +70,12 @@
       "text": "As I opened my eyes, I noticed \nthat I was lying flat on a cold, wooden floor."
     },
     {
+      "name": "Tokai Teio",
+      "text": "Oh, Trainer, are you awake? \nYou just suddenly fell. I was so surprised.",
       "choice_data_list": [
         "How long have I been out?",
         "How long have I been out?"
-      ],
-      "name": "Tokai Teio",
-      "text": "Oh, Trainer, are you awake? \nYou just suddenly fell. I was so surprised."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -86,11 +86,11 @@
       "text": "But why did you collapse? \nHave you not been getting enough sleep?"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Oh, I think I get it! \nYou were so excited that you couldn't sleep, huh? \nHehe, I didn't get much sleep either. \nI was up all night gaming…",
       "choice_data_list": [
         "…"
-      ],
-      "name": "Tokai Teio",
-      "text": "Oh, I think I get it! \nYou were so excited that you couldn't sleep, huh? \nHehe, I didn't get much sleep either. \nI was up all night gaming…"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -109,12 +109,12 @@
       "text": "………"
     },
     {
+      "name": "Tokai Teio",
+      "text": "I knew it… you're not as strong as I am. \nYet I still forced you to do so much training…",
       "choice_data_list": [
         "Don't worry about it, \nlet's go back to training…",
         "Don't worry about it, \nlet's go back to training…"
-      ],
-      "name": "Tokai Teio",
-      "text": "I knew it… you're not as strong as I am. \nYet I still forced you to do so much training…"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -127,22 +127,22 @@
       "text": "So I need to bear with this…"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Trainer, I'm going to take today off…",
       "choice_data_list": [
         "Huh?"
-      ],
-      "name": "Tokai Teio",
-      "text": "Trainer, I'm going to take today off…"
+      ]
     },
     {
       "name": "Tokai Teio",
       "text": "Don't say \"huh\"! We're taking \ntoday off, got it?! No training, only rest!"
     },
     {
+      "name": "Tokai Teio",
+      "text": "You still look pale, so I'm not going to force you to \npush yourself. So it's decided. No more training today!",
       "choice_data_list": [
         "But I need to help you \ncatch up to the President…"
-      ],
-      "name": "Tokai Teio",
-      "text": "You still look pale, so I'm not going to force you to \npush yourself. So it's decided. No more training today!"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -168,11 +168,11 @@
       "text": "I want to have fun. Of course I want to win, but \nI want to win in a cool way! A way that I can be \nproud of, and that I can be praised for."
     },
     {
+      "name": "Tokai Teio",
+      "text": "I want to continue to be able to celebrate my \nvictories with you, like we did at the arcade \nthe other day. With you, and with my friends. \nBut more than that…",
       "choice_data_list": [
         "More than that?"
-      ],
-      "name": "Tokai Teio",
-      "text": "I want to continue to be able to celebrate my \nvictories with you, like we did at the arcade \nthe other day. With you, and with my friends. \nBut more than that…"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -187,19 +187,19 @@
       "text": "Prez may be able to do things on her own, \nbut I have people that I can rely on."
     },
     {
+      "name": "Tokai Teio",
+      "text": "So without you, I'd be in a real bad spot. I \nwouldn't know what to do. So…",
       "choice_data_list": [
         "Teio…"
-      ],
-      "name": "Tokai Teio",
-      "text": "So without you, I'd be in a real bad spot. I \nwouldn't know what to do. So…"
+      ]
     },
     {
+      "name": "Tokai Teio",
+      "text": "Let's take today off. Ahem! Changing the \nschedule based on the situation is super \nimportant, Trainer-kun.",
       "choice_data_list": [
         "Wait, isn't that…",
         "Wait, isn't that…"
-      ],
-      "name": "Tokai Teio",
-      "text": "Let's take today off. Ahem! Changing the \nschedule based on the situation is super \nimportant, Trainer-kun."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -221,12 +221,12 @@
       "text": "Hey, Trainer. I'm fine with \ncalling off training today, but in exchange…"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Why don't we go to the summer festival together tonight? \nI bet we'll have a lot of fun. So how about it?",
       "choice_data_list": [
         "Sure, why not?",
         "Sure, why not?"
-      ],
-      "name": "Tokai Teio",
-      "text": "Why don't we go to the summer festival together tonight? \nI bet we'll have a lot of fun. So how about it?"
+      ]
     },
     {
       "name": "Tokai Teio",

@@ -5,11 +5,11 @@
       "text": "One afternoon, I get a notification on my \nphone, so I take a look, and――"
     },
     {
+      "name": "???",
+      "text": "Horseshoes: found―!!",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "???",
-      "text": "Horseshoes: found―!!"
+      ]
     },
     {
       "name": "Biko Pegasus",
@@ -26,11 +26,11 @@
       "text": "Aaaah～! I apologize for the abruptness of \nmy assault! Trainer!"
     },
     {
+      "name": "Biko Pegasus",
+      "text": "Please forgive her! My senpai only did it \nbecause her righteous heart is burning \nto catch this criminal…!",
       "choice_data_list": [
         "Uh, criminal?"
-      ],
-      "name": "Biko Pegasus",
-      "text": "Please forgive her! My senpai only did it \nbecause her righteous heart is burning \nto catch this criminal…!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -41,12 +41,12 @@
       "text": "The same thing is happening all over \nschool… I, too, as a hero of justice, am \npursuing the culprit!"
     },
     {
+      "name": "Biko Pegasus",
+      "text": "Stealing horseshoes, that crow!",
       "choice_data_list": [
         "Was I just mistaken for a crow…?",
         "Was I just mistaken for a crow…?"
-      ],
-      "name": "Biko Pegasus",
-      "text": "Stealing horseshoes, that crow!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -126,11 +126,11 @@
       "text": "Uuuugh… I missed. \nI should have polished up on my Bakushin \nmore…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "However, if I simply give up like this, I'll \nruin my reputation as class president! \nWhat should I do!",
       "choice_data_list": [
         "We'll use traps to lure them out."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "However, if I simply give up like this, I'll \nruin my reputation as class president! \nWhat should I do!"
+      ]
     },
     {
       "text": "Earlier, she said \"I mistook a horseshoe for \na cell phone.\" \n…Using what she said as a hint, I set up a \nphone as a decoy――"

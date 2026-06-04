@@ -182,10 +182,10 @@
       "text": "It's fine! It's my trainer after all, \nso I really should find them myself——……?"
     },
     {
+      "text": "——During a break at work, I was recharging at a \ncafe. After sitting down, I placed a few of the \ntraining books I brought with me on the table.",
       "choice_data_list": [
         "So that I can make any dream come true……"
-      ],
-      "text": "——During a break at work, I was recharging at a \ncafe. After sitting down, I placed a few of the \ntraining books I brought with me on the table."
+      ]
     },
     {
       "text": "I muttered softly to myself, I wanted to do my best. I didn't mean \nto say it out loud though so I panicked and covered my own mouth."
@@ -194,34 +194,34 @@
       "text": "I wiped my hands with the warm towel provided to me, \nand remembering the horseshoe displayed in the store's \nwindow, I quickly folded it in to that shape."
     },
     {
+      "text": "I opened the menu and traced back and forth with my finger as I read \nthrough it. I tap on a few options, still unsure which to choose.",
       "choice_data_list": [
         "I guess a salad to start……"
-      ],
-      "text": "I opened the menu and traced back and forth with my finger as I read \nthrough it. I tap on a few options, still unsure which to choose."
+      ]
     },
     {
       "text": "I had just about decided what I \nwanted to eat when I looked up——"
     },
     {
+      "name": "Gran Alegria",
+      "text": "……A towel folded in to a horseshoe. \nAnd finger movements as if you're measuring out miles……",
       "choice_data_list": [
         "Eh……"
-      ],
-      "name": "Gran Alegria",
-      "text": "……A towel folded in to a horseshoe. \nAnd finger movements as if you're measuring out miles……"
+      ]
     },
     {
+      "name": "Gran Alegria",
+      "text": "And a tap, tap as if to signal a start!!",
       "choice_data_list": [
         "T-tap tap?"
-      ],
-      "name": "Gran Alegria",
-      "text": "And a tap, tap as if to signal a start!!"
+      ]
     },
     {
+      "name": "Gran Alegria",
+      "text": "And a salad!!",
       "choice_data_list": [
         "S-salad……?"
-      ],
-      "name": "Gran Alegria",
-      "text": "And a salad!!"
+      ]
     },
     {
       "name": "Gran Alegria",

@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Stay Gold",
+      "text": "Oh, Trainer, I'm looking forward \nto today's training.",
       "choice_data_list": [
         "It's like you're overflowing with motivation",
         "It's like you're overflowing with motivation"
-      ],
-      "name": "Stay Gold",
-      "text": "Oh, Trainer, I'm looking forward \nto today's training."
+      ]
     },
     {
       "name": "Stay Gold",

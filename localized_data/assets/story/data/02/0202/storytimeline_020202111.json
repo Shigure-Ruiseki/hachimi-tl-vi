@@ -74,12 +74,12 @@
       "text": "If you follow this, then you'll definitely get back \non your feet. Kraft-san, let's keep motivated. Okay?"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Uu, ugh, Uuuu……",
       "choice_data_list": [
         "What's wrong, Kraft!?",
         "What's wrong, Kraft!?"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Uu, ugh, Uuuu……"
+      ]
     },
     {
       "name": "Rhein Kraft",

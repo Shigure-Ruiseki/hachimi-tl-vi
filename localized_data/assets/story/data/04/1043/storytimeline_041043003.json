@@ -10,12 +10,12 @@
       "text": "Oh, huh!? When did you get back……?! \n……―No, that's not it!"
     },
     {
+      "name": "Shinko Windy",
+      "text": "H-hmph! \nThat instructor put you up to this, huh?!",
       "choice_data_list": [
         "No, I want to know more about you",
         "No, I want to know more about you"
-      ],
-      "name": "Shinko Windy",
-      "text": "H-hmph! \nThat instructor put you up to this, huh?!"
+      ]
     },
     {
       "text": "I had misunderstood her because I didn't know anything \nabout Shinko Windy. When I think about it, I never \nproperly spoke with her even once."
@@ -29,11 +29,11 @@
       "text": "……You want to know more about Windy-chan?"
     },
     {
+      "name": "Shinko Windy",
+      "text": "…………Hmmmmm. \n……Well, if you're that desperate.",
       "choice_data_list": [
         "Tell me everything"
-      ],
-      "name": "Shinko Windy",
-      "text": "…………Hmmmmm. \n……Well, if you're that desperate."
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -60,11 +60,11 @@
       "text": "Ha Ha Ha, Windy is always lively and running around! \nYou're a world-class treasure!"
     },
     {
+      "name": "Shinko Windy",
+      "text": "But…… in kindergarten I found out…… \nthat this world, is really strange!",
       "choice_data_list": [
         "……strange?"
-      ],
-      "name": "Shinko Windy",
-      "text": "But…… in kindergarten I found out…… \nthat this world, is really strange!"
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -90,11 +90,11 @@
       "text": "Surprising everyone, and being the focus of attention! \nThe ultimate existence that even heroes would chase after!"
     },
     {
+      "name": "Shinko Windy",
+      "text": "Gaooo-! So I decided to become a devilish fiend!",
       "choice_data_list": [
         "(I see……)"
-      ],
-      "name": "Shinko Windy",
-      "text": "Gaooo-! So I decided to become a devilish fiend!"
+      ]
     },
     {
       "text": "As I thought, Shinko Windy's reasons for causing mischief were \n『I want to stand out』 and 『I want to be the focus of attention』."
@@ -163,21 +163,21 @@
       "text": "Then someone like Windy-chan is……!!"
     },
     {
+      "text": "……Tracen Academy is a school where geniuses gather. \nIt's a place that shatters the hearts of Uma Musume \nthat have confidence in themselves.",
       "choice_data_list": [
         "(Even someone like Windy……)"
-      ],
-      "text": "……Tracen Academy is a school where geniuses gather. \nIt's a place that shatters the hearts of Uma Musume \nthat have confidence in themselves."
+      ]
     },
     {
       "text": "It's something that will slowly whittle away at you until it's \ntoo late. The escalation of her pranks was a call for help――"
     },
     {
+      "name": "Shinko Windy",
+      "text": "That's why I've decided! \nI'm quitting!",
       "choice_data_list": [
         "Hold on",
         "Hold on"
-      ],
-      "name": "Shinko Windy",
-      "text": "That's why I've decided! \nI'm quitting!"
+      ]
     },
     {
       "text": "Before I realized it, I grabbed her arm."
@@ -190,10 +190,10 @@
       "text": "Even though I had misunderstood…… it was undeniable that her \npranks were a result of her desire for attention."
     },
     {
+      "text": "If she could strengthen herself through training, \nthen her results would be different. That things \nhad gotten this bad was partially my fault.",
       "choice_data_list": [
         "(I need to do something……)"
-      ],
-      "text": "If she could strengthen herself through training, \nthen her results would be different. That things \nhad gotten this bad was partially my fault."
+      ]
     },
     {
       "text": "It's not like she's lacking in talent. If things go well, \nthen she should be able to run happily again. I wondered if I \ncould help her with that――"
@@ -203,41 +203,41 @@
       "text": "W-……what's with you? You don't want Windy-chan to quit?"
     },
     {
+      "text": "With that response, I saw an opportunity.",
       "choice_data_list": [
         "Your race was amazing!",
         "Your race was amazing!"
-      ],
-      "text": "With that response, I saw an opportunity."
+      ]
     },
     {
+      "name": "Shinko Windy",
+      "text": "！",
       "choice_data_list": [
         "You're amazing!",
         "You're amazing!"
-      ],
-      "name": "Shinko Windy",
-      "text": "！"
+      ]
     },
     {
+      "name": "Shinko Windy",
+      "text": "Wha――",
       "choice_data_list": [
         "Talented, cool, Japan's treasure!",
         "Talented, cool, Japan's treasure!"
-      ],
-      "name": "Shinko Windy",
-      "text": "Wha――"
+      ]
     },
     {
+      "name": "Shinko Windy",
+      "text": "What are you saying all of a sudden――",
       "choice_data_list": [
         "I'm looking forward to your future!"
-      ],
-      "name": "Shinko Windy",
-      "text": "What are you saying all of a sudden――"
+      ]
     },
     {
+      "name": "Shinko Windy",
+      "text": "……！！",
       "choice_data_list": [
         "That's why, don't quit……!"
-      ],
-      "name": "Shinko Windy",
-      "text": "……！！"
+      ]
     },
     {
       "name": "Shinko Windy",
@@ -260,11 +260,11 @@
       "text": "That's why, in the next race, for sure……!"
     },
     {
+      "name": "Shinko Windy",
+      "text": "I-…… I-…… I……―",
       "choice_data_list": [
         "You can win!!"
-      ],
-      "name": "Shinko Windy",
-      "text": "I-…… I-…… I……―"
+      ]
     },
     {
       "name": "Shinko Windy",

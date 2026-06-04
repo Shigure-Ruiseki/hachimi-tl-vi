@@ -26,11 +26,11 @@
       "text": "Future generations of runners come here\nto inherit this ambition and, if they are\nso lucky, turn it into power."
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "And so the legacy of one runner is\npassed on to the next, and the next... It's\nquite mysterious, isn't it?",
       "color_text_info_list": [
         "legacy"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "And so the legacy of one runner is\npassed on to the next, and the next... It's\nquite mysterious, isn't it?"
+      ]
     }
   ]
 }

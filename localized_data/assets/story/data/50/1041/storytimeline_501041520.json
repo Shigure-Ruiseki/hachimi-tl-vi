@@ -12,19 +12,19 @@
       "text": "Auuuuuughhh―!! \nI can't solve this at aaaaaall!!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I'm supposed to be the one who solves all \nriddles and leads by example, but this is \nnot the example to be leading by!",
       "choice_data_list": [
         "Do you need help?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I'm supposed to be the one who solves all \nriddles and leads by example, but this is \nnot the example to be leading by!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Eeeeh!? That's very kind of you, but \nisn't that not a good example?",
       "choice_data_list": [
         "Your willingness to work with your Trainer is setting a \ngood example.",
         "Your willingness to work with your Trainer is setting a \ngood example."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Eeeeh!? That's very kind of you, but \nisn't that not a good example?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -35,31 +35,31 @@
       "text": "Hmhm! \n\"Hints can be obtained from Nakayama,\" \nso it says."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Nakayama, Nakayama… \nSpeaking of Nakayama――",
       "choice_data_list": [
         "Should we find it out from Nakayama Festa?",
         "Can you figure it out by going to Nakayama Racecourse?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Nakayama, Nakayama… \nSpeaking of Nakayama――"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I see! The famous \"Nakayama\" of the school \nis her, isn't it!",
       "choice_data_list": [
         "I wonder if she'll cooperate?",
         "I wonder if she'll cooperate?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I see! The famous \"Nakayama\" of the school \nis her, isn't it!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "There will always be obstacles to overcome! \nI'll get through them all with spirit and \nperseverance!!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I found it, Nakayama-san! \nNow, do please give me a hint for the third \n\"Uma Riddle\"!!",
       "choice_data_list": [
         "If that's all you say, she's not going to get the \nmessage…"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I found it, Nakayama-san! \nNow, do please give me a hint for the third \n\"Uma Riddle\"!!"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -74,22 +74,22 @@
       "text": "What's this!?"
     },
     {
+      "name": "Nakayama Festa",
+      "text": "Now, yer gonna play me for a clue. \nIf you win, I'll tell you what 'cha \nwanna know.",
       "choice_data_list": [
         "What if we lose?"
-      ],
-      "name": "Nakayama Festa",
-      "text": "Now, yer gonna play me for a clue. \nIf you win, I'll tell you what 'cha \nwanna know."
+      ]
     },
     {
       "name": "Nakayama Festa",
       "text": "Well, if you're Bakushin O, how about… \nbannin' the class president for a day?"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Deal!!!!!",
       "choice_data_list": [
         "What a quick answer!?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Deal!!!!!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -120,12 +120,12 @@
       "text": "I'm talking about the appropriate attitude \nand behavior for a class president!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Ms. Nakayama! Let's have a competition to \nsee who's better suited to be class \npresident!",
       "choice_data_list": [
         "…You can say no, just so you know.",
         "…You can say no, just so you know."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Ms. Nakayama! Let's have a competition to \nsee who's better suited to be class \npresident!"
+      ]
     },
     {
       "name": "Nakayama Festa",
@@ -167,23 +167,23 @@
       "text": "I see! When I think of Uma Musume, I think \nof racing! And by races, I mean racetracks!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Fufu, now that's straight to the core \nreasoning.",
       "choice_data_list": [
         "But the racetrack is off campus…",
         "But the racetrack is off campus…"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Fufu, now that's straight to the core \nreasoning."
+      ]
     },
     {
       "name": "Sakura Bakushin O",
       "text": "No! If you look at the racetrack as a place \nof learning, you could say it's within the \nAcademy!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I'll be at Nakayama Racecourse this \nweekend! \nThe clue to the mystery is at the Nakayama \nRacecourse!!",
       "choice_data_list": [
         "G, got it."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I'll be at Nakayama Racecourse this \nweekend! \nThe clue to the mystery is at the Nakayama \nRacecourse!!"
+      ]
     },
     {
       "text": "I'm not sure if her guess is correct, but \ngoing to Nakayama Racecourse isn't a bad \nidea."
@@ -195,11 +195,11 @@
       "text": "The weekend came――"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Fu-fu-fu! \nHere we are, Nakayama Racetrack!",
       "choice_data_list": [
         "Since we're here, let's take a tour."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Fu-fu-fu! \nHere we are, Nakayama Racetrack!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -214,11 +214,11 @@
       "text": "If I can make it up that hill, the final \nobstacle, and finish in first place――"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "That would be a tremendous feeling, \nwouldn't it!",
       "choice_data_list": [
         "Let's build up your strength for that."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "That would be a tremendous feeling, \nwouldn't it!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -237,11 +237,11 @@
       "text": "We need to get back to the Academy and \nget some training in!!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "To a glorious future, Bakushiiiiiii―――n!!",
       "choice_data_list": [
         "Hey, what about the riddle!?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "To a glorious future, Bakushiiiiiii―――n!!"
+      ]
     },
     {
       "text": "It seemed that my voice hadn't reached her, \nand before I knew it, Sakura Bakushin O \nwas out of sight."

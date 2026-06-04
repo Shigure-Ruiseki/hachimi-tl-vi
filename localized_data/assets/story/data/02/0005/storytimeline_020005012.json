@@ -120,12 +120,12 @@
       "text": "Even in school there are rumors about her, I wonder \nwhat she's like? While thinking that-"
     },
     {
+      "name": "Air Groove",
+      "text": "You're <Sirius>'s trainer, right?",
       "choice_data_list": [
         "And you're…",
         "And you're…"
-      ],
-      "name": "Air Groove",
-      "text": "You're <Sirius>'s trainer, right?"
+      ]
     },
     {
       "name": "Air Groove",
@@ -202,18 +202,18 @@
       "text": "Ah… ahem. \nHow was it? Suzuka's run, that is."
     },
     {
+      "text": "Yeah…! Her run was awesome, but more than that-",
       "choice_data_list": [
         "She looked like she was having so much fun!",
         "She looked like she was having so much fun!"
-      ],
-      "text": "Yeah…! Her run was awesome, but more than that-"
+      ]
     },
     {
+      "text": "Yeah…! Her run was awesome, but more than that-",
       "choice_data_list": [
         "She looked like she was having so much fun!",
         "She looked like she was having so much fun!"
-      ],
-      "text": "Yeah…! Her run was awesome, but more than that-"
+      ]
     },
     {
       "name": "Air Groove",

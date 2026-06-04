@@ -31,10 +31,10 @@
       "text": "Wait, did you see me pacing in front of that cake shop earlier?!"
     },
     {
+      "text": "I don't remember mandating a diet… It must be self-imposed.",
       "choice_data_list": [
         "A slice or two couldn't hurt, you know?"
-      ],
-      "text": "I don't remember mandating a diet… It must be self-imposed."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -82,10 +82,10 @@
       "text": "Would it be accurate to chalk that up to your performance at the \nspring Tenno Sho?"
     },
     {
+      "text": "McQueen looks my way again. I sense that she's struggling to come \nup with a good answer to that question.",
       "choice_data_list": [
         "Yes, that is why we're here today."
-      ],
-      "text": "McQueen looks my way again. I sense that she's struggling to come \nup with a good answer to that question."
+      ]
     },
     {
       "text": "Even when the team was on the verge of disbandment, she pulled \nthrough and attracted new talent with her achievement."
@@ -98,11 +98,11 @@
       "text": "I see. We're expecting big things from you here on out!"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "…",
       "choice_data_list": [
         "McQueen?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "…"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -178,12 +178,12 @@
       "text": "But I'm finally hitting my stride with my routine. I can't let this chance \ngo to waste."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "Is it fine with you, Trainer?",
       "choice_data_list": [
         "I'll leave it up to you.",
         "I'll leave it up to you."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "Is it fine with you, Trainer?"
+      ]
     },
     {
       "name": "Mejiro McQueen",

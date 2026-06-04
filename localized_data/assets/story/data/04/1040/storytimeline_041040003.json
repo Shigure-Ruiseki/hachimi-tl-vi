@@ -72,23 +72,23 @@
       "text": "It will be okay I said, leave it all to me! I’ll think about \neverything, about your image, and how to make it shine."
     },
     {
+      "name": "Experienced Trainer A",
+      "text": "All you have to do is follow the instructions! That’s for your \nsake too. That’s what a trainer is for, right?",
       "choice_data_list": [
         "That’s not a trainer!"
-      ],
-      "name": "Experienced Trainer A",
-      "text": "All you have to do is follow the instructions! That’s for your \nsake too. That’s what a trainer is for, right?"
+      ]
     },
     {
       "name": "Gold City",
       "text": "Huh…? A, you… why…"
     },
     {
+      "name": "Experienced Trainer A",
+      "text": "…Hoy, who the hell are you. Would you mind \nas an outsider to shut your mouth?",
       "choice_data_list": [
         "If you’re a trainer, listen to her more!",
         "If you’re a trainer, listen to her more!"
-      ],
-      "name": "Experienced Trainer A",
-      "text": "…Hoy, who the hell are you. Would you mind \nas an outsider to shut your mouth?"
+      ]
     },
     {
       "name": "Experienced Trainer A",
@@ -110,10 +110,10 @@
       "text": "…I couldn’t possibly leave Gold City alone. Let’s go after her!"
     },
     {
+      "text": "I searched all over the school, but I couldn’t \nfind her. Where else is leftー",
       "choice_data_list": [
         "Gold City!"
-      ],
-      "text": "I searched all over the school, but I couldn’t \nfind her. Where else is leftー"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -139,37 +139,37 @@
       "text": "But then, the difference between manager-san and \nyou won’t change if you know what I mean~…"
     },
     {
+      "name": "Tosen Jordan",
+      "text": "Just in case, let me hear it. Why are you obsessed with City?",
       "choice_data_list": [
         "I want to support her "
-      ],
-      "name": "Tosen Jordan",
-      "text": "Just in case, let me hear it. Why are you obsessed with City?"
+      ]
     },
     {
       "name": "Tosen Jordan",
       "text": "Tosen Jordan:『Support her』, is it~…"
     },
     {
+      "name": "Tosen Jordan",
+      "text": "By the way, that, have you thought \nabout how『I want to support her』?",
       "choice_data_list": [
         "Nothing yet"
-      ],
-      "name": "Tosen Jordan",
-      "text": "By the way, that, have you thought \nabout how『I want to support her』?"
+      ]
     },
     {
+      "name": "Tosen Jordan",
+      "text": "Nothing yet!? E, for real? Isn’t that bad?",
       "choice_data_list": [
         "I don’t know anything about her yet",
         "I don’t know anything about her yet"
-      ],
-      "name": "Tosen Jordan",
-      "text": "Nothing yet!? E, for real? Isn’t that bad?"
+      ]
     },
     {
+      "name": "Tosen Jordan",
+      "text": "…Huh?",
       "choice_data_list": [
         "I want to talk to her, I want to know her"
-      ],
-      "name": "Tosen Jordan",
-      "text": "…Huh?"
+      ]
     },
     {
       "text": "ーAfter that, I want to discuss and decide what to \ndo with her. So I appealed to Tosen Jordan."
@@ -179,36 +179,36 @@
       "text": "…Hm, hmmm? Ya well, how would I know~…"
     },
     {
+      "name": "Tosen Jordan",
+      "text": "Eh, what is that mood like waiting for me. I’m in trouble~…",
       "choice_data_list": [
         "Tell me where she is…!",
         "Tell me where she is…!"
-      ],
-      "name": "Tosen Jordan",
-      "text": "Eh, what is that mood like waiting for me. I’m in trouble~…"
+      ]
     },
     {
       "name": "Tosen Jordan",
       "text": "Wooo, don’t come any closer~! I don’t want anymore~!!"
     },
     {
+      "name": "Tosen Jordan",
+      "text": "ーGe, it’s coming~!? Jordan, doesn’t know for real!",
       "choice_data_list": [
         "Please, tell me!!",
         "Please, tell me!!"
-      ],
-      "name": "Tosen Jordan",
-      "text": "ーGe, it’s coming~!? Jordan, doesn’t know for real!"
+      ]
     },
     {
       "name": "Tosen Jordan",
       "text": "No way-no way, stay away~!!"
     },
     {
+      "name": "Tosen Jordan",
+      "text": "Phew, if you come this farー",
       "choice_data_list": [
         "Please—!!",
         "Please—!!"
-      ],
-      "name": "Tosen Jordan",
-      "text": "Phew, if you come this farー"
+      ]
     },
     {
       "name": "Tosen Jordan",
@@ -223,11 +223,11 @@
       "text": "I don’t know where City could have gone, \nother than about the riverbed…"
     },
     {
+      "name": "Tosen Jordan",
+      "text": "Ah, shoot.",
       "choice_data_list": [
         "Thank you!!"
-      ],
-      "name": "Tosen Jordan",
-      "text": "Ah, shoot."
+      ]
     },
     {
       "name": "Tosen Jordan",

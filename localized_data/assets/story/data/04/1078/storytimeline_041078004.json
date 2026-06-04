@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "Finally, the day of the 'Selection Race' came. It's the final one \nof the year, so every Uma Musume is in high spirits.",
       "choice_data_list": [
         "You alright?",
         "You alright?"
-      ],
-      "text": "Finally, the day of the 'Selection Race' came. It's the final one \nof the year, so every Uma Musume is in high spirits."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -39,11 +39,11 @@
       "text": "If you are able feel my wind on the racecourse, \nCan you be my trainer then?"
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "As promised, I'll do my best to show you a race that can \nmeet your expectation. So please look forward to it.",
       "choice_data_list": [
         "(…? something changed…)"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "As promised, I'll do my best to show you a race that can \nmeet your expectation. So please look forward to it."
+      ]
     },
     {
       "text": "She smiled calmly as usual, but something was different \nabout her. I stared at her curiously."
@@ -53,28 +53,28 @@
       "text": "What's wrong, trainer? \nIs there something on my face?"
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "I'm feeling a bit embarrassed \nyou staring at me like that… fufufu.",
       "choice_data_list": [
         "(I see, so that's why…!)"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "I'm feeling a bit embarrassed \nyou staring at me like that… fufufu."
+      ]
     },
     {
+      "text": "I haven't heard a single 'wind' from her today. \nShe didn't have that distinctive way of speaking like usual.",
       "choice_data_list": [
         "Zephyr!!"
-      ],
-      "text": "I haven't heard a single 'wind' from her today. \nShe didn't have that distinctive way of speaking like usual."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "Wa. You scared me. Raising your voice like that… \nWhat's wrong?"
     },
     {
+      "text": "…The 'wind' is not coming out of her mouth. Is it possible \nthat she is not in her usual state of mind right now?",
       "choice_data_list": [
         "Are you worried about something?",
         "Are you worried about something?"
-      ],
-      "text": "…The 'wind' is not coming out of her mouth. Is it possible \nthat she is not in her usual state of mind right now?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -97,10 +97,10 @@
       "text": "I can think of many words like that to calm her, \nbut that's not what she needs to hear right now."
     },
     {
+      "text": "As a trainer who had been watching over Zephyr, \nall I can say to her right now is…",
       "choice_data_list": [
         "Be free, Zephyr"
-      ],
-      "text": "As a trainer who had been watching over Zephyr, \nall I can say to her right now is…"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -116,12 +116,12 @@
       "text": "Isn't aiming to become only one of the forms \nlike fitting the wind into a mold?"
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "Fitting the wind… \ninto a mold…?",
       "choice_data_list": [
         "Isn't the wind suppose to be free?",
         "Isn't the wind suppose to be free?"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "Fitting the wind… \ninto a mold…?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -179,24 +179,24 @@
       "text": "Yamanin Zephyr takes the lead! \nLeading from one horse length to two horse length, GOAL IN!"
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "Trainer. Did you see my run!",
       "choice_data_list": [
         "Yes, it was like a hurricane",
         "Yes, it was like a hurricane"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "Trainer. Did you see my run!"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "Fufu, thank you. But, I still have a long way to go. \nThe wind has just picked up. It's still just a breeze."
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "To become a bigger wind, I want you to―",
       "choice_data_list": [
         "Zephyr, I want to be your supporting wind",
         "Zephyr, I want to be your supporting wind"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "To become a bigger wind, I want you to―"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -207,11 +207,11 @@
       "text": "But… the wind of grace that nurture all things― \nTo me, you are that 'Keifu'"
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "I would like to propose as well. \nCan you be my personal trainer?",
       "choice_data_list": [
         "Of course! Zephyr!"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "I would like to propose as well. \nCan you be my personal trainer?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",

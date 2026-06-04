@@ -9,23 +9,23 @@
       "text": "Haa, haa……… fuu."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "My time has gotten better, hasn't it? In addition to that, \nit feels like I catch my breath a little bit faster after running.",
       "choice_data_list": [
         "We're making good progress through the menu too!",
         "We're making good progress through the menu too!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "My time has gotten better, hasn't it? In addition to that, \nit feels like I catch my breath a little bit faster after running."
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "Thank you very much. Well then- \nto make the best use of time, I will continue."
     },
     {
+      "text": "As soon as I praise her, she returns to thinking about training. \nJust like she said, she was making use of that time. \nHer concentration was incredible.",
       "choice_data_list": [
         "That concentration is one of your stengths",
         "That concentration is one of your stengths"
-      ],
-      "text": "As soon as I praise her, she returns to thinking about training. \nJust like she said, she was making use of that time. \nHer concentration was incredible."
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -51,17 +51,17 @@
       "text": "Right now, in this moment, to shine brilliantly \neven at the cost of my life, is the one right still permitted me."
     },
     {
+      "text": "On that day, of her own volition, she explained her situation to me, \nquietly… but there was an unwavering determination within.",
       "choice_data_list": [
         "(I want to match that resolve…)"
-      ],
-      "text": "On that day, of her own volition, she explained her situation to me, \nquietly… but there was an unwavering determination within."
+      ]
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Trainer-san, my preparations are complete. \nI'm ready for the last one, please.",
       "choice_data_list": [
         "-Alright, ready, start!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Trainer-san, my preparations are complete. \nI'm ready for the last one, please."
+      ]
     },
     {
       "name": "Spectating Trainees",
@@ -71,18 +71,18 @@
       "text": "From the nearby spectating kouhai, I heard some voice their concern, but―"
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Haa, haa…… \n……Yeah, this feels fine…",
       "choice_data_list": [
         "(It's fine, she can still keep going)"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Haa, haa…… \n……Yeah, this feels fine…"
+      ]
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Trainer-san? Is there something wrong?",
       "choice_data_list": [
         "In this condition, I wonder if adding more would be fine"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Trainer-san? Is there something wrong?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -93,11 +93,11 @@
       "text": "For today too, thank you very much. \nToday's training, was much more fruitful than before I believe."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "That's why… if it's alright. Starting tomorrow, how about making \nthis the normal training menu?",
       "choice_data_list": [
         "I was thinking the same thing."
-      ],
-      "name": "Mejiro Ardan",
-      "text": "That's why… if it's alright. Starting tomorrow, how about making \nthis the normal training menu?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -108,18 +108,18 @@
       "text": "Before my debut, I wasn't able to train on consecutive days. \nHowever, now, it's as you can see."
     },
     {
+      "text": "With her in good health and high spirits, our meeting ended. \nBut, it didn't seem she was ready to relax just yet, as she was \nstill standing straight.",
       "choice_data_list": [
         "Why don't you relax a bit more?",
         "Why don't you relax a bit more?"
-      ],
-      "text": "With her in good health and high spirits, our meeting ended. \nBut, it didn't seem she was ready to relax just yet, as she was \nstill standing straight."
+      ]
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Relax… what do you mean?",
       "choice_data_list": [
         "How about sitting down or laying on the sofa?"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Relax… what do you mean?"
+      ]
     },
     {
       "name": "Mejiro Ardan",
@@ -146,42 +146,42 @@
       "text": "(……I see. I should stand properly, \notherwise they might think I'm feeling sick…)"
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "……",
       "choice_data_list": [
         "Ardan……?"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "……"
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "No, it's nothing. Staying like this helps calm me down, \nso please don't worry."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Trainer-san, I'll promise not to push myself too hard when \nyou're around, so please, rest assured.",
       "choice_data_list": [
         "Got it. When you feel like being pampered, let me know",
         "Got it. When you feel like being pampered, let me know"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Trainer-san, I'll promise not to push myself too hard when \nyou're around, so please, rest assured."
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "Oh… if you were to pamper an Uma Musume, wouldn't it \ninterfere with your work, Trainer-san?"
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Perhaps I might say: \"Today, I'm not feeling too good so I'm \ngoing to take the day off.\" Something like that, you know?",
       "choice_data_list": [
         "N-Not when it comes to training!",
         "N-Not when it comes to training!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Perhaps I might say: \"Today, I'm not feeling too good so I'm \ngoing to take the day off.\" Something like that, you know?"
+      ]
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Fufuu… of course, I ask that you don't. \nI'll be fine, right now I've been more than taken care of.",
       "choice_data_list": [
         "(If she's going to say that, I'll leave it to her…)"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Fufuu… of course, I ask that you don't. \nI'll be fine, right now I've been more than taken care of."
+      ]
     },
     {
       "text": "After seeing Mejiro Ardan with a refreshed smile on her face, \nI decided not to say anything more."

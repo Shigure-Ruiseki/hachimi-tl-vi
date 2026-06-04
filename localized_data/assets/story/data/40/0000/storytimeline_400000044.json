@@ -5,11 +5,11 @@
       "text": "<chrname> has been seriously injured…!"
     },
     {
+      "text": "I don't know whether I should tend\nto her or push her through it…",
       "choice_data_list": [
         "Let me tend to her",
         "I have to be harh!"
-      ],
-      "text": "I don't know whether I should tend\nto her or push her through it…"
+      ]
     },
     {
       "text": "I decided to focus  on healing her injury."

@@ -4,23 +4,23 @@
       "text": "A day off. It was nice out, so I was taking a stroll through town――"
     },
     {
+      "name": "Fenomeno",
+      "text": "Boss! What a coincidence, seeing you here!\nAre you out on the town today?",
       "choice_data_list": [
         "Yep. Just wandering around. You?",
         "Yep. Just wandering around. You?"
-      ],
-      "name": "Fenomeno",
-      "text": "Boss! What a coincidence, seeing you here!\nAre you out on the town today?"
+      ]
     },
     {
       "name": "Fenomeno",
       "text": "Copy! I'm doing the rounds, patrolling the town for danger!"
     },
     {
+      "text": "Seeing her work so hard for the sake of the town, even on her days off, had me impressed. It made me want to help her out a little.",
       "choice_data_list": [
         "Well, I'm here anyway. Can I join you?",
         "Well, I'm here anyway. Can I join you?"
-      ],
-      "text": "Seeing her work so hard for the sake of the town, even on her days off, had me impressed. It made me want to help her out a little."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -43,11 +43,11 @@
       "text": "Whuh!? I-I'm scared...!\nMommyy.....!!"
     },
     {
+      "name": "Fenomeno",
+      "text": "M-my apologies!\n...I didn't mean to scare you...!",
       "choice_data_list": [
         "You're alright~ Don't be scared, OK~?"
-      ],
-      "name": "Fenomeno",
-      "text": "M-my apologies!\n...I didn't mean to scare you...!"
+      ]
     },
     {
       "name": "Lost Kid",
@@ -82,28 +82,28 @@
       "text": "S-swindle you!? Of course not!\nI am not a criminal, I assure you!!"
     },
     {
+      "name": "Old Woman",
+      "text": "Your angry mug doesn't scare me one bit!\nSomebodyyyy, HEEEELLP!!!!",
       "choice_data_list": [
         "She's not like that, really!!"
-      ],
-      "name": "Old Woman",
-      "text": "Your angry mug doesn't scare me one bit!\nSomebodyyyy, HEEEELLP!!!!"
+      ]
     },
     {
       "name": "Fenomeno",
       "text": "We managed to clear things up, thanks to you...\n........Sigh."
     },
     {
+      "text": "Fenomeno slumped her shoulders, dejected.\nAs her trainer, it was up to me to step up and reassure her.",
       "choice_data_list": [
         "Feeling tired? I'll get us some coffee."
-      ],
-      "text": "Fenomeno slumped her shoulders, dejected.\nAs her trainer, it was up to me to step up and reassure her."
+      ]
     },
     {
+      "name": "Fenomeno",
+      "text": "Oh! I can go buy――",
       "choice_data_list": [
         "It's OK, I got it. You take a break."
-      ],
-      "name": "Fenomeno",
-      "text": "Oh! I can go buy――"
+      ]
     },
     {
       "name": "Fenomeno",
@@ -149,11 +149,11 @@
       "text": "Over here!"
     },
     {
+      "text": "I followed her voice, and found her looking after a man who'd keeled over.",
       "choice_data_list": [
         "What happened...!? Is he okay!?",
         "What happened...!? Is he okay!?"
-      ],
-      "text": "I followed her voice, and found her looking after a man who'd keeled over."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -184,11 +184,11 @@
       "text": "After a second of thinking, I sent Fenomeno the route to the hospital on LANE."
     },
     {
+      "name": "Fenomeno",
+      "text": "――..........!\nBoss, this map...",
       "choice_data_list": [
         "I need you to get him to that hospital."
-      ],
-      "name": "Fenomeno",
-      "text": "――..........!\nBoss, this map..."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -205,8 +205,8 @@
       "text": "And above all else, she had a powerful force of will. The kind that let her dedicate herself to justice.\nIf anyone could do it, it was her."
     },
     {
-      "name": "Fenomeno",
-      "text": "――.....!\n...........Affirmative!"
+      "text": "――.....!\n...........Affirmative!",
+      "name": "Fenomeno"
     },
     {
       "name": "Fenomeno",
@@ -216,19 +216,19 @@
       "text": "I stayed behind to explain to the ambulance crew that Fenomeno was taking the man to the hospital, following the doctor's note. And then――"
     },
     {
+      "name": "Fenomeno",
       "choice_data_list": [
         "Is he OK!?"
       ],
-      "name": "Fenomeno",
       "text": "――!! Boss!!"
     },
     {
+      "text": "It seems they just barely managed to treat him in time.\nThey said he avoided the worst case scenario.",
       "choice_data_list": [
         "Thank goodness... Great job, Meno!",
         "Thank goodness... Great job, Meno!"
       ],
-      "name": "Fenomeno",
-      "text": "It seems they just barely managed to treat him in time.\nThey said he avoided the worst case scenario."
+      "name": "Fenomeno"
     },
     {
       "name": "Fenomeno",
@@ -238,12 +238,12 @@
       "text": "Leaving the rest in the hospital's hands, the two of us started making our way back. Today was a rough day for sure, but there was something cathartic about a job well done."
     },
     {
+      "name": "Fenomeno",
+      "text": "...I managed to save that man, thanks to you.\nIt was your training that gave me the strength to carry him.",
       "choice_data_list": [
         "I knew you could do it.",
         "I knew you could do it."
-      ],
-      "name": "Fenomeno",
-      "text": "...I managed to save that man, thanks to you.\nIt was your training that gave me the strength to carry him."
+      ]
     },
     {
       "name": "Fenomeno",
@@ -258,10 +258,10 @@
       "text": "But... not anymore.\nIf I'm unworthy, then all I need to do is dedicate myself to becoming worthy."
     },
     {
+      "name": "Fenomeno",
       "choice_data_list": [
         "Meno..."
       ],
-      "name": "Fenomeno",
       "text": "I truly do want to follow you.\nSo that you may lead me to my ideal justice."
     },
     {
@@ -273,11 +273,11 @@
       "text": "But even so, would you allow me to continue to stand by your side?"
     },
     {
+      "text": "Standing before me was a girl with an unwavering faith in justice. I couldn't help but be drawn to her because of it.\nSo I knew exactly how I would answer.",
       "choice_data_list": [
         "Of course. I'm your \"Boss\", aren't I?",
         "Of course. I'm your \"Boss\", aren't I?"
-      ],
-      "text": "Standing before me was a girl with an unwavering faith in justice. I couldn't help but be drawn to her because of it.\nSo I knew exactly how I would answer."
+      ]
     },
     {
       "name": "Fenomeno",

@@ -9,22 +9,22 @@
       "text": "Man～ I got something good. \nIt was worth wandering around."
     },
     {
+      "text": "For some reason, she was strolling \naround the racecourse carrying a \nlarge bear print t-shirt, casually \npurchased along the way…",
       "choice_data_list": [
         "…Shouldn't we be getting ready?",
         "…Shouldn't we be getting ready?"
-      ],
-      "text": "For some reason, she was strolling \naround the racecourse carrying a \nlarge bear print t-shirt, casually \npurchased along the way…"
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "<i>Yeah</i>. Getting ready and such isn't all that \nimportant ——"
     },
     {
+      "name": "Stay Gold",
+      "text": "A journey is really about the detours you \nmake along the way. Once you get used to \nthat kind of atmosphere, performing well \ncomes naturally.",
       "choice_data_list": [
         "…If you say it like that, then I got it"
-      ],
-      "name": "Stay Gold",
-      "text": "A journey is really about the detours you \nmake along the way. Once you get used to \nthat kind of atmosphere, performing well \ncomes naturally."
+      ]
     },
     {
       "text": "…Just like that, Stay Gold casually strolled \naround the racecourse, as much as time \npermitted."
@@ -38,11 +38,11 @@
       "text": "…Yeah. I'm feeling good."
     },
     {
+      "name": "Stay Gold",
+      "text": "I've got a good grasp on where I am \nright now.",
       "choice_data_list": [
         "$(scale 95)…First thing is to go enjoy your debut race!"
-      ],
-      "name": "Stay Gold",
-      "text": "I've got a good grasp on where I am \nright now."
+      ]
     },
     {
       "name": "Stay Gold",

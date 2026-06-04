@@ -6,20 +6,20 @@
       "text": "Errr… ah."
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "…What a coincidence, Trainer. \nOut on an evening walk? Actually, I, too, was just――",
       "choice_data_list": [
         "You don't look like you're here to take a walk.",
         "You don't look like you're here to take a walk."
-      ],
-      "name": "Fuji Kiseki",
-      "text": "…What a coincidence, Trainer. \nOut on an evening walk? Actually, I, too, was just――"
+      ]
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "That's…",
       "choice_data_list": [
         "Are you worried, about the Selection Race?",
         "Are you worried, about the Selection Race?"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "That's…"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -53,11 +53,11 @@
       "text": "But, I――"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "…Trainer, how do you think I've looked so far? \nWas I able to produce a show of a \"Fuji Kiseki\" with great \nability, overflowing with confidence in herself?",
       "choice_data_list": [
         "It sure looked that way to me."
-      ],
-      "name": "Fuji Kiseki",
-      "text": "…Trainer, how do you think I've looked so far? \nWas I able to produce a show of a \"Fuji Kiseki\" with great \nability, overflowing with confidence in herself?"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -82,38 +82,38 @@
       "text": "What can we do for her…? \nHow can we cheer up the one who aspires to be an \nentertainer――?"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "As long as there is an audience expecting the \"Miracle Kiseki,\" \nit is the entertainer's duty to satisfy their expectations to the \nbest of her ability.",
       "choice_data_list": [
         "(An \"audience\"…!!)"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "As long as there is an audience expecting the \"Miracle Kiseki,\" \nit is the entertainer's duty to satisfy their expectations to the \nbest of her ability."
+      ]
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "…? Trainer, what's the matter?",
       "choice_data_list": [
         "Wait here for a minute!",
         "Wait here for a minute!"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "…? Trainer, what's the matter?"
+      ]
     },
     {
       "name": "Fuji Kiseki",
       "text": "What? Ah… Hey, Trainer!?"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Oh, it's you! \nThat face… Could it be, maybe ya found Fuji!?",
       "choice_data_list": [
         "Yeah, about that, I need a little favor.",
         "Yeah, about that, I need a little favor."
-      ],
-      "name": "Hishi Amazon",
-      "text": "Oh, it's you! \nThat face… Could it be, maybe ya found Fuji!?"
+      ]
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Heh? A favor…?",
       "choice_data_list": [
         "I wanted to ease her worries."
-      ],
-      "name": "Hishi Amazon",
-      "text": "Heh? A favor…?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -155,20 +155,20 @@
       "text": "Fuji-senpai! Fuji-senpai, you can do it! \nFuji-senpai…!!"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "Everyone…",
       "choice_data_list": [
         "Everyone, and I, believe in your \"Kiseki Miracle.\"",
         "Everyone, and I, believe in your \"Kiseki Miracle.\""
-      ],
-      "name": "Fuji Kiseki",
-      "text": "Everyone…"
+      ]
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "My \"Kiseki Miracle\"…",
       "choice_data_list": [
         "So you, too, must believe in your \"miracle.\"",
         "So you, too, must believe in your \"miracle.\""
-      ],
-      "name": "Fuji Kiseki",
-      "text": "My \"Kiseki Miracle\"…"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -229,12 +229,12 @@
       "text": "Fuji Kiseki-senpai, thank you… for the wonderful race. \nThanks to you, I remembered… what I longed for, what my \ndreams were!"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "Haah… Goodness, I'm beat. \nI'm not much of a sore muscle kind of Uma, but I'm dreading \ntomorrow, indeed.",
       "choice_data_list": [
         "Good job, we saw a great \"Kiseki Miracle\" out there.",
         "Good job, we saw a great \"Kiseki Miracle\" out there."
-      ],
-      "name": "Fuji Kiseki",
-      "text": "Haah… Goodness, I'm beat. \nI'm not much of a sore muscle kind of Uma, but I'm dreading \ntomorrow, indeed."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -253,12 +253,12 @@
       "text": "Trainer. If only you could… \nfrom now on, continue to guide me?"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "I think you and I, we could entertain everyone with even more \nwonderful \"Miracles\"…!",
       "choice_data_list": [
         "Of course! Let's do this!!",
         "Of course! Let's do this!!"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "I think you and I, we could entertain everyone with even more \nwonderful \"Miracles\"…!"
+      ]
     },
     {
       "text": "Thus, I signed an exclusive contract with Fuji Kiseki, the \nEntertainer that delights everyone…!"

@@ -24,12 +24,12 @@
       "text": "If you aren't able to gather more members, I'm afraid we have little \nchoice."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "How could this happen overnight?! How could everyone be so cold?",
       "choice_data_list": [
         "Let's calm down to start.",
         "Let's calm down to start."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "How could this happen overnight?! How could everyone be so cold?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -47,11 +47,11 @@
       "text": "No, I don't think so. This is actually the first time this has ever \nhappened…"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "But this extension is temporary at best. Without talking to the \nhigher-ups, I can't say how long you'll have.",
       "choice_data_list": [
         "So time is of the essence."
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "But this extension is temporary at best. Without talking to the \nhigher-ups, I can't say how long you'll have."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -193,16 +193,16 @@
       "text": "Is my instruction what's lacking, or is it just a matter of building trust?"
     },
     {
+      "text": "And we still have recruiting to worry about. This has turned into some \nordeal…",
       "choice_data_list": [
         "It won't stop me, though!"
-      ],
-      "text": "And we still have recruiting to worry about. This has turned into some \nordeal…"
+      ]
     },
     {
+      "text": "And we still have recruiting to worry about. This has turned into some \nordeal…",
       "choice_data_list": [
         "It won't stop me, though!"
-      ],
-      "text": "And we still have recruiting to worry about. This has turned into some \nordeal…"
+      ]
     },
     {
       "text": "I give myself a good slap on the cheeks and shift my gaze back to \nMcQueen."

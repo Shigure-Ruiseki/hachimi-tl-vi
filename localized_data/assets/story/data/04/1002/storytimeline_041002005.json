@@ -5,12 +5,12 @@
       "text": "During lunch break, I was walking in the school hallways when I \nspotted a familiar face in one of the classrooms."
     },
     {
+      "name": "Silence Suzuka",
+      "text": "The 7 of hearts, if I remember was to the right of this…",
       "choice_data_list": [
         "What are you doing?",
         "What are you doing?"
-      ],
-      "name": "Silence Suzuka",
-      "text": "The 7 of hearts, if I remember was to the right of this…"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -21,12 +21,12 @@
       "text": "So far, I've been doing well and if this keeps \nup I'll get all the cards… huh…?"
     },
     {
+      "name": "Silence Suzuka",
+      "text": "Aaaah! I forgot where everything was…",
       "choice_data_list": [
         "I'm sorry I bothered you…",
         "I'm sorry I bothered you…"
-      ],
-      "name": "Silence Suzuka",
-      "text": "Aaaah! I forgot where everything was…"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -36,12 +36,12 @@
       "text": "Saying that, Silence Suzuka quietly \nrearranged the cards by herself."
     },
     {
+      "name": "Silence Suzuka",
+      "text": "…Alright. This time, for sure.",
       "choice_data_list": [
         "By any chance, are you playing by yourself?",
         "By any chance, are you playing by yourself?"
-      ],
-      "name": "Silence Suzuka",
-      "text": "…Alright. This time, for sure."
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -55,10 +55,10 @@
       "text": "Imposing her own rules and stoicly playing, \nis very Silence Suzuka-like."
     },
     {
+      "text": "But, since there's two of us…",
       "choice_data_list": [
         "How about a match?"
-      ],
-      "text": "But, since there's two of us…"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -98,11 +98,11 @@
       "text": "Aaah… one after another, the cards I wanted…"
     },
     {
+      "name": "Silence Suzuka",
+      "text": "Deducing the cards at the end of the game and taking them all in \none go is the most satisfying part though…",
       "choice_data_list": [
         "Is that why you were playing alone?"
-      ],
-      "name": "Silence Suzuka",
-      "text": "Deducing the cards at the end of the game and taking them all in \none go is the most satisfying part though…"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -113,18 +113,18 @@
       "text": "Ah, please don't worry. I was the one that accepted \nTrainer-san's invitation, after all."
     },
     {
+      "text": "Oops. Looks like I've ruined her fun…",
       "choice_data_list": [
         "(Maybe I should leave…)"
-      ],
-      "text": "Oops. Looks like I've ruined her fun…"
+      ]
     },
     {
+      "name": "Silence Suzuka",
+      "text": "Is something the matter, Trainer-san? \nI'm going to set them up again.",
       "choice_data_list": [
         "Ah, you're still going to play with me?",
         "Ah, you're still going to play with me?"
-      ],
-      "name": "Silence Suzuka",
-      "text": "Is something the matter, Trainer-san? \nI'm going to set them up again."
+      ]
     },
     {
       "name": "Silence Suzuka",

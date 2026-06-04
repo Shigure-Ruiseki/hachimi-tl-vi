@@ -12,24 +12,24 @@
       "text": "Ahhhh, it's finally over!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Geez, Why do I have to do homework for general \nclasses during summer training～……",
       "choice_data_list": [
         "Did you do your homework by yourself!?",
         "Did you do your homeowork by yourself?!"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Geez, Why do I have to do homework for general \nclasses during summer training～……"
+      ]
     },
     {
       "name": "Mayano Top Gun",
       "text": "Huh? Oh, trainer-chan!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Fufu, that's right! \nIt was so～～～～～ boring, but I did it♪",
       "choice_data_list": [
         "Great job, Mayano!",
         "Great job, Mayano!"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Fufu, that's right! \nIt was so～～～～～ boring, but I did it♪"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -44,12 +44,12 @@
       "text": "I'm going to keep on trying to find it."
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Oh, yeah! Hey-hey, trainer-chan! As a reward for doing homework! \nLet's go to the beach! You're fine with that, right?",
       "choice_data_list": [
         "Okay, let's go!",
         "Okay, let's go!"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Oh, yeah! Hey-hey, trainer-chan! As a reward for doing homework! \nLet's go to the beach! You're fine with that, right?"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -127,23 +127,23 @@
       "text": "But I'm sure it's because everyone has \na different \"way\" of doing things!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Like formulas, the way you run is different, \nand there are different ways to do it, so you get worried!",
       "choice_data_list": [
         "If you continue learning, it will broaden your horizons.",
         "If you continue learning, it will broaden your horizons."
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Like formulas, the way you run is different, \nand there are different ways to do it, so you get worried!"
+      ]
     },
     {
       "name": "Mayano Top Gun",
       "text": "I know, right? Maya feels like the clouds just poofed up in front \nof her and the blue sky went boom!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "……I see. Maybe \"doing homework\" means something different to Maya \nthan it does to everyone else!",
       "choice_data_list": [
         "For example?"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "……I see. Maybe \"doing homework\" means something different to Maya \nthan it does to everyone else!"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -158,12 +158,12 @@
       "text": "We could get to know each other better than we do now!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Hey-hey! This can be done not only with \nteachers and friends, but also with Trainer-chan, right?",
       "choice_data_list": [
         "You want me to give you homework?",
         "You want me to give you homework?"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Hey-hey! This can be done not only with \nteachers and friends, but also with Trainer-chan, right?"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -178,12 +178,12 @@
       "text": "Even if you are not around, \nMaya will still feel connected with you right?!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "When I think about it like that, even the most tedious homework \nwill feel a bit less tedious!",
       "choice_data_list": [
         "You're all grown up.",
         "You're all grown up."
-      ],
-      "name": "Mayano Top Gun",
-      "text": "When I think about it like that, even the most tedious homework \nwill feel a bit less tedious!"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -194,11 +194,11 @@
       "text": "Ehehe… Ehehehehe～! I see～ Maya is getting \ncloser to becoming an adult woman～!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Well then～…… Trainer-chan!",
       "choice_data_list": [
         "What?"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Well then～…… Trainer-chan!"
+      ]
     },
     {
       "name": "Mayano Top Gun",

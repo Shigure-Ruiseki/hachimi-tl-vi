@@ -6,12 +6,12 @@
       "text": "Early to bed, early to fangirl—— \n…I mean, it's <i>5AM</i> early."
     },
     {
+      "name": "Agnes Digital",
+      "text": "Good morning, Trainer-san!! \nAnd thank you… Thank you so much for coming!!!!!!",
       "choice_data_list": [
         "Someone's in a good mood this early.",
         "Someone's in a good mood this early."
-      ],
-      "name": "Agnes Digital",
-      "text": "Good morning, Trainer-san!! \nAnd thank you… Thank you so much for coming!!!!!!"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -42,12 +42,12 @@
       "text": "So many Umamusume-chans have given white clovers to the \ngirls they call their rivals, and guess what…!!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "What's that mean in flower language?—— You guessed it! \n\"Think of me\"!! \"Promise me\"!! They're promising to devote all \ntheir feelings to each ooootthhheeeerrrrrr……",
       "choice_data_list": [
         "Really does sound like a drama.",
         "Really does sound like a drama."
-      ],
-      "name": "Agnes Digital",
-      "text": "What's that mean in flower language?—— You guessed it! \n\"Think of me\"!! \"Promise me\"!! They're promising to devote all \ntheir feelings to each ooootthhheeeerrrrrr……"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -62,11 +62,11 @@
       "text": "Hayahide-san fact: She used to race a lot against her little sister \nBrian-san when they were kids."
     },
     {
+      "name": "Agnes Digital",
+      "text": "The two are sisters, yet rivals too. \nDoesn't that backstory get you literally shaking? …Don't you \njust want to run!?",
       "choice_data_list": [
         "Don't you?"
-      ],
-      "name": "Agnes Digital",
-      "text": "The two are sisters, yet rivals too. \nDoesn't that backstory get you literally shaking? …Don't you \njust want to run!?"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -85,11 +85,11 @@
       "text": "Plus! …the… sheer <i>size</i> of these portions… woo!!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "…N-No wonder they call it the King's Ramen. One who conquers \nthe ramen… bears the crown—— \n…Hough…",
       "choice_data_list": [
         "Y-you don't have to finish the whole thing!"
-      ],
-      "name": "Agnes Digital",
-      "text": "…N-No wonder they call it the King's Ramen. One who conquers \nthe ramen… bears the crown—— \n…Hough…"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -103,12 +103,12 @@
       "text": "Even after that ordeal, she continued her journey with all her \nmight. \nAfter all that——"
     },
     {
+      "name": "Agnes Digital",
+      "text": "——Okay! Now that we've checked out the honey drink stall, \nthe pilgrimage… is complete!",
       "choice_data_list": [
         "We really went all over the place, huh.",
         "We really went all over the place, huh."
-      ],
-      "name": "Agnes Digital",
-      "text": "——Okay! Now that we've checked out the honey drink stall, \nthe pilgrimage… is complete!"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -151,12 +151,12 @@
       "text": "And here we are! I've gotta say, it was actually \nssssssssssssssssssssssssu…"
     },
     {
+      "name": "Agnes Digital",
+      "text": "…uuuuuper duper fun～!",
       "choice_data_list": [
         "I had fun too. Thanks for inviting me.",
         "I had fun too. Thanks for inviting me."
-      ],
-      "name": "Agnes Digital",
-      "text": "…uuuuuper duper fun～!"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -171,11 +171,11 @@
       "text": "I finally figured it out, see? \nThe joy of fangirling together with you, Trainer-san!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "I didn't even think there was a single person on the whole planet \nwho'd go along with my fandom so much!",
       "choice_data_list": [
         "I wouldn't go that far…"
-      ],
-      "name": "Agnes Digital",
-      "text": "I didn't even think there was a single person on the whole planet \nwho'd go along with my fandom so much!"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -186,12 +186,12 @@
       "text": "Going along with my crazy talk is one thing but, actually, really \n<i>getting</i> it!? \nIt just makes me so happy…!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Nowadays, whenever I get all \"The feels are hitting too hard I \njust can't even～!\", I <i>have</i> to go talk to you about it!",
       "choice_data_list": [
         "Anything you want to talk about, I'll listen.",
         "Anything you want to talk about, I'll listen."
-      ],
-      "name": "Agnes Digital",
-      "text": "Nowadays, whenever I get all \"The feels are hitting too hard I \njust can't even～!\", I <i>have</i> to go talk to you about it!"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -202,11 +202,11 @@
       "text": "Are you sure? …Are you <i>SURE??</i> You gave me the OK, right??? \nThen get ready for more of Digitan's Crazy Tal——"
     },
     {
+      "name": "Agnes Digital",
+      "text": "<b>…STOOOOOOOOOOOOOOOOOOOP!!</b>",
       "choice_data_list": [
         "！？"
-      ],
-      "name": "Agnes Digital",
-      "text": "<b>…STOOOOOOOOOOOOOOOOOOOP!!</b>"
+      ]
     },
     {
       "name": "Agnes Digital",

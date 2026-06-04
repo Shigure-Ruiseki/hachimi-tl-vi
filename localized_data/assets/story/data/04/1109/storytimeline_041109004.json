@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "Finally the day of the Selection race had come. \nRhein Kraft had been getting stronger quite quickly, \nand her current condition seemed really good too.",
       "choice_data_list": [
         "Looks like you're ready, Kraft",
         "Looks like you're ready, Kraft"
-      ],
-      "text": "Finally the day of the Selection race had come. \nRhein Kraft had been getting stronger quite quickly, \nand her current condition seemed really good too."
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -37,11 +37,11 @@
       "text": "All of them are definitely strong. My rivals for today. \n……But, that's exactly why――!"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "I'll show them that I'm number 1! \nI'll prove that I'll be a future Triple Tiara Uma Musume!",
       "choice_data_list": [
         "Alright, go get 'em!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "I'll show them that I'm number 1! \nI'll prove that I'll be a future Triple Tiara Uma Musume!"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -140,19 +140,19 @@
       "text": "Just like you promised, we saw it……it reached us, Kraft-san. The \nexpectations for the future Tiara rotation……are certainly high!"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Haa, haa, haaa…… \nHafuu～～～……!!",
       "choice_data_list": [
         "Kraft……!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Haa, haa, haaa…… \nHafuu～～～……!!"
+      ]
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Ah, Trainer-san……!! \nEhehe, so you came.",
       "choice_data_list": [
         "Yeah……That was amazing……!",
         "Yeah……That was amazing……!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Ah, Trainer-san……!! \nEhehe, so you came."
+      ]
     },
     {
       "text": "Unexpectedly, the words that came out of my mouth \nwere quite normal. I was a little disappointed in \nmyself. But she……she really did something amazing."
@@ -161,25 +161,25 @@
       "text": "She didn't only improve her own running. \nThat feeling was spread around to her rivals too――"
     },
     {
+      "text": "It meant she could show her strength during a more \nintense race……the kind that moved people's hearts.",
       "choice_data_list": [
         "You really……are an amazing Uma Musume. So――",
         "You really……are an amazing Uma Musume. So――"
-      ],
-      "text": "It meant she could show her strength during a more \nintense race……the kind that moved people's hearts."
+      ]
     },
     {
+      "text": "……Honestly, she was so exceptional in terms of both \ntalent and ambition, that I couldn't help but think \nsomeone other than a rookie like me should be her trainer.",
       "choice_data_list": [
         "(……But even then, I――!)",
         "(……But even then, I――!)"
-      ],
-      "text": "……Honestly, she was so exceptional in terms of both \ntalent and ambition, that I couldn't help but think \nsomeone other than a rookie like me should be her trainer."
+      ]
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Yeah! Please become my trainer! \nI'm looking forward to it!!",
       "choice_data_list": [
         "……Huh?"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Yeah! Please become my trainer! \nI'm looking forward to it!!"
+      ]
     },
     {
       "text": "Just as I was about to speak my mind, I was met \nwith something unexpected. I couldn't help but \nstand there, dumbfounded. While I did that――"
@@ -197,18 +197,18 @@
       "text": "Once I've made a decision, I'm the type to \nstubbornly stick to it, you know. ――That's why!"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "I want you to be my trainer. This is also something \nI won't give up on. That I don't want to give up on!",
       "choice_data_list": [
         "Kraft……!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "I want you to be my trainer. This is also something \nI won't give up on. That I don't want to give up on!"
+      ]
     },
     {
+      "text": "I couldn't help but be drawn in to her straight-forward eyes. \nIf she was going to say that much, then I made my decision.",
       "choice_data_list": [
         "From now on, I'm looking forward to it!",
         "From now on, I'm looking forward to it!"
-      ],
-      "text": "I couldn't help but be drawn in to her straight-forward eyes. \nIf she was going to say that much, then I made my decision."
+      ]
     },
     {
       "name": "Rhein Kraft",

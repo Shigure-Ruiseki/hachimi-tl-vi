@@ -28,11 +28,11 @@
       "text": "Without paying attention to her surrounding Daiichi Ruby \nslides her knife over the food. There is no clatter of \ndishes at all, it is like watching a silent movie."
     },
     {
+      "text": "Even the fingertips holding the glass are so \ndelicate that mere water looks like white wine. \nEven the gesture of wiping the mouth is fluid.",
       "choice_data_list": [
         "Amazing…",
         "Amazing…"
-      ],
-      "text": "Even the fingertips holding the glass are so \ndelicate that mere water looks like white wine. \nEven the gesture of wiping the mouth is fluid."
+      ]
     },
     {
       "text": "The trainers who were shown such a figure had no \nchoice but to remain silent. The movement was so \nbeautiful and perfect."
@@ -45,11 +45,11 @@
       "text": "We will now go to the opera. We will give a better \nrating to those who choose makeup, clothing, personal \nbelongings, and anything else they feel is appropriate."
     },
     {
+      "name": "Rookie Trainer A",
+      "text": "There's a line of suits I've never seen before…… \nShould I just wear the expensive ones?",
       "choice_data_list": [
         "Ah, yeah…"
-      ],
-      "name": "Rookie Trainer A",
-      "text": "There's a line of suits I've never seen before…… \nShould I just wear the expensive ones?"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -81,10 +81,10 @@
       "text": "M-Me too… I mean, \nDo trainers really need this…!?"
     },
     {
+      "text": "One by one, the number of dropouts increased. \nThe more they advance, the more trainers \nwithdraw before they fail the test.",
       "choice_data_list": [
         "…I'm doing it because it's needed"
-      ],
-      "text": "One by one, the number of dropouts increased. \nThe more they advance, the more trainers \nwithdraw before they fail the test."
+      ]
     },
     {
       "text": "All this time I've watched Daiichi Ruby behavior. \nThat's why I understand. The example they set, \nthe beauty of their behavior."
@@ -117,11 +117,11 @@
       "text": "…But Daiichi Ruby showed me that brilliant run. \nHer figure that will never leave my mind is \nburned into my eyes."
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "Those of you who remain… will move on to the \nnext test. Is it fine if I assume so?",
       "choice_data_list": [
         "Yes!!"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "Those of you who remain… will move on to the \nnext test. Is it fine if I assume so?"
+      ]
     },
     {
       "name": "Daiichi Ruby",
@@ -146,47 +146,47 @@
       "text": "I watched Daiichi Ruby leave without \ngiving a word of encouragement and \nran alone to the gymnasium."
     },
     {
+      "text": "And silently repeat the ballroom dance lesson, \nfor tomorrow's exam. But…",
       "choice_data_list": [
         "It's hard…"
-      ],
-      "text": "And silently repeat the ballroom dance lesson, \nfor tomorrow's exam. But…"
+      ]
     },
     {
       "text": "Obviously, it is not something that can be done \novernight. I will just do what I can do now."
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "……You are you still here?",
       "choice_data_list": [
         "Ah, Daiichi Ruby…"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "……You are you still here?"
+      ]
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "Everyone else has already gone home. \nYou too should rest soon.",
       "choice_data_list": [
         "Wait!"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "Everyone else has already gone home. \nYou too should rest soon."
+      ]
     },
     {
+      "text": "The ballroom dance test is tomorrow. I don't \ncare what I do anymore. I'm going to do what I have to do.",
       "choice_data_list": [
         "Can you teach me ballroom dancing!?"
-      ],
-      "text": "The ballroom dance test is tomorrow. I don't \ncare what I do anymore. I'm going to do what I have to do."
+      ]
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "…………",
       "choice_data_list": [
         "Um, I can't do it well alone――"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "…………"
+      ]
     },
     {
+      "name": "Daiichi Ruby",
+      "text": "……Your posture is bad.",
       "choice_data_list": [
         "Eh"
-      ],
-      "name": "Daiichi Ruby",
-      "text": "……Your posture is bad."
+      ]
     },
     {
       "name": "Daiichi Ruby",

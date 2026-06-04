@@ -70,11 +70,11 @@
       "text": "……Alright. These feelings, I need to properly convey them to \nTrainer-san! That I won't make them regret choosing me……!"
     },
     {
+      "name": "Teacher",
+      "text": "I'd known she had enrolled in Tracen Academy but…… \nI never would have expected that you'd become her trainer.",
       "choice_data_list": [
         "So you knew her, Sensei?"
-      ],
-      "name": "Teacher",
-      "text": "I'd known she had enrolled in Tracen Academy but…… \nI never would have expected that you'd become her trainer."
+      ]
     },
     {
       "name": "Teacher",
@@ -101,10 +101,10 @@
       "text": "It'll be fine. You'll do fine. I believe in you. Work hard like \nyou have been up until now, and go get some real experience."
     },
     {
+      "text": "I was still an inexperienced youngester. I was aware of that. \nBut, if he still had expectations for me then――",
       "choice_data_list": [
         "I just need to study then……!"
-      ],
-      "text": "I was still an inexperienced youngester. I was aware of that. \nBut, if he still had expectations for me then――"
+      ]
     },
     {
       "name": "Teacher",
@@ -143,11 +143,11 @@
       "text": "With that decided, on to training! I need to get my legs \nready to take on any training menu that comes my way!"
     },
     {
+      "name": "Narita Top Road",
+      "text": "Allllright! So I can properly respond to everyone's, \nto Trainer-san's expectations……I'll do my best!!",
       "choice_data_list": [
         "Narita Top Road?"
-      ],
-      "name": "Narita Top Road",
-      "text": "Allllright! So I can properly respond to everyone's, \nto Trainer-san's expectations……I'll do my best!!"
+      ]
     },
     {
       "name": "Narita Top Road",

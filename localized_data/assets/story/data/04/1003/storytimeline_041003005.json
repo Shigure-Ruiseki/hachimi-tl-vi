@@ -9,18 +9,18 @@
       "text": "Deadlifting… Dead… \nWhy does it have such a scary name…?"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Well it doesn't matter! Since Prez can do it, \nI can too! Welp, guess I'll start with 200kg!",
       "choice_data_list": [
         "Hold on, stop!"
-      ],
-      "name": "Tokai Teio",
-      "text": "Well it doesn't matter! Since Prez can do it, \nI can too! Welp, guess I'll start with 200kg!"
+      ]
     },
     {
+      "name": "Tokai Teio",
+      "text": "Uwaaah! T-Trainer?! Don't surprise me like \nthat! I was just about to do some deading.",
       "choice_data_list": [
         "\"Deading\"?"
-      ],
-      "name": "Tokai Teio",
-      "text": "Uwaaah! T-Trainer?! Don't surprise me like \nthat! I was just about to do some deading."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -53,11 +53,11 @@
       "name": "Tokai Teio"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Y-Yay, I did it! Trainer, were you watching? I \nwas able to lift the same weight as Prez did!",
       "choice_data_list": [
         "Holy cow…"
-      ],
-      "name": "Tokai Teio",
-      "text": "Y-Yay, I did it! Trainer, were you watching? I \nwas able to lift the same weight as Prez did!"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -71,11 +71,11 @@
       "text": "I can do this…! I can really do this! I think I \ncan take on all of Prez's training regimens now!"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Alrighty then, I'll move onto the next training!",
       "choice_data_list": [
         "You should take it easy…"
-      ],
-      "name": "Tokai Teio",
-      "text": "Alrighty then, I'll move onto the next training!"
+      ]
     },
     {
       "text": "Without heeding any of my warnings, Tokai Teio \nmeticulously continued her strength training"
@@ -84,12 +84,12 @@
       "text": "The Next Day."
     },
     {
+      "name": "Tokai Teio",
+      "text": "Traaiineer… Trai– Gah!",
       "choice_data_list": [
         "Teio, are you okay…?",
         "Teio, are you okay…?"
-      ],
-      "name": "Tokai Teio",
-      "text": "Traaiineer… Trai– Gah!"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -100,19 +100,19 @@
       "text": "But it's a sign that it's working, right?! The \nmore it hurts, the more your muscles grow! Guess \nI should head to the racetrack…"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Agahgahgah… It hurts too much! I don't think I \ncan train like this!",
       "choice_data_list": [
         "Don't push yourself so hard.",
         "Don't push yourself so hard."
-      ],
-      "name": "Tokai Teio",
-      "text": "Agahgahgah… It hurts too much! I don't think I \ncan train like this!"
+      ]
     },
     {
+      "name": "Tokai Teio",
+      "text": "Nngh… Maybe I did go a bit overboard. But I just \nfollowed Prez's training regimen…",
       "choice_data_list": [
         "It's because you didn't pace yourself…"
-      ],
-      "name": "Tokai Teio",
-      "text": "Nngh… Maybe I did go a bit overboard. But I just \nfollowed Prez's training regimen…"
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -134,22 +134,22 @@
       "text": "After listening to her pleas, I decided to have \nher stretch and warm her muscles a bit. Then…"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Woah, what the heck?! That was so \neasy! Trainer, are you some kinda \ngenius? Why was that so effective?",
       "choice_data_list": [
         "It was thanks to your own flexibility."
-      ],
-      "name": "Tokai Teio",
-      "text": "Woah, what the heck?! That was so \neasy! Trainer, are you some kinda \ngenius? Why was that so effective?"
+      ]
     },
     {
       "name": "Tokai Teio",
       "text": "Mine? Really? My muscles may not be as strong \nand stiff as Prez's, but maybe that means they \nalso heal faster. Ehehe♪"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Alrighty then, now I can get \nback to training! Agaaaaaah!",
       "choice_data_list": [
         "You need to rest today…"
-      ],
-      "name": "Tokai Teio",
-      "text": "Alrighty then, now I can get \nback to training! Agaaaaaah!"
+      ]
     },
     {
       "name": "Tokai Teio",

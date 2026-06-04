@@ -5,11 +5,11 @@
       "text": "It's the start of a new year, and Winning Ticket, Biwa Hayahide, and \nNarita Taishin are visiting the shrine to make their first prayer of the \nyear."
     },
     {
+      "name": "Winning Ticket",
+      "text": "Whoooa! Look at all these people! New Year's around here is like the \nDerby!",
       "choice_data_list": [
         "How so?"
-      ],
-      "name": "Winning Ticket",
-      "text": "Whoooa! Look at all these people! New Year's around here is like the \nDerby!"
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -110,10 +110,10 @@
       "text": "The rivalry she has with Biwa Hayahide and Narita Taishin is pushing \nTicket to enhance her game."
     },
     {
+      "text": "Surely Ticket is pushing her rivals too. We'll need to be in top shape \nfor this race — not just for Ticket's sake, but for Taishin's as well.",
       "choice_data_list": [
         "Get ready to give it all you've got!"
-      ],
-      "text": "Surely Ticket is pushing her rivals too. We'll need to be in top shape \nfor this race — not just for Ticket's sake, but for Taishin's as well."
+      ]
     },
     {
       "name": "Winning Ticket",

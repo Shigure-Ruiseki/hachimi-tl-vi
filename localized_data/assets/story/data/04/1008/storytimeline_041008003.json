@@ -13,12 +13,12 @@
       "text": "I heard, I heard! That group was the only ones \nin the GI class. I'm so glad I declined…"
     },
     {
+      "name": "Vodka",
+      "text": "…Hmm, so that's what happened.",
       "choice_data_list": [
         "…Are you okay?",
         "…Are you okay?"
-      ],
-      "name": "Vodka",
-      "text": "…Hmm, so that's what happened."
+      ]
     },
     {
       "name": "Vodka",
@@ -41,11 +41,11 @@
       "text": "Even in the event race, the teachers and \ntrainers were watching closely, so I could \nunderstand what they were saying."
     },
     {
+      "name": "Vodka",
+      "text": "But I'm not going to withdraw.",
       "choice_data_list": [
         "Resigning from the position?"
-      ],
-      "name": "Vodka",
-      "text": "But I'm not going to withdraw."
+      ]
     },
     {
       "name": "Vodka",
@@ -191,19 +191,19 @@
       "text": "That was a pretty reckless challenge."
     },
     {
+      "name": "Veteran Trainer A",
+      "text": "Yes. If she had chosen the right stage, she \nwould have been the star.",
       "choice_data_list": [
         "Hey, if you insult her already――",
         "If you insult her a little…"
-      ],
-      "name": "Veteran Trainer A",
-      "text": "Yes. If she had chosen the right stage, she \nwould have been the star."
+      ]
     },
     {
+      "name": "Vodka",
+      "text": "Hey now, what's with that scary \nlook on your face, trainer?",
       "choice_data_list": [
         "Vodka…"
-      ],
-      "name": "Vodka",
-      "text": "Hey now, what's with that scary \nlook on your face, trainer?"
+      ]
     },
     {
       "name": "Vodka",

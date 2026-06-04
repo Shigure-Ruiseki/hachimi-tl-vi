@@ -52,11 +52,11 @@
       "text": "And then there's something that both of them have in common! \nThey are both members of the same team, <Ascella>, and so――!"
     },
     {
+      "name": "MC",
+      "text": "Today, we have <Ascella>'s trainer here with us! \nTrainer-san, for the upcoming 『Oka Sho』 what \nkind of advice have you given them!?",
       "choice_data_list": [
         "……Well, that's――"
-      ],
-      "name": "MC",
-      "text": "Today, we have <Ascella>'s trainer here with us! \nTrainer-san, for the upcoming 『Oka Sho』 what \nkind of advice have you given them!?"
+      ]
     },
     {
       "text": "I was already at a loss for words. It was obviously \nbecause I was both Rhein Kraft's and Cesario's trainer."
@@ -68,10 +68,10 @@
       "text": "For Rhein Kraft, the main point of her menu would \nend up being 『Countermeasures against Cesario』."
     },
     {
+      "text": "Similarly, for Cesario, it would end up \nbeing 『Countermeasures against Rhein Kraft』.",
       "choice_data_list": [
         "(I had to overcome……that 『Contradiction』)"
-      ],
-      "text": "Similarly, for Cesario, it would end up \nbeing 『Countermeasures against Rhein Kraft』."
+      ]
     },
     {
       "text": "……Of course, I instructed to the best of my ability. \nFor both Rhein Kraft and Cesario."
@@ -83,17 +83,17 @@
       "text": "――that's how I ended up answering……"
     },
     {
+      "text": "……………………………………………………",
       "choice_data_list": [
         "(I……I messed up……!!)"
-      ],
-      "text": "……………………………………………………"
+      ]
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Haa, haa, haa, haa…… \n……Haa……!!",
       "choice_data_list": [
         "(Kraft……keeps staying longer……)"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Haa, haa, haa, haa…… \n……Haa……!!"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -104,11 +104,11 @@
       "text": "The 『Oka Sho』 is so soon…… \nWhat should I do……? Like this, I'll……!"
     },
     {
+      "text": "At that time. Rhein Kraft looked so desperate that I――",
       "choice_data_list": [
         "……Kraft, believe in your own strength",
         "……Kraft, believe in your own strength"
-      ],
-      "text": "At that time. Rhein Kraft looked so desperate that I――"
+      ]
     },
     {
       "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities."
@@ -121,16 +121,16 @@
       "text": "Trainer-san……but, that's……!"
     },
     {
+      "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
       "choice_data_list": [
         "Most likely with these members――"
-      ],
-      "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race."
+      ]
     },
     {
+      "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
       "choice_data_list": [
         "Most likely with these members――"
-      ],
-      "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race."
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -143,18 +143,18 @@
       "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual."
     },
     {
+      "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
       "choice_data_list": [
         "You'll be fine. I believe in you",
         "You'll be fine. I believe in you"
-      ],
-      "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end."
+      ]
     },
     {
+      "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
       "choice_data_list": [
         "You'll be fine. I believe in you",
         "You'll be fine. I believe in you"
-      ],
-      "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end."
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -170,26 +170,26 @@
       "text": "(So……it would be more advantageous for Kraft \nto pull ahead earlier. ……that much was true.)"
     },
     {
+      "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
       "choice_data_list": [
         "(……But then, for Cesario――)"
-      ],
-      "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)"
+      ]
     },
     {
+      "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
       "choice_data_list": [
         "(……But then, for Cesario――)"
-      ],
-      "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)"
+      ]
     },
     {
       "text": "(It might be unnecessary. Whether or not it would be a problem \ndepends on how the race develops. Since she has overwhelming \nstrength, it might be better to focus on her own running)"
     },
     {
+      "text": "(Don't get distracted by your surroundings, \nconcentrate on maintaining form and focus only \non your own running. That would be best for Cesario――)",
       "choice_data_list": [
         "(……no, but is that true?)",
         "(……no, but is that true?)"
-      ],
-      "text": "(Don't get distracted by your surroundings, \nconcentrate on maintaining form and focus only \non your own running. That would be best for Cesario――)"
+      ]
     },
     {
       "text": "I might……be acting like I want Kraft to win more……"
@@ -198,16 +198,16 @@
       "text": "I might……be acting like I want Kraft to win more……"
     },
     {
+      "text": "(With 1600m, Kraft might have a chance. But, the next race, Oaks……\nat 2400m, honestly, it would probably be difficult……)",
       "choice_data_list": [
         "No, I can't! As a trainer――"
-      ],
-      "text": "(With 1600m, Kraft might have a chance. But, the next race, Oaks……\nat 2400m, honestly, it would probably be difficult……)"
+      ]
     },
     {
+      "text": "(Bzzzz-! Bzzzz-!)",
       "choice_data_list": [
         "Uwaah!?"
-      ],
-      "text": "(Bzzzz-! Bzzzz-!)"
+      ]
     },
     {
       "text": "That scared me……a LANE from Rhein Kraft? \nNot in the Team <Ascella> group chat, but a DM……?"
@@ -227,11 +227,11 @@
       "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?"
     },
     {
+      "name": "Cesario",
+      "text": "『Trainer, I'd like some advice regarding extra training. \nSaturday, at 11AM, can you accompany me to the riverbed?』",
       "choice_data_list": [
         "…………Cesario too!?"
-      ],
-      "name": "Cesario",
-      "text": "『Trainer, I'd like some advice regarding extra training. \nSaturday, at 11AM, can you accompany me to the riverbed?』"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -250,39 +250,39 @@
       "text": "Trainer, let's do some individual training."
     },
     {
+      "name": "Kraft&Cesario",
+      "text": "Please!",
       "choice_data_list": [
         "Uuuuuuuu……!!"
-      ],
-      "name": "Kraft&Cesario",
-      "text": "Please!"
+      ]
     },
     {
+      "name": "Kraft&Cesario",
+      "text": "Trainer(-san)!!",
       "choice_data_list": [
         "Uwaah!?"
-      ],
-      "name": "Kraft&Cesario",
-      "text": "Trainer(-san)!!"
+      ]
     },
     {
       "text": "……wait, huh!? \nThat voice……came from outside!?"
     },
     {
+      "name": "Cesario",
+      "text": "Sorry for coming in uninvited. \n……Trainer, you look pale? Are you okay?",
       "choice_data_list": [
         "Y-yeah~, no, ummmmm……"
-      ],
-      "name": "Cesario",
-      "text": "Sorry for coming in uninvited. \n……Trainer, you look pale? Are you okay?"
+      ]
     },
     {
       "name": "Rhein Kraft",
       "text": "Fuu……Fufufuu, Ahahahaha! \nIt's fine now right, Cesario……!? One-two!"
     },
     {
+      "name": "Kraft&Cesario",
+      "text": "Prank successful~!",
       "choice_data_list": [
         "………………eh?"
-      ],
-      "name": "Kraft&Cesario",
-      "text": "Prank successful~!"
+      ]
     },
     {
       "name": "Cesario",
@@ -317,11 +317,11 @@
       "text": "Of course, if we're really troubled we'll ask \nfor help though! However, how should I say it…… \nfor now, we just want you to watch over us."
     },
     {
+      "name": "Rhein Kraft",
+      "text": "We'll train with all our strength, and we'll win. \nAt the 『Oka Sho』――for sure!",
       "choice_data_list": [
         "Kraft, Cesario……"
-      ],
-      "name": "Rhein Kraft",
-      "text": "We'll train with all our strength, and we'll win. \nAt the 『Oka Sho』――for sure!"
+      ]
     },
     {
       "text": "――Ahh, damnit!!"

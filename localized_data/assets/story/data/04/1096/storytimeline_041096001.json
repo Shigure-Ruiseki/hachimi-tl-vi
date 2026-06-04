@@ -9,18 +9,18 @@
       "text": "History is written by the victors. And if I win… All that lies beneath the Heavens, will be mine! And then, my name, my way of life— It will be left for future generations to come!"
     },
     {
+      "text": "—I ended up having to go on a business trip, at the behest of my senior. Since I wasn't in charge of any uma musume myself, I've ended up in this situation too often.",
       "choice_data_list": [
         "I need to scout an uma musume soon…",
         "I need to scout an uma musume soon…"
-      ],
-      "text": "—I ended up having to go on a business trip, at the behest of my senior. Since I wasn't in charge of any uma musume myself, I've ended up in this situation too often."
+      ]
     },
     {
+      "text": "Gratitude! It seems you will be the one going on the business trip this weekend. Your job on this trip is to assist in a festival, the Soma Nomaoi!",
+      "name": "Chairman Akikawa",
       "choice_data_list": [
         "I'm to help with that?"
-      ],
-      "name": "Chairman Akikawa",
-      "text": "Gratitude! It seems you will be the one going on the business trip this weekend. Your job on this trip is to assist in a festival, the Soma Nomaoi!"
+      ]
     },
     {
       "name": "Chairman Akikawa",
@@ -35,11 +35,11 @@
       "text": "This time, a student will be joining the event as well. Since one of the alumni was suddenly unable to make it, we discussed having one of our students take their place."
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "She really wanted to take part in this event so she volunteered. She has gone ahead to help with preparations, so please meet her at the site.",
       "choice_data_list": [
         "What kind of uma musume is she?"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "She really wanted to take part in this event so she volunteered. She has gone ahead to help with preparations, so please meet her at the site."
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -57,36 +57,36 @@
       "text": "— There she is."
     },
     {
+      "text": "There was only one uma musume who spoke like a warlord. The other participants were speaking normally. I was certain she's the only one who could match that characteristic.",
       "choice_data_list": [
         "Are you No Reason?",
         "Are you No Reason?"
-      ],
-      "text": "There was only one uma musume who spoke like a warlord. The other participants were speaking normally. I was certain she's the only one who could match that characteristic."
+      ]
     },
     {
+      "name": "No Reason",
+      "text": "I have no reason not to be! And you must be the fellow collaborator from Tracen then. As a fellow supporter, I'm looking forward to working with you～!",
       "choice_data_list": [
         "Likewise, I'm looking forward to it."
-      ],
-      "name": "No Reason",
-      "text": "I have no reason not to be! And you must be the fellow collaborator from Tracen then. As a fellow supporter, I'm looking forward to working with you～!"
+      ]
     },
     {
+      "name": "No Reason",
+      "text": "Nya ha ha! I'm one day your senior when it comes to things relating to the festival. So leave it to me!",
       "choice_data_list": [
         "How can I help out?",
         "How can I help out?"
-      ],
-      "name": "No Reason",
-      "text": "Nya ha ha! I'm one day your senior when it comes to things relating to the festival. So leave it to me!"
+      ]
     },
     {
       "name": "No Reason",
       "text": "I heard they need someone to be in charge of recording the \"Scramble for the Heavenly Banner\". That's where… oh it's time. I'll explain it on the way to the site!"
     },
     {
+      "text": "On that spacious field, there were many warriors in armor gathered. It looked as though it was a scene before they set off for battle. I was overwhelmed, it was a something you'd never see in the modern day.",
       "choice_data_list": [
         "Whoa… this is like a battle!"
-      ],
-      "text": "On that spacious field, there were many warriors in armor gathered. It looked as though it was a scene before they set off for battle. I was overwhelmed, it was a something you'd never see in the modern day."
+      ]
     },
     {
       "name": "No Reason",
@@ -97,19 +97,19 @@
       "text": "There you are, No Reason. Our group's uma musume are gathering on the other side, so follow me."
     },
     {
+      "name": "No Reason",
+      "text": "Aye! Right, allow me to introduce you. This person here is the helper from Tracen. Trainer, she's an alumni from Tracen!",
       "choice_data_list": [
         "I'm in charge of recording today.",
         "I'm in charge of recording today."
-      ],
-      "name": "No Reason",
-      "text": "Aye! Right, allow me to introduce you. This person here is the helper from Tracen. Trainer, she's an alumni from Tracen!"
+      ]
     },
     {
+      "name": "Yellow Flag Uma Musume",
+      "text": "Thank you for helping! So you're going to be recording the \"Scramble\"? If that's the case, make sure not to just focus on the banners, but record the entirety of the battle! Ufu",
       "choice_data_list": [
         "Record everything… got it, I'll do that."
-      ],
-      "name": "Yellow Flag Uma Musume",
-      "text": "Thank you for helping! So you're going to be recording the \"Scramble\"? If that's the case, make sure not to just focus on the banners, but record the entirety of the battle! Ufu"
+      ]
     },
     {
       "name": "No Reason",
@@ -135,11 +135,11 @@
       "text": "\"She got it\"— \nIs what I thought, but then…"
     },
     {
+      "name": "No Reason",
+      "text": "Nuwaaaah!",
       "choice_data_list": [
         "She fell!?"
-      ],
-      "name": "No Reason",
-      "text": "Nuwaaaah!"
+      ]
     },
     {
       "text": "No Reason fell and tumbled forward in a spectacular fashion. At that moment, another uma musume came from behind and leisurely picked up the banner."
@@ -180,11 +180,11 @@
       "text": "Very well, I shall be your… wai- hold on a second! \nWhy are there so many of you!? You fiends!"
     },
     {
+      "name": "No Reason",
+      "text": "Hah, Hah… grrr, why can't I get a single banner!!",
       "choice_data_list": [
         "(That girl… is extremely careless!!)"
-      ],
-      "name": "No Reason",
-      "text": "Hah, Hah… grrr, why can't I get a single banner!!"
+      ]
     },
     {
       "text": "Every time she'd call out the spot where the banner would fall, she'd get surrounded by other uma musumes, which allowed someone to take the banners with ease."
@@ -197,15 +197,15 @@
       "text": "Fufufu, too bad for you! You can't get past us. This is where you meet your end!"
     },
     {
-      "name": "No Reason",
-      "text": "Nuuuuu, I won't let it end like this!"
+      "text": "Nuuuuu, I won't let it end like this!",
+      "name": "No Reason"
     },
     {
+      "text": "No Reason then lowered her stance and in one go, cut through the umas guarding her.",
       "choice_data_list": [
         "(Whoa! What strong legs!)",
         "(Whoa! What strong legs!)"
-      ],
-      "text": "No Reason then lowered her stance and in one go, cut through the umas guarding her."
+      ]
     },
     {
       "name": "No Reason",
@@ -236,11 +236,11 @@
       "text": "Wha-, I wasn't trying to make you laugh though!? \nMy last charge was cool, wasn't it!?"
     },
     {
+      "name": "Local Viewer",
+      "text": "Hmm… when you put it like that, nope. You falling was more memorable! Wahahaha!",
       "choice_data_list": [
         "(They're already getting along)"
-      ],
-      "name": "Local Viewer",
-      "text": "Hmm… when you put it like that, nope. You falling was more memorable! Wahahaha!"
+      ]
     },
     {
       "text": "While she had a habit of overdoing things, it just made it easier to get along with her. And so, No Reason had lively conversations with everyone."

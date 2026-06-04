@@ -20,20 +20,20 @@
       "text": "With a spirited Maruzensky, I wholeheartedly faced the last day."
     },
     {
+      "name": "Maruzensky",
+      "text": "Phew… Good job, trainer! Hmhm, we're \nboth dripping with sweat huh—",
       "choice_data_list": [
         "But we did it!",
         "But I made it through!"
-      ],
-      "name": "Maruzensky",
-      "text": "Phew… Good job, trainer! Hmhm, we're \nboth dripping with sweat huh—"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "Phew… Good job, trainer! Hmhm, we're \nboth dripping with sweat huh—",
       "choice_data_list": [
         "But we did it!",
         "But I made it through!"
-      ],
-      "name": "Maruzensky",
-      "text": "Phew… Good job, trainer! Hmhm, we're \nboth dripping with sweat huh—"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -44,18 +44,18 @@
       "text": "I truly feel like we accomplished something in \ntraining. The next race should be fun. Ehehe, \nyou'll have something to look forward to."
     },
     {
+      "name": "Maruzensky",
+      "text": "But… trainer, are you okay? Aren't you exhausted \nfrom standing out in the hot sun all day?",
       "choice_data_list": [
         "I'll be fine with some rest."
-      ],
-      "name": "Maruzensky",
-      "text": "But… trainer, are you okay? Aren't you exhausted \nfrom standing out in the hot sun all day?"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "But… trainer, are you okay? Aren't you exhausted \nfrom standing out in the hot sun all day?",
       "choice_data_list": [
         "I'll be fine with some rest."
-      ],
-      "name": "Maruzensky",
-      "text": "But… trainer, are you okay? Aren't you exhausted \nfrom standing out in the hot sun all day?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -73,12 +73,12 @@
       "text": "\"I'll be fine with some rest\"… \nBut I'm sure trainer's tired… Am I pushing too hard?"
     },
     {
+      "name": "Maruzensky",
+      "text": "But…",
       "choice_data_list": [
         "What's up?",
         "What's wrong?"
-      ],
-      "name": "Maruzensky",
-      "text": "But…"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -105,12 +105,12 @@
       "text": "How about having dinner at one of the festival stalls!"
     },
     {
+      "name": "Maruzensky",
+      "text": "I heard there are stalls with games, and they're having a Bon \ndance too. I bet we'd have a great time together!",
       "choice_data_list": [
         "Sounds great, let's go!",
         "Sounds great, let's go!"
-      ],
-      "name": "Maruzensky",
-      "text": "I heard there are stalls with games, and they're having a Bon \ndance too. I bet we'd have a great time together!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -129,22 +129,22 @@
       "text": "Come, come, trainer! Over here!"
     },
     {
+      "name": "Maruzensky",
+      "text": "Wow! Of course it's packed with people. There's a stall that \npiqued my interest, but can we even find it?",
       "choice_data_list": [
         "What stall's that?"
-      ],
-      "name": "Maruzensky",
-      "text": "Wow! Of course it's packed with people. There's a stall that \npiqued my interest, but can we even find it?"
+      ]
     },
     {
       "name": "Maruzensky",
       "text": "Eheheh♪ It's not just any food stall, okay? Get this…"
     },
     {
+      "name": "Maruzensky",
+      "text": "They sell the hippest and raddest sweets!",
       "choice_data_list": [
         "(Hippest and… raddest?!)"
-      ],
-      "name": "Maruzensky",
-      "text": "They sell the hippest and raddest sweets!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -162,11 +162,11 @@
       "text": "（Pon-poro-pon-poro～♪)"
     },
     {
+      "name": "Maruzensky",
+      "text": "—this! The Bon dance! I danced my heart out to this with my \nfamily as a child… where are the times.",
       "choice_data_list": [
         "Let's get dancing!"
-      ],
-      "name": "Maruzensky",
-      "text": "—this! The Bon dance! I danced my heart out to this with my \nfamily as a child… where are the times."
+      ]
     },
     {
       "name": "Maruzensky",
@@ -187,20 +187,20 @@
       "text": "At some point I think we started dancing something quite different \nfrom a \"Bon\" dance, everybody was so into it……"
     },
     {
+      "name": "Maruzensky",
+      "text": "Mmmmmm～! I had a blast! So did you it seems, trainer!",
       "choice_data_list": [
         "Certainly an intense Bon dance…",
         "Certainly an intense Bon dance…"
-      ],
-      "name": "Maruzensky",
-      "text": "Mmmmmm～! I had a blast! So did you it seems, trainer!"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "Mmmmmm～! I had a blast! So did you it seems, trainer!",
       "choice_data_list": [
         "Certainly an intense Bon dance…",
         "Certainly an intense Bon dance…"
-      ],
-      "name": "Maruzensky",
-      "text": "Mmmmmm～! I had a blast! So did you it seems, trainer!"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -211,12 +211,12 @@
       "text": "When I stood near the drums I could feel the beat \nrun through me! It was an absolute fry!"
     },
     {
+      "name": "Maruzensky",
+      "text": "I often heard it from my mom; \"The platform has you vibin'!\". \nEheh, like daughter, like mother, right?",
       "choice_data_list": [
         "I see. So your mother's to blame…",
         "I see. So your mother's to blame…"
-      ],
-      "name": "Maruzensky",
-      "text": "I often heard it from my mom; \"The platform has you vibin'!\". \nEheh, like daughter, like mother, right?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -246,11 +246,11 @@
       "text": "I never thought I'd be spending times like these with someone～"
     },
     {
+      "name": "Maruzensky",
+      "text": "It was a lot of fun. Will you accompany me again in the future?",
       "choice_data_list": [
         "Of course."
-      ],
-      "name": "Maruzensky",
-      "text": "It was a lot of fun. Will you accompany me again in the future?"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -261,12 +261,12 @@
       "text": "Traaaiiner, are you sure you want to \nanswer without a second thought～?"
     },
     {
+      "name": "Maruzensky",
+      "text": "I'll drag you along with my whims and fancies. \nTo all sorts of places, doing all sorts of things～",
       "choice_data_list": [
         "Bring it!",
         "Bring it!"
-      ],
-      "name": "Maruzensky",
-      "text": "I'll drag you along with my whims and fancies. \nTo all sorts of places, doing all sorts of things～"
+      ]
     },
     {
       "name": "Maruzensky",
@@ -289,18 +289,18 @@
       "text": "I can go anywhere, I can run, I can do anything. \nTrainer, you make me feel that way."
     },
     {
+      "name": "Maruzensky",
+      "text": "And that's… You're so fun to be around, trainer!",
       "choice_data_list": [
         "I enjoy my time with you too."
-      ],
-      "name": "Maruzensky",
-      "text": "And that's… You're so fun to be around, trainer!"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "I can't believe…  Being with you's so much fun, Trainer!",
       "choice_data_list": [
         "Being with you is great too."
-      ],
-      "name": "Maruzensky",
-      "text": "I can't believe…  Being with you's so much fun, Trainer!"
+      ]
     },
     {
       "name": "Maruzensky",

@@ -56,11 +56,11 @@
       "text": "As Biwa Hayahide says, Narita Taishin knows that Winning Ticket \nwants to race in the Derby together."
     },
     {
+      "text": "And her brushing off Winning Ticket's attempts must mean one \nthing…",
       "choice_data_list": [
         "She pushed you away because she wants to race \ntogether too.",
         "She pushed you away because she wants to race \ntogether too."
-      ],
-      "text": "And her brushing off Winning Ticket's attempts must mean one \nthing…"
+      ]
     },
     {
       "name": "Biwa Hayahide",
@@ -135,11 +135,11 @@
       "text": "Without a word, the three continue running. But their overlapping \nfootsteps sound like a fiery exchange between rivals."
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "<i>Sigh…</i> Students using the training course after hours is a no-no. What \nto do?",
       "choice_data_list": [
         "Would you mind overlooking it this one time?"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "<i>Sigh…</i> Students using the training course after hours is a no-no. What \nto do?"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",

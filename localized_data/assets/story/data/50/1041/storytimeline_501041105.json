@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Sakura Bakushin O",
+      "text": "Bakushinbakushiiiin!",
       "choice_data_list": [
         "Have you gotten dressed?",
         "Have you gotten dressed?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Bakushinbakushiiiin!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

@@ -103,11 +103,11 @@
       "text": "Duh, it's me. Yo, McQueen!"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "G-Gold Ship…",
       "choice_data_list": [
         "An acquaintance of yours?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "G-Gold Ship…"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -205,11 +205,11 @@
       "text": "Huh?!"
     },
     {
+      "text": "McQueen's efforts have caught the eyes of many far and wide. And \nthanks to that…",
       "choice_data_list": [
         "The team won't be disbanded!",
         "The team won't be disbanded!"
-      ],
-      "text": "McQueen's efforts have caught the eyes of many far and wide. And \nthanks to that…"
+      ]
     },
     {
       "name": "Gold Ship",

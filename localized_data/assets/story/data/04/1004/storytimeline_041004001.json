@@ -24,12 +24,12 @@
       "text": "Hah, hah, hah… Mmm, the wind feels so nice!"
     },
     {
+      "name": "Rookie Trainer A",
+      "text": "T- This is…!",
       "choice_data_list": [
         "(What an amazing run…!)",
         "(What a great run…!)"
-      ],
-      "name": "Rookie Trainer A",
-      "text": "T- This is…!"
+      ]
     },
     {
       "text": "Her running form is strong, beautiful, faster than the wind—"
@@ -189,27 +189,27 @@
       "text": "Did you come all this way to scout me? \nHeheh, aren't you a dedicated one."
     },
     {
+      "name": "Maruzensky",
+      "text": "So, what will I have the pleasure of hearing from \nyou? See any future glory in my running?",
       "choice_data_list": [
         "No, just…",
         "No, I just…"
-      ],
-      "name": "Maruzensky",
-      "text": "So, what will I have the pleasure of hearing from \nyou? See any future glory in my running?"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "So, what sort of conversation will you bless me with? Have you \nfound future glory in my running?",
       "choice_data_list": [
         "No, just…",
         "No, I just…"
-      ],
-      "name": "Maruzensky",
-      "text": "So, what sort of conversation will you bless me with? Have you \nfound future glory in my running?"
+      ]
     },
     {
+      "name": "Maruzensky",
+      "text": "…? Just?",
       "choice_data_list": [
         "I was just watching you run, thinking \nhow much fun you were having."
-      ],
-      "name": "Maruzensky",
-      "text": "…? Just?"
+      ]
     },
     {
       "name": "Maruzensky",

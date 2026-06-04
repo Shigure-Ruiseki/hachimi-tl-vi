@@ -39,11 +39,11 @@
       "text": "This was quite an irregular request. \nTo run against a rival just before the actual 『Oaks』 was……"
     },
     {
+      "name": "Cesario",
+      "text": "What should we do, Trainer?",
       "choice_data_list": [
         "――Let's accept"
-      ],
-      "name": "Cesario",
-      "text": "What should we do, Trainer?"
+      ]
     },
     {
       "text": "I decided that avoiding this was worse, and could \nnegatively impact us, so I decided to take it head on."

@@ -13,10 +13,10 @@
       "text": "…Tch, damn it!"
     },
     {
+      "text": "One day. As the sun was setting on the field, I happened to notice a uma musume training as though her life depended on it.",
       "choice_data_list": [
         "(That girl is…)"
-      ],
-      "text": "One day. As the sun was setting on the field, I happened to notice a uma musume training as though her life depended on it."
+      ]
     },
     {
       "text": "Cheval Grand, the girl who had a good attack in the mock race the other day, but unfortunately only placed 2nd."
@@ -32,30 +32,30 @@
       "text": "…cough, cough, cough! …Pwah, haah!"
     },
     {
+      "name": "Cheval Grand",
+      "text": "Aaaaagh!",
       "choice_data_list": [
         "(I don't think she's fully composed…)"
-      ],
-      "name": "Cheval Grand",
-      "text": "Aaaaagh!"
+      ]
     },
     {
       "text": "I'm worried that she's been pushing herself to the limits without any breaks. Though she might think I'm meddlesome, I decided to call out to her when I saw my chance."
     },
     {
+      "name": "Cheval Grand",
+      "text": "Gulp. \n…Ah. …Time to go home.",
       "choice_data_list": [
         "Hey… are you okay?",
         "Hey… are you okay?"
-      ],
-      "name": "Cheval Grand",
-      "text": "Gulp. \n…Ah. …Time to go home."
+      ]
     },
     {
+      "name": "Cheval Grand",
+      "text": "Huh!? \nUm, uh, uhh… Are you talking to me?",
       "choice_data_list": [
         "Yeah, I'm a little worried about you",
         "Yeah, I'm a little worried about you"
-      ],
-      "name": "Cheval Grand",
-      "text": "Huh!? \nUm, uh, uhh… Are you talking to me?"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -81,8 +81,8 @@
       "text": "(The way I ran away yesterday wasn't good, was it. They were just looking out for me…)"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(…Or rather, I was acting reckless enough to make even an unknown Trainer worry about me.)"
+      "text": "(…Or rather, I was acting reckless enough to make even an unknown Trainer worry about me.)",
+      "name": "Cheval Grand"
     },
     {
       "name": "Vivlos",
@@ -161,8 +161,8 @@
       "text": "No matter how much the odds are stacked against her, she took their cheers by force—— \nTo be just like her, to be the \"Greatest Uma Musume!\""
     },
     {
-      "name": "Cheval Grand",
-      "text": "(I was able to say that confidently when I was younger. But, the me now-)"
+      "text": "(I was able to say that confidently when I was younger. But, the me now-)",
+      "name": "Cheval Grand"
     },
     {
       "name": "Cheval Grand",

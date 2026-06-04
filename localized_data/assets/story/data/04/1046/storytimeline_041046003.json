@@ -6,11 +6,11 @@
       "text": "―If you're looking for Falcon-san, she left 1 hour and 35 minutes \nago. So you won't find her in the dorms."
     },
     {
+      "text": "It was the day after I advised Smart Falcon to switch \nto Dirt. In order to sit down and talk about it \nagain, I had asked to meet her again but……",
       "choice_data_list": [
         "Um, you are……",
         "Um, you are……"
-      ],
-      "text": "It was the day after I advised Smart Falcon to switch \nto Dirt. In order to sit down and talk about it \nagain, I had asked to meet her again but……"
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -21,12 +21,12 @@
       "text": "Are you…… Smart Falcon-san's trainer? If it's an emergency, \nI can contact her using my smartphone if you'd like."
     },
     {
+      "name": "Eishin Flash",
+      "text": "However, there's no guarantee that she'll respond. \nAt this time, she might have her phone off or have it on standby.",
       "choice_data_list": [
         "Where did she go?",
         "Where did she go?"
-      ],
-      "name": "Eishin Flash",
-      "text": "However, there's no guarantee that she'll respond. \nAt this time, she might have her phone off or have it on standby."
+      ]
     },
     {
       "name": "Eishin Flash",
@@ -44,11 +44,11 @@
       "text": "I ended up coming to the racetrack searching for \nSmart Falcon. The stands were filled with spectators \nwaiting for the Live to start. Among them……"
     },
     {
+      "name": "Smart Falcon",
+      "text": "Haaa～ that was so exciting……☆ \nSuzuka-chan, do your best～! Nennenene～n!",
       "choice_data_list": [
         "Fal―"
-      ],
-      "name": "Smart Falcon",
-      "text": "Haaa～ that was so exciting……☆ \nSuzuka-chan, do your best～! Nennenene～n!"
+      ]
     },
     {
       "name": "Loud Cheers",
@@ -93,11 +93,11 @@
       "text": "Hey, that girl looks like an Uma Musume…… do you know who she is?"
     },
     {
+      "name": "Passerby B",
+      "text": "No idea, I've never seen her before. Maybe she hasn't debuted \nyet? That aside, during that Live, Suzuka was―",
       "choice_data_list": [
         "(Nobody was stopping to watch……)"
-      ],
-      "name": "Passerby B",
-      "text": "No idea, I've never seen her before. Maybe she hasn't debuted \nyet? That aside, during that Live, Suzuka was―"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -152,22 +152,22 @@
       "text": "I want to shine as an Umadol like that someday. \nSomeday I want to stand there, and be the one to move people!"
     },
     {
+      "name": "Smart Falcon",
+      "text": "Someday…… without giving up and doing my best, \nsomeday…… believing in myself just like that, \nand continuing on without turning back but……",
       "choice_data_list": [
         "Falcon……"
-      ],
-      "name": "Smart Falcon",
-      "text": "Someday…… without giving up and doing my best, \nsomeday…… believing in myself just like that, \nand continuing on without turning back but……"
+      ]
     },
     {
       "name": "Smart Falcon",
       "text": "Ah, of course, that doesn't mean I've given up though. To Falco, \nbecoming the Top Umadol is the dream I want to take hold of!"
     },
     {
+      "name": "Smart Falcon",
+      "text": "But today…… it just seemed like that dream was so far away. Maybe \nit was because Suzuka-chan is just way too amazing…… ahaha.",
       "choice_data_list": [
         "On Dirt, you have a chance"
-      ],
-      "name": "Smart Falcon",
-      "text": "But today…… it just seemed like that dream was so far away. Maybe \nit was because Suzuka-chan is just way too amazing…… ahaha."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -178,11 +178,11 @@
       "text": "Ever since I enrolled, Sensei has tried recommending dirt for me \na bunch of times. I was more \"suited\" to that, she said."
     },
     {
+      "name": "Smart Falcon",
+      "text": "But you know…… Trainer-san understands too, right? \nOn Dirt, I can't become the \"Top\" Umadol.",
       "choice_data_list": [
         "……it gets less attention than turf"
-      ],
-      "name": "Smart Falcon",
-      "text": "But you know…… Trainer-san understands too, right? \nOn Dirt, I can't become the \"Top\" Umadol."
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -201,12 +201,12 @@
       "text": "But…… it's not enough to be at the center of just anywhere. Since \nI had decided to become an Umadol, I wanted to aim for the Top!"
     },
     {
+      "name": "Smart Falcon",
+      "text": "I don't want to be limited on what stage I can \ndance on just because of aptitude. That's why \nFalco…… won't compromise. I can't compromise!",
       "choice_data_list": [
         "……I see",
         "……I see"
-      ],
-      "name": "Smart Falcon",
-      "text": "I don't want to be limited on what stage I can \ndance on just because of aptitude. That's why \nFalco…… won't compromise. I can't compromise!"
+      ]
     },
     {
       "name": "Smart Falcon",
@@ -216,29 +216,29 @@
       "text": "Now I understood why she was so set on turf. \nIt's important to have a big dream. But……"
     },
     {
+      "text": "『On Dirt, you can't become the Top』―― that's wrong. \nThough she would have to experience it herself……",
       "choice_data_list": [
         "Can you take tomorrow off from school?",
         "Can you take tomorrow off from school?"
-      ],
-      "text": "『On Dirt, you can't become the Top』―― that's wrong. \nThough she would have to experience it herself……"
+      ]
     },
     {
+      "name": "Smart Falcon",
+      "text": "Hee!? Well…… if Trainer-san will contact them, \nthen it will probably be fine…… but why?",
       "choice_data_list": [
         "Falcon, there's a race I want you to see"
-      ],
-      "name": "Smart Falcon",
-      "text": "Hee!? Well…… if Trainer-san will contact them, \nthen it will probably be fine…… but why?"
+      ]
     },
     {
       "name": "Smart Falcon",
       "text": "……got it. I don't really understand but, \ntomorrow I'll tag along with you, Trainer-san!"
     },
     {
+      "name": "Smart Falcon",
+      "text": "But in exchange, I have a request too! \nIs that okay?",
       "choice_data_list": [
         "A request?"
-      ],
-      "name": "Smart Falcon",
-      "text": "But in exchange, I have a request too! \nIs that okay?"
+      ]
     },
     {
       "name": "Smart Falcon",

@@ -1,11 +1,11 @@
 {
   "text_block_list": [
     {
+      "name": "Shion's Father",
+      "text": "—— I see. So you wanted to learn more about \nmy mental space was when I was active… right?",
       "choice_data_list": [
         "Pardon my intrusion, but please."
-      ],
-      "name": "Shion's Father",
-      "text": "—— I see. So you wanted to learn more about \nmy mental space was when I was active… right?"
+      ]
     },
     {
       "name": "Win Variation",
@@ -63,11 +63,11 @@
       "text": "Trainer… um…"
     },
     {
+      "name": "Win Variation",
+      "text": "My running. Could you… Do you mind watching me run just one more time? I'll do it now.",
       "choice_data_list": [
         "Of course. I really want to see it."
-      ],
-      "name": "Win Variation",
-      "text": "My running. Could you… Do you mind watching me run just one more time? I'll do it now."
+      ]
     },
     {
       "name": "Win Variation",
@@ -82,11 +82,11 @@
       "text": "(But—!!)"
     },
     {
+      "text": "As if she was struggling till the end, she gritted her teeth. \nI wanted to, give that girl one final push… so I yelled—",
       "choice_data_list": [
         "Shout, Shion! All of it— turn it into your strength!",
         "Shout, Shion! All of it— turn it into your strength!"
-      ],
-      "text": "As if she was struggling till the end, she gritted her teeth. \nI wanted to, give that girl one final push… so I yelled—"
+      ]
     },
     {
       "name": "Win Variation",
@@ -113,18 +113,18 @@
       "text": "THE PRINCIPAL IS!! MEEEEEEEEE!!"
     },
     {
+      "name": "Win Variation",
+      "text": "Puwah, hah… Hah, hah… \nPheeeew…",
       "choice_data_list": [
         "Shion, look at your time."
-      ],
-      "name": "Win Variation",
-      "text": "Puwah, hah… Hah, hah… \nPheeeew…"
+      ]
     },
     {
+      "name": "Win Variation",
+      "text": "H-huh… wha!? \nA-amazing… It got shorter!!",
       "choice_data_list": [
         "You turned all of it into your own strength."
-      ],
-      "name": "Win Variation",
-      "text": "H-huh… wha!? \nA-amazing… It got shorter!!"
+      ]
     },
     {
       "name": "Win Variation",
@@ -139,11 +139,11 @@
       "text": "…… \n…Thank you… very much."
     },
     {
+      "name": "Win Variation",
+      "text": "…Um, Trainer!",
       "choice_data_list": [
         "Hm?"
-      ],
-      "name": "Win Variation",
-      "text": "…Um, Trainer!"
+      ]
     },
     {
       "name": "Win Variation",
@@ -166,11 +166,11 @@
       "text": "But, it wasn't like that at all… Not like that at all. It never happened. Something like \"I hope one day someone picks me\"… never came true."
     },
     {
+      "name": "Win Variation",
+      "text": "I want to… choose you. \nFor myself.",
       "choice_data_list": [
         "…!"
-      ],
-      "name": "Win Variation",
-      "text": "I want to… choose you. \nFor myself."
+      ]
     },
     {
       "name": "Win Variation",
@@ -189,11 +189,11 @@
       "text": "Uh… mmm… ……"
     },
     {
+      "name": "Win Variation",
+      "text": "S-so… um, what do… you think? \nI'm sorry, something like this was impossible—",
       "choice_data_list": [
         "…What do you mean by \"impossible\"!"
-      ],
-      "name": "Win Variation",
-      "text": "S-so… um, what do… you think? \nI'm sorry, something like this was impossible—"
+      ]
     },
     {
       "text": "I was secretly smiling at the flustered Win Variation."
@@ -202,12 +202,12 @@
       "text": "The truth was, I was going to ask her the question myself, but… since she was the one who chose me, I decided to keep silent."
     },
     {
+      "name": "Win Variation",
+      "text": "…Trainer?",
       "choice_data_list": [
         "I want to see it… You become the principal.",
         "I want to see it… You become the principal."
-      ],
-      "name": "Win Variation",
-      "text": "…Trainer?"
+      ]
     },
     {
       "name": "Win Variation",

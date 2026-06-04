@@ -8,11 +8,11 @@
       "text": "I was walking through the academy grounds \non my way to the track, when…"
     },
     {
+      "name": "Nice Nature",
+      "text": "Ah, um, excuse me? Yeah, you over there! I couldn't ask you to \nassist me for just a tiny second, could I?",
       "choice_data_list": [
         "\"Assist\"?"
-      ],
-      "name": "Nice Nature",
-      "text": "Ah, um, excuse me? Yeah, you over there! I couldn't ask you to \nassist me for just a tiny second, could I?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -63,12 +63,12 @@
       "text": "A-hahaha… yes, okay, thank you…!"
     },
     {
+      "name": "Nice Nature",
+      "text": "Oh right. Umm… sorry! I kind of left you \nflapping in the breeze there didn't I.",
       "choice_data_list": [
         "Who were they? Your fan club?",
         "Who were they? Your fan club?"
-      ],
-      "name": "Nice Nature",
-      "text": "Oh right. Umm… sorry! I kind of left you \nflapping in the breeze there didn't I."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -83,12 +83,12 @@
       "text": "Just a sec… that badge on your collar there…"
     },
     {
+      "name": "Nice Nature",
+      "text": "You wouldn't happen to be one of the academy trainers, would you?",
       "choice_data_list": [
         "Actually I would!",
         "Actually I would!"
-      ],
-      "name": "Nice Nature",
-      "text": "You wouldn't happen to be one of the academy trainers, would you?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -174,12 +174,12 @@
       "text": "Guuh…!!"
     },
     {
+      "name": "Caster",
+      "text": "And from behind, here comes Nice Nature! Nice Nature moving up \nnow, and that gap to the front is disappearing FAST!!",
       "choice_data_list": [
         "(Whoa!!)",
         "(Whoa!!)"
-      ],
-      "name": "Caster",
-      "text": "And from behind, here comes Nice Nature! Nice Nature moving up \nnow, and that gap to the front is disappearing FAST!!"
+      ]
     },
     {
       "text": "Her sudden turn of speed took me totally off guard. \nThis girl had a heck of a finish on her!"
@@ -197,23 +197,23 @@
       "text": "Third place. I really gave it some that \ntime. But still… third place……"
     },
     {
+      "text": "(The result might have been a little disappointing, \nbut I knew I'd seen something special. So…)",
       "choice_data_list": [
         "I want to be your trainer!",
         "I want to be your trainer!"
-      ],
-      "text": "(The result might have been a little disappointing, \nbut I knew I'd seen something special. So…)"
+      ]
     },
     {
       "name": "Nice Nature",
       "text": "Huh?"
     },
     {
+      "name": "Nice Nature",
+      "text": "Um…… Ah…! \nC'mon, Trainer-san, quit fooling around! I think you'll \nfind the line for Tokai Teio is over there.",
       "choice_data_list": [
         "I'm not fooling around! I'm talking to you, Nice Nature!",
         "I'm not fooling around! I'm talking to you, Nice Nature!"
-      ],
-      "name": "Nice Nature",
-      "text": "Um…… Ah…! \nC'mon, Trainer-san, quit fooling around! I think you'll \nfind the line for Tokai Teio is over there."
+      ]
     },
     {
       "name": "Nice Nature",

@@ -2,18 +2,18 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "Finally, it's time for Haru Urara's debut race.",
       "color_text_info_list": [
         "debut"
-      ],
-      "text": "Finally, it's time for Haru Urara's debut race."
+      ]
     },
     {
+      "name": "Haru Urara",
+      "text": "Urara debut～♪ \nUrara debut♪ It's time for the debut～!",
       "choice_data_list": [
         "You're in a good mood!",
         "You're in a good mood!"
-      ],
-      "name": "Haru Urara",
-      "text": "Urara debut～♪ \nUrara debut♪ It's time for the debut～!"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -32,11 +32,11 @@
       "text": "Besides, I feel like I've become \nmuch stronger than before!"
     },
     {
+      "name": "Haru Urara",
+      "text": "I had a lot of matches with the trainer, \nand I didn't lose even once!",
       "choice_data_list": [
         "Haha…"
-      ],
-      "name": "Haru Urara",
-      "text": "I had a lot of matches with the trainer, \nand I didn't lose even once!"
+      ]
     },
     {
       "text": "If the result of our races gave her \nconfidence, then the days of sore muscles \nwill be worth it…"

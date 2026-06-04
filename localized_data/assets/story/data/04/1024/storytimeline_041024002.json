@@ -24,12 +24,12 @@
       "text": "Oh? Could you be―"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "I knew it! You're the person I met at the Selection Race! Wow, we \nmeet again! What are you doing here?",
       "choice_data_list": [
         "I came looking for you.",
         "I came looking for you."
-      ],
-      "name": "Mayano Top Gun",
-      "text": "I knew it! You're the person I met at the Selection Race! Wow, we \nmeet again! What are you doing here?"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -122,11 +122,11 @@
       "text": "I see, it was too early to go 'dan' there……! \nCity-san understood that, amazing……!"
     },
     {
+      "name": "Mayano Top Gun",
+      "text": "Ugh～, The girls in these exciting races are so \nsparkly!! How nice… Maya wants to shine too……!",
       "choice_data_list": [
         "Excitement? Sparkling?"
-      ],
-      "name": "Mayano Top Gun",
-      "text": "Ugh～, The girls in these exciting races are so \nsparkly!! How nice… Maya wants to shine too……!"
+      ]
     },
     {
       "name": "Mayano Top Gun",
@@ -165,12 +165,12 @@
       "text": "I'm off to explore the racetrack. \nBye!!"
     },
     {
+      "name": "Yukino Bijin",
+      "text": "Huh, Maya!? Ah～ there she goes……",
       "choice_data_list": [
         "Is she not good at training?",
         "Is that girl bad at training?"
-      ],
-      "name": "Yukino Bijin",
-      "text": "Huh, Maya!? Ah～ there she goes……"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -181,11 +181,11 @@
       "text": "She got the hang of running on dirt on her first try, and I've \nnever seen her struggle in the dance lessons for the Winning Live."
     },
     {
+      "name": "Yukino Bijin",
+      "text": "She's also good at studying…… Anyway, \nMaya is amazing when she \"gets it\"!",
       "choice_data_list": [
         "'Gets it'?"
-      ],
-      "name": "Yukino Bijin",
-      "text": "She's also good at studying…… Anyway, \nMaya is amazing when she \"gets it\"!"
+      ]
     },
     {
       "name": "Yukino Bijin",
@@ -201,12 +201,12 @@
       "text": "In other words, it seems that she was born \nwith amazing intuition that allows her to find \nthe 'right answer'……!"
     },
     {
+      "name": "Yukino Bijin",
+      "text": "But for some reason, the training seems to be uninteresting to \nher…… I heard that she hasn't participated in any of the \ntrainings since the first one.",
       "choice_data_list": [
         "She only trained once!?",
         "She only trained once!?"
-      ],
-      "name": "Yukino Bijin",
-      "text": "But for some reason, the training seems to be uninteresting to \nher…… I heard that she hasn't participated in any of the \ntrainings since the first one."
+      ]
     },
     {
       "name": "Yukino Bijin",

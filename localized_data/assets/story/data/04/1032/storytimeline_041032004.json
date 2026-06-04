@@ -110,11 +110,11 @@
       "text": "Hm? Her…?"
     },
     {
+      "name": "Symboli Rudolf",
+      "text": "…heh.",
       "choice_data_list": [
         "Agnes Tachyon…"
-      ],
-      "name": "Symboli Rudolf",
-      "text": "…heh."
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -131,11 +131,11 @@
       "text": "And if she was right, about the \"untapped power of the Uma \nMusume body\"… that would mean she could go faster still…"
     },
     {
+      "text": "Faster… faster!!!",
       "choice_data_list": [
         "(I want to see it… I too want to see \nwhat lies beyond our understanding!)",
         "(I want to see it… I too want to see \nwhat lies beyond our understanding!)"
-      ],
-      "text": "Faster… faster!!!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -149,11 +149,11 @@
       "text": "Of course, Agnes Tachyon wasn't looking for a trainer. For her, \ntraining is nothing more than one element of her research."
     },
     {
+      "text": "But if that's the case…",
       "choice_data_list": [
         "Do you still have that serum from before?",
         "Do you still have that serum from before?"
-      ],
-      "text": "But if that's the case…"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -178,11 +178,11 @@
       "text": "Well how do you like that! Haaahahaha!"
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "I've never seen anyone so eager to subject themselves \nto testing! You truly are a born guinea pig!",
       "choice_data_list": [
         "That's fine by me!"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "I've never seen anyone so eager to subject themselves \nto testing! You truly are a born guinea pig!"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -193,39 +193,39 @@
       "text": "You do say some amusing things, don't you? Are \nyou sure you want to be my lab rat? To relinquish \nyour human rights in the name of science?"
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "Tell me, what has brought on this sudden change of heart?",
       "choice_data_list": [
         "I want to see it too. I want to see what lies \nbeyond the veil of our understanding!",
         "I want to see it too. I want to see what lies \nbeyond the veil of our understanding!"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "Tell me, what has brought on this sudden change of heart?"
+      ]
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "Hmmmmmmmmm…",
       "choice_data_list": [
         "Let me be your trainer!",
         "Let me be your trainer!"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "Hmmmmmmmmm…"
+      ]
     },
     {
       "name": "Agnes Tachyon",
       "text": "I've heard those words before… but not quite like this…"
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "Then it's decided! Come with me.",
       "choice_data_list": [
         "Where to…?"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "Then it's decided! Come with me."
+      ]
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "Do try to keep up. To the staff room, of course! \nNow that I have my trainer, we can put an end \nto this talk of leaving the academy…",
       "choice_data_list": [
         "So… I can be your trainer?!",
         "So… I can be your trainer?!"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "Do try to keep up. To the staff room, of course! \nNow that I have my trainer, we can put an end \nto this talk of leaving the academy…"
+      ]
     },
     {
       "name": "Agnes Tachyon",
@@ -239,11 +239,11 @@
       "text": "And so began our research…!"
     },
     {
+      "name": "Agnes Tachyon",
+      "text": "Hmmm… hold on. We should probably wait for your \nsymptoms to subside first. Better to avoid any unnecessary \nconfusion and misunderstanding.",
       "choice_data_list": [
         "Huh?"
-      ],
-      "name": "Agnes Tachyon",
-      "text": "Hmmm… hold on. We should probably wait for your \nsymptoms to subside first. Better to avoid any unnecessary \nconfusion and misunderstanding."
+      ]
     },
     {
       "name": "Agnes Tachyon",

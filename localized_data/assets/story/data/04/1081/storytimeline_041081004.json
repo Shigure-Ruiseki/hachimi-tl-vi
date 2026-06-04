@@ -23,37 +23,37 @@
       "text": "Trainer! What're we doing today? \nWhat, we warmin' up again or something, that it?!"
     },
     {
+      "name": "Espoir City",
+      "text": "You want me to slow down my pace while I run? Or do some muscle training first? What's it gonna be, huh?!",
       "choice_data_list": [
         "(Oho?)"
-      ],
-      "name": "Espoir City",
-      "text": "You want me to slow down my pace while I run? Or do some muscle training first? What's it gonna be, huh?!"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "…Alright! That was pretty good, wasn't it! What's next?"
     },
     {
+      "text": "Today, Espoir City is surprisingly eager to train. Maybe the results from that mock race stirred something inside her?",
       "choice_data_list": [
         "(Now's my chance!)"
-      ],
-      "text": "Today, Espoir City is surprisingly eager to train. Maybe the results from that mock race stirred something inside her?"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "So we're running on dirt this time, huh? Feels like I've got some extra power here, too… time to go all out!"
     },
     {
+      "text": "As I watch her flying across the dirt at full power, I feel my jaw drop open. Her dirt running…",
       "choice_data_list": [
         "Is <i>so</i> much better her turf running!"
-      ],
-      "text": "As I watch her flying across the dirt at full power, I feel my jaw drop open. Her dirt running…"
+      ]
     },
     {
+      "text": "Being able to run across coarse dirt without getting tripped up is a talent in itself. In particular, the snap of her right foot lets her accelerate faster than she ever did on turf.",
       "choice_data_list": [
         "(I want to enter her in a dirt race so bad!)"
-      ],
-      "text": "Being able to run across coarse dirt without getting tripped up is a talent in itself. In particular, the snap of her right foot lets her accelerate faster than she ever did on turf."
+      ]
     },
     {
       "text": "There are plenty of Umamusume who do training on dirt, but being able to actually <i>race</i> on dirt is a different feat. But I'm sure Espoir City could do it!"
@@ -63,11 +63,11 @@
       "text": "A dirt race…? Y'said, dirt…?"
     },
     {
+      "name": "Espoir City",
+      "text": "SHUT THE HELL UP!",
       "choice_data_list": [
         "Wha… Espoir City…?"
-      ],
-      "name": "Espoir City",
-      "text": "SHUT THE HELL UP!"
+      ]
     },
     {
       "text": "She was in such a good mood just a minute ago, but now I've incurred her wrath again. I have no idea what it could be, but I feel like…"
@@ -105,33 +105,33 @@
       "text": "(Racing ain't just about dirt! So I always told myself, who gives a damn about dirt?! …But. But, but…!)"
     },
     {
+      "name": "Espoir City",
+      "text": "Ugh, fine!",
       "choice_data_list": [
         "(She's swallowing her pride?!)"
-      ],
-      "name": "Espoir City",
-      "text": "Ugh, fine!"
+      ]
     },
     {
       "name": "Espoir City",
       "text": "But you gotta tell me. Why do you wanna race on dirt so bad?"
     },
     {
+      "text": "Espoir City quashes her anger and asks me one simple question. Choosing my words carefully, I answer directly.",
       "choice_data_list": [
         "Your running style is perfect for it.",
         "Your running style is perfect for it."
-      ],
-      "text": "Espoir City quashes her anger and asks me one simple question. Choosing my words carefully, I answer directly."
+      ]
     },
     {
       "name": "Espoir City",
       "text": "It is, huh?"
     },
     {
+      "name": "Espoir City",
+      "text": "Then put me in already! \nYou better believe in me. 'Cause I'm gonna win!",
       "choice_data_list": [
         "Espoir City…!"
-      ],
-      "name": "Espoir City",
-      "text": "Then put me in already! \nYou better believe in me. 'Cause I'm gonna win!"
+      ]
     },
     {
       "name": "Espoir City",
@@ -167,11 +167,11 @@
       "text": "You're wrong, you're wrong, you're all wrong! I ain't gonna listen! No way in hell! 'Cause I'm…"
     },
     {
+      "name": "Espoir City",
+      "text": "I'm strong! I'm a strong Umamusume! …I wanna win. I wanna win, I wanna win, I wanna win!!",
       "choice_data_list": [
         "GOOOOOO!! ESPOIR CITY!"
-      ],
-      "name": "Espoir City",
-      "text": "I'm strong! I'm a strong Umamusume! …I wanna win. I wanna win, I wanna win, I wanna win!!"
+      ]
     },
     {
       "name": "Espoir City",
@@ -181,12 +181,12 @@
       "text": "Espoir City takes home the gold. With a time of 1.1 seconds between her and the next runner, it's an overwhelming victory."
     },
     {
+      "name": "Espoir City",
+      "text": "Hah, whaddya think? Got yer socks blown off?!",
       "choice_data_list": [
         "Yeah! You <i>are</i> a strong Umamusume.",
         "Yeah! You <i>are</i> a strong Umamusume."
-      ],
-      "name": "Espoir City",
-      "text": "Hah, whaddya think? Got yer socks blown off?!"
+      ]
     },
     {
       "name": "Espoir City",
@@ -197,29 +197,29 @@
       "text": "I can do this! Even if I got a rookie trainer like you with me, I'll keep on winnin' in the Twinkle Series, too!"
     },
     {
+      "name": "Espoir City",
+      "text": "That means… I guess I'm fine with you lookin' after me or whatever, dammit.",
       "choice_data_list": [
         "Huh?"
-      ],
-      "name": "Espoir City",
-      "text": "That means… I guess I'm fine with you lookin' after me or whatever, dammit."
+      ]
     },
     {
+      "name": "Espoir City",
+      "text": "Are you even <i>listenin'</i>?! I toldja, you can be my trainer or whatever if you want, okay?! 'N you can call me Espo too, I guess.",
       "choice_data_list": [
         "(Wait, does this mean…)"
-      ],
-      "name": "Espoir City",
-      "text": "Are you even <i>listenin'</i>?! I toldja, you can be my trainer or whatever if you want, okay?! 'N you can call me Espo too, I guess."
+      ]
     },
     {
       "text": "I clutch the notebook I've been using for her training with both hands, eagerly awaiting the moments from here on out where I'm sure to see her bloom again."
     },
     {
+      "name": "Espoir City",
+      "text": "Hah, what's that thing? Some kinda textbook? For who?",
       "choice_data_list": [
         "For me, of course.",
         "For me, of course."
-      ],
-      "name": "Espoir City",
-      "text": "Hah, what's that thing? Some kinda textbook? For who?"
+      ]
     },
     {
       "name": "Espoir City",

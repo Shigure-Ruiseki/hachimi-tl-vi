@@ -13,10 +13,10 @@
       "text": "Hah… Sorry to stop you so suddenly. \nActually, there's a girl I'm looking for…"
     },
     {
+      "text": "I asked her for a description of the underclassman that \nFuji Kiseki was looking for. \nHowever, I had no idea where she might be…",
       "choice_data_list": [
         "Sorry, I haven't seen her."
-      ],
-      "text": "I asked her for a description of the underclassman that \nFuji Kiseki was looking for. \nHowever, I had no idea where she might be…"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -39,12 +39,12 @@
       "text": "Ahh, there are a lot of girls like that, aren't there? \n…Wait, don't tell me, Senpai's been looking for her all \nmorning!? Even though tomorrow is the Selection Race!?"
     },
     {
+      "name": "Junior Trainee B",
+      "text": "Yeah, I was wondering if her training will be alright… \nBut it's Fuji-senpai, so I'm not worried.",
       "choice_data_list": [
         "(I'll help you find her, too…!)",
         "(I'll help you find her, too…!)"
-      ],
-      "name": "Junior Trainee B",
-      "text": "Yeah, I was wondering if her training will be alright… \nBut it's Fuji-senpai, so I'm not worried."
+      ]
     },
     {
       "text": "However, despite searching around for her based on the \ncharacteristics Fuji Kiseki had told me, I was unable to find the \nunderclassman."
@@ -53,11 +53,11 @@
       "text": "Meanwhile, night fell――"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "Trainer…!? What's the matter with you here? \nNot only that, you're drenched in sweat…",
       "choice_data_list": [
         "I thought I'd help with the search."
-      ],
-      "name": "Fuji Kiseki",
-      "text": "Trainer…!? What's the matter with you here? \nNot only that, you're drenched in sweat…"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -139,11 +139,11 @@
       "text": "Ahahaha, sorry, sorry! \nThanks for watching Ritto Dorm while I was out, Hishiama."
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "And you, too. That was really heartening!",
       "choice_data_list": [
         "Glad you found her safe and sound."
-      ],
-      "name": "Fuji Kiseki",
-      "text": "And you, too. That was really heartening!"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -185,10 +185,10 @@
       "text": "I shall surely remind you of your longing for racing. \nI will show you that kind of \"miracle\" in tomorrow's race!"
     },
     {
+      "text": "…Would Fuji Kiseki, who had been focused on entertaining \npeople as much as she was, really turn in quietly like this?",
       "choice_data_list": [
         "(…I have a bad feeling about this.)"
-      ],
-      "text": "…Would Fuji Kiseki, who had been focused on entertaining \npeople as much as she was, really turn in quietly like this?"
+      ]
     },
     {
       "text": "Worry managed to worm its way into my thoughts, so I went to \nmake sure Fuji Kiseki was properly resting, only to find――"
@@ -198,11 +198,11 @@
       "text": "Damn, that girl! \nShe's got a real cool look on her face, but she'll do something \nlike this in a heartbeat!!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "…Ahh, you, you're the trainer who was with Fuji earlier, right?",
       "choice_data_list": [
         "Don't tell me, something happened to Fuji Kiseki?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "…Ahh, you, you're the trainer who was with Fuji earlier, right?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -223,11 +223,11 @@
       "text": "Then――"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "…! Hah, hah, haa…!!",
       "choice_data_list": [
         "Fuji Kiseki!!"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "…! Hah, hah, haa…!!"
+      ]
     },
     {
       "name": "Fuji Kiseki",

@@ -9,11 +9,11 @@
       "text": "『The heavens, Yui, and I \nalone……I'll beat you!!』"
     },
     {
+      "name": "Vodka",
+      "text": "That's kinda weird. Let's \ndo it a little more… ”I'll \nbeat you to a pulp!!”",
       "choice_data_list": [
         "Bullied…?"
-      ],
-      "name": "Vodka",
-      "text": "That's kinda weird. Let's \ndo it a little more… ”I'll \nbeat you to a pulp!!”"
+      ]
     },
     {
       "name": "Vodka",
@@ -24,12 +24,12 @@
       "text": "Wait a minute, don't tell anyone, \nokay?! It's stupid to be able to \nwatch cool practice!"
     },
     {
+      "name": "Vodka",
+      "text": "Besides, it's actually way cooler \nthan that. I didn't even finish it!",
       "choice_data_list": [
         "What's that supposed to mean?",
         "What's that supposed to mean?"
-      ],
-      "name": "Vodka",
-      "text": "Besides, it's actually way cooler \nthan that. I didn't even finish it!"
+      ]
     },
     {
       "name": "Vodka",
@@ -40,12 +40,12 @@
       "text": "“I'm the only one in the whole \nworld who can do this!”"
     },
     {
+      "name": "Vodka",
+      "text": "But it's kinda different when I \nsay it… Maybe it's not wild enough…",
       "choice_data_list": [
         "Why don't you make it look wild?",
         "Why don't you try striking \na wild pose?"
-      ],
-      "name": "Vodka",
-      "text": "But it's kinda different when I \nsay it… Maybe it's not wild enough…"
+      ]
     },
     {
       "name": "Vodka",

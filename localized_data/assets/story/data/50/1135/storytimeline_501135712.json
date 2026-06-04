@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Stay Gold",
+      "text": "Oh…… Trainer, seems like you found me huh.",
       "choice_data_list": [
         "Why did you not come to training?",
         "Why did you not come to training?"
-      ],
-      "name": "Stay Gold",
-      "text": "Oh…… Trainer, seems like you found me huh."
+      ]
     },
     {
       "name": "Stay Gold",

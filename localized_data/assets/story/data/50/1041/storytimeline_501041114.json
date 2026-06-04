@@ -21,11 +21,11 @@
       "text": "As class president, I find it far more \nrewarding to organize a class with more \npeople than one with fewer!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "There are as many troubles as there are \npeople! Because there are as many troubles \nas there are class presidents!",
       "choice_data_list": [
         "(Is that really okay, though?)"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "There are as many troubles as there are \npeople! Because there are as many troubles \nas there are class presidents!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -57,11 +57,11 @@
       "text": "…… \nI was just thoroughly convinced."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "As I thought… \nThat was a race just for me, wasn't it!?",
       "choice_data_list": [
         "!?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "As I thought… \nThat was a race just for me, wasn't it!?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -80,11 +80,11 @@
       "text": "All of these criteria are correct. \nHowever, the most important thing was not \nthere."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Indeed, the most important thing is… \nPlease answer the question, Trainer!",
       "choice_data_list": [
         "…Academic excellence?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Indeed, the most important thing is… \nPlease answer the question, Trainer!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -99,11 +99,11 @@
       "text": "And the \"Arima Kinen\" is a fan-voted race. \nIn a way, it is a gathering of endorsed \nUma Musume…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "I knew it!! It's nothing but a race for me, \nthe class president!",
       "choice_data_list": [
         "(What an irrational conclusion!)"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "I knew it!! It's nothing but a race for me, \nthe class president!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -113,32 +113,32 @@
       "text": "…Distance aptitude makes it nearly \nimpossible for her to run the Arima Kinen."
     },
     {
+      "text": "But if she puts this motivation to good use \nand trains hard, she can become even \nstronger than she already is. If that \nhappens…",
       "choice_data_list": [
         "Bakushin O!"
-      ],
-      "text": "But if she puts this motivation to good use \nand trains hard, she can become even \nstronger than she already is. If that \nhappens…"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Yes!",
       "choice_data_list": [
         "What's the most important thing about running the \nArima Kinen?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Yes!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "It's being the class president!!",
       "choice_data_list": [
         "Wrong!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "It's being the class president!!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "What a surprise!? \nThen, what in the world…!?",
       "choice_data_list": [
         "It's \"speed\"!",
         "It's \"speed\"!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "What a surprise!? \nThen, what in the world…!?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -149,12 +149,12 @@
       "text": "Fufu… I see, I read that. \nSo, in other words, Trainer is…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "――You're asking me to further refine my \nspeed to take on the Arima Kinen!",
       "choice_data_list": [
         "………That's right!",
         "………That's right!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "――You're asking me to further refine my \nspeed to take on the Arima Kinen!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

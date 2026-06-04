@@ -127,11 +127,11 @@
       "text": "! \"That just means you have a vivid imagination. The ideas just can't stop coming, and it's too much, right? I've been there!\""
     },
     {
+      "text": "After seeing Loves Only You's worried expression, Marche Lorraine's own expression took on an apologetic color. \nWhat should I say——",
       "choice_data_list": [
         "Marche Lorraine can handle it, right?",
         "Trust her to do it if you can't."
-      ],
-      "text": "After seeing Loves Only You's worried expression, Marche Lorraine's own expression took on an apologetic color. \nWhat should I say——"
+      ]
     },
     {
       "name": "Marche Lorraine",

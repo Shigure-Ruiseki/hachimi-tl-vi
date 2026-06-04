@@ -29,12 +29,12 @@
       "text": "Oh, a festival…? They're engaging in \nquite the refined activity, aren't they?"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "I remember being taken there when I was a little. I remember \nthere were lots of stalls, and it was lively and bustling.",
       "choice_data_list": [
         "Want to go check it out?",
         "Want to go check it out?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "I remember being taken there when I was a little. I remember \nthere were lots of stalls, and it was lively and bustling."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -52,29 +52,29 @@
       "text": "My, this is quite a large, bustling crowd, isn't it."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "There are so many stalls that it's hard to decide where \nto start looking. What should we try out first? Oh!",
       "choice_data_list": [
         "What's wrong?",
         "What's wrong?"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "There are so many stalls that it's hard to decide where \nto start looking. What should we try out first? Oh!"
+      ]
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "That stall out further in the back… \ncould we have a quick look at it?",
       "choice_data_list": [
         "Of course."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "That stall out further in the back… \ncould we have a quick look at it?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
       "text": "Thank you very much. Well then, let's check it out."
     },
     {
+      "text": "I started walking quickly to catch up with \nMejiro McQueen. However, at that moment—",
       "choice_data_list": [
         "Uff…!!"
-      ],
-      "text": "I started walking quickly to catch up with \nMejiro McQueen. However, at that moment—"
+      ]
     },
     {
       "text": "I unfortunately bumped into someone."
@@ -83,11 +83,11 @@
       "text": "If it continues like this, I'm going to lose sight \nof Mejiro Mcqueen. But it was already too late."
     },
     {
+      "text": "For a while now, I've been searching for \nMejiro Mcqueen with no luck.",
       "choice_data_list": [
         "(Where did she go…?)",
         "(Where did she go…?)"
-      ],
-      "text": "For a while now, I've been searching for \nMejiro Mcqueen with no luck."
+      ]
     },
     {
       "text": "(Ding dong, ding dong♪）"
@@ -97,31 +97,31 @@
       "text": "Lost and found announcement. Can the trainer of \nMejiro McQueen please come to the committee \ntent immediately, thank you."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "Ah…… Trainer!",
       "choice_data_list": [
         "I'm glad you are safe!"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "Ah…… Trainer!"
+      ]
     },
     {
       "name": "Mejiro McQueen",
       "text": "I'm sorry, it's because I went ahead without waiting…"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "This time, I will make sure not to get carried \naway and stay with you, Trainer……",
       "choice_data_list": [
         "It's not a big deal, so don't worry about it.",
         "It's not a big deal, so don't worry about it."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "This time, I will make sure not to get carried \naway and stay with you, Trainer……"
+      ]
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "But, I don't want to cause you trouble――",
       "choice_data_list": [
         "It's a festival rule to let loose and have fun.",
         "It's a festival rule to let loose and have fun."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "But, I don't want to cause you trouble――"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -184,11 +184,11 @@
       "text": "After thoroughly enjoying the festival, we decided \nto walk back to the training facility together."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "Thank you for coming along with me today. \nThanks to you, I had a really great time.",
       "choice_data_list": [
         "I didn't do anything in particular."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "Thank you for coming along with me today. \nThanks to you, I had a really great time."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -207,11 +207,11 @@
       "text": "If it's for you, Trainer… I'd be willing \nto break that rule, just a little bit."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "After all, you'll forgive me, won't you, Trainer?",
       "choice_data_list": [
         "Of course."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "After all, you'll forgive me, won't you, Trainer?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -222,11 +222,11 @@
       "text": "That carrot castella we bought at the festival… \nshall we eat that while walking together?"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "I usually would never eat while walking, but \nsince it's just the two of us here right now…",
       "choice_data_list": [
         "Sure."
-      ],
-      "name": "Mejiro McQueen",
-      "text": "I usually would never eat while walking, but \nsince it's just the two of us here right now…"
+      ]
     },
     {
       "name": "Mejiro McQueen",

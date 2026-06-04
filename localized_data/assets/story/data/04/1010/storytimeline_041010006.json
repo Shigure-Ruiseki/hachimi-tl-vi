@@ -6,22 +6,22 @@
       "text": "Mumuu~…mumumuu~…"
     },
     {
+      "text": "While I was in the middle of shopping, \nI found Taiki Shuttle crouched in the middle of the road…!",
       "choice_data_list": [
         "Are you okay?!"
-      ],
-      "text": "While I was in the middle of shopping, \nI found Taiki Shuttle crouched in the middle of the road…!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
       "text": "Oh! Trainer-san, howdy~! \nI'm fine, I'm fine, I got a good picture!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "The best shot of this manhole! \nThe angle is important in photos, isn't it?",
       "choice_data_list": [
         "You were taking a picture?",
         "You were taking a picture?"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "The best shot of this manhole! \nThe angle is important in photos, isn't it?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -36,22 +36,22 @@
       "text": "That's why I'm looking for some nice photo spots! \nThat said~…"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Trainer-san, let's go look together!",
       "choice_data_list": [
         "I was going to go shopping though…"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Trainer-san, let's go look together!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
       "text": "Oh… even though we just met by coincidence, \nthat makes me a little lonely…"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Shopping… can't we just do that some other time? \nThat's fine! C'mon, let's do that!",
       "choice_data_list": [
         "Okay, okay"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Shopping… can't we just do that some other time? \nThat's fine! C'mon, let's do that!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -145,12 +145,12 @@
       "text": "Good! THIS is the Japanese aethestic - like wasabi!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "It'd be nice if there was a samurai… Oh, yes! \nNext, let's get a picture of a samurai!",
       "choice_data_list": [
         "The sun's going to set soon though?",
         "The sun's going to set soon though?"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "It'd be nice if there was a samurai… Oh, yes! \nNext, let's get a picture of a samurai!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -161,19 +161,19 @@
       "text": "Fufu! I got a lot of wonderful shots. \nWith this much, it should be… Ah!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Stooooooooop!!",
       "choice_data_list": [
         "W-what?!",
         "W-what?!"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Stooooooooop!!"
+      ]
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "I forgot a really important shot! \nTrainer-san, please!",
       "choice_data_list": [
         "Eh? Eh?"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "I forgot a really important shot! \nTrainer-san, please!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -195,11 +195,11 @@
       "text": "…Fufuu. I've been thinking this for a while now. \nTrainer-san, I should introduce you to my family."
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "You're always there by my side cheering me on… \nTrainer-san is an important person to me.",
       "choice_data_list": [
         "I'm happy you feel that way"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "You're always there by my side cheering me on… \nTrainer-san is an important person to me."
+      ]
     },
     {
       "name": "Taiki Shuttle",

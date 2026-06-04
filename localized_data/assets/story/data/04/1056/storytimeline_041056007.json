@@ -9,21 +9,21 @@
       "text": "<i>Fwooohoo～</i> I've really worked up a sweat \nand we haven't even started training yet!"
     },
     {
+      "text": "Though we were here for training, Matikanefukukitaru had \nshown up carrying a large amount of baggage.",
       "choice_data_list": [
         "Dare I ask…?"
-      ],
-      "text": "Though we were here for training, Matikanefukukitaru had \nshown up carrying a large amount of baggage."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
       "text": "My collection of lucky items, it is! I left something like a hundred \nof them behind in the dorm and brought the rest here with me!"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "You see, I actually thought this summer would be a good \nopportunity to part ways with them once and for all. \nNow the only question is how I should do so.",
       "choice_data_list": [
         "Chuck them in the trash?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "You see, I actually thought this summer would be a good \nopportunity to part ways with them once and for all. \nNow the only question is how I should do so."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -41,11 +41,11 @@
       "text": "Given how lovingly she relied on her lucky items at all times, \nseeing her willingly looking to part with them was a clear \nindication of just how much she had changed."
     },
     {
+      "text": "I'm not sure exactly how she arrived at this decision, \nbut her determination is to be acknowledged.",
       "choice_data_list": [
         "I'll help you think of something.",
         "I'll help you think of something."
-      ],
-      "text": "I'm not sure exactly how she arrived at this decision, \nbut her determination is to be acknowledged."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -70,12 +70,12 @@
       "text": "Ah, there's a small creek here, who would have thought! \n<i>Heeh</i>, now that's charming～"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "I'm getting the urge to make one of those bamboo leaf boats \nto send downstream. Great luck if it stays afloat, and else \ndon't mind, I guess!",
       "choice_data_list": [
         "I thought we could send down your items.",
         "I thought we could send down your items."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "I'm getting the urge to make one of those bamboo leaf boats \nto send downstream. Great luck if it stays afloat, and else \ndon't mind, I guess!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -86,11 +86,11 @@
       "text": "Indeed, sending items and persons off down a river in mourning \nor remembrance is a most traditional Japanese custom."
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Be it the offerings of <i>Obon</i>, the lanterns and <i>hina</i> dolls of their \nrespective floating rituals, the noodles of <i>nagashi soumen</i>… \nAn odd one crept in, perhaps, but the practice is common.",
       "choice_data_list": [
         "How do you feel about my suggestion?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Be it the offerings of <i>Obon</i>, the lanterns and <i>hina</i> dolls of their \nrespective floating rituals, the noodles of <i>nagashi soumen</i>… \nAn odd one crept in, perhaps, but the practice is common."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -163,12 +163,12 @@
       "text": "I feel like I've grown just a small amount. \nNot to mention my room will look a lot cleaner."
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "I will make sure not to cause anyone trouble anymore with… \n<i>Heh? Aaaaaaaaaaaaaaaaaaah!</i>",
       "choice_data_list": [
         "What's wrong?",
         "What's wrong?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "I will make sure not to cause anyone trouble anymore with… \n<i>Heh? Aaaaaaaaaaaaaaaaaaah!</i>"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -186,12 +186,12 @@
       "text": "<i>Mhoh?</i> Do my eyes pick up a net spanning the creek?! \nAll my items are caught in it…"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Truly, you have thought of everything, Trainer! \nI knew you were incredible! A real savior!",
       "choice_data_list": [
         "Let's give these a proper <i>homa</i> burial.",
         "Let's give these a proper <i>homa</i> burial."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Truly, you have thought of everything, Trainer! \nI knew you were incredible! A real savior!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -213,24 +213,24 @@
       "text": "Though divination and my lucky items are both things \nI never want to find myself without, I believe my own \nefforts and struggles are just as important."
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "I might even invite Divine Shiraoki's admonishment \nupon me if I rely on her kindness all the time.",
       "choice_data_list": [
         "That's real admirable if you ask me.",
         "That's a good attitude to have."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "I might even invite Divine Shiraoki's admonishment \nupon me if I rely on her kindness all the time."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
       "text": "<i>Ehehe…</i> it's a little embarrassing to hear such praise."
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Aside from that, I have you by my side, Trainer. \nThe power you wield to change my future is many \ntimes more potent than any lucky item.",
       "choice_data_list": [
         "I'll do my best to bring you fortune.",
         "I'll do my best to bring you fortune."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Aside from that, I have you by my side, Trainer. \nThe power you wield to change my future is many \ntimes more potent than any lucky item."
+      ]
     },
     {
       "name": "Matikanefukukitaru",

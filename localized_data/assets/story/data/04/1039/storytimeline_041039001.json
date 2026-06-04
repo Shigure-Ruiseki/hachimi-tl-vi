@@ -73,11 +73,11 @@
       "text": "Doryaaaaaaaaaaaaaaa～～～!!!"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Hey, wait, wha… get out of the way～～!!",
       "choice_data_list": [
         "Woah……!"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Hey, wait, wha… get out of the way～～!!"
+      ]
     },
     {
       "text": "An Uma Musume came running at a furious speed. \nShe avoided me with great reaction time and—"
@@ -90,12 +90,12 @@
       "text": "……Whew, that was a close one♪"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Oh, my goooooooood!!?!?!?, I've done it! Wha wha wha wha, \nwhat should I do, I messed up!",
       "choice_data_list": [
         "(What is it this time?!)",
         "(What is it this time?!)"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Oh, my goooooooood!!?!?!?, I've done it! Wha wha wha wha, \nwhat should I do, I messed up!"
+      ]
     },
     {
       "name": "Vodka",
@@ -138,11 +138,11 @@
       "text": "Oh no! Let's go after them!"
     },
     {
+      "text": "Not knowing what was going on, I followed them to the student \ncouncil office where Kawakami Princess was taken to.",
       "choice_data_list": [
         "So, what was going on earlier?",
         "So, what was going on earlier?"
-      ],
-      "text": "Not knowing what was going on, I followed them to the student \ncouncil office where Kawakami Princess was taken to."
+      ]
     },
     {
       "name": "Daiwa Scarlet",

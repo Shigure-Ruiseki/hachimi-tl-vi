@@ -9,12 +9,12 @@
       "text": "We were surrounded by raucous applause, blessing the beginning of our journey. You scouted me with passionate words, in a manner that would be the envy of any soul…"
     },
     {
+      "name": "Royce and Royce",
+      "text": "You held my broken heart in the kind warmth of your arms. \nAnd so that very heart made a vow. \n——A vow to become the greatest, together with you!",
       "choice_data_list": [
         "…Uh, that's not how I remember it.",
         "…Uh, that's not how I remember it."
-      ],
-      "name": "Royce and Royce",
-      "text": "You held my broken heart in the kind warmth of your arms. \nAnd so that very heart made a vow. \n——A vow to become the greatest, together with you!"
+      ]
     },
     {
       "text": "This is how I became Royce and Royce's trainer. \nIt all started with a URA-sponsored event——"
@@ -24,23 +24,23 @@
       "text": "Okaayyy, if you're here for the \"Enjoy Your First Twinkle Race!\" event, come right this way!"
     },
     {
+      "name": "Royce and Royce",
+      "text": "Welcome! Feel free to take any open seat. \nWe'll do our best to make sure you all learn to love racing!",
       "choice_data_list": [
         "Please, take a pamphlet!"
-      ],
-      "name": "Royce and Royce",
-      "text": "Welcome! Feel free to take any open seat. \nWe'll do our best to make sure you all learn to love racing!"
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "Phew… That should be the last of our guests. I'm glad to see we have a full house today. Although keeping up with every table will prove to be a challenge——"
     },
     {
+      "name": "Royce and Royce",
+      "text": "Let's do our best, Trainer <username>!",
       "choice_data_list": [
         "Wait, how do you know my name…?",
         "Wait, how do you know my name…?"
-      ],
-      "name": "Royce and Royce",
-      "text": "Let's do our best, Trainer <username>!"
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -83,24 +83,24 @@
       "text": "Mejiro Palmer-san is a gyaru. Yes, a gyaru AND a noble lady. \nYou'll often see her with her contemporary gyaru-in-arms Daitaku Helios."
     },
     {
+      "name": "Royce and Royce",
+      "text": "She once paid the unsanctioned freestyle races a visit during a journey of self-discovery, and still goes to them from time to time.",
       "choice_data_list": [
         "(Her info's really up to date…!)",
         "(Her info's really up to date…!)"
-      ],
-      "name": "Royce and Royce",
-      "text": "She once paid the unsanctioned freestyle races a visit during a journey of self-discovery, and still goes to them from time to time."
+      ]
     },
     {
       "name": "Royce and Royce",
       "text": "I encourage you to watch a recording of last year's Kikuka Sho. You'll be able to see both McQueen-san and Ryan-san race!"
     },
     {
+      "name": "Event Guest A",
+      "text": "Wow! You know, thanks to you, they don't feel so unfamiliar anymore. I'll be sure to watch that recording!",
       "choice_data_list": [
         "(She sure knows her racers.)",
         "(She sure knows her racers.)"
-      ],
-      "name": "Event Guest A",
-      "text": "Wow! You know, thanks to you, they don't feel so unfamiliar anymore. I'll be sure to watch that recording!"
+      ]
     },
     {
       "name": "Royce and Royce",
@@ -127,18 +127,18 @@
       "text": "By the way, my name is Royce and Royce. You can call out \"Royce\" or \"Royce-chan\". Really let me hear you shout, okay?"
     },
     {
+      "text": "Royce and Royce took a glance at me, like she was sending me a signal. If I had to guess, she wanted me to join the chant to help guide the guests.",
       "choice_data_list": [
         "(All right, it's game time!)",
         "(All right, it's game time!)"
-      ],
-      "text": "Royce and Royce took a glance at me, like she was sending me a signal. If I had to guess, she wanted me to join the chant to help guide the guests."
+      ]
     },
     {
+      "name": "Royce and Royce",
+      "text": "Now's the concert you've all been waiting for! Let's have a great time! And without further ado… \nLet me hear you pump it up! Three, two, one…!",
       "choice_data_list": [
         "ROYCE-CHAAAAAN!"
-      ],
-      "name": "Royce and Royce",
-      "text": "Now's the concert you've all been waiting for! Let's have a great time! And without further ado… \nLet me hear you pump it up! Three, two, one…!"
+      ]
     },
     {
       "name": "Event Guests",
@@ -172,24 +172,24 @@
       "text": "I just wanna tell you! \nI just wanna show you! \nGimme!! Thanks for all ・ your ・ love !"
     },
     {
+      "name": "Event Guests",
+      "text": "Ba-dump!",
       "choice_data_list": [
         "(Whoa, it's just like the real thing!)",
         "(Whoa, it's just like the real thing!)"
-      ],
-      "name": "Event Guests",
-      "text": "Ba-dump!"
+      ]
     },
     {
       "name": "Event Guest B",
       "text": "That was awesome! You know… that Royce-chan, huh?! \nI loved her energy, and her fanservice was adorable! \nShe was so great up there!"
     },
     {
+      "name": "Event Guest A",
+      "text": "I know, right? It was just a demonstration, but she gave it her all anyway. Plus she was so kind when introducing the racers… \n…She's such a nice girl!",
       "choice_data_list": [
         "(The event was a huge success!)",
         "(The event was a huge success!)"
-      ],
-      "name": "Event Guest A",
-      "text": "I know, right? It was just a demonstration, but she gave it her all anyway. Plus she was so kind when introducing the racers… \n…She's such a nice girl!"
+      ]
     },
     {
       "text": "With a smile on all their faces, the guests went home. \nI could tell —— Some day soon, they would all be paying the racecourse a visit."

@@ -2,17 +2,17 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Furioso",
+      "text": "……I'm surprised. To think you wouldn't pass. \nWith Trainer's skills, I thought it was a given that you'd pass.",
       "choice_data_list": [
         "……Sorry"
-      ],
-      "name": "Furioso",
-      "text": "……I'm surprised. To think you wouldn't pass. \nWith Trainer's skills, I thought it was a given that you'd pass."
+      ]
     },
     {
+      "text": "I didn't think I would fail the Central Trainer License Exam…… \nBut, there was a reason I failed.",
       "choice_data_list": [
         "The written exam was difficult……"
-      ],
-      "text": "I didn't think I would fail the Central Trainer License Exam…… \nBut, there was a reason I failed."
+      ]
     },
     {
       "text": "I show Furioso a brief summary of the exam questions."
@@ -22,23 +22,23 @@
       "text": "『The different varieties of turf』. \nFor Central Races, list the types of grass used, is it……?"
     },
     {
+      "name": "Furioso",
+      "text": "This is……outside your expertise. Funabashi……or rather, \nmost local racetracks only have dirt courses, after all.",
       "choice_data_list": [
         "……that's right",
         "……that's right"
-      ],
-      "name": "Furioso",
-      "text": "This is……outside your expertise. Funabashi……or rather, \nmost local racetracks only have dirt courses, after all."
+      ]
     },
     {
       "text": "It wasn't that I wasn't aware. However, since I was \ndedicating everything to helping Furioso succeed, I \nhadn't studied anything that wasn't relevant to her future."
     },
     {
+      "name": "Furioso",
+      "text": "There are so many technical questions…… Now that I think \nabout it, I'd heard that the Central Trainer Exam was \nextremely tough for trainers who were transferring.",
       "choice_data_list": [
         "To think it was like this……",
         "To think it was like this……"
-      ],
-      "name": "Furioso",
-      "text": "There are so many technical questions…… Now that I think \nabout it, I'd heard that the Central Trainer Exam was \nextremely tough for trainers who were transferring."
+      ]
     },
     {
       "text": "This time, there were several other people who took \nthe exam with me…… Only a few passed each time."
@@ -48,18 +48,18 @@
       "text": "What should we do……? Without a license, \nthen Trainer won't be able to enter Tracen Academy……"
     },
     {
+      "text": "At this point, there was only one thing we could do. \nBut, it will probably be troublesome for Furioso……",
       "choice_data_list": [
         "For now……could you wait for me?",
         "For now……could you wait for me?"
-      ],
-      "text": "At this point, there was only one thing we could do. \nBut, it will probably be troublesome for Furioso……"
+      ]
     },
     {
+      "name": "Furioso",
+      "text": "Eh, wait for you……!?",
       "choice_data_list": [
         "I'll pass the next exam for sure!"
-      ],
-      "name": "Furioso",
-      "text": "Eh, wait for you……!?"
+      ]
     },
     {
       "name": "Furioso",
@@ -157,45 +157,45 @@
       "text": "Haa, haa, once Trainer is here then……! \nI'll be able to catch up on all that training in one go!"
     },
     {
+      "text": "I spent the days immersed in intense studying. Now that I understood \nthe trends in the questions, I won't make the same mistake again.",
       "choice_data_list": [
         "I'll pass for sure, next time!"
-      ],
-      "text": "I spent the days immersed in intense studying. Now that I understood \nthe trends in the questions, I won't make the same mistake again."
+      ]
     },
     {
       "text": "Tomorrow is the day I take the exam again. \nI can't let Furioso do this on her own for so long."
     },
     {
+      "text": "And so——the announcement of the results \nof my second attempt at the License Exam.",
       "choice_data_list": [
         "…………"
-      ],
-      "text": "And so——the announcement of the results \nof my second attempt at the License Exam."
+      ]
     },
     {
+      "name": "Furioso",
+      "text": "Trai……ner…… \nTrai—……",
       "choice_data_list": [
         "Furioso……I'm really……sorry……",
         "Furioso……I'm really……sorry……"
-      ],
-      "name": "Furioso",
-      "text": "Trai……ner…… \nTrai—……"
+      ]
     },
     {
       "text": "The results were……a nightmare. For a while, neither \nof us could say a word. The only thing we could hear \nwas the dripping of the faucet in the kitchen."
     },
     {
+      "name": "Furioso",
+      "text": "So that's what happened…… The contents of the \nquestions were completely different from before.",
       "choice_data_list": [
         "Yeah……",
         "Yeah……"
-      ],
-      "name": "Furioso",
-      "text": "So that's what happened…… The contents of the \nquestions were completely different from before."
+      ]
     },
     {
+      "text": "I was stunned when I saw the test paper. As \nexpected of the Central Exams. My preparations \nbased on the previous exam were perfect, but……",
       "choice_data_list": [
         "(The questions changed so much……)",
         "(The questions changed so much……)"
-      ],
-      "text": "I was stunned when I saw the test paper. As \nexpected of the Central Exams. My preparations \nbased on the previous exam were perfect, but……"
+      ]
     },
     {
       "text": "At this rate, there was no telling when I'd be able \nto pass. Her training was already being delayed, and \nour goal of beating Central was in question."
@@ -205,26 +205,26 @@
       "text": "We'll just have……to wait for next time. \nHonestly, it's been hard working alone. But……"
     },
     {
+      "text": "I couldn't help but feel regret and guilt. \nBut the thing that was more important than those feelings——",
       "choice_data_list": [
         "(I can't keep holding her back!)"
-      ],
-      "text": "I couldn't help but feel regret and guilt. \nBut the thing that was more important than those feelings——"
+      ]
     },
     {
       "text": "We couldn't keep wasting time. Bringing out Furioso's \ntalent……could be done by another trainer in Central."
     },
     {
+      "text": "Then——there was one thing I could do. \nFor someone like me, there was only one thing I could do——",
       "choice_data_list": [
         "I think I……should stop here"
-      ],
-      "text": "Then——there was one thing I could do. \nFor someone like me, there was only one thing I could do——"
+      ]
     },
     {
+      "name": "Furioso",
+      "text": "Eh, Trainer, by stop here……?",
       "choice_data_list": [
         "I won't take the next exam"
-      ],
-      "name": "Furioso",
-      "text": "Eh, Trainer, by stop here……?"
+      ]
     },
     {
       "name": "Furioso",

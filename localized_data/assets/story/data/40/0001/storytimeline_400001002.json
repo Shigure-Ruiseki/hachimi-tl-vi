@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "One day, while relaxing in my room, I \nreceived an e-mail from Thoresen Academy.",
       "choice_data_list": [
         "What is it ……?"
-      ],
-      "text": "One day, while relaxing in my room, I \nreceived an e-mail from Thoresen Academy."
+      ]
     },
     {
       "text": "Attention all trainers at the Academy! There \nwill be a big announcement concerning your \nfuture in the near future."
     },
     {
+      "text": "Be sure to check it out! From Akikawa \n[Akikawa], Chairman of the Board of Trustees \nof Tressen Academy.\"",
       "color_text_info_list": [
         "fall river"
-      ],
-      "text": "Be sure to check it out! From Akikawa \n[Akikawa], Chairman of the Board of Trustees \nof Tressen Academy.\""
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -48,12 +48,12 @@
       "text": "The \"URA Finals\" ……! You're \ncreating a new race!"
     },
     {
+      "name": "Otonashi Etsuko",
+      "text": "Chairman Akikawa! My name is Fumi Otome of \n\"Monthly Twinkle\". May I ask you a question?",
       "color_text_info_list": [
         "Monthly Twinkle",
         "history of a second name"
-      ],
-      "name": "Otonashi Etsuko",
-      "text": "Chairman Akikawa! My name is Fumi Otome of \n\"Monthly Twinkle\". May I ask you a question?"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -157,12 +157,12 @@
       "text": "―Have you ever had a frustrating experience?"
     },
     {
+      "name": "Director Akikawa",
+      "text": "I want to win the Arimakinen! I want to win \nthe Derby! I want to be the best horse girl! \nEven if you think so…",
       "color_text_info_list": [
         "Arima Kinen (horse racing)",
         "Japan Derby"
-      ],
-      "name": "Director Akikawa",
-      "text": "I want to win the Arimakinen! I want to win \nthe Derby! I want to be the best horse girl! \nEven if you think so…"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -217,29 +217,29 @@
       "text": "All courses ……!"
     },
     {
+      "name": "Director Akikawa",
+      "text": "As with the Arima Kinen and Takarazuka Kinen, \nonly the Uma Musume chosen by fan votes will \nbe eligible to participate!",
       "color_text_info_list": [
         "Takarazuka Memorial Museum"
-      ],
-      "name": "Director Akikawa",
-      "text": "As with the Arima Kinen and Takarazuka Kinen, \nonly the Uma Musume chosen by fan votes will \nbe eligible to participate!"
+      ]
     },
     {
+      "name": "Director Akikawa",
+      "text": "In other words, the representative Uma Musume \nwho have been active in the Twinkle Series \nand won many fans―the \"Star Uma Musume\"―are \nthe only ones who are eligible to run!",
       "color_text_info_list": [
         "Star Uma Musume"
-      ],
-      "name": "Director Akikawa",
-      "text": "In other words, the representative Uma Musume \nwho have been active in the Twinkle Series \nand won many fans―the \"Star Uma Musume\"―are \nthe only ones who are eligible to run!"
+      ]
     },
     {
       "name": "Director Akikawa",
       "text": "Uma Musume, ladies and gentlemen! Run on the \nstage where you can give it your all, and be \nthe top of the URA Finals!"
     },
     {
+      "name": "Director Akikawa",
+      "text": "Why don't you try to win the \ntitle of \"Finals Champion\"?",
       "color_text_info_list": [
         "Final's Champion"
-      ],
-      "name": "Director Akikawa",
-      "text": "Why don't you try to win the \ntitle of \"Finals Champion\"?"
+      ]
     },
     {
       "name": "Director Akikawa",
@@ -250,11 +250,11 @@
       "text": "Wouldn't you like to see her crowned the \nfirst champion!"
     },
     {
+      "name": "Director Akikawa",
+      "text": "Come on! You will all gather fans and become \n\"Star Uma Musume\" for the first show of the \nNew Year in three years!",
       "color_text_info_list": [
         "New Year in three years"
-      ],
-      "name": "Director Akikawa",
-      "text": "Come on! You will all gather fans and become \n\"Star Uma Musume\" for the first show of the \nNew Year in three years!"
+      ]
     },
     {
       "name": "Director Akikawa",

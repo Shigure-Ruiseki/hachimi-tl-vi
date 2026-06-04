@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Sakura Bakushin O",
+      "text": "What's this!? \nTrainer has made a……mistake!?",
       "choice_data_list": [
         "I'm ashamed…"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "What's this!? \nTrainer has made a……mistake!?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

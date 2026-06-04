@@ -18,12 +18,12 @@
       "text": "You've all come back to meet me? I'm touched."
     },
     {
+      "name": "Gold Ship",
+      "text": "Second place — you were so close! 'Twas a great race!",
       "choice_data_list": [
         "Everyone out there today was in absolute top \nform.",
         "Everyone out there today was in absolute top \nform."
-      ],
-      "name": "Gold Ship",
-      "text": "Second place — you were so close! 'Twas a great race!"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -179,11 +179,11 @@
       "text": "But I know that in the end, you'll cross that finish line first!"
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "Hehe… Yes, I should think so. With all of your support as my tailwind, \nI feel ready to soar any distance!",
       "choice_data_list": [
         "We're expecting great things, ace!"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "Hehe… Yes, I should think so. With all of your support as my tailwind, \nI feel ready to soar any distance!"
+      ]
     },
     {
       "name": "Mejiro McQueen",

@@ -48,10 +48,10 @@
       "text": "I will definitely win."
     },
     {
+      "text": "After last night, I couldn't help but worry about her.",
       "choice_data_list": [
         "<i>I… have a bad feeling about this.</i>"
-      ],
-      "text": "After last night, I couldn't help but worry about her."
+      ]
     },
     {
       "text": "But despite these concerns, the race began without a hitch!"
@@ -128,11 +128,11 @@
       "text": "Admire Vega is quickly and nimbly cutting through the pack and \npushing forward! 3rd place, 2nd place, and 1st place! What \nmagnificently explosive power!!"
     },
     {
+      "name": "Veteran Trainer A",
+      "text": "Eh? Wait, what was…",
       "choice_data_list": [
         "!!!"
-      ],
-      "name": "Veteran Trainer A",
-      "text": "Eh? Wait, what was…"
+      ]
     },
     {
       "name": "Caster",

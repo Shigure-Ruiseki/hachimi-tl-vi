@@ -13,11 +13,11 @@
       "text": "My training with Vodka, who was more honest than \nI had imagined, was proceeding very smoothly."
     },
     {
+      "text": "A large stretcher, a body that gives off a \nstrong feeling of flexibility―― With enough \npotential, it looks like I'll have high hopes \nfor the future.",
       "choice_data_list": [
         "Let's just level up the menu.",
         "Let's raise the level of the menu a little."
-      ],
-      "text": "A large stretcher, a body that gives off a \nstrong feeling of flexibility―― With enough \npotential, it looks like I'll have high hopes \nfor the future."
+      ]
     },
     {
       "name": "Vodka",
@@ -27,11 +27,11 @@
       "text": "And one day――"
     },
     {
+      "name": "Vodka",
+      "text": "Oh, crap. I haven't submitted an application \nfor the event yet. I need to fill \nit out and submit it…",
       "choice_data_list": [
         "Race events?"
-      ],
-      "name": "Vodka",
-      "text": "Oh, crap. I haven't submitted an application \nfor the event yet. I need to fill \nit out and submit it…"
+      ]
     },
     {
       "name": "Vodka",
@@ -58,12 +58,12 @@
       "text": "Ugh, I'm really looking forward to this! I've \ngotta show them how cool I am!"
     },
     {
+      "name": "Vodka",
+      "text": "…Ah, that's right, Trainer! Let's go eat \nsomething good outside to cheer up!",
       "choice_data_list": [
         "All right, here's your reward \nfor always working so hard!",
         "Alright, here's your reward \nfor always working so hard!"
-      ],
-      "name": "Vodka",
-      "text": "…Ah, that's right, Trainer! Let's go eat \nsomething good outside to cheer up!"
+      ]
     },
     {
       "name": "Vodka",
@@ -85,19 +85,19 @@
       "text": "Wh-What's with that cool poster?!"
     },
     {
+      "text": "Vodka followed her gaze, which had been glued to \nit, and saw a poster of a trainee riding a \nlarge motorcycle.",
       "choice_data_list": [
         "Looks like a movie poster.",
         "Looks like a movie poster."
-      ],
-      "text": "Vodka followed her gaze, which had been glued to \nit, and saw a poster of a trainee riding a \nlarge motorcycle."
+      ]
     },
     {
+      "name": "Vodka",
+      "text": "Heh, a movie, huh…? So such a cool bike is \ncoming out……heeeeh……!!",
       "choice_data_list": [
         "Why don't we go see it?",
         "Why don't we go see it?"
-      ],
-      "name": "Vodka",
-      "text": "Heh, a movie, huh…? So such a cool bike is \ncoming out……heeeeh……!!"
+      ]
     },
     {
       "name": "Vodka",
@@ -108,12 +108,12 @@
       "text": "…………Yaaaaaaay! That was so cool!!"
     },
     {
+      "name": "Vodka",
+      "text": "Did you see the bike chase at the climax!? \nWhen it was curved, my body was stretched \nacross the ground!!",
       "choice_data_list": [
         "You like motorcycles that much?",
         "I didn't know you liked motorcycles that much."
-      ],
-      "name": "Vodka",
-      "text": "Did you see the bike chase at the climax!? \nWhen it was curved, my body was stretched \nacross the ground!!"
+      ]
     },
     {
       "name": "Vodka",
@@ -128,12 +128,12 @@
       "text": "It's so nice, isn't it? A bike! How do I put \nthis? …Yeah, it's so romantic!!"
     },
     {
+      "name": "Vodka",
+      "text": "…Come to think of it, when I first went to see \nDerby, she used to ride my dad's bike.",
       "choice_data_list": [
         "Did your father let you meet the race?",
         "Your father let you meet the race."
-      ],
-      "name": "Vodka",
-      "text": "…Come to think of it, when I first went to see \nDerby, she used to ride my dad's bike."
+      ]
     },
     {
       "name": "Vodka",
@@ -156,12 +156,12 @@
       "text": "『I won't let you win!』 『Open the front door!』 \n『First place is yours!』 All of them were giving \noff that kind of aura……!!"
     },
     {
+      "name": "Vodka",
+      "text": "On the way home, Dad was always yelling 'Hey, \nyou're so cool!', but she seemed really happy as \nshe drove her bike.",
       "choice_data_list": [
         "That's why you decided to race.",
         "That's why I decided to race."
-      ],
-      "name": "Vodka",
-      "text": "On the way home, Dad was always yelling 'Hey, \nyou're so cool!', but she seemed really happy as \nshe drove her bike."
+      ]
     },
     {
       "name": "Vodka",
@@ -180,12 +180,12 @@
       "text": "Yeah, well, how do I put this…? Well, I guess \nI'll have to give up."
     },
     {
+      "name": "Vodka",
+      "text": "I prefer stiffer ones. Such \nsoft ones… ki, ki… scenes……",
       "choice_data_list": [
         "You mean the kiss scene?",
         "You mean the kiss scene?"
-      ],
-      "name": "Vodka",
-      "text": "I prefer stiffer ones. Such \nsoft ones… ki, ki… scenes……"
+      ]
     },
     {
       "name": "Vodka",

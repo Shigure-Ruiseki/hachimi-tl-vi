@@ -9,50 +9,50 @@
       "text": "I brought Zephyr too a zoo during our day off."
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "… \n…sigh… It's like on a path of 'flower storm'",
       "choice_data_list": [
         "Is there something wrong?",
         "Is there something wrong?"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "… \n…sigh… It's like on a path of 'flower storm'"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "Oh, trainer? Hello. Actually… I was looking for the 'sunny \nwind'. I wanted to feel the nature."
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "But… \nI can't find any in a city like this. The wind feels empty.",
       "choice_data_list": [
         "Nature huh…"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "But… \nI can't find any in a city like this. The wind feels empty."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "Even so, I can feel the liveliness of the \nwind of feast. Everyone is so restless as \nif they were blown by the easterly wind."
     },
     {
+      "text": "She was fascinated by the animals, just as I thought an \nanimal lover, like her, would. There are a lot of exotic \nanimals here. I'm sure she will have fun.",
       "choice_data_list": [
         "Now, where to go first…"
-      ],
-      "text": "She was fascinated by the animals, just as I thought an \nanimal lover, like her, would. There are a lot of exotic \nanimals here. I'm sure she will have fun."
+      ]
     },
     {
+      "text": "……",
       "choice_data_list": [
         "―Wait! Zephyr disappeared!"
-      ],
-      "text": "……"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "Fufu, little Sumikko is like a west wind of spring aren't you."
     },
     {
+      "text": "I panicked and searched for Zephyr… \nI found her resting in the rest area.",
       "choice_data_list": [
         "Do you not want to look at animals?",
         "Do you not want to look at animals?"
-      ],
-      "text": "I panicked and searched for Zephyr… \nI found her resting in the rest area."
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -99,22 +99,22 @@
       "text": "Lalal……♪ Lalal……♪"
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "Fufu, Orange-san is here too. \nShall we dance together?",
       "choice_data_list": [
         "You call a starling 'Orange-san'?"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "Fufu, Orange-san is here too. \nShall we dance together?"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
       "text": "Yeah… I wanted to call it based on its \nfeature that I think is most beautiful."
     },
     {
+      "text": "The starling's beak and legs are colored with a striking \norange color. I agree, they look beautiful.",
       "choice_data_list": [
         "I would've called it Stylish-san",
         "I would've called it Stylish-san"
-      ],
-      "text": "The starling's beak and legs are colored with a striking \norange color. I agree, they look beautiful."
+      ]
     },
     {
       "text": "Wanting to get closer to the 'nature' she liked so much, I tried \ncoming up with a name for the starling like she did. And—"
@@ -136,12 +136,12 @@
       "text": "I never ever thought that I could feel the 'sunny wind' \nlike the one in my hometown in the city."
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "……",
       "choice_data_list": [
         "What's wrong?",
         "What's wrong?"
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "……"
+      ]
     },
     {
       "name": "Yamanin Zephyr",
@@ -176,12 +176,12 @@
       "text": "…It may be that the winds that blow around you \nare all strange winds."
     },
     {
+      "name": "Yamanin Zephyr",
+      "text": "Thank you for your time today. \nThanks to you, I didn't get to feel the 'black south wind'.",
       "choice_data_list": [
         "I had fun as well. Let's come again next time.",
         "I had fun as well. Let's come again next time."
-      ],
-      "name": "Yamanin Zephyr",
-      "text": "Thank you for your time today. \nThanks to you, I didn't get to feel the 'black south wind'."
+      ]
     },
     {
       "name": "Yamanin Zephyr",

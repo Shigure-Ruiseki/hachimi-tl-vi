@@ -27,10 +27,10 @@
       "text": "Ah, please wait a second. Before you go, I'd like to ask you something. I feel as though I still lack action plans for some situations… So I'd…"
     },
     {
+      "text": "…I don't think she's at that level just yet, but compared to before she's a lot less reserved when it comes to asking for advice or asking a question.",
       "choice_data_list": [
         "It's still an improvement…"
-      ],
-      "text": "…I don't think she's at that level just yet, but compared to before she's a lot less reserved when it comes to asking for advice or asking a question."
+      ]
     },
     {
       "text": "I feel as though my assigned uma musume is slowly, but surely, improving. I feel warm on the inside with that thought in mind."
@@ -44,11 +44,11 @@
       "text": "Ah! I-is it perhaps, my running? \nD-did I mess up my form?? Did I not follow the menu correctly?"
     },
     {
+      "text": "Even when you gave up your precious time to make it… I'm sorry! I'll work even harder than before!",
       "choice_data_list": [
         "No, no, that's not it."
       ],
-      "name": "Cheval Grand",
-      "text": "Even when you gave up your precious time to make it… I'm sorry! I'll work even harder than before!"
+      "name": "Cheval Grand"
     },
     {
       "name": "Cheval Grand",
@@ -66,8 +66,8 @@
       "text": "…… \n……Hah."
     },
     {
-      "name": "Cheval Grand",
-      "text": "(Even if they say they were just recalling the moment when we first met, I still feel as though there's something troubling them…)"
+      "text": "(Even if they say they were just recalling the moment when we first met, I still feel as though there's something troubling them…)",
+      "name": "Cheval Grand"
     },
     {
       "name": "Cheval Grand",
@@ -86,40 +86,40 @@
       "text": "…Ah!? I-it has to be…"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(That girl looked dead set on her goals, and was overflowing with motivation… Trainer must've noticed how she was able to convey her opinions in a straightforward manner.)"
+      "text": "(That girl looked dead set on her goals, and was overflowing with motivation… Trainer must've noticed how she was able to convey her opinions in a straightforward manner.)",
+      "name": "Cheval Grand"
     },
     {
       "name": "Cheval Grand",
       "text": "Then they must've compared to how much I haven't changed and thought… I'm extremely pathetic!?"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(They're someone who is able to find the strong points of people, even in someone like me—)"
+      "text": "(They're someone who is able to find the strong points of people, even in someone like me—)",
+      "name": "Cheval Grand"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(…I accepted my invitation after I chose them. It's obvious that someone like me is nothing more than a waste of time for them!)"
+      "text": "(…I accepted my invitation after I chose them. It's obvious that someone like me is nothing more than a waste of time for them!)",
+      "name": "Cheval Grand"
     },
     {
-      "name": "Cheval Grand",
-      "text": "If that's the case, won't they… get fed up with me? The me that can't take that first step? No, something like that… can't…"
+      "text": "If that's the case, won't they… get fed up with me? The me that can't take that first step? No, something like that… can't…",
+      "name": "Cheval Grand"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(…They might just be putting up with me, just because they're nice…)"
+      "text": "(…They might just be putting up with me, just because they're nice…)",
+      "name": "Cheval Grand"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(What do I do? What can I do?…Uuuu…)"
+      "text": "(What do I do? What can I do?…Uuuu…)",
+      "name": "Cheval Grand"
     },
     {
       "name": "Cheval Grand",
       "text": "I'm so confused… a-anyways… \nI need to work harder than before, before they get fed up with me."
     },
     {
-      "name": "Cheval Grand",
-      "text": "After all they are… \nMy one chance… my only hope!"
+      "text": "After all they are… \nMy one chance… my only hope!",
+      "name": "Cheval Grand"
     }
   ],
   "title": "My Worries: How I'm Viewed"

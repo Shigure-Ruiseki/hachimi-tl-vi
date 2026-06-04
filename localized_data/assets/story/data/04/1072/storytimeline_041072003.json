@@ -8,11 +8,11 @@
       "text": "Actually, there was one thing I had in mind that might work."
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "……『I want to know more about the Kongou Yaegaki Ryuu』, is it？",
       "choice_data_list": [
         "That's right"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "……『I want to know more about the Kongou Yaegaki Ryuu』, is it？"
+      ]
     },
     {
       "text": "She was pretty wild when she was younger. The day I met her too, \nshe was practicing Kata in order help keep her emotions in check \nduring the Selection Race."
@@ -29,39 +29,39 @@
       "text": "……that seems reasonable. Well then――"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Instructor, assistant instructor. I have returned. For today, \nthank you kindly for your guidance.",
       "choice_data_list": [
         "Thank you for your guidance！"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Instructor, assistant instructor. I have returned. For today, \nthank you kindly for your guidance."
+      ]
     },
     {
       "name": "Yaeno Muteki's Grandmother",
       "text": "Welcome, thank you for coming, Trainer-san. Please feel free to \nask anything about the teachings of the Kongou Yaegaki Ryuu."
     },
     {
+      "name": "Yaeno Muteki's Grandmother",
+      "text": "Seeing is believing…… by all means, today, \nmake the most of this experience",
       "choice_data_list": [
         "Yes……！"
-      ],
-      "name": "Yaeno Muteki's Grandmother",
-      "text": "Seeing is believing…… by all means, today, \nmake the most of this experience"
+      ]
     },
     {
       "text": "And, with that said……！"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Sei！ ……Haa！！",
       "choice_data_list": [
         "Y-yaa！"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Sei！ ……Haa！！"
+      ]
     },
     {
+      "name": "Yaeno Muteki's Grandmother",
+      "text": "Yes, just like that. Now, step and lean forward to match with \nyour fist. Rather than lifting your head, it should feel more \nlike you're being pulled along.",
       "choice_data_list": [
         "Yes, I understand……！"
-      ],
-      "name": "Yaeno Muteki's Grandmother",
-      "text": "Yes, just like that. Now, step and lean forward to match with \nyour fist. Rather than lifting your head, it should feel more \nlike you're being pulled along."
+      ]
     },
     {
       "name": "Yaeno Muteki's Grandfather",
@@ -78,11 +78,11 @@
       "text": "……that said, moving around in a way I wasn't accustomed to \ndepleted my stamina a lot quicker than I expected. After that, I \nended up just observing, that's when――"
     },
     {
+      "name": "Yaeno Muteki's Grandfather",
+      "text": "Do you have a moment？",
       "choice_data_list": [
         "Eh？！ Ah, yeah……！"
-      ],
-      "name": "Yaeno Muteki's Grandfather",
-      "text": "Do you have a moment？"
+      ]
     },
     {
       "text": "It seems that the guidance was left to the assistant instructor, \nhis wife, as the Kongou Yaegaki Ryuu instructor―― Yaeno Muteki's \ngrandfather, quietly started a conversation."
@@ -92,11 +92,11 @@
       "text": "……for being concerned about my granddaughter, I'm grateful."
     },
     {
+      "name": "Yaeno Muteki's Grandfather",
+      "text": "Most people―― in regards to races, are perplexed by \ntheir own 『Ardent Flame』, and are often seeking out \nthat 『Tranquil Water』, what do you think?",
       "choice_data_list": [
         "T-that sounds right……！"
-      ],
-      "name": "Yaeno Muteki's Grandfather",
-      "text": "Most people―― in regards to races, are perplexed by \ntheir own 『Ardent Flame』, and are often seeking out \nthat 『Tranquil Water』, what do you think?"
+      ]
     },
     {
       "name": "Yaeno Muteki's Grandfather",
@@ -135,11 +135,11 @@
       "text": "――have you understood it so far？ To control the 『Ardent Flames』 \ndoes not mean, use the 『Tranquil Water』 to restrain it, it does \nnot mean to drown it out."
     },
     {
+      "name": "Yaeno Muteki's Grandfather",
+      "text": "Whether it be martial arts or a race, it is the same. The aim \nshould be 『Fusion』. In what way should that be realized……",
       "choice_data_list": [
         "……！！"
-      ],
-      "name": "Yaeno Muteki's Grandfather",
-      "text": "Whether it be martial arts or a race, it is the same. The aim \nshould be 『Fusion』. In what way should that be realized……"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -157,10 +157,10 @@
       "text": "For martial arts, 『Kata』 are based on hypothetical conditions and \nopponents, much like a simulation to choose the most optimal \naction to undertake."
     },
     {
+      "text": "If one were to adapt these for the purpose of a race, then the \nthing that comes to mind is――",
       "choice_data_list": [
         "Wouldn't it be 『Tactics』？"
-      ],
-      "text": "If one were to adapt these for the purpose of a race, then the \nthing that comes to mind is――"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -175,23 +175,23 @@
       "text": "To combine these two, a 『Kata』―― With consideration for both the \nsettings and conditions, a variety of 『Tactics』……！"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "In other words, for a race 『The Fusion of Fire and Water』 can be \nrealized, by learning many different 『Tactics』……！！",
       "choice_data_list": [
         "That must be it……！",
         "That must be it……！"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "In other words, for a race 『The Fusion of Fire and Water』 can be \nrealized, by learning many different 『Tactics』……！！"
+      ]
     },
     {
       "name": "Yaeno Muteki",
       "text": "I now have a guiding light. In that case, what I need next is――"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "……an expert familiar with this road, that can instruct me.",
       "choice_data_list": [
         "Does that mean――"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "……an expert familiar with this road, that can instruct me."
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -202,12 +202,12 @@
       "text": "Please, for just a little while longer, consider accompanying \nsomeone as immature as I."
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "The 『Kata』 for races…… in other words, the many 『Tactics』, please \ninstruct me on them！",
       "choice_data_list": [
         "Got it, leave it to me！",
         "Got it, leave it to me！"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "The 『Kata』 for races…… in other words, the many 『Tactics』, please \ninstruct me on them！"
+      ]
     },
     {
       "name": "Yaeno Muteki",

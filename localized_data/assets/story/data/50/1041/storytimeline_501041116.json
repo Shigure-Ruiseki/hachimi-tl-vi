@@ -5,11 +5,11 @@
       "text": "One day, Sakura Bakushin O was training \nto further improve her speed in order to \nwin by a large margin over Nishino Flower…"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Trainer! \nBench press has been completed!",
       "choice_data_list": [
         "Okay, 10-minute break!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Trainer! \nBench press has been completed!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -80,11 +80,11 @@
       "text": "Um, well, we're all rooting for you, so… \nKeep it up, okay!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "…",
       "choice_data_list": [
         "…Bakushin O"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "…"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

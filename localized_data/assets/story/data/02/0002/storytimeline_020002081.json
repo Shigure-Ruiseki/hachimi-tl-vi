@@ -20,11 +20,11 @@
       "text": "Denying Bourbon's Triple Crown was a feat worthy of praise, and yet \nthe exact opposite reactions were the loudest."
     },
     {
+      "name": "Mejiro McQueen",
+      "text": "As chance would have it, the stakes at the Kikuka Sho are closely \nmirrored by the upcoming Tenno Sho.",
       "choice_data_list": [
         "So you want Rice to run because…"
-      ],
-      "name": "Mejiro McQueen",
-      "text": "As chance would have it, the stakes at the Kikuka Sho are closely \nmirrored by the upcoming Tenno Sho."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -45,11 +45,11 @@
       "text": "No doubt she thought long and hard before making this request."
     },
     {
+      "text": "But is she really okay with this? Won't Rice being there distract her \nfrom her own running?",
       "choice_data_list": [
         "You might not get another shot at three \nconsecutive wins. Are you sure about this?",
         "You might not get another shot at three \nconsecutive wins. Are you sure about this?"
-      ],
-      "text": "But is she really okay with this? Won't Rice being there distract her \nfrom her own running?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -67,11 +67,11 @@
       "text": "She flashes a teasing smile, but the upcoming race is anything but fun \nand games to her."
     },
     {
+      "text": "If this sight she wants Rice to see is that important to her, then who \nam I to say no?",
       "choice_data_list": [
         "All right, I'll have Rice run too.",
         "All right, I'll have Rice run too."
-      ],
-      "text": "If this sight she wants Rice to see is that important to her, then who \nam I to say no?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -101,11 +101,11 @@
       "text": "The big leagues? Have you decided my next race?"
     },
     {
+      "text": "She won't like the decision. But if she's to ever win again…",
       "choice_data_list": [
         "You'll be running in the spring Tenno Sho.",
         "You'll be running in the spring Tenno Sho."
-      ],
-      "text": "She won't like the decision. But if she's to ever win again…"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -156,11 +156,11 @@
       "text": "Bourbon was up on that stage too, right beside Rice."
     },
     {
+      "text": "She saw firsthand how much damage the booing did.",
       "choice_data_list": [
         "She's… not quite back to her usual self.",
         "She's… not quite back to her usual self."
-      ],
-      "text": "She saw firsthand how much damage the booing did."
+      ]
     },
     {
       "name": "Mihono Bourbon",
@@ -198,11 +198,11 @@
       "text": "\"I want to win.\" The same ambition that Rice has lost, Bourbon has \ngained anew."
     },
     {
+      "text": "If Rice could see Bourbon now…",
       "choice_data_list": [
         "Yeah, I could use your help.",
         "Yeah, I could use your help."
-      ],
-      "text": "If Rice could see Bourbon now…"
+      ]
     },
     {
       "name": "Mihono Bourbon",

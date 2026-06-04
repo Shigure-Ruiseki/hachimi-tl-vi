@@ -48,10 +48,10 @@
       "text": "That's true. Trying to recklessly push her to participate \ndefinitely wouldn't be good for her… it seems she \njust isn't built for racing…"
     },
     {
+      "text": "As I heard from Tazuna, her evaluations seem to be quite low, \nwith some saying that she probably shouldn't even be racing, but―",
       "choice_data_list": [
         "What does Ardan herself think?"
-      ],
-      "text": "As I heard from Tazuna, her evaluations seem to be quite low, \nwith some saying that she probably shouldn't even be racing, but―"
+      ]
     },
     {
       "text": "I want to try talking to her, just for a bit. Thinking that, I left the \ngym and followed after Mejiro Ardan."
@@ -61,32 +61,32 @@
       "text": "…………"
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "…uu—",
       "choice_data_list": [
         "Is something wrong?!",
         "Is something wrong?!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "…uu—"
+      ]
     },
     {
       "text": "She staggered and fell to her knees, I rushed over to try \nand help her to her feet."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Oh my, I'm sorry to bother you. It was just some momentary dizziness, \nso I'm fine now.",
       "choice_data_list": [
         "Thank goodness…!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Oh my, I'm sorry to bother you. It was just some momentary dizziness, \nso I'm fine now."
+      ]
     },
     {
       "name": "Mejiro Ardan",
       "text": "Fufu, that's probably not good is it? I've just recovered recently \nso I shouldn't strain myself. Hmmm… oh? My tablet―"
     },
     {
+      "text": "When she said that, I happened to look down, near my feet was \nthe tablet that she had been looking at while in the gym.",
       "choice_data_list": [
         "Oh, this right here… -?!"
-      ],
-      "text": "When she said that, I happened to look down, near my feet was \nthe tablet that she had been looking at while in the gym."
+      ]
     },
     {
       "text": "In that moment — I picked it up and the screen lit up, my eyes \nhappened to pass over it and I inadvertantly gasped."
@@ -98,31 +98,31 @@
       "text": "You could tell in one glance, how earnestly this was put together- \nTrial and error probably played a big part."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "Thank you for picking it up, but… may I have that back?",
       "choice_data_list": [
         "Oh, ahh, sorry!",
         "Oh, ahh, sorry!"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "Thank you for picking it up, but… may I have that back?"
+      ]
     },
     {
+      "text": "After receiving the tablet, Mejiro Ardan took her leave. \n…I completely forgot I came to talk to her, but ended up just \nstanding there.",
       "choice_data_list": [
         "[Minimal waste, maximizing results]―"
-      ],
-      "text": "After receiving the tablet, Mejiro Ardan took her leave. \n…I completely forgot I came to talk to her, but ended up just \nstanding there."
+      ]
     },
     {
+      "text": "With a frail body, even normal training carries danger with it, \nbut having just witnessed this girl who had resolved to fight \nto the bitter end, I could only stand there.",
       "choice_data_list": [
         "Mejiro Ardan, is it…?"
-      ],
-      "text": "With a frail body, even normal training carries danger with it, \nbut having just witnessed this girl who had resolved to fight \nto the bitter end, I could only stand there."
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "That… are you really okay with that, Ardan?!",
       "choice_data_list": [
         "!?"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "That… are you really okay with that, Ardan?!"
+      ]
     },
     {
       "text": "It had been a few days since then. \nThe next time I saw Mejiro Ardan, she was with an alarmed Tazuna."
@@ -132,11 +132,11 @@
       "text": "There's only one entry slot remaining, isn't there? If that's the case, \nthen I'll take it."
     },
     {
+      "name": "Mejiro Ardan",
+      "text": "I, Mejiro Ardan, in the next Selection Race, \n[Dirt, 1200m], wish to participate.",
       "choice_data_list": [
         "(Dirt, <i>and</i> short distance?!)"
-      ],
-      "name": "Mejiro Ardan",
-      "text": "I, Mejiro Ardan, in the next Selection Race, \n[Dirt, 1200m], wish to participate."
+      ]
     },
     {
       "text": "I doubted my ears. If I'm not mistaken, when I did a bit of research, \nMejiro Ardan's aptitudes were―"

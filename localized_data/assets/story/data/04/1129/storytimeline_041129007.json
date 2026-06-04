@@ -26,11 +26,11 @@
       "text": "Fufuu, thank you! I hope you'll keep cheering me on!"
     },
     {
+      "text": "A little while ago we won a pair of Kyumaru dolls from \na quiz contest. This caught the eye of a top level \nexecutive, and they asked her to help promote the movie——",
       "choice_data_list": [
         "Must be hard to relax with all that attention",
         "Must be hard to relax with all that attention"
-      ],
-      "text": "A little while ago we won a pair of Kyumaru dolls from \na quiz contest. This caught the eye of a top level \nexecutive, and they asked her to help promote the movie——"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -64,11 +64,11 @@
       "text": "That said, the Uma Musume were in the middle of their really important \nsummer training camp. The sudden request would be a heavy burden——"
     },
     {
+      "name": "Almond Eye",
+      "text": "Hey, Trainer! Is it okay if I accept?",
       "choice_data_list": [
         "——Yeah! Let's give it a shot!"
-      ],
-      "name": "Almond Eye",
-      "text": "Hey, Trainer! Is it okay if I accept?"
+      ]
     },
     {
       "text": "When she looked at me with those bright eyes, I couldn't stop her—— \nNo, I didn't want to. It only took a moment to decide that."
@@ -78,12 +78,12 @@
       "text": "Haa, haa…… Trainer, the improved menu feels just right! \nBut, you can make it harder you know?"
     },
     {
+      "name": "Almond Eye",
+      "text": "You have that one you were working on late in to the night, \ndon't you? Might as well do all of it, don't you think?",
       "choice_data_list": [
         "You saw that, huh……Okay, let's do it!",
         "You saw that, huh……Okay, let's do it!"
-      ],
-      "name": "Almond Eye",
-      "text": "You have that one you were working on late in to the night, \ndon't you? Might as well do all of it, don't you think?"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -102,24 +102,24 @@
       "text": "Hey, how about trying to sing too? \nIt has a chorus that I want to practice too."
     },
     {
+      "text": "To be honest, it was a little embarrassing for me. I didn't know if \nI could sing a chorus that would match well with Almond Eye, but——",
       "choice_data_list": [
         "I-if it's practice……then I'm in!!"
-      ],
-      "text": "To be honest, it was a little embarrassing for me. I didn't know if \nI could sing a chorus that would match well with Almond Eye, but——"
+      ]
     },
     {
+      "name": "Almond Eye",
+      "text": "That's what I want to hear. Then, let's give it a shot! \n——To that place that seemed so far～♪",
       "choice_data_list": [
         "With a little push on the back"
-      ],
-      "name": "Almond Eye",
-      "text": "That's what I want to hear. Then, let's give it a shot! \n——To that place that seemed so far～♪"
+      ]
     },
     {
+      "name": "Almond Eye",
+      "text": "All of our shared memories～♪",
       "choice_data_list": [
         "Never let the moment slip away"
-      ],
-      "name": "Almond Eye",
-      "text": "All of our shared memories～♪"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -137,12 +137,12 @@
       "text": "Haaaaaaaaa!!"
     },
     {
+      "name": "Almond Eye",
+      "text": "Ah, Trainer! When it comes to hydration, I'm already on top of it. \nWith some cucumber and sports drinks, I'm all good!",
       "choice_data_list": [
         "Good, just watch out for heatstroke",
         "Good, just watch out for heatstroke"
-      ],
-      "name": "Almond Eye",
-      "text": "Ah, Trainer! When it comes to hydration, I'm already on top of it. \nWith some cucumber and sports drinks, I'm all good!"
+      ]
     },
     {
       "text": "It was difficult for Almond Eye to sweat which meant \nher body retained a lot of heat after a workout. We \nneeded to be more careful than most during the summer——"
@@ -152,12 +152,12 @@
       "text": "Don't worry. So far I've been fine! I guess you could call it \nthe pleasant feeling of mild fatigue? It's really fulfilling."
     },
     {
+      "name": "Almond Eye",
+      "text": "Like this, we'll see results from this training camp, without a doubt! \nAnd during the Live, I'll put on the best performance, you'll see!",
       "choice_data_list": [
         "Yeah, just one final push then!!",
         "Yeah, just one final push then!!"
-      ],
-      "name": "Almond Eye",
-      "text": "Like this, we'll see results from this training camp, without a doubt! \nAnd during the Live, I'll put on the best performance, you'll see!"
+      ]
     },
     {
       "text": "It was another busy, but fulfilling day with Almond Eye—— \nI almost wished this would never end."
@@ -193,11 +193,11 @@
       "text": "Don't stop! No, don't stop'til finish!!"
     },
     {
+      "name": "Almond Eye",
+      "text": "Everyone-! Thank you for today! \nBeing able to see everyone's smiling faces, brings me joy!",
       "choice_data_list": [
         "(The crowd cheered and waved their penlights)"
-      ],
-      "name": "Almond Eye",
-      "text": "Everyone-! Thank you for today! \nBeing able to see everyone's smiling faces, brings me joy!"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -208,12 +208,12 @@
       "text": "It was so much fun-!!"
     },
     {
+      "name": "Almond Eye",
+      "text": "Mmmm～! This is the feeling of accomplishment, isn't!?",
       "choice_data_list": [
         "The Live was a huge success!",
         "The Live was a huge success!"
-      ],
-      "name": "Almond Eye",
-      "text": "Mmmm～! This is the feeling of accomplishment, isn't!?"
+      ]
     },
     {
       "name": "Almond Eye",
@@ -224,23 +224,23 @@
       "text": "Normally, you should have told me to focus on training camp—— \nOr rather, you should be stopping me. But you went along with me."
     },
     {
+      "name": "Almond Eye",
+      "text": "Really, this is exactly how my trainer should be!",
       "choice_data_list": [
         "Ahaha! I'm honored."
-      ],
-      "name": "Almond Eye",
-      "text": "Really, this is exactly how my trainer should be!"
+      ]
     },
     {
       "name": "Almond Eye",
       "text": "——Hey, Trainer."
     },
     {
+      "name": "Almond Eye",
+      "text": "Together with you, there are so many more things I want to take on. \nBecause, just like this time, I'm sure they'll all be fun!",
       "choice_data_list": [
         "Right……一With you, I'm ready for anything!",
         "Right……一With you, I'm ready for anything!"
-      ],
-      "name": "Almond Eye",
-      "text": "Together with you, there are so many more things I want to take on. \nBecause, just like this time, I'm sure they'll all be fun!"
+      ]
     },
     {
       "name": "Almond Eye",

@@ -54,11 +54,11 @@
       "text": "Fuuu-!!"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Uoooooooooooo!! My runnin'!! Howzzat?!",
       "choice_data_list": [
         "…!!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Uoooooooooooo!! My runnin'!! Howzzat?!"
+      ]
     },
     {
       "name": "Boy A",
@@ -69,21 +69,21 @@
       "text": "Tama-oneechan, so cool-!!"
     },
     {
+      "text": "Truthfully, her running was very powerful, despite how cheerful \nshe looked… but what drew my attention the most, was that \noverwhelming explosive power. Almost like-",
       "choice_data_list": [
         "Lightning…",
         "Lightning…"
-      ],
-      "text": "Truthfully, her running was very powerful, despite how cheerful \nshe looked… but what drew my attention the most, was that \noverwhelming explosive power. Almost like-"
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "- Whadija say? \nWait, who the heck are you?!"
     },
     {
+      "text": "Maybe it was because I was too excited seeing her \nrun, but I spoke without thinking! Everyone in \nthe area turned their attention to me.",
       "choice_data_list": [
         "I-I'm definitely not a suspicious person…"
-      ],
-      "text": "Maybe it was because I was too excited seeing her \nrun, but I spoke without thinking! Everyone in \nthe area turned their attention to me."
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -122,12 +122,12 @@
       "text": "Finally, the day of the Selection Race had come. \nWhen I looked over at the participating Uma Musume-"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "'sall good… I can win… \nJust hafta get out front… get out front, and get first…!",
       "choice_data_list": [
         "(…is she nervous?)",
         "(…is she nervous?)"
-      ],
-      "name": "Tamamo Cross",
-      "text": "'sall good… I can win… \nJust hafta get out front… get out front, and get first…!"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -212,29 +212,29 @@
       "text": "…looks like her temperment is a bit too much for me."
     },
     {
+      "text": "After Tamamo Cross ran off, nobody chased after her. \nBut for me, her intense drive for victory was deeply striking.",
       "choice_data_list": [
         "(… Let's go after her!)"
-      ],
-      "text": "After Tamamo Cross ran off, nobody chased after her. \nBut for me, her intense drive for victory was deeply striking."
+      ]
     },
     {
+      "name": "Tamamo Cross",
+      "text": "God damnit… god damnit… really, unforgiveable…! \nBein' underestimated… and my own half-assed runnin'…!",
       "choice_data_list": [
         "-Tamamo Cross!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "God damnit… god damnit… really, unforgiveable…! \nBein' underestimated… and my own half-assed runnin'…!"
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "nn?!"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Yer, if I remember… from tha' time at th' park…",
       "choice_data_list": [
         "I want to scout you!",
         "I want to scout you!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Yer, if I remember… from tha' time at th' park…"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -245,11 +245,11 @@
       "text": "…Yer, a rookie trainer ain't ya? Ya got no experience or even \nresults to yer name, how 'bout resolve?"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Believin' in my victory, trainin' me, and winnin' \nG1s! The resolve ta be th' best in Japan! Do \nya really have tha' kinda resolve?!",
       "choice_data_list": [
         "…!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Believin' in my victory, trainin' me, and winnin' \nG1s! The resolve ta be th' best in Japan! Do \nya really have tha' kinda resolve?!"
+      ]
     },
     {
       "text": "There was an intense amount of spirit behind \nthose words. Unconsciously, I was taken aback \nat that pressure, unable to speak."

@@ -20,11 +20,11 @@
       "text": "El Condor Pasa's been increasingly upbeat since arriving here. \nIt's my job to respond to her enthusiasm ——"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "—— Trainer, are you listening!?",
       "choice_data_list": [
         "…… Huh?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "—— Trainer, are you listening!?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -39,23 +39,23 @@
       "text": "You've been focusing on work aaaall camp long and \nhaven't paid El aaany attention!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Nice El</i> only appears three times! If you ignore her again \nshe'll become Angry, Furious, Exploding Volcano El～!",
       "choice_data_list": [
         "Sorry, I'll be attentive next time.",
         "Sorry, I'll be attentive next time."
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Nice El</i> only appears three times! If you ignore her again \nshe'll become Angry, Furious, Exploding Volcano El～!"
+      ]
     },
     {
       "name": "El Condor Pasa",
       "text": "Good! Let me go back to what I was saying then."
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Everything is set! Wear clothing that's easy to move in for \n\"El's Amazing Shocking Training From Hell!\" tonight!",
       "choice_data_list": [
         "Training From Hell?!"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Everything is set! Wear clothing that's easy to move in for \n\"El's Amazing Shocking Training From Hell!\" tonight!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -70,11 +70,11 @@
       "text": "…… You wouldn't go and say that you \n<i>forgot</i>, now would you, Traineeer?"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "It's completely impossible that you'd suddenly tell me \n\"Did you mention this?\", \"I don't remember hearing this\", \nor anything, right the moment before, <i>isn't iiit</i>?",
       "choice_data_list": [
         "<i>Uhhhh……</i>"
-      ],
-      "name": "El Condor Pasa",
-      "text": "It's completely impossible that you'd suddenly tell me \n\"Did you mention this?\", \"I don't remember hearing this\", \nor anything, right the moment before, <i>isn't iiit</i>?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -100,23 +100,23 @@
       "text": "Two pairs of wings glisten in the night sky! \nEndowed with the blessings of the heavens, \nEl Condor Pasa maaakes her entraaance!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Let the training from hell begin! ¡Vamos! \nTrainer, a few words on how you feel right now?!",
       "choice_data_list": [
         "…… I'm ready to go.",
         "…… I'm ready to go."
-      ],
-      "name": "El Condor Pasa",
-      "text": "Let the training from hell begin! ¡Vamos! \nTrainer, a few words on how you feel right now?!"
+      ]
     },
     {
       "name": "El Condor Pasa",
       "text": "¡Guau! You seem to be in high spirits!! \nLet's see how long that laaasts…!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "We. Are. Heeeeeeere!!",
       "choice_data_list": [
         "Isn't this……?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "We. Are. Heeeeeeere!!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -139,12 +139,12 @@
       "text": "So it's time to catch up hard on all the fun you missed out on!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Mmn</i>? I can smell a spicy aroma coming from further in! \nDefinitely tacos! Quick, let's dash over to buy some!",
       "choice_data_list": [
         "Now just a jolly second there!",
         "Now just a jolly second there!"
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Mmn</i>? I can smell a spicy aroma coming from further in! \nDefinitely tacos! Quick, let's dash over to buy some!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -154,12 +154,12 @@
       "text": "From there, El Condor Pasa took me by the hand \nand led me around the various stalls…"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Nmunch</i>, agh, Hrainer. Wand to g<i>nom</i> golfizh sgoobing negxt?",
       "choice_data_list": [
         "Swallow that down first, will ya?",
         "Swallow that down first, will ya?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Nmunch</i>, agh, Hrainer. Wand to g<i>nom</i> golfizh sgoobing negxt?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -170,12 +170,12 @@
       "text": "That's the spirit! Keep it going, let me see that smile! \nRelax when you need to, and put in the effort when required."
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Relax and just be yourself! \nOtherwise future me will have a problem.",
       "choice_data_list": [
         "Future you?",
         "Future you?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Relax and just be yourself! \nOtherwise future me will have a problem."
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -202,24 +202,24 @@
       "text": "Because we'll only become the mightiest together."
     },
     {
+      "name": "El Condor Pasa",
+      "text": "…… You'll keep this promise with me, right?",
       "choice_data_list": [
         "For sure! I promise!",
         "For sure! I promise!"
-      ],
-      "name": "El Condor Pasa",
-      "text": "…… You'll keep this promise with me, right?"
+      ]
     },
     {
       "name": "El Condor Pasa",
       "text": "¡Bueno! A good, strong reply! \nIt was worth bringing you here!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Then it's really getting time to start \nthe \"Festival training from hell\"!",
       "choice_data_list": [
         "It hadn't started yet!?",
         "It hadn't started yet!?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Then it's really getting time to start \nthe \"Festival training from hell\"!"
+      ]
     },
     {
       "name": "El Condor Pasa",

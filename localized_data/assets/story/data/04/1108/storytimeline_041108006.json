@@ -5,18 +5,18 @@
       "text": "I was at the shopping mall running an \nerrand when I noticed a crowd of people."
     },
     {
+      "text": "Looking closer, I saw a sign that mentioned a new product launch. \nApparently there was supposed to be a special guest——",
       "choice_data_list": [
         "Eh!? Duramente!?"
-      ],
-      "text": "Looking closer, I saw a sign that mentioned a new product launch. \nApparently there was supposed to be a special guest——"
+      ]
     },
     {
+      "name": "Duramente",
+      "text": "——Hm? \n……Why are you here?",
       "choice_data_list": [
         "Just shopping……You're the guest?",
         "Just shopping……You're the guest?"
-      ],
-      "name": "Duramente",
-      "text": "——Hm? \n……Why are you here?"
+      ]
     },
     {
       "name": "Duramente",
@@ -43,10 +43,10 @@
       "text": "……Yes. I look forward to working with you today."
     },
     {
+      "text": "She replied dutifully to the expectations of the staff…… \nBut, she still looked a little stiff and nervous.",
       "choice_data_list": [
         "Since I'm here, I'll listen too"
-      ],
-      "text": "She replied dutifully to the expectations of the staff…… \nBut, she still looked a little stiff and nervous."
+      ]
     },
     {
       "name": "Duramente",
@@ -57,12 +57,12 @@
       "text": "With these new high-tech sneakers, Duramente-san's \nfamily was involved throughout the development \nprocess. Can you tell us a bit about that?"
     },
     {
+      "name": "Duramente",
+      "text": "Our focus was on reducing the amount of strain placed on a \nrunner's legs. The design in particular took quite a bit of time.",
       "choice_data_list": [
         "(Still stiff……but a good response)",
         "(Still stiff……but a good response)"
-      ],
-      "name": "Duramente",
-      "text": "Our focus was on reducing the amount of strain placed on a \nrunner's legs. The design in particular took quite a bit of time."
+      ]
     },
     {
       "name": "Host",
@@ -73,11 +73,11 @@
       "text": "By wearing these sneakers on a regular basis and taking care of your \nlegs, this would help your performance on the track, wouldn't it?"
     },
     {
+      "name": "Duramente",
+      "text": "……Yes. \n——……",
       "choice_data_list": [
         "……?"
-      ],
-      "name": "Duramente",
-      "text": "……Yes. \n——……"
+      ]
     },
     {
       "name": "Duramente",
@@ -88,11 +88,11 @@
       "text": "Oooh～!! We'll be looking forward to it then! \nTo Duramente-san's races and, of course, the resulting sales!"
     },
     {
+      "name": "Event Staff",
+      "text": "Thank you for today!",
       "choice_data_list": [
         "Dura, good work! Heading back now?"
-      ],
-      "name": "Event Staff",
-      "text": "Thank you for today!"
+      ]
     },
     {
       "name": "Duramente",
@@ -110,12 +110,12 @@
       "text": "Wah, isn't that Duramente-san……!?"
     },
     {
+      "name": "Gym Trainee B",
+      "text": "The rumors that she uses this gym must be true then…… \nShe's probably here for the new machine isn't she?",
       "choice_data_list": [
         "You really do get noticed a lot",
         "You really do get noticed a lot"
-      ],
-      "name": "Gym Trainee B",
-      "text": "The rumors that she uses this gym must be true then…… \nShe's probably here for the new machine isn't she?"
+      ]
     },
     {
       "name": "Duramente",
@@ -136,18 +136,18 @@
       "text": "Duramente's hands were starting to \nget more and more pale. This is——"
     },
     {
+      "name": "Duramente",
+      "text": "(……Not good. My body is getting stiffer——)",
       "choice_data_list": [
         "How about starting over with stretches?",
         "How about starting over with stretches?"
-      ],
-      "name": "Duramente",
-      "text": "(……Not good. My body is getting stiffer——)"
+      ]
     },
     {
+      "text": "With everyone's attention on her and the weight of their \nexpectations, it wasn't a surprise she was getting nervous.",
       "choice_data_list": [
         "You can try putting in earphones too"
-      ],
-      "text": "With everyone's attention on her and the weight of their \nexpectations, it wasn't a surprise she was getting nervous."
+      ]
     },
     {
       "name": "Duramente",
@@ -166,41 +166,41 @@
       "text": "Hey, let's go see! I want to see the \ndifference in level from a normal Uma Musume!"
     },
     {
+      "name": "Duramente",
+      "text": "——……",
       "choice_data_list": [
         "Stop. Interval"
-      ],
-      "name": "Duramente",
-      "text": "——……"
+      ]
     },
     {
       "name": "Duramente",
       "text": "——Ha. \nFuuーー…………"
     },
     {
+      "name": "Duramente",
+      "text": "——……",
       "choice_data_list": [
         "——3 minutes. Interval over"
-      ],
-      "name": "Duramente",
-      "text": "——……"
+      ]
     },
     {
+      "name": "Duramente",
+      "text": "——……It stopped",
       "choice_data_list": [
         "It stopped……?"
-      ],
-      "name": "Duramente",
-      "text": "——……It stopped"
+      ]
     },
     {
       "name": "Duramente",
       "text": "……Nothing, just thinking out loud. \nLet's do one more set."
     },
     {
+      "name": "Duramente",
+      "text": "Fuuーー…………Haa! Hmph!",
       "choice_data_list": [
         "Looking good! Breathe!",
         "Looking good! Breathe!"
-      ],
-      "name": "Duramente",
-      "text": "Fuuーー…………Haa! Hmph!"
+      ]
     },
     {
       "name": "Duramente",
@@ -211,11 +211,11 @@
       "text": "——Uwah, she's going to keep going!? \nHer power and stamina are just so different……!"
     },
     {
+      "name": "Gym Trainee B",
+      "text": "Duramente really is amazing……!",
       "choice_data_list": [
         "How is it?"
-      ],
-      "name": "Gym Trainee B",
-      "text": "Duramente really is amazing……!"
+      ]
     },
     {
       "name": "Duramente",
@@ -233,10 +233,10 @@
       "text": "I was able to learn a lot about Duramente's daily life so it was \na fruitful day. The gym in particular seemed to be worthwhile."
     },
     {
+      "text": "Tomorrow would be more training. \nI'm more motivated than ever to continue supporting her.",
       "choice_data_list": [
         "Then, I'll see you tomorrow!"
-      ],
-      "text": "Tomorrow would be more training. \nI'm more motivated than ever to continue supporting her."
+      ]
     },
     {
       "name": "Duramente",

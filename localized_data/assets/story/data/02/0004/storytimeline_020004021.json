@@ -16,12 +16,12 @@
       "text": "Gaaah… This's haaard!"
     },
     {
+      "name": "Gold Ship",
+      "text": "Good run, you two! Keep it up! You'll be ready for the next race in no \ntime!",
       "choice_data_list": [
         "You should be running too…",
         "You should be running too…"
-      ],
-      "name": "Gold Ship",
-      "text": "Good run, you two! Keep it up! You'll be ready for the next race in no \ntime!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -60,11 +60,11 @@
       "text": "It's not bad running at first glance, but something isn't quite in sync."
     },
     {
+      "name": "Winning Ticket",
+      "text": "That's Hayahide's little sister, Narita Brian.",
       "choice_data_list": [
         "Hayahide's sister?"
-      ],
-      "name": "Winning Ticket",
-      "text": "That's Hayahide's little sister, Narita Brian."
+      ]
     },
     {
       "name": "Winning Ticket",
@@ -233,11 +233,11 @@
       "text": "If you don't mind me asking, why'd you leave your team? Your trainer \nmust've been proud that you racked up two wins."
     },
     {
+      "name": "Narita Brian",
+      "text": "Because I want to run more.",
       "choice_data_list": [
         "More?"
-      ],
-      "name": "Narita Brian",
-      "text": "Because I want to run more."
+      ]
     },
     {
       "name": "Narita Brian",
@@ -281,18 +281,18 @@
       "text": "What's that supposed to mean?"
     },
     {
+      "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…",
       "choice_data_list": [
         "Would you like to race on my team?",
         "Would you like to race on my team?"
-      ],
-      "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…"
+      ]
     },
     {
+      "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…",
       "choice_data_list": [
         "Would you like to race on my team?",
         "Would you like to race on my team?"
-      ],
-      "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…"
+      ]
     },
     {
       "name": "Narita Brian",

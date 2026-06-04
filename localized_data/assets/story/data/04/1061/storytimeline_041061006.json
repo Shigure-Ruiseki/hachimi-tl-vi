@@ -8,11 +8,11 @@
       "text": "The meeting time was supposed to be at 9 o'clock but―"
     },
     {
+      "name": "King Halo",
+      "text": "Too slow! What time do you think it is!?",
       "choice_data_list": [
         "9:00 o'clock…"
-      ],
-      "name": "King Halo",
-      "text": "Too slow! What time do you think it is!?"
+      ]
     },
     {
       "name": "King Halo",
@@ -23,11 +23,11 @@
       "text": "Good grief, to think they'd put a first-class \nhorse girl like me, at the end of the line."
     },
     {
+      "name": "King Halo",
+      "text": "As punishment, treat me to some tea on the way back. \nHmph, be thankful for King's generous treatment!",
       "choice_data_list": [
         "So unreasonable…!"
-      ],
-      "name": "King Halo",
-      "text": "As punishment, treat me to some tea on the way back. \nHmph, be thankful for King's generous treatment!"
+      ]
     },
     {
       "name": "King Halo",
@@ -37,12 +37,12 @@
       "text": "While being scorned by King Halo, I got in line…"
     },
     {
+      "name": "King Halo",
+      "text": "If there are this many people, it might be \nhard to see the front stage.",
       "choice_data_list": [
         "It's a popular show, huh.",
         "Must be a popular show."
-      ],
-      "name": "King Halo",
-      "text": "If there are this many people, it might be \nhard to see the front stage."
+      ]
     },
     {
       "name": "King Halo",
@@ -71,12 +71,12 @@
       "text": "It should be starting soon but, is the front side moving? \nWe can't see from here."
     },
     {
+      "name": "King Halo",
+      "text": "They don't intend to make us wait as long as \npossible to limit the number of people do they…",
       "choice_data_list": [
         "Should we just give up and go home for the day?",
         "Do you want to give up for the day and go home?"
-      ],
-      "name": "King Halo",
-      "text": "They don't intend to make us wait as long as \npossible to limit the number of people do they…"
+      ]
     },
     {
       "name": "King Halo",
@@ -119,12 +119,12 @@
       "text": "Ha, seems they were an acquaintance of mother's."
     },
     {
+      "name": "King Halo",
+      "text": "My, you look like you want to say something. I dislike \nholding back. If you have something to say, go ahead.",
       "choice_data_list": [
         "Was your mom involved in this show?",
         "Was your mom involved in this show?"
-      ],
-      "name": "King Halo",
-      "text": "My, you look like you want to say something. I dislike \nholding back. If you have something to say, go ahead."
+      ]
     },
     {
       "name": "King Halo",
@@ -155,12 +155,12 @@
       "text": "My birthday was the same. Letting me eat the cake \nshe bought till I was satisfied. While secretly \neating the bad looking cake she failed on."
     },
     {
+      "name": "King Halo",
+      "text": "Stupid, isn't it? \nShe should just say she failed without being stubborn.",
       "choice_data_list": [
         "She's just like you.",
         "She's a lot like you."
-      ],
-      "name": "King Halo",
-      "text": "Stupid, isn't it? \nShe should just say she failed without being stubborn."
+      ]
     },
     {
       "name": "King Halo",
@@ -185,11 +185,11 @@
       "text": "That… was… the best! Did you see UMADA's new work? \nThe changing skirt was so beautiful!!"
     },
     {
+      "name": "King Halo",
+      "text": "But the most pretty one was-",
       "choice_data_list": [
         "Which one?"
-      ],
-      "name": "King Halo",
-      "text": "But the most pretty one was-"
+      ]
     },
     {
       "name": "King Halo",
@@ -204,12 +204,12 @@
       "text": "And then, I'll get a big collection of race clothes! \nNot just one, enough to overflow an entire closet!"
     },
     {
+      "name": "King Halo",
+      "text": "After all, I'm the first-class horse girl King Halo!",
       "choice_data_list": [
         "That's right, le'ts do our best together.",
         "That's right, le'ts do our best together."
-      ],
-      "name": "King Halo",
-      "text": "After all, I'm the first-class horse girl King Halo!"
+      ]
     },
     {
       "name": "King Halo",

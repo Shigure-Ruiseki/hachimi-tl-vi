@@ -84,11 +84,11 @@
       "text": "Huuu……!"
     },
     {
+      "name": "Experienced Trainer A",
+      "text": "Eeeeh, she disappeared!?",
       "choice_data_list": [
         "――！？"
-      ],
-      "name": "Experienced Trainer A",
-      "text": "Eeeeh, she disappeared!?"
+      ]
     },
     {
       "name": "Experienced Trainer B",
@@ -172,19 +172,19 @@
       "text": "Maybe the investigation would escalate further. It was possible \nthey'd end up asking her things she didn't want to answer……"
     },
     {
+      "name": "Neo Universe",
+      "text": "Once again at \"Altair's Boundary\"…… \nWhere should Neo Universe go……?",
       "choice_data_list": [
         "Over here, Neo Universe!",
         "Over here, Neo Universe!"
-      ],
-      "name": "Neo Universe",
-      "text": "Once again at \"Altair's Boundary\"…… \nWhere should Neo Universe go……?"
+      ]
     },
     {
+      "name": "Neo Universe",
+      "text": "――? You're………",
       "choice_data_list": [
         "Hurry!!"
-      ],
-      "name": "Neo Universe",
-      "text": "――? You're………"
+      ]
     },
     {
       "name": "Experienced Trainer A",
@@ -194,12 +194,12 @@
       "text": "In a panic we left that place. \nFor now, I need to take her to a safe place……"
     },
     {
+      "name": "Neo Universe",
+      "text": "Excuse me……why are you assisting me……?",
       "choice_data_list": [
         "Because you're not a bad person!",
         "Because you're not a bad person!"
-      ],
-      "name": "Neo Universe",
-      "text": "Excuse me……why are you assisting me……?"
+      ]
     },
     {
       "text": "I had no idea what she was. Since she's harmless, \nthen obviously I want to help her. That was it."

@@ -9,12 +9,12 @@
       "text": "Let's see, <i>The Complete Guide to Five-star Italian Cuisine</i>… \n<i>China's Intense Gastronomy: A Three Round Showdown…</i> \nHmm, this isn't quite what I'm after…"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Oh! <i>Culinary Guide to Invigorating Home Cooking</i>. \nYeah, I'll check this one out today…",
       "choice_data_list": [
         "What are you up to?",
         "What are you up to?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "Oh! <i>Culinary Guide to Invigorating Home Cooking</i>. \nYeah, I'll check this one out today…"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -36,31 +36,31 @@
       "text": "So, what're ya waiting for, Big T! \nLet's be off to find the ingredients we need for this!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Right, hold the basket for me so I can chuck stuff in, will ya? \nLet's see, first off I'll need a pumpkin, and then fish sauce. \n<i>Hoh</i>, it'll be my first time using this.",
       "choice_data_list": [
         "You're pretty at home here, huh.",
         "You're pretty at home here, huh."
-      ],
-      "name": "Hishi Amazon",
-      "text": "Right, hold the basket for me so I can chuck stuff in, will ya? \nLet's see, first off I'll need a pumpkin, and then fish sauce. \n<i>Hoh</i>, it'll be my first time using this."
+      ]
     },
     {
+      "name": "Hishi Amazon",
+      "text": "You bet! I'm cooking every day after all. Whenever I try a new \nrecipe for something revitalizing, I get the kids to try it out. \nSeeing them wolf it down is its own reward.",
       "choice_data_list": [
         "You like doing it?",
         "You like doing it?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "You bet! I'm cooking every day after all. Whenever I try a new \nrecipe for something revitalizing, I get the kids to try it out. \nSeeing them wolf it down is its own reward."
+      ]
     },
     {
       "name": "Hishi Amazon",
       "text": "Like it? Sure, you could say that, but more than \nthe cooking, what I like is……"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Hang on, T, you're rather digging into this. \nDon't tell me you cook yourself as well?",
       "choice_data_list": [
         "I like to think I'm pretty decent, at least…"
-      ],
-      "name": "Hishi Amazon",
-      "text": "Hang on, T, you're rather digging into this. \nDon't tell me you cook yourself as well?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -75,23 +75,23 @@
       "text": "Darn, and I unknowingly showed you my hand! <i>Gaaaah!</i>"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "But… no matter. Even with my cards revealed, I'll be the one \ncoming out on top! That's the Amazon way!",
       "choice_data_list": [
         "You've lost me now…",
         "You've lost me now…"
-      ],
-      "name": "Hishi Amazon",
-      "text": "But… no matter. Even with my cards revealed, I'll be the one \ncoming out on top! That's the Amazon way!"
+      ]
     },
     {
       "name": "Hishi Amazon",
       "text": "It's obvious, isn't it? We're both good at cooking, and that can \nmean only one thing! A showdown!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Since we're both walking the culinary path, we gotta \nsettle this between us, don't you agree?",
       "choice_data_list": [
         "I don't think I share your enthusiasm…"
-      ],
-      "name": "Hishi Amazon",
-      "text": "Since we're both walking the culinary path, we gotta \nsettle this between us, don't you agree?"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -130,12 +130,12 @@
       "text": "Getting back on track then, it's a master and apprentice style \nrivalry, a feast for us all to enjoy! The showdown starts now!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Woooooh, here we go, Big T! Stir, stir, stir, and on you go, \nto simmer nice and slow! Bubble, bubble, bubble!",
       "choice_data_list": [
         "Are you gonna do this for every step…?",
         "Are you gonna do this for every step…?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "Woooooh, here we go, Big T! Stir, stir, stir, and on you go, \nto simmer nice and slow! Bubble, bubble, bubble!"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -201,11 +201,11 @@
       "text": "Ohh, looks like you picked up on the secret of my cooking!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "You have a bite too, T. I guarantee it'll hit home for you too.",
       "choice_data_list": [
         "Sure thing, thanks."
-      ],
-      "name": "Hishi Amazon",
-      "text": "You have a bite too, T. I guarantee it'll hit home for you too."
+      ]
     },
     {
       "text": "I put a piece of pumpkin in my mouth. A delicious and gentle \nflavor slowly spread through my body……"
@@ -246,12 +246,12 @@
       "text": "Ugh, I can't believe you're falling for such an obvious scheme. \nWhy don't you just go post food pics on Umasta or something!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "But now what, Big T～ How are we supposed to settle \nour big battle if it ends in a draw like this…!",
       "choice_data_list": [
         "We'll have a rematch someday!",
         "We'll have a rematch someday!"
-      ],
-      "name": "Hishi Amazon",
-      "text": "But now what, Big T～ How are we supposed to settle \nour big battle if it ends in a draw like this…!"
+      ]
     },
     {
       "name": "Hishi Amazon",

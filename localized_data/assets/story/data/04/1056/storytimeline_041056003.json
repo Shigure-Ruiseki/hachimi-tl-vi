@@ -12,12 +12,12 @@
       "text": "School had ended for the day when a distressed \nMatikanefukukitaru burst into the room."
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Daaaah～～</i> Trainer… \nWhat… What am I to dooooo～!?",
       "choice_data_list": [
         "What's wrong?",
         "What's wrong?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "<i>Daaaah～～</i> Trainer… \nWhat… What am I to dooooo～!?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -65,11 +65,11 @@
       "text": "<i>Nnnyininininiiiii～～～!</i> Finiiished～!"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Haah… haah…</i> You need not bother telling me. \nI know the time was as dreadful as my running.",
       "choice_data_list": [
         "Let's call it a day here then."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "<i>Haah… haah…</i> You need not bother telling me. \nI know the time was as dreadful as my running."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -80,11 +80,11 @@
       "text": "<i>Hueeh…</i> It's true what they say, fate is already set in stone……"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "I knew it all along… that I really don't have the ability \nto find happiness in the Twinkle Series.",
       "choice_data_list": [
         "What do you mean?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "I knew it all along… that I really don't have the ability \nto find happiness in the Twinkle Series."
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -129,10 +129,10 @@
       "text": "I don't know what to make of this Shiraoki entity, but the reality \nis that Matikanefukukitaru wants to run, and fortune-telling has \nalways supported her in that."
     },
     {
+      "text": "Those mysterious forces are irreplaceable to her, and it's \nundeniable that she has made it this far through them. \nGiven that, there's only one thing for me to do ——",
       "choice_data_list": [
         "On second thought, let's continue training!"
-      ],
-      "text": "Those mysterious forces are irreplaceable to her, and it's \nundeniable that she has made it this far through them. \nGiven that, there's only one thing for me to do ——"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -146,12 +146,12 @@
       "text": "<i>Bheeh… ghehh…</i> It really is of no use. \nMy body feels so heavy……"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Divination doesn't lie… my lot's exactly as terrible as predicted…",
       "choice_data_list": [
         "<size=38>How much do you really trust in divination?</size>",
         "<size=38>How much do you really trust in divination?</size>"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Divination doesn't lie… my lot's exactly as terrible as predicted…"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -162,23 +162,23 @@
       "text": "Nothing has shown me the way forward like divination has! \nIt would be no mistake to call it the essence of my life!"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "As such, it is not really even a matter of trust. \nDivination is my reality!",
       "choice_data_list": [
         "<size=32>Then your <i>predestined one</i> here is part of this reality?</size>"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "As such, it is not really even a matter of trust. \nDivination is my reality!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
       "text": "With all course in the world! You are one of my most fateful \nencounters, holding the power to change my future!"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "The whole reason why I have persevered so long, \naiming to show you my power at the Selection Race!",
       "choice_data_list": [
         "<size=34>Then forget about results, and let me see you run.</size>",
         "<size=34>Then forget about results, and let me see you run.</size>"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "The whole reason why I have persevered so long, \naiming to show you my power at the Selection Race!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",

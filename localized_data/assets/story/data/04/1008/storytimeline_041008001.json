@@ -36,11 +36,11 @@
       "text": "Yeah, let's get started. Then let's start with a \n2,000 meter jog――"
     },
     {
+      "text": "It seemed that Vodka, who was also a runner in \nthe Selection Race, had boycotted her training.",
       "choice_data_list": [
         "She didn't seem that lazy…",
         "She didn't seem that lazy…"
-      ],
-      "text": "It seemed that Vodka, who was also a runner in \nthe Selection Race, had boycotted her training."
+      ]
     },
     {
       "text": "I'm a little worried, so I decide to follow her."
@@ -54,12 +54,12 @@
       "text": "I can't do something like that!"
     },
     {
+      "name": "Vodka",
+      "text": "I'll do it my way…!!",
       "choice_data_list": [
         "You train alone?",
         "You train alone?"
-      ],
-      "name": "Vodka",
-      "text": "I'll do it my way…!!"
+      ]
     },
     {
       "name": "Vodka",
@@ -92,12 +92,12 @@
       "text": "Even though she was putting too much \nstrain on herself, and there were some \nflaws in her training, vodka was doing \nher best to train on her own."
     },
     {
+      "name": "Vodka",
+      "text": "Hmm… You're still here? Are you free?",
       "choice_data_list": [
         "So you weren't skipping class.",
         "So you weren't going to slack off."
-      ],
-      "name": "Vodka",
-      "text": "Hmm… You're still here? Are you free?"
+      ]
     },
     {
       "name": "Vodka",
@@ -116,30 +116,30 @@
       "text": "That's the same as sinking into a group in a \nrace. You can't do anything, and you lose."
     },
     {
+      "name": "Vodka",
+      "text": "I won't do that!! I'll train harder than anyone \nelse, and become faster than anyone!!",
       "choice_data_list": [
         "So you're working on your own menu?",
         "So I'm setting up my own menu."
-      ],
-      "name": "Vodka",
-      "text": "I won't do that!! I'll train harder than anyone \nelse, and become faster than anyone!!"
+      ]
     },
     {
+      "name": "Vodka",
+      "text": "That's right. Sorry?",
       "choice_data_list": [
         "No…",
         "No…"
-      ],
-      "name": "Vodka",
-      "text": "That's right. Sorry?"
+      ]
     },
     {
       "text": "She couldn't give me the boycott, and \nthe menu wasn't good, but I could tell \nfrom Vodka's actions and words that \nshe had her own convictions."
     },
     {
+      "name": "Vodka",
+      "text": "H-Hey? Why are you staring at me like that?",
       "choice_data_list": [
         "I thought you were pretty cool."
-      ],
-      "name": "Vodka",
-      "text": "H-Hey? Why are you staring at me like that?"
+      ]
     },
     {
       "name": "Vodka",
@@ -150,23 +150,23 @@
       "text": "………A-Ahem! Ahh, what did you say? I couldn't \nhear you very well."
     },
     {
+      "name": "Vodka",
+      "text": "What did you say? Come on, say it again!!",
       "choice_data_list": [
         "What a cool girl…?",
         "Cool girl…?"
-      ],
-      "name": "Vodka",
-      "text": "What did you say? Come on, say it again!!"
+      ]
     },
     {
       "name": "Vodka",
       "text": "Hey, don't put question marks \non me! Make it clear!"
     },
     {
+      "name": "Vodka",
+      "text": "What did I say?!",
       "choice_data_list": [
         "Cool!!"
-      ],
-      "name": "Vodka",
-      "text": "What did I say?!"
+      ]
     },
     {
       "name": "Vodka",
@@ -223,30 +223,30 @@
       "text": "Sorry, but that's not what I meant."
     },
     {
+      "text": "Vodka, who had shown off a splendid run, seemed \nto have many hands to pull, but it didn't seem \nlike she was satisfied with any of the scouts.",
       "choice_data_list": [
         "(If I remember correctly, the \nwords she wanted were…)"
-      ],
-      "text": "Vodka, who had shown off a splendid run, seemed \nto have many hands to pull, but it didn't seem \nlike she was satisfied with any of the scouts."
+      ]
     },
     {
+      "name": "Vodka",
+      "text": "Oh! You're the trainer from the other day! \nHeheh, how's my run?!",
       "choice_data_list": [
         "That was cool, vodka!",
         "That was cool, vodka!"
-      ],
-      "name": "Vodka",
-      "text": "Oh! You're the trainer from the other day! \nHeheh, how's my run?!"
+      ]
     },
     {
       "name": "Vodka",
       "text": "Seriously?! Shit…!!"
     },
     {
+      "name": "Vodka",
+      "text": "…Hey, you're not in charge yet, are you? I guess \nI'll just have to be your partner.",
       "choice_data_list": [
         "I'd love to!",
         "Please do!"
-      ],
-      "name": "Vodka",
-      "text": "…Hey, you're not in charge yet, are you? I guess \nI'll just have to be your partner."
+      ]
     },
     {
       "name": "Vodka",

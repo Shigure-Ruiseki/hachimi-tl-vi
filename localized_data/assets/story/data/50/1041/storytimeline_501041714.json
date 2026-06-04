@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Sakura Bakushin O",
+      "text": "Haaa-ha-ha-ha! I've done it again in \nspectacular style!",
       "choice_data_list": [
         "……It hurts, doesn't it?",
         "……It hurts, doesn't it?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Haaa-ha-ha-ha! I've done it again in \nspectacular style!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -22,29 +22,29 @@
       "text": "I think I'll be able to Bakushin even more!?"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "This crisis is, in fact, an opportunity! \nMy chance to grow as class president has \narrived!",
       "choice_data_list": [
         "As class president, you should rest!",
         "……Want to take a bet on that chance?",
         "……Want to take a bet on that chance?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "This crisis is, in fact, an opportunity! \nMy chance to grow as class president has \narrived!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "This crisis is, in fact, an opportunity! \nMy chance to grow as class president has \narrived!",
       "choice_data_list": [
         "As class president, you should rest!",
         "……Want to take a bet on that chance?",
         "……Want to take a bet on that chance?"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "This crisis is, in fact, an opportunity! \nMy chance to grow as class president has \narrived!"
+      ]
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Eh!? ……Wh, what do you mean!?",
       "choice_data_list": [
         "Everyone's going to be worried about you."
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Eh!? ……Wh, what do you mean!?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -55,11 +55,11 @@
       "text": "――!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "U… uuugh… I, it hurts…",
       "choice_data_list": [
         "I knew the pain of the injury was…!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "U… uuugh… I, it hurts…"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -85,11 +85,11 @@
       "text": "Stoooooop!! \nNo bet, no bet! No betting-on-it now!!"
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "That was a close call! I was about to do \nsomething bad, betting on something!",
       "choice_data_list": [
         "No, it's a figure of speech…"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "That was a close call! I was about to do \nsomething bad, betting on something!"
+      ]
     },
     {
       "name": "Sakura Bakushin O",
@@ -118,11 +118,11 @@
       "text": "She said she'd start with some stretches to \nsee how her body felt."
     },
     {
+      "name": "Sakura Bakushin O",
+      "text": "Hooooow's that! This supple movement! \nIt's more polished than before, isn't it?",
       "choice_data_list": [
         "Amazing!"
-      ],
-      "name": "Sakura Bakushin O",
-      "text": "Hooooow's that! This supple movement! \nIt's more polished than before, isn't it?"
+      ]
     },
     {
       "name": "Sakura Bakushin O",

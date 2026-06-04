@@ -32,23 +32,23 @@
       "text": "Now, please listen; \"Happy New Year \n～From frigid winter into a new spring～\""
     },
     {
+      "name": "Gold Ship",
+      "text": "… Thanks so much for listening",
       "choice_data_list": [
         "Uhh, sure… By the way—",
         "Y-yeah… By the way—"
-      ],
-      "name": "Gold Ship",
-      "text": "… Thanks so much for listening"
+      ]
     },
     {
       "name": "Gold Ship",
       "text": "… Hmm? What is it? \nYou got something to tell me too?"
     },
     {
+      "name": "Gold Ship",
+      "text": "No prob. Come out with it. \nSend that fiery pathos straight at me!",
       "choice_data_list": [
         "Let's get some results in the Classics this year!"
-      ],
-      "name": "Gold Ship",
-      "text": "No prob. Come out with it. \nSend that fiery pathos straight at me!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -59,23 +59,23 @@
       "text": "I was planning on showing off my \nmad guitar skills this year―"
     },
     {
+      "name": "Gold Ship",
+      "text": "But in this day and age, violin \nmight be not be a bad choice either.",
       "choice_data_list": [
         "…… <i>Hmm</i>?"
-      ],
-      "name": "Gold Ship",
-      "text": "But in this day and age, violin \nmight be not be a bad choice either."
+      ]
     },
     {
       "name": "Gold Ship",
       "text": "Sounds cool! Tell me more! \nHow do you want me to play? Huh!?"
     },
     {
+      "text": "I don't think we're on the \nsame page here, but anyway―",
       "choice_data_list": [
         "You should build the strength for long events!",
         "We'll figure it out together later.",
         "Let's do a dome tour!"
-      ],
-      "text": "I don't think we're on the \nsame page here, but anyway―"
+      ]
     },
     {
       "name": "Gold Ship",

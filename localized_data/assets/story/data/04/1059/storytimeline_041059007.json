@@ -20,11 +20,11 @@
       "text": "Since there was going to be a festival tonight, \neveryone seemed a little more excited than usual during training."
     },
     {
+      "name": "Mejiro Dober",
+      "text": "……you've been looking at me for a while now, \nis something wrong? Do I have sand on my face?",
       "choice_data_list": [
         "No……you just seem like your normal self"
-      ],
-      "name": "Mejiro Dober",
-      "text": "……you've been looking at me for a while now, \nis something wrong? Do I have sand on my face?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -41,23 +41,23 @@
       "text": "A couple hours after training had finished. The \ndorms were unusually quiet. Most of the students \nmust have headed out to the summer festival."
     },
     {
+      "name": "Mejiro Dober",
+      "text": "Oh, Trainer? So you stayed behind, huh.",
       "choice_data_list": [
         "You're not going to the festival?",
         "You're not going to the festival?"
-      ],
-      "name": "Mejiro Dober",
-      "text": "Oh, Trainer? So you stayed behind, huh."
+      ]
     },
     {
       "name": "Mejiro Dober",
       "text": "I have something I need to take care of. \nAnd when there's nobody around, it's easier to focus."
     },
     {
+      "name": "Mejiro Dober",
+      "text": "…………Hey, Trainer. Can you draw backgrounds?",
       "choice_data_list": [
         "Backgrounds?"
-      ],
-      "name": "Mejiro Dober",
-      "text": "…………Hey, Trainer. Can you draw backgrounds?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -84,10 +84,10 @@
       "text": "And, I was able to draw the characters but…… there's just an \nendless number of backgrounds. Even doing just one, takes a \nreally long time, you see……"
     },
     {
+      "text": "That makes sense, the movie took place on an uninhabited island \nso there were various backgrounds. Beaches, a forest, and an \nabandoned villa, etc.――",
       "choice_data_list": [
         "……How about using photos?"
-      ],
-      "text": "That makes sense, the movie took place on an uninhabited island \nso there were various backgrounds. Beaches, a forest, and an \nabandoned villa, etc.――"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -116,11 +116,11 @@
       "text": "I could get the photos I took printed out larger, \nand if I attached them to a large paper……it \nwould definitely be like a storybook!"
     },
     {
+      "name": "Mejiro Dober",
+      "text": "Then I just need to cut out the characters, then take pictures on \nthe beach―― I wonder if I can finish before everyone comes back!?",
       "choice_data_list": [
         "I'll help you!"
-      ],
-      "name": "Mejiro Dober",
-      "text": "Then I just need to cut out the characters, then take pictures on \nthe beach―― I wonder if I can finish before everyone comes back!?"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -192,11 +192,11 @@
       "text": "Fireworks……!"
     },
     {
+      "name": "Mejiro Dober",
+      "text": "The festival……is probably over by now……",
       "choice_data_list": [
         "Do you want to head over now?"
-      ],
-      "name": "Mejiro Dober",
-      "text": "The festival……is probably over by now……"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -215,12 +215,12 @@
       "text": "Ah…… cotton candy. Ryan, I found cotton candy. \nSee, over there. C'mon, let's eat some cotton candy, okay?"
     },
     {
+      "name": "Mejiro Dober",
+      "text": "I'd get Ryan to hold my hand. Saying I want to do that, I want to \neat that, and I'd end up dragging her around like that……",
       "choice_data_list": [
         "You're really close, huh?",
         "You're really close, huh?"
-      ],
-      "name": "Mejiro Dober",
-      "text": "I'd get Ryan to hold my hand. Saying I want to do that, I want to \neat that, and I'd end up dragging her around like that……"
+      ]
     },
     {
       "name": "Mejiro Dober",
@@ -247,27 +247,27 @@
       "text": "And when I meet them…… I don't really \nknow how to interact with them."
     },
     {
+      "name": "Mejiro Dober",
+      "text": "But just recently, when I happened to be drawing 『Veggie Carolyn』, \nthey started begging me to draw more.",
       "choice_data_list": [
         "So that's why you were practicing",
         "So that's why you were practicing"
-      ],
-      "name": "Mejiro Dober",
-      "text": "But just recently, when I happened to be drawing 『Veggie Carolyn』, \nthey started begging me to draw more."
+      ]
     },
     {
+      "name": "Mejiro Dober",
+      "text": "Yeah. I can kind of draw…… so I wondered if I \ncould draw anything for them…… and here we are.",
       "choice_data_list": [
         "So you thought of a storybook",
         "So you thought of a storybook"
-      ],
-      "name": "Mejiro Dober",
-      "text": "Yeah. I can kind of draw…… so I wondered if I \ncould draw anything for them…… and here we are."
+      ]
     },
     {
+      "name": "Mejiro Dober",
+      "text": "Palmer always had a storybook with her. Fufu…… \neven now it feels like I'm always relying on my older sisters.",
       "choice_data_list": [
         "You look like an older sister now"
-      ],
-      "name": "Mejiro Dober",
-      "text": "Palmer always had a storybook with her. Fufu…… \neven now it feels like I'm always relying on my older sisters."
+      ]
     },
     {
       "name": "Mejiro Dober",

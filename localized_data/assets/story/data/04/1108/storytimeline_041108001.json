@@ -10,16 +10,16 @@
       "text": "……\"The Strongest\""
     },
     {
+      "text": "While gazing up at the morning sky, I stretched. \nIt was just after 5AM.",
       "choice_data_list": [
         "(I woke up way too early……)"
-      ],
-      "text": "While gazing up at the morning sky, I stretched. \nIt was just after 5AM."
+      ]
     },
     {
+      "text": "There weren't many girls practicing this early. \nOn the course were just 2 people——……",
       "choice_data_list": [
         "……! That's——"
-      ],
-      "text": "There weren't many girls practicing this early. \nOn the course were just 2 people——……"
+      ]
     },
     {
       "text": "——That figure, I recognized it. I know who she is. \nAt Tracen Academy, that Uma Musume was all too famous."
@@ -29,11 +29,11 @@
       "text": "Thanks for tagging along with my training. \nI know you must already be busy……——"
     },
     {
+      "name": "Previous Generation Trainee",
+      "text": "Duramente.",
       "choice_data_list": [
         "(That's right, her name is——\"Duramente\")"
-      ],
-      "name": "Previous Generation Trainee",
-      "text": "Duramente."
+      ]
     },
     {
       "text": "Ever since she transferred in, she had stood out. \n……There always seemed to be some kind of commotion around her."
@@ -59,45 +59,45 @@
       "text": "Right, that girl is——……the \"Culmination of that Blood\"."
     },
     {
+      "text": "The result of a bloodline that sought \"excellence\" \nas athletes, coalescing in this generation.",
       "choice_data_list": [
         "(That is——\"Duramente\")"
-      ],
-      "text": "The result of a bloodline that sought \"excellence\" \nas athletes, coalescing in this generation."
+      ]
     },
     {
       "name": "Duramente",
       "text": "……The distance is 3 furlongs, 600m of parallel running. \nIs that correct?"
     },
     {
+      "name": "Previous Generation Trainee",
+      "text": "Yes. At full strength, please. \nMy preparations are complete. ……My resolve too.",
       "choice_data_list": [
         "(……! They're going to run now!?)",
         "(……! They're going to run now!?)"
-      ],
-      "name": "Previous Generation Trainee",
-      "text": "Yes. At full strength, please. \nMy preparations are complete. ……My resolve too."
+      ]
     },
     {
+      "text": "I ran quickly down the stairs. Since I had a chance \nto watch it, I wanted to see it from as close as I \ncould. She would be running right before my eyes——!",
       "choice_data_list": [
         "(Shoot, they already started——!!)"
-      ],
-      "text": "I ran quickly down the stairs. Since I had a chance \nto watch it, I wanted to see it from as close as I \ncould. She would be running right before my eyes——!"
+      ]
     },
     {
       "name": "Both",
       "text": "Haa……Haa……Haa! \nHaa……Haa……Hmmph!"
     },
     {
+      "name": "Duramente",
+      "text": "Aaaaaaaaaah!!",
       "choice_data_list": [
         "(So fast……!)"
-      ],
-      "name": "Duramente",
-      "text": "Aaaaaaaaaah!!"
+      ]
     },
     {
+      "text": "Without a doubt, 10 out of 10 people would be \nfascinated by that run. Because that was completely——",
       "choice_data_list": [
         "(『Overwhelming』……!)"
-      ],
-      "text": "Without a doubt, 10 out of 10 people would be \nfascinated by that run. Because that was completely——"
+      ]
     },
     {
       "name": "Previous Generation Trainee",
@@ -124,38 +124,38 @@
       "text": "…………Huuuー……。 \n………………………………"
     },
     {
+      "text": "Just like that, Dura squatted down. \nAnd then she started rubbing her ankles——",
       "choice_data_list": [
         "(!? Did she get hurt……!?)"
-      ],
-      "text": "Just like that, Dura squatted down. \nAnd then she started rubbing her ankles——"
+      ]
     },
     {
+      "text": "There was another reason I started running toward her. \nIf I missed this chance, I might not get to talk to her again.",
       "choice_data_list": [
         "Excuse me! Duramente!"
-      ],
-      "text": "There was another reason I started running toward her. \nIf I missed this chance, I might not get to talk to her again."
+      ]
     },
     {
       "name": "Duramente",
       "text": "……You are?"
     },
     {
+      "text": "She looked at me with suspicion so I hastily explained myself. \n……Of course, starting with my reason for approaching.",
       "choice_data_list": [
         "Did you injure yourself……?",
         "Did you injure yourself……?"
-      ],
-      "text": "She looked at me with suspicion so I hastily explained myself. \n……Of course, starting with my reason for approaching."
+      ]
     },
     {
       "name": "Duramente",
       "text": "……? It needs some taping and flexing, but my legs don't hurt. \nFurther, I wouldn't do something that reckless at this point in time."
     },
     {
+      "name": "Duramente",
+      "text": "This is just preventative.",
       "choice_data_list": [
         "……Preventative?"
-      ],
-      "name": "Duramente",
-      "text": "This is just preventative."
+      ]
     },
     {
       "name": "Duramente",
@@ -168,55 +168,55 @@
       "text": "For speed, the angle of your ankles when contacting the ground \nis important. And the less flex that occurs in your ankle, \nthe more force that gets converted to forward motion."
     },
     {
+      "text": "In other words, the stronger your ankles, the faster \nyou can go. This also means your feet are in contact \nless with the ground, which positively impacts speed.",
       "choice_data_list": [
         "(It requires more care though……)"
-      ],
-      "text": "In other words, the stronger your ankles, the faster \nyou can go. This also means your feet are in contact \nless with the ground, which positively impacts speed."
+      ]
     },
     {
       "name": "Duramente",
       "text": "…………"
     },
     {
+      "name": "Duramente",
+      "text": "Is there something else?",
       "choice_data_list": [
         "Ah……!! No, well……"
-      ],
-      "name": "Duramente",
-      "text": "Is there something else?"
+      ]
     },
     {
       "text": "I could feel my cheeks heating up. She seemed completely unfazed by \nme. But, if this kept up, I might never get to talk to her again——"
     },
     {
+      "name": "Duramente",
+      "text": "…………Well then.",
       "choice_data_list": [
         "H-honestly, I'm interested in you!!",
         "H-honestly, I'm interested in you!!"
-      ],
-      "name": "Duramente",
-      "text": "…………Well then."
+      ]
     },
     {
       "name": "Duramente",
       "text": "…………"
     },
     {
+      "name": "Duramente",
+      "text": "I apologize, but right now I'm rejecting all scouting offers.",
       "choice_data_list": [
         "I-is that so……?",
         "I-is that so……?"
-      ],
-      "name": "Duramente",
-      "text": "I apologize, but right now I'm rejecting all scouting offers."
+      ]
     },
     {
       "name": "Duramente",
       "text": "……There will be a Selection Race soon. A place where Uma Musume \naiming to start their careers can show their abilities to trainers."
     },
     {
+      "name": "Duramente",
+      "text": "Starting with the Selection Race, I will prove myself.",
       "choice_data_list": [
         "Prove……?"
-      ],
-      "name": "Duramente",
-      "text": "Starting with the Selection Race, I will prove myself."
+      ]
     },
     {
       "name": "Duramente",
@@ -227,11 +227,11 @@
       "text": "Just like my father, and grandfather. They sought to \nbe the strongest, as if to change history. I will be \nthe one to change the history of the racing world."
     },
     {
+      "name": "Duramente",
+      "text": "I will rewrite everything. Records, impressions, \nand emotions. To show that I am \"The Strongest\".",
       "choice_data_list": [
         "……!"
-      ],
-      "name": "Duramente",
-      "text": "I will rewrite everything. Records, impressions, \nand emotions. To show that I am \"The Strongest\"."
+      ]
     },
     {
       "text": "She would \"overwrite\" it all. Without even knowing how that would \ntake shape, I could already see her defeating a top Uma Musume."

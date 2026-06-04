@@ -12,18 +12,18 @@
       "text": "― Since arriving at the shrine, Gold Ship \nhas been angry about something!"
     },
     {
+      "name": "Gold Ship",
+      "text": "What happened in a measly year……!? \nWhy did things turn out like this!?",
       "choice_data_list": [
         "What are you on about?"
-      ],
-      "name": "Gold Ship",
-      "text": "What happened in a measly year……!? \nWhy did things turn out like this!?"
+      ]
     },
     {
+      "name": "Gold Ship",
+      "text": "Can't you tell!!? \nI'm talking about yakisoba!!",
       "choice_data_list": [
         "Yakisoba…?"
-      ],
-      "name": "Gold Ship",
-      "text": "Can't you tell!!? \nI'm talking about yakisoba!!"
+      ]
     },
     {
       "name": "Gold Ship",
@@ -34,11 +34,11 @@
       "text": "And yet…… this year, \nI can't find it anywhere!!"
     },
     {
+      "name": "Gold Ship",
+      "text": "Why for? Are you telling me the yakisoba \ndid something wrong?! Did they…?!",
       "choice_data_list": [
         "W-who knows…"
-      ],
-      "name": "Gold Ship",
-      "text": "Why for? Are you telling me the yakisoba \ndid something wrong?! Did they…?!"
+      ]
     },
     {
       "text": "… I have no clue what's up with \nthe stall. Though I think they \nsometimes just don't have one."
@@ -68,12 +68,12 @@
       "text": "You're gonna help me, of course!? \nWith that said, where do you think \nwe should start?"
     },
     {
+      "text": "I don't know what answer she's expecting \nbut for the moment…",
       "choice_data_list": [
         "Have some to put the taste fresh in our minds.",
         "Learn how to prepare it.",
         "Come up with novel combinations."
-      ],
-      "text": "I don't know what answer she's expecting \nbut for the moment…"
+      ]
     },
     {
       "name": "Gold Ship",

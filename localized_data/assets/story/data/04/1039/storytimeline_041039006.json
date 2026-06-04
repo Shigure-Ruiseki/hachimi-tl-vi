@@ -12,12 +12,12 @@
       "text": "—Just then, I heard a tremendous sigh, like an avalanche, from \nKawakami Princess."
     },
     {
+      "name": "Kawakami Princess",
+      "text": "……Oh, my! ? Trainer!? What are you doing here?",
       "choice_data_list": [
         "……looks like you're pretty bummed out.",
         "……sounds like you're pretty bummed out."
-      ],
-      "name": "Kawakami Princess",
-      "text": "……Oh, my! ? Trainer!? What are you doing here?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -32,18 +32,18 @@
       "text": "I can't believe I lost to someone like that～ ! It's a bad \nending! It's a depressing ending! I've been downgraded from \nprincess to scallop pimp～!"
     },
     {
+      "text": "Kawakami Princess seemed to be in a bigger \nshock than I expected. If that's the case - we \nmight as well go to \"that place\" right now.",
       "choice_data_list": [
         "I have a place I'd like to take you to……"
-      ],
-      "text": "Kawakami Princess seemed to be in a bigger \nshock than I expected. If that's the case - we \nmight as well go to \"that place\" right now."
+      ]
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Huh? To where?",
       "choice_data_list": [
         "You'll find out when we get there",
         "You'll find out when we get there"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Huh? To where?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -58,19 +58,19 @@
       "text": "T… Trainer……! This panel ……! Isn't \nthis the uncut PriFi theater version!?"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "How come ……! ? The movie was released years ago?",
       "choice_data_list": [
         "Found a cinema that's showing it again.",
         "Found a cinema that's showing it again."
-      ],
-      "name": "Kawakami Princess",
-      "text": "How come ……! ? The movie was released years ago?"
+      ]
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Does that mean…… We can watch Pri-Fi right now? \nOn a big screen?",
       "choice_data_list": [
         "Of course!"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Does that mean…… We can watch Pri-Fi right now? \nOn a big screen?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -84,11 +84,11 @@
       "text": "…… Apparently, her mood is up again!"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Mmmm……! I'm filled with emotions～……!",
       "choice_data_list": [
         "I'm glad you're happy."
-      ],
-      "name": "Kawakami Princess",
-      "text": "Mmmm……! I'm filled with emotions～……!"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -107,12 +107,12 @@
       "text": "Ha～ that was really fun…… really……"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "…………",
       "choice_data_list": [
         "What's up?",
         "What's wrong?"
-      ],
-      "name": "Kawakami Princess",
-      "text": "…………"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -123,19 +123,19 @@
       "text": "And yet, I was easily defeated by someone like Dark Princess……"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "This doesn't qualify me as a princess.…… I'll end up becoming \nan average person in the streets at this point……",
       "choice_data_list": [
         "……There's a scene I'd like to remind you of.",
         "……There's a scene I'd like to remind you of."
-      ],
-      "name": "Kawakami Princess",
-      "text": "This doesn't qualify me as a princess.…… I'll end up becoming \nan average person in the streets at this point……"
+      ]
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Huh? Which scene are you talking about……?",
       "choice_data_list": [
         "Scene just before the climax"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Huh? Which scene are you talking about……?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -197,12 +197,12 @@
       "text": "You and I have the power of our invincible \"bond\"! Please \nbelieve in me and wait for me here～!"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Ah～～～～?",
       "choice_data_list": [
         "Hey, are you okay?",
         "Hey, you're okay!"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Ah～～～～?"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -213,12 +213,12 @@
       "text": "I've seen the Pri-Fi movie version dozens and dozens of times, \nand yet ……! I can't believe I forgot about the most important \npart…!"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "Ugh～……! I'm so embarrassed I feel like smashing through \nthe ground right now and retreating into the hole I've \ncreated……!",
       "choice_data_list": [
         "It's all right! We're just getting started!",
         "It's all right! We're just getting started!"
-      ],
-      "name": "Kawakami Princess",
-      "text": "Ugh～……! I'm so embarrassed I feel like smashing through \nthe ground right now and retreating into the hole I've \ncreated……!"
+      ]
     },
     {
       "name": "Kawakami Princess",
@@ -236,12 +236,12 @@
       "text": "She got so sick of training that she ran away from home to a \ndeserted island.…… and also crushed the precious dumbbell \nthat the craftsmen made for her!"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "But she would talk to the prince, and get to know each other \nbetter… It took 49 episodes for the Princess to mature……!",
       "choice_data_list": [
         "Why don't we do the same?",
         "Why don't we do the same?"
-      ],
-      "name": "Kawakami Princess",
-      "text": "But she would talk to the prince, and get to know each other \nbetter… It took 49 episodes for the Princess to mature……!"
+      ]
     },
     {
       "text": "—I am just starting out, and I am far from being a \"legendary \ntrainer. However, I hope to grow together with you Kawakami."
@@ -255,12 +255,12 @@
       "text": "I… would also like to know more about you! \nMy trainer who's also my prince!"
     },
     {
+      "name": "Kawakami Princess",
+      "text": "There's still so much I don't know about you! From your \nfavorite clothes, to your favorite ramen toppings, \nto your favorite muscle training equipment!",
       "choice_data_list": [
         "I'd like to know more about you as well.",
         "I'd like to know more about you as well."
-      ],
-      "name": "Kawakami Princess",
-      "text": "There's still so much I don't know about you! From your \nfavorite clothes, to your favorite ramen toppings, \nto your favorite muscle training equipment!"
+      ]
     },
     {
       "name": "Kawakami Princess",

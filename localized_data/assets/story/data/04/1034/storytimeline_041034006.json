@@ -5,18 +5,18 @@
       "text": "A day off. For Inari One's training, I was out gathering some \nnecessary materials―"
     },
     {
+      "name": "Inari One",
+      "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?",
       "choice_data_list": [
         "Inari, you too?"
-      ],
-      "name": "Inari One",
-      "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?"
+      ]
     },
     {
+      "name": "Inari One",
+      "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?",
       "choice_data_list": [
         "Inari, you too?"
-      ],
-      "name": "Inari One",
-      "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?"
+      ]
     },
     {
       "name": "Inari One",
@@ -27,18 +27,18 @@
       "text": "But, there's too many fancy stores around! I really wanna make a \ndecision, but there are way too many options!"
     },
     {
+      "name": "Inari One",
+      "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!",
       "choice_data_list": [
         "I'll guide you"
-      ],
-      "name": "Inari One",
-      "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!"
+      ]
     },
     {
+      "name": "Inari One",
+      "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!",
       "choice_data_list": [
         "I'll guide you"
-      ],
-      "name": "Inari One",
-      "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!"
+      ]
     },
     {
       "name": "Inari One",
@@ -86,16 +86,16 @@
       "text": "However, if there were no problems when it was wrapped up, \nwell……then perhaps it bumped in to something along the way?"
     },
     {
+      "text": "At the register, a customer and clerk were arguing. The customer \nseemed to gradually be getting heated, it seemed like he might \nget physical with the clerk.",
       "choice_data_list": [
         "(Inari isn't nearby……)"
-      ],
-      "text": "At the register, a customer and clerk were arguing. The customer \nseemed to gradually be getting heated, it seemed like he might \nget physical with the clerk."
+      ]
     },
     {
+      "text": "Even if I stepped in, there was the worry that \nI might get dragged in to it. I approached and \ncalled out to try and calm things down.",
       "choice_data_list": [
         "Um, how about we calm down and talk this out?"
-      ],
-      "text": "Even if I stepped in, there was the worry that \nI might get dragged in to it. I approached and \ncalled out to try and calm things down."
+      ]
     },
     {
       "name": "Male Customer",
@@ -152,11 +152,11 @@
       "text": "Hey, Boss! To step in like that, \nyou've got quite the guts, huh?"
     },
     {
+      "name": "Inari One",
+      "text": "Ya could have just pretended to see nothin', \nthat's pretty impressive!",
       "choice_data_list": [
         "Inari was cool too"
-      ],
-      "name": "Inari One",
-      "text": "Ya could have just pretended to see nothin', \nthat's pretty impressive!"
+      ]
     },
     {
       "name": "Inari One",
@@ -169,11 +169,11 @@
       "text": "However, it was good that the male customer was able to calm down \nwith just that, if he had gone off the rails……"
     },
     {
+      "name": "Inari One",
+      "text": "Hm? What's wrong? You've got such a serious look on your face. \nIs there somethin' stuck on my face?",
       "choice_data_list": [
         "Let's avoid dangerous things"
-      ],
-      "name": "Inari One",
-      "text": "Hm? What's wrong? You've got such a serious look on your face. \nIs there somethin' stuck on my face?"
+      ]
     },
     {
       "text": "Originally, it was me who stepped in in the first \nplace, however, I'd rather avoid doing anything \nthat might put Inari One in danger."
@@ -199,11 +199,11 @@
       "text": "Just like this time, if it had turned in to a \nfight……that's what ya mean right? But ya see, \nit's much better than seein' ya get hurt."
     },
     {
+      "name": "Inari One",
+      "text": "After all, when it comes to power, an Uma Musume like me is stronger. \nSo ya can just leave it all to me!",
       "choice_data_list": [
         "But……"
-      ],
-      "name": "Inari One",
-      "text": "After all, when it comes to power, an Uma Musume like me is stronger. \nSo ya can just leave it all to me!"
+      ]
     },
     {
       "name": "Inari One",
@@ -214,11 +214,11 @@
       "text": "I'll say it again. Clear out those things ya call ears, and \nlisten well. There's no reason for ya to shoulder it all yourself!"
     },
     {
+      "name": "Inari One",
+      "text": "Sometimes, ya should just leave it to someone that can handle it. \nThe right person for the right job, right?",
       "choice_data_list": [
         "That's true but……"
-      ],
-      "name": "Inari One",
-      "text": "Sometimes, ya should just leave it to someone that can handle it. \nThe right person for the right job, right?"
+      ]
     },
     {
       "name": "Inari One",

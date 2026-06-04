@@ -14,11 +14,11 @@
       "text": "A normal day……except for one thing."
     },
     {
+      "name": "Neo Universe",
+      "text": "…………",
       "choice_data_list": [
         "(I can feel someone's gaze……)"
-      ],
-      "name": "Neo Universe",
-      "text": "…………"
+      ]
     },
     {
       "text": "I already knew who it was though, because inevitably, \nshe would enter my view. However……"
@@ -39,10 +39,10 @@
       "text": "…………"
     },
     {
+      "text": "But if she was going to do this several days \nin a row, it was probably a good idea to talk \nto her. Rather, since we have the chance――",
       "choice_data_list": [
         "W-want to come closer?"
-      ],
-      "text": "But if she was going to do this several days \nin a row, it was probably a good idea to talk \nto her. Rather, since we have the chance――"
+      ]
     },
     {
       "name": "Neo Universe",
@@ -81,10 +81,10 @@
       "text": "Seeing her like this, she seemed more like an innocent, \ncurious puppy……though thinking that might be a little rude."
     },
     {
+      "text": "Looking at Neo Universe like that, I couldn't help but smile.",
       "choice_data_list": [
         "Want to go somewhere?"
-      ],
-      "text": "Looking at Neo Universe like that, I couldn't help but smile."
+      ]
     },
     {
       "name": "Neo Universe",
@@ -106,33 +106,33 @@
       "text": "…………"
     },
     {
+      "text": "……There was no particular conversation though.",
       "choice_data_list": [
         "Umm……any questions?"
-      ],
-      "text": "……There was no particular conversation though."
+      ]
     },
     {
+      "name": "Neo Universe",
+      "text": "……A \"Phenomenon\" that can't be 『Explained』. \nIt's necessary for it to 『Resolve』 by 『Itself』……",
       "choice_data_list": [
         "……I see."
-      ],
-      "name": "Neo Universe",
-      "text": "……A \"Phenomenon\" that can't be 『Explained』. \nIt's necessary for it to 『Resolve』 by 『Itself』……"
+      ]
     },
     {
       "text": "She probably meant 『I want to solve this myself』……I guess. \nThere was definitely something bothering her, but it didn't \nseem to be a serious issue."
     },
     {
+      "text": "If that's the case, then there's no reason to worry. \nLeaving the shopping mall, we continued the leisurely stroll.",
       "choice_data_list": [
         "Where to next?"
-      ],
-      "text": "If that's the case, then there's no reason to worry. \nLeaving the shopping mall, we continued the leisurely stroll."
+      ]
     },
     {
+      "name": "Neo Universe",
+      "text": "……『Hydration』 required. \n\"Polaris\" is not visible, but there is a 『Destination』.",
       "choice_data_list": [
         "……Alright, let's head to a cafe."
-      ],
-      "name": "Neo Universe",
-      "text": "……『Hydration』 required. \n\"Polaris\" is not visible, but there is a 『Destination』."
+      ]
     },
     {
       "text": "『I'm thirsty』 is probably what she meant. \nThat was easy to understand――so easy, I couldn't help but smile."
@@ -145,10 +145,10 @@
       "text": "Neo Universe finished drinking her juice."
     },
     {
+      "text": "She was……probably asking if this was my favorite shop or how \noften I came. Judging by her expression it was probably the latter.",
       "choice_data_list": [
         "Um……once in a while I guess?"
-      ],
-      "text": "She was……probably asking if this was my favorite shop or how \noften I came. Judging by her expression it was probably the latter."
+      ]
     },
     {
       "name": "Neo Universe",
@@ -162,37 +162,37 @@
       "text": "……\"Psc\"……on the surface of the water……they're sticking \ntheir mouths out……do they require \"Replenishment\"?"
     },
     {
+      "text": "I looked out on to the lake and saw fish gathered at the surface. \nNo doubt, she was asking 『Do they want food?』……!",
       "choice_data_list": [
         "They should be selling some nearby!"
-      ],
-      "text": "I looked out on to the lake and saw fish gathered at the surface. \nNo doubt, she was asking 『Do they want food?』……!"
+      ]
     },
     {
       "name": "Neo Universe",
       "text": "………… \n……Mmm. Neo Universe wants to \"seek\" it."
     },
     {
+      "text": "It really turned out to be an easy-going time, \nwandering without a goal in mind. Neo Universe's \nexpression had remained unchanged, but――",
       "choice_data_list": [
         "Was today fun?"
-      ],
-      "text": "It really turned out to be an easy-going time, \nwandering without a goal in mind. Neo Universe's \nexpression had remained unchanged, but――"
+      ]
     },
     {
       "name": "Neo Universe",
       "text": "……『Fun』……?"
     },
     {
+      "name": "Neo Universe",
+      "text": "…………Neo Universe wasn't thinking about whether it was 『Fun』……",
       "choice_data_list": [
         "……Oh?"
-      ],
-      "name": "Neo Universe",
-      "text": "…………Neo Universe wasn't thinking about whether it was 『Fun』……"
+      ]
     },
     {
+      "text": "It didn't seem like she was going to say it wasn't fun. \nShe was thinking about something else……I guess that's what it means?",
       "choice_data_list": [
         "……I see."
-      ],
-      "text": "It didn't seem like she was going to say it wasn't fun. \nShe was thinking about something else……I guess that's what it means?"
+      ]
     },
     {
       "text": "She really was a mysterious girl. She had a unique atmosphere, \nand sometime it seemed she had a vague presence――But――"
@@ -216,10 +216,10 @@
       "text": "(……It's 『Mysterious』. \nUnlike 『Other People』……not creating a \"Vacuum\")"
     },
     {
+      "text": "I once again felt a gaze. Once again it was from \nthe Uma Musume in front of me. Communication might \nnot be smooth, but this was fine in it's own way――",
       "choice_data_list": [
         "We should probably head back"
-      ],
-      "text": "I once again felt a gaze. Once again it was from \nthe Uma Musume in front of me. Communication might \nnot be smooth, but this was fine in it's own way――"
+      ]
     },
     {
       "name": "Neo Universe",

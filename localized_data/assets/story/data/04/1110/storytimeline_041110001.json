@@ -26,12 +26,12 @@
       "text": "Kuu……!"
     },
     {
+      "name": "Mid-rank Trainer A",
+      "text": "It's Rhein Kraft! With 200m to go, Rhein Kraft is pulling \nahead!! What tenacity! Her pace isn't dropping!",
       "choice_data_list": [
         "Is that girl going to hold on……!?",
         "Is that girl going to hold on……!?"
-      ],
-      "name": "Mid-rank Trainer A",
-      "text": "It's Rhein Kraft! With 200m to go, Rhein Kraft is pulling \nahead!! What tenacity! Her pace isn't dropping!"
+      ]
     },
     {
       "name": "Mid-rank Trainer B",
@@ -42,11 +42,11 @@
       "text": "……………………! \nHaaaaaaaaaaaaaaaa!!!"
     },
     {
+      "text": "With a flurry of blue and gold, the race surged forward. One Uma \nMusume cut through the distance, rushing forward next to Rhein Kraft.",
       "choice_data_list": [
         "What a strong showing……!!",
         "What a strong showing……!!"
-      ],
-      "text": "With a flurry of blue and gold, the race surged forward. One Uma \nMusume cut through the distance, rushing forward next to Rhein Kraft."
+      ]
     },
     {
       "name": "Mid-rank Trainer A",
@@ -57,10 +57,10 @@
       "text": "Kuu…………not yet!! \nHaaaaaaaaaaaaaaaaーーーー!!!"
     },
     {
+      "text": "I could feel my heart pounding in my chest.",
       "choice_data_list": [
         "What an incredible race……"
-      ],
-      "text": "I could feel my heart pounding in my chest."
+      ]
     },
     {
       "text": "\"That instant was I turn'd into a hart; And my \ndesires, like fell and cruel hounds, E'er since \npursue me.\" ――The line from a famous play came to mind."
@@ -115,10 +115,10 @@
       "text": "In particular, the 『Oaks』, I cannot let that escape me. \nThe Queen's Crown of the Oaks, is something I must take hold of……"
     },
     {
+      "text": "What does it mean to prove your worth as a guiding light? \n――Even during meals, I couldn't stop thinking about her.",
       "choice_data_list": [
         "I couldn't even talk to her……Ah!"
-      ],
-      "text": "What does it mean to prove your worth as a guiding light? \n――Even during meals, I couldn't stop thinking about her."
+      ]
     },
     {
       "text": "My hand slips and knocks over my half-empty glass. The contents \nof the glass spilled all over the table, dripping off of the edges."
@@ -128,12 +128,12 @@
       "text": "Uwaaah, what a mess! \nI'll go get something to wipe the table!"
     },
     {
+      "name": "Cesario",
+      "text": "I'll leave that to you. ……Looks like it's soaked up to the hem. \nI'll remove the stain. Will you lend me your jacket?",
       "choice_data_list": [
         "Y-yeah……",
         "Y-yeah……"
-      ],
-      "name": "Cesario",
-      "text": "I'll leave that to you. ……Looks like it's soaked up to the hem. \nI'll remove the stain. Will you lend me your jacket?"
+      ]
     },
     {
       "text": "After I handed her my jacket, she placed a handkerchief under \nthe the stained area then used a wet rag to dab at the stain."
@@ -150,11 +150,11 @@
       "text": "Fufuu, cake, cake♪ This is the same as the one we split before, \nisn't it Cesario? And today's has a lot of fruit too!"
     },
     {
+      "name": "Cesario",
+      "text": "That time, it was the last one left, right? Talking about which of \nus was going to take which fruits while eating was fun, wasn't it♪?",
       "choice_data_list": [
         "(Huh? Her atmosphere seems different……)"
-      ],
-      "name": "Cesario",
-      "text": "That time, it was the last one left, right? Talking about which of \nus was going to take which fruits while eating was fun, wasn't it♪?"
+      ]
     },
     {
       "name": "Cesario",
@@ -165,11 +165,11 @@
       "text": "Thank you! Cesario, you're so sweet～!"
     },
     {
+      "name": "Cesario",
+      "text": "Um, your glass is empty, would you like some more water? Would \nyou prefer room temperature or hot water? I'll go get some.",
       "choice_data_list": [
         "Then……wait! Rather than that!"
-      ],
-      "name": "Cesario",
-      "text": "Um, your glass is empty, would you like some more water? Would \nyou prefer room temperature or hot water? I'll go get some."
+      ]
     },
     {
       "name": "Cesario",
@@ -187,11 +187,11 @@
       "text": "Cesario has, how should I put it, a very distinct difference between \nOn and Off. It switches based on the situation――isn't that right?"
     },
     {
+      "name": "Cesario",
+      "text": "Fufu, sometimes I get asked 『Which one is the \nreal Cesario?』, but they're both me. It's just \na difference between whether I'm focused or not……",
       "choice_data_list": [
         "I-I see……"
-      ],
-      "name": "Cesario",
-      "text": "Fufu, sometimes I get asked 『Which one is the \nreal Cesario?』, but they're both me. It's just \na difference between whether I'm focused or not……"
+      ]
     },
     {
       "text": "Even if she explained it that way, it was like she was \na completely different person. I wonder if that just \nmeans she's controlling herself much more strictly."
@@ -209,21 +209,21 @@
       "text": "Yaaay……then, a short nap……"
     },
     {
+      "name": "Cesario",
+      "text": "How about taking a short break too? \nI have a blanket with me so I'll lend it to you.",
       "choice_data_list": [
         "Then……no, wait! I think I'm fine!"
-      ],
-      "name": "Cesario",
-      "text": "How about taking a short break too? \nI have a blanket with me so I'll lend it to you."
+      ]
     },
     {
       "text": "I was almost swept away by her soft smile, but as an \nadult, I can't just sleep here! I shake my head in panic."
     },
     {
+      "name": "Cesario",
+      "text": "I see…… Then, can you hold out your hand?",
       "choice_data_list": [
         "My hand? Okay……"
-      ],
-      "name": "Cesario",
-      "text": "I see…… Then, can you hold out your hand?"
+      ]
     },
     {
       "text": "Cesario grabbed my outstretched hand in hers and \nfirmly pressed in to it. I was surprised at first, \nbut the pleasant pressure helped clear my head."
@@ -233,11 +233,11 @@
       "text": "These pressure points help relieve fatigue. \nWhenever you're feeling a little tired, I recommend doing this."
     },
     {
+      "name": "Cesario",
+      "text": "Fufu, looks like the color has returned to your face a little. \nDon't push yourself too hard in the afternoon, okay?",
       "choice_data_list": [
         "Thank you. I'm feeling better now"
-      ],
-      "name": "Cesario",
-      "text": "Fufu, looks like the color has returned to your face a little. \nDon't push yourself too hard in the afternoon, okay?"
+      ]
     },
     {
       "text": "The face was the same. The voice was the same. \nBut they were two different expressions."

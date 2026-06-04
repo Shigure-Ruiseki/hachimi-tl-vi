@@ -13,12 +13,12 @@
       "text": "I should hurry back… so that I can \ncontinue the next part of my training!"
     },
     {
+      "name": "Rice Shower",
+      "text": "You can do it, Rice! \nYou can do it, yeah～!",
       "choice_data_list": [
         "(She has good running form…)",
         "(Her form looks good…)"
-      ],
-      "name": "Rice Shower",
-      "text": "You can do it, Rice! \nYou can do it, yeah～!"
+      ]
     },
     {
       "text": "Rice Shower took off running with a stride that was both \npowerful and efficient. Despite her petite figure, she exuded \na strong sense of determination that caught my attention."
@@ -58,35 +58,35 @@
       "text": "And then, shortly after ——"
     },
     {
+      "name": "Rice Shower",
+      "text": "U-Um, excuse me……!",
       "choice_data_list": [
         "Hm? <i>Me</i>…?",
         "Hm? <i>Me</i>…?"
-      ],
-      "name": "Rice Shower",
-      "text": "U-Um, excuse me……!"
+      ]
     },
     {
       "name": "Rice Shower",
       "text": "Y-Yes! \nUmm… I-I'm…"
     },
     {
+      "name": "Rice Shower",
+      "text": "I'm so sorry!!",
       "choice_data_list": [
         "Huh!?"
-      ],
-      "name": "Rice Shower",
-      "text": "I'm so sorry!!"
+      ]
     },
     {
       "name": "Rice Shower",
       "text": "It's because… Rice was running alongside you that \nit took you so long to get back to the Academy…!"
     },
     {
+      "name": "Rice Shower",
+      "text": "I'm really, really sorry…!!",
       "choice_data_list": [
         "That's not exactly your fault…",
         "Oh, but that's not your fault…"
-      ],
-      "name": "Rice Shower",
-      "text": "I'm really, really sorry…!!"
+      ]
     },
     {
       "name": "Rice Shower",
@@ -97,10 +97,10 @@
       "text": "I'm sorry… b-but everything will be better when \nI'm not around anymore! So I'll go now…!!"
     },
     {
+      "text": "Before I had even a chance to respond, Rice Shower quickly \nfled into the dark…… She seemed so distressed that it would \nmake me feel bad for her to just leave it at that.",
       "choice_data_list": [
         "(I need to let her know that she's \noverthinking things…!)"
-      ],
-      "text": "Before I had even a chance to respond, Rice Shower quickly \nfled into the dark…… She seemed so distressed that it would \nmake me feel bad for her to just leave it at that."
+      ]
     },
     {
       "text": "And so I chased after Rice Shower."
@@ -199,11 +199,11 @@
       "text": "Why? Why do I have to be such a good-for-nothing…?"
     },
     {
+      "text": "Rice Shower's cries of anguish filled the lonely \nnight air, the sight of her distressed figure \ncompelling me to draw nearer…",
       "choice_data_list": [
         "…… Are you okay?",
         "…… Are you okay?"
-      ],
-      "text": "Rice Shower's cries of anguish filled the lonely \nnight air, the sight of her distressed figure \ncompelling me to draw nearer…"
+      ]
     },
     {
       "name": "Rice Shower",

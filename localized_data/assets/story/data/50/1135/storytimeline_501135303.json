@@ -22,48 +22,48 @@
       "text": "But still, she's tiny compared to \nthe others. Seems tough getting \nenclosed during the race～"
     },
     {
+      "text": "Stay Gold was able to display a splendid \nperformance at her debut race. Her \nexpression alone showed me her \nsatisfaction towards today's race.",
       "choice_data_list": [
         "You look like you had fun",
         "You look like you had fun"
-      ],
-      "text": "Stay Gold was able to display a splendid \nperformance at her debut race. Her \nexpression alone showed me her \nsatisfaction towards today's race."
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "Yeah. It's been a while since I've had my \nfill, from today's race that is.",
       "choice_data_list": [
         "That was a good debut"
-      ],
-      "name": "Stay Gold",
-      "text": "Yeah. It's been a while since I've had my \nfill, from today's race that is."
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "It's all thanks to you…… but ——"
     },
     {
+      "name": "Stay Gold",
+      "text": "The path ahead of us is going to become \nmuch harder from now on. Are you ready \nfor this?",
       "choice_data_list": [
         "……!"
-      ],
-      "name": "Stay Gold",
-      "text": "The path ahead of us is going to become \nmuch harder from now on. Are you ready \nfor this?"
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "……My other-worldy self barely won \nmany races after their debut."
     },
     {
+      "name": "Stay Gold",
+      "text": "If we do this half-heartedly, we'd be \ndestined to repeat the same path, \nand that isn't our goal now is it.",
       "choice_data_list": [
         "Yeah, our journey is to destroy all pasts!",
         "Yeah, our journey is to destroy all pasts!"
-      ],
-      "name": "Stay Gold",
-      "text": "If we do this half-heartedly, we'd be \ndestined to repeat the same path, \nand that isn't our goal now is it."
+      ]
     },
     {
+      "text": "That's exactly why, just as Stay Gold \nsays, from now on, the two of us must \nexceed our limits……!",
       "choice_data_list": [
         "Give me some time to replan our journey",
         "Give me some time to replan our journey"
-      ],
-      "text": "That's exactly why, just as Stay Gold \nsays, from now on, the two of us must \nexceed our limits……!"
+      ]
     },
     {
       "text": "Just like this, Stay Gold's debut race kept \nmy heart trembling in excitement for the \nstart of our journey, finishing the day \non a high note."
@@ -76,27 +76,27 @@
       "text": "……I've got to say, it seems as though \nyou're starting to appear everywhere \nnow."
     },
     {
+      "name": "Stay Gold",
+      "text": "You've gotten quite used to finding me, \nhaven't you? You're all equipped with \nyour work tools too.",
       "choice_data_list": [
         "Gee, I wonder why……",
         "Gee, I wonder why……"
-      ],
-      "name": "Stay Gold",
-      "text": "You've gotten quite used to finding me, \nhaven't you? You're all equipped with \nyour work tools too."
+      ]
     },
     {
       "name": "Stay Gold",
       "text": "I guess since you were able to find me, \nI'll listen to what you have to say."
     },
     {
+      "name": "Stay Gold",
+      "text": "…… So, have you decided what races \nwe should aim for in the Junior year?",
       "choice_data_list": [
         "Yeah. I've got it all mapped out!",
         "Yeah. I've got it all mapped out!"
       ],
       "color_text_info_list": [
         "Junior"
-      ],
-      "name": "Stay Gold",
-      "text": "…… So, have you decided what races \nwe should aim for in the Junior year?"
+      ]
     },
     {
       "text": "Stay Gold's objective was decided early \non, which is to run in the Classics."
@@ -109,28 +109,28 @@
       "text": "The priorities right now are to get stronger \nand correct my bad habits. I guess running \nthe Classics all comes down to timing hey…"
     },
     {
+      "name": "Stay Gold",
+      "text": "Sounds good. I'm on board with the idea \nof adapting to reach the destination.",
       "choice_data_list": [
         "I thought this would be easier on you too"
-      ],
-      "name": "Stay Gold",
-      "text": "Sounds good. I'm on board with the idea \nof adapting to reach the destination."
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "Yeah, I don't want to be too locked \ninto strict plans either.",
       "choice_data_list": [
         "But if this is all… it won't be enough"
-      ],
-      "name": "Stay Gold",
-      "text": "Yeah, I don't want to be too locked \ninto strict plans either."
+      ]
     },
     {
       "text": "The goal to run in the Classics was purely \nthe most obvious one to set at the time. \nWhat's key from now is to be able to \ngrow real strength to unleash in reality."
     },
     {
+      "text": "Then, to reach a level to join the Classics, \nwe have to find a way to make a \nbreakthrough to attain true power.",
       "choice_data_list": [
         "To walk a path different to your other self",
         "To walk a path different to your other self"
-      ],
-      "text": "Then, to reach a level to join the Classics, \nwe have to find a way to make a \nbreakthrough to attain true power."
+      ]
     },
     {
       "name": "Stay Gold",

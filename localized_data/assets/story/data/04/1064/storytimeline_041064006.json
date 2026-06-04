@@ -69,11 +69,11 @@
       "text": "Trainer! What a coincidence! Did you go shopping? \nLet's head back together."
     },
     {
+      "name": "Mejiro Palmer",
+      "text": "… Wait a sec. That's a ton of bags! \nCome, come, give me some, let me help. \nLook, your hands are getting all red!",
       "choice_data_list": [
         "Thanks, but it's okay."
-      ],
-      "name": "Mejiro Palmer",
-      "text": "… Wait a sec. That's a ton of bags! \nCome, come, give me some, let me help. \nLook, your hands are getting all red!"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -122,28 +122,28 @@
       "text": "(Now you're diligently carrying out your role and responsibilities \nas a trainer with a trainee under your wing.)"
     },
     {
+      "name": "Mejiro Palmer",
+      "text": "Good work, Trainer. \nIt must be a difficult job, hey? Being a trainer?",
       "choice_data_list": [
         "But it's fun."
-      ],
-      "name": "Mejiro Palmer",
-      "text": "Good work, Trainer. \nIt must be a difficult job, hey? Being a trainer?"
+      ]
     },
     {
+      "text": "I told her that it's just like how she sprints with all her might \nand laughs through the tough parts, finding joy in it all. \nThis joy is irreplaceable to me. And that's why ——",
       "choice_data_list": [
         "I'm glad that I get to be your trainer."
-      ],
-      "text": "I told her that it's just like how she sprints with all her might \nand laughs through the tough parts, finding joy in it all. \nThis joy is irreplaceable to me. And that's why ——"
+      ]
     },
     {
       "name": "Mejiro Palmer",
       "text": "Hey, that's what I wanna say!! \nHaha… thanks, though!"
     },
     {
+      "name": "Mejiro Palmer",
+      "text": "But, you shouldn't overdo it, you know. \nAre you making sure to eat properly? Taking breaks?",
       "choice_data_list": [
         "Yep, yep! I am!"
-      ],
-      "name": "Mejiro Palmer",
-      "text": "But, you shouldn't overdo it, you know. \nAre you making sure to eat properly? Taking breaks?"
+      ]
     },
     {
       "name": "Mejiro Palmer",
@@ -170,19 +170,19 @@
       "text": "(I know you're not lying about being glad to be my trainer, but…)"
     },
     {
+      "name": "Mejiro Palmer",
+      "text": "(I don't know, something doesn't quite feel right.… <i>Hmm～?</i>)",
       "choice_data_list": [
         "Palmer?"
-      ],
-      "name": "Mejiro Palmer",
-      "text": "(I don't know, something doesn't quite feel right.… <i>Hmm～?</i>)"
+      ]
     },
     {
+      "name": "Mejiro Palmer",
+      "text": "… Oh, umm… H-How about we head back soon! \nI'm getting hungry!",
       "choice_data_list": [
         "…? Okay, sure.",
         "…? Okay, sure."
-      ],
-      "name": "Mejiro Palmer",
-      "text": "… Oh, umm… H-How about we head back soon! \nI'm getting hungry!"
+      ]
     },
     {
       "name": "Mejiro Palmer",

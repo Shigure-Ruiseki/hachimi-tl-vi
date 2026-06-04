@@ -2,29 +2,29 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Gold City",
+      "text": "Whoa, is this the training camp? It got a good feeling. This \natmosphere too. It looks like it can be used for shooting!",
       "choice_data_list": [
         "Welcome to the summer camp, Gold City!"
-      ],
-      "name": "Gold City",
-      "text": "Whoa, is this the training camp? It got a good feeling. This \natmosphere too. It looks like it can be used for shooting!"
+      ]
     },
     {
       "name": "Gold City",
       "text": "Mm-hmm. I joined you in the middle of it, \nwell, I've got to take my time back."
     },
     {
+      "name": "City's Manager",
+      "text": "Thank you for your hard work, Trainer-san. I’m sorry the delivery \narrived late, our work got pushed.",
       "choice_data_list": [
         "I’ll take care of her"
-      ],
-      "name": "City's Manager",
-      "text": "Thank you for your hard work, Trainer-san. I’m sorry the delivery \narrived late, our work got pushed."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Well then, I’ll leave my luggage and change my clothes.",
       "choice_data_list": [
         "Let’s meet at the beach 20 minutes later!"
-      ],
-      "name": "Gold City",
-      "text": "Well then, I’ll leave my luggage and change my clothes."
+      ]
     },
     {
       "name": "Gold City",
@@ -77,20 +77,20 @@
       "text": "…You know I, before I gave up on this training camp. I had more \nwork and work, I wondered if I would ever participate."
     },
     {
+      "name": "Gold City",
+      "text": "But, I made a fitting schedule with you and talked to the \nmanager. Then, I was able to participate in this way.",
       "choice_data_list": [
         "It was good!",
         "It was good!"
-      ],
-      "name": "Gold City",
-      "text": "But, I made a fitting schedule with you and talked to the \nmanager. Then, I was able to participate in this way."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Mm-hmm, it was good. Really… I think the me from \nbefore, would just have complained about being \nfrustrated that she could not participate.",
       "choice_data_list": [
         "You’ve grown so much!",
         "You’ve grown so much!"
-      ],
-      "name": "Gold City",
-      "text": "Mm-hmm, it was good. Really… I think the me from \nbefore, would just have complained about being \nfrustrated that she could not participate."
+      ]
     },
     {
       "name": "Gold City",
@@ -132,66 +132,66 @@
       "text": "Thank you. You watching the race makes me really happy."
     },
     {
+      "name": "Gold City",
+      "text": "…Ehehe, my face is cracked more than I expected. How hilarious.",
       "choice_data_list": [
         "That’s proof that you’re working hard",
         "That’s proof that you’re working hard"
-      ],
-      "name": "Gold City",
-      "text": "…Ehehe, my face is cracked more than I expected. How hilarious."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Model and race, I wonder which one of those efforts you are \nwatching. Although, I only want you to see my racing abilities.",
       "choice_data_list": [
         "Modelling should also contribute to the race"
-      ],
-      "name": "Gold City",
-      "text": "Model and race, I wonder which one of those efforts you are \nwatching. Although, I only want you to see my racing abilities."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Huh? No way.",
       "choice_data_list": [
         "Let’s run and check it out!"
-      ],
-      "name": "Gold City",
-      "text": "Huh? No way."
+      ]
     },
     {
       "name": "Gold City",
       "text": "Run, hey, you mean right now!?"
     },
     {
+      "name": "Gold City",
+      "text": "Why should I run here until the end of the festival…!? I don’t \nknow, seriously, I don’t know what it means…!",
       "choice_data_list": [
         "Well then, I’ll take the time",
         "Well then, I’ll take the time"
-      ],
-      "name": "Gold City",
-      "text": "Why should I run here until the end of the festival…!? I don’t \nknow, seriously, I don’t know what it means…!"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Listen to me. Yeah-yeah, I got it. Then I will go. Steady…",
       "choice_data_list": [
         "GO!"
-      ],
-      "name": "Gold City",
-      "text": "Listen to me. Yeah-yeah, I got it. Then I will go. Steady…"
+      ]
     },
     {
       "text": "Gold City ran through the sand at once!"
     },
     {
+      "name": "Gold City",
+      "text": "Phew… What is the time?…Mm-hmm, so that’s it.",
       "choice_data_list": [
         "Next time, let’s run while remembering the cheering"
-      ],
-      "name": "Gold City",
-      "text": "Phew… What is the time?…Mm-hmm, so that’s it."
+      ]
     },
     {
       "name": "Gold City",
       "text": "Huh~? I don’t think anything will change. Anyway, I’m going!"
     },
     {
+      "text": "Gold City ran the same as before.",
       "choice_data_list": [
         "City, you can do it!",
         "City, you can do it!"
-      ],
-      "text": "Gold City ran the same as before."
+      ]
     },
     {
       "name": "Gold City",
@@ -216,23 +216,23 @@
       "text": "The result is… the best record time in this training camp."
     },
     {
+      "name": "Gold City",
+      "text": "*Pant*… *Pant*… After I heard your voice. I remembered the \ncheering of the children. And then, my legs moved forward…",
       "choice_data_list": [
         "That’s the power of the fans",
         "That’s the power of the fans"
-      ],
-      "name": "Gold City",
-      "text": "*Pant*… *Pant*… After I heard your voice. I remembered the \ncheering of the children. And then, my legs moved forward…"
+      ]
     },
     {
       "name": "Gold City",
       "text": "You mean that power is going to help me \nstep further? Then, then you see…"
     },
     {
+      "name": "Gold City",
+      "text": "If you could bring the fans who gathered \nin the face of a model to the raceー",
       "choice_data_list": [
         "There’s no doubt about it!"
-      ],
-      "name": "Gold City",
-      "text": "If you could bring the fans who gathered \nin the face of a model to the raceー"
+      ]
     },
     {
       "name": "Gold City",
@@ -243,12 +243,12 @@
       "text": "But… haha, how interesting. I can show off my \nrun to the fans who only know me as a model."
     },
     {
+      "name": "Gold City",
+      "text": "That I’m not just a pretty doll, but an amazing horse girl!",
       "choice_data_list": [
         "The effect of running on both paths is great",
         "The effect of running on both paths is great"
-      ],
-      "name": "Gold City",
-      "text": "That I’m not just a pretty doll, but an amazing horse girl!"
+      ]
     },
     {
       "name": "Gold City",

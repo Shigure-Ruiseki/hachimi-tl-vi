@@ -12,11 +12,11 @@
       "text": "<i>Huooooooooh!!!! </i>That glint on your suit's lapel! \nMost undeniably, it is a badge! Veritable proof of trainerhood!!"
     },
     {
+      "name": "???",
+      "text": "You must be the one foretold to me! My soul-bound trainer!!",
       "choice_data_list": [
         "Cultists!? Here!?"
-      ],
-      "name": "???",
-      "text": "You must be the one foretold to me! My soul-bound trainer!!"
+      ]
     },
     {
       "name": "???",
@@ -27,12 +27,12 @@
       "text": "Excuse my late introduction, my name is Matikanefukukitaru!"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Upon this ground I have stood, awaiting eagerly the arrival \nof my predestined one. I am so glad to meet you at last!",
       "choice_data_list": [
         "… Your <i>predestined on</i>e? What?",
         "… Your <i>predestined one</i>? What?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Upon this ground I have stood, awaiting eagerly the arrival \nof my predestined one. I am so glad to meet you at last!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -47,11 +47,11 @@
       "text": "Lightning ran through my body the very next moment! \nFor written on it were the words: \"You will meet your soulmate\"!"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Who should subsequently appear but a trainer…! \nYou could be none other than my predestined one!",
       "choice_data_list": [
         "Sorry, you have the wrong person."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Who should subsequently appear but a trainer…! \nYou could be none other than my predestined one!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -70,11 +70,11 @@
       "text": "Let us go, Trainer! Let us chase fortune \nin the Twinkle Series together!"
     },
     {
+      "text": "I'm gonna get dragged into being her trainer \nif I don't speak my mind.",
       "choice_data_list": [
         "That would be irresponsible of me when \nI don't know anything about you.",
         "That would be irresponsible of me when \nI don't know anything about you."
-      ],
-      "text": "I'm gonna get dragged into being her trainer \nif I don't speak my mind."
+      ]
     },
     {
       "name": "Matikanefukukitaru",

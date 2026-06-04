@@ -95,12 +95,12 @@
       "text": "Ah… h-hey! Wait…!!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Why's she saying there's no chance… that it's over……",
       "choice_data_list": [
         "Feeling a little ruffled…?",
         "Feeling a little ruffled…?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "Why's she saying there's no chance… that it's over……"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -141,21 +141,21 @@
       "text": "It looks like that Brian lady is in the same group as you!!"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "What……!?",
       "choice_data_list": [
         "(<i>Narita Brian</i>…?!)"
-      ],
-      "name": "Hishi Amazon",
-      "text": "What……!?"
+      ]
     },
     {
       "text": "Even amongst us trainers, Narita Brian's name was already \nwell known. Her strength is downright overwhelming."
     },
     {
+      "text": "Her older sister, Biwa Hayahide, had already debuted \nand was performing spectacularly, but it's believed \nNarita Brian is the one with even greater talents.",
       "choice_data_list": [
         "(She's gonna go up against her…?)",
         "(She's gonna go up against her…?)"
-      ],
-      "text": "Her older sister, Biwa Hayahide, had already debuted \nand was performing spectacularly, but it's believed \nNarita Brian is the one with even greater talents."
+      ]
     },
     {
       "text": "I had thought even Hishi Amazon would be \nshuddering at the prospect, however…"
@@ -179,24 +179,24 @@
       "text": "<i>Hruooooaaaaaaaaaahh!! \n…… Haah, haah, haah.</i>"
     },
     {
+      "name": "Hishi Amazon",
+      "text": "Hm? Oh, you followed me?",
       "choice_data_list": [
         "Wh— What are you doing?",
         "Wh— What are you doing?"
-      ],
-      "name": "Hishi Amazon",
-      "text": "Hm? Oh, you followed me?"
+      ]
     },
     {
       "name": "Hishi Amazon",
       "text": "Whatcha mean? I'm training, as you can see!! \nAbout 50 hill sprints to start with."
     },
     {
+      "name": "Hishi Amazon",
+      "text": "No, maybe that's not enough? I'm going up against Brian here. \nI need to put my all into training to go one-on-one with her…!!",
       "choice_data_list": [
         "You know no fear, do you…!",
         "You know no fear, do you…!"
-      ],
-      "name": "Hishi Amazon",
-      "text": "No, maybe that's not enough? I'm going up against Brian here. \nI need to put my all into training to go one-on-one with her…!!"
+      ]
     },
     {
       "name": "Hishi Amazon",
@@ -222,11 +222,11 @@
       "text": "Hishi Amazon's words were shockingly straightforward. \nI found myself drawn in to her, and the fire in her eyes."
     },
     {
+      "text": "I wanted to see what the future she was staring at was like. \nMy thoughts manifested as words almost immediately ——",
       "choice_data_list": [
         "Would you let me help with your training?",
         "Would you let me help with your training?"
-      ],
-      "text": "I wanted to see what the future she was staring at was like. \nMy thoughts manifested as words almost immediately ——"
+      ]
     },
     {
       "name": "Hishi Amazon",

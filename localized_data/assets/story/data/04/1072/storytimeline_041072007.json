@@ -2,33 +2,33 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Yaeno Muteki",
+      "text": "Haa, haa……I've completed the running portion! \nThat's everything we planned to do today, right?",
       "choice_data_list": [
         "Yeah, good work!",
         "Yeah, good work!"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Haa, haa……I've completed the running portion! \nThat's everything we planned to do today, right?"
+      ]
     },
     {
       "text": "The long-awaited summer camp. Yaeno Muteki was really enthusiastic \nand today's training menu was finished in a flash."
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Then……I'm going to go play!",
       "choice_data_list": [
         "Ehh"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Then……I'm going to go play!"
+      ]
     },
     {
       "name": "Yaeno Muteki",
       "text": "Well, considering the way our time at the amusement park ended…… \nAt this training camp, I'll be sure to forget about training!"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "And, there's something I'd like to confirm as well……",
       "choice_data_list": [
         "Something to confirm?"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "And, there's something I'd like to confirm as well……"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -51,12 +51,12 @@
       "text": "……This is also training, isn't it?"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Counter-intuitively……I tried running once again, but……! \nWouldn't this……also be training!?",
       "choice_data_list": [
         "Yeah, it's training……",
         "Yeah, it's training……"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Counter-intuitively……I tried running once again, but……! \nWouldn't this……also be training!?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -67,12 +67,12 @@
       "text": "……there's quite the sea of people here. \nWeaving through the crowd of people could be useful during a race……No!"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Kuu, even here I'm still thinking about training……!",
       "choice_data_list": [
         "Yaeno, let's try target practice!",
         "Yaeno, let's try target practice!"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Kuu, even here I'm still thinking about training……!"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -97,21 +97,21 @@
       "text": "How unfortunate~! You missed with all of them, huh!? \nDon't get disheartened and feel free to try again!"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "To think I'd miss with every shot…… \nI've shown you yet another unsightly display.",
       "choice_data_list": [
         "Something like this isn't unsightly"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "To think I'd miss with every shot…… \nI've shown you yet another unsightly display."
+      ]
     },
     {
       "name": "Yaeno Muteki",
       "text": "……!"
     },
     {
+      "text": "It was fine to fail, it was fine to just enjoy it. Whether it was \nplaying or training, it was fine to be a little more laid-back.",
       "choice_data_list": [
         "I know you've been doing your best."
-      ],
-      "text": "It was fine to fail, it was fine to just enjoy it. Whether it was \nplaying or training, it was fine to be a little more laid-back."
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -132,22 +132,22 @@
       "text": "After that, the sound of toy gunfire \nechoed through the air for a while, but――"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Uguu, how unsightly! To not be able to hit anything even now! \nIt's just laughable……!",
       "choice_data_list": [
         "Yaeno, do your best!"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Uguu, how unsightly! To not be able to hit anything even now! \nIt's just laughable……!"
+      ]
     },
     {
       "name": "Yaeno Muteki",
       "text": "Right, next time for sure! I've started to understand it \njust a bit. Like this, without putting in too much power……!"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Trainer-dono, how is it!? \nAre there any issues with my posture!?",
       "choice_data_list": [
         "Looks good!"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Trainer-dono, how is it!? \nAre there any issues with my posture!?"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -168,11 +168,11 @@
       "text": "Nice hit~! You nailed that prize! \nCongrats, missy!"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Ah……! Thank you very much!",
       "choice_data_list": [
         "Congrats, Yaeno!"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Ah……! Thank you very much!"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -182,11 +182,11 @@
       "text": "On the way back from the festival……Yaeno Muteki said she had \n『Something to talk about』, so we ended up on the training camp beach."
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "……Just now, I felt slightly like I had returned to my \nchildhood. Using a toy gun to aim for that other toy……",
       "choice_data_list": [
         "Did you have fun?"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "……Just now, I felt slightly like I had returned to my \nchildhood. Using a toy gun to aim for that other toy……"
+      ]
     },
     {
       "name": "Yaeno Muteki",
@@ -205,23 +205,23 @@
       "text": "That carrying this fiery disposition during children's squabbles, \nwas something unsightly and had to be avoided at all costs――"
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "Believing that I had to maintain strict discipline, \nkeeping things hidden, and always focusing on training.",
       "choice_data_list": [
         "Yaeno――"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "Believing that I had to maintain strict discipline, \nkeeping things hidden, and always focusing on training."
+      ]
     },
     {
       "name": "Yaeno Muteki",
       "text": "However, you told me it was fine if I was unsightly, \nit was fine if I failed. And that's probably why I…… \nwas able to forget all about training and have fun."
     },
     {
+      "name": "Yaeno Muteki",
+      "text": "That this fire is not something to be afraid of. \nAnd nor……is it something to abhor.",
       "choice_data_list": [
         "……Right! Just enjoy your break time!",
         "……Right! Just enjoy your break time!"
-      ],
-      "name": "Yaeno Muteki",
-      "text": "That this fire is not something to be afraid of. \nAnd nor……is it something to abhor."
+      ]
     },
     {
       "name": "Yaeno Muteki",

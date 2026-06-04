@@ -13,12 +13,12 @@
       "text": "Sorry to bother you so late. I left something behind in the \ntrainers' office. I couldn't borrow the key for a sec, could I?"
     },
     {
+      "name": "Nice Nature",
+      "text": "And I figure there's no sense in disturbing you \ntwice, so how about I hold onto it and I'll open \nup in the morning too. Sound good?",
       "choice_data_list": [
         "It's really late… let me go with you at least.",
         "It's really late… let me go with you at least."
-      ],
-      "name": "Nice Nature",
-      "text": "And I figure there's no sense in disturbing you \ntwice, so how about I hold onto it and I'll open \nup in the morning too. Sound good?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -50,11 +50,11 @@
       "text": "Hello? Is this Nature-san's trainer? This \nis Fuji Kiseki from the Ritto dormitory."
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "It's an hour past curfew and she still isn't back yet. Do you \nhave any idea where she might be?",
       "choice_data_list": [
         "…!?"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "It's an hour past curfew and she still isn't back yet. Do you \nhave any idea where she might be?"
+      ]
     },
     {
       "text": "Uh-oh. This was bad. I rushed to the office."
@@ -67,11 +67,11 @@
       "text": "…and it's Tokai Teio now, moving up on the \noutside as they enter the home straight…"
     },
     {
+      "name": "Caster",
+      "text": "And she's clear! Tokai Teio is away! But can \nshe stay away? [Caster]: SHE CAN! Tokai \nTeio WINS! It's Tokai Teio by two lengths!",
       "choice_data_list": [
         "(One of Tokai Teio's race videos?)"
-      ],
-      "name": "Caster",
-      "text": "And she's clear! Tokai Teio is away! But can \nshe stay away? [Caster]: SHE CAN! Tokai \nTeio WINS! It's Tokai Teio by two lengths!"
+      ]
     },
     {
       "text": "I opened the door and sure enough, there was Nice \nNature, deep in concentration, watching a video \nof one of Tokai Teio's recent victories."
@@ -85,24 +85,24 @@
       "text": "But still. Wow. It's just win after win after win for this girl, \nhuh. Makes it look easy, too. Somehow she's always in the right \nplace at the right time."
     },
     {
+      "name": "Nice Nature",
+      "text": "Seems like if you let her dictate the pace, \nthat's it… you're toast. Yeesh.",
       "choice_data_list": [
         "Were you watching Teio's race videos by yourself this whole time?",
         "Were you watching Teio's race videos by yourself this whole time?"
-      ],
-      "name": "Nice Nature",
-      "text": "Seems like if you let her dictate the pace, \nthat's it… you're toast. Yeesh."
+      ]
     },
     {
       "name": "Nice Nature",
       "text": "Waaah!"
     },
     {
+      "name": "Nice Nature",
+      "text": "Trainer-san? W… what are you doing here!?",
       "choice_data_list": [
         "I got a phone call from Fuji Kiseki.",
         "I got a phone call from Fuji Kiseki."
-      ],
-      "name": "Nice Nature",
-      "text": "Trainer-san? W… what are you doing here!?"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -116,12 +116,12 @@
       "text": "She was obviously so focused on her research \nthat she didn't realize how late it was."
     },
     {
+      "name": "Nice Nature",
+      "text": "I'm… sorry. For lying to you earlier. Here, let me give you back \nyour key. And I'll make sure I apologize for missing curfew.",
       "choice_data_list": [
         "You really want to beat Tokai Teio, don't you?",
         "You really want to beat Tokai Teio, don't you?"
-      ],
-      "name": "Nice Nature",
-      "text": "I'm… sorry. For lying to you earlier. Here, let me give you back \nyour key. And I'll make sure I apologize for missing curfew."
+      ]
     },
     {
       "name": "Nice Nature",
@@ -167,19 +167,19 @@
       "text": "That's all I am. I understand that better than anyone."
     },
     {
+      "name": "Nice Nature",
+      "text": "So that's why you don't hear me talking about wanting to be first \nplace, to be a champion. Kind of pathetic, huh.",
       "choice_data_list": [
         "I don't think it is."
-      ],
-      "name": "Nice Nature",
-      "text": "So that's why you don't hear me talking about wanting to be first \nplace, to be a champion. Kind of pathetic, huh."
+      ]
     },
     {
+      "name": "Nice Nature",
+      "text": "…",
       "choice_data_list": [
         "You certainly put in the work like a champion.",
         "You certainly put in the work like a champion."
-      ],
-      "name": "Nice Nature",
-      "text": "…"
+      ]
     },
     {
       "name": "Nice Nature",
@@ -211,11 +211,11 @@
       "text": "But… y'know…"
     },
     {
+      "name": "Nice Nature",
+      "text": "Even if I'm not going to win, I still want to put up a decent \nfight. You know, make it a contest, at least.",
       "choice_data_list": [
         "Alright! Let's do it!"
-      ],
-      "name": "Nice Nature",
-      "text": "Even if I'm not going to win, I still want to put up a decent \nfight. You know, make it a contest, at least."
+      ]
     },
     {
       "name": "Nice Nature",

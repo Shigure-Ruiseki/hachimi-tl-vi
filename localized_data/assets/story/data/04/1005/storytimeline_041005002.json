@@ -76,11 +76,11 @@
       "text": "The junior was in tears for a while as if she had been \novercome with emotion, but Fuji Kiseki gently patted her on \nthe back, and before long, the underclassman left with a \ncompletely new look on her face."
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "Oh? Could it be, the Trainer from the other day?",
       "choice_data_list": [
         "That was a great pep talk!"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "Oh? Could it be, the Trainer from the other day?"
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -99,12 +99,12 @@
       "text": "My words alone may be weak, so I quoted a line from a play of \nmy mother's that I once saw――"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "I'm glad if that girl's heart is just a little lighter.",
       "choice_data_list": [
         "Is your mother a stage actress?",
         "Is your mother a stage actress?"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "I'm glad if that girl's heart is just a little lighter."
+      ]
     },
     {
       "name": "Fuji Kiseki",
@@ -119,12 +119,12 @@
       "text": "When the show was over, of course, there was thunderous \napplause that never stopped! The smiles on the faces of the \naudience at that moment is something to behold…!!"
     },
     {
+      "name": "Fuji Kiseki",
+      "text": "My mom, she's the best entertainer I know!!",
       "choice_data_list": [
         "So, that's why you try to entertain people too?",
         "So, that's why you try to entertain people too?"
-      ],
-      "name": "Fuji Kiseki",
-      "text": "My mom, she's the best entertainer I know!!"
+      ]
     },
     {
       "name": "Fuji Kiseki",

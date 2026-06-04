@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Agnes Digital",
+      "text": "Muhuhu. Muhuhuehuehue……",
       "choice_data_list": [
         "…Something up?",
         "…Something up?"
-      ],
-      "name": "Agnes Digital",
-      "text": "Muhuhu. Muhuhuehuehue……"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -30,22 +30,22 @@
       "text": "\"To worship Umamusume-chans is to gather virtue\" …and \nfangirling is one form of that worship. \nSo, basically! Fangirling is an important part of my training!"
     },
     {
+      "text": "No idea what she meant by \"fangirling\", but if she says so, \nthen…",
       "choice_data_list": [
         "Mind if I tag along?",
         "Mind if I tag along?"
-      ],
-      "text": "No idea what she meant by \"fangirling\", but if she says so, \nthen…"
+      ]
     },
     {
       "name": "Agnes Digital",
       "text": "Huh? Tag along? For fangirling? \nWell, if you ask me, you're more than welcome to, but…"
     },
     {
+      "name": "Agnes Digital",
+      "text": "…A-are you sure you can handle it? This is pretty high \npower-level otaku stuff. Force yourself out of your comfort zone \nand you're liable to get exhausted…",
       "choice_data_list": [
         "I won't do anything too crazy."
-      ],
-      "name": "Agnes Digital",
-      "text": "…A-are you sure you can handle it? This is pretty high \npower-level otaku stuff. Force yourself out of your comfort zone \nand you're liable to get exhausted…"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -68,11 +68,11 @@
       "text": "Oogh… Oooghh… It'sh sho magnificent… \nTheir clashing feelings, transcending the theoretical bounds of \ntheir aptitudes… Just & peak…"
     },
     {
+      "name": "Agnes Digital",
+      "text": "——The dirt track here at Ooi Racecourse is longer than most. \nThe overwhelming betweener and chaser strategies tend to have \nan advantage here.",
       "choice_data_list": [
         "What's this all of a sudden?"
-      ],
-      "name": "Agnes Digital",
-      "text": "——The dirt track here at Ooi Racecourse is longer than most. \nThe overwhelming betweener and chaser strategies tend to have \nan advantage here."
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -83,12 +83,12 @@
       "text": "Are you feeling it!? The Umamusume-chans' dazzling, \nunrelenting passion?! When they're full of life and happy, \nDigitan's happyyyyyyyyy!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Heck yeah! Time to go buy a crap ton of merch!! \nOn your mark, Trainer-san!",
       "choice_data_list": [
         "You're pretty hyped up.",
         "You're pretty hyped up."
-      ],
-      "name": "Agnes Digital",
-      "text": "Heck yeah! Time to go buy a crap ton of merch!! \nOn your mark, Trainer-san!"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -110,10 +110,10 @@
       "text": "Eh!? …Uh… well…… t-that's… \nY'know, really, I, uh… \nYeeeaap…"
     },
     {
+      "text": "Looks like that fan was asking a ton of questions she couldn't \nreally handle.",
       "choice_data_list": [
         "To answer your question——"
-      ],
-      "text": "Looks like that fan was asking a ton of questions she couldn't \nreally handle."
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -124,11 +124,11 @@
       "text": "Wahhh… Thanks a ton, Trainer-san. \nI'm not used to getting called out in public like that…"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Oh, yeah, what are you doing all the way over here?? \nYou get lost?",
       "choice_data_list": [
         "You were gone for a while, so…"
-      ],
-      "name": "Agnes Digital",
-      "text": "Oh, yeah, what are you doing all the way over here?? \nYou get lost?"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -139,11 +139,11 @@
       "text": "W-wow… You really made the trip all the way over here, even \nthough you're so exhausted……Trainer-san——"
     },
     {
+      "name": "Agnes Digital",
+      "text": "You <i>really</i> wanted the merch that much!?",
       "choice_data_list": [
         "……Huh?"
-      ],
-      "name": "Agnes Digital",
-      "text": "You <i>really</i> wanted the merch that much!?"
+      ]
     },
     {
       "name": "Agnes Digital",

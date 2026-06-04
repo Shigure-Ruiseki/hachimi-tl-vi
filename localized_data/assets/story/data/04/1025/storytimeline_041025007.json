@@ -9,30 +9,30 @@
       "text": "Haa… haa…"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "Huuh…",
       "choice_data_list": [
         "Okay, good work. Let's leave it there for today."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "Huuh…"
+      ]
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "But… trainer-san…",
       "choice_data_list": [
         "I said, let's leave it there.",
         "I said, let's leave it there."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "But… trainer-san…"
+      ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "Under… stood…… Thank you. \nUm… trainer-san…"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "Do you think all this training… has made me stronger…?",
       "choice_data_list": [
         "Absolutely!"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "Do you think all this training… has made me stronger…?"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -50,34 +50,34 @@
       "text": "Thank you for coming, trainer-san."
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "It's very important that you see this.",
       "choice_data_list": [
         "Are you going to race your… friend…?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "It's very important that you see this."
+      ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "No… not her. The truth is…"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "\"They\" are here… \nNow… behind you, trainer-san.",
       "choice_data_list": [
         "!?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "\"They\" are here… \nNow… behind you, trainer-san."
+      ]
     },
     {
       "name": "Manhattan Cafe",
       "text": "Don't… turn around. \nThey… want you."
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "As long as you're with me, you are safe. But they will try to \ndraw you away… get you on your own…",
       "choice_data_list": [
         "W… what will they do then…?",
         "W… what will they do then…?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "As long as you're with me, you are safe. But they will try to \ndraw you away… get you on your own…"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -96,11 +96,11 @@
       "text": "Trainer-san… do you believe me…?"
     },
     {
+      "text": "I swallowed hard. I didn't want to think about what might happen \nif she lost. But there was only one answer to her question…",
       "choice_data_list": [
         "I believe you. Always.",
         "I believe you. Always."
-      ],
-      "text": "I swallowed hard. I didn't want to think about what might happen \nif she lost. But there was only one answer to her question…"
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -123,10 +123,10 @@
       "text": "I am ready. \nWould you…?"
     },
     {
+      "text": "I nodded, and took a step back. I raised \nan arm, ready to signal the start.",
       "choice_data_list": [
         "Marks, set… go!"
-      ],
-      "text": "I nodded, and took a step back. I raised \nan arm, ready to signal the start."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -136,11 +136,11 @@
       "text": "A sharp breath, and she took flight. The jet black \nof her hair mingled with the dark of the night as \nshe faded into the shadows like an apparition."
     },
     {
+      "text": "I could only see one figure receding into the distance. \nBut when I squinted, I could swear I saw a second \nset of footprints in the sand…",
       "choice_data_list": [
         "Is that… \"them\"…?",
         "Is that… \"them\"…?"
-      ],
-      "text": "I could only see one figure receding into the distance. \nBut when I squinted, I could swear I saw a second \nset of footprints in the sand…"
+      ]
     },
     {
       "text": "From the way the sand flew from their feet, it looked like \nManhattan Cafe was ahead, but only barely. The effort was written \non her face as she dug deep to hold her slender lead…"
@@ -208,20 +208,20 @@
       "text": "But… no one even knew she was there…"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "If only I could have found her sooner… \nYou might not have been dragged into this.",
       "choice_data_list": [
         "But… she's happy now, right…?",
         "But… she's happy now, right…?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "If only I could have found her sooner… \nYou might not have been dragged into this."
+      ]
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "I… think she is.",
       "choice_data_list": [
         "And it was thanks to you.",
         "And it was thanks to you."
-      ],
-      "name": "Manhattan Cafe",
-      "text": "I… think she is."
+      ]
     },
     {
       "name": "Manhattan Cafe",
@@ -236,12 +236,12 @@
       "text": "(Someone like that… is what she needed… what I…)"
     },
     {
+      "name": "Manhattan Cafe",
+      "text": "Ah…",
       "choice_data_list": [
         "What is it?",
         "What is it?"
-      ],
-      "name": "Manhattan Cafe",
-      "text": "Ah…"
+      ]
     },
     {
       "name": "Manhattan Cafe",

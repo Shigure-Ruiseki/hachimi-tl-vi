@@ -83,11 +83,11 @@
       "text": "There's no need to rush, okay, Spe-chan? Calm down, and come to \nterms with yourself. What do you say?"
     },
     {
+      "name": "Grass Wonder",
+      "text": "…Besides, it seems the person with the strongest desire to aid \nyou just so happens to be right here.",
       "choice_data_list": [
         "Spe…"
-      ],
-      "name": "Grass Wonder",
-      "text": "…Besides, it seems the person with the strongest desire to aid \nyou just so happens to be right here."
+      ]
     },
     {
       "name": "Special Week",
@@ -106,20 +106,20 @@
       "text": "…Trainer-san, I'm really sorry. I just couldn't run at all."
     },
     {
+      "name": "Special Week",
+      "text": "I think Grass-chan was on point… My mind really went astray…",
       "choice_data_list": [
         "Was your friend's plea bothering you?",
         "Was your friend's plea bothering you?"
-      ],
-      "name": "Special Week",
-      "text": "I think Grass-chan was on point… My mind really went astray…"
+      ]
     },
     {
+      "name": "Special Week",
+      "text": "Eh…? Trainer-san, you knew…?",
       "choice_data_list": [
         "Sorry, I overheard your conversation.",
         "Sorry, I overheard your conversation."
-      ],
-      "name": "Special Week",
-      "text": "Eh…? Trainer-san, you knew…?"
+      ]
     },
     {
       "name": "Special Week",
@@ -198,11 +198,11 @@
       "text": "-Subsequently, Special Week slowly read through the letter."
     },
     {
+      "name": "Special Week",
+      "text": "(Chuckles)… She's saying the same thing again.",
       "choice_data_list": [
         "Same thing?"
-      ],
-      "name": "Special Week",
-      "text": "(Chuckles)… She's saying the same thing again."
+      ]
     },
     {
       "name": "Special Week",

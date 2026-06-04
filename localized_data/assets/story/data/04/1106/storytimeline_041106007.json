@@ -22,36 +22,36 @@
       "text": "…………"
     },
     {
+      "name": "Hishi Miracle",
+      "text": "――And that's what happened. I want to go and have some fun but, \neveryone's working hard so it didn't feel right to ask them……",
       "choice_data_list": [
         "Then, should I go with you?"
-      ],
-      "name": "Hishi Miracle",
-      "text": "――And that's what happened. I want to go and have some fun but, \neveryone's working hard so it didn't feel right to ask them……"
+      ]
     },
     {
       "name": "Hishi Miracle",
       "text": "But, Trainer-san, aren't you really busy? Like, \npreparing for training, and how you're always with me――"
     },
     {
+      "text": "She felt apologetic so Hishi Miracle spoke in a small \nvoice. I told her that she didn't need to hold back.",
       "choice_data_list": [
         "To think you'd be trying to be considerate……"
-      ],
-      "text": "She felt apologetic so Hishi Miracle spoke in a small \nvoice. I told her that she didn't need to hold back."
+      ]
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Wai- what do you mean by that!? \nUsually, I'm a considerate girl though!?",
       "choice_data_list": [
         "You were……!?",
         "You were……!?"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Wai- what do you mean by that!? \nUsually, I'm a considerate girl though!?"
+      ]
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Haaa. Whatever~. In that case, I won't hold \nback. I'll have Trainer-san accompany me.",
       "choice_data_list": [
         "Of course, gladly."
-      ],
-      "name": "Hishi Miracle",
-      "text": "Haaa. Whatever~. In that case, I won't hold \nback. I'll have Trainer-san accompany me."
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -62,11 +62,11 @@
       "text": "Well…… since we have the chance, rather than the festival…… \njust for today, do you want to try something special?"
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Hmmmm~, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all.",
       "choice_data_list": [
         "We probably shouldn't go much further"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Hmmmm~, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all."
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -77,11 +77,11 @@
       "text": "(I just wanted to show them scenery that was \nout of the ordinary…… Is this what happens \nwhen you do something you're not used to~?)"
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Haaa, that's unfortunate. I thought \nit'd be a good way to show my gratitude.",
       "choice_data_list": [
         "Gratitude?"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Haaa, that's unfortunate. I thought \nit'd be a good way to show my gratitude."
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -104,11 +104,11 @@
       "text": "But if it's just this, I really wonder if it \nmatches up to Trainer-san's passion. That's \nwhat I've been thinking and it made me worry."
     },
     {
+      "name": "Hishi Miracle",
+      "text": "At the very least, with this I could repay \nthat favor a little bit…… is what I had hoped, \nbut as you can see, things didn't work out.",
       "choice_data_list": [
         "I'm happy you feel that way"
-      ],
-      "name": "Hishi Miracle",
-      "text": "At the very least, with this I could repay \nthat favor a little bit…… is what I had hoped, \nbut as you can see, things didn't work out."
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -130,17 +130,17 @@
       "text": "She didn't seem to be that depressed. ……But, it probably \nwasn't wrong to think she was a little disappointed."
     },
     {
+      "text": "She really didn't need to thank me. Just \nhearing that she was trying to respond \nto my expectations was more than enough.",
       "choice_data_list": [
         "Then, I wonder what I'll have you do!"
-      ],
-      "text": "She really didn't need to thank me. Just \nhearing that she was trying to respond \nto my expectations was more than enough."
+      ]
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Eh?",
       "choice_data_list": [
         "Add more training time? Or maybe――"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Eh?"
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -157,42 +157,42 @@
       "text": "――She really didn't need to match up to my passion. \nBut, if she wants to run, and starts to want to win……"
     },
     {
+      "text": "If she wants to do her best to match those expectations, \nthen naturally, I'll support her.",
       "choice_data_list": [
         "Wanna run all the way back to school?"
-      ],
-      "text": "If she wants to do her best to match those expectations, \nthen naturally, I'll support her."
+      ]
     },
     {
       "name": "Hishi Miracle",
       "text": "Wouldn't that mean you'd be coming with me, Trainer-san? \nI think it'd be rough, even with a bicycle though."
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know~?",
       "choice_data_list": [
         "Yeah, I was really happy"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know~?"
+      ]
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Hmm……",
       "choice_data_list": [
         "That you'd be that concerned……"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Hmm……"
+      ]
     },
     {
+      "name": "Hishi Miracle",
+      "text": "I-I wouldn't say that……",
       "choice_data_list": [
         "Enough that you couldn't sleep……"
-      ],
-      "name": "Hishi Miracle",
-      "text": "I-I wouldn't say that……"
+      ]
     },
     {
+      "name": "Hishi Miracle",
+      "text": "C'mon! That's an exaggeration! \nI sleep at night just fine!!",
       "choice_data_list": [
         "Ahahaha"
-      ],
-      "name": "Hishi Miracle",
-      "text": "C'mon! That's an exaggeration! \nI sleep at night just fine!!"
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -202,11 +202,11 @@
       "text": "After letting out a deep breath and relaxing, \nHishi Miracle turned to me with a smile. Even \nif there is a difference, it's not a bad thing."
     },
     {
+      "text": "Compared to other trainers and their Uma Musume, it \nreally was a little different. But, even then――",
       "choice_data_list": [
         "I think it's fun",
         "I think it's fun"
-      ],
-      "text": "Compared to other trainers and their Uma Musume, it \nreally was a little different. But, even then――"
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -216,11 +216,11 @@
       "text": "We can just do our best together. We don't \nneed to be that concerned. It's fine, we \ncan still move forward together."
     },
     {
+      "name": "Hishi Miracle",
+      "text": "……That's…… yeah. You're right.",
       "choice_data_list": [
         "Let's try going a little further"
-      ],
-      "name": "Hishi Miracle",
-      "text": "……That's…… yeah. You're right."
+      ]
     },
     {
       "name": "Hishi Miracle",
@@ -230,11 +230,11 @@
       "text": "We only proceeded a little bit further. \nBut when we did, while looking up through the trees――"
     },
     {
+      "name": "Hishi Miracle",
+      "text": "Oh…… the stars, amazing…… they seem so close…… \neven though all we did was move to a different spot.",
       "choice_data_list": [
         "Probably because it's darker here"
-      ],
-      "name": "Hishi Miracle",
-      "text": "Oh…… the stars, amazing…… they seem so close…… \neven though all we did was move to a different spot."
+      ]
     },
     {
       "name": "Hishi Miracle",

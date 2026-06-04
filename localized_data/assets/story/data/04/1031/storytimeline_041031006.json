@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "On a day off, I happened to run into Ines Fujin while walking \naround town. Unusual, as she spends most of her free time \nat her part time jobs.",
       "choice_data_list": [
         "No shift today I see.",
         "No shift today I see."
-      ],
-      "text": "On a day off, I happened to run into Ines Fujin while walking \naround town. Unusual, as she spends most of her free time \nat her part time jobs."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -17,12 +17,12 @@
       "text": "So I'm taking the opportunity to go all around town \nand enjoy it to the fullest! Now where do I start～?"
     },
     {
+      "name": "Ines Fujin",
+      "text": "…… Well, I would've liked to, at least.",
       "choice_data_list": [
         "What's up?",
         "What's up?"
-      ],
-      "name": "Ines Fujin",
-      "text": "…… Well, I would've liked to, at least."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -33,18 +33,18 @@
       "text": "Yeah… it's surprisingly hard～!"
     },
     {
+      "text": "Considering how active she always is, that's such a <i>her</i> \nproblem to have I'm not even surprised. In that case —",
       "choice_data_list": [
         "Shall I escort you today?",
         "Shall I escort you today?"
-      ],
-      "text": "Considering how active she always is, that's such a <i>her</i> \nproblem to have I'm not even surprised. In that case —"
+      ]
     },
     {
+      "name": "Ines Fujin",
+      "text": "Oh? You, Trainer?",
       "choice_data_list": [
         "I owe you for all your help as well."
-      ],
-      "name": "Ines Fujin",
-      "text": "Oh? You, Trainer?"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -63,10 +63,10 @@
       "text": "You can't find all these animals at the local zoo! \nMy little sisters will be so amazed when I tell them!"
     },
     {
+      "text": "Seeing her smile and wanting to keep up how well \nthis was going, I tried to cross-reference the spots \nrecommended on social media with the map, but…",
       "choice_data_list": [
         "The petting area is… uhh? I don't see it."
-      ],
-      "text": "Seeing her smile and wanting to keep up how well \nthis was going, I tried to cross-reference the spots \nrecommended on social media with the map, but…"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -77,17 +77,17 @@
       "text": "They moved last week apparently. \nSays it's opposite the Penguin Corner now!"
     },
     {
+      "name": "Ines Fujin",
+      "text": "Amazing! This view's spectacular～! \nYou think we can see the academy through this telescope～?",
       "choice_data_list": [
         "Let's take a peek!"
-      ],
-      "name": "Ines Fujin",
-      "text": "Amazing! This view's spectacular～! \nYou think we can see the academy through this telescope～?"
+      ]
     },
     {
+      "text": "Putting words right into action, I tried to \ninsert a coin in the telescope before her.",
       "choice_data_list": [
         "Wait, I don't have any change!?"
-      ],
-      "text": "Putting words right into action, I tried to \ninsert a coin in the telescope before her."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -98,11 +98,11 @@
       "text": "Hey—! Man, you're panicking too much! There's no need \nto rush, the telescope's not going anywhere, you know～?"
     },
     {
+      "name": "Ines Fujin",
+      "text": "The atmosphere here feels kind of really mature… \n…… It's a little exciting♪",
       "choice_data_list": [
         "Got my change already, it's time to play!"
-      ],
-      "name": "Ines Fujin",
-      "text": "The atmosphere here feels kind of really mature… \n…… It's a little exciting♪"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -113,11 +113,11 @@
       "text": "It says you need special coins to play here. \nYou need to exchange some first, Trainer!"
     },
     {
+      "text": "We continued to drop by various places, but everywhere \nwe went I ended up needing Ines Fujin to help me out.",
       "choice_data_list": [
         "Ugh, my self-image……",
         "Ugh, my self-image……"
-      ],
-      "text": "We continued to drop by various places, but everywhere \nwe went I ended up needing Ines Fujin to help me out."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -153,11 +153,11 @@
       "text": "Turf, 2400m…… She ran an escape on \nthe same distance as the Japan Derby!"
     },
     {
+      "text": "Turf, 2400m. As she says, it's the distance \nof the Japan Derby. It was also the same distance \nas that time she stole my heart in an instant.",
       "choice_data_list": [
         "You can run just as well, no, better!",
         "You can run just as well, no, better!"
-      ],
-      "text": "Turf, 2400m. As she says, it's the distance \nof the Japan Derby. It was also the same distance \nas that time she stole my heart in an instant."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -175,28 +175,28 @@
       "text": "There it is. Her passionate gaze — the beast inside surfacing."
     },
     {
+      "text": "When her wish comes true, I'm sure the entire audience will be \ncaptivated by her. I couldn't help but picture the scene at the \nvenue, the unending cheers for her performance.",
       "choice_data_list": [
         "Then we aim for the lead early!"
-      ],
-      "text": "When her wish comes true, I'm sure the entire audience will be \ncaptivated by her. I couldn't help but picture the scene at the \nvenue, the unending cheers for her performance."
+      ]
     },
     {
+      "name": "Ines Fujin",
+      "text": "That's right! The groundwork for \nan escape is laid early after all!",
       "choice_data_list": [
         "We'll need to focus on your starts too."
-      ],
-      "name": "Ines Fujin",
-      "text": "That's right! The groundwork for \nan escape is laid early after all!"
+      ]
     },
     {
       "name": "Ines Fujin",
       "text": "Yeah, there was a girl in this race who reacted late and couldn't \nbreak away from the pack… I better concentrate, too!"
     },
     {
+      "name": "Ines Fujin",
+      "text": "I could also be blocked or run out stamina in the final leg…",
       "choice_data_list": [
         "You'll need power and stamina for that."
-      ],
-      "name": "Ines Fujin",
-      "text": "I could also be blocked or run out stamina in the final leg…"
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -210,11 +210,11 @@
       "text": "I became naturally impassioned by the conversation \nand before I knew it, quite a bit of time had passed."
     },
     {
+      "name": "Ines Fujin",
+      "text": "What can I say…… \nYou really are a trainer.",
       "choice_data_list": [
         "S-Sorry for rambling on……"
-      ],
-      "name": "Ines Fujin",
-      "text": "What can I say…… \nYou really are a trainer."
+      ]
     },
     {
       "name": "Ines Fujin",
@@ -229,11 +229,11 @@
       "text": "So don't apologize, mm?"
     },
     {
+      "name": "Ines Fujin",
+      "text": "Thank you for today! If we get another chance, \nlet's go out somewhere together again!",
       "choice_data_list": [
         "I'll escort you properly next time!"
-      ],
-      "name": "Ines Fujin",
-      "text": "Thank you for today! If we get another chance, \nlet's go out somewhere together again!"
+      ]
     },
     {
       "name": "Ines Fujin",

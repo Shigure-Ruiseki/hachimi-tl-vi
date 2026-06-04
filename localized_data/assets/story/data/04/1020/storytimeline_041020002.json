@@ -5,11 +5,11 @@
       "text": "A few days have passed since I became \nSeiun Sky's trainer. However…"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Trainer-san, Trainer-san, have you heard! There's gonna be a \nnice tide coming in today! And you know what that means, right? \nThis is the perfect day to go fishing!",
       "choice_data_list": [
         "Fishing? What about training…?"
-      ],
-      "name": "Seiun Sky",
-      "text": "Trainer-san, Trainer-san, have you heard! There's gonna be a \nnice tide coming in today! And you know what that means, right? \nThis is the perfect day to go fishing!"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -44,12 +44,12 @@
       "text": "If that's the case, why am I even here? \nI walked around the academy as I pondered this question."
     },
     {
+      "name": "King Halo",
+      "text": "Hmph. So it seems that the rumors about a rookie \ntrainer being manipulated were true.",
       "choice_data_list": [
         "You're Seiun Sky's classmate…",
         "You're Seiun Sky's classmate…"
-      ],
-      "name": "King Halo",
-      "text": "Hmph. So it seems that the rumors about a rookie \ntrainer being manipulated were true."
+      ]
     },
     {
       "name": "King Halo",
@@ -60,12 +60,12 @@
       "text": "Anyways… Haa… From the looks of it, it really does seem \nlike she's manipulating you."
     },
     {
+      "name": "King Halo",
+      "text": "I was hoping to get some valuable information on Sky-san from \nyou to develop a strategy, but… this was a complete waste! As \nit stands, it'll happen all over again… Ah, jeez!",
       "choice_data_list": [
         "Is Seiun Sky really that fast?",
         "Is Seiun Sky really that fast?"
-      ],
-      "name": "King Halo",
-      "text": "I was hoping to get some valuable information on Sky-san from \nyou to develop a strategy, but… this was a complete waste! As \nit stands, it'll happen all over again… Ah, jeez!"
+      ]
     },
     {
       "name": "King Halo",
@@ -198,12 +198,12 @@
       "text": "She closed in on me and dropped me to 2nd, huh? \nSpe-chan's explosive power is really something…"
     },
     {
+      "name": "Seiun Sky",
+      "text": "…………",
       "choice_data_list": [
         "You did great out there too",
         "You did great out there too"
-      ],
-      "name": "Seiun Sky",
-      "text": "…………"
+      ]
     },
     {
       "name": "Seiun Sky",

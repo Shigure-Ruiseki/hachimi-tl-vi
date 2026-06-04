@@ -9,63 +9,63 @@
       "text": "Haa……haa……haa――"
     },
     {
+      "name": "Verxina",
+      "text": "Yaaaaaa!!!!",
       "choice_data_list": [
         "(!! She can still accelerate――!?)"
-      ],
-      "name": "Verxina",
-      "text": "Yaaaaaa!!!!"
+      ]
     },
     {
       "text": "It had been a few months since I had arrived at Tracen Academy. \nI was hoping to scout an Uma Musume so I had come to observe training."
     },
     {
+      "text": "I was also checking on the participants in the upcoming \nmock race. But the most notable of these was Verxina――",
       "choice_data_list": [
         "(Halfway through I forgot to breathe……!!)"
-      ],
-      "text": "I was also checking on the participants in the upcoming \nmock race. But the most notable of these was Verxina――"
+      ]
     },
     {
       "text": "From her calm outward appearance, it was a fierce run you wouldn't \nexpect. I just couldn't take my eyes off her regal presence."
     },
     {
+      "name": "Verxina",
+      "text": "――Do you have some business with me?",
       "choice_data_list": [
         "No……I was just captivated……",
         "No……I was just captivated……"
-      ],
-      "name": "Verxina",
-      "text": "――Do you have some business with me?"
+      ]
     },
     {
       "name": "Verxina",
       "text": "Oh my……――Fufuu, thank you very much."
     },
     {
+      "name": "Verxina",
+      "text": "I'm glad my amateurish running wasn't unsightly. \nWell then, I have a prior engagement so I'll excuse myself here.",
       "choice_data_list": [
         "Ah…………"
-      ],
-      "name": "Verxina",
-      "text": "I'm glad my amateurish running wasn't unsightly. \nWell then, I have a prior engagement so I'll excuse myself here."
+      ]
     },
     {
+      "text": "I couldn't bring myself to stop her as she walked away. \nFor a while, I was unable to move from that spot.",
       "choice_data_list": [
         "(Her run……was burned in to my memory……)"
-      ],
-      "text": "I couldn't bring myself to stop her as she walked away. \nFor a while, I was unable to move from that spot."
+      ]
     },
     {
       "text": "She was dignified and resolute. Like she was aiming higher, \nand higher, continuing to improve herself――"
     },
     {
+      "text": "I wanted to be there to see where that run would take her. \nIn that moment, I knew what my dream was.",
       "choice_data_list": [
         "(I have to scout her――!)"
-      ],
-      "text": "I wanted to be there to see where that run would take her. \nIn that moment, I knew what my dream was."
+      ]
     },
     {
+      "text": "The next day. \nI was looking for Verxina to try and form a contract with her――",
       "choice_data_list": [
         "(……What's with all those people?)"
-      ],
-      "text": "The next day. \nI was looking for Verxina to try and form a contract with her――"
+      ]
     },
     {
       "name": "Verxina",
@@ -80,10 +80,10 @@
       "text": "Thank you very much. However, I still haven't reached \nmy goal…… I intend to continue studying further, so \nI'm thankful for your continued guidance."
     },
     {
+      "text": "It seems like Verxina was also taking voice lessons. Seeing her \nworking so diligently, many Uma Musume were looking on in admiration.",
       "choice_data_list": [
         "(I shouldn't interrupt……)"
-      ],
-      "text": "It seems like Verxina was also taking voice lessons. Seeing her \nworking so diligently, many Uma Musume were looking on in admiration."
+      ]
     },
     {
       "name": "Spectating Trainees",
@@ -108,25 +108,25 @@
       "text": "(BANG!!)"
     },
     {
+      "text": "Since she was outside today, I wanted to try talking \nto her but, I really didn't want to disturb her.",
       "choice_data_list": [
         "(She really takes everything seriously……)"
-      ],
-      "text": "Since she was outside today, I wanted to try talking \nto her but, I really didn't want to disturb her."
+      ]
     },
     {
+      "text": "After that, I continued searching for \nVerxina several times hoping to scout her, but――",
       "choice_data_list": [
         "(There's no chance to talk to her……!)"
-      ],
-      "text": "After that, I continued searching for \nVerxina several times hoping to scout her, but――"
+      ]
     },
     {
       "text": "It seems like she has a very stoic personality. \nEvery time I saw her, she was always diligently working on something."
     },
     {
+      "text": "I found myself drawn more and more to her earnest nature, \nbut I still couldn't bring myself to talk to her. Before \nI realized it, the mock race was just around the corner.",
       "choice_data_list": [
         "(I wanted to be the first to talk to her)"
-      ],
-      "text": "I found myself drawn more and more to her earnest nature, \nbut I still couldn't bring myself to talk to her. Before \nI realized it, the mock race was just around the corner."
+      ]
     },
     {
       "name": "Verxina's Fan",
@@ -157,10 +157,10 @@
       "text": "『Verxina-senpai! Do your best in tomorrow's mock race!』 \n『Verxina-sama! Tomorrow, we'll definitely come cheer for you!』"
     },
     {
+      "text": "It seems like they were all waiting for a chance \nto talk to her too. As soon as they got out of \nthe car, they were surrounded by a group of fans.",
       "choice_data_list": [
         "(I can't even get close……)"
-      ],
-      "text": "It seems like they were all waiting for a chance \nto talk to her too. As soon as they got out of \nthe car, they were surrounded by a group of fans."
+      ]
     },
     {
       "name": "Verxina",
@@ -171,22 +171,22 @@
       "text": "I'm truly grateful for your enthusiastic support. \nHowever――don't you think you're exaggerating a bit?"
     },
     {
+      "name": "Verxina",
+      "text": "The mock race is just a way to confirm your current state. \nIt's just a chance to show if you can reach for the 『Peak』.",
       "choice_data_list": [
         "(――――!)"
-      ],
-      "name": "Verxina",
-      "text": "The mock race is just a way to confirm your current state. \nIt's just a chance to show if you can reach for the 『Peak』."
+      ]
     },
     {
       "name": "Verxina",
       "text": "Of course, tomorrow, I'll show you what victory is like \nfor someone aiming for that 『Peak』. Without a doubt."
     },
     {
+      "name": "Verxina",
+      "text": "That's why you should feel free to come and see. \n――Well then, please excuse me.",
       "choice_data_list": [
         "Ah……"
-      ],
-      "name": "Verxina",
-      "text": "That's why you should feel free to come and see. \n――Well then, please excuse me."
+      ]
     },
     {
       "text": "The 『Peak』――I now knew that was her aspiration. \nAll her efforts everyday were for this. And so, the next day――"

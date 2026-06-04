@@ -95,12 +95,12 @@
       "text": "A trainer, personally paying a visit to the contender of a \nSelection Race… Can I take it that you are here to scout me?"
     },
     {
+      "name": "Symboli Rudolf",
+      "text": "In which case, allow me to ask you one thing. \n…… With what purpose have you come to see me?",
       "choice_data_list": [
         "I wanted to see more of your running.",
         "I wanted to see more of your running."
-      ],
-      "name": "Symboli Rudolf",
-      "text": "In which case, allow me to ask you one thing. \n…… With what purpose have you come to see me?"
+      ]
     },
     {
       "name": "Symboli Rudolf",

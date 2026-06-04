@@ -5,11 +5,11 @@
       "text": "It had been a while since \nI became Orfevre's trainer——"
     },
     {
+      "name": "Orfevre",
+      "text": "——This is the King's order. \nEntertain me.",
       "choice_data_list": [
         "Eeh!? Even if you say that……"
-      ],
-      "name": "Orfevre",
-      "text": "——This is the King's order. \nEntertain me."
+      ]
     },
     {
       "name": "Orfevre",
@@ -19,11 +19,11 @@
       "text": "I've been with Orfevre for a while now, but I still don't \nreally understand how she sees me……honestly, it was baffling."
     },
     {
+      "name": "Mecha PR Rep",
+      "text": "——I see! \nSo that leg power is Orfevre's strength, huh!?",
       "choice_data_list": [
         "Of course, that's only part of it."
-      ],
-      "name": "Mecha PR Rep",
-      "text": "——I see! \nSo that leg power is Orfevre's strength, huh!?"
+      ]
     },
     {
       "name": "Orfevre",
@@ -50,37 +50,37 @@
       "text": "A huge amount of fatigue can accumulate in the legs of Uma \nMusume due to their high speed running! This can remove that \nfatigue just like that～, it's our best new product!"
     },
     {
+      "name": "Orfevre",
+      "text": "Very well. \n——Hey, you will prove that for them. By using your own body.",
       "choice_data_list": [
         "Acknowledged. Then……"
-      ],
-      "name": "Orfevre",
-      "text": "Very well. \n——Hey, you will prove that for them. By using your own body."
+      ]
     },
     {
       "text": "I place my legs in to the device and secure it in place \nusing the attached belts. Then I hold the switch in my hand."
     },
     {
+      "name": "Mecha PR Rep",
+      "text": "Ah——",
       "choice_data_list": [
         "Switch, on!"
-      ],
-      "name": "Mecha PR Rep",
-      "text": "Ah——"
+      ]
     },
     {
+      "text": "——So, you may be wondering why there were belts attached to \nthis leg massager. Well, I figured that out right away.",
       "choice_data_list": [
         "Wha-Aaaaaaaaaahhhhhh-!?"
-      ],
-      "text": "——So, you may be wondering why there were belts attached to \nthis leg massager. Well, I figured that out right away."
+      ]
     },
     {
       "text": "An Uma Musume could achieve speeds of 70km/h. In order to \nrelieve stiffness from legs that could do that, it was \nonly natural the massage would be equally more intense."
     },
     {
+      "name": "Orfevre",
+      "text": "……",
       "choice_data_list": [
         "Owowowowow It hurts! Ha～AH～AH!"
-      ],
-      "name": "Orfevre",
-      "text": "……"
+      ]
     },
     {
       "name": "Mecha PR Rep",
@@ -95,11 +95,11 @@
       "text": "……Fuu. \n……Haha——!"
     },
     {
+      "name": "Orfevre",
+      "text": "Now, this is quite amusing. \nTo think you had it in you to become a clown.",
       "choice_data_list": [
         "Tuuuuuuurn it ooooooooffff～!"
-      ],
-      "name": "Orfevre",
-      "text": "Now, this is quite amusing. \nTo think you had it in you to become a clown."
+      ]
     },
     {
       "name": "Mecha PR Rep",
@@ -132,11 +132,11 @@
       "text": "Rejoice. \nYou have \"talent\"."
     },
     {
+      "name": "Orfevre",
+      "text": "——A role that only you can perform.",
       "choice_data_list": [
         "Eh……?"
-      ],
-      "name": "Orfevre",
-      "text": "——A role that only you can perform."
+      ]
     },
     {
       "name": "Orfevre",

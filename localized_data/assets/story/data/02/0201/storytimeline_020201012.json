@@ -2,18 +2,18 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "――Alright. With this, it looks like \nwe're done loading all the luggage.",
       "choice_data_list": [
         "King, can you double check?",
         "King, can you double check?"
-      ],
-      "text": "――Alright. With this, it looks like \nwe're done loading all the luggage."
+      ]
     },
     {
+      "text": "――Alright. With this, it looks like \nwe're done loading all the luggage.",
       "choice_data_list": [
         "King, can you double check?",
         "King, can you double check?"
-      ],
-      "text": "――Alright. With this, it looks like \nwe're done loading all the luggage."
+      ]
     },
     {
       "name": "King Halo",
@@ -70,12 +70,12 @@
       "text": "I'm looking forward to it! My first G1…… \nWith everyone's support, I'll be sure to make it count!"
     },
     {
+      "name": "King Halo",
+      "text": "And, more importantly, are you feeling okay? \nDid you get enough sleep yesterday? Are those dark \ncircles under your eyes just my imagination?",
       "choice_data_list": [
         "I-I'm fine! I slept soundly!",
         "I-I'm fine! I slept soundly!"
-      ],
-      "name": "King Halo",
-      "text": "And, more importantly, are you feeling okay? \nDid you get enough sleep yesterday? Are those dark \ncircles under your eyes just my imagination?"
+      ]
     },
     {
       "name": "King Halo",
@@ -86,27 +86,27 @@
       "text": "Anyways, to get to the inn near the Hanshin \nRacecourse, it'll take about eight hours, \nincluding breaks! Make sure you drive properly."
     },
     {
+      "name": "King Halo",
+      "text": "If you start dozing off, I'll be right beside \nyou to pinch your thighs and wake you up.",
       "choice_data_list": [
         "Haha……go easy on me……"
-      ],
-      "name": "King Halo",
-      "text": "If you start dozing off, I'll be right beside \nyou to pinch your thighs and wake you up."
+      ]
     },
     {
+      "name": "King Halo",
+      "text": "Ah. I think it's about time to move in to the right-hand lane.",
       "choice_data_list": [
         "Oh! Thanks, King",
         "Oh! Thanks, King"
-      ],
-      "name": "King Halo",
-      "text": "Ah. I think it's about time to move in to the right-hand lane."
+      ]
     },
     {
+      "name": "King Halo",
+      "text": "Yeah, yeah, stay focused. ……That said, before \nwe knew it, everyone's already asleep. I \nsuppose they all didn't get much sleep either.",
       "choice_data_list": [
         "It's fine if you sleep too",
         "It's fine if you sleep too"
-      ],
-      "name": "King Halo",
-      "text": "Yeah, yeah, stay focused. ……That said, before \nwe knew it, everyone's already asleep. I \nsuppose they all didn't get much sleep either."
+      ]
     },
     {
       "name": "King Halo",
@@ -137,12 +137,12 @@
       "text": "Now that you mention it, there was. ……It's a bit nostalgic. \nAnd now it's grown this much――"
     },
     {
+      "name": "King Halo",
+      "text": "On top of that, even two promising rookies that can handle G1 races \njoined. ……It's shaping up to be quite the team, don't you think?",
       "choice_data_list": [
         "It is……!",
         "It is……!"
-      ],
-      "name": "King Halo",
-      "text": "On top of that, even two promising rookies that can handle G1 races \njoined. ……It's shaping up to be quite the team, don't you think?"
+      ]
     },
     {
       "text": "Rhein Kraft and Cesario have both breathed new \nlife in to Team <Ascella>. The first time meeting \nboth of them is still vivid in my memory――"
@@ -167,11 +167,11 @@
       "text": "And quickly getting in to a good position is Rhein Kraft! \nShe's off to an outstanding start!"
     },
     {
+      "name": "Rookie Trainer A",
+      "text": "Uooooh, as expected! She's giving us a good show \nright from the start~……! Just like was mentioned, \nRhein Kraft has some considerable abilities!",
       "choice_data_list": [
         "Definitely……!"
-      ],
-      "name": "Rookie Trainer A",
-      "text": "Uooooh, as expected! She's giving us a good show \nright from the start~……! Just like was mentioned, \nRhein Kraft has some considerable abilities!"
+      ]
     },
     {
       "text": "(To be able to accelerate up to full speed that quickly…… \nshe has quite the talent when it comes to speed!)"
@@ -183,12 +183,12 @@
       "text": "(Able to concentrate and avoid a late start, able to judge the \nbest position to take……it was quite the eye-opening potential……!)"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Haa, haa, haa……! \nI can still keep going……like this……!!",
       "choice_data_list": [
         "Rhein Kraft……is amazing……!",
         "Rhein Kraft……is amazing……!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Haa, haa, haa……! \nI can still keep going……like this……!!"
+      ]
     },
     {
       "name": "Rookie Trainer A",
@@ -207,12 +207,12 @@
       "text": "With 400m left, here comes Cesario! Cesario with the speed!! \nShe breaks through the group from behind and quickly pulls away!!"
     },
     {
+      "name": "Live Announcer",
+      "text": "What terrifying speed! She easily pulls away \nfrom the other Uma Musume! Cesario, with that \nburst, quickly approaches Rhein Kraft in the lead!!",
       "choice_data_list": [
         "What a strong final leg……!",
         "What a strong final leg……!"
-      ],
-      "name": "Live Announcer",
-      "text": "What terrifying speed! She easily pulls away \nfrom the other Uma Musume! Cesario, with that \nburst, quickly approaches Rhein Kraft in the lead!!"
+      ]
     },
     {
       "text": "(She must have been preserving her strength, \nbut look at that form! She didn't just stand \nout……she was on a completely different level!!!)"
@@ -242,23 +242,23 @@
       "text": "……!!"
     },
     {
+      "text": "There was a roar of cheers. An announcment. \nBut all of it seemed so far away. That's just \nhow――impressed by Rhein Kraft and Cesario I was!",
       "choice_data_list": [
         "Amazing……those two are amazing……!!",
         "Amazing……those two are amazing……!!"
-      ],
-      "text": "There was a roar of cheers. An announcment. \nBut all of it seemed so far away. That's just \nhow――impressed by Rhein Kraft and Cesario I was!"
+      ]
     },
     {
+      "text": "(Of course, every team wanted to scout them. Even the \nmost 『Talented』 trainers in my year felt that way)",
       "choice_data_list": [
         "(But, those two――)"
-      ],
-      "text": "(Of course, every team wanted to scout them. Even the \nmost 『Talented』 trainers in my year felt that way)"
+      ]
     },
     {
+      "text": "(Of course, every team wanted to scout them. Even the \nmost 『Talented』 trainers in my year felt that way)",
       "choice_data_list": [
         "(But, those two――)"
-      ],
-      "text": "(Of course, every team wanted to scout them. Even the \nmost 『Talented』 trainers in my year felt that way)"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -273,11 +273,11 @@
       "text": "Um, the two of us will do our best! \nAnd――we want to join Team <Ascella>!"
     },
     {
+      "name": "Cesario",
+      "text": "Will you become our trainer? \n……I'm looking forward to working with you.",
       "choice_data_list": [
         "……Eh!?"
-      ],
-      "name": "Cesario",
-      "text": "Will you become our trainer? \n……I'm looking forward to working with you."
+      ]
     },
     {
       "text": "――I didn't expect both of them to approach me first, so I was \nreally surprised. I still wonder why they chose our team."
@@ -289,19 +289,19 @@
       "text": "But still, since they joined……I want to help \nthem win. Since these two were already talented, \nI'll have to put in the effort to match."
     },
     {
+      "name": "King Halo",
+      "text": "True. ……And so, how do you feel about the results \nyou've worked hard for? Kraft-san's 『Hanshin JF』, \ndo you think she has a good chance of winning?",
       "choice_data_list": [
         "Yeah. I think we can win.",
         "Yeah. I think we can win."
-      ],
-      "name": "King Halo",
-      "text": "True. ……And so, how do you feel about the results \nyou've worked hard for? Kraft-san's 『Hanshin JF』, \ndo you think she has a good chance of winning?"
+      ]
     },
     {
+      "text": "She won her debut, and her major last month. And her training \ncould almost be called perfect. I think we're fully prepared.",
       "choice_data_list": [
         "Her first G1. Hope she isn't nervous――",
         "Her first G1. Hope she isn't nervous――"
-      ],
-      "text": "She won her debut, and her major last month. And her training \ncould almost be called perfect. I think we're fully prepared."
+      ]
     },
     {
       "name": "King Halo",
@@ -317,12 +317,12 @@
       "text": "After the long journey, and a short night――it was finally time. \nThe day of Rhein Kraft's 『Hanshin JF』……"
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Suuu……――Huuuu. \n……Yeah, alright!",
       "choice_data_list": [
         "Kraft, feeling alright?",
         "Kraft, feeling alright?"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Suuu……――Huuuu. \n……Yeah, alright!"
+      ]
     },
     {
       "name": "Rhein Kraft",

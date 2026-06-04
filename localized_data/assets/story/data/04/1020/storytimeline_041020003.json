@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Seiun Sky",
+      "text": "I'm coming in. Yahoo, Trainer-san, how're you doing?",
       "choice_data_list": [
         "I'm doing well.",
         "I'm doing well."
-      ],
-      "name": "Seiun Sky",
-      "text": "I'm coming in. Yahoo, Trainer-san, how're you doing?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -21,10 +21,10 @@
       "text": "Seiun Sky's gaze continued to wander. \nIt seemed like something was bothering her."
     },
     {
+      "text": "She didn't seem like she was doing well… \nSo I said…",
       "choice_data_list": [
         "Let's go out for a change."
-      ],
-      "text": "She didn't seem like she was doing well… \nSo I said…"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -35,11 +35,11 @@
       "text": "Oh, now isn't this rare. Trainer-san, are you telling me \nthat you're trying to skip out on work?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Well isn't that nice, so what're we gonna do? \nSunbathe? Look for cats? Or how about… fishing?",
       "choice_data_list": [
         "Let's go fishing!"
-      ],
-      "name": "Seiun Sky",
-      "text": "Well isn't that nice, so what're we gonna do? \nSunbathe? Look for cats? Or how about… fishing?"
+      ]
     },
     {
       "text": "And so, Seiun Sky and I went fishing, but…"
@@ -48,12 +48,12 @@
       "text": "………………"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Ahaha! Trainer-san, you're pretty bad at this, aren't you? \nAlthough I ended up skunked too. Nyahaha.",
       "choice_data_list": [
         "Still having fun with no catches?",
         "Still having fun with no catches?"
-      ],
-      "name": "Seiun Sky",
-      "text": "Ahaha! Trainer-san, you're pretty bad at this, aren't you? \nAlthough I ended up skunked too. Nyahaha."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -76,19 +76,19 @@
       "text": "Simply put, you aim for your target, collect information, \nprepare, then try. And if that doesn't work, you change \nit up and try again."
     },
     {
+      "name": "Seiun Sky",
+      "text": "There's no better feeling than when the trap that you've \nbeen preparing finally catches its prey.",
       "choice_data_list": [
         "Sounds like the way you race.",
         "Sounds like the way you race."
-      ],
-      "name": "Seiun Sky",
-      "text": "There's no better feeling than when the trap that you've \nbeen preparing finally catches its prey."
+      ]
     },
     {
+      "name": "Seiun Sky",
+      "text": "Eh…? What part?",
       "choice_data_list": [
         "Using different tactics to ensure victory."
-      ],
-      "name": "Seiun Sky",
-      "text": "Eh…? What part?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -103,12 +103,12 @@
       "text": "I'm not the child of a GI trainee and my grades \nin school aren't great. So why would someone like \nme have any aspirations to win?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "That's why I don't expect anything of myself, I just \ntake it easy and spend most of my days relaxing and \nfishing. That's the life of Sei-chan.",
       "choice_data_list": [
         "But you still want to be first, right?",
         "But you still want to be first, right?"
-      ],
-      "name": "Seiun Sky",
-      "text": "That's why I don't expect anything of myself, I just \ntake it easy and spend most of my days relaxing and \nfishing. That's the life of Sei-chan."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -123,20 +123,20 @@
       "text": "The same trainer that's a rookie, went with the flow, \nand accepted my excuses, no matter how irresponsible \nthey were?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Don't tell me, did something come out \nof the river and replace you? How scary…",
       "choice_data_list": [
         "I'm your trainer.",
         "I'm your trainer."
-      ],
-      "name": "Seiun Sky",
-      "text": "Don't tell me, did something come out \nof the river and replace you? How scary…"
+      ]
     },
     {
+      "name": "Seiun Sky",
+      "text": "I guess you really are my trainer… \nThen why are you…?",
       "choice_data_list": [
         "I want to support you.",
         "I want to support you."
-      ],
-      "name": "Seiun Sky",
-      "text": "I guess you really are my trainer… \nThen why are you…?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -177,12 +177,12 @@
       "text": "It was so amazing! The greatest feeling I've ever had!! \nIt left everyone around me with their jaws on the floor!"
     },
     {
+      "name": "Seiun Sky",
+      "text": "\"Why'd it have to be her\" \"How in the world \ndid she!?\" \"There should be no way someone \ncould catch something like that, yet…!\"",
       "choice_data_list": [
         "So that's how this all began?",
         "So that's how this all began?"
-      ],
-      "name": "Seiun Sky",
-      "text": "\"Why'd it have to be her\" \"How in the world \ndid she!?\" \"There should be no way someone \ncould catch something like that, yet…!\""
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -197,11 +197,11 @@
       "text": "And that's why it bothers me… \nHow I felt in that moment is etched into my mind."
     },
     {
+      "name": "Seiun Sky",
+      "text": "But of course… This is all referring to fishing.",
       "choice_data_list": [
         "Let's fish up a huge catch together"
-      ],
-      "name": "Seiun Sky",
-      "text": "But of course… This is all referring to fishing."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -220,11 +220,11 @@
       "text": "And it's definitely not because I thought that getting some \nadvice from an actual trainer would be nice for a change!!"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Just kidding… I wanted to try out being a tsundere this time, \nso what'd you think? Was it cute? Teehee ☆",
       "choice_data_list": [
         "The cutest."
-      ],
-      "name": "Seiun Sky",
-      "text": "Just kidding… I wanted to try out being a tsundere this time, \nso what'd you think? Was it cute? Teehee ☆"
+      ]
     },
     {
       "name": "Seiun Sky",

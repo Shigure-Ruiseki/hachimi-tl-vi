@@ -9,12 +9,12 @@
       "text": "Haa… Such a comfy design, and that cute, curly tail…"
     },
     {
+      "name": "Seiun Sky",
+      "text": "For this perfect gem to fit in the palm of my hand, \nthis truly is the perfect form of therapy.",
       "choice_data_list": [
         "What're you talking about?",
         "What're you talking about?"
-      ],
-      "name": "Seiun Sky",
-      "text": "For this perfect gem to fit in the palm of my hand, \nthis truly is the perfect form of therapy."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -25,12 +25,12 @@
       "text": "More importantly, Trainer-san, are you free on your next day off?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "I was thinking of getting a new pair of shoes and was wondering \nif you'd like to come and look at some with me.",
       "choice_data_list": [
         "Of course.",
         "Of course."
-      ],
-      "name": "Seiun Sky",
-      "text": "I was thinking of getting a new pair of shoes and was wondering \nif you'd like to come and look at some with me."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -44,12 +44,12 @@
       "text": "Hmm, now where's that sporting goods store at…"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Oh…?",
       "choice_data_list": [
         "What's up?",
         "What's up?"
-      ],
-      "name": "Seiun Sky",
-      "text": "Oh…?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -71,12 +71,12 @@
       "text": "I'd feel much more motivated if I could have a cup of tea \nout of it before every training session."
     },
     {
+      "name": "Seiun Sky",
+      "text": "What should I do…? Should I buy it…? Oh!?",
       "choice_data_list": [
         "What is it this time?",
         "What is it this time?"
-      ],
-      "name": "Seiun Sky",
-      "text": "What should I do…? Should I buy it…? Oh!?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -114,12 +114,12 @@
       "text": "Trainer-san… Do you happen to own a mug?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "If I remember correctly, I'm pretty sure you don't have one.",
       "choice_data_list": [
         "Was this your plan?",
         "Was this your plan?"
-      ],
-      "name": "Seiun Sky",
-      "text": "If I remember correctly, I'm pretty sure you don't have one."
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -142,19 +142,19 @@
       "text": "Symbolizing the deep bond between us… \nWouldn't that be wonderful?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Plus, I know for a fact it would help make me feel more \npumped for training… <i>Glance glance</i>.",
       "choice_data_list": [
         "Fine…"
-      ],
-      "name": "Seiun Sky",
-      "text": "Plus, I know for a fact it would help make me feel more \npumped for training… <i>Glance glance</i>."
+      ]
     },
     {
+      "name": "Seiun Sky",
+      "text": "Oh, really?",
       "choice_data_list": [
         "This'll make you happy, right?",
         "This'll make you happy, right?"
-      ],
-      "name": "Seiun Sky",
-      "text": "Oh, really?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -165,11 +165,11 @@
       "text": "You're pretty good at making sure your trainee's motivation \nis always as high as can be, huh?"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Now then, why don't we each buy one?",
       "choice_data_list": [
         "I'll pay for both."
-      ],
-      "name": "Seiun Sky",
-      "text": "Now then, why don't we each buy one?"
+      ]
     },
     {
       "name": "Seiun Sky",
@@ -187,12 +187,12 @@
       "text": "To think you'd pay for my mug too!"
     },
     {
+      "name": "Seiun Sky",
+      "text": "Sei-chan's bond level has risen by one once again. Pirorirorin♪",
       "choice_data_list": [
         "Well, you're in a good mood.",
         "Well, you're in a good mood."
-      ],
-      "name": "Seiun Sky",
-      "text": "Sei-chan's bond level has risen by one once again. Pirorirorin♪"
+      ]
     },
     {
       "name": "Seiun Sky",

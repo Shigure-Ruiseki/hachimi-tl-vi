@@ -31,12 +31,12 @@
       "text": "It's okay, it's okay. El is strong, El is strong! \nSo, it's okay……!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Órale</i>, I can ru— \n¿¡Ay ay ay!?",
       "choice_data_list": [
         "Don't force it!",
         "Don't force it!"
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Órale</i>, I can ru— \n¿¡Ay ay ay!?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -58,19 +58,19 @@
       "text": "…… Okay. You can look now, Trainer!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Phoo</i>… Nooothing went on here! Noothing at all, right? \nYou didn't see anything, did you, Trainer?",
       "choice_data_list": [
         "<i>Heh</i>? But, I…"
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Phoo</i>… Nooothing went on here! Noothing at all, right? \nYou didn't see anything, did you, Trainer?"
+      ]
     },
     {
+      "name": "El Condor Pasa",
+      "text": "<i>Did. You. Trainer!? </i>",
       "choice_data_list": [
         "O-oh, no…",
         "O-oh, no…"
-      ],
-      "name": "El Condor Pasa",
-      "text": "<i>Did. You. Trainer!? </i>"
+      ]
     },
     {
       "text": "I gave in……"
@@ -80,12 +80,12 @@
       "text": "Okay, that's that then! …What are you \ndoing here anyway, Trainer?"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Ah, did you hear me shout earlier? \nIs that why you came to check on me?",
       "choice_data_list": [
         "Your leg, is it hurting? Let me see.",
         "Is your leg hurting? Let me see."
-      ],
-      "name": "El Condor Pasa",
-      "text": "Ah, did you hear me shout earlier? \nIs that why you came to check on me?"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -104,12 +104,12 @@
       "text": "It makes me very happy to be on the receiving end!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "Because a trusty partner is essential to rule \nthe world as the mightiest trainee!",
       "choice_data_list": [
         "You're really aiming for the world, eh?",
         "You're really aiming for the world, eh?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "Because a trusty partner is essential to rule \nthe world as the mightiest trainee!"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -136,12 +136,12 @@
       "text": "I swore on this mask! I will make my name known \nas the strongest trainee in the wooorld!"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "—— <i>¡Ay ay ay!</i>",
       "choice_data_list": [
         "You okay!?",
         "You okay!?"
-      ],
-      "name": "El Condor Pasa",
-      "text": "—— <i>¡Ay ay ay!</i>"
+      ]
     },
     {
       "name": "El Condor Pasa",
@@ -159,12 +159,12 @@
       "text": "<i>Hehehen…</i> El knows. After all, you're the trainer \nwho rushed to scout me straight away…"
     },
     {
+      "name": "El Condor Pasa",
+      "text": "You've actually been itching like crazy \nto train with El, haven't you!?",
       "choice_data_list": [
         "No, that's not what I……",
         "No, that's not what I……"
-      ],
-      "name": "El Condor Pasa",
-      "text": "You've actually been itching like crazy \nto train with El, haven't you!?"
+      ]
     },
     {
       "name": "El Condor Pasa",

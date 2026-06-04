@@ -62,12 +62,12 @@
       "text": "Hey hey, you over there, Trainer-kun!! \nLooks like that girl's got your attention, huh?"
     },
     {
+      "name": "Tokai Teio",
+      "text": "Kitasan Black, or Kita-chan for short! I'm looking forward to her \nfuture. Seeing how a girl that strong will become with training.",
       "choice_data_list": [
         "You're… Tokai Teio",
         "You're… Tokai Teio"
-      ],
-      "name": "Tokai Teio",
-      "text": "Kitasan Black, or Kita-chan for short! I'm looking forward to her \nfuture. Seeing how a girl that strong will become with training."
+      ]
     },
     {
       "name": "Tokai Teio",
@@ -210,22 +210,22 @@
       "text": "I… wasn't… looking… \nI didn't understand anything…"
     },
     {
+      "name": "Kitasan Black",
+      "text": "But— But— from now on! \nI may have lost today, but—!",
       "choice_data_list": [
         "Excuse me!"
-      ],
-      "name": "Kitasan Black",
-      "text": "But— But— from now on! \nI may have lost today, but—!"
+      ]
     },
     {
       "name": "Kitasan Black",
       "text": "Y-yeah?! \nOh, you're that trainer from before, aren't you?"
     },
     {
+      "text": "As if I was charmed by her, and in awe of her- \nI couldn't help calling out.",
       "choice_data_list": [
         "Will you let me be your trainer?",
         "Will you let me be your trainer?"
-      ],
-      "text": "As if I was charmed by her, and in awe of her- \nI couldn't help calling out."
+      ]
     },
     {
       "name": "Kitasan Black",

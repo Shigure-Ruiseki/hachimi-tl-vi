@@ -37,24 +37,24 @@
       "text": "Wow, thank you very much!! Then first, about training your \nmuscles for better acceleration…"
     },
     {
+      "name": "Student Council Member",
+      "text": "Ahh, putting all the materials together is so difficult… maybe \nI'll go consult the vice president…",
       "choice_data_list": [
         "If you don't mind, I can help instead.",
         "If you don't mind, I can help instead."
-      ],
-      "name": "Student Council Member",
-      "text": "Ahh, putting all the materials together is so difficult… maybe \nI'll go consult the vice president…"
+      ]
     },
     {
       "name": "Student Council Member",
       "text": "Ehh!? You will!? Then, please do! About \nsorting the results of this vote一"
     },
     {
+      "name": "Air Groove",
+      "text": "Hey, you. What are you thinking?",
       "choice_data_list": [
         "What do you mean?",
         "What do you mean?"
-      ],
-      "name": "Air Groove",
-      "text": "Hey, you. What are you thinking?"
+      ]
     },
     {
       "name": "Air Groove",
@@ -65,20 +65,20 @@
       "text": "Why would you do something like that. Are you trying to say \nyou'll handle all the \"useless\" things yourself?"
     },
     {
+      "name": "Air Groove",
+      "text": "Well, answer me! Depending on your reply, the \ncontract will be terminated immediately!",
       "choice_data_list": [
         "Because the things you cherish, I want to cherish as well",
         "Because the things you cherish, I want to cherish as well"
-      ],
-      "name": "Air Groove",
-      "text": "Well, answer me! Depending on your reply, the \ncontract will be terminated immediately!"
+      ]
     },
     {
+      "name": "Air Groove",
+      "text": "…What?",
       "choice_data_list": [
         "Let me help you, as your trainer.",
         "Let me help you, as your trainer."
-      ],
-      "name": "Air Groove",
-      "text": "…What?"
+      ]
     },
     {
       "name": "Air Groove",
@@ -134,10 +134,10 @@
       "text": "The incomparable \"Empress\" Air Groove!! \nHer legend has just begun!!"
     },
     {
+      "text": "The day after the spectacular victory. I received a message from \nAir Groove saying \"I have something I want you to help with\".",
       "choice_data_list": [
         ">(Air Groove is relying on me!?)"
-      ],
-      "text": "The day after the spectacular victory. I received a message from \nAir Groove saying \"I have something I want you to help with\"."
+      ]
     },
     {
       "text": "Let's hurry to her…!!"
@@ -147,11 +147,11 @@
       "text": "So you came. \n…Hm? Why are you so out of breath?"
     },
     {
+      "name": "Air Groove",
+      "text": "Well whatever. Let's get started. The \nseeds I ordered just arrived.",
       "choice_data_list": [
         "Seeds? Of what?"
-      ],
-      "name": "Air Groove",
-      "text": "Well whatever. Let's get started. The \nseeds I ordered just arrived."
+      ]
     },
     {
       "name": "Air Groove",
@@ -172,12 +172,12 @@
       "text": "Although I got scolded very often, I somehow \nmanaged to finish the work safely…"
     },
     {
+      "name": "Air Groove",
+      "text": "Alright, we're pretty much finished. \n…I'm looking forward to when they sprout and bloom.",
       "choice_data_list": [
         "You liked flowers, huh.",
         "You liked flowers, huh."
-      ],
-      "name": "Air Groove",
-      "text": "Alright, we're pretty much finished. \n…I'm looking forward to when they sprout and bloom."
+      ]
     },
     {
       "name": "Air Groove",
@@ -232,23 +232,23 @@
       "text": "If someone is going to call that useless and throw it away, then \nI thought I didn't need a trainer…"
     },
     {
+      "name": "Air Groove",
+      "text": "But… um. If it's just you… I don't \nmind trusting you a little bit…",
       "choice_data_list": [
         "Please rely on me more and more from now on!",
         "Please rely on me more and more from now on!"
-      ],
-      "name": "Air Groove",
-      "text": "But… um. If it's just you… I don't \nmind trusting you a little bit…"
+      ]
     },
     {
       "name": "Air Groove",
       "text": "Sh-shut up!! I'm telling you to say that after \nI see how reliable you actually are!"
     },
     {
+      "name": "Air Groove",
+      "text": "Good grief, the future isn't gonna be easy…!",
       "choice_data_list": [
         "I'm just glad there is a future!"
-      ],
-      "name": "Air Groove",
-      "text": "Good grief, the future isn't gonna be easy…!"
+      ]
     },
     {
       "name": "Air Groove",

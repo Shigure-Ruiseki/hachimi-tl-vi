@@ -9,12 +9,12 @@
       "text": "Good morning, Trainer-san."
     },
     {
+      "name": "Grass Wonder",
+      "text": "Fufuu, to think that everyday right after waking up we'd start \ntraining, there's no better environment than this, is there～?",
       "choice_data_list": [
         "You're fully motivated, huh",
         "You're fully motivated, huh"
-      ],
-      "name": "Grass Wonder",
-      "text": "Fufuu, to think that everyday right after waking up we'd start \ntraining, there's no better environment than this, is there～?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -39,22 +39,22 @@
       "text": "It seems like Grass Wonder herself feels she \nhasn't reached the goals she set for herself."
     },
     {
+      "text": "However, maybe due to fatigue, her form had started to \ndeteriorate. If she continued it might lead to injury―",
       "choice_data_list": [
         "Let's call it a day here"
-      ],
-      "text": "However, maybe due to fatigue, her form had started to \ndeteriorate. If she continued it might lead to injury―"
+      ]
     },
     {
       "name": "Grass Wonder",
       "text": "I'm fine……I can still keep running……?"
     },
     {
+      "name": "Grass Wonder",
+      "text": "At this…… training camp I need to……",
       "choice_data_list": [
         "You can't run more than this!",
         "You can't run more than this!"
-      ],
-      "name": "Grass Wonder",
-      "text": "At this…… training camp I need to……"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -79,10 +79,10 @@
       "text": "I heard there was a summer festival nearby, \nso I came to invite you, Trainer-san. Want to go together?"
     },
     {
+      "text": "I thought she would be upset since I had stopped her \ntraining, but Grass Wonder seemed the same as usual.",
       "choice_data_list": [
         "Of course, I don't mind"
-      ],
-      "text": "I thought she would be upset since I had stopped her \ntraining, but Grass Wonder seemed the same as usual."
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -93,11 +93,11 @@
       "text": "While I prefer a quieter place for a walk, this liveliness \nis precisely what makes a festival nice, isn't it?"
     },
     {
+      "name": "Grass Wonder",
+      "text": "Ah, look at that. They're selling a candy that \nlooks like a whole watermelon. Trainer-san, you \nmade sure not to eat anything yet, right?",
       "choice_data_list": [
         "I can't eat all of that……!"
-      ],
-      "name": "Grass Wonder",
-      "text": "Ah, look at that. They're selling a candy that \nlooks like a whole watermelon. Trainer-san, you \nmade sure not to eat anything yet, right?"
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -152,11 +152,11 @@
       "text": "Oh, I'm nothing so ruthless. \nI'm always tranquil…… my heart is always at harmony♪"
     },
     {
+      "name": "Grass Wonder",
+      "text": "The festival was fun, wasn't it♪～? \nEven though it's a training camp, it's important to let loose.",
       "choice_data_list": [
         "You wanted to run though, right?"
-      ],
-      "name": "Grass Wonder",
-      "text": "The festival was fun, wasn't it♪～? \nEven though it's a training camp, it's important to let loose."
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -171,12 +171,12 @@
       "text": "But, the reason I can be so stubborn, \nis because Trainer-san is there to support me."
     },
     {
+      "name": "Grass Wonder",
+      "text": "Times when I truly need to stop, \nyou'll step in to stop me.",
       "choice_data_list": [
         "I'll do my best to keep supporting you",
         "I'll do my best to keep supporting you"
-      ],
-      "name": "Grass Wonder",
-      "text": "Times when I truly need to stop, \nyou'll step in to stop me."
+      ]
     },
     {
       "name": "Grass Wonder",
@@ -198,11 +198,11 @@
       "text": "……wait, huh? Is the training over with this? \nIt feels strange though, I can still keep running, you know?"
     },
     {
+      "name": "Grass Wonder",
+      "text": "Trainer-san, have you made a mistake in \nhow much training I should be doing?",
       "choice_data_list": [
         "Let's do 1 more set!"
-      ],
-      "name": "Grass Wonder",
-      "text": "Trainer-san, have you made a mistake in \nhow much training I should be doing?"
+      ]
     },
     {
       "name": "Grass Wonder",

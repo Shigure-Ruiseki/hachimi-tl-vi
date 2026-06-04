@@ -5,12 +5,12 @@
       "text": "On the day of the Selection Race ——"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Lotus root balanced by spinach… \nLotus root balanced by spinach…",
       "choice_data_list": [
         "What's that, some sort of incantation…?",
         "What's that, some sort of incantation…?"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Lotus root balanced by spinach… \nLotus root balanced by spinach…"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -49,12 +49,12 @@
       "text": "The start is getting close now… Alrighty then, friends, \nI'm going to run my heart out. Wish me good losing!!"
     },
     {
+      "name": "Silence Suzuka",
+      "text": "Okay! Good… <i>huh</i>, <i>ehh</i>?",
       "choice_data_list": [
         "Go for it!!",
         "Go for it!!"
-      ],
-      "name": "Silence Suzuka",
-      "text": "Okay! Good… <i>huh</i>, <i>ehh</i>?"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -100,12 +100,12 @@
       "text": "(Wooooaaaaaaaaaaah!!!)"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Ahhhhah～</i> For a moment I thought I could take the lead, \nbut I couldn't catch up and finished last～",
       "choice_data_list": [
         "Great effort, everyone noticed you.",
         "Great effort, everyone noticed you."
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "<i>Ahhhhah～</i> For a moment I thought I could take the lead, \nbut I couldn't catch up and finished last～"
+      ]
     },
     {
       "name": "Silence Suzuka",
@@ -150,12 +150,12 @@
       "text": "I'm reminded of how, for all she loves fortune-telling \nand all the support she's found in it, this curious little \ntrainee also still loves to run."
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "Umm, Trainer… If you leave me hanging any longer, I believe \nI might start regurgitating fortunes out of nervousness……",
       "choice_data_list": [
         "Let's go chase our luck together!",
         "Let's go chase our luck together!"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "Umm, Trainer… If you leave me hanging any longer, I believe \nI might start regurgitating fortunes out of nervousness……"
+      ]
     },
     {
       "name": "Matikanefukukitaru",
@@ -177,12 +177,12 @@
       "text": "Today's carrot reading said running against a partner would \nlead to improved fortune, see, but as luck would have it, \nSuzuka wasn't available…"
     },
     {
+      "name": "Matikanefukukitaru",
+      "text": "That being the case, I thought you could run with me, Trainer!",
       "choice_data_list": [
         "You think I can keep up with a trainee?!",
         "You think I can keep up with a trainee?!"
-      ],
-      "name": "Matikanefukukitaru",
-      "text": "That being the case, I thought you could run with me, Trainer!"
+      ]
     },
     {
       "name": "Matikanefukukitaru",

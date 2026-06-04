@@ -133,10 +133,10 @@
       "text": "I hope you guys like it too! Here's one for you!"
     },
     {
+      "text": "I take the haskap as prompted and throw it into my mouth. \nIt is fresh and tart with a hint of sweetness.",
       "choice_data_list": [
         "Delicious!"
-      ],
-      "text": "I take the haskap as prompted and throw it into my mouth. \nIt is fresh and tart with a hint of sweetness."
+      ]
     },
     {
       "name": "Hokko Tarumae",
@@ -153,16 +153,16 @@
       "text": "The singing was lovely, she always tried her \nbest to liven up the place, and the haskaps \nwere excellent, but… the world is harsh."
     },
     {
+      "text": "A few days later―",
       "choice_data_list": [
         "(I want some haskaps……!)"
-      ],
-      "text": "A few days later―"
+      ]
     },
     {
+      "text": "I cannot forget the taste of the haskaps I had at a tasting the \nother day. But apparently, they are hard to find in \nsupermarkets in Honshu.",
       "choice_data_list": [
         "I want to eat more……"
-      ],
-      "text": "I cannot forget the taste of the haskaps I had at a tasting the \nother day. But apparently, they are hard to find in \nsupermarkets in Honshu."
+      ]
     },
     {
       "text": "When I opened the booklet that Hokko Tarumae gave me, \nI found the contact information for the store that sold the \nhaskap that I had eaten at the tasting was clearly listed."
@@ -172,11 +172,11 @@
       "text": "『Well, well, well! Tarumae-chan live on the street! She's \nreally working hard, isn't she?』"
     },
     {
+      "name": "Haskap Farm Owner",
+      "text": "『……How was she? She's a serious girl, \nso I was kind of worried.'』",
       "choice_data_list": [
         "It was a trial and error situation."
-      ],
-      "name": "Haskap Farm Owner",
-      "text": "『……How was she? She's a serious girl, \nso I was kind of worried.'』"
+      ]
     },
     {
       "name": "Haskap Farm Owner",

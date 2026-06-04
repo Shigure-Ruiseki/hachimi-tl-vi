@@ -124,12 +124,12 @@
       "text": "But it looks like the engine started too late! \nThe front reaches the goal! King Halo comes in 2nd!!"
     },
     {
+      "name": "King Halo",
+      "text": "Ah… Ha… Ha… \n…Kh.",
       "choice_data_list": [
         "That was a beautiful last leg…!",
         "That was a beautiful last leg…!"
-      ],
-      "name": "King Halo",
-      "text": "Ah… Ha… Ha… \n…Kh."
+      ]
     },
     {
       "name": "King Halo",
@@ -144,12 +144,12 @@
       "text": "Ufufu, joining the winning team right away, huh! \nVery well, I'll give you the right to promote King yourself!"
     },
     {
+      "name": "King Halo",
+      "text": "Now, tell me. \nJust what kind of trainer do you intend to become?",
       "choice_data_list": [
         "I want to see you win on a big stage.",
         "I want to see you win on a big stage."
-      ],
-      "name": "King Halo",
-      "text": "Now, tell me. \nJust what kind of trainer do you intend to become?"
+      ]
     },
     {
       "name": "King Halo",
@@ -164,12 +164,12 @@
       "text": "With an answer of that level, I'll have to refuse."
     },
     {
+      "name": "King Halo",
+      "text": "I won't acknowledge anything less than a first-class trainer. \nI have to decide you don't currently fit those qualifications.",
       "choice_data_list": [
         "Right now, I'm still a rookie but someday I'll be first-class!",
         "Right now, I'm still a rookie but someday I'll be first-class!"
-      ],
-      "name": "King Halo",
-      "text": "I won't acknowledge anything less than a first-class trainer. \nI have to decide you don't currently fit those qualifications."
+      ]
     },
     {
       "name": "King Halo",

@@ -38,11 +38,11 @@
       "text": "！？"
     },
     {
+      "name": "Tired-looking Trainer",
+      "text": "As a newbie, just talking about a big \ndream like that won't earn you any trust.",
       "choice_data_list": [
         "That's……"
-      ],
-      "name": "Tired-looking Trainer",
-      "text": "As a newbie, just talking about a big \ndream like that won't earn you any trust."
+      ]
     },
     {
       "name": "Tired-looking Trainer",
@@ -53,11 +53,11 @@
       "text": "That trainer is……the one from yesterday……"
     },
     {
+      "name": "Tired-looking Trainer",
+      "text": "Guiding your partner Uma Musume to the summit…… \nas a response to an interview question, it's perfect though.",
       "choice_data_list": [
         "…………"
-      ],
-      "name": "Tired-looking Trainer",
-      "text": "Guiding your partner Uma Musume to the summit…… \nas a response to an interview question, it's perfect though."
+      ]
     },
     {
       "name": "Tired-looking Trainer",
@@ -73,11 +73,11 @@
       "text": "It's normal for an Uma Musume to be uneasy \nif I don't even have a track record. If it's \ntalking about dreams, that's something anyone can do."
     },
     {
+      "name": "Tired-looking Trainer",
+      "text": "Just have a more realistic dream. It's better than \nbeing told you're in over your head, right? Save the \nbig dreams for after you've got more experience――",
       "choice_data_list": [
         "……is that what I should do?"
-      ],
-      "name": "Tired-looking Trainer",
-      "text": "Just have a more realistic dream. It's better than \nbeing told you're in over your head, right? Save the \nbig dreams for after you've got more experience――"
+      ]
     },
     {
       "text": "I clenched my fists tightly. I was shaken by these words, \nand it was frustrating that I had no response."
@@ -90,22 +90,22 @@
       "text": "But, it's your dream isn't it?"
     },
     {
+      "name": "Katsuragi Ace",
+      "text": "Right, Trainer-san?",
       "choice_data_list": [
         "Katsuragi Ace……"
-      ],
-      "name": "Katsuragi Ace",
-      "text": "Right, Trainer-san?"
+      ]
     },
     {
       "name": "Tired-looking Trainer",
       "text": "Ah. Y-you were listening just now……? Well, \nyou could just say it was a conversation \nbetween adults……umm……I-I'll take my leave then!"
     },
     {
+      "name": "Katsuragi Ace",
+      "text": "…………",
       "choice_data_list": [
         "Umm…………"
-      ],
-      "name": "Katsuragi Ace",
-      "text": "…………"
+      ]
     },
     {
       "name": "Katsuragi Ace",
@@ -119,18 +119,18 @@
       "text": "…………Sorry! I wasn't trying to eavesdrop \nor anything, I just happened to hear it."
     },
     {
+      "name": "Katsuragi Ace",
+      "text": "You probably didn't want me to hear it though…… \nBut, I hope you can forgive me for hearing it.",
       "choice_data_list": [
         "……It's fine"
-      ],
-      "name": "Katsuragi Ace",
-      "text": "You probably didn't want me to hear it though…… \nBut, I hope you can forgive me for hearing it."
+      ]
     },
     {
+      "name": "Katsuragi Ace",
+      "text": "Is that so? Then, let's go!",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Katsuragi Ace",
-      "text": "Is that so? Then, let's go!"
+      ]
     },
     {
       "name": "Katsuragi Ace",
@@ -164,11 +164,11 @@
       "text": "But, it didn't matter how outstanding you were, there \ncould only be a few winners. Not everyone could win."
     },
     {
+      "text": "――However.",
       "choice_data_list": [
         "Our job is to fulfill those dreams",
         "Our job is to fulfill those dreams"
-      ],
-      "text": "――However."
+      ]
     },
     {
       "text": "Reckless? Too big? So what? \nThat's how dreams are supposed to be."
@@ -177,11 +177,11 @@
       "text": "If it's something that can be fulfilled so easily, \nrather than a dream, you might as well call them 『Plans』."
     },
     {
+      "name": "Katsuragi Ace",
+      "text": "Right, that's a trainer's job. \nAnd, you've got a dream too right?",
       "choice_data_list": [
         "!"
-      ],
-      "name": "Katsuragi Ace",
-      "text": "Right, that's a trainer's job. \nAnd, you've got a dream too right?"
+      ]
     },
     {
       "name": "Katsuragi Ace",

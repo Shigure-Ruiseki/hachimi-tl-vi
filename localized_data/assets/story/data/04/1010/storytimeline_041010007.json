@@ -9,12 +9,12 @@
       "text": "Haaa… haaa… and, Goal!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Haa, haa… fuuu. \nWith this, am I finished with training?",
       "choice_data_list": [
         "Yeah, good work",
         "Yeah, good work"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Haa, haa… fuuu. \nWith this, am I finished with training?"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -33,10 +33,10 @@
       "text": "That's why-… \nlet's find some really fresh ingredients, and have a barbeque!"
     },
     {
+      "text": "Since training's over, she should probably be \nresting now, but… Taiki Shuttle was gazing \nat me with eyes filled with expectations.",
       "choice_data_list": [
         "…guess it can't be helped."
-      ],
-      "text": "Since training's over, she should probably be \nresting now, but… Taiki Shuttle was gazing \nat me with eyes filled with expectations."
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -51,11 +51,11 @@
       "text": "Looking right and looking left. \nIf this is the place, then there should be mushrooms around here."
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "They should be way more fresh than the ones sold in stores. \nLet's look for the ultimate mushrooms!",
       "choice_data_list": [
         "Be careful of ones with poison-"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "They should be way more fresh than the ones sold in stores. \nLet's look for the ultimate mushrooms!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -66,11 +66,11 @@
       "text": "Red with white dots…! Don't tell me, if you eat these \nyou'll become giant like those legendary mushrooms?!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Trainer-san, keep your eyes opened too! \nDo you want to eat these? Okay! Let's get them!",
       "choice_data_list": [
         "Those are poison mushrooms!"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Trainer-san, keep your eyes opened too! \nDo you want to eat these? Okay! Let's get them!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -87,11 +87,11 @@
       "text": "…at some point we ended up at the beach."
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Oh! Trainer-san! It's the ocean! When you think of the ocean you \nthink of… shellfish! Sea urchin! Let's go!",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Oh! Trainer-san! It's the ocean! When you think of the ocean you \nthink of… shellfish! Sea urchin! Let's go!"
+      ]
     },
     {
       "text": "Before I could stop her, Taiki Shuttle ran towards the ocean!"
@@ -105,10 +105,10 @@
       "text": "Alright, please follow me!"
     },
     {
+      "text": "Even though it's summer, if she's this soaked \nshe might still catch a cold…",
       "choice_data_list": [
         "Wouldn't it be easier to just buy some…?"
-      ],
-      "text": "Even though it's summer, if she's this soaked \nshe might still catch a cold…"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -143,11 +143,11 @@
       "text": "Yeaaaah! Thank you!…fufu! \nTrainer-san, which vegetables should we pick?"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Once we choose these~…we'll finally be ready for the finale!",
       "choice_data_list": [
         "Starting prep for a barbeque now is…"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Once we choose these~…we'll finally be ready for the finale!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -161,10 +161,10 @@
       "text": "Welcome to a Happy Barbeque Party—!!"
     },
     {
+      "text": "On the beach, probably borrowed from the training camp \nfacilities, there was a barbeque set already prepared…!",
       "choice_data_list": [
         "W-when did you set this up?!"
-      ],
-      "text": "On the beach, probably borrowed from the training camp \nfacilities, there was a barbeque set already prepared…!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -179,12 +179,12 @@
       "text": "We were able to safely gather all the ingredients so, \nit'll definitely be an especially tasty barbeque!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "Please accept this hospitality from me!!",
       "choice_data_list": [
         "So it was for me…?",
         "So it was for me…?"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "Please accept this hospitality from me!!"
+      ]
     },
     {
       "name": "Taiki Shuttle",
@@ -207,11 +207,11 @@
       "text": "My important, \"Japanese Family\"!"
     },
     {
+      "name": "Taiki Shuttle",
+      "text": "That's why, I'm treating you to the barbeque my family in America \nloves, so Trainer-san can learn about it too!",
       "choice_data_list": [
         "Thank you, I'm happy!"
-      ],
-      "name": "Taiki Shuttle",
-      "text": "That's why, I'm treating you to the barbeque my family in America \nloves, so Trainer-san can learn about it too!"
+      ]
     },
     {
       "name": "Taiki Shuttle",

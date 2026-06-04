@@ -1,12 +1,12 @@
 {
   "text_block_list": [
     {
+      "name": "Win Variation",
+      "text": "Hm… Hmmmmmmmm! \nAh, nothing is coming to mind at all!",
       "choice_data_list": [
         "Shion, you were still practicing?",
         "Shion, you were still practicing?"
-      ],
-      "name": "Win Variation",
-      "text": "Hm… Hmmmmmmmm! \nAh, nothing is coming to mind at all!"
+      ]
     },
     {
       "name": "Win Variation",
@@ -51,31 +51,31 @@
       "text": "…No, that's no good! \nGrumbling won't do me any good."
     },
     {
+      "name": "Win Variation",
+      "text": "I shouldn't be thinking like that. \nEven if I'm bad at it, I just have to give it my all…",
       "choice_data_list": [
         "No… I understand how you feel."
-      ],
-      "name": "Win Variation",
-      "text": "I shouldn't be thinking like that. \nEven if I'm bad at it, I just have to give it my all…"
+      ]
     },
     {
+      "text": "Anyone would want to showcase their strong points during a test. However, if their weak points were shown instead, they'd feel angry and frustrated…",
       "choice_data_list": [
         "I got it, how about expressing that feeling?"
-      ],
-      "text": "Anyone would want to showcase their strong points during a test. However, if their weak points were shown instead, they'd feel angry and frustrated…"
+      ]
     },
     {
+      "name": "Win Variation",
+      "text": "Huh? This… murky and irritating feeling?",
       "choice_data_list": [
         "All emotions are fuel."
-      ],
-      "name": "Win Variation",
-      "text": "Huh? This… murky and irritating feeling?"
+      ]
     },
     {
+      "name": "Win Variation",
+      "text": "! Trainer… yeah. \nYou're totally right.",
       "choice_data_list": [
         "Anger and frustration, turn it into strength!"
-      ],
-      "name": "Win Variation",
-      "text": "! Trainer… yeah. \nYou're totally right."
+      ]
     },
     {
       "name": "Win Variation",
@@ -121,44 +121,44 @@
       "text": "I learned a lot from the comments made on it, I'm happy I worked so hard on it… I got something good to report to Trainer♪"
     },
     {
+      "name": "Win Variation",
+      "text": "Excuse me. \nTrainer! Um, my dance assignment today…",
       "choice_data_list": [
         "—Yes, that thing from a few days ago…"
-      ],
-      "name": "Win Variation",
-      "text": "Excuse me. \nTrainer! Um, my dance assignment today…"
+      ]
     },
     {
+      "name": "Win Variation",
+      "text": "Wah, they're in a call! Gulp…",
       "choice_data_list": [
         "Yes… yes, I'll add it to the—"
-      ],
-      "name": "Win Variation",
-      "text": "Wah, they're in a call! Gulp…"
+      ]
     },
     {
       "name": "Win Variation",
       "text": "(You really are busy, aren't you. Your desk is cluttered… even your computer… I wonder how many files you have opened…)"
     },
     {
+      "name": "Win Variation",
+      "text": "(I… shouldn't make that report now, huh… \nthen again, it's not like it was anything major.)",
       "choice_data_list": [
         "I'll be hanging up now— Sorry! I'm done now!"
-      ],
-      "name": "Win Variation",
-      "text": "(I… shouldn't make that report now, huh… \nthen again, it's not like it was anything major.)"
+      ]
     },
     {
+      "name": "Win Variation",
+      "text": "G-good job today. I should be the one that's sorry… \nBothering you when you're busy.",
       "choice_data_list": [
         "No, no, it's fine. Anyways, what's up?",
         "No, no, it's fine. Anyways, what's up?"
-      ],
-      "name": "Win Variation",
-      "text": "G-good job today. I should be the one that's sorry… \nBothering you when you're busy."
+      ]
     },
     {
+      "name": "Win Variation",
+      "text": "Ah, um… the assignment! I passed it.",
       "choice_data_list": [
         "Congrats! How was it?"
-      ],
-      "name": "Win Variation",
-      "text": "Ah, um… the assignment! I passed it."
+      ]
     },
     {
       "name": "Win Variation",

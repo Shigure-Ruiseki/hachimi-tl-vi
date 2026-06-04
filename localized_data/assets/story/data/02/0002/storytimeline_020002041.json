@@ -6,10 +6,10 @@
       "text": "…Gosh, I've really done it this time."
     },
     {
+      "text": "McQueen's injury seems to be more serious than I thought.",
       "choice_data_list": [
         "How's it feel?"
-      ],
-      "text": "McQueen's injury seems to be more serious than I thought."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -63,10 +63,10 @@
       "text": "…Seeing her now, I sense a mysterious power. One that will pull us all \nforward."
     },
     {
+      "text": "She's right. Having such a hard worker in their midst has done \nwonders for the rest of the team.",
       "choice_data_list": [
         "Guess that means you can focus on getting \nbetter."
-      ],
-      "text": "She's right. Having such a hard worker in their midst has done \nwonders for the rest of the team."
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -163,12 +163,12 @@
       "text": "We'll be cheering for you!"
     },
     {
+      "name": "Rice Shower",
+      "text": "Thanks. Okay, well, here goes!",
       "choice_data_list": [
         "Get behind Bourbon, and don't let her get \naway!",
         "Get behind Bourbon, and don't let her get \naway!"
-      ],
-      "name": "Rice Shower",
-      "text": "Thanks. Okay, well, here goes!"
+      ]
     },
     {
       "name": "Rice Shower",

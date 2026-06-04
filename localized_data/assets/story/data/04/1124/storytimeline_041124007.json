@@ -2,17 +2,17 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "text": "Summer Training Camp――Bubble Gum Fellow's training was going well. \nAfter finishing the morning training menu and reviewing……",
       "choice_data_list": [
         "As planned, you're off this afternoon"
-      ],
-      "text": "Summer Training Camp――Bubble Gum Fellow's training was going well. \nAfter finishing the morning training menu and reviewing……"
+      ]
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Thanks. \nHey, Trainer-san, this afternoon do you have some time?",
       "choice_data_list": [
         "? I do but……"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Thanks. \nHey, Trainer-san, this afternoon do you have some time?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -26,11 +26,11 @@
       "text": "Over there, can you see that cave on the edge of the beach? \nI heard there's some spectacular scenery in there."
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "I only heard it from some people in my hometown \nbut, supposedly, once you exit that cave, the \nocean is pretty amazing……according to rumors.",
       "choice_data_list": [
         "\"The ocean is amazing\"? In what way……?"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "I only heard it from some people in my hometown \nbut, supposedly, once you exit that cave, the \nocean is pretty amazing……according to rumors."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -40,10 +40,10 @@
       "text": "That was some pretty flimsy info. Normally, I would be \npretty uneasy about exploring based only on that. But――"
     },
     {
+      "text": "If I went together with Bubble Gum Fellow, then there was \nno doubt we'd find that amazing ocean――I was sure of that.",
       "choice_data_list": [
         "Let's be the first!"
-      ],
-      "text": "If I went together with Bubble Gum Fellow, then there was \nno doubt we'd find that amazing ocean――I was sure of that."
+      ]
     },
     {
       "text": "The inside of the cave was quiet, and with no light shining \nin, it was difficult to see our footing. The internal structure \nof the cave didn't seem that complicated though……"
@@ -60,12 +60,12 @@
       "text": "Ah, does that look like light over there? \nIf we go a little further――"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Waah, amazing! \nThis, is the light reflecting off the rocks……?",
       "choice_data_list": [
         "It's beautiful……!",
         "It's beautiful……!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Waah, amazing! \nThis, is the light reflecting off the rocks……?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -87,11 +87,11 @@
       "text": "It's pretty……and it kind of feels like a secret base too. \n――An ocean just for us."
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "Alright, since we're here, let's go for a dive!",
       "choice_data_list": [
         "Eh!?"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "Alright, since we're here, let's go for a dive!"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -104,11 +104,11 @@
       "text": "With a big leap, Bubble Gum Fellow dove in to the water. \nI guess I'll just have to wait……"
     },
     {
+      "text": "………… \n……………………",
       "choice_data_list": [
         "…………She's taking so long!?",
         "…………She's taking so long!?"
-      ],
-      "text": "………… \n……………………"
+      ]
     },
     {
       "text": "Was the water really so deep here? \nI was starting to get a little worried, but then――"
@@ -122,11 +122,11 @@
       "text": "There's a really beautiful place down there. \nI'm sure that place is that 『Amazing』 part!"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "I want Trainer-san to see it too. \n――Hey, how about diving with me?",
       "choice_data_list": [
         "Eh……"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "I want Trainer-san to see it too. \n――Hey, how about diving with me?"
+      ]
     },
     {
       "text": "From what I could tell, it seemed like it'd be quite a \ndeep dive. Honestly……it was scary. In the first place, \nI didn't think I could make it by swimming on my own……"
@@ -147,10 +147,10 @@
       "text": "Her words full of conviction gave me courage. \n『You can do it』……if she says that then――I can believe her."
     },
     {
+      "text": "I'll give it a try. No――",
       "choice_data_list": [
         "I'll do it. I believe you!"
-      ],
-      "text": "I'll give it a try. No――"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -177,21 +177,21 @@
       "text": "――There, spreading out before me, was a spectacular \nscene that I had never seen before."
     },
     {
+      "text": "The sunlight was filtering down and making the water \nseem to sparkle. The brightly colored corals were \nin full bloom, and many beautiful fish swam about.",
       "choice_data_list": [
         "(It's beautiful……)",
         "(It's beautiful……)"
-      ],
-      "text": "The sunlight was filtering down and making the water \nseem to sparkle. The brightly colored corals were \nin full bloom, and many beautiful fish swam about."
+      ]
     },
     {
       "text": "(Splash!)"
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "How was it? Beautiful, right!?",
       "choice_data_list": [
         "It was amazing!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "How was it? Beautiful, right!?"
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -202,11 +202,11 @@
       "text": "――See? Just like I thought."
     },
     {
+      "name": "Bubble Gum Fellow",
+      "text": "If it's you, you can dive right in. \nTo that 『Amazing』 scenery, you could make it.",
       "choice_data_list": [
         "……!"
-      ],
-      "name": "Bubble Gum Fellow",
-      "text": "If it's you, you can dive right in. \nTo that 『Amazing』 scenery, you could make it."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",
@@ -221,11 +221,11 @@
       "text": "I can do anything. And if you're with me, we can do anything. \n――I wanted to show you that. That's why I brought you here."
     },
     {
+      "text": "Bubble Gum Fellow's gaze fell on me, straight-forward \nand sincere……I could feel a warmth in my chest.",
       "choice_data_list": [
         "I wonder if I can……",
         "I wonder if I can……"
-      ],
-      "text": "Bubble Gum Fellow's gaze fell on me, straight-forward \nand sincere……I could feel a warmth in my chest."
+      ]
     },
     {
       "name": "Bubble Gum Fellow",

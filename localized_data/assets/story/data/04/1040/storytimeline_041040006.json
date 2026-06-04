@@ -9,19 +9,19 @@
       "text": "…I lost speed at the last leg again. What is it, this…?"
     },
     {
+      "name": "Gold City",
+      "text": "I even quit modeling and chose this path…! \nTrainer! Practice menu, make it tougher!",
       "choice_data_list": [
         "Let’s take a break"
-      ],
-      "name": "Gold City",
-      "text": "I even quit modeling and chose this path…! \nTrainer! Practice menu, make it tougher!"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Huh!? What are you saying? I can still go onー",
       "choice_data_list": [
         "A change of pace is also important!",
         "A change of pace is also important!"
-      ],
-      "name": "Gold City",
-      "text": "Huh!? What are you saying? I can still go onー"
+      ]
     },
     {
       "name": "Gold City",
@@ -42,19 +42,19 @@
       "text": "…Did you think I didn’t notice you? Sneaking \naround, while imitating this hot aura."
     },
     {
+      "name": "Gold City",
+      "text": "This? Ah… I was looking at old photos.",
       "choice_data_list": [
         "What kind of photos?"
-      ],
-      "name": "Gold City",
-      "text": "This? Ah… I was looking at old photos."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Record of exercises and meals. And… the ones I took in for work. \nThe rest, doesn’t really matter to me anymore.",
       "choice_data_list": [
         "It must be an important memory",
         "It must be an important memory"
-      ],
-      "name": "Gold City",
-      "text": "Record of exercises and meals. And… the ones I took in for work. \nThe rest, doesn’t really matter to me anymore."
+      ]
     },
     {
       "name": "Gold City",
@@ -84,11 +84,11 @@
       "text": "No matter where we went, Gold City’s reaction wasn’t good…"
     },
     {
+      "text": "Suddenly, Gold City stopped. What was ahead of the line of sight, \nwas a large copy of an advertising post.",
       "choice_data_list": [
         "Do you care?",
         "Do you care?"
-      ],
-      "text": "Suddenly, Gold City stopped. What was ahead of the line of sight, \nwas a large copy of an advertising post."
+      ]
     },
     {
       "name": "Gold City",
@@ -114,27 +114,27 @@
       "text": "……"
     },
     {
+      "name": "Gold City",
+      "text": "…Say something. You have something to say, right. Today, you \nwere giving out such an atmosphere.",
       "choice_data_list": [
         "You’re lost, aren’t you?",
         "You’re lost, aren’t you?"
-      ],
-      "name": "Gold City",
-      "text": "…Say something. You have something to say, right. Today, you \nwere giving out such an atmosphere."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Shut up… another hot preaching? I’m not \nlost. I already threw away the past.",
       "choice_data_list": [
         "And the pictures in your phone?"
-      ],
-      "name": "Gold City",
-      "text": "Shut up… another hot preaching? I’m not \nlost. I already threw away the past."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "…Huh? What is this? What are you talking about? How are the \ncontents of my smartphone related right now?",
       "choice_data_list": [
         "You had precious memories of your work or something, right?",
         "You had precious memories of your work or something, right?"
-      ],
-      "name": "Gold City",
-      "text": "…Huh? What is this? What are you talking about? How are the \ncontents of my smartphone related right now?"
+      ]
     },
     {
       "name": "Gold City",
@@ -148,12 +148,12 @@
       "text": "Gold City took out her smartphone and opened the album app."
     },
     {
+      "name": "Gold City",
+      "text": "These pictures…! Are annoying…! Really…",
       "choice_data_list": [
         "Can I see them for a moment?",
         "Can I see them for a moment?"
-      ],
-      "name": "Gold City",
-      "text": "These pictures…! Are annoying…! Really…"
+      ]
     },
     {
       "name": "Gold City",
@@ -172,11 +172,11 @@
       "text": "This is… it was the first time I took a picture with a fan. She \nsaid my dream is to become a designer, and have me wear her work…"
     },
     {
+      "name": "Gold City",
+      "text": "……",
       "choice_data_list": [
         "None of them are virtual images"
-      ],
-      "name": "Gold City",
-      "text": "……"
+      ]
     },
     {
       "name": "Gold City",
@@ -205,74 +205,74 @@
       "text": "Even during practice! And running! It’s like \na hole in my chest… I can’t let it go…!"
     },
     {
+      "name": "Gold City",
+      "text": "Let me throw it away… Let me throw it away, please…!",
       "choice_data_list": [
         "You don’t have to abandon yourself",
         "You don’t have to abandon yourself"
-      ],
-      "name": "Gold City",
-      "text": "Let me throw it away… Let me throw it away, please…!"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Ahh, ahaha… dummy. This is the 2nd time you’ve \nsaid that, ah… Don’t repeat the same thing, \ndummy. I don’t know anymore, dummy…",
       "choice_data_list": [
         "Let’s run both paths!"
-      ],
-      "name": "Gold City",
-      "text": "Ahh, ahaha… dummy. This is the 2nd time you’ve \nsaid that, ah… Don’t repeat the same thing, \ndummy. I don’t know anymore, dummy…"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "No way…! I can’t do it…!",
       "choice_data_list": [
         "We can do it, together!"
-      ],
-      "name": "Gold City",
-      "text": "No way…! I can’t do it…!"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "……! What is it? I made up my mind. Are you going \nto become my partner!? It’s too confusing!",
       "choice_data_list": [
         "I’m a Trainer! ",
         "I’m a Trainer! "
-      ],
-      "name": "Gold City",
-      "text": "……! What is it? I made up my mind. Are you going \nto become my partner!? It’s too confusing!"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "You look! A little help! Break it! This troublesome \nattitude, it’s time to stop it…!",
       "choice_data_list": [
         "I will never stop"
-      ],
-      "name": "Gold City",
-      "text": "You look! A little help! Break it! This troublesome \nattitude, it’s time to stop it…!"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "…Dummy. dummy, dummy, dummy. Stubborn. Clumsy. Meany.",
       "choice_data_list": [
         "I will not deny it"
-      ],
-      "name": "Gold City",
-      "text": "…Dummy. dummy, dummy, dummy. Stubborn. Clumsy. Meany."
+      ]
     },
     {
       "name": "Gold City",
       "text": "Ah… For real, what is your deal? Ahaha… My trainer…"
     },
     {
+      "name": "Gold City",
+      "text": "…I wonder if there is a way to do both.",
       "choice_data_list": [
         "Let’s find a way together"
-      ],
-      "name": "Gold City",
-      "text": "…I wonder if there is a way to do both."
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "That’s right. We need to try to find a way before giving up…",
       "choice_data_list": [
         "Let’s take one step at a time and find the answer."
-      ],
-      "name": "Gold City",
-      "text": "That’s right. We need to try to find a way before giving up…"
+      ]
     },
     {
+      "name": "Gold City",
+      "text": "Dummy. shouldn’t I run and find and look for it?…Ah. First I \nneed to apologize to the management.",
       "choice_data_list": [
         "I’ll apologize with you",
         "I’ll apologize with you"
-      ],
-      "name": "Gold City",
-      "text": "Dummy. shouldn’t I run and find and look for it?…Ah. First I \nneed to apologize to the management."
+      ]
     },
     {
       "name": "Gold City",

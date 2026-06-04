@@ -27,11 +27,11 @@
       "text": "You could try doing something nice for her, maybe? \nGranted, all that comes to mind are things like taking \nher out for a meal or a bit of fun and relaxation…"
     },
     {
+      "name": "Similarly-Aged Trainer",
+      "text": "I… can't see Admire Groove be interested in that.",
       "choice_data_list": [
         "I must agree with you there…"
-      ],
-      "name": "Similarly-Aged Trainer",
-      "text": "I… can't see Admire Groove be interested in that."
+      ]
     },
     {
       "text": "I knew what my colleagues' replies would be before asking. \nA bit of a wry smile creeps onto my face as I unintentionally \nword my agreement much too stiffly."
@@ -182,22 +182,22 @@
       "text": "Ah, <i>hey</i>! Gosh… don't jump at me! Ahaha— <i>wahh!</i>"
     },
     {
+      "name": "Boarding House Caretaker",
+      "text": "I'm glad things worked out well last night～",
       "choice_data_list": [
         "For sure, thank you for the help."
-      ],
-      "name": "Boarding House Caretaker",
-      "text": "I'm glad things worked out well last night～"
+      ]
     },
     {
       "name": "Boarding House Caretaker",
       "text": "<i>Hm-hmm</i>. Oh, it's nothing. Nobody's out that late, \nand if you did run into anyone, almost everyone \nknows my boy 'round here."
     },
     {
+      "name": "Boarding House Caretaker",
+      "text": "I <i>was</i> a little taken aback when you turned up \nwith a request like that, of course, but you're \na good, caring trainer, aren't you!",
       "choice_data_list": [
         "Oh, no, I… haha…"
-      ],
-      "name": "Boarding House Caretaker",
-      "text": "I <i>was</i> a little taken aback when you turned up \nwith a request like that, of course, but you're \na good, caring trainer, aren't you!"
+      ]
     },
     {
       "name": "Boarding House Caretaker",
@@ -208,40 +208,40 @@
       "text": "…Trainer?"
     },
     {
+      "name": "Admire Groove",
+      "text": "…? Was that…?",
       "choice_data_list": [
         "T-The lodge's caretaker, yeah!",
         "T-The lodge's caretaker, yeah!"
-      ],
-      "name": "Admire Groove",
-      "text": "…? Was that…?"
+      ]
     },
     {
       "name": "Admire Groove",
       "text": "(…She looked a lot like that lady from last night. \nHer voice too… Perhaps I'm just imagining it?)"
     },
     {
+      "name": "Admire Groove",
+      "text": "(Last night…)",
       "choice_data_list": [
         "Arve?"
-      ],
-      "name": "Admire Groove",
-      "text": "(Last night…)"
+      ]
     },
     {
+      "name": "Admire Groove",
+      "text": "Huh!? Yes… wha— What do you want…?",
       "choice_data_list": [
         "Oh, no, just…"
-      ],
-      "name": "Admire Groove",
-      "text": "Huh!? Yes… wha— What do you want…?"
+      ]
     },
     {
       "name": "Admire Groove",
       "text": "?"
     },
     {
+      "text": "She won't let it show on her face, nor speak it \nout loud, but all the same, I can feel the gentler \nair that envelops her now.",
       "choice_data_list": [
         "<size=34>…Let's continue our hard work when we get back!</size>"
-      ],
-      "text": "She won't let it show on her face, nor speak it \nout loud, but all the same, I can feel the gentler \nair that envelops her now."
+      ]
     },
     {
       "name": "Admire Groove",

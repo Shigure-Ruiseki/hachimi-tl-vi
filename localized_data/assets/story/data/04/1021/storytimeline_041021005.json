@@ -6,11 +6,11 @@
       "text": "Hmm hmm… Dad, ya never change, do ya? \nHahaa, even th' brats are tsukkomi-ing."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Looks like they're enjoyin' the souvenirs too!",
       "choice_data_list": [
         "A letter from your family?"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Looks like they're enjoyin' the souvenirs too!"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -23,23 +23,23 @@
       "text": "A few days ago, [Tracen Academy, Enrolled for a Day!] had aired \non TV. Tamamo Cross had appeared in it while running, and they \nhad written their impressions about that."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Th' script said ta run side-by-side with Oguri 'n \nInari. They told us ta jus' take it easy, but that \nain't us so we ended up goin' full throttle.",
       "choice_data_list": [
         "So the scene turned in to a competition",
         "So the scene turned in to a competition"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Th' script said ta run side-by-side with Oguri 'n \nInari. They told us ta jus' take it easy, but that \nain't us so we ended up goin' full throttle."
+      ]
     },
     {
       "name": "Tamamo Cross",
       "text": "Yeah. Dad was impressed by ya too. \nYer th' reason she's become so amazin', she said."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "[Trainer and \"White Lightning\", quake th' heavens with thunder], \nshe said! Don' go betrayin' Dad's expectations, ya hear!",
       "choice_data_list": [
         "Bring it on!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "[Trainer and \"White Lightning\", quake th' heavens with thunder], \nshe said! Don' go betrayin' Dad's expectations, ya hear!"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -50,11 +50,11 @@
       "text": "Right, I'll send the brats some more snacks. \nMeanin' some shoppin', wanna come with?"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Help me pick some snacks ta send 'em. I'll let 'em know in th' \nletter, and it'll do for an introduction, don't ya think?",
       "choice_data_list": [
         "Absolutely!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Help me pick some snacks ta send 'em. I'll let 'em know in th' \nletter, and it'll do for an introduction, don't ya think?"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -65,11 +65,11 @@
       "text": "Ah, these cookies're great, there's alot in there! \nTh' red box makes 'em look real fancy!"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Now that I get a good look, there's lotsa new brands ain't there? \n…Trainer, got any suggestions?",
       "choice_data_list": [
         "The cookies in that red box are great!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Now that I get a good look, there's lotsa new brands ain't there? \n…Trainer, got any suggestions?"
+      ]
     },
     {
       "text": "Her siblings probably have a hearty appetite. If that's the case, \nthen snacks with quantity are probably best, so I suggest that."
@@ -79,11 +79,11 @@
       "text": "Got it! In tha' case, th' cookies and a family size \npack of rice crackers are th' right choice…"
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Hmmmm… maybe I should get 'em th' one they liked last time too. \nIf I'm thrifty this month, I can probably get them both th' \nregular an' peach flavor ones.",
       "choice_data_list": [
         "Don't force yourself if your budget's tight…"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Hmmmm… maybe I should get 'em th' one they liked last time too. \nIf I'm thrifty this month, I can probably get them both th' \nregular an' peach flavor ones."
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -100,12 +100,12 @@
       "text": "Tamamo Cross' family wrote they were fine without souvenirs. \nThey've probably already realized how tight her budget is."
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Alright! Let's go with these 4!",
       "choice_data_list": [
         "Not buying any for yourself?",
         "Not buying any for yourself?"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Alright! Let's go with these 4!"
+      ]
     },
     {
       "name": "Tamamo Cross",
@@ -128,18 +128,18 @@
       "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-"
     },
     {
+      "text": "Letting her attend Tracen Academy was a blessing, \nand in return her inclination was to prioritize \nher family over everything else.",
       "choice_data_list": [
         "Don't overdo it by being thrifty",
         "Don't overdo it by being thrifty"
-      ],
-      "text": "Letting her attend Tracen Academy was a blessing, \nand in return her inclination was to prioritize \nher family over everything else."
+      ]
     },
     {
+      "name": "Tamamo Cross",
+      "text": "Are ya stupid? My thriftiness is Pro-level! \nAnd what's this all of a sudden? Are ya my mom?!",
       "choice_data_list": [
         "But I'm worried about you!"
-      ],
-      "name": "Tamamo Cross",
-      "text": "Are ya stupid? My thriftiness is Pro-level! \nAnd what's this all of a sudden? Are ya my mom?!"
+      ]
     },
     {
       "name": "Tamamo Cross",

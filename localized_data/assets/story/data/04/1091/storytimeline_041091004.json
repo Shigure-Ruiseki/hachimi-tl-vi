@@ -2,24 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Vivlos",
+      "text": "Hey~~~~ Tore-cchi~~~. \nDo I really have to eat all of this?",
       "choice_data_list": [
         "Yeah, all of it",
         "Yeah, all of it"
-      ],
-      "name": "Vivlos",
-      "text": "Hey~~~~ Tore-cchi~~~. \nDo I really have to eat all of this?"
+      ]
     },
     {
       "name": "Vivlos",
       "text": "Uhee~……Ramen, avocado salad, sweet potatoes, \na ton of hard boiled eggs……and there's still more……"
     },
     {
+      "name": "Vivlos",
+      "text": "If I take in all these calories, it'll ruin my style though! \nAt the very least can I swap the noodles to konnyaku?",
       "choice_data_list": [
         "No, you need the calories!",
         "No, you need the calories!"
-      ],
-      "name": "Vivlos",
-      "text": "If I take in all these calories, it'll ruin my style though! \nAt the very least can I swap the noodles to konnyaku?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -40,11 +40,11 @@
       "text": "Races were an intense thing. After a run, you would be \nextremely exhausted and it could take weeks to recover. \nIt would be even tougher on someone dainty like Vivlos."
     },
     {
+      "text": "Particularly if you were considering an overseas \ncampaign, it was essential to build up your body to \nendure that racing life……so for now, she should eat.",
       "choice_data_list": [
         "It's to prepare you for Dubai!",
         "It's to prepare you for Dubai!"
-      ],
-      "text": "Particularly if you were considering an overseas \ncampaign, it was essential to build up your body to \nendure that racing life……so for now, she should eat."
+      ]
     },
     {
       "name": "Vivlos",
@@ -55,39 +55,39 @@
       "text": "I got it……I'll do my best to eat! \nFor the sake of being a Celeb, thanks for the meal!"
     },
     {
+      "name": "Vivlos",
+      "text": "――Nheeeeee……I've never been so full in my life……",
       "choice_data_list": [
         "You did your best",
         "You did your best"
-      ],
-      "name": "Vivlos",
-      "text": "――Nheeeeee……I've never been so full in my life……"
+      ]
     },
     {
+      "name": "Vivlos",
+      "text": "Yeah……praise me more?",
       "choice_data_list": [
         "Good girl!",
         "Good girl!"
-      ],
-      "name": "Vivlos",
-      "text": "Yeah……praise me more?"
+      ]
     },
     {
+      "name": "Vivlos",
+      "text": "Mmmm~ more!",
       "choice_data_list": [
         "Then keep doing your best",
         "Then keep doing your best"
-      ],
-      "name": "Vivlos",
-      "text": "Mmmm~ more!"
+      ]
     },
     {
       "name": "Vivlos",
       "text": "Oh my, I guess that's all~"
     },
     {
+      "name": "Vivlos",
+      "text": "Hehee…… \nkind of like Onee-chan♪",
       "choice_data_list": [
         "Which one?"
-      ],
-      "name": "Vivlos",
-      "text": "Hehee…… \nkind of like Onee-chan♪"
+      ]
     },
     {
       "name": "Vivlos",
@@ -102,11 +102,11 @@
       "text": "……Hey, Trainer-san. \nCan you spoil me just a little bit more?"
     },
     {
+      "name": "Vivlos",
+      "text": "You see, I……have another goal other than Dubai. \nAnd that's……the Triple Tiara!",
       "choice_data_list": [
         "The Triple Tiara……!"
-      ],
-      "name": "Vivlos",
-      "text": "You see, I……have another goal other than Dubai. \nAnd that's……the Triple Tiara!"
+      ]
     },
     {
       "text": "A title given to the one that wins the 『Oka Sho』, \n『Oaks』, and 『Shuuka Sho』……there was an Uma Musume \nthat had recently achieved that."
@@ -119,11 +119,11 @@
       "text": "To become a sparkly Celeb in Dubai, \nfirst I need to become Queen in Japan, after all."
     },
     {
+      "name": "Vivlos",
+      "text": "……and they're the races that Onee-chan lost in too. \nAs a little sister, it'd be something like revenge \n……if I won, it'd be pretty emotional right?",
       "choice_data_list": [
         "I suppose it would be emotional……"
-      ],
-      "name": "Vivlos",
-      "text": "……and they're the races that Onee-chan lost in too. \nAs a little sister, it'd be something like revenge \n……if I won, it'd be pretty emotional right?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -158,17 +158,17 @@
       "text": "But, regarding the Triple Tiara, that's the first \nI've heard about it from you. But you see…… \nthe Twinkle Series is quite difficult you know?"
     },
     {
+      "name": "Vivlos",
+      "text": "Muuu. \nI already――",
       "choice_data_list": [
         "I think Vivlos already knows that"
-      ],
-      "name": "Vivlos",
-      "text": "Muuu. \nI already――"
+      ]
     },
     {
+      "text": "Of course, she'd realize just how difficult it was herself, \nbut she was an intelligent girl and had a good grasp of her \nsurroundings. She also had alot of respect for her sisters.",
       "choice_data_list": [
         "You don't need to worry"
-      ],
-      "text": "Of course, she'd realize just how difficult it was herself, \nbut she was an intelligent girl and had a good grasp of her \nsurroundings. She also had alot of respect for her sisters."
+      ]
     },
     {
       "name": "Vivlos",
@@ -219,11 +219,11 @@
       "text": "……Yeah. \nOnee-chan, Chevacchi……thank you!"
     },
     {
+      "name": "Vivlos",
+      "text": "Hey, since we've finally formed a contract after all~. \nDon't you think we should celebrate with a party boat?",
       "choice_data_list": [
         "A party boat!?"
-      ],
-      "name": "Vivlos",
-      "text": "Hey, since we've finally formed a contract after all~. \nDon't you think we should celebrate with a party boat?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -234,17 +234,17 @@
       "text": "But, but, as a future celeb, it has to be a party boat! \nLooking forward to it, Tore-cchi♪"
     },
     {
+      "text": "……I have a feeling that saving money is going to \nbe important from now on, but I've decided to take \non the Twinkle Series with Vivlos. However――",
       "choice_data_list": [
         "Before that……"
-      ],
-      "text": "……I have a feeling that saving money is going to \nbe important from now on, but I've decided to take \non the Twinkle Series with Vivlos. However――"
+      ]
     },
     {
+      "name": "Vivlos",
+      "text": "Hmm?",
       "choice_data_list": [
         "Stop calling me Tore-cchi"
-      ],
-      "name": "Vivlos",
-      "text": "Hmm?"
+      ]
     },
     {
       "name": "Vivlos",

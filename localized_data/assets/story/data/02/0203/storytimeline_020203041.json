@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Fusaichi Pandora",
+      "text": "And so, just like that～…… \nI applied to transfer to Team <Ascella>!",
       "choice_data_list": [
         "I-I see……"
-      ],
-      "name": "Fusaichi Pandora",
-      "text": "And so, just like that～…… \nI applied to transfer to Team <Ascella>!"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -37,48 +37,48 @@
       "text": "Is it though!?"
     },
     {
+      "name": "King Halo",
+      "text": "……seems like this conversation is going off the rails.",
       "choice_data_list": [
         "Yeah……hey, Pandora.",
         "Yeah……hey, Pandora."
-      ],
-      "name": "King Halo",
-      "text": "……seems like this conversation is going off the rails."
+      ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "Huh!? Oh, yeah. What's up?"
     },
     {
+      "text": "Transferring teams has a big impact on the future of an Uma Musume, \nit's something that's very important. So let me confirm one more time.",
       "choice_data_list": [
         "Can you do your best in Team <Ascella>?",
         "Can you do your best in Team <Ascella>?"
-      ],
-      "text": "Transferring teams has a big impact on the future of an Uma Musume, \nit's something that's very important. So let me confirm one more time."
+      ]
     },
     {
+      "text": "Transferring teams has a big impact on the future of an Uma Musume, \nit's something that's very important. So let me confirm one more time.",
       "choice_data_list": [
         "Can you do your best in Team <Ascella>?",
         "Can you do your best in Team <Ascella>?"
-      ],
-      "text": "Transferring teams has a big impact on the future of an Uma Musume, \nit's something that's very important. So let me confirm one more time."
+      ]
     },
     {
       "name": "Fusaichi Pandora",
       "text": "I can do my best!! It'll be fine, for sure. \nThat's why——Please let me join Team <Ascella>!"
     },
     {
+      "text": "……Yeah, I see. I understand how you feel. \nIn that case——",
       "choice_data_list": [
         "I'm looking forward to it, Pandora",
         "I'm looking forward to it, Pandora"
-      ],
-      "text": "……Yeah, I see. I understand how you feel. \nIn that case——"
+      ]
     },
     {
+      "text": "……Yeah, I see. I understand how you feel. \nIn that case——",
       "choice_data_list": [
         "I'm looking forward to it, Pandora",
         "I'm looking forward to it, Pandora"
-      ],
-      "text": "……Yeah, I see. I understand how you feel. \nIn that case——"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -112,23 +112,23 @@
       "text": "King……wait, it's already this late!? \nI-I didn't even realize……"
     },
     {
+      "name": "King Halo",
+      "text": "Yeah, yeah, I figured that's what happened. \n……you were probably thinking about Pandora-san, right?",
       "choice_data_list": [
         "Well, yeah……"
-      ],
-      "name": "King Halo",
-      "text": "Yeah, yeah, I figured that's what happened. \n……you were probably thinking about Pandora-san, right?"
+      ]
     },
     {
       "name": "King Halo",
       "text": "I thought so. \n……These past few days, I've just been watching but——"
     },
     {
+      "name": "King Halo",
+      "text": "To put it bluntly, that girl is reaaaaally hard to handle!",
       "choice_data_list": [
         "(Ain't that the truth～……!)",
         "(Ain't that the truth～……!)"
-      ],
-      "name": "King Halo",
-      "text": "To put it bluntly, that girl is reaaaaally hard to handle!"
+      ]
     },
     {
       "text": "(I'd heard about it from her previous trainer, but she certainly was \nincredibly talented. Even her teammates evaluated her very highly)"
@@ -137,10 +137,10 @@
       "text": "(I'd heard about it from her previous trainer, but she certainly was \nincredibly talented. Even her teammates evaluated her very highly)"
     },
     {
+      "text": "(It wasn't like she was lacking motivation or slacking off…… \nRather, she seemed to always be incredibly positive and having fun)",
       "choice_data_list": [
         "(It's just……)"
-      ],
-      "text": "(It wasn't like she was lacking motivation or slacking off…… \nRather, she seemed to always be incredibly positive and having fun)"
+      ]
     },
     {
       "name": "Fusaichi Pandora",
@@ -193,12 +193,12 @@
       "text": "Yeah. That's why, at the 『Oaks』 I want to help her get her revenge. \n……I want her to truly reach out for her dream."
     },
     {
+      "name": "King Halo",
+      "text": "Right. ……Then you'll just have to keep racking your brain. \nJust like you always do.",
       "choice_data_list": [
         "Yeah!",
         "Yeah!"
-      ],
-      "name": "King Halo",
-      "text": "Right. ……Then you'll just have to keep racking your brain. \nJust like you always do."
+      ]
     },
     {
       "name": "???",
@@ -228,12 +228,12 @@
       "text": "I'm soooooo sorrrrrrrrryーーー!!"
     },
     {
+      "name": "???",
+      "text": "The door, the wall, and everything that got sent flying! \nI'll put it all back to normal so……!!",
       "choice_data_list": [
         "N-no, don't worry about it……Hahaha",
         "N-no, don't worry about it……Hahaha"
-      ],
-      "name": "???",
-      "text": "The door, the wall, and everything that got sent flying! \nI'll put it all back to normal so……!!"
+      ]
     },
     {
       "name": "King Halo",
@@ -294,16 +294,16 @@
       "text": "……and she came in like a storm, but now she's \nalready gone. Geez, what was all of that anyways?"
     },
     {
+      "text": "Haha, it was a bit of a surprise. ……But, yeah…… \n『Admiration』 is quite the powerful motivator, isn't it?",
       "choice_data_list": [
         "(Then……maybe, for her too——)"
-      ],
-      "text": "Haha, it was a bit of a surprise. ……But, yeah…… \n『Admiration』 is quite the powerful motivator, isn't it?"
+      ]
     },
     {
+      "text": "Haha, it was a bit of a surprise. ……But, yeah…… \n『Admiration』 is quite the powerful motivator, isn't it?",
       "choice_data_list": [
         "(Then……maybe, for her too——)"
-      ],
-      "text": "Haha, it was a bit of a surprise. ……But, yeah…… \n『Admiration』 is quite the powerful motivator, isn't it?"
+      ]
     },
     {
       "name": "Rhein Kraft",
@@ -316,18 +316,18 @@
       "text": "Yeah. Remembering back to her previous team, if someone like me \nwere to directly instruct Pandora, I don't think it will work well."
     },
     {
+      "text": "But, if it were a teammate of a similar level \nworking hard along side her, like Kraft, then \nmaybe Pandora would be more willing to hear them out.",
       "choice_data_list": [
         "And more importantly, she admires you",
         "And more importantly, she admires you"
-      ],
-      "text": "But, if it were a teammate of a similar level \nworking hard along side her, like Kraft, then \nmaybe Pandora would be more willing to hear them out."
+      ]
     },
     {
+      "text": "But, if it were a teammate of a similar level \nworking hard along side her, like Kraft, then \nmaybe Pandora would be more willing to hear them out.",
       "choice_data_list": [
         "And more importantly, she admires you",
         "And more importantly, she admires you"
-      ],
-      "text": "But, if it were a teammate of a similar level \nworking hard along side her, like Kraft, then \nmaybe Pandora would be more willing to hear them out."
+      ]
     },
     {
       "text": "Of course, you should continue to work towards \nyour next goal, the 『Victoria Mile』. However——"

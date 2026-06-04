@@ -17,11 +17,11 @@
       "text": "Alright, starting from tomorrow, I should increase \nthe number of rest intervals- Ah, good work!"
     },
     {
+      "text": "She was eagerly looking at the notebook in her hands, \nthe same one she had dropped before- the \"ChiyoNote\".",
       "choice_data_list": [
         "Using the ChiyoNote, I see.",
         "Using the ChiyoNote, I see."
-      ],
-      "text": "She was eagerly looking at the notebook in her hands, \nthe same one she had dropped before- the \"ChiyoNote\"."
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -204,11 +204,11 @@
       "text": "With the race over, I started walking \nback to the Trainer's room when-"
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "Ah, hey, hey hey hey! \nCan you become my trainer?",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "Ah, hey, hey hey hey! \nCan you become my trainer?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -219,10 +219,10 @@
       "text": "That's why! I'll grow bigger, and the next time I battle \nMaruzen-san, I want you to be there next to me too…!"
     },
     {
+      "text": "Because of her earnest attitude, I was thinking that I wanted to \ncontinue watching over her growth. I had no reason to refuse.",
       "choice_data_list": [
         "I look forward to working with you"
-      ],
-      "text": "Because of her earnest attitude, I was thinking that I wanted to \ncontinue watching over her growth. I had no reason to refuse."
+      ]
     },
     {
       "name": "Sakura Chiyono O",

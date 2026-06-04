@@ -2,35 +2,35 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Vivlos",
+      "text": "C'mon, Trainer-san! Spread your legs wider! \nAnd then move your back liiiiiiike this!",
       "choice_data_list": [
         "Even if you say……ow ow ow!!!!"
-      ],
-      "name": "Vivlos",
-      "text": "C'mon, Trainer-san! Spread your legs wider! \nAnd then move your back liiiiiiike this!"
+      ]
     },
     {
+      "name": "Vivlos",
+      "text": "Ahahaa, that was fun～♪ \nTrainer-san, you were making so many funny faces!",
       "choice_data_list": [
         "I didn't think we'd be doing Yoga"
-      ],
-      "name": "Vivlos",
-      "text": "Ahahaa, that was fun～♪ \nTrainer-san, you were making so many funny faces!"
+      ]
     },
     {
+      "name": "Vivlos",
+      "text": "Geez～, if you're like that, we won't be able to \ndo everything planned, you know? Next is piano! \nAnd after that are calligraphy and English!",
       "choice_data_list": [
         "G-go easy on me……!"
-      ],
-      "name": "Vivlos",
-      "text": "Geez～, if you're like that, we won't be able to \ndo everything planned, you know? Next is piano! \nAnd after that are calligraphy and English!"
+      ]
     },
     {
       "text": "Today, I was invited by Vivlos to tag along with her. \nIf you were to ask why, then――"
     },
     {
+      "name": "Vivlos",
+      "text": "――About Onee-chan? Why do you want to ask me about her?",
       "choice_data_list": [
         "Before scouting, I want to know more"
-      ],
-      "name": "Vivlos",
-      "text": "――About Onee-chan? Why do you want to ask me about her?"
+      ]
     },
     {
       "name": "Vivlos",
@@ -55,21 +55,21 @@
       "text": "I breathe a sigh of relief at the word 『Last』. It was a long day, \nfilled with exercise, music, and linguistic learning."
     },
     {
+      "name": "Vivlos",
+      "text": "So～. How was it? \nDo you understand Onee-chan a little better now?",
       "choice_data_list": [
         "……What do you mean?"
-      ],
-      "name": "Vivlos",
-      "text": "So～. How was it? \nDo you understand Onee-chan a little better now?"
+      ]
     },
     {
       "text": "I had certainly experienced a lot today. \nBut I don't think we talked about Verxina at all――"
     },
     {
+      "name": "Vivlos",
+      "text": "No way, you mean you didn't realize it at all!? \nEverywhere we went to today is something that Onee-chan has learned!",
       "choice_data_list": [
         "Eh……?"
-      ],
-      "name": "Vivlos",
-      "text": "No way, you mean you didn't realize it at all!? \nEverywhere we went to today is something that Onee-chan has learned!"
+      ]
     },
     {
       "name": "Vivlos",
@@ -116,11 +116,11 @@
       "text": "She's completely different from……me. \nElegant, and refined……"
     },
     {
+      "name": "Cheval Grand",
+      "text": "Perfect in anything she does, \nnever cutting corners…… That's why――",
       "choice_data_list": [
         "That's why?"
-      ],
-      "name": "Cheval Grand",
-      "text": "Perfect in anything she does, \nnever cutting corners…… That's why――"
+      ]
     },
     {
       "name": "Cheval Grand",
@@ -154,11 +154,11 @@
       "text": "In the end, what I learned from her younger sisters was \njust how much Verxina cared about them as an older sister."
     },
     {
+      "text": "The more I learn about her personality, the more it seems \nlike it doesn't match with her goal of aiming for the 『Peak』……",
       "choice_data_list": [
         "(……No, is that true though?)",
         "(……No, is that true though?)"
-      ],
-      "text": "The more I learn about her personality, the more it seems \nlike it doesn't match with her goal of aiming for the 『Peak』……"
+      ]
     },
     {
       "text": "The first time that I saw Verxina, I couldn't take my \neyes off her as she steadfastly aimed for greater heights."
@@ -167,11 +167,11 @@
       "text": "『Don't ever look away』 \nMaybe that feeling was more like a prayer from her than a demand."
     },
     {
+      "text": "But, who was that prayer for――",
       "choice_data_list": [
         "Verxina……maybe you……",
         "Verxina……maybe you……"
-      ],
-      "text": "But, who was that prayer for――"
+      ]
     },
     {
       "text": "Just what was it that drove her to aim for the 『Peak』? \nI think I finally had an idea of what that truly was."

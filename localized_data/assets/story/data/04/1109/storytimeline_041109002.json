@@ -50,10 +50,10 @@
       "text": "That was how things normally went. The race results \nthroughout history had consistently shown that."
     },
     {
+      "text": "For example, in the Grand Prix races, the Takarazuka \nKinen and Arima Kinen, where many strong Uma Musume \ngathered, a Tiara Uma Musume hadn't won in over 30 years……",
       "choice_data_list": [
         "(That's exactly why……)"
-      ],
-      "text": "For example, in the Grand Prix races, the Takarazuka \nKinen and Arima Kinen, where many strong Uma Musume \ngathered, a Tiara Uma Musume hadn't won in over 30 years……"
+      ]
     },
     {
       "text": "When one thought of pure \"strength\", \nthe Triple Crown Uma Musume would come to mind――"
@@ -75,21 +75,21 @@
       "text": "I'll take the Triple Tiara. And then, during the \nSenior class, I'll challenge the Triple Crown girls."
     },
     {
+      "name": "Rhein Kraft",
+      "text": "――And I'll win! I'll prove the \nstrength of the Triple Tiara Uma Musume!",
       "choice_data_list": [
         "……!!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "――And I'll win! I'll prove the \nstrength of the Triple Tiara Uma Musume!"
+      ]
     },
     {
       "name": "Rhein Kraft",
       "text": "Because they really are strong. \nThose girls……we all are!"
     },
     {
+      "text": "Once again I had that feeling in my chest. I remember. \nIt wasn't just childish admiration――it really was shocking.",
       "choice_data_list": [
         "(Her feelings were that strong……!)"
-      ],
-      "text": "Once again I had that feeling in my chest. I remember. \nIt wasn't just childish admiration――it really was shocking."
+      ]
     },
     {
       "name": "Reporter A",
@@ -160,36 +160,36 @@
       "text": "Haaa, haaa, haaa, haaa…… \nHaaaaaa~~……!"
     },
     {
+      "text": "Ever since then, Rhein Kraft has been training \nhard. From early in the morning all the way \nuntil just before curfew, as much as she could……",
       "choice_data_list": [
         "Staying late? Good work!"
-      ],
-      "text": "Ever since then, Rhein Kraft has been training \nhard. From early in the morning all the way \nuntil just before curfew, as much as she could……"
+      ]
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Oh, Trainer-san! So you were watching me. Ah, now that \nI think about it, I think I saw you at the mock race……?",
       "choice_data_list": [
         "……Yeah, I was interested in you",
         "……Yeah, I was interested in you"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Oh, Trainer-san! So you were watching me. Ah, now that \nI think about it, I think I saw you at the mock race……?"
+      ]
     },
     {
       "name": "Rhein Kraft",
       "text": "Wah, you were!? Ehehe~ thank you very much. \n……then, I guess I'll take a short break."
     },
     {
+      "name": "Rhein Kraft",
+      "text": "I'll show you something Trainer-san. \nThe way I keep myself fully motivated!",
       "choice_data_list": [
         "Fully motivated……?"
-      ],
-      "name": "Rhein Kraft",
-      "text": "I'll show you something Trainer-san. \nThe way I keep myself fully motivated!"
+      ]
     },
     {
+      "name": "Rhein Kraft",
+      "text": "Tadaa! My personal collection of 『Tiara race videos』! \nWhile taking a break, let's watch together.",
       "choice_data_list": [
         "I see, so that's how……!"
-      ],
-      "name": "Rhein Kraft",
-      "text": "Tadaa! My personal collection of 『Tiara race videos』! \nWhile taking a break, let's watch together."
+      ]
     },
     {
       "name": "Rhein Kraft",

@@ -19,11 +19,11 @@
       "text": "Goaaaaal…\nHaa…Haa…"
     },
     {
+      "text": "I ran to the horse girl who had fallen down\nright after crossing the finish line.  ",
       "choice_data_list": [
         "Are you okay!?",
         "Are you okay!?"
-      ],
-      "text": "I ran to the horse girl who had fallen down\nright after crossing the finish line.  "
+      ]
     },
     {
       "name": "???",
@@ -45,12 +45,12 @@
       "text": "Oh! You are a trainer!\nI'm Haru Urara!"
     },
     {
+      "name": "Haru Urara",
+      "text": "Hey, hey, if you're a trainer, you're coming\nto watch the competition, right?",
       "choice_data_list": [
         "I'm planning to do it, of course, but...",
         "I'm planning to do it, of course, but..."
-      ],
-      "name": "Haru Urara",
-      "text": "Hey, hey, if you're a trainer, you're coming\nto watch the competition, right?"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -110,11 +110,11 @@
       "text": "It wasn't what I had hoped for… but I was strangely\nattracted to the way she kept running until the very end."
     },
     {
+      "name": "Haru Urara",
+      "text": "Haaa…Haa…So tired…",
       "choice_data_list": [
         "Good work."
-      ],
-      "name": "Haru Urara",
-      "text": "Haaa…Haa…So tired…"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -125,11 +125,11 @@
       "text": "Hehe, I said I would win, but I lost.\nI failed to get the first place again~…"
     },
     {
+      "name": "Haru Urara",
+      "text": "But hey, I was able to run as hard as I could until the end!\nAll that training was well worth it!",
       "choice_data_list": [
         "—I could see how eager you were."
-      ],
-      "name": "Haru Urara",
-      "text": "But hey, I was able to run as hard as I could until the end!\nAll that training was well worth it!"
+      ]
     },
     {
       "name": "Haru Urara",
@@ -144,11 +144,11 @@
       "text": "By the way, I'm also going to participate\nin the upcoming selection race!"
     },
     {
+      "name": "Haru Urara",
+      "text": "Hey, you should come watch too!\nI'm sure I can win the next time!",
       "choice_data_list": [
         "Sure. I'm going to go see it"
-      ],
-      "name": "Haru Urara",
-      "text": "Hey, you should come watch too!\nI'm sure I can win the next time!"
+      ]
     },
     {
       "name": "Haru Urara",

@@ -9,30 +9,30 @@
       "text": "It's so hot… \nMy energy is draining away…"
     },
     {
+      "name": "Curren Chan",
+      "text": "I'm really bad with the heat… \nI'm gonna fall over and melt…",
       "choice_data_list": [
         "Let's do our best, \nbut be sure to not overdo it."
-      ],
-      "name": "Curren Chan",
-      "text": "I'm really bad with the heat… \nI'm gonna fall over and melt…"
+      ]
     },
     {
+      "name": "Curren Chan",
+      "text": "So… If I work hard, would \nyou take me on a date as a reward?",
       "choice_data_list": [
         "Eh!?"
-      ],
-      "name": "Curren Chan",
-      "text": "So… If I work hard, would \nyou take me on a date as a reward?"
+      ]
     },
     {
       "name": "Curren Chan",
       "text": "There's a summer festival being held tonight. \nIf you promise to go with me, I think I'll be okay…"
     },
     {
+      "name": "Curren Chan",
+      "text": "<i>*glance*</i>",
       "choice_data_list": [
         "Alright, it's a promise…",
         "Alright, it's a promise…"
-      ],
-      "name": "Curren Chan",
-      "text": "<i>*glance*</i>"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -54,12 +54,12 @@
       "text": "Onee-chan♪ Look, they're selling candy apples!"
     },
     {
+      "name": "Curren Chan",
+      "text": "They're so red, round, and shiny! \nThey're so cute! I want one!",
       "choice_data_list": [
         "I'll buy you one.",
         "I'll buy you one."
-      ],
-      "name": "Curren Chan",
-      "text": "They're so red, round, and shiny! \nThey're so cute! I want one!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -146,12 +146,12 @@
       "text": "Kyaa…!?"
     },
     {
+      "name": "Curren Chan",
+      "text": "Ah… Fireworks…? \nEhh, I didn't know they had those here…",
       "choice_data_list": [
         "They're beautiful, huh?",
         "They're beautiful, huh?"
-      ],
-      "name": "Curren Chan",
-      "text": "Ah… Fireworks…? \nEhh, I didn't know they had those here…"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -169,10 +169,10 @@
       "text": "Fireworks bursting throughout the night sky. \nI looked around and noticed that everyone at the \nfestival was looking up to the sky at them. However…"
     },
     {
+      "text": "Under the light of the fireworks it seemed \nlike something was bothering Curren Chan.",
       "choice_data_list": [
         "Curren…?"
-      ],
-      "text": "Under the light of the fireworks it seemed \nlike something was bothering Curren Chan."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -189,11 +189,11 @@
       "text": "Before I knew it, we were standing on the beach."
     },
     {
+      "name": "Curren Chan",
+      "text": "The thing is… I don't really like… fireworks…",
       "choice_data_list": [
         "Eh…?"
-      ],
-      "name": "Curren Chan",
-      "text": "The thing is… I don't really like… fireworks…"
+      ]
     },
     {
       "text": "That was the last thing I expected her to say. \nShe usually never says anything negative, \nso to hear her say that she didn't like something…"
@@ -211,11 +211,11 @@
       "text": "When I was a kid, fireworks would make me so \nfrustrated that I'd end up crying. So that's why I decided…"
     },
     {
+      "name": "Curren Chan",
+      "text": "I decided that I would become \ncuter than any firework out there!!",
       "choice_data_list": [
         "Hmm…?"
-      ],
-      "name": "Curren Chan",
-      "text": "I decided that I would become \ncuter than any firework out there!!"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -237,10 +237,10 @@
       "text": "Hey, Onee-chan. I'm…"
     },
     {
+      "text": "Her eyes shined so brightly that it made me forget the sounds \nof the fireworks as well as the faint moonlight falling upon us.",
       "choice_data_list": [
         "You're already cuter than any firework."
-      ],
-      "text": "Her eyes shined so brightly that it made me forget the sounds \nof the fireworks as well as the faint moonlight falling upon us."
+      ]
     },
     {
       "name": "Curren Chan",
@@ -251,25 +251,25 @@
       "text": "Hehe… Thank you, Onee-chan."
     },
     {
+      "name": "Curren Chan",
+      "text": "Hehe…♪",
       "choice_data_list": [
         "???"
-      ],
-      "name": "Curren Chan",
-      "text": "Hehe…♪"
+      ]
     },
     {
+      "name": "Curren Chan",
+      "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Curren Chan",
-      "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪"
+      ]
     },
     {
+      "name": "Curren Chan",
+      "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪",
       "choice_data_list": [
         "Eh?"
-      ],
-      "name": "Curren Chan",
-      "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪"
+      ]
     },
     {
       "name": "Curren Chan",
@@ -280,11 +280,11 @@
       "text": "Onee-chan, you've been obsessing over me lately, huh? \nYou feel like you need to know, need to \nunderstand who the real Curren is, don't you…?"
     },
     {
+      "name": "Curren Chan",
+      "text": "Hey… Would you mind… obsessing \nover me a little bit more tonight…?",
       "choice_data_list": [
         "I-I have to get back home…"
-      ],
-      "name": "Curren Chan",
-      "text": "Hey… Would you mind… obsessing \nover me a little bit more tonight…?"
+      ]
     },
     {
       "name": "Curren Chan",

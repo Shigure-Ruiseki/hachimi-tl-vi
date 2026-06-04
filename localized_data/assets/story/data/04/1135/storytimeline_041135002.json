@@ -1,15 +1,15 @@
 {
   "text_block_list": [
     {
-      "name": "???",
-      "text": "—They just simply ran races. They kept running… as though they were on a long journey"
+      "text": "—They just simply ran races. They kept running… as though they were on a long journey",
+      "name": "???"
     },
     {
       "text": "She calmly started to tell this tale… \nabout the existence of someone and the tracks they left behind."
     },
     {
-      "name": "???",
-      "text": "—Their record was by no means good. \nEveryday their losses kept piling up, without a win in sight—"
+      "text": "—Their record was by no means good. \nEveryday their losses kept piling up, without a win in sight—",
+      "name": "???"
     },
     {
       "name": "???",
@@ -28,12 +28,12 @@
       "text": "They discovered something in that radiance. The journey they lead was being watched by so many different lives, and each of them gave them their love—"
     },
     {
+      "text": "—… And that's the end of the story. \n…Looks like we killed enough time.",
       "choice_data_list": [
         "Yeah, that was a great story.",
         "Yeah, that was a great story."
       ],
-      "name": "???",
-      "text": "—… And that's the end of the story. \n…Looks like we killed enough time."
+      "name": "???"
     },
     {
       "text": "Through many spectacular matches, through the changing times, until the very end they won in a dramatic fashion as themselves. Brimming with dreams, it really was a good journey."
@@ -45,29 +45,29 @@
       "text": "I wonder if there was an umamusume in history that matched that story."
     },
     {
+      "text": "If you head just a bit further ahead, there should be civilization there. Good job making it all the way here.",
       "choice_data_list": [
         "Thanks for guiding me… are you coming?",
         "Thanks for guiding me… are you coming?"
       ],
-      "name": "???",
-      "text": "If you head just a bit further ahead, there should be civilization there. Good job making it all the way here."
+      "name": "???"
     },
     {
       "name": "???",
       "text": "Hm?… Ah, I'm still a bit groggy. \nAnyways, this is where we part ways."
     },
     {
+      "text": "When I heard that, I felt a little reluctant to part ways, my interest in her was overflowing.",
       "choice_data_list": [
         "You told me the story yesterday, but…"
-      ],
-      "text": "When I heard that, I felt a little reluctant to part ways, my interest in her was overflowing."
+      ]
     },
     {
+      "text": "They left an amazing track behind. I repeated this to her again. But in addition—",
       "choice_data_list": [
         "Do you look up to that umamusume?",
         "Do you look up to that umamusume?"
-      ],
-      "text": "They left an amazing track behind. I repeated this to her again. But in addition—"
+      ]
     },
     {
       "text": "The way her eyes looked as she told their tale— they had a deep impact on her. Those eyes that were gazing off into the distance, with a light twinkle in her eyes—"
@@ -80,11 +80,11 @@
       "text": "Hmm～… \nI'm not sure if I look up to them per se—"
     },
     {
+      "name": "???",
+      "text": "I'm thinking that I want to \"retrace\" their steps. \n…Because it seems pretty interesting.",
       "choice_data_list": [
         "…That's nice. Retracing their steps."
-      ],
-      "name": "???",
-      "text": "I'm thinking that I want to \"retrace\" their steps. \n…Because it seems pretty interesting."
+      ]
     },
     {
       "name": "???",
@@ -100,17 +100,17 @@
       "text": "—A few days later."
     },
     {
+      "text": "I was in the academy's library looking up any and every single umamusume across history. However, no matter how many pages or books I searched—",
       "choice_data_list": [
         "(Such an umamusume doesn't exist.)"
-      ],
-      "text": "I was in the academy's library looking up any and every single umamusume across history. However, no matter how many pages or books I searched—"
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "…Hello, Trainer. That's quite a fervor to your research. What are… no, who are you searching for?",
       "choice_data_list": [
         "Ah, it's um…"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "…Hello, Trainer. That's quite a fervor to your research. What are… no, who are you searching for?"
+      ]
     },
     {
       "name": "Tazuna Hayakawa",
@@ -120,29 +120,29 @@
       "text": "I told her about what I researched so far, alongside the umamusume who was on a journey. But—"
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "…I'm terribly sorry. \nEven I am unaware of such a umamusume.",
       "choice_data_list": [
         "Is that… so…"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "…I'm terribly sorry. \nEven I am unaware of such a umamusume."
+      ]
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "However, I think I know who it was that told you that story.",
       "choice_data_list": [
         "Wha—!?"
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "However, I think I know who it was that told you that story."
+      ]
     },
     {
-      "name": "Tazuna Hayakawa",
-      "text": "That girl is most likely a student of this academy. \nHer name is—"
+      "text": "That girl is most likely a student of this academy. \nHer name is—",
+      "name": "Tazuna Hayakawa"
     },
     {
+      "text": "—Stay Gold.",
       "choice_data_list": [
         "Stay… Gold…"
       ],
-      "name": "Tazuna Hayakawa",
-      "text": "—Stay Gold."
+      "name": "Tazuna Hayakawa"
     },
     {
       "text": "…I wonder why. The second I heard that name— some nostalgic feeling started to rise in my chest—"
@@ -156,11 +156,11 @@
       "text": "That story left a strong impression on me, so when I heard you speak about it, I immediately recognized it. I was certain it was the same story."
     },
     {
+      "name": "Tazuna Hayakawa",
+      "text": "…So you too became \ninterested in her story.",
       "choice_data_list": [
         "I'm curious about whose path she's retracing."
-      ],
-      "name": "Tazuna Hayakawa",
-      "text": "…So you too became \ninterested in her story."
+      ]
     },
     {
       "text": "…Stay Gold cutting through the rain that day, her running was strong and sharp. Even now that feeling is still engraved into my body."
@@ -180,26 +180,26 @@
       "text": "…Afterwards, I was in my office combing through all the previous mock races that have been held. I wanted to look into Stay Gold's running."
     },
     {
+      "name": "Stay Gold",
+      "text": "\"Hah… Hah… Hah… Hmph!!\"",
       "choice_data_list": [
         "(… Yeah, she's good.)"
-      ],
-      "name": "Stay Gold",
-      "text": "\"Hah… Hah… Hah… Hmph!!\""
+      ]
     },
     {
       "text": "Her running, even through the crackle of the screen, had a wild roughness to it. But, in that running I saw high potential in her."
     },
     {
+      "text": "Moreover, the most striking thing to me was—",
       "choice_data_list": [
         "(… It was just like that day.)"
-      ],
-      "text": "Moreover, the most striking thing to me was—"
+      ]
     },
     {
+      "text": "After the race, Stay Gold was without a doubt looking off into the distance. Her eyes… they were the same eyes as when she told me about the story of \"tracks left behind\".",
       "choice_data_list": [
         "(… I want to know more—)"
-      ],
-      "text": "After the race, Stay Gold was without a doubt looking off into the distance. Her eyes… they were the same eyes as when she told me about the story of \"tracks left behind\"."
+      ]
     },
     {
       "text": "Before I knew it, my interest in Stay Gold was changing. That impulse was about to launch me into a certain journey—"

@@ -43,11 +43,11 @@
       "text": "Don't let her pass the ball! \nStop her right here!"
     },
     {
+      "name": "Duramente",
+      "text": "……!!",
       "choice_data_list": [
         "(Not good, she can't pass……!)"
-      ],
-      "name": "Duramente",
-      "text": "……!!"
+      ]
     },
     {
       "name": "Experienced Trainer",
@@ -65,11 +65,11 @@
       "text": "——the rebound!!"
     },
     {
+      "name": "Spectator Trainee",
+      "text": "Huh, she missed……? \nW-well, they're still in the lead anyways, do your bestー!",
       "choice_data_list": [
         "(I wonder if she's okay……)"
-      ],
-      "name": "Spectator Trainee",
-      "text": "Huh, she missed……? \nW-well, they're still in the lead anyways, do your bestー!"
+      ]
     },
     {
       "name": "Duramente",
@@ -84,40 +84,40 @@
       "text": "I suppose you could say it was a comfortable victory. \nAnd the individual scores……We saw something pretty good."
     },
     {
+      "name": "Duramente",
+      "text": "Fuuーー…………",
       "choice_data_list": [
         "Good job, Dura"
-      ],
-      "name": "Duramente",
-      "text": "Fuuーー…………"
+      ]
     },
     {
+      "name": "Duramente",
+      "text": "……! \nTrainer. So you were watching……",
       "choice_data_list": [
         "……Were you alright?",
         "……Were you alright?"
-      ],
-      "name": "Duramente",
-      "text": "……! \nTrainer. So you were watching……"
+      ]
     },
     {
       "text": "She could probably hear the voices from the stands. \nOn top of that, the countless expectations placed \non her must have been weighing on her heavily."
     },
     {
+      "name": "Duramente",
+      "text": "……I can't help but feel nervous. \nAnd because of that I made a big mistake.",
       "choice_data_list": [
         "It happens to everyone"
-      ],
-      "name": "Duramente",
-      "text": "……I can't help but feel nervous. \nAnd because of that I made a big mistake."
+      ]
     },
     {
       "name": "Duramente",
       "text": "——You're right."
     },
     {
+      "name": "Reporter",
+      "text": "Ah, there she is! I was looking for you, Duramente-san!",
       "choice_data_list": [
         "Who is this……?"
-      ],
-      "name": "Reporter",
-      "text": "Ah, there she is! I was looking for you, Duramente-san!"
+      ]
     },
     {
       "name": "Duramente",
@@ -140,11 +140,11 @@
       "text": "This experience will help further strengthen my own mentality. \nSo that I can remain calm in any situation."
     },
     {
+      "name": "Duramente",
+      "text": "——To prove that I am the \"Strongest\".",
       "choice_data_list": [
         "(……Impressive.)"
-      ],
-      "name": "Duramente",
-      "text": "——To prove that I am the \"Strongest\"."
+      ]
     },
     {
       "text": "Without hiding her own weaknesses, still striving \nto improve herself. Staying strong under pressure——"

@@ -13,10 +13,10 @@
       "text": "Your face seems a little pale, and I'll bet your head is feeling \nkind of heavy, right? For a while now, you've been leaning \nforward and holding your head."
     },
     {
+      "text": "I didn't realize it but……now that she mentions \nit, my head was starting to hurt, and it felt \nlike things were getting a little hazy.",
       "choice_data_list": [
         "I wonder why"
-      ],
-      "text": "I didn't realize it but……now that she mentions \nit, my head was starting to hurt, and it felt \nlike things were getting a little hazy."
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -34,11 +34,11 @@
       "text": "And with that, since I had no reason to stop her, \nthe surprise Feng Shui check started."
     },
     {
+      "name": "Copano Rickey",
+      "text": "……Hmmm, hmm, hmm, I see……",
       "choice_data_list": [
         "How is it……?"
-      ],
-      "name": "Copano Rickey",
-      "text": "……Hmmm, hmm, hmm, I see……"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -72,10 +72,10 @@
       "text": "Alright……we're all finished!"
     },
     {
+      "text": "Before I realized it, this place now \nhad a rather tranquil feel to it……!",
       "choice_data_list": [
         "Oooooh……!?"
-      ],
-      "text": "Before I realized it, this place now \nhad a rather tranquil feel to it……!"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -89,10 +89,10 @@
       "text": "And then, several days later―"
     },
     {
+      "text": "Before I realized it, my head had cleared up and I felt full of \nenergy. Maybe it was due to my physical condition, but I was \nfeeling much more positive too.",
       "choice_data_list": [
         "I'm feeling good!"
-      ],
-      "text": "Before I realized it, my head had cleared up and I felt full of \nenergy. Maybe it was due to my physical condition, but I was \nfeeling much more positive too."
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -107,11 +107,11 @@
       "text": "For example, if you have lots of patterned cloth, it can \nunintentionally scatter your focus, and having a proper pillow \ncover instead of that towel can help you sleep soundly."
     },
     {
+      "name": "Copano Rickey",
+      "text": "Just like this, little by little, by fixing \nthe small imperfections, you'll be able to sleep \nwell, and your fortunes will improve!",
       "choice_data_list": [
         "I see……!"
-      ],
-      "name": "Copano Rickey",
-      "text": "Just like this, little by little, by fixing \nthe small imperfections, you'll be able to sleep \nwell, and your fortunes will improve!"
+      ]
     },
     {
       "name": "Copano Rickey",
@@ -130,11 +130,11 @@
       "text": "How do you feel right now? Your thoughts are \nclear and bright! And feeling the energy welling \nup from within, that kind of feeling?"
     },
     {
+      "name": "Copano Rickey",
+      "text": "You definitely want to put this experience in to words and \ntell everyone right!? Right, right, isn't that right?",
       "choice_data_list": [
         "Eh!?"
-      ],
-      "name": "Copano Rickey",
-      "text": "You definitely want to put this experience in to words and \ntell everyone right!? Right, right, isn't that right?"
+      ]
     },
     {
       "name": "Copano Rickey",

@@ -9,11 +9,11 @@
       "text": "On a holiday, I spotted Special Week who was at her wits end, \nwith a troubled look. As I reached out to her…"
     },
     {
+      "name": "Special Week",
+      "text": "Ah, Trainer-san! I'm trying to rehearse \nguiding a sightseeing tour.",
       "choice_data_list": [
         "Sightseeing tour?"
-      ],
-      "name": "Special Week",
-      "text": "Ah, Trainer-san! I'm trying to rehearse \nguiding a sightseeing tour."
+      ]
     },
     {
       "name": "Special Week",
@@ -28,23 +28,23 @@
       "text": "That's why I've been running through my tour guide for her…"
     },
     {
+      "name": "Special Week",
+      "text": "But it's still not quite up to snuff. Ahaha~!",
       "choice_data_list": [
         "I can help out if you want.",
         "I can help out if you want."
-      ],
-      "name": "Special Week",
-      "text": "But it's still not quite up to snuff. Ahaha~!"
+      ]
     },
     {
       "name": "Special Week",
       "text": "R-Really!? Waah! Thank you! "
     },
     {
+      "name": "Special Week",
+      "text": "Then, can you play the role of my Mom? That'll \nwork nicely as a practical training!",
       "choice_data_list": [
         "Of course."
-      ],
-      "name": "Special Week",
-      "text": "Then, can you play the role of my Mom? That'll \nwork nicely as a practical training!"
+      ]
     },
     {
       "name": "Special Week",
@@ -70,12 +70,12 @@
       "text": "Ehehe! This is a place I often stop by."
     },
     {
+      "name": "Special Week",
+      "text": "It's so quiet around here. I get to \nspend my time here at leisure.",
       "choice_data_list": [
         "You like this spot, don't you.",
         "You like this spot, don't you."
-      ],
-      "name": "Special Week",
-      "text": "It's so quiet around here. I get to \nspend my time here at leisure."
+      ]
     },
     {
       "name": "Special Week",
@@ -141,24 +141,24 @@
       "text": "It tastes as \"Ewww~~!!\" as you can imagine. \nBut still… I like this juice!"
     },
     {
+      "name": "Special Week",
+      "text": "Together, we share moments of chatter, laughter, and excitement. \nAnd this juice… is a blend of these pleasant feelings.",
       "choice_data_list": [
         "Then… I better give this a taste!",
         "Then… I better give this a taste!"
-      ],
-      "name": "Special Week",
-      "text": "Together, we share moments of chatter, laughter, and excitement. \nAnd this juice… is a blend of these pleasant feelings."
+      ]
     },
     {
       "name": "Special Week",
       "text": "Yeah! Go on and gulp it down, if you please! I'll order a carrot \nhamburger steak for you to help get rid of the bad taste."
     },
     {
+      "name": "Special Week",
+      "text": "Unlike the steak Mom used to make, which has the taste of home, \nthe steak here is thrillingly delicious!",
       "choice_data_list": [
         "I'm stoked!",
         "I'm stoked!"
-      ],
-      "name": "Special Week",
-      "text": "Unlike the steak Mom used to make, which has the taste of home, \nthe steak here is thrillingly delicious!"
+      ]
     },
     {
       "name": "Special Week",
@@ -184,24 +184,24 @@
       "text": "I totally did not notice… What am I gonna do…!?"
     },
     {
+      "name": "Special Week",
+      "text": "Mom said she wanted to see if I've settled in here… She's gonna \nbe disappointed with a tour like this.",
       "choice_data_list": [
         "It's pretty convincing that ou have indeed settled in.",
         "It's pretty convincing that ou have indeed settled in."
-      ],
-      "name": "Special Week",
-      "text": "Mom said she wanted to see if I've settled in here… She's gonna \nbe disappointed with a tour like this."
+      ]
     },
     {
       "name": "Special Week",
       "text": "B-But… There are also riversides and arcades up in Hokkaido."
     },
     {
+      "name": "Special Week",
+      "text": "So I figured… if I show her the unique \nspots here, she'd be more relieved.",
       "choice_data_list": [
         "She has got to be relieved seeing you \njust as accustomed to living here.",
         "She has got to be relieved seeing you \njust as accustomed to living here."
-      ],
-      "name": "Special Week",
-      "text": "So I figured… if I show her the unique \nspots here, she'd be more relieved."
+      ]
     },
     {
       "name": "Special Week",
@@ -231,11 +231,11 @@
       "text": "Uhh… Ah, yes! How about we visit just \none more place while we're at it?"
     },
     {
+      "name": "Special Week",
+      "text": "To my favourite supersize ramen place we go!",
       "choice_data_list": [
         "S-supersize!?"
-      ],
-      "name": "Special Week",
-      "text": "To my favourite supersize ramen place we go!"
+      ]
     },
     {
       "name": "Special Week",

@@ -99,11 +99,11 @@
       "text": "I've lost count of how many slope dashes she's done. She doesn't \ndo anything flashy, but she's here every morning running, and \nanalyzing every little bit like that."
     },
     {
+      "name": "Maintenance Staff",
+      "text": "Through trial and error, she's slowly getting faster, and \ngrowing. Well, in short… if you're of a mind to, would you \nplease consider scouting her?",
       "choice_data_list": [
         "You see her quite favorably, don't you?"
-      ],
-      "name": "Maintenance Staff",
-      "text": "Through trial and error, she's slowly getting faster, and \ngrowing. Well, in short… if you're of a mind to, would you \nplease consider scouting her?"
+      ]
     },
     {
       "name": "Maintenance Staff",
@@ -128,23 +128,23 @@
       "text": "A sudden gust of wind sent her notebook flying, and it landed \nnext to my feet. I got a glimpse of the contents, and it was \ndensely packed with writing."
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "M-my Chiyo-Note…! \nSorry! Thank you very much!",
       "choice_data_list": [
         "Chiyo-Note?"
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "M-my Chiyo-Note…! \nSorry! Thank you very much!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
       "text": "Ah, um- I wrote in a bunch of things that have happened in my \nlife! It's something like that so I call it the Chiyo-Note…!"
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "The things I was taught, the things I came to understand, \nand the proverbs that I thought of are put down in ink in there.",
       "choice_data_list": [
         "Diligent, aren't you?",
         "Diligent, aren't you?"
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "The things I was taught, the things I came to understand, \nand the proverbs that I thought of are put down in ink in there."
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -154,11 +154,11 @@
       "text": "A few days after that-"
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "Ever since I've transferred here, I've liked you! \nI fell in love at first sight with your running form!",
       "choice_data_list": [
         "( !? )"
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "Ever since I've transferred here, I've liked you! \nI fell in love at first sight with your running form!"
+      ]
     },
     {
       "text": "A blushing Sakura Chiyono O. She was holding a letter in her \nhands. The mood seemed serious so I hid without thinking."
@@ -172,11 +172,11 @@
       "text": "Someone like me, is still far from being worthy of you, I \nunderstand that! But, but… please, give me a chance!"
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "Please, do some parallel running with me, Maruzen-san!",
       "choice_data_list": [
         "(…parallel running?)"
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "Please, do some parallel running with me, Maruzen-san!"
+      ]
     },
     {
       "name": "Sakura Chiyono O",
@@ -186,18 +186,18 @@
       "text": "I poked my head out to get a better look, but only \nSakura Chiyono O was there. I was dumbfounded by \nwhat I saw, and that's when our eyes met."
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "…",
       "choice_data_list": [
         "…"
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "…"
+      ]
     },
     {
+      "name": "Sakura Chiyono O",
+      "text": "D-did you hear all that?",
       "choice_data_list": [
         "…Sorry."
-      ],
-      "name": "Sakura Chiyono O",
-      "text": "D-did you hear all that?"
+      ]
     },
     {
       "name": "Sakura Chiyono O",

@@ -200,10 +200,10 @@
       "text": "『I don't want my daughter to feel like this』. \nIt's normal to think that way……"
     },
     {
+      "text": "It was unusual for King Halo to voice her \nworries to me like this. Maybe it was a sign \nof just how hard she was struggling with this.",
       "choice_data_list": [
         "Sorry. For making you do all this"
-      ],
-      "text": "It was unusual for King Halo to voice her \nworries to me like this. Maybe it was a sign \nof just how hard she was struggling with this."
+      ]
     },
     {
       "name": "King Halo",
@@ -235,12 +235,12 @@
       "text": "Team <Ascella>'s Trainer-san! \nSorry for making you wait!"
     },
     {
+      "name": "Special Week",
+      "text": "It sounds like we've gathered up all the 『American Oaks』 \ndocumentation from last year! You did say that you wanted \nto talk as much as possible about our experiences.",
       "choice_data_list": [
         "I see. Thank you!",
         "I see. Thank you!"
-      ],
-      "name": "Special Week",
-      "text": "It sounds like we've gathered up all the 『American Oaks』 \ndocumentation from last year! You did say that you wanted \nto talk as much as possible about our experiences."
+      ]
     },
     {
       "text": "The one who took on the 『American Oaks』 last \nyear was……none other than the 『Genius』 trainer."

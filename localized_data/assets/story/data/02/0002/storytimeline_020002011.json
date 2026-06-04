@@ -127,12 +127,12 @@
       "text": "Wow! Just, wow!"
     },
     {
+      "name": "Trainee with Straight-cut Bangs",
+      "text": "That's our Tenno Sho champion! That's our ace! Isn't that right, \nTrainer?",
       "choice_data_list": [
         "Yep. Our team superstar.",
         "Yep. Our team superstar."
-      ],
-      "name": "Trainee with Straight-cut Bangs",
-      "text": "That's our Tenno Sho champion! That's our ace! Isn't that right, \nTrainer?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
@@ -209,11 +209,11 @@
       "text": "Expressions grow serious as the others realize what I'm getting at."
     },
     {
+      "text": "The race is a special one for any runner. A once-in-a-lifetime chance \nto stand at the top.",
       "choice_data_list": [
         "Your next stop will be the Japanese Derby!",
         "Your next stop will be the Japanese Derby!"
-      ],
-      "text": "The race is a special one for any runner. A once-in-a-lifetime chance \nto stand at the top."
+      ]
     },
     {
       "name": "Rice Shower",

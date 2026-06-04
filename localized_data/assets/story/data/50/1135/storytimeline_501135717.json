@@ -5,18 +5,18 @@
       "text": "Stay Gold did not appear to be in the \nbest condition, so I brought her to the \ninfirmary."
     },
     {
+      "name": "Stay Gold",
+      "text": "Sorry about this, Trainer. You brought \nme all this way even though there's \nnothing to worry about.",
       "choice_data_list": [
         "I still am worried though…"
-      ],
-      "name": "Stay Gold",
-      "text": "Sorry about this, Trainer. You brought \nme all this way even though there's \nnothing to worry about."
+      ]
     },
     {
+      "name": "Stay Gold",
+      "text": "I see. Well, one could never be too \ncareful. I'll behave and get a little \nrest here then.",
       "choice_data_list": [
         "Good night"
-      ],
-      "name": "Stay Gold",
-      "text": "I see. Well, one could never be too \ncareful. I'll behave and get a little \nrest here then."
+      ]
     },
     {
       "name": "Stay Gold",

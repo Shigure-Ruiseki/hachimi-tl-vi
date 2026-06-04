@@ -5,27 +5,27 @@
       "text": "Rewinding to the day before——"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Wait, what'd you just say…? \n——I don't have to make a choice? I can run on both?",
       "choice_data_list": [
         "Yep.",
         "Mmhm."
-      ],
-      "name": "Agnes Digital",
-      "text": "Wait, what'd you just say…? \n——I don't have to make a choice? I can run on both?"
+      ]
     },
     {
+      "name": "Agnes Digital",
+      "text": "Uhhh, just to be sure, you mean not just in the Junior class… \nBut the Classic and Senior classes, too, right…?",
       "choice_data_list": [
         "That's right.",
         "That's right."
-      ],
-      "name": "Agnes Digital",
-      "text": "Uhhh, just to be sure, you mean not just in the Junior class… \nBut the Classic and Senior classes, too, right…?"
+      ]
     },
     {
+      "name": "Agnes Digital",
+      "text": "Th- Then, then, you <i>really</i> mean it's okay for me to run without \nworrying about the track? I've got the OK to run anywhere and \neverywhere?",
       "choice_data_list": [
         "You got it!"
-      ],
-      "name": "Agnes Digital",
-      "text": "Th- Then, then, you <i>really</i> mean it's okay for me to run without \nworrying about the track? I've got the OK to run anywhere and \neverywhere?"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -36,19 +36,19 @@
       "text": "——Noooo, nonono!! I'm telling you, there's just no way!!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "There's gonna be a Murder on the Digitan Express! I'll sink like \nthe Titanic! If I let myself get pulled in both directions, I'll get \ntorn clean in half! It'll be so over!",
       "choice_data_list": [
         "No, it won't!"
-      ],
-      "name": "Agnes Digital",
-      "text": "There's gonna be a Murder on the Digitan Express! I'll sink like \nthe Titanic! If I let myself get pulled in both directions, I'll get \ntorn clean in half! It'll be so over!"
+      ]
     },
     {
+      "name": "Agnes Digital",
+      "text": "Why tho!?",
       "choice_data_list": [
         "Because you've put in the effort!",
         "Because you've put in the effort!"
-      ],
-      "name": "Agnes Digital",
-      "text": "Why tho!?"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -75,10 +75,10 @@
       "text": "You mean, the way I am now, I can run on any track…!? \nI'll never be able to match my faves, I know, but are you saying \nmy willpower's just barely above the absolute minimum?"
     },
     {
+      "text": "The way she said it was a little weird, but I'm sure we wanted \nto say the same thing. Right, we both wanted to say——",
       "choice_data_list": [
         "You should try and be an \"all-rounder\"!"
-      ],
-      "text": "The way she said it was a little weird, but I'm sure we wanted \nto say the same thing. Right, we both wanted to say——"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -93,12 +93,12 @@
       "text": "And, you know, \"all-rounder\"…"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Ahhh…! I just <i>wuv</i> the sound of that…! \nYou mean, I can do anything, <i>anything</i> I want…!?",
       "choice_data_list": [
         "I'm just talking about racing, here!",
         "I'm just talking about racing, here!"
-      ],
-      "name": "Agnes Digital",
-      "text": "Ahhh…! I just <i>wuv</i> the sound of that…! \nYou mean, I can do anything, <i>anything</i> I want…!?"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -120,11 +120,11 @@
       "text": "And with that—— \nAt long last, the Selection Race."
     },
     {
+      "name": "Agnes Digital",
+      "text": "…Right. I'm going to be up soon. \nHere I go! I've got will strong enough to overcome samsara on \nthe Sixfold Paths!",
       "choice_data_list": [
         "Do your best!"
-      ],
-      "name": "Agnes Digital",
-      "text": "…Right. I'm going to be up soon. \nHere I go! I've got will strong enough to overcome samsara on \nthe Sixfold Paths!"
+      ]
     },
     {
       "text": "There's a rule saying you can't enter the Selection Race twice, \nbut it only applies as far as \"twice on the same type of track\"."
@@ -169,11 +169,11 @@
       "text": "What the…!? You mean… <i>she doesn't pick her battlefield…!? \n</i>She might have what it takes to be the strongest one day!!"
     },
     {
+      "text": "She ran even more wonderfully than I thought she would! \nI hurried down to congratulate her on a job well done.",
       "choice_data_list": [
         "Good work! Nice running out there!",
         "Good work! Nice running out there!"
-      ],
-      "text": "She ran even more wonderfully than I thought she would! \nI hurried down to congratulate her on a job well done."
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -204,22 +204,22 @@
       "text": "I'm the type of girl who's all about diversity, you see! I can't just \nfocus on one or the other, you see! I'm trying to be an \nall-rounder, you see! And——"
     },
     {
+      "name": "Agnes Digital",
+      "text": "The thing is… This trainer here's already agreed to train with \nlittle old Digitan!",
       "choice_data_list": [
         "…Wait, did I?"
-      ],
-      "name": "Agnes Digital",
-      "text": "The thing is… This trainer here's already agreed to train with \nlittle old Digitan!"
+      ]
     },
     {
       "name": "Agnes Digital",
       "text": "L-look, just play along…! \nAll these people are getting me nervous!"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Phew, I'm free… All eyes were on me for a bit there. Weird… \nSorry for getting you caught up in that.",
       "choice_data_list": [
         "Oh, right. About what you said back there."
-      ],
-      "name": "Agnes Digital",
-      "text": "Phew, I'm free… All eyes were on me for a bit there. Weird… \nSorry for getting you caught up in that."
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -234,11 +234,11 @@
       "text": "You're an Umamusume-chan-fan too, so I'm really comfortable \naround you…"
     },
     {
+      "name": "Agnes Digital",
+      "text": "Plus, I don't think there's anyone else in the world who'd take \nmy yapping as seriously as you. So…! Are you in?",
       "choice_data_list": [
         "Of course I am!"
-      ],
-      "name": "Agnes Digital",
-      "text": "Plus, I don't think there's anyone else in the world who'd take \nmy yapping as seriously as you. So…! Are you in?"
+      ]
     },
     {
       "name": "Agnes Digital",
@@ -252,11 +252,11 @@
       "text": "——Oh, almost forgot. Trainer-san."
     },
     {
+      "name": "Agnes Digital",
+      "text": "What color glowstick do you want?",
       "choice_data_list": [
         "Huh?"
-      ],
-      "name": "Agnes Digital",
-      "text": "What color glowstick do you want?"
+      ]
     },
     {
       "name": "Agnes Digital",

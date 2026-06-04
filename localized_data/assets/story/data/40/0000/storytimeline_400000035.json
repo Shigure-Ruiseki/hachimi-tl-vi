@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
+      "name": "Otonashi Etsuko",
+      "text": "Congratulations! A splendid victory.\n… I'm very impressed.",
       "choice_data_list": [
         "It's because of her hard work."
-      ],
-      "name": "Otonashi Etsuko",
-      "text": "Congratulations! A splendid victory.\n… I'm very impressed."
+      ]
     },
     {
       "name": "Otonashi Etsuko",
