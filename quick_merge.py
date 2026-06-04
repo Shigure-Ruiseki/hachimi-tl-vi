@@ -5,10 +5,17 @@ import sys
 import datetime
 
 def sort_dict_by_key(d):
-    """Sắp xếp dictionary theo key từ A-Z (không phân biệt hoa thường)"""
     if not isinstance(d, dict):
         return d
-    return {k: sort_dict_by_key(v) for k, v in sorted(d.items(), key=lambda item: item[0].lower())}
+    
+    def get_sort_key(item):
+        key = item[0]
+        if key.isdigit():
+            return (0, int(key)) 
+        else:
+            return (1, key.lower()) 
+            
+    return {k: sort_dict_by_key(v) for k, v in sorted(d.items(), key=get_sort_key)}
 
 def merge_json(old_data, new_data, path, log_file):
     if isinstance(old_data, dict) and isinstance(new_data, dict):
@@ -24,11 +31,10 @@ def merge_json(old_data, new_data, path, log_file):
             
             else:
                 pass
-            
+                
         return result
     
     return old_data if old_data is not None else new_data
-
 def merge_folders(old_dir, new_dir):
     if not os.path.exists(old_dir) or not os.path.exists(new_dir):
         return
