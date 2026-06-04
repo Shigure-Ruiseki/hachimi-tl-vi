@@ -4,6 +4,12 @@ import shutil
 import sys
 import datetime
 
+def sort_dict_by_key(d):
+    """Sắp xếp dictionary theo key từ A-Z (không phân biệt hoa thường)"""
+    if not isinstance(d, dict):
+        return d
+    return {k: sort_dict_by_key(v) for k, v in sorted(d.items(), key=lambda item: item[0].lower())}
+
 def merge_json(old_data, new_data, path, log_file):
     if isinstance(old_data, dict) and isinstance(new_data, dict):
         result = dict(old_data)
@@ -18,8 +24,8 @@ def merge_json(old_data, new_data, path, log_file):
             
             else:
                 pass
-                
-        return dict(sorted(result.items()))
+            
+        return result
     
     return old_data if old_data is not None else new_data
 
@@ -52,8 +58,10 @@ def merge_folders(old_dir, new_dir):
 
                         merged = merge_json(old_json, new_json, rel_path, log_file)
                         
+                        sorted_merged = sort_dict_by_key(merged)
+                        
                         with open(old_path, "w", encoding="utf-8") as f:
-                            json.dump(merged, f, ensure_ascii=False, indent=2, sort_keys=True)
+                            json.dump(sorted_merged, f, ensure_ascii=False, indent=2, sort_keys=False)
                         
                         log_file.write(f"[MERGED JSON] {rel_path}\n")
                     except Exception as e:
