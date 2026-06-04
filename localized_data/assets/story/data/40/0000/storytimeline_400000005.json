@@ -6,11 +6,11 @@
       "text": "Brilliant!  You've shown me your enthusiasm,\nyour attitude towards horse girls!"
     },
     {
-      "name": "Director Akikawa",
-      "text": "I've enhanced the training facilities!\nExpecting further success!",
       "color_text_info_list": [
         "enhanced the training facilities"
-      ]
+      ],
+      "name": "Director Akikawa",
+      "text": "I've enhanced the training facilities!\nExpecting further success!"
     }
   ]
 }

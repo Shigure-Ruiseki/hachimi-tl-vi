@@ -158,10 +158,10 @@
       "text": "(Which means, what I should be doing in this place is……)"
     },
     {
-      "text": "Cesario, even if we're overseas, \nthere's no need to match their pace.",
       "choice_data_list": [
         "Just run your own way, as you are!"
-      ]
+      ],
+      "text": "Cesario, even if we're overseas, \nthere's no need to match their pace."
     },
     {
       "name": "Cesario",
@@ -172,12 +172,12 @@
       "text": "I just need to push forward, with all my might. \nFollowing this flow――"
     },
     {
-      "name": "King Halo",
-      "text": "Cesario-san! Do your best!",
       "choice_data_list": [
         "Go win, Cesario!",
         "Go win, Cesario!"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Cesario-san! Do your best!"
     },
     {
       "name": "Cesario",

@@ -2,17 +2,17 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "The days of running through the Twinkle \nSeries with your horse girl will soon begin. \nWalking alongside you, her name is——",
       "color_text_info_list": [
         "Twinkle Series"
-      ]
+      ],
+      "text": "The days of running through the Twinkle \nSeries with your horse girl will soon begin. \nWalking alongside you, her name is——"
     },
     {
-      "name": "Stay Gold",
-      "text": "I'm Stay Gold. Nice to meet you.",
       "color_text_info_list": [
         "Stay Gold"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "I'm Stay Gold. Nice to meet you."
     },
     {
       "name": "Stay Gold",

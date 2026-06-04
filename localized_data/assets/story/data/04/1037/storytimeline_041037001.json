@@ -159,12 +159,12 @@
       "text": "Eishin Flash ran off with a neutral expression. \nApparently she is a very punctual girl."
     },
     {
-      "name": "Smart Falcon",
-      "text": "<i>Aah</i>～ she's gone. Well then～ There's <i>someone</i> here \nwho looks very excited to watch my performance☆",
       "choice_data_list": [
         "…Oh no!?",
         "…<i>Wahh!?</i>"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "<i>Aah</i>～ she's gone. Well then～ There's <i>someone</i> here \nwho looks very excited to watch my performance☆"
     },
     {
       "name": "Smart Falcon",

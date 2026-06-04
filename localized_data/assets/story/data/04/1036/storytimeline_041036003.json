@@ -59,25 +59,25 @@
       "text": "(Once I did, I'd be…\" \". Or so I thought.)"
     },
     {
-      "text": "Chasing Shakur after she finished training, I found her standing \nin the plaza.",
       "choice_data_list": [
         "Shakur!"
-      ]
+      ],
+      "text": "Chasing Shakur after she finished training, I found her standing \nin the plaza."
     },
     {
-      "name": "Air Shakur",
-      "text": "！ \nYou're… From that thing with the cop. \nThe hell do you want?",
       "choice_data_list": [
         "Your running today was awesome."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "！ \nYou're… From that thing with the cop. \nThe hell do you want?"
     },
     {
-      "name": "Air Shakur",
-      "text": "Hah？ \n…Ah… Huh？",
       "choice_data_list": [
         "I could tell just how hard you've worked…",
         "I could tell just how hard you've worked."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "Hah？ \n…Ah… Huh？"
     },
     {
       "name": "Air Shakur",
@@ -88,11 +88,11 @@
       "text": "Wait, did you really come out of your way just to say that? \nYeah, yeah, thanks for that. Now scram."
     },
     {
-      "text": "It wasn't just to say that. I called out to her because… \nSeeing her run made me want to get to know her better. \nRight, I came here to say——",
       "choice_data_list": [
         "I want to be your trainer!",
         "I want to be your trainer!"
-      ]
+      ],
+      "text": "It wasn't just to say that. I called out to her because… \nSeeing her run made me want to get to know her better. \nRight, I came here to say——"
     },
     {
       "name": "Air Shakur",
@@ -102,39 +102,39 @@
       "text": "It was probably too sudden to ask. But the instant the words left \nmy mouth, it dawned on me. That I was already considering this \noption from the moment we first met."
     },
     {
-      "name": "Air Shakur",
-      "text": "…Completely illogical. Oh, wait, you saying you fell in love at \nfirst sight? Sorry, but no. Not gonna hear out that kind of \nunfounded BS.",
       "choice_data_list": [
         "Then give me a foundation.",
         "Then give me a foundation."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "…Completely illogical. Oh, wait, you saying you fell in love at \nfirst sight? Sorry, but no. Not gonna hear out that kind of \nunfounded BS."
     },
     {
-      "name": "Air Shakur",
-      "text": "…What?",
       "choice_data_list": [
         "Tell me what you wish for. \nThe reason you run.",
         "Tell me what you wish for. \nThe reason you run."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "…What?"
     },
     {
-      "name": "Air Shakur",
-      "text": "What exactly do you think would happen if I told you? \nWhen I say 'foundation', I mean stuff like my abilities, or the \nconditions necessary to reach my goals. That kind of thing.",
       "choice_data_list": [
         "If you tell me, I can help you.",
         "If you tell me, I can help you."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "What exactly do you think would happen if I told you? \nWhen I say 'foundation', I mean stuff like my abilities, or the \nconditions necessary to reach my goals. That kind of thing."
     },
     {
       "name": "Air Shakur",
       "text": "…How? How could you possibly… You really think you can put \nmore work in than I have?"
     },
     {
-      "name": "Air Shakur",
-      "text": "From nutritional science to sports engineering, I know every \ntheory and every data point. Tell me, what kind of 'help' could \nyou possibly offer me?",
       "choice_data_list": [
         "……"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "From nutritional science to sports engineering, I know every \ntheory and every data point. Tell me, what kind of 'help' could \nyou possibly offer me?"
     },
     {
       "name": "Air Shakur",
@@ -145,18 +145,18 @@
       "text": "Getting high off the idea of helping someone… the idea of saving \nsomeone. \n…Even though there's nothing anyone can do to help me."
     },
     {
-      "text": "She unambiguously rejected me—— But the reason I was \nseeking was right there, between the lines… I had to press \nforward.",
       "choice_data_list": [
         "I haven't done anything yet."
-      ]
+      ],
+      "text": "She unambiguously rejected me—— But the reason I was \nseeking was right there, between the lines… I had to press \nforward."
     },
     {
-      "name": "Air Shakur",
-      "text": "Huh?",
       "choice_data_list": [
         "So what makes you think there's nothing I can do?",
         "So what makes you think there's nothing I can do?"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "Huh?"
     },
     {
       "name": "Air Shakur",
@@ -174,21 +174,21 @@
       "text": "She showed me the screen of that laptop she always carried \naround."
     },
     {
-      "text": "It was lined with complex formula upon complex formula, \nsymbols upon symbols, leading to a single value to the right of \nthe final equal sign——",
       "choice_data_list": [
         "\"-7\" ……"
-      ]
+      ],
+      "text": "It was lined with complex formula upon complex formula, \nsymbols upon symbols, leading to a single value to the right of \nthe final equal sign——"
     },
     {
       "name": "Air Shakur",
       "text": "That number's always been there, ever since I first ran the code. \nThe answer doesn't change. What that value represents is…"
     },
     {
-      "name": "Air Shakur",
-      "text": "I'm going to lose the Japanese Derby by seven centimeters, \nand lose my shot at the Triple Crown. That's the solution.",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "I'm going to lose the Japanese Derby by seven centimeters, \nand lose my shot at the Triple Crown. That's the solution."
     },
     {
       "text": "The Triple Crown… Three G1 races one can only enter in her \nClassic year. The \"Satsuki Sho\", the \"Japanese Derby\", and \nthe \"Kikka Sho\"."
@@ -209,32 +209,32 @@
       "text": "Got it now? Look how powerless you are to help. \nEven I can't do a damn thing about it."
     },
     {
-      "text": "I couldn't hope to understand the depths of her despair. \nBut at the very least, I could understand why she was struggling \nso fiercely. It was simple—",
       "choice_data_list": [
         "You still want to win, don't you?",
         "You still want to win, don't you?"
-      ]
+      ],
+      "text": "I couldn't hope to understand the depths of her despair. \nBut at the very least, I could understand why she was struggling \nso fiercely. It was simple—"
     },
     {
       "name": "Air Shakur",
       "text": "…Huh?"
     },
     {
-      "text": "I wanted to know her wish, and there it was— \nTo win. A simple wish shared by just about anyone…",
       "choice_data_list": [
         "If you hold on to that wish, you can change that result!"
-      ]
+      ],
+      "text": "I wanted to know her wish, and there it was— \nTo win. A simple wish shared by just about anyone…"
     },
     {
       "name": "Air Shakur",
       "text": "…Ghh."
     },
     {
-      "name": "Air Shakur",
-      "text": "If thinking and wishing was all it took! \nI'd've done it already, dammit!",
       "choice_data_list": [
         "……！"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "If thinking and wishing was all it took! \nI'd've done it already, dammit!"
     },
     {
       "name": "Air Shakur",
@@ -249,18 +249,18 @@
       "text": "Just showing up out of nowhere, getting it twisted with that \nsavior complex!! <i>What the hell… do you think you can do…?!</i>"
     },
     {
-      "text": "Her rage and sorrow were clear. Her hopeless outlook was \nseated deep in her life's experience, I'm sure. I had no right to \ninvalidate it. But——",
       "choice_data_list": [
         "(I haven't even tried to help her yet!)",
         "(I haven't even tried to help her yet!)"
-      ]
+      ],
+      "text": "Her rage and sorrow were clear. Her hopeless outlook was \nseated deep in her life's experience, I'm sure. I had no right to \ninvalidate it. But——"
     },
     {
-      "name": "Air Shakur",
-      "text": "…Well, that's how it is. If you got it, don't try to get involved \nagain.",
       "choice_data_list": [
         "(…I have to get to know her better first.)"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "…Well, that's how it is. If you got it, don't try to get involved \nagain."
     },
     {
       "text": "Though she rejected me, though I hadn't done anything for her, \nI still didn't want to back down."

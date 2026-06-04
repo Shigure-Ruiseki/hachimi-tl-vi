@@ -16,18 +16,18 @@
       "text": "I can't waait～! The \"Deluxe\" course at \nthis ryokan is famous for its \nall-you-can-eat crab…"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Oyaoya! Trainer, you look so \nexcited that you're freaking out!?",
       "choice_data_list": [
         "No, I was wondering if it's really alright to use your \ncard…"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Oyaoya! Trainer, you look so \nexcited that you're freaking out!?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Fu-fu-fu… No need to worry! \nBecause Trainer is my \"special person\"!",
       "choice_data_list": [
         "W, what does that mean?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Fu-fu-fu… No need to worry! \nBecause Trainer is my \"special person\"!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -53,11 +53,11 @@
       "text": "Oohhhhh～～! This is deliciooous～～! \nThis one, that one, they all taste \nso expensive!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Trainer, what do you think, what do you \nthink? Is it delicious? \nAre you deeply moved!?",
       "choice_data_list": [
         "I am!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Trainer, what do you think, what do you \nthink? Is it delicious? \nAre you deeply moved!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -72,11 +72,11 @@
       "text": "You're not coming out at all! \nYou're hiding in your spike-y shell! \nThat's unsportsmanlike!"
     },
     {
-      "text": "…Definitely, the delicate task of extracting \nthe crab from its shell looks difficult for \nsomeone as hasty and impatient as her.",
       "choice_data_list": [
         "Crab is a battle of patience!",
         "You can crack them with utensils."
-      ]
+      ],
+      "text": "…Definitely, the delicate task of extracting \nthe crab from its shell looks difficult for \nsomeone as hasty and impatient as her."
     },
     {
       "name": "Sakura Bakushin O",
@@ -94,23 +94,23 @@
       "text": "(Crack! Crack, craaack!!)"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Wheee―w… \nSome way or another, I managed to smash \nall the shells.",
       "choice_data_list": [
         "Th, this is… patience…!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Wheee―w… \nSome way or another, I managed to smash \nall the shells."
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Ehhen! That's right, this is the patience \nof an honor roll student!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Come, now! Trainer, dig in! And while \nyou're eating, I'll serve you another round!",
       "choice_data_list": [
         "I'll do it myself, okay?",
         "I'll do it myself, okay?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Come, now! Trainer, dig in! And while \nyou're eating, I'll serve you another round!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -123,11 +123,11 @@
       "text": "…The cracked crab shells were \npainful to the tongue, but the two of \nus enjoyed the meal together――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Haaaa～～… \nThat food was absolutely delicious!",
       "choice_data_list": [
         "Thank you for letting me enjoy it."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Haaaa～～… \nThat food was absolutely delicious!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -142,11 +142,11 @@
       "text": "If Trainer had been a classmate \nof mine, I would have even recruited \nTrainer to be my vice president!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Ha… So this is how Trainer felt when \nyou scouted me!?",
       "choice_data_list": [
         "Mostly, I guess?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Ha… So this is how Trainer felt when \nyou scouted me!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -163,12 +163,12 @@
       "text": "Ohhhh～～!? That stubborn crab broke \napart so easily!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Then, leave the peeling to me! \nPlease do enjoy the fruits of my labor, \nTrainer!",
       "choice_data_list": [
         "I'll do it myself, okay?",
         "I'll do it myself, okay?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Then, leave the peeling to me! \nPlease do enjoy the fruits of my labor, \nTrainer!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -185,11 +185,11 @@
       "text": "…Her crab-handling was too fast, and I \nhad to eat an absurd amont of food, \nbut we enjoyed our dinner――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Haaaa～～… \nThat food was absolutely delicious!",
       "choice_data_list": [
         "Thank you for letting me enjoy it."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Haaaa～～… \nThat food was absolutely delicious!"
     },
     {
       "name": "Sakura Bakushin O",

@@ -59,11 +59,11 @@
       "text": "Um… to join a team it's necessary to be scouted first. \nJoining the team because you want to is…"
     },
     {
-      "name": "Special Week",
-      "text": "Uwaaaah! Scouted! Just like a celebrity! \nI'll do my best so I can be scouted!",
       "choice_data_list": [
         "You're, how do I say this, very energetic"
-      ]
+      ],
+      "name": "Special Week",
+      "text": "Uwaaaah! Scouted! Just like a celebrity! \nI'll do my best so I can be scouted!"
     },
     {
       "name": "Silence Suzuka",
@@ -111,11 +111,11 @@
       "text": "That may be the case… \nBut it seems like Special Week-san already has a dream in mind."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "A dream to run in the Twinkle Series, \nand become \"Japan's #1 Uma Musume\".",
       "choice_data_list": [
         "\"Japan's #1 Uma Musume\"…?"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "A dream to run in the Twinkle Series, \nand become \"Japan's #1 Uma Musume\"."
     },
     {
       "name": "Silence Suzuka",

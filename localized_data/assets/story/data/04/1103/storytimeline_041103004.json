@@ -1,11 +1,11 @@
 {
   "text_block_list": [
     {
-      "text": "Royce and Royce invited me to watch a race today. \nWhether we were going through with the training contract was still up in the air. \n",
       "choice_data_list": [
         "So, why'd you invite me today?",
         "So, why'd you invite me today?"
-      ]
+      ],
+      "text": "Royce and Royce invited me to watch a race today. \nWhether we were going through with the training contract was still up in the air. \n"
     },
     {
       "name": "Royce and Royce",
@@ -35,12 +35,12 @@
       "text": "It's Tokai Teio! Tokai Teio's in the lead! \nIncredible!! Tokai Teio crosses the finish line!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "Teio-san has the absolute talent to turn that disadvantage on its head… It's no wonder racers like her are called true geniuses.",
       "choice_data_list": [
         "Wait, was the racer you met as a kid…",
         "Wait, was the racer you met as a kid…"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "Teio-san has the absolute talent to turn that disadvantage on its head… It's no wonder racers like her are called true geniuses."
     },
     {
       "name": "Royce and Royce",
@@ -75,12 +75,12 @@
       "text": "There's not just one \"greatest\". \nThere can be \"the greatest closer\", or \"the greatest stayer\". \n…The \"greatest\" comes in many forms."
     },
     {
-      "name": "Royce and Royce",
-      "text": "Then it stands to reason… \n…There must be a \"greatest\" that I can be.",
       "choice_data_list": [
         "! …So that's your goal.",
         "! …So that's your goal."
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "Then it stands to reason… \n…There must be a \"greatest\" that I can be."
     },
     {
       "name": "Royce and Royce",
@@ -107,21 +107,21 @@
       "text": "What I lack in victories, I can make up for in drama! \nI'll use every trick in the book if it means the fans will remember me!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "If I'm racing… If I'm LIVING, then…! \nOf course I want to become a legendary Umamusume!",
       "choice_data_list": [
         "(Oh… So that's why…)"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "If I'm racing… If I'm LIVING, then…! \nOf course I want to become a legendary Umamusume!"
     },
     {
       "text": "Whenever I looked at her, I would get this tugging feeling in my chest. Like I couldn't bring myself to ignore her. \nAnd now I knew the reason why——"
     },
     {
-      "name": "Mid-Career Trainer",
-      "text": "Hey, you got some really good results back in trainer school! Say, Trainer <username>, you got a goal in mind?",
       "choice_data_list": [
         "Uhh… Maybe just one win to start."
-      ]
+      ],
+      "name": "Mid-Career Trainer",
+      "text": "Hey, you got some really good results back in trainer school! Say, Trainer <username>, you got a goal in mind?"
     },
     {
       "text": "I knew my place. Petty flattery wasn't going to get my hopes up anymore. But I still had a longing buried deep in my heart, that I didn't want to spend my life being just another nobody."
@@ -145,18 +145,18 @@
       "text": "She longed to be seen, and didn't care who knew it. \nShe would use every trick up her sleeve to make it happen, betting it all on her \"self-production\"."
     },
     {
-      "text": "Keeping up appearances meant nothing to her. \nAnd that sent a shock through my heart… \nBecause I felt the very same way.",
       "choice_data_list": [
         "I… I want to help find your \"greatest\"!",
         "I… I want to help find your \"greatest\"!"
-      ]
+      ],
+      "text": "Keeping up appearances meant nothing to her. \nAnd that sent a shock through my heart… \nBecause I felt the very same way."
     },
     {
-      "name": "Royce and Royce",
-      "text": "…………………… \n…Sigh…",
       "choice_data_list": [
         "(Did she just sigh at me!?)"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "…………………… \n…Sigh…"
     },
     {
       "name": "Royce and Royce",
@@ -171,18 +171,18 @@
       "text": "…Understood?"
     },
     {
-      "name": "Royce and Royce",
-      "text": "I'm soooo sorry, the audience was just SO loud, I couldn't hear you… Could you say that one more time, pretty please?♪",
       "choice_data_list": [
         "(She wants me to do a retake!?)"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "I'm soooo sorry, the audience was just SO loud, I couldn't hear you… Could you say that one more time, pretty please?♪"
     },
     {
-      "text": "Well… as long as she was aiming to be the greatest, she would need to keep at her self-production. So I guess this counts as rehearsal for her entry in the Twinkle Series…",
       "choice_data_list": [
         "I promise to make you THE GREATEST!",
         "I promise to make you THE GREATEST!"
-      ]
+      ],
+      "text": "Well… as long as she was aiming to be the greatest, she would need to keep at her self-production. So I guess this counts as rehearsal for her entry in the Twinkle Series…"
     },
     {
       "text": "She could do it. With nothing but her smarts and her self-production, and social media as her tool, she could carve out her path to becoming a legend. "
@@ -191,11 +191,11 @@
       "text": "If Royce and Royce became the greatest—— \nThen she would be granting hope to all the Umamusume like her."
     },
     {
-      "text": "Hope that, even without being blessed with talent, they could still chase their dreams. Hope that even someone like them could take the throne of the greatest.",
       "choice_data_list": [
         "Please, let me help fulfill your dream!",
         "Please, let me help fulfill your dream!"
-      ]
+      ],
+      "text": "Hope that, even without being blessed with talent, they could still chase their dreams. Hope that even someone like them could take the throne of the greatest."
     },
     {
       "name": "Royce and Royce",

@@ -6,12 +6,12 @@
       "text": "Water level sufficiently increased. Pulse and blood \npressure are back at expected levels due to resting. \nMaintenance complete."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "Thank you very much. \nI will be going now.",
       "choice_data_list": [
         "Are you sure you're okay?",
         "Are you sure you're okay?"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "Thank you very much. \nI will be going now."
     },
     {
       "name": "Mihono Bourbon",
@@ -22,19 +22,19 @@
       "text": "My analysis predicts that I have 7m28s of recovery left \nuntil all functions are back online. I will continue waiting \nwhile executing breathing functions until then."
     },
     {
-      "text": "I have a feeling she might continue training after this. \nThat can't be good for her.",
       "choice_data_list": [
         "...You're going home after that, right?",
         "...You're going home after that, right?"
-      ]
+      ],
+      "text": "I have a feeling she might continue training after this. \nThat can't be good for her."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "No. I have scheduled a 2000 meter running task \nafter my recovery completes.",
       "choice_data_list": [
         "You should not.",
         "You should not."
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "No. I have scheduled a 2000 meter running task \nafter my recovery completes."
     },
     {
       "name": "Mihono Bourbon",
@@ -44,32 +44,32 @@
       "text": "\"Your body isn't yet developed for that distance. \nThat's how accidents happen.\" I left out the details \nbut I <i>had</i> to tell her that."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "But I <i>need</i> to in order to complete my objective.",
       "choice_data_list": [
         "Your objective?"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "But I <i>need</i> to in order to complete my objective."
     },
     {
       "name": "Mihono Bourbon",
       "text": "Attaining the Triple Crown title."
     },
     {
-      "text": "The Triple Crown title goes out to those who win \nthe Satsuki Sho, Japan Derby and Kikka Sho. \nThey are mainly medium to long distance races.",
       "choice_data_list": [
         "(But... wait a minute...)"
-      ]
+      ],
+      "text": "The Triple Crown title goes out to those who win \nthe Satsuki Sho, Japan Derby and Kikka Sho. \nThey are mainly medium to long distance races."
     },
     {
       "name": "Experienced Trainer",
       "text": "<i>He said he sees great promise in pursuing \nshort distance races with her.</i>"
     },
     {
-      "text": "Her trainer seems to be aiming for short races, though. \nI wonder if he's aware of her goal of the Triple Crown...",
       "choice_data_list": [
         "Did you tell your trainer?",
         "Did you tell your trainer?"
-      ]
+      ],
+      "text": "Her trainer seems to be aiming for short races, though. \nI wonder if he's aware of her goal of the Triple Crown..."
     },
     {
       "name": "Mihono Bourbon",
@@ -112,11 +112,11 @@
       "text": "...his status is 'not enthusiastic.'"
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "I tried querying him with the same request another two \ntimes after that, but his response has not changed.",
       "choice_data_list": [
         "<size=43>(...I understand his reasoning though.)</size>"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "I tried querying him with the same request another two \ntimes after that, but his response has not changed."
     },
     {
       "text": "I felt the talent in her speed when I saw her at the mock race. \nIt does feel like a bit of a shame <i>not</i> to utilize it in short races..."
@@ -134,21 +134,21 @@
       "text": "I'm working to get first on a medium or long distance \nrace to change my Master's response."
     },
     {
-      "text": "She's really determined to get the Triple Crown. \nNevertheless, it's dangerous to do this \nextremely harsh training on her own.",
       "choice_data_list": [
         "<size=42>Try talking to him one more time―</size>"
-      ]
+      ],
+      "text": "She's really determined to get the Triple Crown. \nNevertheless, it's dangerous to do this \nextremely harsh training on her own."
     },
     {
       "name": "Mihono Bourbon",
       "text": "Seven and a half minutes passed. \nPhysical strength level restored to operable range."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "I will be going now.",
       "choice_data_list": [
         "Wha—?!"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "I will be going now."
     },
     {
       "text": "Whether she was listening or not, she started \nrunning again the moment she was able to."
@@ -166,20 +166,20 @@
       "text": "Hng!"
     },
     {
-      "text": "Even from so far away I can tell that what \nshe's doing is blatantly too much.",
       "choice_data_list": [
         "(I can't stand this any longer!)"
-      ]
+      ],
+      "text": "Even from so far away I can tell that what \nshe's doing is blatantly too much."
     },
     {
       "text": "\"I'm just giving her advice, I'm not coaching her!\" \nis the excuse I come up with as I run in her direction."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "*pant pant*",
       "choice_data_list": [
         "Have you looked at your lap time?"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "*pant pant*"
     },
     {
       "name": "Mihono Bourbon",
@@ -189,25 +189,25 @@
       "text": "What's important for medium and long races is <i>pacing</i>. \nIt's not about going all out, but about keeping up a \nconsistent pace if she wants to improve her times."
     },
     {
-      "text": "She's good at measuring things in her head. Like when she was \nlost the other day, or when she counted distance or seconds \njust earlier. She might as well make good use of that ability.",
       "choice_data_list": [
         "Bring that time down."
-      ]
+      ],
+      "text": "She's good at measuring things in her head. Like when she was \nlost the other day, or when she counted distance or seconds \njust earlier. She might as well make good use of that ability."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "Understood. Parsing new data. Starting measurement \nas soon as physical strength is restored.",
       "choice_data_list": [
         "<size=43>Let's start with 1600 meters. Okay?</size>"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "Understood. Parsing new data. Starting measurement \nas soon as physical strength is restored."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "But...",
       "choice_data_list": [
         "There is no need to rush.",
         "There is no need to rush."
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "But..."
     },
     {
       "name": "Mihono Bourbon",
@@ -233,21 +233,21 @@
       "text": "She managed to run that 1600 meters \nat a consistent pace."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "New personal best time achieved.",
       "choice_data_list": [
         "Well done! Congratulations!"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "New personal best time achieved."
     },
     {
       "text": "I was so captivated that I started clapping for her \nwithout realizing. She still had her usual \nexpressionless face, though."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "...",
       "choice_data_list": [
         "Hmm?"
-      ]
+      ],
+      "name": "Mihono Bourbon",
+      "text": "..."
     },
     {
       "name": "Mihono Bourbon",

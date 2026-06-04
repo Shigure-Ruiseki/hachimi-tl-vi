@@ -1,11 +1,11 @@
 {
   "text_block_list": [
     {
-      "name": "Win Variation",
-      "text": "Once again, my name is Win Variation. \nWell, thank you for taking time out of your day for this.",
       "choice_data_list": [
         "I should say the same! I'm looking forward to it."
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Once again, my name is Win Variation. \nWell, thank you for taking time out of your day for this."
     },
     {
       "name": "Win Variation",
@@ -77,10 +77,10 @@
       "text": "As though she was drawn in by her running, \nWin Variation took one step towards her."
     },
     {
-      "text": "Apparently, she couldn't take her eyes off of her either.",
       "choice_data_list": [
         "Win Variation?"
-      ]
+      ],
+      "text": "Apparently, she couldn't take her eyes off of her either."
     },
     {
       "name": "Win Variation",
@@ -123,35 +123,35 @@
       "text": "Hah, hah… \nI'm sorry… I just…"
     },
     {
-      "name": "Win Variation",
-      "text": "…I wasn't planning this! I'm not like this usually! \nI always try my—",
       "choice_data_list": [
         "Is your leg bothering you?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "…I wasn't planning this! I'm not like this usually! \nI always try my—"
     },
     {
-      "name": "Win Variation",
-      "text": "Huh… N-no, not at all. \nBut, why'd you ask?",
       "choice_data_list": [
         "It looked like you were enduring something."
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Huh… N-no, not at all. \nBut, why'd you ask?"
     },
     {
       "name": "Win Variation",
       "text": "Huh!? N-nothing… of the sort! \nWell, my condition is… I feel like I can keep going!"
     },
     {
-      "name": "Win Variation",
-      "text": "Well, I just… couldn't… concentrate that well. Because of that you saw something strange with my running… I'm sorry.",
       "choice_data_list": [
         "Well, there were a bunch of journalists—"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Well, I just… couldn't… concentrate that well. Because of that you saw something strange with my running… I'm sorry."
     },
     {
-      "text": "She might've not calmed down yet, so I called out to her. Everyone's left already, and it's quiet around here. The girl they were getting info on wasn't here either.",
       "choice_data_list": [
         "Orfevre also left…"
-      ]
+      ],
+      "text": "She might've not calmed down yet, so I called out to her. Everyone's left already, and it's quiet around here. The girl they were getting info on wasn't here either."
     },
     {
       "name": "Win Variation",
@@ -170,11 +170,11 @@
       "text": "…U-um… \nI… I just… I…"
     },
     {
-      "name": "Win Variation",
-      "text": "…I-I'm sorry!",
       "choice_data_list": [
         "Win Variation!?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "…I-I'm sorry!"
     },
     {
       "text": "She bowed her head and then ran away. Before she ran away, I saw she was about to cry. Her expression was… really heart-breaking… I couldn't leave her alone."

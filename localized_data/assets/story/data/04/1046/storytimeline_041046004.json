@@ -2,21 +2,21 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "The appointed day. With permission from the school, \nI had brought Smart Falcon to the Ooi Racetrack.",
       "choice_data_list": [
         "We're watching dirt races today"
-      ]
+      ],
+      "text": "The appointed day. With permission from the school, \nI had brought Smart Falcon to the Ooi Racetrack."
     },
     {
       "name": "Smart Falcon",
       "text": "I see～ ……but, why today of all days? \nThere aren't any big races, and there aren't many spectators."
     },
     {
-      "name": "Smart Falcon",
-      "text": "……you're probably trying to show me the good parts \nof dirt racing, right? In that case, I would think \nseeing bigger races would be better.",
       "choice_data_list": [
         "You'll understand once you see it"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "……you're probably trying to show me the good parts \nof dirt racing, right? In that case, I would think \nseeing bigger races would be better."
     },
     {
       "name": "Smart Falcon",
@@ -48,12 +48,12 @@
       "text": "Haaa…… Huuu～, alright, let's keep smiling until the end! \nAnd so, please listen. Our song is……―"
     },
     {
-      "name": "Smart Falcon",
-      "text": "――Haaaa～…… that was amazing! \nIt was a really great Live, wasn't it～!?",
       "choice_data_list": [
         "It was",
         "It was"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "――Haaaa～…… that was amazing! \nIt was a really great Live, wasn't it～!?"
     },
     {
       "name": "Smart Falcon",
@@ -72,11 +72,11 @@
       "text": "Being able to to move someone's heart, it doesn't matter whether \nit's Turf or Dirt. Even then…… I didn't think much about dirt."
     },
     {
-      "name": "Smart Falcon",
-      "text": "It couldn't be helped that even if you won on Dirt, you wouldn't \nbe able to move people…… I had already convinced myself of that…… \nHaaa～, I'm disappointed in myself.",
       "choice_data_list": [
         "How do you feel now?"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "It couldn't be helped that even if you won on Dirt, you wouldn't \nbe able to move people…… I had already convinced myself of that…… \nHaaa～, I'm disappointed in myself."
     },
     {
       "name": "Smart Falcon",
@@ -87,19 +87,19 @@
       "text": "But everyone, just like me, won't easily be drawn to that stage. \nBecause Dirt doesn't get much attention, people don't know about \nsuch passionate Lives."
     },
     {
-      "name": "Smart Falcon",
-      "text": "Because there's no Top, this whole time few people \nhave realized it. It just feels like such a waste～.",
       "choice_data_list": [
         "Then you just need to become the Top"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "Because there's no Top, this whole time few people \nhave realized it. It just feels like such a waste～."
     },
     {
-      "name": "Smart Falcon",
-      "text": "Hee……? \nWhat do you mean by that……?",
       "choice_data_list": [
         "『Aptitude』 shouldn't limit you, right?",
         "『Aptitude』 shouldn't limit you, right?"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "Hee……? \nWhat do you mean by that……?"
     },
     {
       "name": "Smart Falcon",
@@ -114,34 +114,34 @@
       "text": "A world where everyone will aim for, and give attention to Dirt! \nFalco will be the one to change it……!"
     },
     {
-      "name": "Smart Falcon",
-      "text": "……huh? Could it be that that's something really difficult? \nHarder than becoming a Top Umadol?",
       "choice_data_list": [
         "Most likely",
         "Most likely"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "……huh? Could it be that that's something really difficult? \nHarder than becoming a Top Umadol?"
     },
     {
       "name": "Smart Falcon",
       "text": "Ahaha～…… but, it being difficult isn't a reason \nto give up, right? In that case, I'll need \nto put in even more work than before!"
     },
     {
-      "name": "Smart Falcon",
-      "text": "If nobody knows who Falco is, then I can't draw in anyone. \nSo I need to start by making a name for myself!",
       "choice_data_list": [
         "Keep working hard and a chance will come",
         "Keep working hard and a chance will come"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "If nobody knows who Falco is, then I can't draw in anyone. \nSo I need to start by making a name for myself!"
     },
     {
       "name": "Smart Falcon",
       "text": "Ehhhhh～ If I keep working as hard as before, nothing will change! \nI need to be able to seal the deal☆ and figure out how to do that!"
     },
     {
-      "text": "I nod to Smart Falcon. Even now she continues to move forward. \nAnd because of that―",
       "choice_data_list": [
         "Fan#1 is here for you"
-      ]
+      ],
+      "text": "I nod to Smart Falcon. Even now she continues to move forward. \nAnd because of that―"
     },
     {
       "name": "Smart Falcon",
@@ -176,11 +176,11 @@
       "text": "Alright then, Falco will be heading out☆ \nI'll be waiting for those passionate cheers☆"
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "That girl……who is she? She was really enthusiastic…… \nI'm pretty sure she's a new face on Dirt though.",
       "choice_data_list": [
         "(This is fine)"
-      ]
+      ],
+      "name": "Rookie Trainer A",
+      "text": "That girl……who is she? She was really enthusiastic…… \nI'm pretty sure she's a new face on Dirt though."
     },
     {
       "text": "The buzz was short-lived, and talk quickly turned back to \nanother, more prominent, Uma Musume. But that's exactly why \ntoday…… she would stand out more than anyone."
@@ -220,29 +220,29 @@
       "text": "No way, Falco's super popular☆ \nBut, that talk will have to wait juuuuuust a little bit!"
     },
     {
-      "name": "Smart Falcon",
-      "text": "Ah, there they are! \nTrainer-saaaan!",
       "choice_data_list": [
         "Good work out there"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "Ah, there they are! \nTrainer-saaaan!"
     },
     {
-      "name": "Smart Falcon",
-      "text": "Thanks☆ \nHey hey, was Falco sparkling?",
       "choice_data_list": [
         "Of course!"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "Thanks☆ \nHey hey, was Falco sparkling?"
     },
     {
       "name": "Smart Falcon",
       "text": "Ehehee, that's great! And on that note, there's \nsomething important I want to talk about. I want \nto ask properly…… will you hear me out!?"
     },
     {
-      "name": "Smart Falcon",
-      "text": "Trainer-san! Will you become Falco's trainer \nand aim for Top Umadol together with me!?",
       "choice_data_list": [
         "……Looking forward to it, Falco!"
-      ]
+      ],
+      "name": "Smart Falcon",
+      "text": "Trainer-san! Will you become Falco's trainer \nand aim for Top Umadol together with me!?"
     },
     {
       "name": "Smart Falcon",

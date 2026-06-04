@@ -20,11 +20,11 @@
       "text": "<i>Haah… haah…</i> Is there any kind person who could lend a hand…"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Ah, Trainer! Fortunate timing! \nTruth be told, I find myself in a bit of a major pickle…",
       "choice_data_list": [
         "I'm sure it's something absurd again…"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Ah, Trainer! Fortunate timing! \nTruth be told, I find myself in a bit of a major pickle…"
     },
     {
       "name": "Matikanefukukitaru",
@@ -38,10 +38,10 @@
       "text": "Fated, predetermined, forced, I was led to a room in the dorms."
     },
     {
-      "text": "I looked around to see garbage stacked from floor to ceiling. \nThe scream I had heard earlier turned out to be her roommate's \nencounter with a rogue element of this massive pile.",
       "choice_data_list": [
         "Does this trash heap have a name…?"
-      ]
+      ],
+      "text": "I looked around to see garbage stacked from floor to ceiling. \nThe scream I had heard earlier turned out to be her roommate's \nencounter with a rogue element of this massive pile."
     },
     {
       "name": "Matikanefukukitaru",
@@ -52,24 +52,24 @@
       "text": "Every single item is rare and important. I found myself unable \nto part with them, slowly accumulating this pile of treasures, \nuntil, eventually, it came crashing down on my friend here…"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "If left to grow further, the whole of Tracen Academy \nshall one day be swallowed by these many treasures! \nAh, this isn't a prophecy, just my prediction.",
       "choice_data_list": [
         "Let's just throw it all out…",
         "Let's just throw it all out…"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "If left to grow further, the whole of Tracen Academy \nshall one day be swallowed by these many treasures! \nAh, this isn't a prophecy, just my prediction."
     },
     {
       "name": "Matikanefukukitaru",
       "text": "<i>Heh? Gyaaaaaaah!</i> Who would utter these cursed words with \nsuch nonchalance!? Throw it all out!? I wouldn't think of it!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Did you hear me when I said they were my lucky items? \nI've made it this far thanks to their glorious blessings! \nAnd you intent to throw them all out?!",
       "choice_data_list": [
         "<size=34>This giant pile looks more dangerous than lucky.</size>",
         "<size=34>This giant pile looks more dangerous than lucky.</size>"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Did you hear me when I said they were my lucky items? \nI've made it this far thanks to their glorious blessings! \nAnd you intent to throw them all out?!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -91,25 +91,25 @@
       "text": "<i>Ah, ah, ah…</i> How I loathe to part with these～ \nFew as they may be, it's still unimaginable to \nthrow away such embodiments of fortune!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "…… <i>Wuuuuh</i>, Trainer. Which one do I start with…?",
       "choice_data_list": [
         "How about this charm here?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "…… <i>Wuuuuh</i>, Trainer. Which one do I start with…?"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "<i>Aah!</i> That's the charm that lead me to the quarterfinals \nat a ball game tournament in elementary! Do you know \nwhat you're asking!? I couldn't possibly start with this!",
       "choice_data_list": [
         "Alright, then maybe this doll?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "<i>Aah!</i> That's the charm that lead me to the quarterfinals \nat a ball game tournament in elementary! Do you know \nwhat you're asking!? I couldn't possibly start with this!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "<i>Aaaah!</i> When a tricycle was about to run over my foot, \nthis doll got ran over in my stead! It's a <i>yorishiro</i>, I tell you! \nI don't want to imagine what would happen if I burned it…",
       "choice_data_list": [
         "Fine, start with this pudding cup…"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "<i>Aaaah!</i> When a tricycle was about to run over my foot, \nthis doll got ran over in my stead! It's a <i>yorishiro</i>, I tell you! \nI don't want to imagine what would happen if I burned it…"
     },
     {
       "name": "Matikanefukukitaru",
@@ -127,12 +127,12 @@
       "text": "These items are all incredibly important to me… \nThat said, taking them back to the dorm with me \nwill eventually result in more casualties……"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Do you have any good ideas, Trainer? I will entrust you \nthis wit charm, so please help me think of something～!",
       "choice_data_list": [
         "Do you want me to keep them?",
         "Would you like me to keep them?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Do you have any good ideas, Trainer? I will entrust you \nthis wit charm, so please help me think of something～!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -143,11 +143,11 @@
       "text": "I have to say I'm so relieved. If I'd had to throw even a single \none away, my happiness would… <i>ah</i>, never mind!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "I did say I was relieved, but now that I'm really leaving \nthem with you, I still feel anxious… Can I at least come \nto look at them once a week?",
       "choice_data_list": [
         "I don't really mind…"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "I did say I was relieved, but now that I'm really leaving \nthem with you, I still feel anxious… Can I at least come \nto look at them once a week?"
     },
     {
       "name": "Matikanefukukitaru",

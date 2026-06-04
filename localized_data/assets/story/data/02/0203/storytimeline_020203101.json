@@ -16,27 +16,27 @@
       "text": "Right! Well, rather than Training Camp, it's more like a mountain \nretreat? That's how it feels. But that's fine, bring it on!"
     },
     {
-      "text": "……That's the spirit, Pandora. \nOh, it's already this late……I have to go pick them up now.",
       "choice_data_list": [
         "『Those girls』 are waiting for me"
-      ]
+      ],
+      "text": "……That's the spirit, Pandora. \nOh, it's already this late……I have to go pick them up now."
     },
     {
-      "text": "……That's the spirit, Pandora. \nOh, it's already this late……I have to go pick them up now.",
       "choice_data_list": [
         "『Those girls』 are waiting for me"
-      ]
+      ],
+      "text": "……That's the spirit, Pandora. \nOh, it's already this late……I have to go pick them up now."
     },
     {
       "name": "Daring Heart",
       "text": "——Wow, cool!! Looks like the Leading Role is here. \nFufu, the carefree smile I see in the dorms seems to be gone."
     },
     {
-      "name": "Air Messiah",
-      "text": "Sorry for making you wait. \nPreparations on our end are all complete.",
       "choice_data_list": [
         "Messiah, Heart, Cesario——"
-      ]
+      ],
+      "name": "Air Messiah",
+      "text": "Sorry for making you wait. \nPreparations on our end are all complete."
     },
     {
       "text": "Thanks for coming here. \nThanks for helping from today on."
@@ -89,12 +89,12 @@
       "text": "Aha! ——'Course, I'll do it!"
     },
     {
-      "name": "King Halo",
-      "text": "Really……she just keeps changing. That Pandora-san would \nbe the one to propose a training camp like this.",
       "choice_data_list": [
         "That's true——",
         "That's true——"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Really……she just keeps changing. That Pandora-san would \nbe the one to propose a training camp like this."
     },
     {
       "name": "Fusaichi Pandora",
@@ -125,12 +125,12 @@
       "text": "I want to, I need to, from now on!! \nBecause……because I——!!"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Huu-…………Alright. \n——Please, Trainer!",
       "choice_data_list": [
         "Yeah. Let's get started!",
         "Yeah. Let's get started!"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Huu-…………Alright. \n——Please, Trainer!"
     },
     {
       "text": "And so——In an environment surrounded by her predecessors and their \noverwhelming strength, Fusaichi Pandora's 『Training Camp』 begins!"
@@ -165,12 +165,12 @@
       "text": "——Okay, time to speed up… NOW!!"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Ugh……! Haa, haa, haa……!!",
       "choice_data_list": [
         "You took the bait, Pandora!",
         "You took the bait, Pandora!"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Ugh……! Haa, haa, haa……!!"
     },
     {
       "text": "Focus on your own pace! It's important to be aware of your \nimmediate surroundings, but it's equally important keep a \nbroad perspective! Be cognizant of the entire race picture."
@@ -237,10 +237,10 @@
       "text": "Not yet……Not yet! \nJust one more……!!"
     },
     {
-      "text": "(In the afternoon, we'd continue to challenge \nKraft's rivals! She would gain experience, hone \nher race instincts……and 『Become』 a contender!)",
       "choice_data_list": [
         "Run! ……Become strong, Pandora!!"
-      ]
+      ],
+      "text": "(In the afternoon, we'd continue to challenge \nKraft's rivals! She would gain experience, hone \nher race instincts……and 『Become』 a contender!)"
     },
     {
       "name": "Fusaichi Pandora",
@@ -299,16 +299,16 @@
       "text": "Very well. \nToday is the day to show your progress!"
     },
     {
-      "text": "……Alright, everyone's in position. \nThen, ready——",
       "choice_data_list": [
         "Start!!"
-      ]
+      ],
+      "text": "……Alright, everyone's in position. \nThen, ready——"
     },
     {
-      "text": "……Alright, everyone's in position. \nThen, ready——",
       "choice_data_list": [
         "Start!!"
-      ]
+      ],
+      "text": "……Alright, everyone's in position. \nThen, ready——"
     },
     {
       "name": "Fusaichi Pandora",

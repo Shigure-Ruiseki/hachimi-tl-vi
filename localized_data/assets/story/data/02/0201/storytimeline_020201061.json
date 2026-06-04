@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Rhein Kraft's 『Fillies' Review』 was approaching. In preparation \nfor the race, I was analyzing her opponents, however――",
       "choice_data_list": [
         "(Quite a few formidable opponents……)",
         "(Quite a few formidable opponents……)"
-      ]
+      ],
+      "text": "Rhein Kraft's 『Fillies' Review』 was approaching. In preparation \nfor the race, I was analyzing her opponents, however――"
     },
     {
       "text": "(Particularly 『Daring Heart』 and 『Air Messiah』……these two. \nShe would have to keep both in mind for the Fillies' Review)"
@@ -15,21 +15,21 @@
       "text": "(Daring Heart had finished 5th in the Hanshin JF, however, \nlately she'd been growing stronger consistently. There was a \nhigh possibility she'd show her true potential this time.)"
     },
     {
-      "text": "(Air Messiah was currently at two wins and one \nsecond place finish out of three races……It was \nalmost certain she'd have a solid run as well)",
       "choice_data_list": [
         "(But……――)"
-      ]
+      ],
+      "text": "(Air Messiah was currently at two wins and one \nsecond place finish out of three races……It was \nalmost certain she'd have a solid run as well)"
     },
     {
       "name": "Rhein Kraft",
       "text": "Let's see, 『Kanchiku Sho』 from a different angle……Found it! \nCesario's run……I need to observe it more closely……!"
     },
     {
-      "text": "(As I thought……Kraft is focusing only on Cesario. She wasn't \nconcentrating on the upcoming 『Fillies' Review』 at all……)",
       "choice_data_list": [
         "……Hey, Kraft.",
         "……Hey, Kraft."
-      ]
+      ],
+      "text": "(As I thought……Kraft is focusing only on Cesario. She wasn't \nconcentrating on the upcoming 『Fillies' Review』 at all……)"
     },
     {
       "text": "You've been researching Cesario pretty heavily, but she's not going \nto be running in the 『Fillies' Review』 ……You know that, right?"
@@ -48,30 +48,30 @@
       "text": "……Then, can you tell me who you \nshould be marking in the next race?"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Uh……well, that's…… \n…………",
       "choice_data_list": [
         "……Kraft. Take a break tomorrow",
         "……Kraft. Take a break tomorrow"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Uh……well, that's…… \n…………"
     },
     {
       "name": "Rhein Kraft",
       "text": "Eh!? A-a break!? At this time……!?"
     },
     {
-      "text": "Yeah. For the current you, there's something you \nneed to do first. ――You need to see with your own \neyes what your next opponents are capable of.",
       "choice_data_list": [
         "Got it, Kraft?",
         "Got it, Kraft?"
-      ]
+      ],
+      "text": "Yeah. For the current you, there's something you \nneed to do first. ――You need to see with your own \neyes what your next opponents are capable of."
     },
     {
-      "text": "Yeah. For the current you, there's something you \nneed to do first. ――You need to see with your own \neyes what your next opponents are capable of.",
       "choice_data_list": [
         "Got it, Kraft?",
         "Got it, Kraft?"
-      ]
+      ],
+      "text": "Yeah. For the current you, there's something you \nneed to do first. ――You need to see with your own \neyes what your next opponents are capable of."
     },
     {
       "name": "Rhein Kraft",
@@ -253,11 +253,11 @@
       "text": "The next day――Rhein Kraft showed up for training \nwith a completely different look on her face!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "――Thank you for giving me the opportunity, Trainer-san! \nI got a proper look at both of them.",
       "choice_data_list": [
         "Good. ……how were they?"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "――Thank you for giving me the opportunity, Trainer-san! \nI got a proper look at both of them."
     },
     {
       "name": "Rhein Kraft",
@@ -280,12 +280,12 @@
       "text": "……This was no time for me to be focusing on other things. \nThere are so many things that I need to do……!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Trainer-san!! So that I can win against those two―― \nplease train me so that I can win the 『Fillies' Review』!",
       "choice_data_list": [
         "Yeah……! Alright, let's do it!",
         "Yeah……! Alright, let's do it!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Trainer-san!! So that I can win against those two―― \nplease train me so that I can win the 『Fillies' Review』!"
     },
     {
       "name": "Rhein Kraft",

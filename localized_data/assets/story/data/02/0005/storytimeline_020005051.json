@@ -28,11 +28,11 @@
       "text": "As I thought, you're worried about Silence Suzuka, aren't you?"
     },
     {
-      "name": "Special Week",
-      "text": "Yes, when Suzuka-san is focusing on races and doing her best, \nI think she's awesome… But lately…",
       "choice_data_list": [
         "Looks like she's worried about something…"
-      ]
+      ],
+      "name": "Special Week",
+      "text": "Yes, when Suzuka-san is focusing on races and doing her best, \nI think she's awesome… But lately…"
     },
     {
       "name": "Special Week",
@@ -129,11 +129,11 @@
       "text": "In the course of piling up your efforts, falling \nin to a stoic state is a common occurence."
     },
     {
-      "text": "But that's just evidence of how earnest she is. If her feelings \nare that strong, then there has to be plenty of other ways-",
       "choice_data_list": [
         "Wouldn't it be fine to just run as you desire?",
         "Wouldn't it be fine to just run as you desire?"
-      ]
+      ],
+      "text": "But that's just evidence of how earnest she is. If her feelings \nare that strong, then there has to be plenty of other ways-"
     },
     {
       "name": "Silence Suzuka",
@@ -222,12 +222,12 @@
       "text": "Just racing to win won't lead you to your dream. Racing for the \nsake of having fun running will definitely lead you there."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Having fun while running, will lead to my dream…",
       "choice_data_list": [
         "Run to your hearts content, Suzuka!",
         "Run to your hearts content, Suzuka!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Having fun while running, will lead to my dream…"
     },
     {
       "name": "Silence Suzuka",

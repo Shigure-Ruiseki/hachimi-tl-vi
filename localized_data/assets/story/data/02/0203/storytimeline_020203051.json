@@ -5,23 +5,23 @@
       "text": "Rhein Kraft was now acting as Fusaichi Pandora's instructor. \nThe next day——"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "I already need your advice Trainer-san～……!!",
       "choice_data_list": [
         "So soon!? ……What's wrong?",
         "So soon!? ……What's wrong?"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "I already need your advice Trainer-san～……!!"
     },
     {
       "name": "Rhein Kraft",
       "text": "When I really think about it, on Team <Ascella> \nI've always been more of a kouhai……When it comes to \nteaching others, I don't have very much experience～"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "How should I put it? I have no idea what I should start with～! \nI just feel like I don't understand anything……!",
       "choice_data_list": [
         "I-I see. ……Let's see……"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "How should I put it? I have no idea what I should start with～! \nI just feel like I don't understand anything……!"
     },
     {
       "text": "For now, I'll lend you some beginner \nlevel teaching materials. However——"
@@ -168,31 +168,31 @@
       "text": "Hmm～……No, just like that is fine! Just watch \nme Ku-chan-senpai. I've got plenty of power too!"
     },
     {
-      "name": "King Halo",
-      "text": "Fufu. ……Looks like things are going pretty smoothly \nbetween Kraft-san and Pandora-san, aren't they?",
       "choice_data_list": [
         "Yeah, they've built up a good rapport",
         "Yeah, they've built up a good rapport"
-      ]
-    },
-    {
-      "text": "They became a lot closer than I expected……and lately it \nseems like Kraft is almost always together with Pandora.",
-      "choice_data_list": [
-        "(And it wasn't just those two……)"
-      ]
-    },
-    {
-      "text": "They became a lot closer than I expected……and lately it \nseems like Kraft is almost always together with Pandora.",
-      "choice_data_list": [
-        "(And it wasn't just those two……)"
-      ]
-    },
-    {
+      ],
       "name": "King Halo",
-      "text": "……? What is it?",
+      "text": "Fufu. ……Looks like things are going pretty smoothly \nbetween Kraft-san and Pandora-san, aren't they?"
+    },
+    {
+      "choice_data_list": [
+        "(And it wasn't just those two……)"
+      ],
+      "text": "They became a lot closer than I expected……and lately it \nseems like Kraft is almost always together with Pandora."
+    },
+    {
+      "choice_data_list": [
+        "(And it wasn't just those two……)"
+      ],
+      "text": "They became a lot closer than I expected……and lately it \nseems like Kraft is almost always together with Pandora."
+    },
+    {
       "choice_data_list": [
         "Nothing——"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "……? What is it?"
     },
     {
       "name": "Kawakami Princess",
@@ -203,19 +203,19 @@
       "text": "DOSEEEEEEEEI!"
     },
     {
-      "text": "(Kawakami Princess……today too, she's vigorously training. \nProbably being fueled by her admiration for King)",
       "choice_data_list": [
         "……Shouldn't you talk to her?",
         "……Shouldn't you talk to her?"
-      ]
+      ],
+      "text": "(Kawakami Princess……today too, she's vigorously training. \nProbably being fueled by her admiration for King)"
     },
     {
-      "name": "King Halo",
-      "text": "Listen here. At the 『Oaks』 she's going to be Pandora-san's \nrival you know? There's no way I can just talk to her.",
       "choice_data_list": [
         "That's true, but still——",
         "That's true, but still——"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Listen here. At the 『Oaks』 she's going to be Pandora-san's \nrival you know? There's no way I can just talk to her."
     },
     {
       "name": "King Halo",
@@ -226,12 +226,12 @@
       "text": "Brilliance. Soul. \nI believe, I've shown her all she needs to see."
     },
     {
-      "name": "King Halo",
-      "text": "That's more than enough. \n……That's all she needs to run. That's Kawakami Princess.",
       "choice_data_list": [
         "……I see",
         "……I see"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "That's more than enough. \n……That's all she needs to run. That's Kawakami Princess."
     },
     {
       "text": "(King——doesn't go over to her. She just remains here. Even so, \nKing's legacy was surely engraved in to that girl's entire being)"
@@ -338,11 +338,11 @@
       "text": "Huuuuh～? C'mon, what are you saying Trainer!?"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Because she's that amazing, and she worked so hard, right? \nKu-chan-senpai's win is already in the bag!",
       "choice_data_list": [
         "……Kraft has worked hard. But"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Because she's that amazing, and she worked so hard, right? \nKu-chan-senpai's win is already in the bag!"
     },
     {
       "text": "Even then……it's not a guarantee that she'll win. \nThat's just how races are, Pandora."

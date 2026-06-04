@@ -10,11 +10,11 @@
       "text": "『Aliens』 and multi-dimensional organisms inhabiting an 『Astral Body』. \nSomeday, one such existence may decide to descend upon this planet."
     },
     {
-      "text": "――Tracen Academy at night. I had some business to attend to…… \nbut then I heard a sound from overhead.",
       "choice_data_list": [
         "Did that……come from the roof?",
         "Did that……come from the roof?"
-      ]
+      ],
+      "text": "――Tracen Academy at night. I had some business to attend to…… \nbut then I heard a sound from overhead."
     },
     {},
     {
@@ -30,11 +30,11 @@
       "text": "No matter who it was, even an Uma Musume couldn't jump to the \nroof of a locked school building. Just who was this girl……?"
     },
     {
-      "name": "???",
-      "text": "……………………",
       "choice_data_list": [
         "Um, excuse me……"
-      ]
+      ],
+      "name": "???",
+      "text": "……………………"
     },
     {
       "text": "My voice was shaky out of fear. \nWould my words……even get through to her?"
@@ -51,11 +51,11 @@
       "text": "Neo Universe……was that this girl's name? \nI felt like I could somewhat understand her words."
     },
     {
-      "text": "Was she an Uma Musume, or some mysterious lifeform \nshaped like an Uma Musume……? Either way, it seemed \nlike we were on the same wavelength. In that case……",
       "choice_data_list": [
         "What are you doing here?",
         "What are you doing here?"
-      ]
+      ],
+      "text": "Was she an Uma Musume, or some mysterious lifeform \nshaped like an Uma Musume……? Either way, it seemed \nlike we were on the same wavelength. In that case……"
     },
     {
       "name": "Neo Universe",
@@ -72,12 +72,12 @@
       "text": "The girl herself didn't seem to \nbe harmful to those around her."
     },
     {
-      "name": "Neo Universe",
-      "text": "Your alignment is……\"Educator\". \n『Trainer』……is what you're called?",
       "choice_data_list": [
         "Yeah, I'm a trainer",
         "Yeah, I'm a trainer"
-      ]
+      ],
+      "name": "Neo Universe",
+      "text": "Your alignment is……\"Educator\". \n『Trainer』……is what you're called?"
     },
     {
       "text": "I don't have an Uma Musume that I'm responsible for. \nBut when I told her I was a trainer……"
@@ -129,12 +129,12 @@
       "text": "Yeah, I'm looking forward to how the \nrace will turn out. Out of all of them……"
     },
     {
-      "name": "Experienced Trainer A",
-      "text": "W-who's that……?",
       "choice_data_list": [
         "You're……!?",
         "You're……!?"
-      ]
+      ],
+      "name": "Experienced Trainer A",
+      "text": "W-who's that……?"
     },
     {
       "text": "That girl, \"Neo Universe\" had suddenly \nappeared at the racetrack. And then――"

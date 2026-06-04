@@ -196,11 +196,11 @@
       "text": "…I see, that's right. \nI wanted to do everything I could to be by Maruzensky's side."
     },
     {
-      "name": "Sakura Chiyono O",
-      "text": "Even then, I forgot all of that, \nwondering what I should do from now on, thinking only about that-",
       "choice_data_list": [
         "What do you want to do now?"
-      ]
+      ],
+      "name": "Sakura Chiyono O",
+      "text": "Even then, I forgot all of that, \nwondering what I should do from now on, thinking only about that-"
     },
     {
       "name": "Sakura Chiyono O",

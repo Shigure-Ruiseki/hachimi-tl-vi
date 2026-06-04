@@ -44,11 +44,11 @@
       "text": "—Gaining the stamina needed for the \nKikuka Sho requires you to fine tune \nyour mind and body."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Additionally, many girls shall rise in power \nthis summer, making the battlefield hard \nto predict… To fit any situation, we shall \nbe taking our training one step further.",
       "choice_data_list": [
         "The support is truly appreciated, McQueen"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Additionally, many girls shall rise in power \nthis summer, making the battlefield hard \nto predict… To fit any situation, we shall \nbe taking our training one step further."
     },
     {
       "name": "Mejiro McQueen",
@@ -83,11 +83,11 @@
       "text": "…I believe that it may have possibly \nbeen your influence that caused this \nchange within her."
     },
     {
-      "name": "Stay Gold",
-      "text": "It'd be pretty interesting if that was the \ncase… Well, let's put that conversation \naside for now.",
       "choice_data_list": [
         "Let's get even stronger this summer"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "It'd be pretty interesting if that was the \ncase… Well, let's put that conversation \naside for now."
     },
     {
       "text": "Ever since autumn, we have been enjoying \nour journeys to the fullest. All so that we \ncan run for the Classic Triple Crown —"

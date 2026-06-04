@@ -8,12 +8,12 @@
       "text": "I couldn't reach her phone, so I decided \nto check up on her at her place."
     },
     {
-      "name": "Maruzensky",
-      "text": "I-I'll be right there…! Oh dear, is that another package? \nI'm sorry, give me a min—… uaaaaah!?",
       "choice_data_list": [
         "Are you okay!?",
         "Are you okay!?"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "I-I'll be right there…! Oh dear, is that another package? \nI'm sorry, give me a min—… uaaaaah!?"
     },
     {
       "text": "I heard a loud noise accompanied by Maruzensky's scream, \nand instinctively opened the door."
@@ -22,11 +22,11 @@
       "text": "… There, buried in cardboard, laid Maruzensky."
     },
     {
-      "name": "Maruzensky",
-      "text": "… Sorry for startling you earlier.",
       "choice_data_list": [
         "Why was there a mountain of cardboard…"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "… Sorry for startling you earlier."
     },
     {
       "name": "Maruzensky",
@@ -37,12 +37,12 @@
       "text": "You know…"
     },
     {
-      "name": "Maruzensky",
-      "text": "… Ugh! Fine, I haven't gotten around to cleaning up! \nIt was all packages you saw…!",
       "choice_data_list": [
         "You don't like cleaning?",
         "I take it tidying up isn't your forte?"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "… Ugh! Fine, I haven't gotten around to cleaning up! \nIt was all packages you saw…!"
     },
     {
       "name": "Maruzensky",
@@ -65,19 +65,19 @@
       "text": "This morning I dropped my cell somewhere on cardboard mountain, \nand I was looking for it when you came over…"
     },
     {
-      "name": "Maruzensky",
-      "text": "I can't believe you saw that mess on top of me being late. \nHaa, I should keep the place tidy…",
       "choice_data_list": [
         "I'll help you tidy it up."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "I can't believe you saw that mess on top of me being late. \nHaa, I should keep the place tidy…"
     },
     {
-      "name": "Maruzensky",
-      "text": "Wha!? My place? Are you sure?",
       "choice_data_list": [
         "It's more fun with two, right?",
         "It's more fun with two, right?"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "Wha!? My place? Are you sure?"
     },
     {
       "name": "Maruzensky",
@@ -111,12 +111,12 @@
       "text": "I'll treat you to whatever you want \nin return. Don't be shy♪"
     },
     {
-      "name": "Maruzensky",
-      "text": "In fact, why don't I make you something myself? This morning \naside, I can whip up a mean plate!",
       "choice_data_list": [
         "So you usually do cook?",
         "So cooking you do feel like?"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "In fact, why don't I make you something myself? This morning \naside, I can whip up a mean plate!"
     },
     {
       "name": "Maruzensky",
@@ -141,18 +141,18 @@
       "text": "Neither presentation nor taste would \nbe out of place in a restaurant!"
     },
     {
-      "name": "Maruzensky",
-      "text": "Whoo! That was great. What did you think, are you satisfied?",
       "choice_data_list": [
         "It was delicious!"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "Whoo! That was great. What did you think, are you satisfied?"
     },
     {
-      "name": "Maruzensky",
-      "text": "Whoo! That was great. What did you think, are you satisfied?",
       "choice_data_list": [
         "It was delicious!"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "Whoo! That was great. What did you think, are you satisfied?"
     },
     {
       "name": "Maruzensky",
@@ -183,18 +183,18 @@
       "text": "I don't mind it, but I can't bring myself to \njust do it like I can running or dancing."
     },
     {
-      "name": "Maruzensky",
-      "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?",
       "choice_data_list": [
         "Fine with me."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?"
     },
     {
-      "name": "Maruzensky",
-      "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?",
       "choice_data_list": [
         "All right."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?"
     },
     {
       "name": "Maruzensky",
@@ -245,11 +245,11 @@
       "text": "… I know! Why don't you just move in next door? You wouldn't have \nto go back and forth to drop by… Cool?"
     },
     {
-      "name": "Maruzensky",
-      "text": "I'm pretty sure the room next door is vacant \nright now, I'll go check it out!",
       "choice_data_list": [
         "W-whoa there!"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "I'm pretty sure the room next door is vacant \nright now, I'll go check it out!"
     },
     {
       "name": "Maruzensky",

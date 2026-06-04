@@ -8,10 +8,10 @@
       "text": "I was in the trainer suite researching those \nwho share their debut with Stay Gold… \nGathering data on those who you would \nconsider to be in the same \"generation\"."
     },
     {
-      "text": "After her debut, she will inevitably \nhave chances to run against those \nin the same generation. No harm \nin gathering data but——",
       "choice_data_list": [
         "(\"Memories\" huh… what's that about)"
-      ]
+      ],
+      "text": "After her debut, she will inevitably \nhave chances to run against those \nin the same generation. No harm \nin gathering data but——"
     },
     {
       "text": "Suddenly, I realised something about \nStay Gold's \"memories\"."
@@ -23,12 +23,12 @@
       "text": "I recall how shocked I felt at how genuine \nthe memories felt. I also remember vividly \nhearing——"
     },
     {
-      "name": "???",
-      "text": "\"—El Condor Pasa is making their way \nthrough!!! From the inside it's Air Groove—\"",
       "color_text_info_list": [
         "El Condor Pasa",
         "Air Groove"
-      ]
+      ],
+      "name": "???",
+      "text": "\"—El Condor Pasa is making their way \nthrough!!! From the inside it's Air Groove—\""
     },
     {
       "text": "…voices inside the \"memory\" were calling \nout the names of other trainees."
@@ -37,45 +37,45 @@
       "text": "So then does this mean there are \ntrainees other than Stay Gold \nthat exist in both worlds?"
     },
     {
-      "text": "If this was the case, I may be able to \nconduct some research on the strong \ncontenders to come——",
       "choice_data_list": [
         "(…I might give it a shot)",
         "(…I might give it a shot)"
-      ]
+      ],
+      "text": "If this was the case, I may be able to \nconduct some research on the strong \ncontenders to come——"
     },
     {
-      "text": "——I decided it was time to start looking \nfor Stay Gold, but as expected, she was \nnowhere to be found……",
       "choice_data_list": [
         "(Maybe she's outside of the academy…?)"
-      ]
+      ],
+      "text": "——I decided it was time to start looking \nfor Stay Gold, but as expected, she was \nnowhere to be found……"
     },
     {
       "text": "Afterwards, I tried searching for her in \nplaces she could be at. Sometimes I \ndwelled upon it, other times I followed \nmy intuition ——"
     },
     {
-      "text": "……and I found myself in front of a shrine. \nOne quick look and no one was there, but—",
       "choice_data_list": [
         "Stego! You there?!",
         "Stego! You there?!"
-      ]
+      ],
+      "text": "……and I found myself in front of a shrine. \nOne quick look and no one was there, but—"
     },
     {
       "name": "???",
       "text": "………not here～"
     },
     {
-      "text": "Even though I can hear her voice, she was \nnowhere to be seen. While trying to figure \nthis out, I remembered I bought something \nahead of time.",
       "choice_data_list": [
         "I have this interesting juice from overseas…"
-      ]
+      ],
+      "text": "Even though I can hear her voice, she was \nnowhere to be seen. While trying to figure \nthis out, I remembered I bought something \nahead of time."
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Hmm ——</i> that sounds pretty good.",
       "choice_data_list": [
         "Uwaa!? You were up in the tree!?",
         "Uwaa!? You were up in the tree!?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Hmm ——</i> that sounds pretty good."
     },
     {
       "name": "Stay Gold",
@@ -85,11 +85,11 @@
       "text": "While searching, I had the idea that I could \nshare this drink with Stay Gold if I found her. \nSeems like this was some good thinking…"
     },
     {
-      "name": "Stay Gold",
-      "text": "……You're here to talk about the guys \nwe'll face in the upcoming races, right?",
       "choice_data_list": [
         "Could we perhaps rely on your \"memories\""
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "……You're here to talk about the guys \nwe'll face in the upcoming races, right?"
     },
     {
       "name": "Stay Gold",
@@ -104,23 +104,23 @@
       "text": "It's like how I am currently upon an unknown \njourney, every other girl could also take on \none of many paths."
     },
     {
-      "name": "Stay Gold",
-      "text": "That's why numerous scenarios may change. \n…To say it simply, I don't think we can rely \nentirely on these memories.",
       "choice_data_list": [
         "…I see",
         "…I see"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "That's why numerous scenarios may change. \n…To say it simply, I don't think we can rely \nentirely on these memories."
     },
     {
       "name": "Stay Gold",
       "text": "……While I can't exactly read the future, \nit's not entirely impossible to follow \nthe ones that appear in my memories."
     },
     {
-      "name": "Stay Gold",
-      "text": "As thanks for the juice, should \nwe try it out tomorrow?",
       "choice_data_list": [
         "Eh?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "As thanks for the juice, should \nwe try it out tomorrow?"
     },
     {
       "text": "————The following day."
@@ -134,11 +134,11 @@
       "text": "<i>Funnyaka～～!!</i> <i>Hannyaka～～!!</i> \nWhere are you, my spring-themed item～!! \nWhere are you, my autumn-like thing～!!"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Uhm, Fukukitaru… You don't really have \nto try so hard, something like a lucky \nitem, it's not like ——",
       "color_text_info_list": [
         "Fukukitaru"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Uhm, Fukukitaru… You don't really have \nto try so hard, something like a lucky \nitem, it's not like ——"
     },
     {
       "name": "Matikanefukukitaru",
@@ -157,40 +157,40 @@
       "text": "<i>——Oh～</i> You guys are doing good \ntoday too huh."
     },
     {
-      "name": "Fukukitaru & Bright",
-      "text": "<i>Yaayaa!!</i> Stego!? \n<i>Ara,</i> Miss Stego～",
       "color_text_info_list": [
         "Stego"
-      ]
+      ],
+      "name": "Fukukitaru & Bright",
+      "text": "<i>Yaayaa!!</i> Stego!? \n<i>Ara,</i> Miss Stego～"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Stego and…… Stego's Trainer. Hello.",
       "choice_data_list": [
         "Hello, how are you"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Stego and…… Stego's Trainer. Hello."
     },
     {
       "text": "Stay Gold brought me to where \nthree trainees were gathered."
     },
     {
-      "text": "First is Silence Suzuka. With a high aptitude, \nI have been keeping track of her. She leaves \na graceful and well-mannered impression.",
       "color_text_info_list": [
         "Silence Suzuka"
-      ]
+      ],
+      "text": "First is Silence Suzuka. With a high aptitude, \nI have been keeping track of her. She leaves \na graceful and well-mannered impression."
     },
     {
-      "text": "Next is Meijiro Bright. A trainee from the \nesteemed Meijro Family who has a relaxed \naura.",
       "color_text_info_list": [
         "Meijiro Bright",
         "Meijro Family"
-      ]
+      ],
+      "text": "Next is Meijiro Bright. A trainee from the \nesteemed Meijro Family who has a relaxed \naura."
     },
     {
-      "text": "The last is Makikanefukukitaru. A lively \ntrainee who seems to like fortune telling, \nand talks with mysterious mannerisms.",
       "color_text_info_list": [
         "Makikanefukukitaru."
-      ]
+      ],
+      "text": "The last is Makikanefukukitaru. A lively \ntrainee who seems to like fortune telling, \nand talks with mysterious mannerisms."
     },
     {
       "text": "I recognised this trio from my recent \nresearch on those in the same \ngeneration as Stay Gold."
@@ -200,18 +200,18 @@
       "text": "Are you searching for something?"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Uhm…… this morning, Fukukitaru suddenly \napproached Bright and I—",
       "color_text_info_list": [
         "Bright"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Uhm…… this morning, Fukukitaru suddenly \napproached Bright and I—"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Stego, please hear me out!! According \nto my divinations, Suzuka and Bright are \nexperiencing a boom boom crazy fall \nwith their luck!",
       "color_text_info_list": [
         "Suzuka"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Stego, please hear me out!! According \nto my divinations, Suzuka and Bright are \nexperiencing a boom boom crazy fall \nwith their luck!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -254,12 +254,12 @@
       "text": "…So? What sort of lucky items have \nyou all been searching for?"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Ohhh, that's right! Yes! For Bright, we're \nafter a 'Spring-like' item! For Suzuka, it's \nsomething 'Autumn-like'!",
       "choice_data_list": [
         "Wah, these are quite broad definitions",
         "Wah, these are quite broad definitions"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Ohhh, that's right! Yes! For Bright, we're \nafter a 'Spring-like' item! For Suzuka, it's \nsomething 'Autumn-like'!"
     },
     {
       "name": "Stay Gold",
@@ -290,12 +290,12 @@
       "text": "Miss Stego, would one item perhaps be \nthis on the table～?"
     },
     {
-      "name": "Stay Gold",
-      "text": "Yeah. They're spring rolls. I got a couple \nthat were freshly fried.",
       "choice_data_list": [
         "So… so that's one of the items then…?",
         "So… so that's one of the items then…?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Yeah. They're spring rolls. I got a couple \nthat were freshly fried."
     },
     {
       "name": "Stay Gold",
@@ -310,11 +310,11 @@
       "text": "How's this Fukitaru? Do they seem \nlike lucky items?"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Absolutely perfect Stego! Suzuka and \nBright's luck will undoubtedly skyrocket \nwith a twirl and a jump with this!",
       "choice_data_list": [
         "(Yeah, this is fine……)"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Absolutely perfect Stego! Suzuka and \nBright's luck will undoubtedly skyrocket \nwith a twirl and a jump with this!"
     },
     {
       "name": "Mejiro Bright",
@@ -356,11 +356,11 @@
       "text": "Stego! As thanks for today, I just \nprophesied your lucky item!!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Absolutely! It's a \"compass-like\" item!!!",
       "choice_data_list": [
         "(The reading is more descriptive this time)"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Absolutely! It's a \"compass-like\" item!!!"
     },
     {
       "name": "Stay Gold",
@@ -375,11 +375,11 @@
       "text": "Let's look forward and have \nfun on this path together."
     },
     {
-      "text": "After saying goodbye to Silence Suzuka \nand the others, on the way to the Trainer's \nsuite—",
       "choice_data_list": [
         "Stego sure is popular huh",
         "Stego sure is popular huh"
-      ]
+      ],
+      "text": "After saying goodbye to Silence Suzuka \nand the others, on the way to the Trainer's \nsuite—"
     },
     {
       "text": "The trainees we met today, while all in \nthe same generation, are in different year \nlevels and possess different personalities."
@@ -412,11 +412,11 @@
       "text": "……Even if our events will be different to \nthe other world, we will definitely cross \npaths in the future."
     },
     {
-      "name": "Stay Gold",
-      "text": "When that time comes, we may encounter \na threat on our journey… It think it may \nappear before us as a storm.",
       "choice_data_list": [
         "…I'll keep that in mind."
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "When that time comes, we may encounter \na threat on our journey… It think it may \nappear before us as a storm."
     },
     {
       "name": "Stay Gold",
@@ -431,11 +431,11 @@
       "text": "…………Really now——"
     },
     {
-      "text": "Her gaze was distant, looking at a tiny \nfluttering light far away, then \nunintentionally ——",
       "choice_data_list": [
         "…Is there anything else that \"shines\"?",
         "…Is there anything else that \"shines\"?"
-      ]
+      ],
+      "text": "Her gaze was distant, looking at a tiny \nfluttering light far away, then \nunintentionally ——"
     },
     {
       "name": "Stay Gold",

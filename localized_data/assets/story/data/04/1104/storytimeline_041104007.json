@@ -2,10 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Summer training camp. To support us through \nthe tough training, food stalls were setup so \nwe could grab a bite to eat during breaks.",
       "choice_data_list": [
         "This chilled cucumber is delicious!"
-      ]
+      ],
+      "text": "Summer training camp. To support us through \nthe tough training, food stalls were setup so \nwe could grab a bite to eat during breaks."
     },
     {
       "name": "Katsuragi Ace",
@@ -24,10 +24,10 @@
       "text": "Got that right! They turned out pretty well, huh? I like to \nthink that I'm pretty good at growing vegetables! Gahahaha!"
     },
     {
-      "text": "I wonder just what his field looks like. As a beginner \nI was interested, and before I could stop myself――",
       "choice_data_list": [
         "Can we take a look at your field!?"
-      ]
+      ],
+      "text": "I wonder just what his field looks like. As a beginner \nI was interested, and before I could stop myself――"
     },
     {
       "name": "Local",
@@ -45,12 +45,12 @@
       "text": "Sure thing! ……But you know, I never expected a student from that \nworld famous Tracen Academy would be working a field as a hobby……"
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "It's way smaller than this one here though! \nBut, when it comes to flavor, I'm confident! Right, Trainer-san!?",
       "choice_data_list": [
         "Especially those tomatoes!",
         "Especially those tomatoes!"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "It's way smaller than this one here though! \nBut, when it comes to flavor, I'm confident! Right, Trainer-san!?"
     },
     {
       "name": "Local",
@@ -63,19 +63,19 @@
       "text": "However――"
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "……The storm's gotten stronger huh? \nHow'd the evacuation go?",
       "choice_data_list": [
         "Seems like it's going fine so far"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "……The storm's gotten stronger huh? \nHow'd the evacuation go?"
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "I see. That's good then. \n…………",
       "choice_data_list": [
         "……worried about that field?",
         "……worried about that field?"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "I see. That's good then. \n…………"
     },
     {
       "name": "Katsuragi Ace",
@@ -106,23 +106,23 @@
       "text": "But, standing here worrying about it won't fix anything―― \nAlright! Then what should we start cleaning up first!?"
     },
     {
-      "name": "Local",
-      "text": "……Ha?",
       "choice_data_list": [
         "Draining excess water first, right?",
         "Draining excess water first, right?"
-      ]
+      ],
+      "name": "Local",
+      "text": "……Ha?"
     },
     {
       "name": "Katsuragi Ace",
       "text": "……!"
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "Right! But, debris in the water might clog up \nthe drainage, so we'll have to clean that up first……",
       "choice_data_list": [
         "I'll go borrow some things we need!"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "Right! But, debris in the water might clog up \nthe drainage, so we'll have to clean that up first……"
     },
     {
       "name": "Local",
@@ -141,11 +141,11 @@
       "text": "Then there's no reason to hesitate! If you've got a goal in mind, \nthen there's nothing left but to move forward――"
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "A small setback like this, we'll blow it away! \nThen next year, you can treat us to something tasty again!",
       "choice_data_list": [
         "Let's do this together!"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "A small setback like this, we'll blow it away! \nThen next year, you can treat us to something tasty again!"
     },
     {
       "name": "Local",
@@ -156,12 +156,12 @@
       "text": "Alright, let's do this! I was looking to fix \nthings from the ground up anyways! At this point, \nwe might as well smash it all and power up!"
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "I'm glad~, looks like were able to make it work! That old man, \nhalfway through he had gotten back on his feet and was having fun.",
       "choice_data_list": [
         "I was having fun too",
         "I was having fun too"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "I'm glad~, looks like were able to make it work! That old man, \nhalfway through he had gotten back on his feet and was having fun."
     },
     {
       "name": "Katsuragi Ace",
@@ -188,11 +188,11 @@
       "text": "There was never a day where I wanted to \njust leave and go home more than that day."
     },
     {
-      "name": "Katsuragi Ace",
-      "text": "If everyone was there, then we'd all be saying how \nawful it was. But, together we'd end up getting \nall muddy, but we'd be laughing the entire time.",
       "choice_data_list": [
         "Ace……"
-      ]
+      ],
+      "name": "Katsuragi Ace",
+      "text": "If everyone was there, then we'd all be saying how \nawful it was. But, together we'd end up getting \nall muddy, but we'd be laughing the entire time."
     },
     {
       "name": "Katsuragi Ace",
@@ -207,11 +207,11 @@
       "text": "After all, Y'see―― \nI've got Trainer-san with me!"
     },
     {
-      "text": "Katsuragi Ace had that mischievious smile on \nher face again. The look she gave me this time, \nhad none of the shadows of doubt from before.",
       "choice_data_list": [
         "Of course! ……Just look at these biceps!",
         "Of course! ……Just look at these biceps!"
-      ]
+      ],
+      "text": "Katsuragi Ace had that mischievious smile on \nher face again. The look she gave me this time, \nhad none of the shadows of doubt from before."
     },
     {
       "name": "Katsuragi Ace",
@@ -222,10 +222,10 @@
       "text": "Pfft, you've got a really frustrated look on your face! \nKukukuu……Ahahahahahaa!!"
     },
     {
-      "text": "I couldn't help but laugh along with Katsuragi Ace. \nMaybe that's why I realized, I was suddenly really tired.",
       "choice_data_list": [
         "Fuwaaa~~"
-      ]
+      ],
+      "text": "I couldn't help but laugh along with Katsuragi Ace. \nMaybe that's why I realized, I was suddenly really tired."
     },
     {
       "name": "Katsuragi Ace",

@@ -13,22 +13,22 @@
       "text": "But I've got to train hard… to win my races! \nBut the heat… really is too much…"
     },
     {
-      "text": "The fire inside her seemed to be put out \nby the summer heat. To motivate her…",
       "choice_data_list": [
         "Let's hit the festival tonight and grab soem nice food."
-      ]
+      ],
+      "text": "The fire inside her seemed to be put out \nby the summer heat. To motivate her…"
     },
     {
       "name": "Special Week",
       "text": "Festival… Nice food!?"
     },
     {
-      "name": "Special Week",
-      "text": "Say, you reckon they've got buttered \npotatoes!? It's a festival classic!",
       "choice_data_list": [
         "I think they do.",
         "I think they do."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "Say, you reckon they've got buttered \npotatoes!? It's a festival classic!"
     },
     {
       "name": "Special Week",
@@ -54,11 +54,11 @@
       "text": "Anyways, next up, there's this \"Horse \nGirl Castella\" over there- Huh?"
     },
     {
-      "name": "Special Week",
-      "text": "That's Grass-chan and her group! Can I go have a little chat?",
       "choice_data_list": [
         "Sure, go ahead."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "That's Grass-chan and her group! Can I go have a little chat?"
     },
     {
       "name": "Special Week",
@@ -72,11 +72,11 @@
       "text": "Uwaah! I'm sorry I ran into you!! Whoa, gahh! \nThere are crowds left, right and center!"
     },
     {
-      "text": "Having been caught in the crowd, Special \nWeek was brought to a standstill.",
       "choice_data_list": [
         "This way, Spe.",
         "This way, Spe."
-      ]
+      ],
+      "text": "Having been caught in the crowd, Special \nWeek was brought to a standstill."
     },
     {
       "name": "Special Week",
@@ -86,12 +86,12 @@
       "text": "I spotted a passageway which wasn't as busy, \nand so I guided Special Week through."
     },
     {
-      "name": "Special Week",
-      "text": "Phew~ W-We made it through~ Thank you so much, Trainer-san.",
       "choice_data_list": [
         "Go on, and be careful.",
         "Go on, and be careful."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "Phew~ W-We made it through~ Thank you so much, Trainer-san."
     },
     {
       "name": "Special Week",
@@ -105,12 +105,12 @@
       "text": "I'll catch you later!…Trainer-san, \nsorry to have kept you waiting!"
     },
     {
-      "name": "Special Week",
-      "text": "—Wait, huh? Sniff, sniff… What a sweet smell! Don't tell me you \nhave them in this bag, do you…!?",
       "choice_data_list": [
         "It's what you wanted to eat.",
         "It's what you wanted to eat."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "—Wait, huh? Sniff, sniff… What a sweet smell! Don't tell me you \nhave them in this bag, do you…!?"
     },
     {
       "name": "Special Week",
@@ -140,22 +140,22 @@
       "text": "( Chuckles ) It's really refreshing seeing all those \"Horse Girls \nWhatever\" products. We never had those in my hometown…"
     },
     {
-      "name": "Special Week",
-      "text": "How are you liking yours, Trainer-san? How does \nyour \"Hokkaido milk shaved ice\" taste?",
       "choice_data_list": [
         "It's wonderful"
-      ]
+      ],
+      "name": "Special Week",
+      "text": "How are you liking yours, Trainer-san? How does \nyour \"Hokkaido milk shaved ice\" taste?"
     },
     {
       "name": "Special Week",
       "text": "I'm glad you liked it! Ah, make sure you eat it slowly, okay? If \nyou eat it too quickly, you'll get brain freeze…"
     },
     {
-      "name": "Special Week",
-      "text": "Also, I wanted you to take your time \nand savour the flavors of my home!",
       "choice_data_list": [
         "Thank you."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "Also, I wanted you to take your time \nand savour the flavors of my home!"
     },
     {
       "name": "Special Week",
@@ -174,12 +174,12 @@
       "text": "That's because in a festival, where people have good times, we \nget to eat with the people we love, I'd say!"
     },
     {
-      "name": "Special Week",
-      "text": "( Chuckles ) How is Mom doing, I wonder.",
       "choice_data_list": [
         "You want to meet her, right?",
         "You want to meet her, right?"
-      ]
+      ],
+      "name": "Special Week",
+      "text": "( Chuckles ) How is Mom doing, I wonder."
     },
     {
       "name": "Special Week",
@@ -202,11 +202,11 @@
       "text": "That's why… I found even the castella \nI just ate very delicious."
     },
     {
-      "name": "Special Week",
-      "text": "I'm really glad that I mustered the courage to come to the \nAcademy, and to have you scout me!",
       "choice_data_list": [
         "I'm happy to hear that."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "I'm really glad that I mustered the courage to come to the \nAcademy, and to have you scout me!"
     },
     {
       "name": "Special Week",
@@ -221,11 +221,11 @@
       "text": "B-But your shaved ice, there's still…! \nAnd I still want you to savour it…"
     },
     {
-      "name": "Special Week",
-      "text": "Ah, if we eat it together, then maybe…!…No, I can't! That's \nno better than saying I want to eat it…!",
       "choice_data_list": [
         "Let's do just that!"
-      ]
+      ],
+      "name": "Special Week",
+      "text": "Ah, if we eat it together, then maybe…!…No, I can't! That's \nno better than saying I want to eat it…!"
     },
     {
       "name": "Special Week",

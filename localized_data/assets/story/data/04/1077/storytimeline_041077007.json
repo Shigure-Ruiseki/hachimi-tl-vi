@@ -23,23 +23,23 @@
       "text": "――All of this was to live up to expectations. \nThat driving force seemed to have no limit."
     },
     {
-      "name": "Narita Top Road",
-      "text": "Trainer-san, \ntoday again, thank you for your instructions!",
       "choice_data_list": [
         "Yeah, then see you tomorrow"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Trainer-san, \ntoday again, thank you for your instructions!"
     },
     {
       "name": "Narita Top Road",
       "text": "Yeah tomorrow……ah, that's right. \nTrainer-san, do you have any plans for later?"
     },
     {
-      "name": "Narita Top Road",
-      "text": "I was thinking, as a change of pace, I'd go to the Summer \nFestival nearby! If you'd like, how about going with me?",
       "choice_data_list": [
         "Yeah, sure!",
         "Yeah, sure!"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "I was thinking, as a change of pace, I'd go to the Summer \nFestival nearby! If you'd like, how about going with me?"
     },
     {
       "name": "Narita Top Road",
@@ -97,39 +97,39 @@
       "text": "(What should I do, everyone's counting on me…… \nI can't just let it end like this……but……!)"
     },
     {
-      "text": "My eyes met with Narita Top Road's.",
       "choice_data_list": [
         "(I'm ready to help whenever……!)",
         "(I'm ready to help whenever……!)"
-      ]
+      ],
+      "text": "My eyes met with Narita Top Road's."
     },
     {
       "name": "Narita Top Road",
       "text": "……！"
     },
     {
-      "name": "Narita Top Road",
-      "text": "Trainer-san! \nCan you give me a few tips on how to shoot!?",
       "choice_data_list": [
         "Of course!"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Trainer-san! \nCan you give me a few tips on how to shoot!?"
     },
     {
       "text": "To start with, I had her put the gun down since \nshe was straining so hard. She needed to support \nthe gun with not only her arms, but her body."
     },
     {
-      "name": "Narita Top Road",
-      "text": "So I support it with my body. I'll give it a shot!",
       "choice_data_list": [
         "And brace yourself when you fire"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "So I support it with my body. I'll give it a shot!"
     },
     {
-      "name": "Narita Top Road",
-      "text": "Got it!",
       "choice_data_list": [
         "Aim with your whole body"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Got it!"
     },
     {
       "name": "Narita Top Road",
@@ -151,11 +151,11 @@
       "text": "Yeah, yeah! \nYou're welcome!!"
     },
     {
-      "name": "Narita Top Road",
-      "text": "……Ehehe. I'm glad……!",
       "choice_data_list": [
         "Good work!"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "……Ehehe. I'm glad……!"
     },
     {
       "name": "Classmate B",
@@ -169,23 +169,23 @@
       "text": "I acted as chaperone for the Uma Musume as they \nplayed with the fireworks. From the center of \nthat group, Narita Top Road came running over."
     },
     {
-      "name": "Narita Top Road",
-      "text": "Trainer-san, do you want to join in with the fireworks too? \nYou were the reason this happened after all!",
       "choice_data_list": [
         "I'm fine with just watching"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Trainer-san, do you want to join in with the fireworks too? \nYou were the reason this happened after all!"
     },
     {
       "name": "Narita Top Road",
       "text": "Just watching…… \n…………"
     },
     {
-      "name": "Narita Top Road",
-      "text": "……Fufuu, I see. \nEveryone looks like they're having fun, huh!?",
       "choice_data_list": [
         "I'm glad they're enjoying it",
         "I'm glad they're enjoying it"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "……Fufuu, I see. \nEveryone looks like they're having fun, huh!?"
     },
     {
       "name": "Narita Top Road",
@@ -196,12 +196,12 @@
       "text": "……Before, at the Amusement Park, \nyou said 『Don't hesitate to rely on me』 didn't you?"
     },
     {
-      "name": "Narita Top Road",
-      "text": "I was a little surprised. I had thought that if it \nwas something left to me, I should handle it myself.",
       "choice_data_list": [
         "And you end up working way too hard",
         "And you end up working way too hard"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "I was a little surprised. I had thought that if it \nwas something left to me, I should handle it myself."
     },
     {
       "name": "Narita Top Road",
@@ -220,12 +220,12 @@
       "text": "Trainer-san, \nI want to live up to everyone's expectations."
     },
     {
-      "name": "Narita Top Road",
-      "text": "Will you help me with that? \n……together, from now on!",
       "choice_data_list": [
         "……Yeah!",
         "……Yeah!"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Will you help me with that? \n……together, from now on!"
     },
     {
       "text": "Fireworks went off overhead. \nThe two of us gazed at the lively scene."

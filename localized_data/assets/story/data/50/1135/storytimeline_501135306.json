@@ -30,10 +30,10 @@
       "text": "<i>————Haaaaaaaaaaaa!!!!</i>"
     },
     {
-      "text": "Stay Gold is running…!! She's running \nin the Japan Derby!!!",
       "choice_data_list": [
         "Let's do it!!! Stay Gold!!!!"
-      ]
+      ],
+      "text": "Stay Gold is running…!! She's running \nin the Japan Derby!!!"
     },
     {
       "text": "In this world, to my existence as Stay Gold's \ntrainer, there is not a single thing that is \nmore important than this ————"
@@ -101,11 +101,11 @@
       "text": "Just like her… I want to be free just like her, \nand move forward… forward ————"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>————Yo.</i>",
       "choice_data_list": [
         "Amazing work out there…!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>————Yo.</i>"
     },
     {
       "text": "Stay Gold had an incredible finish at the \nJapan Derby. Seeing her brimming with \nsuch magnificent confidence, my vision \nsuddenly started to blur."
@@ -123,25 +123,25 @@
       "text": "————Thank you."
     },
     {
-      "name": "Stay Gold",
-      "text": "I'm glad that you were my trainer.",
       "choice_data_list": [
         "……!!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "I'm glad that you were my trainer."
     },
     {
-      "text": "Stay Gold is the embodiment of honesty. \nFrom her words to her conduct, she is a \ngirl that always lives for the present \nmoment. That's why —",
       "choice_data_list": [
         "$(scale 95)Your journey will be even more fun from now",
         "$(scale 95)Your journey will be even more fun from now"
-      ]
+      ],
+      "text": "Stay Gold is the embodiment of honesty. \nFrom her words to her conduct, she is a \ngirl that always lives for the present \nmoment. That's why —"
     },
     {
-      "text": "I will also refrain from decorating my \nwords. For the sake of everything we \nhave together.",
       "choice_data_list": [
         "Because I'm your travelling partner…!",
         "Because I'm your travelling partner…!"
-      ]
+      ],
+      "text": "I will also refrain from decorating my \nwords. For the sake of everything we \nhave together."
     },
     {
       "name": "Stay Gold",
@@ -159,11 +159,11 @@
       "text": "…So our next destination is the \nKikuka Sho huh."
     },
     {
-      "name": "Stay Gold",
-      "text": "To be here and return to a race I'm so \nfamiliar with is a bit of a strange feeling.",
       "choice_data_list": [
         "I can feel this'll be a different Kikuka Sho."
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "To be here and return to a race I'm so \nfamiliar with is a bit of a strange feeling."
     },
     {
       "text": "…Or instead, is there a storm beckoning in \nthe distance —"

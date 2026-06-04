@@ -5,22 +5,22 @@
       "text": "While walking through the city a few days \nafter the Selection Race ——"
     },
     {
-      "name": "Flyer Distributor",
-      "text": "Hey, you there! Wanna come watch the Freestyle Race? \nIt's heating up in the back alleys over there～!",
       "choice_data_list": [
         "Huh?"
-      ]
+      ],
+      "name": "Flyer Distributor",
+      "text": "Hey, you there! Wanna come watch the Freestyle Race? \nIt's heating up in the back alleys over there～!"
     },
     {
       "name": "Flyer Distributor",
       "text": "The Twinkle Series is great and all, but freestyle's also real fun! \n… Ah, little miss trainee over there! You wouldn't want to miss \nout either, I'm sure～!!"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "—— Freestyle…? Wait a minute, you're that trainer from before!",
       "choice_data_list": [
         "Hello, are you in the middle of running?"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "—— Freestyle…? Wait a minute, you're that trainer from before!"
     },
     {
       "name": "Mejiro Palmer",
@@ -49,11 +49,11 @@
       "text": "(<i>Woaaaaaaah!!!</i>)"
     },
     {
-      "name": "Freestyle Race Trainees",
-      "text": "- \"Ooooooooooohhhhhh!!\" \n- \"Uraaaaahhhhhh!!\" \n- \"That first place's got! My name! On iiiiiit!!!\"",
       "choice_data_list": [
         "S-So, this is what freestyle's like……!"
-      ]
+      ],
+      "name": "Freestyle Race Trainees",
+      "text": "- \"Ooooooooooohhhhhh!!\" \n- \"Uraaaaahhhhhh!!\" \n- \"That first place's got! My name! On iiiiiit!!!\""
     },
     {
       "text": "The trainees here have a rough, self-taught running style, \nbut it's so… <i>passionate</i>! I was awestruck by how everyone \nlaid bare their fighting spirit in this feisty competition!"
@@ -63,11 +63,11 @@
       "text": "… The atmosphere here is totally different from official races. \nSo this is what freestyle's like……!"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "Wow… this is kinda amazing. \nI feel so… fired up, just by watching…!",
       "choice_data_list": [
         "Why don't you jump in?"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "Wow… this is kinda amazing. \nI feel so… fired up, just by watching…!"
     },
     {
       "name": "Mejiro Palmer",
@@ -134,11 +134,11 @@
       "text": "(Whether I win or lose, being a Mejiro doesn't matter…!)"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "—— <i>GAH! HAAAAAAAHHHHHHHH!!!!</i>",
       "choice_data_list": [
         "She's running differently…!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "—— <i>GAH! HAAAAAAAHHHHHHHH!!!!</i>"
     },
     {
       "name": "Caster",
@@ -204,12 +204,12 @@
       "text": "Thank you so much———!! \nThis is the best feeling ever———!!"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "—— <i>Haaa</i>～ I still feel light and floaty…",
       "choice_data_list": [
         "That \"Palmer\" chant was amazing, hey?",
         "That \"Palmer\" chant was amazing, hey?"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "—— <i>Haaa</i>～ I still feel light and floaty…"
     },
     {
       "name": "Mejiro Palmer",
@@ -224,19 +224,19 @@
       "text": "Yeah… Yeah! I want to put the name \"Mejiro Palmer\" \ninto everyone's mind… engrave it!!"
     },
     {
-      "text": "Mejiro Palmer's eyes sparkled with determination. \nAs I looked on, witnessing her discovering her own \ngrand dream, I couldn't help myself…",
       "choice_data_list": [
         "May I help you achieve your dream?",
         "May I help you achieve your dream?"
-      ]
+      ],
+      "text": "Mejiro Palmer's eyes sparkled with determination. \nAs I looked on, witnessing her discovering her own \ngrand dream, I couldn't help myself…"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "Huh! Was that… a contract question, just now? Really?",
       "choice_data_list": [
         "Absolutely! If you're okay with it!",
         "Absolutely! If you're okay with it!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "Huh! Was that… a contract question, just now? Really?"
     },
     {
       "name": "Mejiro Palmer",

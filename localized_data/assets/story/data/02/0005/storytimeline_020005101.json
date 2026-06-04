@@ -86,16 +86,16 @@
       "text": "My name is Agnes Tachyon. I just really wanted to have a chat, \nso I decided to have you accompany me."
     },
     {
-      "text": "A thin smile floated on to the lips of this Uma \nMusume named Agnes Tachyon. That burlap sack by \nher feet- did she carry me here in that?",
       "choice_data_list": [
         "Too suspicious…!"
-      ]
+      ],
+      "text": "A thin smile floated on to the lips of this Uma \nMusume named Agnes Tachyon. That burlap sack by \nher feet- did she carry me here in that?"
     },
     {
-      "text": "A thin smile floated on to the lips of this Uma \nMusume named Agnes Tachyon. That burlap sack by \nher feet- did she carry me here in that?",
       "choice_data_list": [
         "Too suspicious…!"
-      ]
+      ],
+      "text": "A thin smile floated on to the lips of this Uma \nMusume named Agnes Tachyon. That burlap sack by \nher feet- did she carry me here in that?"
     },
     {
       "name": "Agnes Tachyon",
@@ -183,12 +183,12 @@
       "text": "No, pardon me… that is not the main issue at hand. But, if \nthat is the case, it seems my plans are slightly off base."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "If I am correct, the future you both are \nbound for is… a little frightening.",
       "choice_data_list": [
         "The future we're bound for…?",
         "The future we're bound for…?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "If I am correct, the future you both are \nbound for is… a little frightening."
     },
     {
       "name": "Agnes Tachyon",

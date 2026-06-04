@@ -8,12 +8,12 @@
       "text": "However now, as if she was in a world of her own, \nthere ran an Uma Musume solemnly on the turf."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Haa… haa… haa",
       "choice_data_list": [
         "(She looks like she's having so much fun…)",
         "(She looks like she's having so much fun…)"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Haa… haa… haa"
     },
     {
       "text": "Those were the first words that came to mind \nwhen I first saw her, Silence Suzuka"
@@ -42,12 +42,12 @@
       "text": "…huh?"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Um… do you need something from me…?",
       "choice_data_list": [
         "No, just thought you were having a lot of fun out there",
         "No, just thought you were having a lot of fun out there"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Um… do you need something from me…?"
     },
     {
       "name": "Silence Suzuka",
@@ -101,18 +101,18 @@
       "text": "The competitors and voices of the crowd were all irrelevant. In \nfront of that running form… anyways, it was overwhelming!"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Huuu…",
       "choice_data_list": [
         "(By all means, I want to scout her…!)",
         "(By all means, I want to scout her…!)"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Huuu…"
     },
     {
-      "text": "But, of course I wasn't the only one thinking that",
       "choice_data_list": [
         "Suzuka-"
-      ]
+      ],
+      "text": "But, of course I wasn't the only one thinking that"
     },
     {
       "name": "Veteran Trainer B",
@@ -143,12 +143,12 @@
       "text": "Take the lead in any race…?"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "…understood. I accept.",
       "choice_data_list": [
         "(Shoot, she beat me to it…!)",
         "(Shoot, she beat me to it…!)"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "…understood. I accept."
     },
     {
       "text": "How disappointing. Scouting aside, I wasn't even able to properly \nspeak to her before it was over…"
@@ -157,11 +157,11 @@
       "text": "And then, sometime later"
     },
     {
-      "text": "One day while stopping by the library, I \nspotted Silence Suzuka and Air Groove.",
       "choice_data_list": [
         "(Are they having a study session…?)",
         "(Are they having a study session…?)"
-      ]
+      ],
+      "text": "One day while stopping by the library, I \nspotted Silence Suzuka and Air Groove."
     },
     {
       "name": "Air Groove",

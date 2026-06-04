@@ -5,22 +5,22 @@
       "text": "Soon after our first training session \nSeiun Sky's debut race arrived."
     },
     {
-      "name": "Seiun Sky",
-      "text": "Uhyaa, the Twinkle Series is finally about to begin! \nEveryone's getting all excited, it might just make me train hard.",
       "choice_data_list": [
         "Jokes aside, we've got to prepare."
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Uhyaa, the Twinkle Series is finally about to begin! \nEveryone's getting all excited, it might just make me train hard."
     },
     {
       "name": "Seiun Sky",
       "text": "Wahaha. Trainer-san, have you finally gotten used to how I roll?"
     },
     {
-      "name": "Seiun Sky",
-      "text": "But you've got a point. Even when fishing, setting the right trap \nis crucial. But first… we should take a walk!",
       "choice_data_list": [
         "A walk?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "But you've got a point. Even when fishing, setting the right trap \nis crucial. But first… we should take a walk!"
     },
     {
       "name": "Seiun Sky",
@@ -50,11 +50,11 @@
       "text": "Really!? I-I had no idea…!!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "A racing bulletin, huh? Guess they'll put me down \nas an \"outrunner\" considering my past races, huh?",
       "choice_data_list": [
         "Then in that case…"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "A racing bulletin, huh? Guess they'll put me down \nas an \"outrunner\" considering my past races, huh?"
     },
     {
       "name": "Seiun Sky",
@@ -68,24 +68,24 @@
       "text": "You want me to run mock races everyday!? And with the racers \nfrom my debut race!? Not only that, you also want me to run as \na \"chaser\" instead of a \"outrunner!?\""
     },
     {
-      "name": "Seiun Sky",
-      "text": "Now hold on! I can't even make it to training \non time, let alone all of this!",
       "choice_data_list": [
         "If anyone can do it, it's you.",
         "If anyone can do it, it's you."
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Now hold on! I can't even make it to training \non time, let alone all of this!"
     },
     {
       "name": "Seiun Sky",
       "text": "What did you just say!? What did you just say!? What did you \njust say!? What did you just say!? What did you just say!?"
     },
     {
-      "name": "Seiun Sky",
-      "text": "This is cruel! This is the height of tyranny!! \nI won't be able to properly race like this! \nI'll lose motivation before the race even finishes!",
       "choice_data_list": [
         "That's fine with me.",
         "That's fine with me."
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "This is cruel! This is the height of tyranny!! \nI won't be able to properly race like this! \nI'll lose motivation before the race even finishes!"
     },
     {
       "name": "Seiun Sky",

@@ -152,16 +152,16 @@
       "text": "(No, you're wrong… the way you are now, you'll \ndefinitely win [Takarazuka Kinen]. If anything, it's \nmore like there's no race you can't win)"
     },
     {
-      "text": "(I want to tell her that her running is so overpowering, she'll \ndefinitely win. But it might be so overwhelming, that I…)",
       "choice_data_list": [
         "Suzuka…"
-      ]
+      ],
+      "text": "(I want to tell her that her running is so overpowering, she'll \ndefinitely win. But it might be so overwhelming, that I…)"
     },
     {
-      "text": "(I want to tell her that her running is so overpowering, she'll \ndefinitely win. But it might be so overwhelming, that I…)",
       "choice_data_list": [
         "Suzuka…"
-      ]
+      ],
+      "text": "(I want to tell her that her running is so overpowering, she'll \ndefinitely win. But it might be so overwhelming, that I…)"
     },
     {
       "name": "Silence Suzuka",
@@ -202,12 +202,12 @@
       "text": "Silence Suzuka looked like she wanted to say more. Her expression \nwas very soft, and there was no sign of any uneasiness at all."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Nevermind… well then, I'll be off to do some independent \ntraining. Trainer-san don't push yourself too hard either.",
       "choice_data_list": [
         "Yeah, I'll be careful.",
         "Yeah, I'll be careful."
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Nevermind… well then, I'll be off to do some independent \ntraining. Trainer-san don't push yourself too hard either."
     },
     {
       "name": "Silence Suzuka",

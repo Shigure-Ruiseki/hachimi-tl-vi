@@ -184,47 +184,47 @@
       "text": "I want to show them how much stronger I can be too. \n……I won't lose to you at the 『Oaks』 either, Cesario!"
     },
     {
-      "text": "Despite the growing number of participants, the party \ncontinued on. Of course, I also joined, wholeheartedly \ncelebrating Rhein Kraft's victory, however――",
       "choice_data_list": [
         "(Will……Cesario be okay?)",
         "(Will……Cesario be okay?)"
-      ]
+      ],
+      "text": "Despite the growing number of participants, the party \ncontinued on. Of course, I also joined, wholeheartedly \ncelebrating Rhein Kraft's victory, however――"
     },
     {
-      "text": "(I couldn't really talk to her……because I had \nsomething weighing on my mind. When I saw her \ncelebrating, I couldn't help but feel sorry……)",
       "choice_data_list": [
         "……Cesario――"
-      ]
+      ],
+      "text": "(I couldn't really talk to her……because I had \nsomething weighing on my mind. When I saw her \ncelebrating, I couldn't help but feel sorry……)"
     },
     {
-      "name": "Cesario",
-      "text": "Yes? Did you need something?",
       "choice_data_list": [
         "Wah!?!?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Yes? Did you need something?"
     },
     {
-      "name": "Cesario",
-      "text": "Fuu, ahahaa! Was it that surprising? \n……Or, is it 『Because it's me』 that you're so surprised?",
       "choice_data_list": [
         "Uh――"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Fuu, ahahaa! Was it that surprising? \n……Or, is it 『Because it's me』 that you're so surprised?"
     },
     {
       "name": "Cesario",
       "text": "……in regards to the 『Oka Sho』 results. \nIs there something bothering you, Trainer?"
     },
     {
-      "text": "(Cesario seems to have already noticed…… \nthere was no point in hiding it.)",
       "choice_data_list": [
         "……Sorry, Cesario. It's just――"
-      ]
+      ],
+      "text": "(Cesario seems to have already noticed…… \nthere was no point in hiding it.)"
     },
     {
-      "text": "(Cesario seems to have already noticed…… \nthere was no point in hiding it.)",
       "choice_data_list": [
         "……Sorry, Cesario. It's just――"
-      ]
+      ],
+      "text": "(Cesario seems to have already noticed…… \nthere was no point in hiding it.)"
     },
     {
       "text": "I told her everything. That before the 『Oka Sho』 I had given Rhein \nKraft advice. ……and the advice that I hadn't given to Cesario."
@@ -234,23 +234,23 @@
       "text": "……I see. In that case, if you had given me that advice……for example, \n『Match Kraft and accelerate early』, if you had said that――"
     },
     {
-      "name": "Cesario",
-      "text": "Would it have been enough to guarantee \nthat I would win the 『Oka Sho』?",
       "choice_data_list": [
         "No……I can't say it would"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Would it have been enough to guarantee \nthat I would win the 『Oka Sho』?"
     },
     {
       "name": "Cesario",
       "text": "Right. That's just how races are. \nNobody knows what the results will be 『If only』"
     },
     {
-      "name": "Cesario",
-      "text": "……truly, I don't think it's possible to know. If I \nhad accelerated earlier, considering how she held on, \nI'm not sure I could have passed her……honestly.",
       "choice_data_list": [
         "……But. Really, I should have――",
         "……But. Really, I should have――"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "……truly, I don't think it's possible to know. If I \nhad accelerated earlier, considering how she held on, \nI'm not sure I could have passed her……honestly."
     },
     {
       "name": "Cesario",
@@ -265,32 +265,32 @@
       "text": "『To run in a way that befits me』. ……I believe \nthat was the best course of action for the Oka \nSho. As a trainer, I believe you acted correctly."
     },
     {
-      "name": "Cesario",
-      "text": "Any more than this―― \nand I'll have to ask you to stop disparaging my trainer.",
       "choice_data_list": [
         "Cesario……"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Any more than this―― \nand I'll have to ask you to stop disparaging my trainer."
     },
     {
       "text": "I was about to apologize again, but I stopped \nmyself. Cesario had a satisfied smile on her face \nas she looked up to the stars――and then said――"
     },
     {
-      "name": "Cesario",
-      "text": "Trainer. I think……together with Kraft, I can't help \nbut wonder what kind of wonderful future awaits us.",
       "choice_data_list": [
         "Future?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Trainer. I think……together with Kraft, I can't help \nbut wonder what kind of wonderful future awaits us."
     },
     {
       "name": "Cesario",
       "text": "Yes. Just by watching her, I think it will link \nto the future……I will be the one to guide the \ngirls that start running for that same reason."
     },
     {
-      "name": "Cesario",
-      "text": "With my dream, and those girls' dreams. By combining those two, \nI wonder……if it will lead to a never seen before scene.",
       "choice_data_list": [
         "Never seen before, huh……"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "With my dream, and those girls' dreams. By combining those two, \nI wonder……if it will lead to a never seen before scene."
     },
     {
       "name": "Cesario",
@@ -312,10 +312,10 @@
       "text": "……Yeah. We should stop worrying over the 『Oka Sho』. Next time \n……I'll continue to work to properly support both of you!"
     },
     {
-      "text": "I returned back to my room to look over my documents again. \nNext up is the second battle of the Triple Tiara that Rhein \nKraft and Cesario will be running in, the 『Oaks』",
       "choice_data_list": [
         "(……However)"
-      ]
+      ],
+      "text": "I returned back to my room to look over my documents again. \nNext up is the second battle of the Triple Tiara that Rhein \nKraft and Cesario will be running in, the 『Oaks』"
     },
     {
       "text": "……As I thought. Looking at past records……with any distance \nabove 2000m, Kraft is rarely able to defeat Cesario……"

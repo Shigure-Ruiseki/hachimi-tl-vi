@@ -9,11 +9,11 @@
       "text": "The Uma Musume that can't run, Sakura Laurel, just declared \nthat she would win against Narita Brian. However……"
     },
     {
-      "text": "If you can't run, then you can't win. \nThat part concerned me……",
       "choice_data_list": [
         "I want to know. Why can't you run?",
         "I want to know. Why can't you run?"
-      ]
+      ],
+      "text": "If you can't run, then you can't win. \nThat part concerned me……"
     },
     {
       "name": "Sakura Laurel",
@@ -35,12 +35,12 @@
       "text": "Laurel-san, please don't push yourself~! \nSuddenly running without any kind of warm-up is reckless~."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Indeed! I can't just let that pass! \nAfter all, I'm a class rep!",
       "choice_data_list": [
         "You are……",
         "You are……"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Indeed! I can't just let that pass! \nAfter all, I'm a class rep!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -51,11 +51,11 @@
       "text": "I'm Sakura Chiyono O. I've always been in Laurel-san's \ncare since I was young. Together with Laurel-san, we're――"
     },
     {
-      "name": "Both",
-      "text": "Uma Musume from the 『Victory Club』!",
       "choice_data_list": [
         "Victory……Club!?"
-      ]
+      ],
+      "name": "Both",
+      "text": "Uma Musume from the 『Victory Club』!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -70,11 +70,11 @@
       "text": "Fufuu, thank you for worrying about me, Chiyo-chan. \nYou're right, ever since I was little, my legs……"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Have been called 『Legs of Glass』.",
       "choice_data_list": [
         "『Legs of Glass』……?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Have been called 『Legs of Glass』."
     },
     {
       "name": "Sakura Bakushin O",
@@ -120,29 +120,29 @@
       "text": "Laurel-san was like everyone's big sister. \nShe can keep track of so many things at the same time."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "It's because……since the beginning, my legs \nhave been weak♪ Often, I'd have to keep calm, \notherwise I couldn't properly cover for you.",
       "choice_data_list": [
         "Then, by 『Legs of Glass』 you mean……",
         "Then, by 『Legs of Glass』 you mean……"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "It's because……since the beginning, my legs \nhave been weak♪ Often, I'd have to keep calm, \notherwise I couldn't properly cover for you."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Yes. Ever since I was young, my legs haven't \nbeen very sturdy so I couldn't run very much.",
       "choice_data_list": [
         "So that's how it was……",
         "So that's how it was……"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Yes. Ever since I was young, my legs haven't \nbeen very sturdy so I couldn't run very much."
     },
     {
       "text": "An Uma Musume but she couldn't run…… \nI wonder how stressful that was."
     },
     {
-      "text": "An Uma Musume with 『Legs of Glass』, Sakura Laurel. \nBut then, why did she……",
       "choice_data_list": [
         "Then why did you come to Tracen?"
-      ]
+      ],
+      "text": "An Uma Musume with 『Legs of Glass』, Sakura Laurel. \nBut then, why did she……"
     },
     {
       "name": "Sakura Laurel",
@@ -206,11 +206,11 @@
       "text": "That's right. My form is a little unusual, and while \nI can't run much, just a little is fine♪ And also……"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "I have a――\"dream\" I want to fulfill.",
       "choice_data_list": [
         "……A dream?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "I have a――\"dream\" I want to fulfill."
     },
     {
       "name": "Sakura Laurel",
@@ -241,12 +241,12 @@
       "text": "That's why, if you're up for it, why don't \nyou come watch, Trainer-san? ――My run, that is."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "To see if I can really perform in the Twinkle Series, \nand whether I'm an Uma Musume that can fulfill that dream……!",
       "choice_data_list": [
         "Yeah……of course!",
         "Yeah……of course!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "To see if I can really perform in the Twinkle Series, \nand whether I'm an Uma Musume that can fulfill that dream……!"
     },
     {
       "text": "My expectations were rising. \nAnd at the same time――so were my worries."

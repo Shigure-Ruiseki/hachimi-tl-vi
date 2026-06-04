@@ -12,11 +12,11 @@
       "text": "Oh, it's you, Trainer."
     },
     {
-      "name": "Reporter A",
-      "text": "Ah! Excuse me, aren't you the trainer who was chatting \nwith Rudolf in the cafeteria the other day?",
       "choice_data_list": [
         "How did you know…?"
-      ]
+      ],
+      "name": "Reporter A",
+      "text": "Ah! Excuse me, aren't you the trainer who was chatting \nwith Rudolf in the cafeteria the other day?"
     },
     {
       "name": "Reporter A",
@@ -31,11 +31,11 @@
       "text": "If you don't mind, I do have a favor to ask \nfrom a trainer as close to Ms. Rudolf…"
     },
     {
-      "name": "Reporter A",
-      "text": "Could you spend the day with her and take photos?!",
       "choice_data_list": [
         "Photos?"
-      ]
+      ],
+      "name": "Reporter A",
+      "text": "Could you spend the day with her and take photos?!"
     },
     {
       "name": "Symboli Rudolf",
@@ -50,11 +50,11 @@
       "text": "I was contemplating my options when you walked by."
     },
     {
-      "name": "Reporter A",
-      "text": "I believe Ms. Rudolf can be more at ease around you, Trainer. \nPlease, I'm counting on you!!",
       "choice_data_list": [
         "Okay…"
-      ]
+      ],
+      "name": "Reporter A",
+      "text": "I believe Ms. Rudolf can be more at ease around you, Trainer. \nPlease, I'm counting on you!!"
     },
     {
       "name": "Symboli Rudolf",
@@ -68,12 +68,12 @@
       "text": "I thus received a camera from the reporter and \nproceeded to take on the role of photographer…"
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "Now, she said she wanted me to not worry about \nthe camera and carry on with my day as usual.",
       "choice_data_list": [
         "What are you planning to do today?",
         "What are your plans for today?"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "Now, she said she wanted me to not worry about \nthe camera and carry on with my day as usual."
     },
     {
       "name": "Symboli Rudolf",
@@ -151,12 +151,12 @@
       "text": "Oh… she seems really down. \nAlright, <i>big sis</i> is here to help～!"
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "Good to hear. I'm counting on you, Maruzensky.",
       "choice_data_list": [
         "You're not going?",
         "You're not going?"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "Good to hear. I'm counting on you, Maruzensky."
     },
     {
       "name": "Symboli Rudolf",
@@ -171,12 +171,12 @@
       "text": "Well then, I'm off."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "I hope this helps lift her spirits, even if only a little.",
       "choice_data_list": [
         "You really pay close attention to \nthe other students, don't you?",
         "You really pay close attention to \nthe other students, don't you?"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "I hope this helps lift her spirits, even if only a little."
     },
     {
       "name": "Symboli Rudolf",

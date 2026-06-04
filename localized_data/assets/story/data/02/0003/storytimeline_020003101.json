@@ -40,11 +40,11 @@
       "text": "What was next, incline training?"
     },
     {
-      "text": "She's training like any other day, though I told her it's okay to rest \nright after a race.",
       "choice_data_list": [
         "You're not too fatigued?",
         "You're not too fatigued?"
-      ]
+      ],
+      "text": "She's training like any other day, though I told her it's okay to rest \nright after a race."
     },
     {
       "name": "Winning Ticket",
@@ -71,11 +71,11 @@
       "text": "'Cause it means she could lose the Derby next."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Trainer, make sure to keep an eye on her please.",
       "choice_data_list": [
         "I'm on it."
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Trainer, make sure to keep an eye on her please."
     },
     {
       "text": "I say that, but I have no idea what to do for Winning Ticket right now."
@@ -102,11 +102,11 @@
       "text": "…"
     },
     {
-      "text": "But before, she would always get choked up and start yelling about \nhow emotional it is. This time she's just sitting here quiet as a mouse.",
       "choice_data_list": [
         "Next it'll be your turn to race in the Derby.",
         "Next it'll be your turn to race in the Derby."
-      ]
+      ],
+      "text": "But before, she would always get choked up and start yelling about \nhow emotional it is. This time she's just sitting here quiet as a mouse."
     },
     {
       "name": "Winning Ticket",
@@ -155,11 +155,11 @@
       "text": "I used to see the racers who lost and get all worked up like it was \nsome big theater performance."
     },
     {
-      "name": "Winning Ticket",
-      "text": "But I had no idea what they were really feeling. How it felt when their \ndreams were shattered…",
       "choice_data_list": [
         "Tickezo… you okay?"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "But I had no idea what they were really feeling. How it felt when their \ndreams were shattered…"
     },
     {
       "name": "Winning Ticket",

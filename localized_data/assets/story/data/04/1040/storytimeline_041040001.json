@@ -9,11 +9,11 @@
       "text": "It’s okay… I did my training properly. I can \ndefinitely win. I’ll win. With my legs…"
     },
     {
-      "text": "I saw that Gold City was scheduled to run. She \nwas encouraging herself and seemed nervous…",
       "choice_data_list": [
         "Are you okay?",
         "Are you okay?"
-      ]
+      ],
+      "text": "I saw that Gold City was scheduled to run. She \nwas encouraging herself and seemed nervous…"
     },
     {
       "name": "Gold City",

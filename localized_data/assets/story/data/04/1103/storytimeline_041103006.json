@@ -9,23 +9,23 @@
       "text": "——Now come on! Let's fish and fish and fish some more! \nWe'll make \"Fishing Royce-chan\" my new angle!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "…Is fishing always this slow!? \nThis is even less time efficient than I thought it would be…!",
       "choice_data_list": [
         "The slowness is what makes it fun.",
         "The slowness is what makes it fun."
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "…Is fishing always this slow!? \nThis is even less time efficient than I thought it would be…!"
     },
     {
       "name": "Royce and Royce",
       "text": "Nghh… This doesn't have enough impact to be my new angle… \nRight. Next time we'll focus on visual impact!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "What do you think about \"Fighting Beauty Royce-chan\"? \nSEIYAAHHHHH!",
       "choice_data_list": [
         "I think it's pretty cool!"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "What do you think about \"Fighting Beauty Royce-chan\"? \nSEIYAAHHHHH!"
     },
     {
       "name": "Assistant Instructor",
@@ -54,12 +54,12 @@
       "text": "The Instant Freeze-Dried Food Fest is happening now! Entry is free. Please, come on by!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "…Did she say \"instant freeze-dried food\"?",
       "choice_data_list": [
         "Are you interested?",
         "Are you interested?"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "…Did she say \"instant freeze-dried food\"?"
     },
     {
       "name": "Royce and Royce",
@@ -70,30 +70,30 @@
       "text": "I'm always buying things like instant vegetable soup in bulk. \nWould you like to try some?"
     },
     {
-      "text": "It made sense, given how much she cared about time efficiency. But the fact that it extended to her eating habits, too… \n…I learned a little something new about her——",
       "choice_data_list": [
         "Wait, that's it!"
-      ]
+      ],
+      "text": "It made sense, given how much she cared about time efficiency. But the fact that it extended to her eating habits, too… \n…I learned a little something new about her——"
     },
     {
-      "name": "Royce and Royce",
-      "text": "Did you think of something!?",
       "choice_data_list": [
         "Why not make THIS your new angle?",
         "Why not make THIS your new angle?"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "Did you think of something!?"
     },
     {
       "name": "Royce and Royce",
       "text": "They've got a lot more visitors than I expected. \nIt looks like I'll be able show off some of my charm as an instant food specialist."
     },
     {
-      "name": "Royce and Royce",
-      "text": "Hehe. You've got some good ideas, Trainer. \nI never would've come up with \"knowledgeable about instant food\" as a new angle.",
       "choice_data_list": [
         "The problem now is how to show it.",
         "The problem now is how to show it."
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "Hehe. You've got some good ideas, Trainer. \nI never would've come up with \"knowledgeable about instant food\" as a new angle."
     },
     {
       "name": "Royce and Royce",
@@ -176,10 +176,10 @@
       "text": "Presentation is key. \nThere's no novelty in framing myself as just a good study."
     },
     {
-      "text": "Her appreciation for efficiency led us to her knowledge about instant foods. So by that logic, there must be something her studying skills can lead us to.",
       "choice_data_list": [
         "Anything special you use to study?"
-      ]
+      ],
+      "text": "Her appreciation for efficiency led us to her knowledge about instant foods. So by that logic, there must be something her studying skills can lead us to."
     },
     {
       "name": "Royce and Royce",
@@ -229,29 +229,29 @@
       "text": "Take a look at this! \nI've got the housewife and student demographics following me now!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "It's happening, it's happening, it's really happening…! \nNext I just need to show off a new angle aimed at the fans, and then——",
       "choice_data_list": [
         "No more staleness! You go, Royce!"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "It's happening, it's happening, it's really happening…! \nNext I just need to show off a new angle aimed at the fans, and then——"
     },
     {
       "name": "Royce and Royce",
       "text": "Heehee. But you're the real MVP today. I never thought I needed to show those sides of me, but they turned out to be fresh new angles. What a great idea."
     },
     {
-      "text": "If it meant making a racer's dream come true, I'd do everything I could. But it was more than that——",
       "choice_data_list": [
         "I'm here for you, no matter what.",
         "I'm here for you, no matter what."
-      ]
+      ],
+      "text": "If it meant making a racer's dream come true, I'd do everything I could. But it was more than that——"
     },
     {
-      "name": "Royce and Royce",
-      "text": "……",
       "choice_data_list": [
         "We should go before it gets dark."
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "……"
     },
     {
       "name": "Royce and Royce",

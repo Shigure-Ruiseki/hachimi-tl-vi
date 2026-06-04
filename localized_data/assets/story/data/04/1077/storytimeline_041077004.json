@@ -9,11 +9,11 @@
       "text": "Let's see, how did training go……Oh? Looking a little nervous? \nWell, it's your first race as a pro trainer after all."
     },
     {
-      "name": "Teacher",
-      "text": "Hahaa, go out there and enjoy it to the fullest! \nI'm expecting great things from you!",
       "choice_data_list": [
         "Don't put more pressure on me……"
-      ]
+      ],
+      "name": "Teacher",
+      "text": "Hahaa, go out there and enjoy it to the fullest! \nI'm expecting great things from you!"
     },
     {
       "text": "Hearing encouragement from so far away just seemed to put \nmore pressure on me. I took a deep breath to calm myself down."
@@ -26,18 +26,18 @@
       "text": "Fufuu. I'm getting really motivated. If they're cheering \nthat much for me, then I'll have to show them a good run!"
     },
     {
-      "text": "Narita Top Road waved to her friends that came \nto cheer her on with a big smile on her face.",
       "choice_data_list": [
         "Narita Top Road, how can you……"
-      ]
+      ],
+      "text": "Narita Top Road waved to her friends that came \nto cheer her on with a big smile on her face."
     },
     {
-      "name": "Narita Top Road",
-      "text": "Yeah?",
       "choice_data_list": [
         "Deal with so many expecatations?",
         "Deal with so many expecatations?"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Yeah?"
     },
     {
       "name": "Narita Top Road",
@@ -53,11 +53,11 @@
       "text": "No matter how much pressure I was feeling, \npassing on that uneasiness to Narita Top Road was――"
     },
     {
-      "name": "Narita Top Road",
-      "text": "I'm completely fine! Besides, I'm happy!",
       "choice_data_list": [
         "――――"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "I'm completely fine! Besides, I'm happy!"
     },
     {
       "name": "Narita Top Road",
@@ -79,11 +79,11 @@
       "text": "Trainer-san."
     },
     {
-      "name": "Narita Top Road",
-      "text": "Will you try having expectations of me?",
       "choice_data_list": [
         "For Narita Top Road……?"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Will you try having expectations of me?"
     },
     {
       "name": "Narita Top Road",
@@ -141,12 +141,12 @@
       "text": "(……I can't hear Trainer-san's voice. \nI can't hear it, but……)"
     },
     {
-      "name": "Narita Top Road",
-      "text": "(But maybe, just maybe……past that corner, \nbeyond that……and even further……)",
       "choice_data_list": [
         "Top Road! The goal's so close!!",
         "Top Road! The goal's so close!!"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "(But maybe, just maybe……past that corner, \nbeyond that……and even further……)"
     },
     {
       "name": "Narita Top Road",
@@ -194,16 +194,16 @@
       "text": "T-Trainer-san?"
     },
     {
-      "text": "She seemed to be overflowing with motivation \nand a will to win. Even in this atmosphere…… \neven after losing, she still had this much spirit.",
       "choice_data_list": [
         "Fu……fufu……"
-      ]
+      ],
+      "text": "She seemed to be overflowing with motivation \nand a will to win. Even in this atmosphere…… \neven after losing, she still had this much spirit."
     },
     {
-      "text": "I was frustrated we lost. I was frustrated but……more than that――",
       "choice_data_list": [
         "Ahahahaa, that was fun!"
-      ]
+      ],
+      "text": "I was frustrated we lost. I was frustrated but……more than that――"
     },
     {
       "name": "Narita Top Road",
@@ -217,11 +217,11 @@
       "text": "Right――I want to see more of her, to have more expectations \nof her. This Uma Musume named Narita Top Road."
     },
     {
-      "text": "It wasn't like the pressure was gone. But now, \nthat was slowly turning in to the motivation to move forward.",
       "choice_data_list": [
         "I want to run together with you",
         "I want to run together with you"
-      ]
+      ],
+      "text": "It wasn't like the pressure was gone. But now, \nthat was slowly turning in to the motivation to move forward."
     },
     {
       "text": "Next time, we'll claim victory."

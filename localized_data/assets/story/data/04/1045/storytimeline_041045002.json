@@ -13,10 +13,10 @@
       "text": "Trainer-san, I'm looking forward to working with you today."
     },
     {
-      "text": "Ah, well, even though he's new, he's still a trainer. \n- just like she'd said, I'm still a trainer, so \nI must do everything I can for her.",
       "choice_data_list": [
         "Let's do our best together!"
-      ]
+      ],
+      "text": "Ah, well, even though he's new, he's still a trainer. \n- just like she'd said, I'm still a trainer, so \nI must do everything I can for her."
     },
     {
       "name": "Super Creek",
@@ -36,11 +36,11 @@
       "text": "Judging from what I could see, she looked to be struggling a \nbit. Maybe it was too hard for her?"
     },
     {
-      "name": "Super Creek",
-      "text": "I'm sorry for taking such a long time.",
       "choice_data_list": [
         "I'm sorry, too. I didn't know how much to add or subtract…"
-      ]
+      ],
+      "name": "Super Creek",
+      "text": "I'm sorry for taking such a long time."
     },
     {
       "text": "I was thinking that I might have been too ecstatic by becoming \nSuper Creek's trainer, and so on."
@@ -77,11 +77,11 @@
       "text": "I heard that Creek got herself a trainer, \nso I had to check him out."
     },
     {
-      "name": "Tamamo Cross",
-      "text": "Looks like Creek has already started to spoil ya.",
       "choice_data_list": [
         "Spoil?"
-      ]
+      ],
+      "name": "Tamamo Cross",
+      "text": "Looks like Creek has already started to spoil ya."
     },
     {
       "name": "Tamamo Cross",
@@ -137,11 +137,11 @@
       "text": "Super Creek's gaze fell upon a pile of cup noodles that I'd \nbought and left lying around."
     },
     {
-      "name": "Super Creek",
-      "text": "Do you often eat cup noodles?",
       "choice_data_list": [
         "Well, every once in a while…"
-      ]
+      ],
+      "name": "Super Creek",
+      "text": "Do you often eat cup noodles?"
     },
     {
       "name": "Super Creek",
@@ -159,11 +159,11 @@
       "text": "Her gaze falls to a jersey on the ground."
     },
     {
-      "name": "Super Creek",
-      "text": "Do you often leave clothes lying around?",
       "choice_data_list": [
         "I've been busy lately, so…"
-      ]
+      ],
+      "name": "Super Creek",
+      "text": "Do you often leave clothes lying around?"
     },
     {
       "name": "Super Creek",

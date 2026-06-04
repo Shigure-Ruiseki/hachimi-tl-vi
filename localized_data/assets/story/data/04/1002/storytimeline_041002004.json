@@ -6,11 +6,11 @@
       "text": "-That's why. I'm sorry. The running \nstyle you taught me, for me is…"
     },
     {
-      "name": "Suzuka's Trainer",
-      "text": "I see… I'm sorry, I must have caused you a lot of distress. And \nyou, Trainer-san, thank you for being concerned about her.",
       "choice_data_list": [
         "Please expand her potenial as much as possible"
-      ]
+      ],
+      "name": "Suzuka's Trainer",
+      "text": "I see… I'm sorry, I must have caused you a lot of distress. And \nyou, Trainer-san, thank you for being concerned about her."
     },
     {
       "name": "Suzuka's Trainer",
@@ -29,12 +29,12 @@
       "text": "Yes. Having flexible thinking, and above all, \nhaving deep consideration for Uma Musume… for \nyou. I think she's a wonderful person."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Um… I-is that okay with you? With someone like me…",
       "choice_data_list": [
         "If that's what you want, absolutely…!",
         "If that's what you want, absolutely…!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Um… I-is that okay with you? With someone like me…"
     },
     {
       "name": "Silence Suzuka",
@@ -61,10 +61,10 @@
       "text": "Um… I know it's a bit sudden, Trainer-san. But, my debut was \nplanned for next month. What should we do…?"
     },
     {
-      "text": "Silence Suzuka's wavering gaze was full of motiviation. Suddenly \nstopping her here probably wouldn't be a good idea.",
       "choice_data_list": [
         "Let's enter the debut race, as planned!"
-      ]
+      ],
+      "text": "Silence Suzuka's wavering gaze was full of motiviation. Suddenly \nstopping her here probably wouldn't be a good idea."
     },
     {
       "name": "Silence Suzuka",
@@ -93,11 +93,11 @@
       "text": "Her stubborness about leading… that point aside, Silence Suzuka \nalready posesses strength second to none."
     },
     {
-      "text": "Beyond that feeling, there might be a new potential \nthat no other Uma Musume has reached before…!",
       "choice_data_list": [
         "Continue with your own style",
         "Continue with your own style"
-      ]
+      ],
+      "text": "Beyond that feeling, there might be a new potential \nthat no other Uma Musume has reached before…!"
     },
     {
       "text": "\"Lead from start to finish without slowing\"- It will be \ndifficult, but by no means is it impossible."
@@ -118,12 +118,12 @@
       "text": "Run in the lead from the start until the end without slowing \ndown… how should I actualize this?"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "\"The energy required to accelerate is limited, \nso running to preserve stamina is necessary\" \nwas what I was told before though…",
       "choice_data_list": [
         "I guess we need to maximize that energy",
         "I guess we need to maximize that energy"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "\"The energy required to accelerate is limited, \nso running to preserve stamina is necessary\" \nwas what I was told before though…"
     },
     {
       "text": "For the sake of training her instantaneous power and stamina in a \nbalanced manner, I suggested Hill Sprints"
@@ -133,11 +133,11 @@
       "text": "Hill Sprints is it? Understood. But… doesn't \nthe school course seem a little lacking?"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "How about… climbing a mountain? Since \nwe have the opportunity…!",
       "choice_data_list": [
         "(Her eyes are serious…!?)"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "How about… climbing a mountain? Since \nwe have the opportunity…!"
     },
     {
       "text": "And thus I spent the days training \nwith a fired up Silence Suzuka-"
@@ -225,12 +225,12 @@
       "text": "Suzuka, someone like you…! You've \nbecome quite a fearsome opponent!"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Haa…",
       "choice_data_list": [
         "Satisfied?",
         "Satisfied?"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Haa…"
     },
     {
       "name": "Silence Suzuka",

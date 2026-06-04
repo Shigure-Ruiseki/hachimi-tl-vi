@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "One day after work, I returned to my room when――",
       "choice_data_list": [
         "(My Trainer Badge isn't here…!?)"
-      ]
+      ],
+      "text": "One day after work, I returned to my room when――"
     },
     {
       "text": "As per the rules, it should've always been around my neck, \nbut… \nDid I drop it somewhere? I've gotta hurry up and look for it!"
     },
     {
-      "text": "I walked around the Academy searching for my Trainer Badge. \nBut――",
       "choice_data_list": [
         "(I don't see it anywhere…)"
-      ]
+      ],
+      "text": "I walked around the Academy searching for my Trainer Badge. \nBut――"
     },
     {
       "text": "I should look again to see if it fell in a corner or something. \nSo, I focused particularly intently on one spot――"
@@ -24,12 +24,12 @@
       "text": "――Oh!"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "I'm sorry! Are you alright? You're not hurt, are you?",
       "choice_data_list": [
         "Sorry, the fault is all mine, I wasn't looking where I was \ngoing…",
         "Sorry, the fault is all mine, I wasn't looking where I was \ngoing…"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "I'm sorry! Are you alright? You're not hurt, are you?"
     },
     {
       "name": "Fuji Kiseki",
@@ -59,11 +59,11 @@
       "text": "Chuckling to himself, he was walking alone down the empty, \nquiet, pitch-black hallway…"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "At that very moment, I heard the <i>clop, clop</i> of footsteps \nnot my own approaching… \nI turned around, and the next thing I knew, Miss Tazuna was \nstanding there with a big smile on her face――!",
       "choice_data_list": [
         "(Gulp…!)"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "At that very moment, I heard the <i>clop, clop</i> of footsteps \nnot my own approaching… \nI turned around, and the next thing I knew, Miss Tazuna was \nstanding there with a big smile on her face――!"
     },
     {
       "name": "Fuji Kiseki",
@@ -74,21 +74,21 @@
       "text": "Take a look in your pocket, Trainer."
     },
     {
-      "text": "When I was told this so suddenly, I searched my pockets in \nwonder, and――",
       "choice_data_list": [
         "My badge!?"
-      ]
+      ],
+      "text": "When I was told this so suddenly, I searched my pockets in \nwonder, and――"
     },
     {
       "name": "Fuji Kiseki",
       "text": "I picked it up there just a few moments ago. \nWhat a stroke of luck to come across its owner so soon!"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "I figured it might've been you, judging by your panic and the \nlack of a badge on your lapel… Glad I was spot on!",
       "choice_data_list": [
         "When did you… in my pocket…?"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "I figured it might've been you, judging by your panic and the \nlack of a badge on your lapel… Glad I was spot on!"
     },
     {
       "name": "Fuji Kiseki",
@@ -99,12 +99,12 @@
       "text": "But I think I startled you just a tad too much. I didn't want to \nsimply return it normally, I wanted to make it a fun surprise, \nbut… my apologies."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "Ah, I know! How about dinner to make up for it? \nThis time, I'll entertain you, Trainer!",
       "choice_data_list": [
         "I'd rather you just let me thank you, though…",
         "I'd rather you just let me thank you, though…"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "Ah, I know! How about dinner to make up for it? \nThis time, I'll entertain you, Trainer!"
     },
     {
       "name": "Fuji Kiseki",
@@ -134,23 +134,23 @@
       "text": "――Trainer, how do you like the taste?"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "I've taken your preferences into account and selected a \ndessert that I think will suit your palate.",
       "choice_data_list": [
         "It's absolutely delicious…!"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "I've taken your preferences into account and selected a \ndessert that I think will suit your palate."
     },
     {
       "name": "Fuji Kiseki",
       "text": "Truly!? Right on, yes!!"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "…Ah, sorry, I got carried away just then. \nWhen I see you happy, Trainer, it makes me happy as well!",
       "choice_data_list": [
         "You're very kind, aren't you.",
         "You're very kind, aren't you."
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "…Ah, sorry, I got carried away just then. \nWhen I see you happy, Trainer, it makes me happy as well!"
     },
     {
       "name": "Fuji Kiseki",

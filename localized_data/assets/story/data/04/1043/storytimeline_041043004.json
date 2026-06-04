@@ -9,10 +9,10 @@
       "text": "Ever since the day I saw that expression on her \nface, as if it was a dream, Shinko Windy was enthusiastic \nand devoted herself to training."
     },
     {
-      "text": "It seemed like her immediate goal was \nto win the next Selection Race.",
       "choice_data_list": [
         "……Alright!"
-      ]
+      ],
+      "text": "It seemed like her immediate goal was \nto win the next Selection Race."
     },
     {
       "text": "Since I was the one that convinced her, \nI would do what I could to support her. And that's why―"
@@ -57,20 +57,20 @@
       "text": "………… \n……"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Nuoo-!!",
       "choice_data_list": [
         "Windy!"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Nuoo-!!"
     },
     {
       "text": "At the end of the last mock race, Shinko Windy was so \ndistracted by her surroundings that she lost in the end."
     },
     {
-      "text": "That loss probably contributed to her anxiety and loss of self \nconfidence, which led to a further decline in her concentration.",
       "choice_data_list": [
         "I'm counting on you!"
-      ]
+      ],
+      "text": "That loss probably contributed to her anxiety and loss of self \nconfidence, which led to a further decline in her concentration."
     },
     {
       "name": "Shinko Windy",
@@ -85,11 +85,11 @@
       "text": "Selection Race, 1600m on dirt, heavy conditions in the rain. \nAnd now, the race begins!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Haa, haa, haa, haa!",
       "choice_data_list": [
         "(Alright, she's staying calm……!)"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Haa, haa, haa, haa!"
     },
     {
       "text": "She didn't have trouble with her positioning. \nAnd while remaining calm, the race continued on. And then……"
@@ -126,12 +126,12 @@
       "text": "(…… they said it clearly! That I'm talented, cool, \nand Japan's treasure! They're looking forward to my future!)"
     },
     {
-      "name": "Shinko Windy",
-      "text": "(That I can win…… and just now, \nthat they're counting on me……!!)",
       "choice_data_list": [
         "You can win, Windy!",
         "You can win, Windy!"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "(That I can win…… and just now, \nthat they're counting on me……!!)"
     },
     {
       "name": "Shinko Windy",
@@ -186,10 +186,10 @@
       "text": "The intensity of spirit that could mow everything down. And above \nall, the determination to struggle forward to grasp victory."
     },
     {
-      "text": "I wanted her to gain confidence through victory, I wanted her to \nhave fun running. Up until now, that was all I wanted, but――",
       "choice_data_list": [
         "But there was one thing I had missed……"
-      ]
+      ],
+      "text": "I wanted her to gain confidence through victory, I wanted her to \nhave fun running. Up until now, that was all I wanted, but――"
     },
     {
       "text": "I had known she was talented. But that's not all. \nI was certain her growth going forward would be tremendous……!"
@@ -202,11 +202,11 @@
       "text": "Eh? Scout? \nEh? You too? For Windy-chan!?"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Hmmmm! You guys all have good eyes on you! ……However! \nWindy-chan has already decided on her next victim――",
       "choice_data_list": [
         "Windy!"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Hmmmm! You guys all have good eyes on you! ……However! \nWindy-chan has already decided on her next victim――"
     },
     {
       "text": "I wanted to sign a contract with Shinko Windy. \nI desperately waved my arms to get her attention."

@@ -63,11 +63,11 @@
       "text": "I think Tickezo's enthusiasm may have spread to all her fans."
     },
     {
-      "name": "Winning Ticket",
-      "text": "Ah, Traineeer!",
       "choice_data_list": [
         "Congratulations, Tickezo!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Ah, Traineeer!"
     },
     {
       "name": "Winning Ticket",
@@ -89,10 +89,10 @@
       "text": "Yes. She fulfilled her dream of conquering the Derby, but this isn't \nthe end."
     },
     {
-      "text": "Because her story will go on.",
       "choice_data_list": [
         "Make them chant your name again and again!"
-      ]
+      ],
+      "text": "Because her story will go on."
     },
     {
       "name": "Winning Ticket",

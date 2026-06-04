@@ -16,23 +16,23 @@
       "text": "So I'll be helping myself to…"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Wait, who are you!? \nWhy are you here!?",
       "choice_data_list": [
         "I could ask you the same!",
         "I could ask you the same!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Wait, who are you!? \nWhy are you here!?"
     },
     {
       "name": "Seiun Sky",
       "text": "This empty Trainer's Office is Sei-chan's \nprecious naptime spot. Wait…"
     },
     {
-      "name": "Seiun Sky",
-      "text": "That badge… could it be… are you a rookie trainer? \nAnd if so, did they tell you you could use this office?",
       "choice_data_list": [
         "That's correct, but…"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "That badge… could it be… are you a rookie trainer? \nAnd if so, did they tell you you could use this office?"
     },
     {
       "name": "Seiun Sky",
@@ -47,11 +47,11 @@
       "text": "So, I'll be taking a nap."
     },
     {
-      "text": "Without waiting for my response, this trainee… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
       "choice_data_list": [
         "She must be really tired…",
         "She must be really tired…"
-      ]
+      ],
+      "text": "Without waiting for my response, this trainee… \nSeiun Sky, lied down on the sofa and drifted off to sleep."
     },
     {
       "text": "At any rate, I covered her with a blanket that I \nhad in my office so she wouldn't catch a cold."
@@ -61,11 +61,11 @@
       "text": "Fuwa… That was a great nap…"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Wait, who are you!?",
       "choice_data_list": [
         "I told you I'm a trainer!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Wait, who are you!?"
     },
     {
       "name": "Seiun Sky",
@@ -84,11 +84,11 @@
       "text": "I can't believe I'm saying this but, it'd be normal \nfor you to kick me out saying something like \n\"stop messing around,\" don't you think?"
     },
     {
-      "name": "Seiun Sky",
-      "text": "So then why did you bring me a blanket \nand watch over me as I slept?",
       "choice_data_list": [
         "I figured you were exhausted…"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "So then why did you bring me a blanket \nand watch over me as I slept?"
     },
     {
       "name": "Seiun Sky",
@@ -113,59 +113,59 @@
       "text": "And a few days after that happened…"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Ah, there you are! Oi, you're the rookie trainer \nfrom before! This is bad, really really bad!",
       "choice_data_list": [
         "What's got you so panicked?",
         "What's got you so panicked?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Ah, there you are! Oi, you're the rookie trainer \nfrom before! This is bad, really really bad!"
     },
     {
       "name": "Seiun Sky",
       "text": "Things are really bad, so I'll tell you \nthe details later, just answer me this!!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Are the two organs on either side of your chest \nthat you use to breathe called lungs!?",
       "choice_data_list": [
         "Yes…?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Are the two organs on either side of your chest \nthat you use to breathe called lungs!?"
     },
     {
       "name": "Seiun Sky",
       "text": "You're too quiet! Stop answering with a question \nand use your outside voice instead!!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Now say it one more time!",
       "choice_data_list": [
         "Yes!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Now say it one more time!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Now that's better! Just one more time now!",
       "choice_data_list": [
         "Yes!!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Now that's better! Just one more time now!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "So as I was saying Sensei, this person is my trainer!",
       "choice_data_list": [
         "Yes!!!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "So as I was saying Sensei, this person is my trainer!"
     },
     {
       "name": "Teacher A",
       "text": "I was wondering why you suddenly ran off… \nbut I see, so they're your trainer."
     },
     {
-      "name": "Teacher A",
-      "text": "So, Trainer-san. We are immensely appreciative of you \nfor choosing Sky-san… We leave her in your care!!",
       "choice_data_list": [
         "…Yes?"
-      ]
+      ],
+      "name": "Teacher A",
+      "text": "So, Trainer-san. We are immensely appreciative of you \nfor choosing Sky-san… We leave her in your care!!"
     },
     {
       "name": "Teacher A",
@@ -180,23 +180,23 @@
       "text": "And just like that!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "You and I are now trainer and trainee. Come on, clap!",
       "choice_data_list": [
         "You set me up!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "You and I are now trainer and trainee. Come on, clap!"
     },
     {
       "name": "Seiun Sky",
       "text": "Oi, how scandalous. As they say, simply a means \nto an end, ya know?"
     },
     {
-      "name": "Seiun Sky",
-      "text": "More importantly, I was kinda hoping you'd interpret what I did \nas me \"doing this only because I wanted to work with you no \nmatter what\" or something like that.",
       "choice_data_list": [
         "But why me of all people…?",
         "But why me of all people…?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "More importantly, I was kinda hoping you'd interpret what I did \nas me \"doing this only because I wanted to work with you no \nmatter what\" or something like that."
     },
     {
       "name": "Seiun Sky",
@@ -211,12 +211,12 @@
       "text": "I'm just messing with you… But the truth is the way you acted \nthe other day in the Trainer's Office really surprised me."
     },
     {
-      "name": "Seiun Sky",
-      "text": "Plus this isn't a half bad arrangement \nfor a rookie trainer like yourself!",
       "choice_data_list": [
         "You think so…?",
         "You think so…?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Plus this isn't a half bad arrangement \nfor a rookie trainer like yourself!"
     },
     {
       "name": "Seiun Sky",
@@ -231,11 +231,11 @@
       "text": "Everything should be done in moderation after all. \nThat's the philosophy Sei-chan lives her life by anyways."
     },
     {
-      "name": "Seiun Sky",
-      "text": "So… let's just relax and take this slow and comfortably… Oh!",
       "choice_data_list": [
         "O-Oh…?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "So… let's just relax and take this slow and comfortably… Oh!"
     },
     {
       "text": "I got swept along and ended up signing on as her trainer…!"

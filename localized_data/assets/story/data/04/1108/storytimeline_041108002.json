@@ -38,16 +38,16 @@
       "text": "As someone with this blood, I should be as well."
     },
     {
-      "text": "In every one of Duramente's interviews, \nthe same phrases kept coming up.",
       "choice_data_list": [
         "(\"Strongest\" and \"Blood\")"
-      ]
+      ],
+      "text": "In every one of Duramente's interviews, \nthe same phrases kept coming up."
     },
     {
-      "text": "That was just how important what resided within her \nbody was to her. No, not just what resides within her——",
       "choice_data_list": [
         "(Her family ties were her \"Pride\")"
-      ]
+      ],
+      "text": "That was just how important what resided within her \nbody was to her. No, not just what resides within her——"
     },
     {
       "name": "Caster",
@@ -61,11 +61,11 @@
       "text": "…………——I'll show them. \nProve it. From now on……I will——……"
     },
     {
-      "name": "Duramente",
-      "text": "——……!!",
       "choice_data_list": [
         "(What an amazing aura……!)"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "——……!!"
     },
     {
       "text": "It was on a different level compared to the parallel \nrunning from before. Today, she was probably——\"Serious\"."
@@ -107,11 +107,11 @@
       "text": "From the outside in an instant……! \nWhat explosive power, like this she should be able to——"
     },
     {
-      "name": "Caster",
-      "text": "But the leader refuses to yield! She runs! \nPulling away! Just like that, first place is——",
       "choice_data_list": [
         "(Eh……!?)"
-      ]
+      ],
+      "name": "Caster",
+      "text": "But the leader refuses to yield! She runs! \nPulling away! Just like that, first place is——"
     },
     {
       "name": "Caster",
@@ -138,20 +138,20 @@
       "text": "But that's good! The fighting spirit can easily \nbe managed! This time she stumbled, but with more \nexperience, things should come naturally……!"
     },
     {
-      "name": "Trainer With Knit Cap",
-      "text": "No, that wasn't the only reason she lost. There \nwere rumors about her ankles, right? Truth is, \nshe can't really put much strain on her feet.",
       "choice_data_list": [
         "(N-no……that can't be it)"
-      ]
+      ],
+      "name": "Trainer With Knit Cap",
+      "text": "No, that wasn't the only reason she lost. There \nwere rumors about her ankles, right? Truth is, \nshe can't really put much strain on her feet."
     },
     {
       "text": "——She was already well aware of her condition. \nShe was also perfectly able to manage her own running already."
     },
     {
-      "text": "Her spirit too. Even when racing against an Upperclassman \nUma Musume, she was able to flawlessly turn it in to strength.",
       "choice_data_list": [
         "(It was truly an overwhelming run——!)"
-      ]
+      ],
+      "text": "Her spirit too. Even when racing against an Upperclassman \nUma Musume, she was able to flawlessly turn it in to strength."
     },
     {
       "name": "Dura's Father",

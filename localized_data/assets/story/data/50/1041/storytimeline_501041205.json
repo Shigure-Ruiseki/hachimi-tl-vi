@@ -18,11 +18,11 @@
       "text": "Today, in this Takamatsunomiya Kinen, \nI'll face Ms. Flower again!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'll want to win by a landslide, which \nmeans we should be aiming for a lead of \na thousand lengths!",
       "choice_data_list": [
         "A thousand!?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "I'll want to win by a landslide, which \nmeans we should be aiming for a lead of \na thousand lengths!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -37,20 +37,20 @@
       "text": "So, from now on, I'll be able to compete in \nraces other than short distance ones!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Isn't that right, Trainer!?",
       "choice_data_list": [
         "……Yeah",
         "……Yeah"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Isn't that right, Trainer!?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "One more time!! \nYou can say it, can't you!?",
       "choice_data_list": [
         "Yeah!",
         "Yeah!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "One more time!! \nYou can say it, can't you!?"
     },
     {
       "name": "Sakura Bakushin O",

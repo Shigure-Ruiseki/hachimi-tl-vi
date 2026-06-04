@@ -8,11 +8,11 @@
       "text": "Slowly I opened my eyes. I could make out the familiar \nshapes of a classroom in the darkness… and the figure \nof Agnes Tachyon standing before me…"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Subject is sweating profusely. Body \ntemperature… appears to be rising.",
       "choice_data_list": [
         "Eh… eh…!?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Subject is sweating profusely. Body \ntemperature… appears to be rising."
     },
     {
       "name": "Agnes Tachyon",
@@ -22,23 +22,23 @@
       "text": "I looked down. My body was entangled with all manner of \nunfamiliar devices and strange instruments…"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Ah, this is just like the day we first met…! Only \nthis time we have the laboratory all to ourselves. \nNobody will interfere with my experiment!",
       "choice_data_list": [
         "Laboratory…? But this is just an ordinary classroom…!",
         "Laboratory…? But this is just an ordinary classroom…!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Ah, this is just like the day we first met…! Only \nthis time we have the laboratory all to ourselves. \nNobody will interfere with my experiment!"
     },
     {
       "name": "Agnes Tachyon",
       "text": "Ahh, not so! I am only here because you agreed \nto take part in this experiment."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "And this space is entirely of YOUR creation… \nso in that sense, it's quite accurate to call \nthis our \"laboratory\", don't you agree?",
       "choice_data_list": [
         "I don't understand…!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "And this space is entirely of YOUR creation… \nso in that sense, it's quite accurate to call \nthis our \"laboratory\", don't you agree?"
     },
     {
       "name": "Agnes Tachyon",
@@ -57,11 +57,11 @@
       "text": "Now! Perhaps it's time I let you try a rather enjoyable new serum \nI have created. It has an intense blue glow which I think you \nwill find quite pleasing!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Heeheehee… and with this your muscular strength will increase \nseveral fold… Your body will be blessed with unimaginable \nstrength, strength surpassing the most fearsome monster…!",
       "choice_data_list": [
         "!?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Heeheehee… and with this your muscular strength will increase \nseveral fold… Your body will be blessed with unimaginable \nstrength, strength surpassing the most fearsome monster…!"
     },
     {
       "name": "Agnes Tachyon",
@@ -78,10 +78,10 @@
       "text": "Well, well. Good morning my little guinea pig."
     },
     {
-      "text": "The sunlight burned as it flooded my eyes. But \nthat must mean everything up to now had been…",
       "choice_data_list": [
         "H…… huh!? A dream…!?"
-      ]
+      ],
+      "text": "The sunlight burned as it flooded my eyes. But \nthat must mean everything up to now had been…"
     },
     {
       "name": "Agnes Tachyon",
@@ -100,34 +100,34 @@
       "text": "It seems as though you see me as a trainee who \nmight at any moment subject you to horrifying experimentation, \nwithout warning or consent…!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "I see… that is the Agnes Tachyon that resides in your psyche.",
       "choice_data_list": [
         "Sorry I, uh… didn't mean anything by it…",
         "Sorry I, uh… didn't mean anything by it…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "I see… that is the Agnes Tachyon that resides in your psyche."
     },
     {
       "name": "Agnes Tachyon",
       "text": "Hahaha…! To think that I would go to the trouble of ASKING you to \nopen your mouth! The Agnes Tachyon of your dreams clearly has \nmore time to waste than I do…"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "One does not ask the guinea pig's PERMISSION to \ncommence the experiment, good gracious no!",
       "choice_data_list": [
         "Um."
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "One does not ask the guinea pig's PERMISSION to \ncommence the experiment, good gracious no!"
     },
     {
       "name": "Agnes Tachyon",
       "text": "Hahahaha! Oh, what are you gawping at now? Did you forget that \nyou willingly donated your body to my research?"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "And I was so close, too. Why, a few moments longer and you would \nhave been sleeping like a baby… and I could have slipped serum \nbeta down your throat without you even noticing!",
       "choice_data_list": [
         "Huh…!?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "And I was so close, too. Why, a few moments longer and you would \nhave been sleeping like a baby… and I could have slipped serum \nbeta down your throat without you even noticing!"
     },
     {
       "name": "Agnes Tachyon",
@@ -138,11 +138,11 @@
       "text": "Oh well, now that you're awake I won't need to worry about \nspilling these 120ml… Because you can use those precious \nopposable digits of yours to do the job yourself!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "It certainly makes MY life easier… and that's what counts.",
       "choice_data_list": [
         "Wait, I… um…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "It certainly makes MY life easier… and that's what counts."
     },
     {
       "name": "Agnes Tachyon",

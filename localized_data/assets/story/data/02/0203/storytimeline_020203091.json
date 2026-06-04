@@ -2,18 +2,18 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Something you want me to see……? This is——",
       "choice_data_list": [
         "Your exchange diary with Kraft……?",
         "Your exchange diary with Kraft……?"
-      ]
+      ],
+      "text": "Something you want me to see……? This is——"
     },
     {
-      "text": "Something you want me to see……? This is——",
       "choice_data_list": [
         "Your exchange diary with Kraft……?",
         "Your exchange diary with Kraft……?"
-      ]
+      ],
+      "text": "Something you want me to see……? This is——"
     },
     {
       "name": "Cesario",
@@ -32,22 +32,22 @@
       "text": "After the 『Hanshin Uma Musume S』, \nKraft was the one to suggest it."
     },
     {
-      "name": "Cesario",
-      "text": "——I'll be fine now. No matter what happens, no matter how \nmany times, I'm ready to stand up again……is what she said.",
       "choice_data_list": [
         "Kraft said that……"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "——I'll be fine now. No matter what happens, no matter how \nmany times, I'm ready to stand up again……is what she said."
     },
     {
       "name": "Cesario",
       "text": "……Just look at this, Trainer. It's mostly just \ncasual conversations between Kraft and me……But"
     },
     {
-      "name": "Cesario",
-      "text": "Please.",
       "choice_data_list": [
         "……Understood."
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Please."
     },
     {
       "text": "I looked at the tablet she handed me. The first \nthing that caught my eye was a picture of cherry \nblossoms that Rhein Kraft had probably taken——"
@@ -101,11 +101,11 @@
       "text": "『And at nighttime during the barbeque, we talked so much……At that \ntime, I didn't think I'd be so far apart from Cesario though』"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "『But, I'm fine! We'll be fine, won't we? With the same \ndream, towards a wonderful future, we're moving forward!』",
       "choice_data_list": [
         "……Kraft——"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "『But, I'm fine! We'll be fine, won't we? With the same \ndream, towards a wonderful future, we're moving forward!』"
     },
     {
       "text": "Several memories of Rhein Kraft came to mind. My chest \ntightened, emotions overflowing as my vision wavered."
@@ -121,30 +121,30 @@
       "text": "『Big neeeeeews～～! \nTeam <Ascella> has a new member!』"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "『Her name's Fusaichi Pandora-san——』",
       "choice_data_list": [
         "……This is——"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "『Her name's Fusaichi Pandora-san——』"
     },
     {
       "name": "Cesario",
       "text": "……Have you noticed? Trainer."
     },
     {
-      "name": "Cesario",
-      "text": "That's right. ……Ever since then, \nit's gradually changed. The contents.",
       "choice_data_list": [
         "That's right…… You——",
         "That's right…… You——"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "That's right. ……Ever since then, \nit's gradually changed. The contents."
     },
     {
-      "text": "I look up from the tablet, my eyes meeting Cesario's. ……Even in \nfront of her ailing friend who remains asleep, she shed no tears.",
       "choice_data_list": [
         "You came to show me this 『Feeling』",
         "You came to show me this 『Feeling』"
-      ]
+      ],
+      "text": "I look up from the tablet, my eyes meeting Cesario's. ……Even in \nfront of her ailing friend who remains asleep, she shed no tears."
     },
     {
       "text": "This isn't just to reminisce. This exchange with Kraft is \nfilled with so many emotions……that you wanted to show us."
@@ -157,26 +157,26 @@
       "text": "……Yes."
     },
     {
-      "text": "Thank you, Cesario. ……But, that's right. \nThen this isn't just for me——",
       "choice_data_list": [
         "Another person needs to hear this",
         "Another person needs to hear this"
-      ]
+      ],
+      "text": "Thank you, Cesario. ……But, that's right. \nThen this isn't just for me——"
     },
     {
-      "text": "Thank you, Cesario. ……But, that's right. \nThen this isn't just for me——",
       "choice_data_list": [
         "Another person needs to hear this",
         "Another person needs to hear this"
-      ]
+      ],
+      "text": "Thank you, Cesario. ……But, that's right. \nThen this isn't just for me——"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "This……you want me to? ……Is it okay to look at this?",
       "choice_data_list": [
         "Yeah. You……need to see it",
         "Yeah. You……need to see it"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "This……you want me to? ……Is it okay to look at this?"
     },
     {
       "name": "Fusaichi Pandora",
@@ -287,22 +287,22 @@
       "text": "——……Trainer."
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Next month's 『Queen Elizabeth Cup』, I want to enter it.",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Next month's 『Queen Elizabeth Cup』, I want to enter it."
     },
     {
       "name": "Fusaichi Pandora",
       "text": "For a Tiara Uma Musume, it's a race that can't be \nmissed, right? I want to enter. ……Enter and win."
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "That's why……Please. \nWhat I'm about to say next, will you hear me out?",
       "choice_data_list": [
         "Pandora……?"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "That's why……Please. \nWhat I'm about to say next, will you hear me out?"
     },
     {
       "name": "Fusaichi Pandora",

@@ -12,12 +12,12 @@
       "text": "They really were. The fruits of her hard work at the training \ncamp were plain to see."
     },
     {
-      "name": "Nice Nature",
-      "text": "If can get times like that on sand, imagine \nhow I'll go on a real course…",
       "choice_data_list": [
         "You'll win for sure!",
         "You'll win for sure!"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "If can get times like that on sand, imagine \nhow I'll go on a real course…"
     },
     {
       "name": "Nice Nature",
@@ -43,12 +43,12 @@
       "text": "Hey, it's a festival. It'll be fun whatever you're wearing!"
     },
     {
-      "name": "Nice Nature",
-      "text": "Oh, there's a festival going on, huh?",
       "choice_data_list": [
         "Want to go?",
         "Want to go?"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "Oh, there's a festival going on, huh?"
     },
     {
       "name": "Nice Nature",
@@ -98,12 +98,12 @@
       "text": "Bon-odori Grand Prix! Sign up here for the big dance contest!"
     },
     {
-      "name": "Nice Nature",
-      "text": "Bon-odori Grand Prix…?",
       "choice_data_list": [
         "I'd love to see that famous bon-odori of yours!",
         "I'd love to see that famous bon-odori of yours!"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "Bon-odori Grand Prix…?"
     },
     {
       "name": "Nice Nature",
@@ -114,12 +114,12 @@
       "text": "When I said I was a good dancer I meant, like, \ncompared to my friends. I'm not about to dance \nin some big competition or anything."
     },
     {
-      "name": "Nice Nature",
-      "text": "No, I just want to have a nice time, dancing with a few friends \nin the park. That's more my speed.",
       "choice_data_list": [
         "But… your friends could see you were good, right?",
         "But… your friends could see you were good, right?"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "No, I just want to have a nice time, dancing with a few friends \nin the park. That's more my speed."
     },
     {
       "name": "Nice Nature",
@@ -164,22 +164,22 @@
       "text": "Do you really want to see it? Y'know, my… dance."
     },
     {
-      "name": "Nice Nature",
-      "text": "I mean… it was just some of my friends who said it was pretty \ngood, it's not, like, special or anything…",
       "choice_data_list": [
         "I wanna see it!!!"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "I mean… it was just some of my friends who said it was pretty \ngood, it's not, like, special or anything…"
     },
     {
       "name": "Nice Nature",
       "text": "Alright. I'll do it."
     },
     {
-      "name": "Nice Nature",
-      "text": "But don't get your hopes up, alright? I haven't danced the \nbon-odori for a long time, you know?",
       "choice_data_list": [
         "Alright! Now, get out there and win that thing!"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "But don't get your hopes up, alright? I haven't danced the \nbon-odori for a long time, you know?"
     },
     {
       "name": "Nice Nature",
@@ -220,23 +220,23 @@
       "text": "It's not \"neechan\" it's… oh, never mind. Th… thank you."
     },
     {
-      "name": "Nice Nature",
-      "text": "Well how do you like that, huh? I actually won!",
       "choice_data_list": [
         "Congratulations!"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "Well how do you like that, huh? I actually won!"
     },
     {
       "name": "Nice Nature",
       "text": "Yeah, thanks! I don't know, I just thought \nI might as well give it a try."
     },
     {
-      "name": "Nice Nature",
-      "text": "Maybe that's it. I try things I wouldn't when you're around. \nYou're good at talking me into stuff.",
       "choice_data_list": [
         "It's not me. I think you're just learning \nto be honest about what you really want.",
         "It's not me. I think you're just learning \nto be honest about what you really want."
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "Maybe that's it. I try things I wouldn't when you're around. \nYou're good at talking me into stuff."
     },
     {
       "name": "Nice Nature",

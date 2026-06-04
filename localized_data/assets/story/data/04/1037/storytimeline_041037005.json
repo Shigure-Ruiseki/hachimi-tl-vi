@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Eishin Flash",
-      "text": "—— I'll see you for the next training session at 15:00 then. \nThat's in 6 hours and 30 minutes.",
       "choice_data_list": [
         "Sure thing, good work.",
         "Sure thing, good work."
-      ]
+      ],
+      "name": "Eishin Flash",
+      "text": "—— I'll see you for the next training session at 15:00 then. \nThat's in 6 hours and 30 minutes."
     },
     {
       "text": "I just finished morning training with Eishin Flash and was \nwalking her to the academy for classes. On the way ——"
@@ -21,11 +21,11 @@
       "text": "For real!? That's like SSR level! \nWe <i>have</i> to go!"
     },
     {
-      "name": "Eishin Flash",
-      "text": "…Best Crêpes…?",
       "choice_data_list": [
         "What's that?"
-      ]
+      ],
+      "name": "Eishin Flash",
+      "text": "…Best Crêpes…?"
     },
     {
       "name": "Eishin Flash",
@@ -44,17 +44,17 @@
       "text": "If those girls are right, then this same Best Crêpes will be \nsetting up at our academy after classes today…"
     },
     {
-      "text": "I haven't seen Eishin Flash be this talkative before. \nShe must be very interested in that crêpe stand.",
       "choice_data_list": [
         "Why don't you go too?"
-      ]
+      ],
+      "text": "I haven't seen Eishin Flash be this talkative before. \nShe must be very interested in that crêpe stand."
     },
     {
-      "name": "Eishin Flash",
-      "text": "I can not. Training stretches from 15:00 to 20:00, and I have \nnot heard of Best Crêpes still being around that late.",
       "choice_data_list": [
         "We can shift our training times."
-      ]
+      ],
+      "name": "Eishin Flash",
+      "text": "I can not. Training stretches from 15:00 to 20:00, and I have \nnot heard of Best Crêpes still being around that late."
     },
     {
       "name": "Eishin Flash",
@@ -68,12 +68,12 @@
       "text": "She always puts so much effort into maintaining her schedule. \nNonetheless, I got the impression she felt a little sad about \nmissing out as I watched her walk off."
     },
     {
-      "name": "Eishin Flash",
-      "text": "<i>Haah… haaah… \nPhew…</i>",
       "choice_data_list": [
         "Alright, that's it for today.",
         "Alright, that's all for today."
-      ]
+      ],
+      "name": "Eishin Flash",
+      "text": "<i>Haah… haaah… \nPhew…</i>"
     },
     {
       "name": "Eishin Flash",
@@ -87,27 +87,27 @@
       "text": "I'll be going home early. Have a good evening."
     },
     {
-      "text": "She was gone in no time. I was reminded \nof how she had acted this morning.",
       "choice_data_list": [
         "(Could she be…?)"
-      ]
+      ],
+      "text": "She was gone in no time. I was reminded \nof how she had acted this morning."
     },
     {
-      "name": "Eishin Flash",
-      "text": "……",
       "choice_data_list": [
         "Hey."
-      ]
+      ],
+      "name": "Eishin Flash",
+      "text": "……"
     },
     {
       "name": "Eishin Flash",
       "text": "…! Trainer."
     },
     {
-      "text": "I found her in front of the academy's gates, as I anticipated. \nThere was no sign of any vehicle or crowds, though…",
       "choice_data_list": [
         "Did you catch the crêpe stand?"
-      ]
+      ],
+      "text": "I found her in front of the academy's gates, as I anticipated. \nThere was no sign of any vehicle or crowds, though…"
     },
     {
       "name": "Eishin Flash",
@@ -118,10 +118,10 @@
       "text": "……Best Crêpes has been here three times now, \nbut unfortunately none of those times have ever \nlined up with my schedule…"
     },
     {
-      "text": "It seems I underestimated her interest in this crêpe stand. \nBut since we can't predict when it will appear, one thing \nwe <i>can</i> do is ——",
       "choice_data_list": [
         "<size=36>Let's try to make your schedule more flexible.</size>"
-      ]
+      ],
+      "text": "It seems I underestimated her interest in this crêpe stand. \nBut since we can't predict when it will appear, one thing \nwe <i>can</i> do is ——"
     },
     {
       "name": "Eishin Flash",
@@ -132,11 +132,11 @@
       "text": "It is not acceptable to change a perfected schedule \nfor a simple case of curiosity."
     },
     {
-      "name": "Eishin Flash",
-      "text": "Following the structured nature of a schedule is what \nhelps me grow stronger. I… won't change that.",
       "choice_data_list": [
         "It's your choice."
-      ]
+      ],
+      "name": "Eishin Flash",
+      "text": "Following the structured nature of a schedule is what \nhelps me grow stronger. I… won't change that."
     },
     {
       "name": "Eishin Flash",

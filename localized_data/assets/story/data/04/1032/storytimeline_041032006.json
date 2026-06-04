@@ -9,12 +9,12 @@
       "text": "Well, well, if it isn't my dear trainer."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Are you here to carry my bags for me? \nHahaha, very good! Hop to it, then, come on!",
       "choice_data_list": [
         "Actually I'm just here to do my own shopping…",
         "Actually I'm just here to do my own shopping…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Are you here to carry my bags for me? \nHahaha, very good! Hop to it, then, come on!"
     },
     {
       "name": "Agnes Tachyon",
@@ -32,12 +32,12 @@
       "text": "Let's get tomatoes… and three steamed chicken fillets. Muscle \ngrowth is impossible without adequate protein intake."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Ugh, what an absolute bore. If only we could live on dietary \nsupplements, then we wouldn't have to waste time worrying about \nall this food nonsense.",
       "choice_data_list": [
         "But supplements don't taste of anything…",
         "But supplements don't taste of anything…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Ugh, what an absolute bore. If only we could live on dietary \nsupplements, then we wouldn't have to waste time worrying about \nall this food nonsense."
     },
     {
       "name": "Agnes Tachyon",
@@ -59,12 +59,12 @@
       "text": "The more I heard about Agnes Tachyon's dietary \nhabits, the more worried I became."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "If only the cafeteria were open 24 hours, I wouldn't have to \ntrouble myself with food shopping at all…",
       "choice_data_list": [
         "How about I make you something?",
         "How about I make you something?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "If only the cafeteria were open 24 hours, I wouldn't have to \ntrouble myself with food shopping at all…"
     },
     {
       "name": "Agnes Tachyon",
@@ -90,23 +90,23 @@
       "text": "And that's how I ended up preparing Agnes Tachyon's dinner."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Why on earth did you call me out here at this ungodly hour?",
       "choice_data_list": [
         "I brought you some dinner!",
         "I brought you some dinner!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Why on earth did you call me out here at this ungodly hour?"
     },
     {
       "name": "Agnes Tachyon",
       "text": "Oh, that's right! I was so engrossed in my research \nthat I scarcely noticed the time."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "I decided to go back to basics, you see. I realized \nthat if we wish for a trainee to travel at light \nspeed, we must consider her momentum not classically \nbut as a Lorentz-covariant four-vector! And…",
       "choice_data_list": [
         "L… let's talk about that after you've eaten…!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "I decided to go back to basics, you see. I realized \nthat if we wish for a trainee to travel at light \nspeed, we must consider her momentum not classically \nbut as a Lorentz-covariant four-vector! And…"
     },
     {
       "name": "Agnes Tachyon",
@@ -130,11 +130,11 @@
       "text": "Agnes Tachyon pressed the empty food trays \nfrom the previous night into my hands."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Vitamins, minerals, protein, fat, sugar… All present and correct, \nand in appropriate quantities. Well done.",
       "choice_data_list": [
         "And…? How did it taste?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Vitamins, minerals, protein, fat, sugar… All present and correct, \nand in appropriate quantities. Well done."
     },
     {
       "name": "Agnes Tachyon",
@@ -149,22 +149,22 @@
       "text": "Number two. Not enough rice in proportion to the other \nitems. Add more to correct this imbalance."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "I appreciate it's too late for today, but be sure to implement \nthese improvements from tomorrow.",
       "choice_data_list": [
         "\"Today\"? What do you mean \"today\"?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "I appreciate it's too late for today, but be sure to implement \nthese improvements from tomorrow."
     },
     {
       "name": "Agnes Tachyon",
       "text": "Today's breakfast, of course. You DID bring it, didn't you?"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "I need to hurry back to the lab. Quickly now, hand it over.",
       "choice_data_list": [
         "I don't have anything for you today."
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "I need to hurry back to the lab. Quickly now, hand it over."
     },
     {
       "name": "Agnes Tachyon",
@@ -175,11 +175,11 @@
       "text": "No breakfast? Is this supposed to be some kind of \nJOKE!? And after I interrupted my research to drag \nmyself all the way here to collect it…!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Did you or did you not promise to prepare my food for me?",
       "choice_data_list": [
         "Well, yesterday's, yeah…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Did you or did you not promise to prepare my food for me?"
     },
     {
       "name": "Agnes Tachyon",
@@ -190,11 +190,11 @@
       "text": "Are you telling me that I am to negotiate every \nmeal with you ahead of time? How inefficient!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Your job is to look after my needs! Now hurry up! Feed me!",
       "choice_data_list": [
         "Alright, I'll get you something by lunch time!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Your job is to look after my needs! Now hurry up! Feed me!"
     },
     {
       "name": "Agnes Tachyon",
@@ -205,19 +205,19 @@
       "text": "This hunger can only be satiated by giving me my \nbreakfast, or giving your body up for experimentation \nfor the remainder of the morning."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "So… which will it be? Will you cook… or will you submit…?",
       "choice_data_list": [
         "Cook! Cook!!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "So… which will it be? Will you cook… or will you submit…?"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Very well. We'll just have to experiment on you \nthis afternoon instead. For now, breakfast.",
       "choice_data_list": [
         "Wait, you're going to experiment on me anyway!?",
         "Wait, you're going to experiment on me anyway!?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Very well. We'll just have to experiment on you \nthis afternoon instead. For now, breakfast."
     },
     {
       "name": "Agnes Tachyon",

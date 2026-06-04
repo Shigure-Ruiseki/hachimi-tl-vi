@@ -11,12 +11,12 @@
       "text": "The training itself proceeds smoothly, \nSince we share what we need to do with each other. \nEven so―"
     },
     {
-      "name": "Daiichi Ruby",
-      "text": "――Ha.",
       "choice_data_list": [
         "Good, your time increased!",
         "Good, your time increased!"
-      ]
+      ],
+      "name": "Daiichi Ruby",
+      "text": "――Ha."
     },
     {
       "text": "I secretly fist pump for visible training results. \nI'm happy that I can do my work as a trainer \nwithout problem."
@@ -47,11 +47,11 @@
       "text": "Many horse girl go out happily, but Daiichi Ruby \nwill probably stay at the training camp."
     },
     {
-      "name": "Daiichi Ruby",
-      "text": "……Trainer-san?",
       "choice_data_list": [
         "I've prepared a place for study for you."
-      ]
+      ],
+      "name": "Daiichi Ruby",
+      "text": "……Trainer-san?"
     },
     {
       "text": "I tried to prepare an environment that is as close as \npossible to the school environment for her study time."
@@ -75,10 +75,10 @@
       "text": "…………"
     },
     {
-      "text": "When it finally time for break, I say the words \nI had prepared before.",
       "choice_data_list": [
         "Why don't we go for a little walk?"
-      ]
+      ],
+      "text": "When it finally time for break, I say the words \nI had prepared before."
     },
     {
       "name": "Daiichi Ruby",
@@ -95,10 +95,10 @@
       "text": "Tranquility……"
     },
     {
-      "text": "On an empty beach, we stood side by side looking up at \nthe stars in the sky. The sound of the sea breeze feel \npleasant to my ears.",
       "choice_data_list": [
         "I heard the stars here are beautiful."
-      ]
+      ],
+      "text": "On an empty beach, we stood side by side looking up at \nthe stars in the sky. The sound of the sea breeze feel \npleasant to my ears."
     },
     {
       "name": "Daiichi Ruby",
@@ -125,10 +125,10 @@
       "text": "……Scorpion's Fire……"
     },
     {
-      "text": "I thought I heard something from her, but before \nI could confirm it, Daiichi Ruby's appearance returned to normal.",
       "choice_data_list": [
         "……leaving already?"
-      ]
+      ],
+      "text": "I thought I heard something from her, but before \nI could confirm it, Daiichi Ruby's appearance returned to normal."
     },
     {
       "name": "Daiichi Ruby",

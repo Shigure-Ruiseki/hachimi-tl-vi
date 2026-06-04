@@ -15,17 +15,17 @@
       "text": "Narita Top Road had a really long stride. \nThis meant her rate of acceleration was quite \nhigh, and she could reach her top speed quickly."
     },
     {
-      "text": "Because of her long stride, that meant she could fully \ndemonstrate her strengths on courses with long straights.",
       "choice_data_list": [
         "But, on the other hand――"
-      ]
+      ],
+      "text": "Because of her long stride, that meant she could fully \ndemonstrate her strengths on courses with long straights."
     },
     {
-      "text": "If she wasn't able to fully shift gears for \nany reason, then she would struggle. For example, \ntight corners and adjusting her pace――",
       "choice_data_list": [
         "You're not good at that……right?",
         "You're not good at that……right?"
-      ]
+      ],
+      "text": "If she wasn't able to fully shift gears for \nany reason, then she would struggle. For example, \ntight corners and adjusting her pace――"
     },
     {
       "name": "Narita Top Road",
@@ -40,10 +40,10 @@
       "text": "……Sorry. \nIf only I was more skillful――"
     },
     {
-      "text": "That wasn't an issue. That's why I made this menu after all.",
       "choice_data_list": [
         "Let's focus training on that!"
-      ]
+      ],
+      "text": "That wasn't an issue. That's why I made this menu after all."
     },
     {
       "name": "Narita Top Road",
@@ -54,11 +54,11 @@
       "text": "That's amazing. Really……well, it's just amazing! \nJust by watching me run a few times, to be able \nto come up with this……thank you very much!"
     },
     {
-      "name": "Narita Top Road",
-      "text": "Can I start running then!? \nI want to put this menu in to practice right away!",
       "choice_data_list": [
         "O-of course!"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Can I start running then!? \nI want to put this menu in to practice right away!"
     },
     {
       "name": "Narita Top Road",
@@ -120,10 +120,10 @@
       "text": "Nnn! Once more!! \nTrainer-san, do you have any advice for me!?"
     },
     {
-      "text": "She was so lively, it was as if she had just \nstarted training. That was what it seemed like \nby the look in her eyes when she asked me.",
       "choice_data_list": [
         "Don't look down, look forward"
-      ]
+      ],
+      "text": "She was so lively, it was as if she had just \nstarted training. That was what it seemed like \nby the look in her eyes when she asked me."
     },
     {
       "name": "Narita Top Road",
@@ -136,22 +136,22 @@
       "text": "A few days later. After training was finished, \nI found Narita Top Road doing more self-training."
     },
     {
-      "name": "Narita Top Road",
-      "text": "Fuuu-……that felt good! \nAlright, this time once I get to that corner--",
       "choice_data_list": [
         "Narita Top Road"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "Fuuu-……that felt good! \nAlright, this time once I get to that corner--"
     },
     {
       "name": "Narita Top Road",
       "text": "Hyowaaa!!"
     },
     {
-      "name": "Narita Top Road",
-      "text": "T-Trainer-san!? \nWhat brings you here?",
       "choice_data_list": [
         "You're working too hard"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "T-Trainer-san!? \nWhat brings you here?"
     },
     {
       "name": "Narita Top Road",
@@ -162,11 +162,11 @@
       "text": "Even if it's just a mock race, it's the first \nrace I'm challenging together with Trainer-san."
     },
     {
-      "name": "Narita Top Road",
-      "text": "……so I can reassure Trainer-san about choosing me, \nthat's the kind of race it is!",
       "choice_data_list": [
         "That's……"
-      ]
+      ],
+      "name": "Narita Top Road",
+      "text": "……so I can reassure Trainer-san about choosing me, \nthat's the kind of race it is!"
     },
     {
       "text": "……That makes me happy. But, that doesn't mean I want her \nto be reckless. After all, it's the trainer that should \nbe the one lending their strength towards a better result."

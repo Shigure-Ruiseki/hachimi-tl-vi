@@ -9,12 +9,12 @@
       "text": "Oh, Trainer-san."
     },
     {
-      "name": "Grass Wonder",
-      "text": "Bumping in to you here is quite a coincidence, isn't it?～",
       "choice_data_list": [
         "What are you doing?",
         "What are you doing?"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "Bumping in to you here is quite a coincidence, isn't it?～"
     },
     {
       "name": "Grass Wonder",
@@ -33,11 +33,11 @@
       "text": "While I'm moving my body, I can enjoy the atmosphere \nof this country…… you could say walking is a form \nof entertainment for me, you know?～"
     },
     {
-      "name": "Grass Wonder",
-      "text": "But well, I've already seen all around this area, \nso I'm not sure where I should go next time.",
       "choice_data_list": [
         "I could act as your guide"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "But well, I've already seen all around this area, \nso I'm not sure where I should go next time."
     },
     {
       "name": "Grass Wonder",
@@ -82,21 +82,21 @@
       "text": "Trainer-san, where should we go next??"
     },
     {
-      "text": "When Grass Wonder asked, I looked around. \nThe Game Center caught my eye.",
       "choice_data_list": [
         "Want to see the Game Center?"
-      ]
+      ],
+      "text": "When Grass Wonder asked, I looked around. \nThe Game Center caught my eye."
     },
     {
       "name": "Grass Wonder",
       "text": "The Game Center, is it……? \nHmmmmm～, I'm not too familiar with places like that……"
     },
     {
-      "name": "Grass Wonder",
-      "text": "When it comes to walks, I can't help but think that \na leisurely stroll is more suited for a quieter place……",
       "choice_data_list": [
         "You might discover something new"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "When it comes to walks, I can't help but think that \na leisurely stroll is more suited for a quieter place……"
     },
     {
       "name": "Grass Wonder",
@@ -122,11 +122,11 @@
       "text": "The game that Grass Wonder was curious about was a dance game."
     },
     {
-      "name": "Grass Wonder",
-      "text": "So it's a game you play by stepping on these buttons, \nit kind of seems a little bit like a Winning Live, doesn't it?",
       "choice_data_list": [
         "How about trying it!?"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "So it's a game you play by stepping on these buttons, \nit kind of seems a little bit like a Winning Live, doesn't it?"
     },
     {
       "name": "Grass Wonder",
@@ -148,12 +148,12 @@
       "text": "Hmm…… oh…… \nAh, ah……!?"
     },
     {
-      "name": "Grass Wonder",
-      "text": "…………",
       "choice_data_list": [
         "That looked a little hard",
         "That looked a little hard"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "…………"
     },
     {
       "name": "Grass Wonder",
@@ -168,23 +168,23 @@
       "text": "So there are games like this, huh～? \nI learned about a lot of things today."
     },
     {
-      "name": "Grass Wonder",
-      "text": "This was also because we took a walk together. \nTrainer-san, thank you very much for accompanying me.",
       "choice_data_list": [
         "You're welcome"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "This was also because we took a walk together. \nTrainer-san, thank you very much for accompanying me."
     },
     {
       "name": "Grass Wonder",
       "text": "When our schedules allow for it, let's take more walks together♪"
     },
     {
-      "name": "Grass Wonder",
-      "text": "Well then, I'll give it one more try……",
       "choice_data_list": [
         "Because it's a good work out, right?",
         "Because it's a good work out, right?"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "Well then, I'll give it one more try……"
     },
     {
       "name": "Grass Wonder",
@@ -195,12 +195,12 @@
       "text": "Next I'll clear it, so just watch me."
     },
     {
-      "name": "Grass Wonder",
-      "text": "Hmmmm～…… it's not going very well is it……?",
       "choice_data_list": [
         "Should we move on……?",
         "Should we move on……?"
-      ]
+      ],
+      "name": "Grass Wonder",
+      "text": "Hmmmm～…… it's not going very well is it……?"
     },
     {
       "name": "Grass Wonder",

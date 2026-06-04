@@ -13,11 +13,11 @@
       "text": "<i>Hah... whew...!</i>"
     },
     {
-      "name": "Loves Only You",
-      "text": "Phew…! Mm-hmm, today might be turning out pretty good?",
       "choice_data_list": [
         "<size=34>(As I thought, her skill is head and shoulders above the rest…)</size>"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "Phew…! Mm-hmm, today might be turning out pretty good?"
     },
     {
       "name": "Mid-level Trainer",
@@ -40,18 +40,18 @@
       "text": "It's like staking your entire career on that person, you know? It's such an important decision, so I don’t want to make a decision half-heartedly.\n"
     },
     {
-      "name": "Hard Worker@Overseas Posting",
-      "text": "At Tracen Academy, you can’t debut without a trainer, right? Is Loves-chan gonna be okay? Like, about her debut timing and stuff?”\n",
       "choice_data_list": [
         " <size=29>If she’s aiming to debut this year, she should be making a decision soon.</size>"
-      ]
+      ],
+      "name": "Hard Worker@Overseas Posting",
+      "text": "At Tracen Academy, you can’t debut without a trainer, right? Is Loves-chan gonna be okay? Like, about her debut timing and stuff?”\n"
     },
     {
-      "name": "Hard Worker@Overseas Posting",
-      "text": "Oh, really! Wait, Bridge-san, are you actually pretty knowledgeable about this stuff?\n",
       "choice_data_list": [
         " N-no, I only heard that somewhere…!"
-      ]
+      ],
+      "name": "Hard Worker@Overseas Posting",
+      "text": "Oh, really! Wait, Bridge-san, are you actually pretty knowledgeable about this stuff?\n"
     },
     {
       "name": "Monologue",
@@ -62,18 +62,18 @@
       "text": "The next day. As I passed by the cafeteria, I spotted a familiar figure once again.\n"
     },
     {
-      "name": "Loves Only You",
-      "text": "Hehe, to be approached by such a seasoned veteran is truly an honor.",
       "choice_data_list": [
         "<size=42>(That person has also handled GI Umamusumes…)</size>"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "Hehe, to be approached by such a seasoned veteran is truly an honor."
     },
     {
-      "name": "Veteran Trainer",
-      "text": "I can take you to the heights you’re aiming for. Why not put that talent to work in the graded stakes… no, on the GI stage itself?\n",
       "choice_data_list": [
         " (It’s decided. I can’t find a reason to refuse.)"
-      ]
+      ],
+      "name": "Veteran Trainer",
+      "text": "I can take you to the heights you’re aiming for. Why not put that talent to work in the graded stakes… no, on the GI stage itself?\n"
     },
     {
       "name": "Loves Only You",
@@ -100,22 +100,22 @@
       "text": "…I understand what you are saying. But… for me, it’s different. You might not understand, though.\n"
     },
     {
-      "name": "Loves Only You",
-      "text": "―[ You don’t need excessive fan interaction to get stronger. ] The ones I’ve turned down before more or less thought the same way.\n",
       "choice_data_list": [
         "…Aren’t you scared?"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "―[ You don’t need excessive fan interaction to get stronger. ] The ones I’ve turned down before more or less thought the same way.\n"
     },
     {
       "name": "Loves Only You",
       "text": "... [ ...Aren’t you scared? ] ..."
     },
     {
-      "name": "Monologue",
-      "text": "Before I knew it, I had posted such a question. I couldn’t help but ask.\n",
       "choice_data_list": [
         "<size=30>What if you weren’t discovered by someone who truly understands you</size>"
-      ]
+      ],
+      "name": "Monologue",
+      "text": "Before I knew it, I had posted such a question. I couldn’t help but ask.\n"
     },
     {
       "name": "Loves Only You",
@@ -146,11 +146,11 @@
       "text": "[ But if streaming ends up becoming a burden on your contract ] ...?\n"
     },
     {
-      "name": "Middle-aged Lifter",
-      "text": "[ I don’t mind if I only watch from afar ]\n",
       "choice_data_list": [
         "...!?"
-      ]
+      ],
+      "name": "Middle-aged Lifter",
+      "text": "[ I don’t mind if I only watch from afar ]\n"
     },
     {
       "name": "Loves Only You",

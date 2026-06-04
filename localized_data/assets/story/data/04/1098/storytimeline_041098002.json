@@ -15,11 +15,11 @@
       "text": "(Bang!)"
     },
     {
-      "name": "Copano Rickey",
-      "text": "The roof! If it's here then……",
       "choice_data_list": [
         "Copano Rickey, why the roof?"
-      ]
+      ],
+      "name": "Copano Rickey",
+      "text": "The roof! If it's here then……"
     },
     {
       "name": "Copano Rickey",
@@ -38,11 +38,11 @@
       "text": "Part of the course is being repaired? And there are a large \nnumber of frontrunner Uma Musume in the next race, so they want \nto get a good look. Both of these happening at the same time."
     },
     {
-      "name": "Copano Rickey",
-      "text": "Trainer, if we just let it go, it could become dangerous! We \nshould stop them before they start!",
       "choice_data_list": [
         "We can't, we won't make it"
-      ]
+      ],
+      "name": "Copano Rickey",
+      "text": "Trainer, if we just let it go, it could become dangerous! We \nshould stop them before they start!"
     },
     {
       "name": "Copano Rickey",
@@ -67,12 +67,12 @@
       "text": "There were no disqualifications or accidents but…… \njust as Copano Rickey predicted, the race was pretty chaotic."
     },
     {
-      "name": "Copano Rickey",
-      "text": "Fuu……I'm glad nothing serious happened. \nHopefully, it stays like this.",
       "choice_data_list": [
         "But, how did you know? Intuition?",
         "But, how did you know? Intuition?"
-      ]
+      ],
+      "name": "Copano Rickey",
+      "text": "Fuu……I'm glad nothing serious happened. \nHopefully, it stays like this."
     },
     {
       "name": "Copano Rickey",
@@ -103,11 +103,11 @@
       "text": "-What someone attuned to Feng Shui like me can see. No, not just \nme, if you understand Feng Shui, anyone could notice and help \nprevent this from happening."
     },
     {
-      "name": "Copano Rickey",
-      "text": "Feng Shui isn't something occult. It's the result \nof 3000 years of accumulation and refinement of \n\"The Science of Environmental Fortune\".",
       "choice_data_list": [
         "\"The Science of Environmental Fortune\"……"
-      ]
+      ],
+      "name": "Copano Rickey",
+      "text": "Feng Shui isn't something occult. It's the result \nof 3000 years of accumulation and refinement of \n\"The Science of Environmental Fortune\"."
     },
     {
       "text": "I thought she was just an Uma Musume that was in to the occult, \nbut it seems I was mistaken. She could make proper predictions \nbacked with supporting evidence."
@@ -116,12 +116,12 @@
       "text": "The Feng Shui Uma Musume, Copano Rickey. Compared to my first \nimpression of her, it seemed like she was an upright Uma Musume \nwith an immeasurable hidden potential."
     },
     {
-      "name": "Copano Rickey",
-      "text": "See? Now you understand the greatness of Feng Shui, right!? Being \nable to see the future! 『Together we'll spread this knowledge!』, \nthat's what you're thinking, right!?",
       "choice_data_list": [
         "No, it's a little soon for that……",
         "No, it's a little soon for that……"
-      ]
+      ],
+      "name": "Copano Rickey",
+      "text": "See? Now you understand the greatness of Feng Shui, right!? Being \nable to see the future! 『Together we'll spread this knowledge!』, \nthat's what you're thinking, right!?"
     },
     {
       "name": "Copano Rickey",
@@ -190,12 +190,12 @@
       "text": "You can't keep going on about Feng Shui this, and Feng Shui that. \nYou need to open your eyes, and do your training properly!"
     },
     {
-      "name": "Copano Rickey",
-      "text": "Oh, Tarumae…… \nYou were watching that race just now……",
       "choice_data_list": [
         "Um, you are……",
         "Um, you are……"
-      ]
+      ],
+      "name": "Copano Rickey",
+      "text": "Oh, Tarumae…… \nYou were watching that race just now……"
     },
     {
       "name": "Hokko Tarumae",

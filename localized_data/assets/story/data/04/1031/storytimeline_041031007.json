@@ -13,11 +13,11 @@
       "text": "…… Lil' Ines? It really is, knew I recognized you!"
     },
     {
-      "name": "Ines Fujin",
-      "text": "<i>Hueeh!?</i> \nIs that you, Mister Beach?!",
       "choice_data_list": [
         "Someone you know?"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "<i>Hueeh!?</i> \nIs that you, Mister Beach?!"
     },
     {
       "name": "Ines Fujin",
@@ -51,11 +51,11 @@
       "text": "It's ain't like this most days, but when the summer festival \nrolls 'round there's always a big increase in customers…"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Makes sense～……",
       "choice_data_list": [
         "You're thinking of helping."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Makes sense～……"
     },
     {
       "name": "Ines Fujin",
@@ -82,18 +82,18 @@
       "text": "I have your grilled carrot and tropical drink right here. Enjoy～!"
     },
     {
-      "name": "Man A",
-      "text": "Excuse me! I'd like to order!",
       "choice_data_list": [
         "C-Coming!"
-      ]
+      ],
+      "name": "Man A",
+      "text": "Excuse me! I'd like to order!"
     },
     {
-      "name": "Young Woman A",
-      "text": "Where's the Blue Hawaii I ordered?",
       "choice_data_list": [
         "I'm sorry! Just a minute please!"
-      ]
+      ],
+      "name": "Young Woman A",
+      "text": "Where's the Blue Hawaii I ordered?"
     },
     {
       "name": "Beach Bar Owner",
@@ -108,20 +108,20 @@
       "text": "Don't worry! I know you're starting to, but give it a bit."
     },
     {
-      "name": "Ines Fujin",
-      "text": "It might not be immediately clear, \nbut my trainer can be quite reliable♪",
       "choice_data_list": [
         "(Ines……!)"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "It might not be immediately clear, \nbut my trainer can be quite reliable♪"
     },
     {
       "text": "I thought to myself that I had to live up to her expectations \nno matter what and returned direction kitchen."
     },
     {
-      "text": "By the time of the summer festival —",
       "choice_data_list": [
         "Here you go, one ramen set!"
-      ]
+      ],
+      "text": "By the time of the summer festival —"
     },
     {
       "name": "Young Woman B",
@@ -148,29 +148,29 @@
       "text": "Okay! Let's go, Trainer!"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Mmmm～! I love having a honey drink after work～♪",
       "choice_data_list": [
         "Good work, Ines."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Mmmm～! I love having a honey drink after work～♪"
     },
     {
-      "name": "Ines Fujin",
-      "text": "You too♪ \nThanks for coming with me!",
       "choice_data_list": [
         "I thought you were about to run \noff to help on your own at first."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "You too♪ \nThanks for coming with me!"
     },
     {
       "name": "Ines Fujin",
       "text": "Mmm. I think I would have, before."
     },
     {
-      "name": "Ines Fujin",
-      "text": "You always seemed kind of a klutz and in need of help \nmore often than helping, you know?",
       "choice_data_list": [
         "R-Really…"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "You always seemed kind of a klutz and in need of help \nmore often than helping, you know?"
     },
     {
       "name": "Ines Fujin",
@@ -181,18 +181,18 @@
       "text": "You don't always look it, but I know you're someone \nwho can do it when you put your mind to it, Trainer!"
     },
     {
-      "name": "Ines Fujin",
-      "text": "That's why I felt I could rely on you a little today. \nWasn't wrong, was I?",
       "choice_data_list": [
         "You bet!"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "That's why I felt I could rely on you a little today. \nWasn't wrong, was I?"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Aah, and you were so unreliable when we first met～ \nReally, where's all that gone?",
       "choice_data_list": [
         "I want you to be able to count on me, \nand run to your heart's content."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Aah, and you were so unreliable when we first met～ \nReally, where's all that gone?"
     },
     {
       "name": "Ines Fujin",
@@ -203,12 +203,12 @@
       "text": "I see……"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Oh what a siiight! \nThere's fireworks all over the sky!",
       "choice_data_list": [
         "It's beautiful.",
         "It's beautiful."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Oh what a siiight! \nThere's fireworks all over the sky!"
     },
     {
       "name": "Ines Fujin",
@@ -219,11 +219,11 @@
       "text": "But you know… if I had to do everything alone… \nI think I'd have been too busy to pay attention to \nsummer festivals and fireworks."
     },
     {
-      "name": "Ines Fujin",
-      "text": "Maybe summer festivals are fun and the fireworks so \nbeautiful because of a certain someone, hmm?",
       "choice_data_list": [
         "Ines……"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Maybe summer festivals are fun and the fireworks so \nbeautiful because of a certain someone, hmm?"
     },
     {
       "name": "Ines Fujin",
@@ -238,22 +238,22 @@
       "text": "If I'd known… I don't want it to end like this…… \nI wish I'd never met you……!"
     },
     {
-      "name": "Ines Fujin",
-      "text": "…… Trainer?",
       "choice_data_list": [
         "It's nothing…… Thanks."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "…… Trainer?"
     },
     {
       "name": "Ines Fujin",
       "text": "Maan, look at your face! \nIf you're happy then smile, smile!"
     },
     {
-      "text": "Glad she met me… Having been told that, I need \nto become a more reliable trainer, for her.",
       "choice_data_list": [
         "Yeah! I'll keep working hard for yoy —",
         "Yeah! I'll keep working hard for yoy —"
-      ]
+      ],
+      "text": "Glad she met me… Having been told that, I need \nto become a more reliable trainer, for her."
     },
     {
       "name": "Ines Fujin",

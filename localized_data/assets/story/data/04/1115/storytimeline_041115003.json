@@ -12,12 +12,12 @@
       "text": "………So it's only to this level."
     },
     {
-      "name": "Orfevre",
-      "text": "It's too orthodox. It won't be useful like this. \nRevise it immediately. In a manner befitting of me.",
       "choice_data_list": [
         "……so make it more difficult?",
         "……so make it more difficult?"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "It's too orthodox. It won't be useful like this. \nRevise it immediately. In a manner befitting of me."
     },
     {
       "name": "Orfevre",
@@ -36,25 +36,25 @@
       "text": "Thus it falls to you to offer such a path to the \"King\". \nOne filled with every imaginable hardship. And then——"
     },
     {
-      "name": "Orfevre",
-      "text": "——The one to effortlessly overcome them all, will be me.",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "——The one to effortlessly overcome them all, will be me."
     },
     {
-      "text": "She was able to help me change my perspective. Her desire for \nstrength was much more intense and genuine than I imagined.",
       "choice_data_list": [
         "I'll fix it. Give me 10 minutes…!",
         "I'll fix it. Give me 10 minutes…!"
-      ]
+      ],
+      "text": "She was able to help me change my perspective. Her desire for \nstrength was much more intense and genuine than I imagined."
     },
     {
-      "name": "Orfevre",
-      "text": "——………Good work. \nAn acceptable speed of revision. We will use this as a basis.",
       "choice_data_list": [
         "T-thank you!"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "——………Good work. \nAn acceptable speed of revision. We will use this as a basis."
     },
     {
       "name": "Orfevre",
@@ -91,23 +91,23 @@
       "text": "Due to the efforts of her vassals, \nthe training progressed smoothly. However——"
     },
     {
-      "name": "Orfevre",
-      "text": "If you have something to say, then say it.",
       "choice_data_list": [
         "……They really are vassals, huh?",
         "……They really are vassals, huh?"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "If you have something to say, then say it."
     },
     {
       "name": "Orfevre",
       "text": "Indeed. ……I am a \"King\". \nOne whose splendor cannot be suppressed, even by the heavens."
     },
     {
-      "name": "Orfevre",
-      "text": "As such, to bask in that radiance, it is natural for vassals to gather. \n……It is only logical.",
       "choice_data_list": [
         "I-I suppose……?"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "As such, to bask in that radiance, it is natural for vassals to gather. \n……It is only logical."
     },
     {
       "text": "Orfevre earnestly continued her rigorous training. \nAt the end, she proposed a mock race to evaluate today's results——"
@@ -132,10 +132,10 @@
       "text": "Following my instructions, Orfevre's vassals moved to \nblock her path. There was no hesitation in their movements."
     },
     {
-      "text": "Orfevre's speed and power were overwhelming. However, there \nwould be times when she could not fully utilize that strength——",
       "choice_data_list": [
         "(We need to account for that……!)"
-      ]
+      ],
+      "text": "Orfevre's speed and power were overwhelming. However, there \nwould be times when she could not fully utilize that strength——"
     },
     {
       "name": "Orfevre",
@@ -153,10 +153,10 @@
       "text": "————Ooooooooh!!!"
     },
     {
-      "text": "Orfevre accelerates, as if to clear the \"wall\" from the \noutside. Her run was strong, an unwavering ray of light——",
       "choice_data_list": [
         "(She really is dazzling————)"
-      ]
+      ],
+      "text": "Orfevre accelerates, as if to clear the \"wall\" from the \noutside. Her run was strong, an unwavering ray of light——"
     },
     {
       "name": "Orfevre",
@@ -194,11 +194,11 @@
       "text": "——All of you, continue to strive forth. All of that strength \nthat you cultivate will also become the root of my own."
     },
     {
-      "name": "Orfevre",
-      "text": "And then I will prove it. A true \"King\" is one \nthat turns all obstacles to dust and reigns supreme.",
       "choice_data_list": [
         "(To bask in that radiance……is it?)"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "And then I will prove it. A true \"King\" is one \nthat turns all obstacles to dust and reigns supreme."
     },
     {
       "text": "……She was not someone defined by talent alone. She is a \"King\" \nbecause she yearns for greater heights than anyone else."
@@ -207,31 +207,31 @@
       "text": "And those dazzled by the sight of her aiming for such \nheights……can't help but dream and aspire to it too."
     },
     {
-      "text": "Orfevre would live up to that admiration without fail. \nBecause that is what it means to be \"King\".",
       "choice_data_list": [
         "(I want to see it. This \"King's\" reign——)"
-      ]
+      ],
+      "text": "Orfevre would live up to that admiration without fail. \nBecause that is what it means to be \"King\"."
     },
     {
-      "text": "That strong emotion welled within me. \nI want……to become the \"King's\" strength too.",
       "choice_data_list": [
         "————Orfevre!"
-      ]
+      ],
+      "text": "That strong emotion welled within me. \nI want……to become the \"King's\" strength too."
     },
     {
-      "name": "Orfevre",
-      "text": "………What is it?",
       "choice_data_list": [
         "I… want to form a contract!!",
         "I… want to form a contract!!"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "………What is it?"
     },
     {
-      "name": "Orfevre",
-      "text": "………—— \n……The you right now does not have that qualification.",
       "choice_data_list": [
         "!!"
-      ]
+      ],
+      "name": "Orfevre",
+      "text": "………—— \n……The you right now does not have that qualification."
     },
     {
       "name": "Orfevre",
@@ -241,10 +241,10 @@
       "text": "……My faint hopes that 『I could be chosen』 were crushed instantly."
     },
     {
-      "text": "————However, I won't give up. It was already burned in to my eyes. \nThe once-in-a-lifetime radiance of the Uma Musume known as Orfevre.",
       "choice_data_list": [
         "(Think……just think——)"
-      ]
+      ],
+      "text": "————However, I won't give up. It was already burned in to my eyes. \nThe once-in-a-lifetime radiance of the Uma Musume known as Orfevre."
     },
     {
       "text": "Just what kind of person would a \"King\" choose? \nWhat is it that I am currently lacking?"

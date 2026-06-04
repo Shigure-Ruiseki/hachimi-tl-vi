@@ -42,12 +42,12 @@
       "text": "Though, this is only on the condition \nthat you are not already overworked. \nMay I ask about your condition?"
     },
     {
-      "name": "Stay Gold",
-      "text": "That's not the case at all right? Trainer?",
       "choice_data_list": [
         "No worries, I'll see you later!",
         "Nah, you should rest today"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "That's not the case at all right? Trainer?"
     },
     {
       "name": "Stay Gold",

@@ -5,23 +5,23 @@
       "text": "One day, while I was having tea \ntogether with Bubble Gum Fellow――"
     },
     {
-      "name": "Bubble Gum Fellow",
-      "text": "Trainer-san, did you hear? I heard that a Racing \nProfessor is coming from America to give a lecture.",
       "choice_data_list": [
         "Yeah! That's something remarkable.",
         "Yeah! That's something remarkable."
-      ]
+      ],
+      "name": "Bubble Gum Fellow",
+      "text": "Trainer-san, did you hear? I heard that a Racing \nProfessor is coming from America to give a lecture."
     },
     {
       "name": "Bubble Gum Fellow",
       "text": "I have all of his books, you see. Even if it's through an \ninterpreter, I'm really looking forward to hearing it in person!"
     },
     {
-      "name": "Bubble Gum Fellow",
-      "text": "It seems like it's open to anyone who wants to hear it, \nwhether they're a trainer or a student. Are you going too?",
       "choice_data_list": [
         "Of course!"
-      ]
+      ],
+      "name": "Bubble Gum Fellow",
+      "text": "It seems like it's open to anyone who wants to hear it, \nwhether they're a trainer or a student. Are you going too?"
     },
     {
       "name": "Student Council A",
@@ -44,12 +44,12 @@
       "text": "And, it sounds like you haven't found a replacement, yet."
     },
     {
-      "name": "Bubble Gum Fellow",
-      "text": "……Then, I'll do it!",
       "choice_data_list": [
         "Eh……!? You can do it!?",
         "Eh……!? You can do it!?"
-      ]
+      ],
+      "name": "Bubble Gum Fellow",
+      "text": "……Then, I'll do it!"
     },
     {
       "name": "Bubble Gum Fellow",
@@ -67,12 +67,12 @@
       "text": "From that day on, Bubble Gum Fellow studied hard. \nAt the very least, I had to offer what support I could――"
     },
     {
-      "name": "Bubble Gum Fellow",
-      "text": "These are all the books in his original language, right?",
       "choice_data_list": [
         "Original language. Seems tough……",
         "Original language. Seems tough……"
-      ]
+      ],
+      "name": "Bubble Gum Fellow",
+      "text": "These are all the books in his original language, right?"
     },
     {
       "name": "Bubble Gum Fellow",
@@ -87,18 +87,18 @@
       "text": "――Yeah. I think I'm able to understand the technical terms."
     },
     {
-      "text": "She was studying hard after training today too. \nI prepared something light to help relieve her fatigue.",
       "choice_data_list": [
         "Good work, how about a short break?",
         "Good work, how about a short break?"
-      ]
+      ],
+      "text": "She was studying hard after training today too. \nI prepared something light to help relieve her fatigue."
     },
     {
-      "name": "Bubble Gum Fellow",
-      "text": "Yeah, okay. ……Fufu, it's a bunch of my favorite \nsnacks, huh!? Thank you, Trainer-san.",
       "choice_data_list": [
         "Will you be ready for the lecture?"
-      ]
+      ],
+      "name": "Bubble Gum Fellow",
+      "text": "Yeah, okay. ……Fufu, it's a bunch of my favorite \nsnacks, huh!? Thank you, Trainer-san."
     },
     {
       "name": "Bubble Gum Fellow",
@@ -136,22 +136,22 @@
       "text": "Bubble-san is amazing……! Her interpretation is perfect, \nisn't it……!? She's asking what I want to ask too! It really \nis something we can try starting tomorrow～!"
     },
     {
-      "text": "Not only was Bubble Gum Fellow's English translation \nflawless, she was able to ask questions to truly dig \ndown in to what the Professor was saying.",
       "choice_data_list": [
         "(She really is amazing……!)",
         "(She really is amazing……!)"
-      ]
+      ],
+      "text": "Not only was Bubble Gum Fellow's English translation \nflawless, she was able to ask questions to truly dig \ndown in to what the Professor was saying."
     },
     {
       "text": "The guest lecture ended as a resounding success and \nthe attendees learned alot. Bubble Gum Fellow fulfilled \nthe role of interpreter as she had promised."
     },
     {
-      "name": "Bubble Gum Fellow",
-      "text": "Oh man, I was able to hear a bunch \nof really good things. That was fun～!",
       "choice_data_list": [
         "As expected of Bubble!",
         "As expected of Bubble!"
-      ]
+      ],
+      "name": "Bubble Gum Fellow",
+      "text": "Oh man, I was able to hear a bunch \nof really good things. That was fun～!"
     },
     {
       "name": "Bubble Gum Fellow",

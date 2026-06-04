@@ -5,12 +5,12 @@
       "text": "It had been a few days since I met Matikanefukukitaru ——"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Trainer! Excuse my interruption!",
       "choice_data_list": [
         "What's up?",
         "What's up?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Trainer! Excuse my interruption!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -21,11 +21,11 @@
       "text": "My horoscope did inform me that this period is \na terrifically important one to my development."
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Therefore, I am relying on your guidance, if you please!",
       "choice_data_list": [
         "<size=36>Do I have to remind you I'm not your trainer!?</size>"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Therefore, I am relying on your guidance, if you please!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -35,11 +35,11 @@
       "text": "Our exchange concluded with me being pushed \ninto accompanying her for training……"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "A m-mock race?! That is to be my training, a mock race?!",
       "choice_data_list": [
         "Well, you wanted to \"really get down\" to it."
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "A m-mock race?! That is to be my training, a mock race?!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -61,11 +61,11 @@
       "text": "Trainer called me here as your friend!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Not a chance in all nine hells! Taiki's in such a different league \nshe could be making her debut any day, you know!?",
       "choice_data_list": [
         "I thought you were listening to an expert?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Not a chance in all nine hells! Taiki's in such a different league \nshe could be making her debut any day, you know!?"
     },
     {
       "name": "Matikanefukukitaru",
@@ -114,12 +114,12 @@
       "text": "Nevertheless, I have the power of Great Luck at my side! \nFame and bettered fortune await me at the finish line～～～!!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "I looost!!",
       "choice_data_list": [
         "Well, so much for your Great Luck.",
         "Well, so much for your Great Luck."
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "I looost!!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -145,23 +145,23 @@
       "text": "<i>Funyakaaa～… Hanyakaaa～</i> \nReveal to me tonight's lucky course!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "… Oh, hm? If it isn't my trainer.",
       "choice_data_list": [
         "What are you up to here?",
         "What are you up to here?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "… Oh, hm? If it isn't my trainer."
     },
     {
       "name": "Matikanefukukitaru",
       "text": "I am planning on going running, so I was divining \nthe most appropriate course to use!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Divine Shiraoki would be very cross with me if I tried to gain \nfortune without expending any effort myself, after all!",
       "choice_data_list": [
         "Divine Shiraoki?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Divine Shiraoki would be very cross with me if I tried to gain \nfortune without expending any effort myself, after all!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -172,12 +172,12 @@
       "text": "She always guides me to the right path whenever I feel \nlost and anxious, as she did after my race with Taiki."
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "For me to even be here running is all thanks \nto my trust in her and the powers of divination. \nTruly, I am not worthy～",
       "choice_data_list": [
         "I can tell she's extremely important to you.",
         "I can tell she's extremely important to you."
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "For me to even be here running is all thanks \nto my trust in her and the powers of divination. \nTruly, I am not worthy～"
     },
     {
       "name": "Matikanefukukitaru",

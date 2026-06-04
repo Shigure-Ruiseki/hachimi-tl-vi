@@ -37,16 +37,16 @@
       "text": "Can I do anything? Anything at all…"
     },
     {
-      "text": "Something that I can do… \nI wonder, is there anything like that?",
-      "name": "Cheval Grand"
+      "name": "Cheval Grand",
+      "text": "Something that I can do… \nI wonder, is there anything like that?"
     },
     {
       "name": "Cheval Grand",
       "text": "(Maybe I should ask the trainer directly, just like what that girl from earlier did.)"
     },
     {
-      "text": "…And yet, I don't have anything to complain about…",
-      "name": "Cheval Grand"
+      "name": "Cheval Grand",
+      "text": "…And yet, I don't have anything to complain about…"
     },
     {
       "name": "Cheval Grand",
@@ -92,20 +92,20 @@
       "text": "—It's been quite some time since I had a day off, so I've been spending it leisurely at a cafe."
     },
     {
-      "text": "Atop my table was a training textbook, as well as records of Cheval Grand's growth.",
       "choice_data_list": [
         "This is a nice change of pace…"
-      ]
+      ],
+      "text": "Atop my table was a training textbook, as well as records of Cheval Grand's growth."
     },
     {
       "text": "This change in scenery is enough to lift my mood. Feeling refreshed, I was about to write down a new training menu for Cheval, when—"
     },
     {
-      "name": "Cheval Grand",
-      "text": "T-trainer… hello…",
       "choice_data_list": [
         "Hm? Cheval?"
-      ]
+      ],
+      "name": "Cheval Grand",
+      "text": "T-trainer… hello…"
     },
     {
       "name": "Cheval Grand",
@@ -123,11 +123,11 @@
       "text": "That said, is it… a new training menu, for me?"
     },
     {
-      "text": "Now that she said it, this is still work isn't it. \nI was enjoying it so much, I almost forgot that.",
       "choice_data_list": [
         "I need to tailor this menu just for you.",
         "I need to tailor this menu just for you."
-      ]
+      ],
+      "text": "Now that she said it, this is still work isn't it. \nI was enjoying it so much, I almost forgot that."
     },
     {
       "text": "Since Cheval's been growing stronger, I have to keep changing the menu to keep up with her growth."
@@ -165,11 +165,11 @@
       "text": "(No, something like that is irrelevant. \nBut… if they were to get near them, with how sparkling and dazzling they are…)"
     },
     {
-      "text": "(If that happened… I wouldn't… even be able to compare to them…)",
       "choice_data_list": [
         "Cheval? Cheval you there?"
       ],
-      "name": "Cheval Grand"
+      "name": "Cheval Grand",
+      "text": "(If that happened… I wouldn't… even be able to compare to them…)"
     },
     {
       "name": "Cheval Grand",
@@ -184,21 +184,21 @@
       "text": "…T-trainer. \nYou should be resting… on your day off."
     },
     {
-      "name": "Cheval Grand",
-      "text": "Aren't you… tired?",
       "choice_data_list": [
         "Nope, I'm having fun right now…"
-      ]
+      ],
+      "name": "Cheval Grand",
+      "text": "Aren't you… tired?"
     },
     {
       "name": "Cheval Grand",
       "text": "…Huh?"
     },
     {
-      "text": "At first I thought I'd keep my personal and work life balanced, but I just can't stop thinking about training.",
       "choice_data_list": [
         "I got it! If you're okay with it—"
-      ]
+      ],
+      "text": "At first I thought I'd keep my personal and work life balanced, but I just can't stop thinking about training."
     },
     {
       "text": "I also wanted to ask her for her opinion. So I prompted her to take a seat if she had the time to spare."
@@ -212,11 +212,11 @@
       "text": "(…They're going through all of this because of me, and yet…)"
     },
     {
-      "name": "Cheval Grand",
-      "text": "(They're still having fun?)",
       "choice_data_list": [
         "Okay, so if we go with this—"
-      ]
+      ],
+      "name": "Cheval Grand",
+      "text": "(They're still having fun?)"
     },
     {
       "name": "Cheval Grand",

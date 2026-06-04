@@ -68,11 +68,11 @@
       "text": "Would you <i>please</i> make up your mind?"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Good morning, everyone.",
       "choice_data_list": [
         "Morning, McQueen."
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Good morning, everyone."
     },
     {
       "name": "Trainee with Straight-cut Bangs",
@@ -180,11 +180,11 @@
       "text": "Hm? Please don't force yourselves…"
     },
     {
-      "name": "Trainee with Straight-cut Bangs",
-      "text": "Nah, it's fine! Seeing you run gives us the power!",
       "choice_data_list": [
         "All right, just a bit more."
-      ]
+      ],
+      "name": "Trainee with Straight-cut Bangs",
+      "text": "Nah, it's fine! Seeing you run gives us the power!"
     },
     {
       "name": "Mejiro McQueen",

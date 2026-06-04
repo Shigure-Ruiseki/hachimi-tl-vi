@@ -5,11 +5,11 @@
       "text": "I love races."
     },
     {
-      "name": "Caster",
-      "text": "――And the lead changes! It's Symboli Rudolf! She's \nahead by a length! Will this be her 8th consecutive \nwin, obtaining the Triple Crown while undefeated!?",
       "choice_data_list": [
         "Go……do your best……!"
-      ]
+      ],
+      "name": "Caster",
+      "text": "――And the lead changes! It's Symboli Rudolf! She's \nahead by a length! Will this be her 8th consecutive \nwin, obtaining the Triple Crown while undefeated!?"
     },
     {
       "text": "I love races where them just running gets my \nblood pumping. I love races where the Uma Musume \npour their all in to chasing their dreams."
@@ -23,11 +23,11 @@
       "text": "――Symboli Rudolf……crosses the goal! An undefeated \nTriple Crown Uma Musume, now! Right here, has been born!"
     },
     {
-      "text": "The whole world changes in an instant after crossing the goal. \nRecords and memories woven together in to a drama――",
       "choice_data_list": [
         "I really love races……!",
         "I really love races……!"
-      ]
+      ],
+      "text": "The whole world changes in an instant after crossing the goal. \nRecords and memories woven together in to a drama――"
     },
     {
       "name": "Director Akikawa",
@@ -50,45 +50,45 @@
       "text": "As a result! There has been an increase in the \nnumber of Uma Musume who aspire to race, making \nthe role of trainer more and more important!"
     },
     {
-      "name": "Director Akikawa",
-      "text": "Therefore, I have high expectations! As trainers, \nI'd like you to support the futures of each student! \nTo further stir up the racing world!",
       "choice_data_list": [
         "Understood!"
-      ]
+      ],
+      "name": "Director Akikawa",
+      "text": "Therefore, I have high expectations! As trainers, \nI'd like you to support the futures of each student! \nTo further stir up the racing world!"
     },
     {
-      "name": "Senpai Trainer",
-      "text": "Hmmmmmm~! So you saw each of Symboli Rudolf's Triple Crown \nraces in person, huh? I couldn't see them because of work.",
       "choice_data_list": [
         "It was amazing! You see――"
-      ]
+      ],
+      "name": "Senpai Trainer",
+      "text": "Hmmmmmm~! So you saw each of Symboli Rudolf's Triple Crown \nraces in person, huh? I couldn't see them because of work."
     },
     {
-      "text": "The memories of that day overflowed, and the excitement was \nobvious in my voice. The enthusiasm of the Uma Musume and the \nexcitement and expectations of the crowd……it was unforgettable",
       "choice_data_list": [
         "――So, races are really the best!"
-      ]
+      ],
+      "text": "The memories of that day overflowed, and the excitement was \nobvious in my voice. The enthusiasm of the Uma Musume and the \nexcitement and expectations of the crowd……it was unforgettable"
     },
     {
-      "name": "Senpai Trainer",
-      "text": "I see, I see. \nYou really like races don't you?",
       "choice_data_list": [
         "Yeah, alot!"
-      ]
+      ],
+      "name": "Senpai Trainer",
+      "text": "I see, I see. \nYou really like races don't you?"
     },
     {
-      "name": "Senpai Trainer",
-      "text": "Hahaa, how honest. With that much enthusiasm, it'd be great \nif you could raise the next Triple Crown Uma Musume, huh?",
       "choice_data_list": [
         "……Well, considering the racing world――"
-      ]
+      ],
+      "name": "Senpai Trainer",
+      "text": "Hahaa, how honest. With that much enthusiasm, it'd be great \nif you could raise the next Triple Crown Uma Musume, huh?"
     },
     {
-      "name": "Senpai Trainer",
-      "text": "Hm?",
       "choice_data_list": [
         "\"First Ever\" has a nice ring to it."
-      ]
+      ],
+      "name": "Senpai Trainer",
+      "text": "Hm?"
     },
     {
       "name": "Senpai Trainer",
@@ -98,10 +98,10 @@
       "text": "There were already several Classic Triple Crown Uma \nMusume. However, in this country, there was still \nanother Classic Crown that nobody had achieved yet."
     },
     {
-      "text": "『Oka Sho』 『Oaks』 『Shuuka Sho』…… \nThe Crown for the winner of these three races――",
       "choice_data_list": [
         "The Triple Tiara……!"
-      ]
+      ],
+      "text": "『Oka Sho』 『Oaks』 『Shuuka Sho』…… \nThe Crown for the winner of these three races――"
     },
     {
       "name": "???",
@@ -115,10 +115,10 @@
       "text": "……"
     },
     {
-      "text": "She had appeared suddenly, and the atmosphere changed \nimmediately. Her eyes had a mysterious color――",
       "choice_data_list": [
         "(I can't take my eyes off her……)"
-      ]
+      ],
+      "text": "She had appeared suddenly, and the atmosphere changed \nimmediately. Her eyes had a mysterious color――"
     },
     {
       "name": "???",
@@ -129,20 +129,20 @@
       "text": "Then, you need to hurry. \nBefore someone else……gets their hands on it."
     },
     {
-      "name": "Senpai Trainer",
-      "text": "…………………… Ha……! \nM-Mejiro Ramonu……",
       "choice_data_list": [
         "Then, she's from……"
-      ]
+      ],
+      "name": "Senpai Trainer",
+      "text": "…………………… Ha……! \nM-Mejiro Ramonu……"
     },
     {
       "text": "Famous in the racing world, the Mejiro family…… One after another, \nmany strong Uma Musume bearing the name Mejiro have appeared."
     },
     {
-      "text": "And she was someone from that Mejiro family. They rarely \nran in front of other people, and amongst the trainers, \ntheir true ability was a mystery. There were rumors though――",
       "choice_data_list": [
         "(That they were super strong……)"
-      ]
+      ],
+      "text": "And she was someone from that Mejiro family. They rarely \nran in front of other people, and amongst the trainers, \ntheir true ability was a mystery. There were rumors though――"
     },
     {
       "text": "That mysterious aura and her cryptic words remained in my mind…… \nNow I was interested in just how she would run."

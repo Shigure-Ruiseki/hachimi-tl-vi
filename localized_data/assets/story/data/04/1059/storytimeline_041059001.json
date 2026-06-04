@@ -9,11 +9,11 @@
       "text": "Nice to meet you, Trainer <username>. \nI'm the Chief Trainer of the team that you've joined."
     },
     {
-      "name": "Chief Trainer",
-      "text": "As you can see, I've gotten quite old. The time I'll have to \nspend teaching you might be short but…… sub-trainer, I look \nforward to working with you.",
       "choice_data_list": [
         "Yes! I look forward to working with you!"
-      ]
+      ],
+      "name": "Chief Trainer",
+      "text": "As you can see, I've gotten quite old. The time I'll have to \nspend teaching you might be short but…… sub-trainer, I look \nforward to working with you."
     },
     {
       "name": "Chief Trainer",
@@ -95,11 +95,11 @@
       "text": "Haa, haa, haa…… Haaaaaaaaaa!!"
     },
     {
-      "name": "Air Groove",
-      "text": "……! Fu, not bad……!!",
       "choice_data_list": [
         "(That acceleration just now……!)"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "……! Fu, not bad……!!"
     },
     {
       "text": "Using her whole body, built up from physical training, she was \nable to show such wonderful speed. I could feel the innate \ntalent. However, that's not all――"
@@ -109,11 +109,11 @@
       "text": "Not yet, not yeeeeet!! \n――Aaaaaaaaaaah!!"
     },
     {
-      "text": "To the end, never giving up, pushing further and \nfurther forward with the determination to win. That \nstrong will left a striking impression……!",
       "choice_data_list": [
         "(Mejiro Dober…… is amazing……!)",
         "(Mejiro Dober…… is amazing……!)"
-      ]
+      ],
+      "text": "To the end, never giving up, pushing further and \nfurther forward with the determination to win. That \nstrong will left a striking impression……!"
     },
     {
       "name": "Mejiro Dober",
@@ -140,11 +140,11 @@
       "text": "I'm still far, far too weak… but if it looks like I've gotten \neven a little bit stronger, that's all because of Trainer."
     },
     {
-      "name": "Chief Trainer",
-      "text": "Yes, yes! Bell-can, that was a really good run, wasn't it?",
       "choice_data_list": [
         "It was……!!"
-      ]
+      ],
+      "name": "Chief Trainer",
+      "text": "Yes, yes! Bell-can, that was a really good run, wasn't it?"
     },
     {
       "name": "Chief Trainer",
@@ -171,11 +171,11 @@
       "text": "Okay, thank you very much. I'll be off!"
     },
     {
-      "name": "Chief Trainer",
-      "text": "……alright, shall we get to the clean up work then?",
       "choice_data_list": [
         "Yes"
-      ]
+      ],
+      "name": "Chief Trainer",
+      "text": "……alright, shall we get to the clean up work then?"
     },
     {
       "text": "That day, I couldn't stop thinking about Mejiro Dober's \namazing running while I was helping Chief Trainer……"

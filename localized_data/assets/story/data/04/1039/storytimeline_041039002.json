@@ -6,19 +6,19 @@
       "text": "Okay, that's it for this forum! We're making a huge progress!"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "But are you really fine with this? I mean, I almost \nran you over, and now you're helping me.",
       "choice_data_list": [
         "I was careless too.",
         "I was careless too."
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "But are you really fine with this? I mean, I almost \nran you over, and now you're helping me."
     },
     {
-      "name": "Kawakami Princess",
-      "text": "Oh, how kind you are! If I had ran to you, \nI would have put a hole on you, instead of the wall!",
       "choice_data_list": [
         "(…… Wouldn't like that!)"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "Oh, how kind you are! If I had ran to you, \nI would have put a hole on you, instead of the wall!"
     },
     {
       "text": "Afterwards, I received a polite apology from Kawakami Princess \nfor almost bumping into me."
@@ -31,18 +31,18 @@
       "text": "Anyway, the training center is a very big place. It's tiring to go \naround every single location even for a princess like me."
     },
     {
-      "text": "I have been wondering about this for a while now. \nWhat exactly is this \"princess\" she calls herself?",
       "choice_data_list": [
         "Are you a princess?",
         "Are you a princess?"
-      ]
+      ],
+      "text": "I have been wondering about this for a while now. \nWhat exactly is this \"princess\" she calls herself?"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "Oh, couldn't you tell? Yes, I am a princess. \nIn other words, I'm a Princess Fighter!",
       "choice_data_list": [
         "Huh???"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "Oh, couldn't you tell? Yes, I am a princess. \nIn other words, I'm a Princess Fighter!"
     },
     {
       "name": "Kawakami Princess",
@@ -69,11 +69,11 @@
       "text": "\"As a princess! Be gorgeous, be graceful, be brave!\""
     },
     {
-      "name": "Kawakami Princess",
-      "text": "Even a tomboy can be a princess! I came to Tracen Academy to \nbecome a strong and brave princess like Princess Fighter!",
       "choice_data_list": [
         "I see, Princess Fighter……"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "Even a tomboy can be a princess! I came to Tracen Academy to \nbecome a strong and brave princess like Princess Fighter!"
     },
     {
       "name": "Kawakami Princess",
@@ -88,12 +88,12 @@
       "text": "Dreams are something you decide for yourself, and you \nhave to reach them by yourself, right?"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "What does it matter if my goal is high or not! I will become \na princess like Princess Fighter!",
       "choice_data_list": [
         "That's great ……!",
         "That's great ……!"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "What does it matter if my goal is high or not! I will become \na princess like Princess Fighter!"
     },
     {
       "text": "I am impressed with her straight forward attitude. \nWith this conviction, I'm sure she's going to be strong—"
@@ -143,41 +143,41 @@
       "text": "…………"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "S……—",
       "choice_data_list": [
         "S……?"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "S……—"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "She's beautiful! She's perfect! Did you see that? \nThe way she carries herself!",
       "choice_data_list": [
         "(The same eyes when she talked about \nPrincess Fighter……!)"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "She's beautiful! She's perfect! Did you see that? \nThe way she carries herself!"
     },
     {
       "name": "Kawakami Princess",
       "text": "I've been thinking lately. I think that King-san is the closest to \nPrincess Fighter Uma Musume in this world……"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "Because, because, she's so perfect! \nBeautiful…… elegant…… and graceful……",
       "choice_data_list": [
         "You look up to her.",
         "You look up to her."
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "Because, because, she's so perfect! \nBeautiful…… elegant…… and graceful……"
     },
     {
       "name": "Kawakami Princess",
       "text": "Yeah! - Oh, my God! Ever since I first came to this \nschool and saw King-san, I've been looking up to her!"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "King-san is always so noble and imposing, and her \nmannerisms are so, you know…",
       "choice_data_list": [
         "Elegant?"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "King-san is always so noble and imposing, and her \nmannerisms are so, you know…"
     },
     {
       "name": "Kawakami Princess",

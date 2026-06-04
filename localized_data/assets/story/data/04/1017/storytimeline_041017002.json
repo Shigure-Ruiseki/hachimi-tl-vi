@@ -13,23 +13,23 @@
       "text": "The day after Symboli Rudolf had assigned \nme this task, I found myself deep in thought, \npondering my next move, when ——"
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "Oh… what a coincidence. Is this seat opposite you taken?",
       "choice_data_list": [
         "Go ahead."
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "Oh… what a coincidence. Is this seat opposite you taken?"
     },
     {
       "name": "Symboli Rudolf",
       "text": "Great. It starts to get crowded around this time, \nand I'd like to leave some seats available at least."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "By the way… I couldn't help but notice you seem \na bit troubled. Is there something on your mind?",
       "choice_data_list": [
         "<size=32>I've been thinking about what you said to me…</size>",
         "<size=32>I've been thinking about what you said to me…</size>"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "By the way… I couldn't help but notice you seem \na bit troubled. Is there something on your mind?"
     },
     {
       "name": "Symboli Rudolf",
@@ -48,24 +48,24 @@
       "text": "Carbohydrates provide energy for the brain, and fruits, \nvegetables, and whole grains can enhance mental focus."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "Looking at today's menu… \nI'd recommend the seasonal fruit salad.",
       "choice_data_list": [
         "You know your stuff…!",
         "You know your stuff…!"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "Looking at today's menu… \nI'd recommend the seasonal fruit salad."
     },
     {
       "name": "Symboli Rudolf",
       "text": "Whoops… speaking to a professional trainer, \nperhaps I'm simply \"watering the ocean\"."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "These things are often on my mind… It would seem that has \ncaused me to talk on about them inadvertently.",
       "choice_data_list": [
         "Are you always that attentive to it?",
         "Are you always that attentive to it?"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "These things are often on my mind… It would seem that has \ncaused me to talk on about them inadvertently."
     },
     {
       "name": "Symboli Rudolf",
@@ -80,12 +80,12 @@
       "text": "Of course, this concerns not only food. \nIn all aspects of daily life I strive to discover \nand appreciate deeper meanings."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "Maintaining a broad perspective allows every aspect of life \nto become a driving force. It's an essential attitude to hold \nif I want to reach the great heights of my ambitions.",
       "choice_data_list": [
         "That's impressive…",
         "That's impressive…"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "Maintaining a broad perspective allows every aspect of life \nto become a driving force. It's an essential attitude to hold \nif I want to reach the great heights of my ambitions."
     },
     {
       "name": "Symboli Rudolf",
@@ -123,12 +123,12 @@
       "text": "However, I seem to come off as intimidating or overly serious."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "If only I could initiate lighthearted and witty \nconversations that entertain everyone ——",
       "choice_data_list": [
         "How about we practice having \nthat kind of conversation?",
         "How about we practice having \nthat kind of conversation?"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "If only I could initiate lighthearted and witty \nconversations that entertain everyone ——"
     },
     {
       "name": "Symboli Rudolf",
@@ -147,12 +147,12 @@
       "text": "Alright, it's worth a shot! Let's give it a try."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "If you don't mind, could you suggest a topic for conversation? \nAnything will do. Just something we can chat about naturally.",
       "choice_data_list": [
         "Do you have any hobbies besides running?",
         "Do you have any hobbies besides running?"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "If you don't mind, could you suggest a topic for conversation? \nAnything will do. Just something we can chat about naturally."
     },
     {
       "name": "Symboli Rudolf",
@@ -167,11 +167,11 @@
       "text": "Constantly assessing the battlefield, deciphering the \nopponent's thoughts, and planning each move towards \na desired future — it's like a microcosm of life…"
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "…… Wait a minute, we're getting into \nserious territory again, aren't we?",
       "choice_data_list": [
         "Yeah……"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "…… Wait a minute, we're getting into \nserious territory again, aren't we?"
     },
     {
       "name": "Symboli Rudolf",
@@ -182,12 +182,12 @@
       "text": "… Oh, that reminds me! I have been looking into something in \nthe hope that it could be of assistance in some light table talk!"
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "Namely — jokes! A witty bit of humor \nthat can lighten the mood instantly!",
       "choice_data_list": [
         "I see! I'd love to hear one.",
         "I see! I'd love to hear one."
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "Namely — jokes! A witty bit of humor \nthat can lighten the mood instantly!"
     },
     {
       "name": "Symboli Rudolf",
@@ -202,11 +202,11 @@
       "text": "\"Woof-derful!\""
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "—— How was that, Trainer!?",
       "choice_data_list": [
         "…………"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "—— How was that, Trainer!?"
     },
     {
       "text": "I discovered an unexpected side of her, but… overall, I felt \nlike I had gained some insight into Symboli Rudolf."

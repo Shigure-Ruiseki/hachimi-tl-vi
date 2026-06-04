@@ -5,12 +5,12 @@
       "text": "It was a calm day in the early summer, \nshortly after a big race."
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "A break, is it?",
       "choice_data_list": [
         "Yeah. A chance to refresh!",
         "Yeah. A chance to refresh!"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "A break, is it?"
     },
     {
       "name": "Yaeno Muteki",
@@ -23,11 +23,11 @@
       "text": "The next day after school. \nI was passing by the training course on my way back――"
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "……Huuu. It was a worthwhile training session.",
       "choice_data_list": [
         "Huh!?"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "……Huuu. It was a worthwhile training session."
     },
     {
       "name": "Yaeno Muteki",
@@ -38,10 +38,10 @@
       "text": "I apologize, I understand I'm supposed to be taking a break! \nBut I just can't calm down unless I'm doing some training."
     },
     {
-      "text": "……Yaeno Muteki's straightforwardness was part of her charm \nand her strength. But I really want her to take a break now!",
       "choice_data_list": [
         "Anyways, no training during this break!"
-      ]
+      ],
+      "text": "……Yaeno Muteki's straightforwardness was part of her charm \nand her strength. But I really want her to take a break now!"
     },
     {
       "name": "Yaeno Muteki",
@@ -91,22 +91,22 @@
       "text": "126…… 127……"
     },
     {
-      "text": "Right, just like that, Yaeno Muteki \nwas devoting herself to training――",
       "choice_data_list": [
         "――Wait, eh!? It's really her!?"
-      ]
+      ],
+      "text": "Right, just like that, Yaeno Muteki \nwas devoting herself to training――"
     },
     {
       "name": "Yaeno Muteki",
       "text": "……Ah."
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "Wha-……what a coincidence, huh? \nWere you also taking a walk?",
       "choice_data_list": [
         "You were training just now, weren't you?",
         "You were training just now, weren't you?"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "Wha-……what a coincidence, huh? \nWere you also taking a walk?"
     },
     {
       "name": "Yaeno Muteki",
@@ -125,17 +125,17 @@
       "text": "This is a bit difficult to handle on my own…… \nHow should I put it? I panicked, since I felt \nthat if I had free time I should train……"
     },
     {
-      "text": "Was it because she couldn't train to her satisfaction \nor because she struggled with taking breaks? Maybe both?――\nShe hung her head in dejection.",
       "choice_data_list": [
         "……Alright, let's do some light training"
-      ]
+      ],
+      "text": "Was it because she couldn't train to her satisfaction \nor because she struggled with taking breaks? Maybe both?――\nShe hung her head in dejection."
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "B-but Trainer-dono, you felt there was \nsignificance in me taking a break……",
       "choice_data_list": [
         "I wasn't trying to completely stop you……"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "B-but Trainer-dono, you felt there was \nsignificance in me taking a break……"
     },
     {
       "name": "Yaeno Muteki",

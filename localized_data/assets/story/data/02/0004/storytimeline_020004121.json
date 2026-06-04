@@ -79,11 +79,11 @@
       "text": "…"
     },
     {
-      "name": "Narita Brian",
-      "text": "It's like Sis said — you really do put your racers first.",
       "choice_data_list": [
         "I'm with you to the end!"
-      ]
+      ],
+      "name": "Narita Brian",
+      "text": "It's like Sis said — you really do put your racers first."
     },
     {
       "name": "Narita Brian",
@@ -310,12 +310,12 @@
       "text": "Doesn't matter who I race against."
     },
     {
-      "name": "Narita Brian",
-      "text": "With all this support, I refuse to yield. Victory is mine.",
       "choice_data_list": [
         "Nothing left to do but win it!",
         "Nothing left to do but win it!"
-      ]
+      ],
+      "name": "Narita Brian",
+      "text": "With all this support, I refuse to yield. Victory is mine."
     },
     {
       "name": "Narita Brian",

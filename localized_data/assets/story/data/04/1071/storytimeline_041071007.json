@@ -25,11 +25,11 @@
       "text": "Oh… thank you for your consideration. There aren't any problems \nwith my physical condition but… let's see…"
     },
     {
-      "text": "It looks like Mejiro Ardan wants to participate but she doesn't \nwant anyone to worry about her. If that's the case―",
       "choice_data_list": [
         "Let's join. I'll be with you so it'll be okay",
         "Let's join. I'll be with you so it'll be okay"
-      ]
+      ],
+      "text": "It looks like Mejiro Ardan wants to participate but she doesn't \nwant anyone to worry about her. If that's the case―"
     },
     {
       "name": "Mejiro Ardan",
@@ -51,11 +51,11 @@
       "text": "KYAAAAA―――!!!! \n \nIYAAAA～～～～～!!!!"
     },
     {
-      "text": "We could hear loud screams coming from ahead in the darkness",
       "choice_data_list": [
         "Looks like everyone's having fun…",
         "Looks like everyone's having fun…"
-      ]
+      ],
+      "text": "We could hear loud screams coming from ahead in the darkness"
     },
     {
       "name": "Mejiro Ardan",
@@ -81,12 +81,12 @@
       "text": "It's good they're worried about Mejiro Ardan's condition but, they're \nnot really playing their part as a ghost. Like this, I'm wondering \nif she's enjoying it but―"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "Fufuu… tests of courage, are really interesting, aren't they? \nEveryone's so lively, I'm glad they invited me.",
       "choice_data_list": [
         "You look like you're having fun too",
         "You look like you're having fun too"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "Fufuu… tests of courage, are really interesting, aren't they? \nEveryone's so lively, I'm glad they invited me."
     },
     {
       "name": "Mejiro Ardan",
@@ -105,49 +105,49 @@
       "text": "A g-g-g-ghost?!"
     },
     {
-      "text": "Maybe it's because it's dark, but when I think back, it was \nsupposed to be a comedy but, it seemed to suddenly head \nin an ominous direction…",
       "choice_data_list": [
         "I-I'm starting to get a little nervous. Maybe…"
-      ]
+      ],
+      "text": "Maybe it's because it's dark, but when I think back, it was \nsupposed to be a comedy but, it seemed to suddenly head \nin an ominous direction…"
     },
     {
       "text": "…But, there was no response to those words. Mejiro Ardan, \nwho was supposed to be next to me, was nowhere to be seen."
     },
     {
-      "text": "I started walking quickly while looking around, but couldn't find her―",
       "choice_data_list": [
         "……Ardan?"
-      ]
+      ],
+      "text": "I started walking quickly while looking around, but couldn't find her―"
     },
     {
-      "name": "???",
-      "text": "-Waaa!!!!",
       "choice_data_list": [
         "Uwaaaaah!"
-      ]
+      ],
+      "name": "???",
+      "text": "-Waaa!!!!"
     },
     {
       "name": "Mejiro Ardan",
       "text": "Oh……! Fufuu, fufufufu, what a loud cry."
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "Fuu… I apologize for that. While we were talking, I thought it \nwould be fun to try being the ghost… so I couldn't help myself.",
       "choice_data_list": [
         "Next time, I'll be the one to scare you!",
         "Next time, I'll be the one to scare you!"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "Fuu… I apologize for that. While we were talking, I thought it \nwould be fun to try being the ghost… so I couldn't help myself."
     },
     {
       "name": "Mejiro Ardan",
       "text": "Oh my, then I look forward to seeing what you can do～"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "That was a very worthwhile event, wasn't it? \nIt's unfortunate we couldn't find any ghosts or that castle though.",
       "choice_data_list": [
         "I couldn't scare you either."
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "That was a very worthwhile event, wasn't it? \nIt's unfortunate we couldn't find any ghosts or that castle though."
     },
     {
       "name": "Mejiro Ardan",
@@ -158,11 +158,11 @@
       "text": "Returning to childhood… maybe that's the kind of thing \nthey're talking about. When I'm with Trainer-san, it feels \nlike I can relax a bit easier."
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "Fuu…",
       "choice_data_list": [
         "If you're tired, we can take a break."
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "Fuu…"
     },
     {
       "name": "Mejiro Ardan",
@@ -173,18 +173,18 @@
       "text": "…… \n \nNo, maybe it would be fine to take a little break, right?"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "There's training tomorrow after all… what should we do about \nthe menu? Today it seems like we're staying up a bit late…",
       "choice_data_list": [
         "Tomorrow, I plan to have you train hard."
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "There's training tomorrow after all… what should we do about \nthe menu? Today it seems like we're staying up a bit late…"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "……! Okay, I understand.",
       "choice_data_list": [
         "Are you perhaps, happy?"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "……! Okay, I understand."
     },
     {
       "name": "Mejiro Ardan",
@@ -213,11 +213,11 @@
       "text": "Got it. When you feel like being pampered, let me know."
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "Trainer-san, you said when I was with you, I could relax \na bit more, didn't you?",
       "choice_data_list": [
         "Of course, I remember."
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "Trainer-san, you said when I was with you, I could relax \na bit more, didn't you?"
     },
     {
       "name": "Mejiro Ardan",

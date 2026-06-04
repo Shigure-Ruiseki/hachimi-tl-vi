@@ -111,20 +111,20 @@
       "text": "I heard a powerful yell come from the training grounds. When I turned to face that direction I saw a singular umamusume running with her all put into it."
     },
     {
-      "name": "Win Variation",
-      "text": "Hah, hah, hah! \n…Not yet! I need to give my all till the end!!",
       "choice_data_list": [
         "…I can feel her spirit."
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Hah, hah, hah! \n…Not yet! I need to give my all till the end!!"
     },
     {
       "text": "Of course this wasn't anything unique to her, but strangely enough, she left an impression on me."
     },
     {
-      "text": "That running that is dead set on rushing forward, without even wiping off her sweat. As though her life was on the line—",
       "choice_data_list": [
         "…Go for it!"
-      ]
+      ],
+      "text": "That running that is dead set on rushing forward, without even wiping off her sweat. As though her life was on the line—"
     },
     {
       "name": "Win Variation",
@@ -141,11 +141,11 @@
       "text": "Right away, she looked forward again and took off."
     },
     {
-      "name": "Win Variation",
-      "text": "My name is Win Variation! \nUm, thank you very much for cheering for me earlier!",
       "choice_data_list": [
         "Sorry for shouting out of the blue."
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "My name is Win Variation! \nUm, thank you very much for cheering for me earlier!"
     },
     {
       "name": "Win Variation",
@@ -164,12 +164,12 @@
       "text": "That's to say, I feel rewarded from that. \n…Hehe. It felt great running with all my spirit."
     },
     {
-      "name": "Win Variation",
-      "text": "Anyways, I'm motivated again. I'll rest for a little longer and then I'll get right back to training! Keep working towards my dream—",
       "choice_data_list": [
         "Your dream?",
         "Your dream?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Anyways, I'm motivated again. I'll rest for a little longer and then I'll get right back to training! Keep working towards my dream—"
     },
     {
       "name": "Win Variation",
@@ -187,21 +187,21 @@
       "text": "A principal… That's… a word they use in ballet, right? \nI get it. It might be a little different from a stage, but she's aiming to become the principal in a race."
     },
     {
-      "text": "Running and aiming to be a principle… \nI'm getting more and more interested in her running now.",
       "choice_data_list": [
         "Is it alright if I watch you run again?"
-      ]
+      ],
+      "text": "Running and aiming to be a principle… \nI'm getting more and more interested in her running now."
     },
     {
       "name": "Win Variation",
       "text": "Ah! O-of course! Go right ahead!"
     },
     {
-      "name": "Win Variation",
-      "text": "…Hah. Wow… wowie…",
       "choice_data_list": [
         "Win Variation?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "…Hah. Wow… wowie…"
     },
     {
       "name": "Win Variation",

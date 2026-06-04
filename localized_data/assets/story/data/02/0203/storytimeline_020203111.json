@@ -218,12 +218,12 @@
       "text": "! That voice just now——"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Huu, huu, huu, huu…… \nTaaaaaaaaaaaa!!",
       "choice_data_list": [
         "Alright……! Good spurt, Pandora!",
         "Alright……! Good spurt, Pandora!"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Huu, huu, huu, huu…… \nTaaaaaaaaaaaa!!"
     },
     {
       "name": "Kawakami Princess",

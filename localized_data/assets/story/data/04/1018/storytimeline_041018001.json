@@ -8,11 +8,11 @@
       "text": "\"She\" had that aura."
     },
     {
-      "name": "Air Groove",
-      "text": "Ha, ha, ha, ha…!",
       "choice_data_list": [
         "That's \"The Empress\" Air Groove…!"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "Ha, ha, ha, ha…!"
     },
     {
       "text": "A neat body that cuts the wind, and long legs that lightly kick \nthe ground. A beautiful yet powerful look that gazes ahead \nwithout any hesitation."
@@ -126,23 +126,23 @@
       "text": "I can understand why the ponies look up to \nher so much. I also aim to be like her."
     },
     {
-      "name": "Hishi Amazon",
-      "text": "…By the way, you there. \nSeems like you've been staring at Air Groove for a while now.",
       "choice_data_list": [
         "Huh, me?",
         "Huh, me?"
-      ]
+      ],
+      "name": "Hishi Amazon",
+      "text": "…By the way, you there. \nSeems like you've been staring at Air Groove for a while now."
     },
     {
       "name": "Hishi Amazon",
       "text": "Yes, you. Who else would I be talking to? I haven't seen your \nface around here before, are you a new trainer?"
     },
     {
-      "name": "Hishi Amazon",
-      "text": "Don't tell me, you wanna scout Air Groove?",
       "choice_data_list": [
         "If it's possible I'd love to…!"
-      ]
+      ],
+      "name": "Hishi Amazon",
+      "text": "Don't tell me, you wanna scout Air Groove?"
     },
     {
       "name": "Hishi Amazon",

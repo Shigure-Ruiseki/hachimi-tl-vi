@@ -25,10 +25,10 @@
       "text": "I probably set it down while focusing on\nwatching some training sessions around the\nacademy today."
     },
     {
-      "text": "I jog back to where I assume I've left the\nthing, and am reassuringly greeted by a\nflashing low-battery light.",
       "choice_data_list": [
         "Oh, thank goodness—"
-      ]
+      ],
+      "text": "I jog back to where I assume I've left the\nthing, and am reassuringly greeted by a\nflashing low-battery light."
     },
     {
       "name": "???",
@@ -50,26 +50,26 @@
       "text": "...That's right. However many more times it\ntakes..."
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "...I really love... running with you...",
       "choice_data_list": [
         "(Just, uh... who is she talking to?)"
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "...I really love... running with you..."
     },
     {
       "text": "There's certainly no one around besides us.\nI know that it's quite dark out, but still.\nThinking it strange, I approach the lone \nstudent, when..."
     },
     {
-      "text": "<i>Thwack!</i>",
       "choice_data_list": [
         "Wha?!"
-      ]
+      ],
+      "text": "<i>Thwack!</i>"
     },
     {
-      "text": "It feels as if something has rammed into my\nshoulder. I can't see anything in the\nvicinity, however.",
       "choice_data_list": [
         "(Right... I <i>am</i> pretty exhausted, after all...)"
-      ]
+      ],
+      "text": "It feels as if something has rammed into my\nshoulder. I can't see anything in the\nvicinity, however."
     },
     {
       "text": "But a girl talking to someone who isn't\nthere? And then myself colliding with\nsome kind of invisible force?"
@@ -94,22 +94,22 @@
       "text": "I sense you've got what it takes. I'll be\nback to watch your tryout race. Think you\ncan show me everything you've got?"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "...",
       "choice_data_list": [
         "Oh, right. The girl from last night..."
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "..."
     },
     {
       "name": "New Trainer A",
       "text": "Hey, <username>!\nLooks like you've got your eyes on\nsomeone."
     },
     {
-      "name": "New Trainer A",
-      "text": "Oh, the girl over there? ...She does run\nwith mighty fine form. Are you gonna scout\nher?",
       "choice_data_list": [
         "Well, I'm not so sure just yet..."
-      ]
+      ],
+      "name": "New Trainer A",
+      "text": "Oh, the girl over there? ...She does run\nwith mighty fine form. Are you gonna scout\nher?"
     },
     {
       "name": "New Trainer A",
@@ -164,22 +164,22 @@
       "text": "Huh..."
     },
     {
-      "name": "New Trainer A",
-      "text": "<i>Sigh</i>... Save your breath. Don't think she's\nlooking to really talk to anyone, let alone\nbe scouted.",
       "choice_data_list": [
         "What do you mean?"
-      ]
+      ],
+      "name": "New Trainer A",
+      "text": "<i>Sigh</i>... Save your breath. Don't think she's\nlooking to really talk to anyone, let alone\nbe scouted."
     },
     {
       "name": "New Trainer A",
       "text": "I couldn't make heads or tails of anything\nshe was babbling about... It was like she\nwas trying to drive me off. And honestly,\nthe things she was saying were kind of, uh..."
     },
     {
-      "name": "New Trainer A",
-      "text": "Kind of creepy?",
       "choice_data_list": [
         "What?"
-      ]
+      ],
+      "name": "New Trainer A",
+      "text": "Kind of creepy?"
     },
     {
       "name": "New Trainer A",

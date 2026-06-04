@@ -13,11 +13,11 @@
       "text": "You're worried, aren't you, that's right, \nyou are! But you're lucky I'm here!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'll teach you! \"A New Year's Shrine \nVisit: Bakushin Style\"!",
       "choice_data_list": [
         "(Bakushin Style?)"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "I'll teach you! \"A New Year's Shrine \nVisit: Bakushin Style\"!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -55,11 +55,11 @@
       "text": "After that, I taught her the proper \netiquette……"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "May I Baku-win every race in my Senior \nclass!!!",
       "color_text_info_list": [
         "Senior class"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "May I Baku-win every race in my Senior \nclass!!!"
     },
     {
       "text": "Sakura Bakushin O's cheerful wish echoed \nin the peaceful New Year's sky…"
@@ -85,11 +85,11 @@
       "text": "And furthermore! If Trainer-san also writes \na wish, we can get double points!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "If we double up, God can't ignore us!",
       "choice_data_list": [
         "So, to sum it up?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "If we double up, God can't ignore us!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -100,12 +100,12 @@
       "text": "Well, perhaps there's nothing you need to \nwish for, since I'm already so brilliant!"
     },
     {
-      "text": "That being said, I wrote…",
       "choice_data_list": [
         "Grow up super-healthy",
         "Become a totally-exemplary Uma",
         "Have weapons aside from super-speed"
-      ]
+      ],
+      "text": "That being said, I wrote…"
     },
     {
       "name": "Sakura Bakushin O",
@@ -124,19 +124,19 @@
       "text": "Whaaaat!?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'm already an exemplary horse girl. \nFurthermore, what do you mean by \n\"super\"!?",
       "choice_data_list": [
         "You'll become able to do anything.",
         "You'll become able to do anything."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "I'm already an exemplary horse girl. \nFurthermore, what do you mean by \n\"super\"!?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Hmm? I can do anything? \nSuch as?",
       "choice_data_list": [
         "Study and stuff……"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Hmm? I can do anything? \nSuch as?"
     },
     {
       "name": "Sakura Bakushin O",

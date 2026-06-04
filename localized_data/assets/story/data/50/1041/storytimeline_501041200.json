@@ -2,10 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "At last, it's time for Sakura Bakushin O to \nenter her \"Make Debut.\"",
       "color_text_info_list": [
         "Make Debut"
-      ]
+      ],
+      "text": "At last, it's time for Sakura Bakushin O to \nenter her \"Make Debut.\""
     },
     {
       "name": "Sakura Bakushin O",
@@ -16,12 +16,12 @@
       "text": "At long last…! \nMy!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "My great challenge!! \nBegiiiiins!!!!!",
       "choice_data_list": [
         "You're really into this.",
         "You're really into this."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "My great challenge!! \nBegiiiiins!!!!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -32,11 +32,11 @@
       "text": "First of all, I'd like to make a flawless \ndebut, so everyone――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Ahhh!!!!!",
       "choice_data_list": [
         "!?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Ahhh!!!!!"
     },
     {
       "name": "Sakura Bakushin O",

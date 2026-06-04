@@ -5,11 +5,11 @@
       "text": "<chrname> seems to have suffered\na minor injury…"
     },
     {
-      "text": "However, we are in the middle of the\nprecious Summer Camp. Now, what should I do—",
       "choice_data_list": [
         "Make sure she takes a break",
         "Have her tough it out"
-      ]
+      ],
+      "text": "However, we are in the middle of the\nprecious Summer Camp. Now, what should I do—"
     },
     {
       "text": "I decided to make sure that she\nwould focus on her treatment."

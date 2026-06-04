@@ -17,12 +17,12 @@
       "text": "Let's do our best! Just like those three…… \nI'll definitely master Dirt!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "But they're not! \nUuuuugh…… if it's come to this～!",
       "choice_data_list": [
         "No pranks!",
         "No pranks!"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "But they're not! \nUuuuugh…… if it's come to this～!"
     },
     {
       "name": "Shinko Windy",
@@ -55,10 +55,10 @@
       "text": "…………Hmmmmm."
     },
     {
-      "text": "I was planning on taking Shinko Windy to the Summer Festival \nas a reward for training…… but it can't be helped.",
       "choice_data_list": [
         "Wait, Windy?"
-      ]
+      ],
+      "text": "I was planning on taking Shinko Windy to the Summer Festival \nas a reward for training…… but it can't be helped."
     },
     {
       "text": "Even after it had become night, Shinko \nWindy hadn't returned to the lodgings."
@@ -67,11 +67,11 @@
       "text": "I was searching for her on a footpath \nthat had no lights. And then――"
     },
     {
-      "name": "???",
-      "text": "Kyaaa-!?",
       "choice_data_list": [
         "Was that……a scream?"
-      ]
+      ],
+      "name": "???",
+      "text": "Kyaaa-!?"
     },
     {
       "name": "???",
@@ -81,11 +81,11 @@
       "text": "From the other side of the forest, more screams could be heard. \nDid something happen? She didn't get involved, did she?"
     },
     {
-      "name": "Village Chief",
-      "text": "Uoooooh～～～～! It's exhilirating! \nIt boggles the mind!",
       "choice_data_list": [
         "……Huh?"
-      ]
+      ],
+      "name": "Village Chief",
+      "text": "Uoooooh～～～～! It's exhilirating! \nIt boggles the mind!"
     },
     {
       "name": "Shinko Windy",
@@ -103,11 +103,11 @@
       "text": "Horse radish in the Takoyaki! A lottery with only one type of \nprize! And the Stage Event, a Surprise-In-The-Box tournament!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "With the help of Windy-chan's pranks, \nthere's no way this festival would lose～!",
       "choice_data_list": [
         "Then, those screams――"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "With the help of Windy-chan's pranks, \nthere's no way this festival would lose～!"
     },
     {
       "name": "Villager A",
@@ -161,19 +161,19 @@
       "text": "Phew, it's finally over～!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Clean up's kind of annoying……",
       "choice_data_list": [
         "But, it was well received!",
         "But, it was well received!"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Clean up's kind of annoying……"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Well of course it was! When it comes to pranks, \nWindy-chan is a genius! You know that already, right!?",
       "choice_data_list": [
         "Yeah, I've experienced it myself"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Well of course it was! When it comes to pranks, \nWindy-chan is a genius! You know that already, right!?"
     },
     {
       "name": "Shinko Windy",
@@ -196,12 +196,12 @@
       "text": "That's why, I decided that sharing a \nfew of them wouldn't be such a bad idea."
     },
     {
-      "name": "Shinko Windy",
-      "text": "……In short! Giving prank ideas to those that need them! \nMake everyone rely on Windy-chan and become her minions!",
       "choice_data_list": [
         "There will probably be more now, huh",
         "There will probably be more now, huh"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "……In short! Giving prank ideas to those that need them! \nMake everyone rely on Windy-chan and become her minions!"
     },
     {
       "name": "Shinko Windy",

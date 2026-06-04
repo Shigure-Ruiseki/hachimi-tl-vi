@@ -145,18 +145,18 @@
       "text": "『Um……Trainer-san……?』"
     },
     {
-      "text": "Sorry, Suzuka! I need to hang up!",
       "choice_data_list": [
         "I'm heading over to where Spe is!",
         "I'm heading over to where Spe is!"
-      ]
+      ],
+      "text": "Sorry, Suzuka! I need to hang up!"
     },
     {
-      "text": "Sorry, Suzuka! I need to hang up!",
       "choice_data_list": [
         "I'm heading over to where Spe is!",
         "I'm heading over to where Spe is!"
-      ]
+      ],
+      "text": "Sorry, Suzuka! I need to hang up!"
     },
     {
       "name": "Silence Suzuka",
@@ -371,16 +371,16 @@
       "text": "『Fall Tenno Sho』, 『Japan Cup』, and 『Arima Kinen』, \nand anything that comes after, I want to see \nall of those dreams together with Spe……!"
     },
     {
-      "text": "That's why, I want to keep seeing that dream together, and make \neveryone in Japan……no, everyone in the world know that name. To \neveryone, \"Japan's #1 Uma Musume\"――",
       "choice_data_list": [
         "is called Special Week……!"
-      ]
+      ],
+      "text": "That's why, I want to keep seeing that dream together, and make \neveryone in Japan……no, everyone in the world know that name. To \neveryone, \"Japan's #1 Uma Musume\"――"
     },
     {
-      "text": "That's why, I want to keep seeing that dream together, and make \neveryone in Japan……no, everyone in the world know that name. To \neveryone, \"Japan's #1 Uma Musume\"――",
       "choice_data_list": [
         "is called Special Week……!"
-      ]
+      ],
+      "text": "That's why, I want to keep seeing that dream together, and make \neveryone in Japan……no, everyone in the world know that name. To \neveryone, \"Japan's #1 Uma Musume\"――"
     },
     {
       "name": "Special Week",

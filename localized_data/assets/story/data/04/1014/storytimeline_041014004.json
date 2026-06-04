@@ -5,11 +5,11 @@
       "text": "On a later day, El Condor Pasa came \nfor training, as we'd arranged before."
     },
     {
-      "name": "El Condor Pasa",
-      "text": "The unyielding trainee, conqueror of injuries, enters! \nGive cheer, El Condor Pasa is here!",
       "choice_data_list": [
         "Good morning."
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "The unyielding trainee, conqueror of injuries, enters! \nGive cheer, El Condor Pasa is here!"
     },
     {
       "name": "El Condor Pasa",
@@ -24,22 +24,22 @@
       "text": "Thirty laps at full speed?! Uphill dashes until sunset?!"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "Running around town with you on my back sounds great too!!",
       "choice_data_list": [
         "You have some light running on dirt to do."
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "Running around town with you on my back sounds great too!!"
     },
     {
       "name": "El Condor Pasa",
       "text": "¡Aha, aha! Light running on ——"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "—— Mmmm?! Wait, I don't think I heard that right? \nWhat did you just say, Trainer?!",
       "choice_data_list": [
         "You have some light running on dirt to do."
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "—— Mmmm?! Wait, I don't think I heard that right? \nWhat did you just say, Trainer?!"
     },
     {
       "name": "El Condor Pasa",
@@ -54,11 +54,11 @@
       "text": "El will be known as the mightiest in the world one day! \nA condor who rules the skies where champions fly!"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "I can't afford to waste a single second \non the ground, ¿¡entiendes?!",
       "choice_data_list": [
         "Basic training is important, you know?"
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "I can't afford to waste a single second \non the ground, ¿¡entiendes?!"
     },
     {
       "name": "El Condor Pasa",
@@ -76,12 +76,12 @@
       "text": "Despite her disapproval, El Condor Pasa did as \nshe was told and began training on the dirt track."
     },
     {
-      "name": "El Condor Pasa",
-      "text": "<i>Phooo</i>. I went around lightly like you wanted, Trainer.",
       "choice_data_list": [
         "How's your leg feel?",
         "How's your leg feel?"
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "<i>Phooo</i>. I went around lightly like you wanted, Trainer."
     },
     {
       "name": "El Condor Pasa",
@@ -96,11 +96,11 @@
       "text": "Maybe you were looking out for me and gave me \ndirt training because it'd be easier on my legs!?"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "Wait, no, no, no, Trainer! There's no time to be worrying about \nthat if I want to be the strongest trainee in the world!",
       "choice_data_list": [
         "You can't be the strongest if you're injured."
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "Wait, no, no, no, Trainer! There's no time to be worrying about \nthat if I want to be the strongest trainee in the world!"
     },
     {
       "name": "El Condor Pasa",
@@ -119,24 +119,24 @@
       "text": "Maybe you thought some simple, basic training was \njust right for that big-mouthed El Condor Pasa?"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "You never thought I could be the strongest in the world!?",
       "choice_data_list": [
         "No, I'm serious about proving that, El!",
         "No, I'm serious about proving that, El!"
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "You never thought I could be the strongest in the world!?"
     },
     {
       "name": "El Condor Pasa",
       "text": "Mm…! That intense gaze…!! \nI knew it, you <i>are</i> full of passion…!"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "B-Buuut! I still don't understand! \nWhy go through this trainiiing?!",
       "choice_data_list": [
         "It's to develop a world-class physique!",
         "It's to develop a world-class physique!"
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "B-Buuut! I still don't understand! \nWhy go through this trainiiing?!"
     },
     {
       "name": "El Condor Pasa",
@@ -169,11 +169,11 @@
       "text": "Is it a bird? Is it a plane? No! It's the mightiest trainee \nin the world running over the turf!!"
     },
     {
-      "name": "El Condor Pasa",
-      "text": "It's—?!",
       "choice_data_list": [
         "El Condor Pasa!"
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "It's—?!"
     },
     {
       "name": "El Condor Pasa",
@@ -187,11 +187,11 @@
       "text": "El Condor Pasa's words were accompanied by a contented smile."
     },
     {
-      "name": "El Condor Pasa",
-      "text": "Hmm… then I need to do my entrance again.",
       "choice_data_list": [
         "Entrance…?"
-      ]
+      ],
+      "name": "El Condor Pasa",
+      "text": "Hmm… then I need to do my entrance again."
     },
     {
       "name": "El Condor Pasa",

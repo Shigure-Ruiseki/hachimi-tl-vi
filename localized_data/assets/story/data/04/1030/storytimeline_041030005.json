@@ -9,12 +9,12 @@
       "text": "S-S-Stand up! B-Bow!"
     },
     {
-      "name": "Rice Shower",
-      "text": "Hmm, that's no good at all… \nLet me try again…!",
       "choice_data_list": [
         "Ah, Rice! You're already here.",
         "Ah, Rice! You're already here."
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "Hmm, that's no good at all… \nLet me try again…!"
     },
     {
       "name": "Rice Shower",
@@ -25,23 +25,23 @@
       "text": "<i>Hyaaah!!</i> B-B-Big sister…!?"
     },
     {
-      "name": "Rice Shower",
-      "text": "Ah, I'm s-sorry! I was just practicing \non my own while waiting for you…!",
       "choice_data_list": [
         "What were you practicing?"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "Ah, I'm s-sorry! I was just practicing \non my own while waiting for you…!"
     },
     {
       "name": "Rice Shower",
       "text": "Ah, I was practicing, umm… the class' morning greeting."
     },
     {
-      "name": "Rice Shower",
-      "text": "I'm on duty tomorrow, that's why… <i>haah</i>.",
       "choice_data_list": [
         "You're not a fan of class duty?",
         "You're not a fan of class duty?"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "I'm on duty tomorrow, that's why… <i>haah</i>."
     },
     {
       "name": "Rice Shower",
@@ -60,12 +60,12 @@
       "text": "But the thing is… I'm really, really bad \nat the morning greetings……"
     },
     {
-      "name": "Rice Shower",
-      "text": "It's difficult for me to raise my voice… \nand when I get nervous, my voice \nsounds all weird and funny……",
       "choice_data_list": [
         "Let's practice together then!",
         "Let's practice together then!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "It's difficult for me to raise my voice… \nand when I get nervous, my voice \nsounds all weird and funny……"
     },
     {
       "name": "Rice Shower",
@@ -83,12 +83,12 @@
       "text": "All right… I'll give it a shot, okay?"
     },
     {
-      "name": "Rice Shower",
-      "text": "S-S-Stand up! \nB-B-Bow! \nS-S-Si… <i>ow</i>!?",
       "choice_data_list": [
         "W-What happened? You okay?!",
         "W-What happened? You okay?!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "S-S-Stand up! \nB-B-Bow! \nS-S-Si… <i>ow</i>!?"
     },
     {
       "name": "Rice Shower",
@@ -107,11 +107,11 @@
       "text": "Ah, I really am so useless……"
     },
     {
-      "name": "Rice Shower",
-      "text": "But… even so………",
       "choice_data_list": [
         "You don't want to give up?"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "But… even so………"
     },
     {
       "name": "Rice Shower",
@@ -137,19 +137,19 @@
       "text": "The following day ——"
     },
     {
-      "name": "Rice Shower",
-      "text": "Stand up! Bow! Thank you so much \nfor your help yesterday, big brother!",
       "choice_data_list": [
         "You're doing it so well now!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "Stand up! Bow! Thank you so much \nfor your help yesterday, big brother!"
     },
     {
-      "name": "Rice Shower",
-      "text": "Stand up! Bow! Thank you so much \nfor your help yesterday, big sister!",
       "choice_data_list": [
         "You're doing it so well now!",
         "You're doing it so well now!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "Stand up! Bow! Thank you so much \nfor your help yesterday, big sister!"
     },
     {
       "name": "Rice Shower",

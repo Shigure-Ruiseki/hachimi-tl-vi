@@ -27,11 +27,11 @@
       "text": "She seemed very calm during training. She was able to \nconcentrate without being distracted by the onlookers."
     },
     {
-      "name": "Duramente",
-      "text": "Haa, haa……!",
       "choice_data_list": [
         "OK, your lap running is consistent!"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "Haa, haa……!"
     },
     {
       "text": "Just like this, lately she's been able to concentrate \nwithout being affected by the pressure. It was a good sign."
@@ -41,12 +41,12 @@
       "text": "Haa——!"
     },
     {
-      "name": "Duramente",
-      "text": "——……Alright.",
       "choice_data_list": [
         "Looking good. We'll time it next",
         "Looking good. We'll time it next"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "——……Alright."
     },
     {
       "name": "Duramente",
@@ -61,12 +61,12 @@
       "text": "……"
     },
     {
-      "name": "Duramente",
-      "text": "Huuー……",
       "choice_data_list": [
         "Dura! Are you ready?",
         "Dura! Are you ready?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "Huuー……"
     },
     {
       "name": "Spectating Fan",
@@ -77,11 +77,11 @@
       "text": "(……Focus. Look only at the goal where Trainer is)"
     },
     {
-      "name": "Duramente",
-      "text": "Suuー……Haaaaーー…… \n……——",
       "choice_data_list": [
         "Ready……Start!"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "Suuー……Haaaaーー…… \n……——"
     },
     {
       "name": "Duramente",
@@ -92,19 +92,19 @@
       "text": "Haaaa……!"
     },
     {
-      "name": "Spectators",
-      "text": "Uwaah, amazing acceleration! \nThis is on sand right!? No way, so fast……——",
       "choice_data_list": [
         "Goal!"
-      ]
+      ],
+      "name": "Spectators",
+      "text": "Uwaah, amazing acceleration! \nThis is on sand right!? No way, so fast……——"
     },
     {
-      "name": "Duramente",
-      "text": "…… Haa, haa……Huu.",
       "choice_data_list": [
         "Awesome! Your best time!",
         "Awesome! Your best time!"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "…… Haa, haa……Huu."
     },
     {
       "name": "Duramente",
@@ -115,11 +115,11 @@
       "text": "——Ten! \nTime?"
     },
     {
-      "text": "That's 0.2 seconds off her best time. \nI tell her that her time is pretty consistent.",
       "choice_data_list": [
         "Let's call it a day, good work!",
         "Let's call it a day, good work!"
-      ]
+      ],
+      "text": "That's 0.2 seconds off her best time. \nI tell her that her time is pretty consistent."
     },
     {
       "name": "Duramente",
@@ -130,19 +130,19 @@
       "text": "It'll be together with my father at a nearby coffee \nshop at 5PM. In 30 minutes……Trainer, can you make it?"
     },
     {
-      "text": "Since it was together with her father, I wondered \nif it involved some family business. I remember being \ntold that I didn't need to worry about it, but——",
       "choice_data_list": [
         "Is it okay to tag along?",
         "Is it okay to tag along?"
-      ]
+      ],
+      "text": "Since it was together with her father, I wondered \nif it involved some family business. I remember being \ntold that I didn't need to worry about it, but——"
     },
     {
-      "name": "Duramente",
-      "text": "Eh?",
       "choice_data_list": [
         "Huh? It's family-related right?",
         "Huh? It's family-related right?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "Eh?"
     },
     {
       "name": "Duramente",
@@ -161,18 +161,18 @@
       "text": "————Ah……"
     },
     {
-      "name": "Duramente",
-      "text": "(Since when……? Since when did I start……?)",
       "choice_data_list": [
         "……Something wrong?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "(Since when……? Since when did I start……?)"
     },
     {
-      "name": "Duramente",
-      "text": "No……——Well, you aren't involved. \nIf you're busy, you don't need to accompany me.",
       "choice_data_list": [
         "Would I be intruding……?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "No……——Well, you aren't involved. \nIf you're busy, you don't need to accompany me."
     },
     {
       "name": "Duramente",
@@ -195,20 +195,20 @@
       "text": "……I've gotten used to that sense of \nsecurity that having you nearby brings."
     },
     {
-      "name": "Duramente",
-      "text": "That's why, without thinking I…… And I'm now realizing \nthat I've been relying on you for a lot. Sorry——",
       "choice_data_list": [
         "If that's how you feel, I'll go with you",
         "If that's how you feel, I'll go with you"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "That's why, without thinking I…… And I'm now realizing \nthat I've been relying on you for a lot. Sorry——"
     },
     {
-      "name": "Duramente",
-      "text": "……Eh",
       "choice_data_list": [
         "If that helps you stay calm, even more so",
         "If that helps you stay calm, even more so"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "……Eh"
     },
     {
       "name": "Duramente",
@@ -228,12 +228,12 @@
       "text": "She must be tired after the training and interview. \nI suggested we take a break here."
     },
     {
-      "name": "Duramente",
-      "text": "——……",
       "choice_data_list": [
         "The stars are wonderful, aren't they?",
         "The stars are wonderful, aren't they?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "——……"
     },
     {
       "name": "Duramente",

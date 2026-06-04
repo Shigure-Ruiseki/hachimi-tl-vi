@@ -111,12 +111,12 @@
       "text": "Have I… really become such a trainee in the eyes of others?"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Am I really their ace? Am I inspiring everyone to chase their dreams?",
       "choice_data_list": [
         "Of course you are.",
         "Of course you are."
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Am I really their ace? Am I inspiring everyone to chase their dreams?"
     },
     {
       "name": "Mejiro McQueen",
@@ -232,11 +232,11 @@
       "text": "And that is exactly what is going to propel me forward today."
     },
     {
-      "name": "Gold Ship",
-      "text": "Get out there and snatch that Grand Prix Trainee title, \nMcQueen!",
       "choice_data_list": [
         "Good luck, McQueen."
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "Get out there and snatch that Grand Prix Trainee title, \nMcQueen!"
     },
     {
       "name": "Mejiro McQueen",

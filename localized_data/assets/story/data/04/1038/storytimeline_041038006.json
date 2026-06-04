@@ -16,10 +16,10 @@
       "text": "Phew… Ah, I ended up finishing it too quickly. \nHow unfortunate."
     },
     {
-      "text": "It seems like Curren Chan came here to relax. \nIt looks like she hasn't noticed me…",
       "choice_data_list": [
         "I guess I'll just watch her for now…"
-      ]
+      ],
+      "text": "It seems like Curren Chan came here to relax. \nIt looks like she hasn't noticed me…"
     },
     {
       "text": "I feel a little guilty for watching her in secret like this, but \nthis might be my chance to have a glimpse of her private life."
@@ -92,60 +92,60 @@
       "text": "Glad to have you as a follower ♪"
     },
     {
-      "text": "And that's when I realized… There is no separation of her public \nand private lives. She exudes cuteness in all aspects of her \nlife, living her life in a pure and happy way.",
       "choice_data_list": [
         "What the hell am I doing…",
         "What the hell am I doing…"
-      ]
+      ],
+      "text": "And that's when I realized… There is no separation of her public \nand private lives. She exudes cuteness in all aspects of her \nlife, living her life in a pure and happy way."
     },
     {
       "text": "I began to feel embarrassed for following her in secret \nlike this, so I decided to apologize for doing so when…"
     },
     {
-      "name": "Curren Chan",
-      "text": "So? When were you planning \non talking to me, Onee-chan?",
       "choice_data_list": [
         "…!!"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "So? When were you planning \non talking to me, Onee-chan?"
     },
     {
-      "name": "Curren Chan",
-      "text": "So? When were you planning \non talking to me, Onee-chan?",
       "choice_data_list": [
         "…!!"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "So? When were you planning \non talking to me, Onee-chan?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Jeez, I was waiting for you to talk to me for so long. You're so \nmean, making a girl wait that long, Onee-chan!",
       "choice_data_list": [
         "I can explain…"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Jeez, I was waiting for you to talk to me for so long. You're so \nmean, making a girl wait that long, Onee-chan!"
     },
     {
-      "name": "Curren Chan",
-      "text": "Jeez, I was waiting for you to talk to me for so long. You're so \nmean, making a girl wait that long, Onee-chan!",
       "choice_data_list": [
         "I can explain…"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Jeez, I was waiting for you to talk to me for so long. You're so \nmean, making a girl wait that long, Onee-chan!"
     },
     {
       "name": "Curren Chan",
       "text": "Why don't we go somewhere more private first…?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Onee-chan… You don't trust me, do you?",
       "choice_data_list": [
         "Huh?"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Onee-chan… You don't trust me, do you?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Onee-chan… You don't trust me, do you?",
       "choice_data_list": [
         "Huh?"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Onee-chan… You don't trust me, do you?"
     },
     {
       "name": "Curren Chan",
@@ -172,26 +172,26 @@
       "text": "So, could you do that for me…?"
     },
     {
-      "text": "Sure, if I were only trying to be her associate I could go along \nwith that. And she would likely be happy with that. However…",
       "choice_data_list": [
         "I have to refuse.",
         "I have to refuse."
-      ]
+      ],
+      "text": "Sure, if I were only trying to be her associate I could go along \nwith that. And she would likely be happy with that. However…"
     },
     {
-      "name": "Curren Chan",
-      "text": "Eh…?",
       "choice_data_list": [
         "As your trainer I have to refuse.",
         "As your trainer I have to refuse."
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Eh…?"
     },
     {
-      "text": "As her trainer, I will make her dreams come true… \nI can't sit around simply admiring \nher charms like everyone else is.",
       "choice_data_list": [
         "So please tell me more about yourself.",
         "So please tell me more about yourself."
-      ]
+      ],
+      "text": "As her trainer, I will make her dreams come true… \nI can't sit around simply admiring \nher charms like everyone else is."
     },
     {
       "name": "Curren Chan",
@@ -202,32 +202,32 @@
       "text": "You hate losing too, huh…"
     },
     {
-      "name": "Curren Chan",
-      "text": "I get it. I'll consider it, okay? \nI guess I have to since I upset you to the point \nwhere you began stalking me, isn't that right?",
       "choice_data_list": [
         "I'm really sorry about that…"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "I get it. I'll consider it, okay? \nI guess I have to since I upset you to the point \nwhere you began stalking me, isn't that right?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Hmm… Fine, I'll forgive you ♪ \nBecause you love me, \ndon't you, Onee-chan?",
       "choice_data_list": [
         "Huh!?"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Hmm… Fine, I'll forgive you ♪ \nBecause you love me, \ndon't you, Onee-chan?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Hmm… Fine, I'll forgive you ♪ \nBecause you love me, \ndon't you, Onee-chan?",
       "choice_data_list": [
         "Huh!?"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Hmm… Fine, I'll forgive you ♪ \nBecause you love me, \ndon't you, Onee-chan?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Hmph, what's with that reaction? \nSo, you actually hate me…?",
       "choice_data_list": [
         "I-I love you, Curren!"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Hmph, what's with that reaction? \nSo, you actually hate me…?"
     },
     {
       "name": "Curren Chan",
@@ -242,18 +242,18 @@
       "text": "Maybe if we go on plenty of dates after this… \nI'd want to actually say it?"
     },
     {
-      "name": "Curren Chan",
-      "text": "Plus you'd get to learn a lot more about me, \ndon't you think? So what're you gonna do, Onee-chan♪",
       "choice_data_list": [
         "I'll take you on plenty of dates!"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Plus you'd get to learn a lot more about me, \ndon't you think? So what're you gonna do, Onee-chan♪"
     },
     {
-      "name": "Curren Chan",
-      "text": "Plus you'd get to learn a lot more about me, \ndon't you think? So what're you gonna do, Onee-chan♪",
       "choice_data_list": [
         "I'll take you on plenty of dates!"
-      ]
+      ],
+      "name": "Curren Chan",
+      "text": "Plus you'd get to learn a lot more about me, \ndon't you think? So what're you gonna do, Onee-chan♪"
     },
     {
       "name": "Curren Chan",

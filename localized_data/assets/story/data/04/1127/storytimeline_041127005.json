@@ -5,12 +5,12 @@
       "text": "Everything is all clear at the moment, but... \nI can't shake it off.\nThe unmistakable \"scent\" of an impending incident..."
     },
     {
-      "name": "Fenomeno",
-      "text": "!\nGood work today, Boss.",
       "choice_data_list": [
         "You too. What're you up to?",
         "You too. What're you up to?"
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "!\nGood work today, Boss."
     },
     {
       "name": "Fenomeno",
@@ -21,12 +21,12 @@
       "text": "The site is that garden you can see over there.\nThe incidents seem to follow a pattern, always occuring the day after a mock race."
     },
     {
-      "name": "Fenomeno",
-      "text": "There was a mock race held yesterday, so ever since this morning, I've taken it upon myself to use my free time to stake things out from a nearby position.",
       "choice_data_list": [
         "All this for the school... Awesome job! ",
         "All this for the school... Awesome job! "
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "There was a mock race held yesterday, so ever since this morning, I've taken it upon myself to use my free time to stake things out from a nearby position."
     },
     {
       "name": "Fenomeno",
@@ -44,12 +44,12 @@
       "text": "Seems she was worried about what would happen if the culprit came to the scene while she was still in class. I had some work to do in the afternoon, but I could always reschedule."
     },
     {
-      "name": "Fenomeno",
-      "text": "No, I couldn't possibly impose...",
       "choice_data_list": [
         "I can't them get away with this, either.",
         "I can't them get away with this, either."
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "No, I couldn't possibly impose..."
     },
     {
       "name": "Fenomeno",
@@ -62,11 +62,11 @@
       "text": "I took over the stakeout for a decent while. Staring at the same thing for so long got me a little sleepy. But, just as the bell rang, marking the end of the school day――"
     },
     {
-      "name": "Fenomeno",
-      "text": "Good work! I've brought some anpan and milk.\n...So, how's the situation?",
       "choice_data_list": [
         "...That Umamusume looks suspicious."
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "Good work! I've brought some anpan and milk.\n...So, how's the situation?"
     },
     {
       "name": "Fenomeno",
@@ -100,11 +100,11 @@
       "text": "You have the right to remain silent regarding my questions.\n――So, what was your motive for vandalizing the garden?"
     },
     {
-      "name": "Umamusume A",
-      "text": "It's no big deal. I'm just in a bad mood.\n...'Cause I never win any of my races...",
       "choice_data_list": [
         "...So this is because you were losing?"
-      ]
+      ],
+      "name": "Umamusume A",
+      "text": "It's no big deal. I'm just in a bad mood.\n...'Cause I never win any of my races..."
     },
     {
       "name": "Umamusume A",
@@ -150,11 +150,11 @@
       "text": "........!\n...Okay..."
     },
     {
-      "name": "Fenomeno",
       "choice_data_list": [
         "Thanks. Good job, Meno.",
         "Thanks. Good job, Meno."
       ],
+      "name": "Fenomeno",
       "text": "Boss, thanks to you, we managed to close this case.\nI thank you from the bottom of my heart for your cooperation!"
     },
     {

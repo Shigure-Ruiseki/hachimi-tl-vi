@@ -5,12 +5,12 @@
       "text": "I'd been Air Shakur's trainer for a while. \nThings were going well, but there was one thing bothering me—"
     },
     {
-      "name": "Air Shakur",
-      "text": "What do you want…?",
       "choice_data_list": [
         "Uh… Want to get something to eat after \ntraining?",
         "Uh… Want to get something to eat after \ntraining?"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "What do you want…?"
     },
     {
       "name": "Air Shakur",
@@ -37,26 +37,26 @@
       "text": "Hah? You built your own PC? You? \nHuh. ………So?"
     },
     {
-      "text": "But it wasn't easy when she wanted to keep everything all \nprofessional.",
       "choice_data_list": [
         "…I won't give up here!"
-      ]
+      ],
+      "text": "But it wasn't easy when she wanted to keep everything all \nprofessional."
     },
     {
-      "name": "Air Shakur",
-      "text": "Now you're on \"Let's go somewhere together\"? \nWhat've you been tryna pull?",
       "choice_data_list": [
         "I want us to build a rapport.",
         "I want us to build a rapport."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "Now you're on \"Let's go somewhere together\"? \nWhat've you been tryna pull?"
     },
     {
-      "name": "Air Shakur",
-      "text": "Don't bother. Look, I just needed you to fill the 『Trainer』 blank \nto debut, it was a arbitrary——",
       "choice_data_list": [
         "You're free to pick the spot.",
         "You're free to pick the spot."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "Don't bother. Look, I just needed you to fill the 『Trainer』 blank \nto debut, it was a arbitrary——"
     },
     {
       "text": "\"We don't have to talk. I just want to be a bit more dependable to \nyou, even if it's for something small.\". I tried my best to get that \nacross."
@@ -73,10 +73,10 @@
       "text": "All right, fine. I get it. Talking you down'd be a waste of time. \n…You said I could pick, yeah?"
     },
     {
-      "text": "Plans made, the next day came. It turns out she took me to——",
       "choice_data_list": [
         "The net cafe…!!"
-      ]
+      ],
+      "text": "Plans made, the next day came. It turns out she took me to——"
     },
     {
       "text": "To top it off, she'd reserved separate, single-person booths. \nWe weren't even next to each other. But, I did in fact say she \nwas free to pick the spot, so I had no recourse."
@@ -85,26 +85,26 @@
       "text": "Well, given that I didn't know when she'd agree to go out again, \nthis was the best shot I had. With that in mind——"
     },
     {
-      "name": "Air Shakur",
-      "text": "What. \nSay something stupid and I'll kick your ass out.",
       "choice_data_list": [
         "You hungry at all?",
         "Are you hungry?"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "What. \nSay something stupid and I'll kick your ass out."
     },
     {
-      "name": "Air Shakur",
-      "text": "… \nNo, I'm not. That was stupider than I thought.",
       "choice_data_list": [
         "But, we're coming up on lunch time, so…"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "… \nNo, I'm not. That was stupider than I thought."
     },
     {
-      "name": "Air Shakur",
-      "text": "…………",
       "choice_data_list": [
         "W-well, at least get something to drink…"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "…………"
     },
     {
       "name": "Air Shakur",
@@ -123,11 +123,11 @@
       "text": "HUH!? ……Oh."
     },
     {
-      "name": "Air Shakur",
-      "text": "… \nTch, now it's tough to go back.",
       "choice_data_list": [
         "Sorry…"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "… \nTch, now it's tough to go back."
     },
     {
       "name": "Air Shakur",
@@ -146,23 +146,23 @@
       "text": "…something along those lines, I'd bet. \nYou ain't the first."
     },
     {
-      "name": "Air Shakur",
-      "text": "The only partner I need is my PC. If you get that, don't try to \ndrag me out with you again.",
       "choice_data_list": [
         "…I can't make any promises."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "The only partner I need is my PC. If you get that, don't try to \ndrag me out with you again."
     },
     {
-      "text": "It was true that Shakur could make it as a loner. \nIn all likelihood, she had the mental toughness and analytical \nability to get by herself just fine.",
       "choice_data_list": [
         "(But flipping that on its head——)"
-      ]
+      ],
+      "text": "It was true that Shakur could make it as a loner. \nIn all likelihood, she had the mental toughness and analytical \nability to get by herself just fine."
     },
     {
-      "text": "If something <i>unlikely</i> happened—— if she met an obstacle she \ncould not overcome alone— If she found herself in a position \nwhere she needed help, there would be nothing she could do.",
       "choice_data_list": [
         "I won't give up just like that."
-      ]
+      ],
+      "text": "If something <i>unlikely</i> happened—— if she met an obstacle she \ncould not overcome alone— If she found herself in a position \nwhere she needed help, there would be nothing she could do."
     },
     {
       "name": "Air Shakur",

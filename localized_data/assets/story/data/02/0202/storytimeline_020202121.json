@@ -249,11 +249,11 @@
       "text": "An unreserved compliment. That was――a roundabout way of \nblaming herself for not being able to achieve something."
     },
     {
-      "text": "The more those words were repeated, \nthe more Rhein Kraft was hurting herself……",
       "choice_data_list": [
         "But Kraft! Even you――",
         "But Kraft! Even you――"
-      ]
+      ],
+      "text": "The more those words were repeated, \nthe more Rhein Kraft was hurting herself……"
     },
     {
       "name": "Rhein Kraft",
@@ -287,18 +287,18 @@
       "text": "That's just……me. An Uma Musume that won't be remembered \nby anyone and won't leave anything behind……!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "That's why! It's obvious that I would just disappear like this――",
       "choice_data_list": [
         "You're wrong!!!!!!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "That's why! It's obvious that I would just disappear like this――"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "――!? \nTrainer……-san?",
       "choice_data_list": [
         "You're wrong! There's no way that's true!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "――!? \nTrainer……-san?"
     },
     {
       "text": "I inadvertently yelled……not just out of emotion. \nIt was what I believed as her trainer."
@@ -376,12 +376,12 @@
       "text": "You won't lose to her!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "But that's……something only \nTrainer-san thinks……",
       "choice_data_list": [
         "Since I think about it, it'll remain!",
         "Since I think about it, it'll remain!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "But that's……something only \nTrainer-san thinks……"
     },
     {
       "text": "Right, if you don't give up, it can be fulfilled. Even if she \nherself has given up――as long as \"someone\" doesn't give up."
@@ -471,16 +471,16 @@
       "text": "Can I leave something behind? Like Trainer-san and King-san, \nif I never give up……once more. Once……again!"
     },
     {
-      "text": "You can do it for sure! \nYou've already brought so many of us together.",
       "choice_data_list": [
         "Without a doubt――You'll shine in to the future!!"
-      ]
+      ],
+      "text": "You can do it for sure! \nYou've already brought so many of us together."
     },
     {
-      "text": "You can do it for sure! \nYou've already brought so many of us together.",
       "choice_data_list": [
         "Without a doubt――You'll shine in to the future!!"
-      ]
+      ],
+      "text": "You can do it for sure! \nYou've already brought so many of us together."
     },
     {
       "name": "Rhein Kraft",

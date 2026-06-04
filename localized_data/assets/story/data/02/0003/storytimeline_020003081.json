@@ -12,11 +12,11 @@
       "text": "Hey there! Oh, don't mind me. Feel free to keep working."
     },
     {
-      "name": "Winning Ticket",
-      "text": "Now, it should be with the exhibit stuff…",
       "choice_data_list": [
         "Are you looking for something?"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Now, it should be with the exhibit stuff…"
     },
     {
       "name": "Winning Ticket",
@@ -104,11 +104,11 @@
       "text": "Oh right, I was looking for something! I used it at the exhibit, so it \nshould be around here…"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Ah, here it is! My Derby notebook!",
       "choice_data_list": [
         "Derby notebook?"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Ah, here it is! My Derby notebook!"
     },
     {
       "name": "Winning Ticket",
@@ -179,10 +179,10 @@
       "text": "It isn't easy to keep running toward a childhood dream."
     },
     {
-      "text": "But Winning Ticket's still going after hers. The memory she has of \nwatching the Derby that day has never faded.",
       "choice_data_list": [
         "We'll make sure you write about your victory in \nthat notebook!"
-      ]
+      ],
+      "text": "But Winning Ticket's still going after hers. The memory she has of \nwatching the Derby that day has never faded."
     },
     {
       "name": "Winning Ticket",

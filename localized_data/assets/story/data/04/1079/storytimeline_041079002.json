@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Furioso",
-      "text": "A special exchange…… After calming down and thinking \nof the contents, it's quite a favorable offer……",
       "choice_data_list": [
         "……Right?",
         "……Right?"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "A special exchange…… After calming down and thinking \nof the contents, it's quite a favorable offer……"
     },
     {
       "text": "『The Special Exchange System』. \nI reminded Furioso of the potential benefits of this."
@@ -39,23 +39,23 @@
       "text": "This is the cafeteria. As a student of Tracen \nAcademy, lunch is free and all-you-can-eat."
     },
     {
-      "name": "Furioso",
-      "text": "All-you-can-eat……!? And always free……!? \nStudents don't get just a 150 yen discount on their lunches?",
       "choice_data_list": [
         "Let's try some food, Furioso!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "All-you-can-eat……!? And always free……!? \nStudents don't get just a 150 yen discount on their lunches?"
     },
     {
       "name": "Furioso",
       "text": "Wait, Trainer. \nDon't be tempted by Central."
     },
     {
-      "name": "Furioso",
-      "text": "We can't be lured in by food. \nWe're just here to observe.",
       "choice_data_list": [
         "O-okay……",
         "O-okay……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "We can't be lured in by food. \nWe're just here to observe."
     },
     {
       "name": "Tazuna Hayakawa",
@@ -78,19 +78,19 @@
       "text": "Everyone is free to compete with each other, gradually \nincreasing their strength. Oguri Cap-san and Inari \nOne-san are also both transfers from the countryside."
     },
     {
-      "name": "Furioso",
-      "text": "Amazing…… \nThe grounds, the facilities, everything is on a different level……",
       "choice_data_list": [
         "Yeah, the gap is so huge……",
         "Yeah, the gap is so huge……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Amazing…… \nThe grounds, the facilities, everything is on a different level……"
     },
     {
-      "name": "Furioso",
-      "text": "Yes. The gap isn't just big…… \nTrainer, look closely. At this dirt.",
       "choice_data_list": [
         "The dirt……?"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Yes. The gap isn't just big…… \nTrainer, look closely. At this dirt."
     },
     {
       "name": "Furioso",
@@ -105,12 +105,12 @@
       "text": "Just how much staff would be required to maintain this? \nAnd their skill level……is quite considerable."
     },
     {
-      "name": "Furioso",
-      "text": "It's frustrating but……the difference between Funabashi is large…… \nEverything is just on a different level……",
       "choice_data_list": [
         "That's……true……",
         "That's……true……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "It's frustrating but……the difference between Funabashi is large…… \nEverything is just on a different level……"
     },
     {
       "text": "Furioso and I, as much as possible, wanted to \nremain in Funabashi and enter Central races."
@@ -123,23 +123,23 @@
       "text": "Trainer, I think we have no choice but to reconsider. \nAbout the 『Special exchange』"
     },
     {
-      "name": "Furioso",
-      "text": "Together with Trainer, I need to dive in to enemy territory \nand break out from inside. Let's go with that.",
       "choice_data_list": [
         "Yeah! Then it's decided!",
         "Yeah! Then it's decided!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Together with Trainer, I need to dive in to enemy territory \nand break out from inside. Let's go with that."
     },
     {
       "name": "Tazuna Hayakawa",
       "text": "I'm glad you've taken an interest. \nUm……however, there's one thing you should know."
     },
     {
-      "name": "Tazuna Hayakawa",
-      "text": "Furioso-san can enter through the 『Special exchange』 however…… \nTrainer-san, are you aware that you can't?",
       "choice_data_list": [
         "Eh……I can't?"
-      ]
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "Furioso-san can enter through the 『Special exchange』 however…… \nTrainer-san, are you aware that you can't?"
     },
     {
       "name": "Tazuna Hayakawa",
@@ -150,12 +150,12 @@
       "text": "Trainer-san has to take the Central \n『Trainer License Exam』 and pass."
     },
     {
-      "name": "Furioso",
-      "text": "Central's License Exam is it? It sounds like it'll \nbe difficult, but……with Trainer's skills, then.",
       "choice_data_list": [
         "Yeah, leave it to me!",
         "Yeah, leave it to me!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Central's License Exam is it? It sounds like it'll \nbe difficult, but……with Trainer's skills, then."
     },
     {
       "text": "I'm confident in my skills. Even if the location is different, \na trainer is still a trainer. The techniques to bring out the \nstrength of Uma Musume are the same. In that case——"
@@ -167,11 +167,11 @@
       "text": "And then, the day the results of the License Exam were announced——"
     },
     {
-      "name": "Furioso",
-      "text": "Ha……?",
       "choice_data_list": [
         "Eh……?"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Ha……?"
     },
     {
       "text": "I desperately search the names again. \nBut——"

@@ -17,16 +17,16 @@
       "text": "Just letting you know, I still have plenty of energy left."
     },
     {
-      "text": "It does look like a little more wouldn't hurt today. I'll let her do as she \nwishes.",
       "choice_data_list": [
         "All right, let's have another go at it."
-      ]
+      ],
+      "text": "It does look like a little more wouldn't hurt today. I'll let her do as she \nwishes."
     },
     {
-      "text": "It does look like a little more wouldn't hurt today. I'll let her do as she \nwishes.",
       "choice_data_list": [
         "All right, let's have another go at it."
-      ]
+      ],
+      "text": "It does look like a little more wouldn't hurt today. I'll let her do as she \nwishes."
     },
     {
       "name": "Mejiro McQueen",
@@ -62,11 +62,11 @@
       "text": "McQueen's improved mood is without a doubt thanks to Ryan's \nadvice."
     },
     {
-      "name": "Mejiro Ryan",
-      "text": "Now that my rival's back in the game, it looks like I've gotta crank my \nown spring Tenno Sho prep work up to 200%!",
       "choice_data_list": [
         "Thanks, Ryan."
-      ]
+      ],
+      "name": "Mejiro Ryan",
+      "text": "Now that my rival's back in the game, it looks like I've gotta crank my \nown spring Tenno Sho prep work up to 200%!"
     },
     {
       "name": "Mejiro Ryan",
@@ -125,27 +125,27 @@
       "text": "It's times like these that I wish I had my mentor's sociable personality."
     },
     {
-      "text": "I may not be very good at helping my trainee relax, but…",
       "choice_data_list": [
         "I'll cheer you on twice as loud to make up for it."
-      ]
+      ],
+      "text": "I may not be very good at helping my trainee relax, but…"
     },
     {
-      "text": "I may not be very good at helping my trainee relax, but…",
       "choice_data_list": [
         "I'll cheer you on twice as loud to make up for it."
-      ]
+      ],
+      "text": "I may not be very good at helping my trainee relax, but…"
     },
     {
       "name": "Mejiro McQueen",
       "text": "Hehe… Yes, please do."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "My dream lies in wait right before my very eyes. All that's left is to go \nout there and grab it.",
       "choice_data_list": [
         "Good luck out there, McQueen!"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "My dream lies in wait right before my very eyes. All that's left is to go \nout there and grab it."
     },
     {
       "name": "Mejiro McQueen",

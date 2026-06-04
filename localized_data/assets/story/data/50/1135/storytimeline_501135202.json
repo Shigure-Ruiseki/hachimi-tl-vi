@@ -19,19 +19,19 @@
       "text": "On the other hand…"
     },
     {
-      "name": "Stay Gold",
-      "text": "————",
       "choice_data_list": [
         "(She's… looking a bit absentminded…?)"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "————"
     },
     {
-      "name": "Stay Gold",
-      "text": "————",
       "choice_data_list": [
         "Stego…? You alright…?",
         "Stego…? You alright…?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "————"
     },
     {
       "name": "Stay Gold",
@@ -42,37 +42,37 @@
       "text": "<i>Hehe…… Hahah…… \nHahahahahahaha……!</i>"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Haahahahhahahah!!</i>",
       "choice_data_list": [
         "A-A-Are you alright!?",
         "A-A-Are you alright!?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Haahahahhahahah!!</i>"
     },
     {
-      "name": "Stay Gold",
-      "text": "Man, this is amazing! It really is \nthe Japan Derby!",
       "choice_data_list": [
         "Eh——"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Man, this is amazing! It really is \nthe Japan Derby!"
     },
     {
       "name": "Stay Gold",
       "text": "A stage showcasing the greatest of the \ngeneration, an apex-level competition…! \nRacing to capture everyone's admiration, \nit's a ruthless battle for supreme glory…!"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Hahah…!</i> I've made it…! I'm competing \nas a Derby trainee, this chance is in \nthe palm of my hands…!",
       "color_text_info_list": [
         "Derby trainee"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Hahah…!</i> I've made it…! I'm competing \nas a Derby trainee, this chance is in \nthe palm of my hands…!"
     },
     {
-      "name": "Stay Gold",
-      "text": "It's as if this is a dream…!!",
       "choice_data_list": [
         "Stego…"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "It's as if this is a dream…!!"
     },
     {
       "text": "…I feel as if some part of my heart \nhas misunderstood Stay Gold."
@@ -96,30 +96,30 @@
       "text": "All the competitors in the Japan Derby \nbecome trainees worthy of admiration. \nThere is no substitute, as this is the one \nand only race for glory."
     },
     {
-      "text": "By being able to stand here today, the \njoy that's overflowing from her heart \nis only natural. If that's the case —",
       "choice_data_list": [
         "We did it! We've made it all the way here!",
         "We did it! We've made it all the way here!"
-      ]
+      ],
+      "text": "By being able to stand here today, the \njoy that's overflowing from her heart \nis only natural. If that's the case —"
     },
     {
       "text": "……I will celebrate for the both of us, \nfor the journey that has brought us \nboth to this glorious destination."
     },
     {
-      "name": "Stay Gold",
-      "text": "Y'know, you're pretty amazing! Your \nactions spoke louder than your words, \nit's genuinely impressive!",
       "choice_data_list": [
         "Stego is also the best! Go defeat your past!",
         "Stego is also the best! Go defeat your past!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Y'know, you're pretty amazing! Your \nactions spoke louder than your words, \nit's genuinely impressive!"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Hahaha!</i> We both did our very best hey!",
       "choice_data_list": [
         "Yeah, we really did our best!",
         "Yeah, we really did our best!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Hahaha!</i> We both did our very best hey!"
     },
     {
       "name": "Stay Gold",
@@ -134,22 +134,22 @@
       "text": "Let's enjoy this together. It's a \nonce in a lifetime race. Also —"
     },
     {
-      "name": "Stay Gold",
-      "text": "My souvenir for you will be a title naming \nyou as the Trainer of the Japan Derby \nwinner, sound good?",
       "choice_data_list": [
         "…I'm looking forward to that"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "My souvenir for you will be a title naming \nyou as the Trainer of the Japan Derby \nwinner, sound good?"
     },
     {
       "name": "Stay Gold",
       "text": "I don't think this will be a simple race but… \nlook forward to it alright."
     },
     {
-      "name": "Stay Gold",
-      "text": "……Alrighty, it's about time to get going.",
       "choice_data_list": [
         "Do your best!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "……Alrighty, it's about time to get going."
     },
     {
       "name": "???",

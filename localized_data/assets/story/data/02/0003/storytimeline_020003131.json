@@ -82,11 +82,11 @@
       "text": "Until now, the Derby has been something exciting that I aspired to. \nBut this time, I'm actually in it…"
     },
     {
-      "name": "Winning Ticket",
-      "text": "I've got my rivals, my team, and my trainer with me… Now this is <i>my</i>\nDerby!",
       "choice_data_list": [
         "Time to seize your dream!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "I've got my rivals, my team, and my trainer with me… Now this is <i>my</i>\nDerby!"
     },
     {
       "name": "Winning Ticket",

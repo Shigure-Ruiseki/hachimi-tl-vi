@@ -27,26 +27,26 @@
       "text": "Nuaaaaaaa～! I've just been repeatin' that hellish training menu! \nGive me back my youthful life～～～～～!!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "And those Limited Edition Uma Pyoi Love You Love You pancakes…… \nI thought they'd be my friends forever――",
       "choice_data_list": [
         "Well, they were Limited Edition……"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "And those Limited Edition Uma Pyoi Love You Love You pancakes…… \nI thought they'd be my friends forever――"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Wouldn't it be a real downer if someone you knew transferred \naway suddenly!? It's the same as that! For real!",
       "choice_data_list": [
         "Parting is such sweet sorrow, huh?",
         "Parting is such sweet sorrow, huh?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Wouldn't it be a real downer if someone you knew transferred \naway suddenly!? It's the same as that! For real!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Right!? \nNot good～…… haven't felt this empty in a while.",
       "choice_data_list": [
         "Wanna go find something like it?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Right!? \nNot good～…… haven't felt this empty in a while."
     },
     {
       "name": "Daitaku Helios",
@@ -60,28 +60,28 @@
       "text": "She was trying to force a smile, but it caught \nmy attention…… Though to be honest, I only understood \nhalf of why she was depressed."
     },
     {
-      "text": "But, as Daitaku Helios' trainer, \nI had to do something to cheer her up…!",
       "choice_data_list": [
         "W-……Weeeeee～～i!"
-      ]
+      ],
+      "text": "But, as Daitaku Helios' trainer, \nI had to do something to cheer her up…!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Hmm? What's up, Trai-poyo? The ceiling?",
       "choice_data_list": [
         "P-party peeps should raise the roof……!"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Hmm? What's up, Trai-poyo? The ceiling?"
     },
     {
       "name": "Daitaku Helios",
       "text": "……!! That's it, Trai-pippi…… \nI got it, loud and clear!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "So that's what you're aimin' for! A party animal!! \nYou shoulda said that sooner～～～!",
       "choice_data_list": [
         "……eh? No that's not what I……"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "So that's what you're aimin' for! A party animal!! \nYou shoulda said that sooner～～～!"
     },
     {
       "name": "Daitaku Helios",
@@ -119,12 +119,12 @@
       "text": "―Hey, they fell! Ahahahaa!! \nNo choice but to go for three next, huh?!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Uwahahahaa! It's already evening! \nAnyways, good work today～☆",
       "choice_data_list": [
         "Looks like you're feeling better",
         "Looks like you're feeling better"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Uwahahahaa! It's already evening! \nAnyways, good work today～☆"
     },
     {
       "name": "Daitaku Helios",
@@ -135,11 +135,11 @@
       "text": "Speaking of that, Trai-pi, since you've barely debuted, \nlet's keep this goin'! Drop me a LANE anytime! Okay?"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Next time I'll take ya to a real Awe&Some party☆",
       "choice_data_list": [
         "T-thanks"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Next time I'll take ya to a real Awe&Some party☆"
     },
     {
       "text": "In the end, she still thought I wanted to become \na party peep, but since she seemed to be feeling \nbetter, I was alright with this result."

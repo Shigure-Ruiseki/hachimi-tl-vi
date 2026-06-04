@@ -12,12 +12,12 @@
       "text": "Maruzensky danced perfectly to the \nsong she had only just learned."
     },
     {
-      "name": "Maruzensky",
-      "text": "Whooo… That felt good! Getting into the \nrhythm comes easy with that zippy beat♪",
       "choice_data_list": [
         "That was fun to watch, too.",
         "It was fun to watch, too."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "Whooo… That felt good! Getting into the \nrhythm comes easy with that zippy beat♪"
     },
     {
       "name": "Maruzensky",
@@ -39,12 +39,12 @@
       "text": "(School bell rings…)"
     },
     {
-      "name": "Maruzensky",
-      "text": "… My, is it that late already? Let's leave the dancing here. I \ngotta skitty before I miss it.",
       "choice_data_list": [
         "Going somewhere?",
         "Going somewhere?"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "… My, is it that late already? Let's leave the dancing here. I \ngotta skitty before I miss it."
     },
     {
       "name": "Maruzensky",
@@ -59,12 +59,12 @@
       "text": "I heard you can get a miniature version of my lovely Tacchan! It \nsounds so cute! I want it so much!"
     },
     {
-      "name": "Maruzensky",
-      "text": "They're handing them out from 7:00 p.m. and there's a limited \nnumber, so I need to go get in line early!",
       "choice_data_list": [
         "Then you'd better hurry.",
         "Then you'd better hurry."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "They're handing them out from 7:00 p.m. and there's a limited \nnumber, so I need to go get in line early!"
     },
     {
       "name": "Maruzensky",
@@ -91,12 +91,12 @@
       "text": "We heard from our teacher that your dancing's stupid good and we \ncould learn a lot from it… so please!"
     },
     {
-      "name": "Maruzensky",
-      "text": "Oh dearie… Hehe, I can't say no to a request like that, can I?♪",
       "choice_data_list": [
         "Are you sure…?",
         "Are you sure…?"
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "Oh dearie… Hehe, I can't say no to a request like that, can I?♪"
     },
     {
       "name": "Maruzensky",
@@ -112,12 +112,12 @@
       "text": "—And the next day."
     },
     {
-      "name": "Maruzensky",
-      "text": "Alright, another lively day of training \nawaits♪ I'm raring to go! What do I—",
       "choice_data_list": [
         "Before we start, here's something for you.",
         "Before we go, I got you something."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "Alright, another lively day of training \nawaits♪ I'm raring to go! What do I—"
     },
     {
       "name": "Maruzensky",
@@ -139,18 +139,18 @@
       "text": "Wasn't it pretty far? And the line must have been long?"
     },
     {
-      "name": "Maruzensky",
-      "text": "You went through all this trouble because \nof what I said yesterday…",
       "choice_data_list": [
         "I just wanted you to be happy."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "You went through all this trouble because \nof what I said yesterday…"
     },
     {
-      "name": "Maruzensky",
-      "text": "You went through all this trouble because \nof what I said yesterday…",
       "choice_data_list": [
         "I just wanted you to be happy."
-      ]
+      ],
+      "name": "Maruzensky",
+      "text": "You went through all this trouble because \nof what I said yesterday…"
     },
     {
       "name": "Maruzensky",

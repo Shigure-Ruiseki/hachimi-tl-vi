@@ -10,11 +10,11 @@
       "text": "It's hard to believe that this was\njust a qualifying round, but it\nwas a great, heated race!"
     },
     {
-      "name": "Tazuna Hayakawa",
-      "text": "Next up is the semifinals, where you\nwill face the others powerful enough\nto make it through. It will surely\nbe an even tougher race.",
       "choice_data_list": [
         "And we'll win that too!"
-      ]
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "Next up is the semifinals, where you\nwill face the others powerful enough\nto make it through. It will surely\nbe an even tougher race."
     },
     {
       "name": "Tazuna Hayakawa",

@@ -5,30 +5,30 @@
       "text": "Today, Rice Shower and I were at the beach for the first \nday of summer training camp. Wasting no time, we dove \nstraight into our training, however ——"
     },
     {
-      "name": "Rice Shower",
-      "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big brother?",
       "choice_data_list": [
         "You're making steady progress, but…"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big brother?"
     },
     {
-      "name": "Rice Shower",
-      "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big sister?",
       "choice_data_list": [
         "You're making steady progress, but…",
         "You're making steady progress, but…"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big sister?"
     },
     {
       "name": "Rice Shower",
       "text": "Ahh… we haven't quite reached our goal, right? \nI'm sorry… it's because I'm not good enough…"
     },
     {
-      "name": "Rice Shower",
-      "text": "… But, you know, I understand where I'm having issues. \nS-So I want to keep trying until I overcome them.",
       "choice_data_list": [
         "Good stuff! Keep giving it your all!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "… But, you know, I understand where I'm having issues. \nS-So I want to keep trying until I overcome them."
     },
     {
       "name": "Rice Shower",
@@ -50,12 +50,12 @@
       "text": "Eyes filled with determination, Rice Shower sprinted ahead \nwith bold strides that reflected her unwavering resolve. \nWhile watching over her, I heard a little voice ——"
     },
     {
-      "name": "Small Trainee",
-      "text": "… Wow, that's so amazing! Even though she's \nbeen at it for a while, she's still running!",
       "choice_data_list": [
         "And you were…?",
         "And you were…?"
-      ]
+      ],
+      "name": "Small Trainee",
+      "text": "… Wow, that's so amazing! Even though she's \nbeen at it for a while, she's still running!"
     },
     {
       "name": "Small Trainee",
@@ -65,12 +65,12 @@
       "text": "The small trainee frantically dashed away into the distance…"
     },
     {
-      "name": "Rice Shower",
-      "text": "Ahhh, I'm beat…!!",
       "choice_data_list": [
         "Well done, Rice! We reached our goal!",
         "Well done, Rice! We reached our goal!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "Ahhh, I'm beat…!!"
     },
     {
       "name": "Rice Shower",
@@ -194,11 +194,11 @@
       "text": "Ah……"
     },
     {
-      "name": "Rice Shower",
-      "text": "W-Why…? It's because of me that she's all drenched like this… \nSo… why is she thanking me…?",
       "choice_data_list": [
         "Because you're the one who inspired her."
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "W-Why…? It's because of me that she's all drenched like this… \nSo… why is she thanking me…?"
     },
     {
       "name": "Rice Shower",
@@ -216,12 +216,12 @@
       "text": "I'm sorry… for suddenly crying on you like that… \nBut… I was just so happy."
     },
     {
-      "name": "Rice Shower",
-      "text": "That just never happened before. It's the first time that I could \ninspire someone instead of bringing them unhappiness…",
       "choice_data_list": [
         "You definitely lit up her world!",
         "You definitely lit up her world!"
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "That just never happened before. It's the first time that I could \ninspire someone instead of bringing them unhappiness…"
     },
     {
       "name": "Rice Shower",

@@ -20,12 +20,12 @@
       "text": "Woah! There's so many people here. \nIt's almost like the Twinkle Series!! \nAhaha, everyone's so excited!!"
     },
     {
-      "name": "Tokai Teio",
-      "text": "Wait! Hey, so you actually came!",
       "choice_data_list": [
         "How're you feeling?",
         "How're you feeling?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Wait! Hey, so you actually came!"
     },
     {
       "name": "Tokai Teio",
@@ -36,12 +36,12 @@
       "text": "Wait… Today I'm against Prez… and I'm…"
     },
     {
-      "name": "Tokai Teio",
-      "text": "I'm against her…",
       "choice_data_list": [
         "Is something the matter?",
         "Is something the matter?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "I'm against her…"
     },
     {
       "name": "Tokai Teio",
@@ -120,11 +120,11 @@
       "text": "They're cheering so hard for her… They're all \nstaring at her…"
     },
     {
-      "name": "Tokai Teio",
-      "text": "They're… only looking at her…",
       "choice_data_list": [
         "Are you okay?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "They're… only looking at her…"
     },
     {
       "name": "Tokai Teio",
@@ -141,45 +141,45 @@
       "text": "I wouldn't see her again until later that night. \nIt was at a park near the academy."
     },
     {
-      "name": "Tokai Teio",
       "choice_data_list": [
         "What're you doing out so late?",
         "What're you doing out so late?"
-      ]
+      ],
+      "name": "Tokai Teio"
     },
     {
       "name": "Tokai Teio",
       "text": "Oh, it's you… well I don't really feel like \ntalking right now."
     },
     {
-      "name": "Tokai Teio",
-      "text": "Later! Nngh?!",
       "choice_data_list": [
         "Are you okay?",
         "Are you okay?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Later! Nngh?!"
     },
     {
       "text": "As I rushed over, I noticed that her legs were \nshaking violently. She's definitely pushing \nherself too hard."
     },
     {
-      "name": "Tokai Teio",
-      "text": "Hmph… It's nothing, okay? I'm going to continue \ntraining, so go away!",
       "choice_data_list": [
         "I can't allow you to push yourself any further!",
         "I can't allow you to push yourself any further!"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Hmph… It's nothing, okay? I'm going to continue \ntraining, so go away!"
     },
     {
       "name": "Tokai Teio",
       "text": "Shut up, stop acting like you know it all!"
     },
     {
-      "name": "Tokai Teio",
-      "text": "Go away! You're not even my trainer, \nso don't lecture me!!",
       "choice_data_list": [
         "I refuse!!"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Go away! You're not even my trainer, \nso don't lecture me!!"
     },
     {
       "name": "Tokai Teio",
@@ -193,18 +193,18 @@
       "text": "I sat by Tokai Teio's side, trying \nto soothe her as she cried…"
     },
     {
-      "name": "Tokai Teio",
       "choice_data_list": [
         "Are you feeling a little better?",
         "Are you feeling a little better?"
-      ]
+      ],
+      "name": "Tokai Teio"
     },
     {
-      "name": "Tokai Teio",
-      "text": "Yeah… But… I still don't get it.",
       "choice_data_list": [
         "What don't you get?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Yeah… But… I still don't get it."
     },
     {
       "name": "Tokai Teio",

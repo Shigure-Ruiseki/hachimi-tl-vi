@@ -46,12 +46,12 @@
       "text": "I get it, I get it. I'll take a look at your running too. So that \nthings work out next time, we'll formulate some countermeasures."
     },
     {
-      "name": "Cesario",
-      "text": "Waaa……today too, she's surrounded by so many. It's amazing……",
       "choice_data_list": [
         "Cesario, you admire Air Groove too?",
         "Cesario, you admire Air Groove too?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Waaa……today too, she's surrounded by so many. It's amazing……"
     },
     {
       "name": "Cesario",
@@ -72,12 +72,12 @@
       "text": "Air Groove became a second generation winner at \nthe 『Oaks』. From mother to child, that run was \ninherited. It kind of gives credence to that."
     },
     {
-      "name": "Cesario",
-      "text": "And that, on campus, she's always surrounded by so many \nbecause she can provide the kind of guidance they need.",
       "choice_data_list": [
         "You want to become like that, right?",
         "You want to become like that, right?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "And that, on campus, she's always surrounded by so many \nbecause she can provide the kind of guidance they need."
     },
     {
       "name": "Cesario",
@@ -88,11 +88,11 @@
       "text": "Even if that dream is just a small one, when all \nof those dreams come together, they become one big \ndream. I think that……is a really wonderful thing!"
     },
     {
-      "name": "Cesario",
-      "text": "That's the kind of grand dream that I'm willing \nto devote my life to, to see it realized.",
       "choice_data_list": [
         "(She's in On mode now……!!)"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "That's the kind of grand dream that I'm willing \nto devote my life to, to see it realized."
     },
     {
       "name": "Cesario",
@@ -114,28 +114,28 @@
       "text": "I could feel my heart pounding in my chest again."
     },
     {
-      "text": "Crossing generations, the inheritance of an Uma \nMusume. Connecting the past to the future, as \nif flowing downstream in to a distant ocean.",
       "choice_data_list": [
         "(They are the 『Now』 that connects them)"
-      ]
+      ],
+      "text": "Crossing generations, the inheritance of an Uma \nMusume. Connecting the past to the future, as \nif flowing downstream in to a distant ocean."
     },
     {
       "text": "The sheer scale of it made my head spin. \nCesario was looking far beyond the present, in to the future."
     },
     {
-      "text": "\"As a squash is before ’tis a peascod, or a codling \nwhen ’tis almost an apple\"――How could one not be \noverwhelmed by the prospects of a girl like her?",
       "choice_data_list": [
         "It's an amazing dream……",
         "It's an amazing dream……"
-      ]
+      ],
+      "text": "\"As a squash is before ’tis a peascod, or a codling \nwhen ’tis almost an apple\"――How could one not be \noverwhelmed by the prospects of a girl like her?"
     },
     {
-      "name": "Cesario",
-      "text": "Yes, I am aware it's an amazing dream.",
       "choice_data_list": [
         "……just a 『Guiding Light』 is not enough",
         "……just a 『Guiding Light』 is not enough"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Yes, I am aware it's an amazing dream."
     },
     {
       "text": "She had mentioned many times that she wanted to win the \nTriple Tiara, especially the 『Oaks』 to prove her worth."
@@ -152,20 +152,20 @@
       "text": "It won't be enough just to guide me to prove my worth in races. \nFor my dream――I need someone who will accompany me the entire way."
     },
     {
-      "name": "Cesario",
-      "text": "If I had to put it to words, a 『Partner』, someone to walk \nthis path together throughout life. Someone that makes me \nbelieve they will be that person, is who I want as my trainer.",
       "choice_data_list": [
         "(A 『Partner』……)"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "If I had to put it to words, a 『Partner』, someone to walk \nthis path together throughout life. Someone that makes me \nbelieve they will be that person, is who I want as my trainer."
     },
     {
       "text": "Even after parting ways with Cesario, \nmy heart was still beating loudly."
     },
     {
-      "text": "The sun was setting behind the buildings, \nnight was approaching from the east. In to \nthat night, I wish I could toss aside this longing.",
       "choice_data_list": [
         "(But here, it was as bright as midday)"
-      ]
+      ],
+      "text": "The sun was setting behind the buildings, \nnight was approaching from the east. In to \nthat night, I wish I could toss aside this longing."
     },
     {
       "text": "……But, now wasn't the time to be feeling like a character in \na play. I needed to think about what I could do for Cesario."
@@ -178,25 +178,25 @@
       "text": "…………Dura, your growth is quite remarkable……"
     },
     {
-      "text": "As I slowly gazed down in to the courtyard, Air Groove \nappeared. The appearance of an unexpected character \nseemed like providence, turning tragedy to comedy.",
       "choice_data_list": [
         "If it's her……then she might know!"
-      ]
+      ],
+      "text": "As I slowly gazed down in to the courtyard, Air Groove \nappeared. The appearance of an unexpected character \nseemed like providence, turning tragedy to comedy."
     },
     {
-      "name": "Air Groove",
-      "text": "You're……the trainer that was together with Cesario. \nWhat do you need that has you so out of breath?",
       "choice_data_list": [
         "As Cesario's predecessor, I wanted your opinion"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "You're……the trainer that was together with Cesario. \nWhat do you need that has you so out of breath?"
     },
     {
-      "name": "Air Groove",
-      "text": "Cesario's predecessor? Me?",
       "choice_data_list": [
         "You might know what Cesario is thinking",
         "You might know what Cesario is thinking"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "Cesario's predecessor? Me?"
     },
     {
       "name": "Air Groove",

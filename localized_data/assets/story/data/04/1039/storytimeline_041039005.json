@@ -6,12 +6,12 @@
       "text": "—Doriyaaaaaaaa～～～～！！！！ \nThe princess is coming through～～～～！！！！"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "I did it～～～～! I did it again today, with grace, elegance, \nand bravery! It's a great victory!",
       "choice_data_list": [
         "You're doing great.",
         "You're doing great."
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "I did it～～～～! I did it again today, with grace, elegance, \nand bravery! It's a great victory!"
     },
     {
       "name": "Kawakami Princess",
@@ -22,12 +22,12 @@
       "text": "……My, my destiny! My future prince is with me!"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "When two people connect with each other, a miracle always \nhappens! That's the power of the \"bond\"!!",
       "choice_data_list": [
         "Wow, that's a lot of confidence……",
         "Wow, that's a lot of confidence……"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "When two people connect with each other, a miracle always \nhappens! That's the power of the \"bond\"!!"
     },
     {
       "name": "Kawakami Princess",
@@ -53,43 +53,43 @@
       "text": "Pffffft～ What's a hundred billion princess level! \nI'm a princess as well! A princess who found her prince……!"
     },
     {
-      "name": "Trainee with Ringlets",
-      "text": "……Prince? Don't tell me you mean the trainer here?",
       "choice_data_list": [
         "……Yes, it's me."
-      ]
+      ],
+      "name": "Trainee with Ringlets",
+      "text": "……Prince? Don't tell me you mean the trainer here?"
     },
     {
       "name": "Trainee with Ringlets",
       "text": "…… A～hahaha! That plain look didn't make me notice it at all! \nLike a little minced meat mixed with cheap carrot croquettes!"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "T… that's not true! My trainer is, let's see…… \nwagyu beef steak, sprinkled with caviar—",
       "choice_data_list": [
         "Can we not talk about food…"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "T… that's not true! My trainer is, let's see…… \nwagyu beef steak, sprinkled with caviar—"
     },
     {
       "name": "Trainee with Ringlets",
       "text": "Hmph… If you're so pissed, try shutting me up with a race. \nI'll have you personally shredded by a true princess!"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "Bring it on! I gonna beat you up so bad, you're gonna \ntake back what you said!",
       "choice_data_list": [
         "Wait a minute!"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "Bring it on! I gonna beat you up so bad, you're gonna \ntake back what you said!"
     },
     {
       "text": "That Uma Musume looks familiar. She's a powerhouse who's \nmade a name in the Twinkle Series……!"
     },
     {
-      "name": "Kawakami Princess",
-      "text": "Don't worry! I'm not going to let that mean person beat me. \nI will beat her until she goes home crying!",
       "choice_data_list": [
         "At least think of a strategy……!"
-      ]
+      ],
+      "name": "Kawakami Princess",
+      "text": "Don't worry! I'm not going to let that mean person beat me. \nI will beat her until she goes home crying!"
     },
     {
       "name": "Kawakami Princess",

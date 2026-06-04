@@ -83,11 +83,11 @@
       "text": "——An omen revealed itself."
     },
     {
-      "name": "Stay Gold",
-      "text": "…The rain's gotten kinda heavy hey.",
       "choice_data_list": [
         "Should we finish up for the day?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…The rain's gotten kinda heavy hey."
     },
     {
       "name": "Stay Gold",
@@ -101,11 +101,11 @@
       "text": "As I turned my head to follow \nStay Gold's gaze ——"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "<i>Haa, Haa, Haa </i>——",
       "choice_data_list": [
         "Silence Suzuka…!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "<i>Haa, Haa, Haa </i>——"
     },
     {
       "text": "Unfazed by the rain nor the wind, \nshe ran with the same vigor as if it \nwas an actual race ——"
@@ -119,12 +119,12 @@
       "text": "More… More, more, more…!"
     },
     {
-      "name": "Stay Gold",
-      "text": "……!",
       "choice_data_list": [
         "(Just what, is that run…!?)",
         "(Just what, is that run…!?)"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "……!"
     },
     {
       "text": "Even though I thought she was already \nat top speed, somehow she accelerated \neven further, leaving me utterly breathless \nwatching her in the moment."
@@ -141,26 +141,26 @@
       "text": "Yes………Just a little further…………"
     },
     {
-      "name": "Stay Gold",
-      "text": "…………She's too fast…………",
       "choice_data_list": [
         "Yeah, it's some incredible acceleration…",
         "Yeah, it's some incredible acceleration…"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…………She's too fast…………"
     },
     {
-      "name": "Stay Gold",
-      "text": "……You're right.",
       "choice_data_list": [
         "…Stego?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "……You're right."
     },
     {
-      "name": "Stay Gold",
-      "text": "…Maybe I'll finish up for today after all. \nSee ya tomorrow.",
       "choice_data_list": [
         "Eh? Ah, understood. Good work today —"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…Maybe I'll finish up for today after all. \nSee ya tomorrow."
     },
     {
       "text": "…Over yonder, distant thunder resounded, \nas if to announce the arrival of the \"storm\"."

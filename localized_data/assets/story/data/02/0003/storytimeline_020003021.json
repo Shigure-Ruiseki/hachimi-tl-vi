@@ -9,11 +9,11 @@
       "text": "Knock, knock! You in here, Trainer?"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Ah, there you are! Got a minute? I wanted to talk to you about the \nDerby exhibit.",
       "choice_data_list": [
         "Sure, what's up?"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Ah, there you are! Got a minute? I wanted to talk to you about the \nDerby exhibit."
     },
     {
       "name": "Winning Ticket",
@@ -182,16 +182,16 @@
       "text": "It feels like my old teacher can see me from the other side of the TV. \nLike he's saying, \"Here's the dream. You've got this, kid.\""
     },
     {
-      "text": "A dream yet unfulfilled… It dawns on me that I've been given \nsomething very precious. My mentor really believes in me…",
       "choice_data_list": [
         "It would be nice to win the Derby…"
-      ]
+      ],
+      "text": "A dream yet unfulfilled… It dawns on me that I've been given \nsomething very precious. My mentor really believes in me…"
     },
     {
-      "text": "A dream yet unfulfilled… It dawns on me that I've been given \nsomething very precious. My mentor really believes in me…",
       "choice_data_list": [
         "It would be nice to win the Derby…"
-      ]
+      ],
+      "text": "A dream yet unfulfilled… It dawns on me that I've been given \nsomething very precious. My mentor really believes in me…"
     },
     {
       "name": "Winning Ticket",
@@ -215,11 +215,11 @@
       "text": "The announcer's pretty good at interviewing too! I'm <i>blown away</i> that \nI got to hear this Derby story!"
     },
     {
-      "text": "Could this be fate? It certainly feels like it.",
       "choice_data_list": [
         "Hey, how about we go for it together?",
         "Hey, how about we go for it together?"
-      ]
+      ],
+      "text": "Could this be fate? It certainly feels like it."
     },
     {
       "name": "Winning Ticket",
@@ -252,12 +252,12 @@
       "text": "So if you're up for it, let's go for it together."
     },
     {
-      "name": "Winning Ticket",
-      "text": "For… for real? You sure you wanna partner up with me?",
       "choice_data_list": [
         "It's got to be you!",
         "It's got to be you!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "For… for real? You sure you wanna partner up with me?"
     },
     {
       "name": "Winning Ticket",

@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Fusaichi Pandora",
-      "text": "Eh……Ku-chan-senpai is still taking a break? \nWeren't we supposed to go back to normal training today——",
       "choice_data_list": [
         "Yeah, that was the plan, but——",
         "Yeah, that was the plan, but——"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Eh……Ku-chan-senpai is still taking a break? \nWeren't we supposed to go back to normal training today——"
     },
     {
       "text": "Today, when I happened to run in to her during lunch, she still \nseemed like she was tired. I was the one that told her to take a break."
@@ -20,19 +20,19 @@
       "text": "Right……well since the 『Takamatsunomiya Kinen』, \nshe's raced three consecutive months. If she takes \nsome time to slowly recover, it should be fine."
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Eh～, I guess so. ……Hm～～～……",
       "choice_data_list": [
         "What's wrong, Pandora?",
         "What's wrong, Pandora?"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Eh～, I guess so. ……Hm～～～……"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Well, right now Senpai's roommate is on a leave of absence right? \nDoesn't that mean she's alone in the dorms? ……Hmmmm～……",
       "choice_data_list": [
         "(……Seems like they've become quite close)"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Well, right now Senpai's roommate is on a leave of absence right? \nDoesn't that mean she's alone in the dorms? ……Hmmmm～……"
     },
     {
       "text": "——This is today's menu. I've been adding a lot of stuff to prepare \nfor the 『Oaks』 but……if you finish it, you can leave early, okay?"
@@ -61,12 +61,12 @@
       "text": "Uuryaaaaaaaaaaーーーー!! \n…………Alright～! My best time!!"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "And so, Trainer!?",
       "choice_data_list": [
         "Okay, okay. You're done for today!",
         "Okay, okay. You're done for today!"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "And so, Trainer!?"
     },
     {
       "name": "Fusaichi Pandora",
@@ -187,11 +187,11 @@
       "text": "………… ——Um, Trainer."
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "To win the 『Oaks』……what else do I need to do?",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "To win the 『Oaks』……what else do I need to do?"
     },
     {
       "name": "King Halo",
@@ -214,10 +214,10 @@
       "text": "First, I'm sure you've heard this many times, but your abilities…… \nYour potential is incredible. We need to take full advantage of that."
     },
     {
-      "text": "On the other hand, it's fine to think that the reason you've \nlost up until now is because you weren't 『Able to give your \nfullest』. The important thing——is to 『Run until the end』",
       "choice_data_list": [
         "In other words, be 『Tenacious』"
-      ]
+      ],
+      "text": "On the other hand, it's fine to think that the reason you've \nlost up until now is because you weren't 『Able to give your \nfullest』. The important thing——is to 『Run until the end』"
     },
     {
       "name": "Antenna-haired Trainee",
@@ -242,16 +242,16 @@
       "text": "Let's make parallel running with Kraft our main focus! \nThink hard about your stamina reserves and when to press the attack."
     },
     {
-      "text": "Especially when it comes to your biggest rival at \nthe 『Oaks』, Kawakami Princess. Just like Kraft, \nshe's the type that excels at longer sustained spurts.",
       "choice_data_list": [
         "Surpassing that will be the true battle!"
-      ]
+      ],
+      "text": "Especially when it comes to your biggest rival at \nthe 『Oaks』, Kawakami Princess. Just like Kraft, \nshe's the type that excels at longer sustained spurts."
     },
     {
-      "text": "Especially when it comes to your biggest rival at \nthe 『Oaks』, Kawakami Princess. Just like Kraft, \nshe's the type that excels at longer sustained spurts.",
       "choice_data_list": [
         "Surpassing that will be the true battle!"
-      ]
+      ],
+      "text": "Especially when it comes to your biggest rival at \nthe 『Oaks』, Kawakami Princess. Just like Kraft, \nshe's the type that excels at longer sustained spurts."
     },
     {
       "name": "Fusaichi Pandora",
@@ -265,24 +265,24 @@
       "text": "T-Trainer-san, I apologize for her! \nPandora-san looks like she might be at her limit……!!"
     },
     {
-      "name": "Fusaichi Pandora",
-      "text": "Funyaa～～～……Howehehe……",
       "choice_data_list": [
         "Kraft, please take her back to the dorms",
         "Kraft, please take her back to the dorms"
-      ]
+      ],
+      "name": "Fusaichi Pandora",
+      "text": "Funyaa～～～……Howehehe……"
     },
     {
       "name": "Rhein Kraft",
       "text": "Understood……! Pandora-san, this way! Lean on my shoulder, \njust like that! Let's go～ One-two～……!"
     },
     {
-      "name": "King Halo",
-      "text": "Geez……it really does feel like it's the \n『Hardest she's ever worked in her life』 doesn't it?",
       "choice_data_list": [
         "Yeah……but she's doing her best",
         "Yeah……but she's doing her best"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Geez……it really does feel like it's the \n『Hardest she's ever worked in her life』 doesn't it?"
     },
     {
       "text": "Her first desire. Her first true effort. \nBut slowly that effort would add-up as the days passed——"

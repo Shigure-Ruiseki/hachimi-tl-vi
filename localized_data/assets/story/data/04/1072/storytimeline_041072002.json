@@ -5,10 +5,10 @@
       "text": "Several days after the Selection Race. There was a question that \nhad been on my mind the whole time. ……maybe that's why I found \nmyself heading to that river bank again."
     },
     {
-      "text": "I saw Yaeno Muteki here the day before the race, but the Yaeno \nMuteki I saw the day of the race――",
       "choice_data_list": [
         "(Why was she so different……？)"
-      ]
+      ],
+      "text": "I saw Yaeno Muteki here the day before the race, but the Yaeno \nMuteki I saw the day of the race――"
     },
     {
       "name": "Yaeno Muteki",
@@ -23,20 +23,20 @@
       "text": "……in the spectator seats at the Selection Race, I saw that you \nhappened to be there. While it's a bit late, thank you for taking \nthe trouble to attend."
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "However…… even though you took the trouble to come see me, \nI showed you such a disappointing run…… I am ashamed……",
       "choice_data_list": [
         "……you were completely different during the race",
         "……you were completely different during the race"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "However…… even though you took the trouble to come see me, \nI showed you such a disappointing run…… I am ashamed……"
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "……！",
       "choice_data_list": [
         "Which is the real you?",
         "Which is the real you?"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "……！"
     },
     {
       "name": "Yaeno Muteki",
@@ -87,12 +87,12 @@
       "text": "My grandfather said this. That inner fury―― if you continue to \nallow this 『Ardent Flame』 to rage, you will naturally continue to \nsuffer the consequences."
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "Channel this in to the Kongou Yaegaki Ryuu 『Kata』, in order to \ntemper that wild tendency. By doing this, you may eventually \nreach the state of 『Tranquil Water』.",
       "choice_data_list": [
         "And were you able to calm down？",
         "And were you able to calm down？"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "Channel this in to the Kongou Yaegaki Ryuu 『Kata』, in order to \ntemper that wild tendency. By doing this, you may eventually \nreach the state of 『Tranquil Water』."
     },
     {
       "name": "Yaeno Muteki",
@@ -115,11 +115,11 @@
       "text": "……I shall ask this of you as well. The answer to my grandfather's \nquestion, would you happen to know？"
     },
     {
-      "text": "……there was one thing that came to mind. Something where the goal \nis not to injure, but to compete and enjoy oneself. That's――",
       "choice_data_list": [
         "A 『Race』……！",
         "A 『Race』……！"
-      ]
+      ],
+      "text": "……there was one thing that came to mind. Something where the goal \nis not to injure, but to compete and enjoy oneself. That's――"
     },
     {
       "name": "Yaeno Muteki",
@@ -146,11 +146,11 @@
       "text": "However……――！"
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "Even on this path！ Even in the race, I've been made aware that I \ncan still be overcome by these emotions……！！",
       "choice_data_list": [
         "Yaeno Muteki……"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "Even on this path！ Even in the race, I've been made aware that I \ncan still be overcome by these emotions……！！"
     },
     {
       "name": "Yaeno Muteki",
@@ -168,29 +168,29 @@
       "text": "Being unable to control herself, while carrying \nthat anguish―― Even with that, Yaeno Muteki was \nearnestly trying to overcome this hurdle."
     },
     {
-      "text": "While standing there in front of her, \nthese words naturally came out―",
       "choice_data_list": [
         "Will you let me help you？",
         "Will you let me help you？"
-      ]
+      ],
+      "text": "While standing there in front of her, \nthese words naturally came out―"
     },
     {
       "name": "Yaeno Muteki",
       "text": "Eh――"
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "…………for what reason？ From the perspective of a trainer, \nmy current self is nothing but an illーtempered Uma Musume, there is \nno merit in being concerned with me.",
       "choice_data_list": [
         "Merit has nothing to do with this"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "…………for what reason？ From the perspective of a trainer, \nmy current self is nothing but an illーtempered Uma Musume, there is \nno merit in being concerned with me."
     },
     {
-      "text": "To show her that that was not the reason―― \nI continued to look straight in to her eyes.",
       "choice_data_list": [
         "I want to cheer you on",
         "I want to cheer you on"
-      ]
+      ],
+      "text": "To show her that that was not the reason―― \nI continued to look straight in to her eyes."
     },
     {
       "name": "Yaeno Muteki",
@@ -205,11 +205,11 @@
       "text": "……truthfully, I'm fully aware that I'm at a complete loss. \nThat's why…… I would also like to request your help."
     },
     {
-      "name": "Yaeno Muteki",
-      "text": "In order to help me find a way to control this 『Ardent Flame』…… \nwould I be able to request your assistance?",
       "choice_data_list": [
         "Of course！"
-      ]
+      ],
+      "name": "Yaeno Muteki",
+      "text": "In order to help me find a way to control this 『Ardent Flame』…… \nwould I be able to request your assistance?"
     },
     {
       "name": "Yaeno Muteki",

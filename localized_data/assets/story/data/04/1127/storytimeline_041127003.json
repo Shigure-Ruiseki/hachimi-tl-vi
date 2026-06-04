@@ -8,12 +8,12 @@
       "text": "You kids better keep your eyes peeled, got it~?\nAnd grab a bag, 'cuz my cruise is gonna make you seasick!"
     },
     {
-      "text": "Big Sis Golshi! Do your best!\nGo get 'em!",
-      "name": "Elementary School Umamusume"
+      "name": "Elementary School Umamusume",
+      "text": "Big Sis Golshi! Do your best!\nGo get 'em!"
     },
     {
-      "text": "Eek... Is she mad...?",
-      "name": "Timid Umamusume Child"
+      "name": "Timid Umamusume Child",
+      "text": "Eek... Is she mad...?"
     },
     {
       "choice_data_list": [
@@ -46,15 +46,15 @@
       "text": "Wha...! You fiend――!"
     },
     {
-      "text": "Heheh, Operation Distraction is a success! \nGet swept away by my big wave, baby!\nAnchors aweigh～～～～～☆",
-      "name": "Gold Ship"
+      "name": "Gold Ship",
+      "text": "Heheh, Operation Distraction is a success! \nGet swept away by my big wave, baby!\nAnchors aweigh～～～～～☆"
     },
     {
-      "text": "Fenomeno had completely lost concentration. Unable to recover from her messy start, she got caught up in Gold Ship's pace from start to finish.",
       "choice_data_list": [
         "(Her attitude is working against her...)",
         "(Her attitude is working against her...)"
-      ]
+      ],
+      "text": "Fenomeno had completely lost concentration. Unable to recover from her messy start, she got caught up in Gold Ship's pace from start to finish."
     },
     {
       "name": "Fenomeno",
@@ -73,8 +73,8 @@
       "text": "Kgh... ――I cannot abide by your behavior!\nYour unsportsmanshiplike conduct IS A BAD INFLUENCE ON THE CHILDREN!!"
     },
     {
-      "text": "――W... ....Waaahh!!\nShe's so... she's so scary... W-WAAAAHHHH!!!",
-      "name": "Timid Umamusume Child"
+      "name": "Timid Umamusume Child",
+      "text": "――W... ....Waaahh!!\nShe's so... she's so scary... W-WAAAAHHHH!!!"
     },
     {
       "name": "Gold Ship",
@@ -94,17 +94,17 @@
       "text": "Fenomeno chose not to join us in saying goodbye to the kids... But she looked pretty down on herself.\n"
     },
     {
-      "text": "She was an earnest girl, and cared deeply for the children――\nWhich means she probably blamed herself for what happened.",
       "choice_data_list": [
         "...I'm worried. I should check in on her.",
         "...I'm worried. I should check in on her."
-      ]
+      ],
+      "text": "She was an earnest girl, and cared deeply for the children――\nWhich means she probably blamed herself for what happened."
     },
     {
-      "name": "Fenomeno",
       "choice_data_list": [
         "Hey, you hungry?"
       ],
+      "name": "Fenomeno",
       "text": "――I'm so pathetic...\nSuch an immature fool...!"
     },
     {
@@ -112,23 +112,23 @@
       "text": "――!\nOh... Trainer..."
     },
     {
-      "name": "Fenomeno",
-      "text": "Anpan and milk...?\n...Heh. It's just like a police procedural.",
       "choice_data_list": [
         "...If you want to talk, I'm here to listen."
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "Anpan and milk...?\n...Heh. It's just like a police procedural."
     },
     {
       "name": "Fenomeno",
       "text": "...Thank you very much."
     },
     {
-      "name": "Fenomeno",
-      "text": "My inexperience has been nothing but trouble for you.\n...I truly am so immature...\nI'm a long way from being able to call myself a \"hero\".",
       "choice_data_list": [
         "That's what you strive to be, right?",
         "That's what you strive to be, right?"
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "My inexperience has been nothing but trouble for you.\n...I truly am so immature...\nI'm a long way from being able to call myself a \"hero\"."
     },
     {
       "name": "Fenomeno",
@@ -181,10 +181,10 @@
       "text": "She was talented. She had a comfortable stride, and her running in the home stretch was powerful―― If she put those talents to good use, she could certainly run in a \"cool\" way."
     },
     {
-      "text": "But right now, her honest, disciplined attitude was only working against her.",
       "choice_data_list": [
         "Just stay calm. Run at your own pace."
-      ]
+      ],
+      "text": "But right now, her honest, disciplined attitude was only working against her."
     },
     {
       "name": "Fenomeno",
@@ -202,15 +202,15 @@
       "text": "Run in... a cool way..."
     },
     {
-      "name": "Fenomeno",
-      "text": "...Boss.",
       "choice_data_list": [
         "...boss?"
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "...Boss."
     },
     {
-      "text": "――Boss! Please, let me call you Boss!\nIf you were to instruct me... I would be incredibly honored!!",
-      "name": "Fenomeno"
+      "name": "Fenomeno",
+      "text": "――Boss! Please, let me call you Boss!\nIf you were to instruct me... I would be incredibly honored!!"
     }
   ],
   "title": "One Must Guide The Next Generation Well"

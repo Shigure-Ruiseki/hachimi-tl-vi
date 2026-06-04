@@ -40,11 +40,11 @@
       "text": "That's because I've had Trainer with me! They've been helping \nme get prepared to show everyone this special Marvelous!"
     },
     {
-      "name": "Marvelous Sunday",
-      "text": "All of it's been for the sake of today's Marvelous☆ I want \nto show everyone the greatest Marvelous as soon as I can!",
       "choice_data_list": [
         "――Isn't it your turn soon?"
-      ]
+      ],
+      "name": "Marvelous Sunday",
+      "text": "All of it's been for the sake of today's Marvelous☆ I want \nto show everyone the greatest Marvelous as soon as I can!"
     },
     {
       "text": "I heard a voice urging the participants to gather \nat the gate. I told her to do her best out there――"
@@ -204,12 +204,12 @@
       "text": "I won't do anything! After all, I've already made up my mind☆"
     },
     {
-      "name": "Marvelous Sunday",
-      "text": "Did ya see that, Trainer!? The moment I showed everyone \nMarvelous! An exciting, heart-thumping, amazing Marvelous☆",
       "choice_data_list": [
         "Yeah, it was awesome!",
         "Yeah, it was awesome!"
-      ]
+      ],
+      "name": "Marvelous Sunday",
+      "text": "Did ya see that, Trainer!? The moment I showed everyone \nMarvelous! An exciting, heart-thumping, amazing Marvelous☆"
     },
     {
       "name": "Marvelous Sunday",
@@ -227,11 +227,11 @@
       "text": "Of course, I had already decided. I wanted to keep \nsupporting her, helping her spread the Marvelous word."
     },
     {
-      "text": "She wanted everyone to know that wonderful \nsurprises were all around. I wanted to help \nsomeone with such a wholesome wish. That's why――",
       "choice_data_list": [
         "Looking forward to it!",
         "Looking forward to it!"
-      ]
+      ],
+      "text": "She wanted everyone to know that wonderful \nsurprises were all around. I wanted to help \nsomeone with such a wholesome wish. That's why――"
     },
     {
       "text": "And so, the days of conveying that ideal with the \nsuper-positive Uma Musume, Marvelous Sunday, began――!"

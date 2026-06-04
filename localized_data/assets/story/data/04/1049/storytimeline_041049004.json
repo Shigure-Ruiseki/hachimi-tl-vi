@@ -10,21 +10,21 @@
       "text": "By the way, I know you made me train for pitch running, \nbut… it's usually the opposite if we are competing on grass. \nShouldn't I be running with a wider stride?"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Since pitch running uses a short stride, its high turnover \nincreases acceleration, but it wears out the runner quickly… \nIt's good for dirt races or sprints, yeah?",
       "choice_data_list": [
         "This course is special."
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Since pitch running uses a short stride, its high turnover \nincreases acceleration, but it wears out the runner quickly… \nIt's good for dirt races or sprints, yeah?"
     },
     {
       "text": "I had chosen to rent out the freestyle race track instead of the \non-campus course. The turf there isn't well maintained and \nrunning there requires a lot of power."
     },
     {
-      "text": "What is required is not a running technique geared towards \ndomestic turf courses. It is a technique that can be used all \nover the world, no matter what kind of surface it is on.",
       "choice_data_list": [
         "You're going to go out there \nand win against the world.",
         "You're going to go out there \nand win against the world."
-      ]
+      ],
+      "text": "What is required is not a running technique geared towards \ndomestic turf courses. It is a technique that can be used all \nover the world, no matter what kind of surface it is on."
     },
     {
       "name": "Nakayama Festa",
@@ -114,11 +114,11 @@
       "text": "…! No way!?"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "HAAAAAAAAAAAAAAAAAAH!",
       "choice_data_list": [
         "Keep going from the inside!"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "HAAAAAAAAAAAAAAAAAAH!"
     },
     {
       "name": "Reporter B",
@@ -169,23 +169,23 @@
       "text": "Well, maybe that girl could get an article if we ever get a \nfollow up on her. How far will the girl who cried wolf fall? \n…There's a demographic who likes bad endings, right?"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Hahaaaaah. This is a huge loss. I haven't even debuted \nand I've already made a fool of myself.",
       "choice_data_list": [
         "<size=34>But you got attention. This is just the beginning.</size>"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Hahaaaaah. This is a huge loss. I haven't even debuted \nand I've already made a fool of myself."
     },
     {
       "name": "Nakayama Festa",
       "text": "Haah, that's for sure. The look in the reporters' \neyes has changed. If we flunk the next race, \nthe articles will be scathing. Keheheh…"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "The odds are absolutely against me! I'm not just fired up, \nmy heart's begging me to get ready for the next race!",
       "choice_data_list": [
         "<size=38>So, will you officially sign a contract with me?</size>",
         "<size=38>So, will you officially sign a contract with me?</size>"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "The odds are absolutely against me! I'm not just fired up, \nmy heart's begging me to get ready for the next race!"
     },
     {
       "name": "Nakayama Festa",

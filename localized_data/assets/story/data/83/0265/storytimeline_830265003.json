@@ -5,18 +5,18 @@
       "text": "An event sponsored by Tracen Academy \nhas opened at Tokyo Racecourse today."
     },
     {
-      "name": "Crowd",
-      "text": "— The mini-live is going to start soon! \n— Who's in the next race? \n— That last race was crazy～!",
       "choice_data_list": [
         "Everyone's getting into it～"
-      ]
+      ],
+      "name": "Crowd",
+      "text": "— The mini-live is going to start soon! \n— Who's in the next race? \n— That last race was crazy～!"
     },
     {
-      "text": "The turnout today gave the event a \nfestival-like feel that didn't pale in \ncomparison to any other race day.",
       "choice_data_list": [
         "The racers seem pretty nervous too.",
         "The racers seem pretty nervous too."
-      ]
+      ],
+      "text": "The turnout today gave the event a \nfestival-like feel that didn't pale in \ncomparison to any other race day."
     },
     {
       "name": "Festive Uma",
@@ -127,11 +127,11 @@
       "text": "<i>Haaaaaaaaah!!</i>"
     },
     {
-      "name": "Event Caster",
-      "text": "It's Admire Groove, Admire Groove! \nYou wouldn't think this is an event race \nwith this amazing running we're seeing!",
       "choice_data_list": [
         "What a run… but why ——"
-      ]
+      ],
+      "name": "Event Caster",
+      "text": "It's Admire Groove, Admire Groove! \nYou wouldn't think this is an event race \nwith this amazing running we're seeing!"
     },
     {
       "name": "Admire Groove",

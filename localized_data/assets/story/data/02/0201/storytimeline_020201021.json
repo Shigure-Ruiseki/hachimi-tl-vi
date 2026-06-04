@@ -20,11 +20,11 @@
       "text": "Yes! I'm nowhere near satisfied with this……! \nI can't be satisfied with this result!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "I want to be able to get even better results. \nSo I can become who I want to be……!",
       "choice_data_list": [
         "『Become who you want to be』?"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "I want to be able to get even better results. \nSo I can become who I want to be……!"
     },
     {
       "name": "Rhein Kraft",
@@ -47,12 +47,12 @@
       "text": "I believe that's exactly what their senpais also gave to them…… \nand that's what I feel connects them all together."
     },
     {
-      "name": "Rhein Kraft",
-      "text": "That's why, with everything they've given me, \nI want to become part of that too. Next time, \nI want to be the one that inspires someone!",
       "choice_data_list": [
         "I see, so that's……your dream",
         "I see, so that's……your dream"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "That's why, with everything they've given me, \nI want to become part of that too. Next time, \nI want to be the one that inspires someone!"
     },
     {
       "text": "……Having a lot to reflect on means that there's a \nlot of room to grow for next time. So you can become \nwho you want to be, let's work hard, Kraft!"
@@ -70,12 +70,12 @@
       "text": "We have a lot of preparations to do before the end of \nnext month, don't we? Cesario-san, are you prepared?"
     },
     {
-      "name": "Cesario",
-      "text": "Of course. ……Trainer, \nyou don't have to hold back one bit, I'm looking forward to it.",
       "choice_data_list": [
         "Right, I got it. We'll go for it!",
         "Right, I got it. We'll go for it!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Of course. ……Trainer, \nyou don't have to hold back one bit, I'm looking forward to it."
     },
     {
       "text": "And so, December 25th, a Christmas debut, approached. \nCesario was――"
@@ -103,12 +103,12 @@
       "text": "Trainer……thank you very much for the words of praise. \n……However, all I've done is just finish my first race."
     },
     {
-      "name": "Cesario",
-      "text": "I intend to continue doing my best without letting my guard down, \nso I'll leave it to you to keep up the strict guidance.",
       "choice_data_list": [
         "R-right……! Leave it to me!",
         "R-right……! Leave it to me!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "I intend to continue doing my best without letting my guard down, \nso I'll leave it to you to keep up the strict guidance."
     },
     {
       "text": "Even though she just won, without even a smile on her \nface, Cesario bowed her head. She was an Uma Musume \nwho embodied the concept of stoicism and fortitude……!"
@@ -141,11 +141,11 @@
       "text": "Ahaha! Oh come on, it's Cesario obviously~! \nYay, yay, Cesario's cake~! I've been looking forward to it~♪"
     },
     {
-      "name": "Cesario",
-      "text": "Be careful not to get cream on your nose again, Kraft. \nAh, Trainer too, do you have any favorite fruits?",
       "choice_data_list": [
         "S-strawberries maybe-……hold up!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Be careful not to get cream on your nose again, Kraft. \nAh, Trainer too, do you have any favorite fruits?"
     },
     {
       "text": "Really……are you really Cesario……!? How should I put it, \num, you have a completely different aura about you……!?"
@@ -158,11 +158,11 @@
       "text": "Ah……now that you mention it, ever since I joined \nthe team I've just been so focused the whole time…… \nI guess this is the first time I've really relaxed?"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Cesario is someone who has a really \ndrastic on-off switch, you see~!",
       "choice_data_list": [
         "I…………I see…………?"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Cesario is someone who has a really \ndrastic on-off switch, you see~!"
     },
     {
       "name": "King Halo",
@@ -194,11 +194,11 @@
       "text": "Let's see……Ah, my coat is on that hangar over \nthere, so can you use that? Thanks, Cesario."
     },
     {
-      "name": "Cesario",
-      "text": "No problem. ……Oh, huh? Excuse me, \nthese were under your coat, is this……?",
       "choice_data_list": [
         "Ah! That's……"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "No problem. ……Oh, huh? Excuse me, \nthese were under your coat, is this……?"
     },
     {
       "text": "I was planning on giving them out later……they're \npresents for everyone. It's nothing too fancy though."
@@ -215,11 +215,11 @@
       "text": "Trainer……I'm sorry, \nI probably should have prepared something too."
     },
     {
-      "name": "Cesario",
-      "text": "……can we just say that my debut win is your present \nfor now? Can you forgive me with that for now? Fufuu.",
       "choice_data_list": [
         "No, that's more than enough!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "……can we just say that my debut win is your present \nfor now? Can you forgive me with that for now? Fufuu."
     },
     {
       "text": "(……once more I can't help but think that Kraft and Cesario are both \nreally kind. Not only that, but they're both really talented……)"

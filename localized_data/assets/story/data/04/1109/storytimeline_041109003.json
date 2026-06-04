@@ -2,38 +2,38 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Announcer",
-      "text": "――Air Groove is about 4 lengths behind! \nFrom the center, Air Groove pushes forward!!",
       "choice_data_list": [
         "This is……Air Groove's 『Oaks』!"
-      ]
+      ],
+      "name": "Announcer",
+      "text": "――Air Groove is about 4 lengths behind! \nFrom the center, Air Groove pushes forward!!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Yeah, that's right! And, just after this! The girls \non the inside start moving to the outside, cutting off \nher path so she immediately moves to the outside……!",
       "choice_data_list": [
         "She accelerated and passed them instantly!",
         "She accelerated and passed them instantly!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Yeah, that's right! And, just after this! The girls \non the inside start moving to the outside, cutting off \nher path so she immediately moves to the outside……!"
     },
     {
       "name": "Rhein Kraft",
       "text": "Yeah, she did! It was an instant decision ignoring \nthat her distance to the goal was longer! I wish \nI could be cool and run like that too――!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "As expected, Trainer-san gets it too! Um, do you \nwant to watch another video together? Like this one……!",
       "choice_data_list": [
         "Yeah! I remember this race too――",
         "Yeah! I remember this race too――"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "As expected, Trainer-san gets it too! Um, do you \nwant to watch another video together? Like this one……!"
     },
     {
-      "text": "After that, Rhein Kraft and I passionately \ntalked about the Tiara Uma Musumes' races. \nHer eyes were practically sparkling the whole time――",
       "choice_data_list": [
         "……you really admire them, huh?",
         "……you really admire them, huh?"
-      ]
+      ],
+      "text": "After that, Rhein Kraft and I passionately \ntalked about the Tiara Uma Musumes' races. \nHer eyes were practically sparkling the whole time――"
     },
     {
       "name": "Rhein Kraft",
@@ -88,11 +88,11 @@
       "text": "As a senpai, as a leader, or even as a mother. The Tiara Uma \nMusume have always created that connection with their own hands."
     },
     {
-      "name": "Rhein Kraft",
-      "text": "From the girls that went before, to the girls \nthat came after. They pass on that baton filled \nwith emotions, and then it gets picked up again.",
       "choice_data_list": [
         "An inheritance from the Tiara Uma Musume……"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "From the girls that went before, to the girls \nthat came after. They pass on that baton filled \nwith emotions, and then it gets picked up again."
     },
     {
       "name": "Rhein Kraft",
@@ -103,12 +103,12 @@
       "text": "I want to be like that too. \nI want my run to reach someone, to connect――"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "That someone will come along after me, \nand my running will be what I left to them.",
       "choice_data_list": [
         "That's why you want the Tiara rotation",
         "That's why you want the Tiara rotation"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "That someone will come along after me, \nand my running will be what I left to them."
     },
     {
       "name": "Rhein Kraft",
@@ -119,30 +119,30 @@
       "text": "There are things that only a Tiara Uma Musume can show us. \nAnd I believe there are things that only we can convey!"
     },
     {
-      "text": "So straightforward……from the beginning that hasn't changed. \nAfter hearing her unwavering declaration――",
       "choice_data_list": [
         "You'll definitely inspire someone",
         "You'll definitely inspire someone"
-      ]
+      ],
+      "text": "So straightforward……from the beginning that hasn't changed. \nAfter hearing her unwavering declaration――"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Eh? Trainer-san――",
       "choice_data_list": [
         "I can almost see it already",
         "I can almost see it already"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Eh? Trainer-san――"
     },
     {
       "name": "Rhein Kraft",
       "text": "……!"
     },
     {
-      "text": "I continued on. I wanted her to know. I needed \nto tell her. ……If she continued to honestly \npursue her dream, just how much would she bloom?",
       "choice_data_list": [
         "Can I help with your training?",
         "Can I help with your training?"
-      ]
+      ],
+      "text": "I continued on. I wanted her to know. I needed \nto tell her. ……If she continued to honestly \npursue her dream, just how much would she bloom?"
     },
     {
       "name": "Rhein Kraft",
@@ -156,29 +156,29 @@
       "text": "We shook hands under the starry sky―― \nAnd so, the days of training with Rhein Kraft began."
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Haaa, haaa, haaa……! I finished full power sprinting～～～……! \nAnd, next is light jogging……",
       "choice_data_list": [
         "Right, one more set afterwards!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Haaa, haaa, haaa……! I finished full power sprinting～～～……! \nAnd, next is light jogging……"
     },
     {
       "name": "Rhein Kraft",
       "text": "Yeah……!! \nHaa, huu, huu, haaa……!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Huu, huu, grrrr～～～……!! \nHnnnnnnnn……!!",
       "choice_data_list": [
         "Don't let your knees move so far foward!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Huu, huu, grrrr～～～……!! \nHnnnnnnnn……!!"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Haaaaaaaーーーーーーーーー!",
       "choice_data_list": [
         "Looking good! Up the pace!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Haaaaaaaーーーーーーーーー!"
     },
     {
       "name": "Heart's Friend A",

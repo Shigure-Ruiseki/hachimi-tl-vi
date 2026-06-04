@@ -5,12 +5,12 @@
       "text": "It was the day after the event. Vodka hadn't \nshown up for training for the first time."
     },
     {
-      "name": "Daiwa Scarlet",
-      "text": "Oh, it's Vodka's trainer. …Is she not here?",
       "choice_data_list": [
         "Do you know where she is?",
         "Do you know where she is?"
-      ]
+      ],
+      "name": "Daiwa Scarlet",
+      "text": "Oh, it's Vodka's trainer. …Is she not here?"
     },
     {
       "name": "Daiwa Scarlet",
@@ -28,32 +28,32 @@
       "text": "I thank Daiwa Scarlet and head to the riverbed."
     },
     {
-      "name": "Vodka",
-      "text": "Oh… Trainer.",
       "choice_data_list": [
         "It's time for training.",
         "It's time for training."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Oh… Trainer."
     },
     {
-      "name": "Vodka",
-      "text": "Shut up, I know that. …I'm skipping today!",
       "choice_data_list": [
         "Isn't that kind of lame?",
         "Isn't that kind of lame?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Shut up, I know that. …I'm skipping today!"
     },
     {
       "name": "Vodka",
       "text": "I told you to shut up! Leave me alone!!"
     },
     {
-      "name": "Vodka",
-      "text": "I don't……want to……!",
       "choice_data_list": [
         "Why do you think that?",
         "Why do you think that?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "I don't……want to……!"
     },
     {
       "name": "Vodka",
@@ -68,11 +68,11 @@
       "text": "………I thought, 'I'm done for.'"
     },
     {
-      "name": "Vodka",
-      "text": "The race I saw! Not a single one of them left \nDerby… They didn't give up halfway through!",
       "choice_data_list": [
         "Vodka…"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "The race I saw! Not a single one of them left \nDerby… They didn't give up halfway through!"
     },
     {
       "name": "Vodka",
@@ -90,10 +90,10 @@
       "text": "I know you're grumbling, but make sure \nyou bring her along. If she's wilting, \nwe won't be able to compete."
     },
     {
-      "text": "Come to think of it, why did Daiwa \nScarlet say that? Didn't she want \nto tell Vodka something too…?",
       "choice_data_list": [
         "Anyway, let's go to the course, vodka."
-      ]
+      ],
+      "text": "Come to think of it, why did Daiwa \nScarlet say that? Didn't she want \nto tell Vodka something too…?"
     },
     {
       "name": "Vodka",
@@ -136,28 +136,28 @@
       "text": "Well, I have some training to do."
     },
     {
-      "name": "Vodka",
-      "text": "What's with her……? She can't lose……? Because \nI'm…… so lame……!!",
       "choice_data_list": [
         "You looked cool when you tried.",
         "You looked cool when you tried."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "What's with her……? She can't lose……? Because \nI'm…… so lame……!!"
     },
     {
-      "name": "Vodka",
-      "text": "But! In the end, I gave up…!",
       "choice_data_list": [
         "What's important is what to do now, isn't it?",
         "What's important is what to do now, isn't it?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "But! In the end, I gave up…!"
     },
     {
-      "name": "Vodka",
-      "text": "From now on…?",
       "choice_data_list": [
         "It's up to you to end this lame.",
         "It's up to you whether it ends lazily or not."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "From now on…?"
     },
     {
       "name": "Vodka",
@@ -247,12 +247,12 @@
       "text": "You're funny. …Let's run again."
     },
     {
-      "name": "Vodka",
-      "text": "Ah…! Th-Thank you, Senpai!!",
       "choice_data_list": [
         "That was cool, vodka!!",
         "That was cool, vodka!!"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Ah…! Th-Thank you, Senpai!!"
     },
     {
       "name": "Vodka",

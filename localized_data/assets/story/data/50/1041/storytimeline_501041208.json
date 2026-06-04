@@ -22,12 +22,12 @@
       "text": "I can even conquer the entire \nBakushin Road now, don't you think!?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Because I'm going to run \nthe whole 3600 meters!!",
       "choice_data_list": [
         "……Yeah!",
         "……Yeah!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Because I'm going to run \nthe whole 3600 meters!!"
     },
     {
       "name": "Sakura Bakushin O",

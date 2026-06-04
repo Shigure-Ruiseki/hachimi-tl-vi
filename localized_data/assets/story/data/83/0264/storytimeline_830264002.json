@@ -6,11 +6,11 @@
       "text": "Hey, you're that same Trainer. I can say \nwith confidence… that these lights have \nno signs of disappearing."
     },
     {
-      "name": "Stay Gold",
-      "text": "They amount to… almost 20 now. \nWell, it's not like they're bothering \nme or anything.",
       "choice_data_list": [
         "I see…"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "They amount to… almost 20 now. \nWell, it's not like they're bothering \nme or anything."
     },
     {
       "text": "Only a small number of people can see \nthe small lights revolving around Stay Gold. \nIt seems that nothing strange has come \nfrom them."
@@ -66,12 +66,12 @@
       "text": "Vanished… Looks like you \nabsorbed one of them…"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Ayaya? This… This scenery is…",
       "choice_data_list": [
         "What do you see?",
         "What do you see?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Ayaya? This… This scenery is…"
     },
     {
       "name": "Matikanefukukitaru",
@@ -113,11 +113,11 @@
       "text": "Oh… Pearl didn't absorb one of the lights…"
     },
     {
-      "name": "Stay Gold",
-      "text": "If that's the case it has to be that. If there's \ncertain trainees that the lights return to, \nthen there are others that don't.",
       "choice_data_list": [
         "…And that means?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "If that's the case it has to be that. If there's \ncertain trainees that the lights return to, \nthen there are others that don't."
     },
     {
       "name": "Stay Gold",
@@ -144,12 +144,12 @@
       "text": "Well, um! I feel really happy! \nBut～…"
     },
     {
-      "name": "Special Week",
-      "text": "This happiness… it's a bit much, I don't know \nhow to phrase it. Um, for example～…",
       "choice_data_list": [
         "Like you won a big race?",
         "Like you ate a bunch of seafood?"
-      ]
+      ],
+      "name": "Special Week",
+      "text": "This happiness… it's a bit much, I don't know \nhow to phrase it. Um, for example～…"
     },
     {
       "name": "Special Week",

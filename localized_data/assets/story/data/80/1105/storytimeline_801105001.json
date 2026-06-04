@@ -17,11 +17,11 @@
       "text": "Wha? Uhhh… where does this piece go…? \nThanks by the way!"
     },
     {
-      "text": "<i>Ah</i>, they dropped a 3D puzzle of the earth. \nThe pieces seem to be in the shape of \ncountries and other large regions.",
       "choice_data_list": [
         "I'll help out too.",
         "I'll help out too."
-      ]
+      ],
+      "text": "<i>Ah</i>, they dropped a 3D puzzle of the earth. \nThe pieces seem to be in the shape of \ncountries and other large regions."
     },
     {
       "name": "Classmate",
@@ -43,20 +43,20 @@
       "text": "…Dockings complete."
     },
     {
-      "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together.",
       "choice_data_list": [
         "<size=38>Can you actually locate every single place…?</size>",
         "That's… a useful gift for puzzles like this.",
         "That's… a useful gift for puzzles like this."
-      ]
+      ],
+      "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together."
     },
     {
-      "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together.",
       "choice_data_list": [
         "<size=38>Can you actually locate every single place…?</size>",
         "That's… a useful gift for puzzles like this.",
         "That's… a useful gift for puzzles like this."
-      ]
+      ],
+      "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together."
     },
     {
       "text": "Does that mean those letters and numbers \nearlier were a hint of sorts? Curious, I show \nNeo Universe the piece making up Italy."
@@ -66,11 +66,11 @@
       "text": "That is… ITNA… it covers 37°–47°N 7°–19°E."
     },
     {
-      "text": "I quickly look up info on Italy online. \nThe letters don't appear, are they a unique \nabbreviation of hers? The numbers roughly \nline up with its geographic coordinates.",
       "choice_data_list": [
         "Ah, so you were telling us its coordinates!",
         "Ah, so you were telling us its coordinates!"
-      ]
+      ],
+      "text": "I quickly look up info on Italy online. \nThe letters don't appear, are they a unique \nabbreviation of hers? The numbers roughly \nline up with its geographic coordinates."
     },
     {
       "name": "Classmate",
@@ -91,12 +91,12 @@
       "text": "I can only conclude that she has the whole \nworld map memorized and can identify pieces \nin the blink of an eye. When I mention this…"
     },
     {
-      "name": "Classmate",
-      "text": "For real?! Then… can you help me put this \nwhole thing back together, Universe? \nPlease, I don't think I can do it without you!",
       "choice_data_list": [
         "Us two will do what we can too.",
         "Us two will do what we can too."
-      ]
+      ],
+      "name": "Classmate",
+      "text": "For real?! Then… can you help me put this \nwhole thing back together, Universe? \nPlease, I don't think I can do it without you!"
     },
     {
       "name": "Neo Universe",
@@ -107,12 +107,12 @@
       "text": "Neo Universe will apply Effort."
     },
     {
-      "name": "Classmate",
-      "text": "Aaah, I really couldn't have done it without \nyou, thanks so much for helping out!",
       "choice_data_list": [
         "That was a tough one, good job everyone!",
         "That was a tough one, good job everyone!"
-      ]
+      ],
+      "name": "Classmate",
+      "text": "Aaah, I really couldn't have done it without \nyou, thanks so much for helping out!"
     },
     {
       "name": "Neo Universe",

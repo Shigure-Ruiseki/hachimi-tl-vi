@@ -156,18 +156,18 @@
       "text": "—— <i>Tch</i>."
     },
     {
-      "text": "On that day, as I arrived in front of the train \nstation. I ran into Admire Groove, who was \nwalking alone in the rain.",
       "choice_data_list": [
         "If you don't have an umbrella, take mine.",
         "…Did something happen? Are you alright?"
-      ]
+      ],
+      "text": "On that day, as I arrived in front of the train \nstation. I ran into Admire Groove, who was \nwalking alone in the rain."
     },
     {
-      "name": "Admire Groove",
-      "text": "…I'm fine. I was just on my way \nback to Tracen.",
       "choice_data_list": [
         "But…"
-      ]
+      ],
+      "name": "Admire Groove",
+      "text": "…I'm fine. I was just on my way \nback to Tracen."
     },
     {
       "text": "Even though I called out to her, she walked \ninto the rain alone and vanished."
@@ -177,11 +177,11 @@
       "text": "I'm fine, nothing happened."
     },
     {
-      "name": "Admire Groove",
-      "text": "…If you'll excuse me.",
       "choice_data_list": [
         "Ah!"
-      ]
+      ],
+      "name": "Admire Groove",
+      "text": "…If you'll excuse me."
     },
     {
       "text": "I tried to reach out to her, but she walked \ninto the rain alone and vanished."

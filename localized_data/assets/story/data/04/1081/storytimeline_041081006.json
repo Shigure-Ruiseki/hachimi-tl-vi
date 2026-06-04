@@ -8,11 +8,11 @@
       "text": "Alright, you better prepare yerselves! Today I'm gonna hammer into all of you the ins and outs of this city, got it?!"
     },
     {
-      "name": "New Students",
-      "text": "O-Okay…!",
       "choice_data_list": [
         "(Wonder if they'll be okay.)"
-      ]
+      ],
+      "name": "New Students",
+      "text": "O-Okay…!"
     },
     {
       "name": "Espoir City",
@@ -91,22 +91,22 @@
       "text": "Do you think she's gonna be okay? \nShe's kind of got the aura of a stanced-up hedgehog…"
     },
     {
-      "name": "Sincere Student",
-      "text": "I wonder if the other upperclassmen are all prickly like her. \nI dunno if I can hack it at this school…",
       "choice_data_list": [
         "(T-This isn't good.)"
-      ]
+      ],
+      "name": "Sincere Student",
+      "text": "I wonder if the other upperclassmen are all prickly like her. \nI dunno if I can hack it at this school…"
     },
     {
       "name": "Espoir City",
       "text": "Y'want me to do something about all this?! \nUgh… do you ever shut up?!"
     },
     {
-      "name": "Espoir City",
-      "text": "I've just been doin' things how I see fit ever since the start of this mess. You seriously had no idea this is how it'd end up?",
       "choice_data_list": [
         "The new students seem pretty anxious."
-      ]
+      ],
+      "name": "Espoir City",
+      "text": "I've just been doin' things how I see fit ever since the start of this mess. You seriously had no idea this is how it'd end up?"
     },
     {
       "name": "Espoir City",
@@ -117,19 +117,19 @@
       "text": "Auuugghhh! Well, what'm <i>I</i> supposed to do about it?!"
     },
     {
-      "text": "It seems like even Espoir City is bothered by it, too. It'd be great if she could just be nice to them without any reservations, but…",
       "choice_data_list": [
         "(…Hold on.)"
-      ]
+      ],
+      "text": "It seems like even Espoir City is bothered by it, too. It'd be great if she could just be nice to them without any reservations, but…"
     },
     {
       "text": "Espoir City only shows her awkward inner self to those she knows and trusts, however imperfectly, and have forged a bond of trust."
     },
     {
-      "text": "The first thing I ought to do is try and build that kind of bond between her and the new students.",
       "choice_data_list": [
         "How about this…"
-      ]
+      ],
+      "text": "The first thing I ought to do is try and build that kind of bond between her and the new students."
     },
     {
       "name": "Espoir City",
@@ -152,12 +152,12 @@
       "text": "Huh…? I have no idea what to buy… \nWhat should we do?"
     },
     {
-      "name": "Espoir City",
-      "text": "Hmph. I did every little thing you told me to, but… these kids are totally clueless. You really think things're gonna change like this?",
       "choice_data_list": [
         "I'm positive.",
         "I'm positive."
-      ]
+      ],
+      "name": "Espoir City",
+      "text": "Hmph. I did every little thing you told me to, but… these kids are totally clueless. You really think things're gonna change like this?"
     },
     {
       "name": "Espoir City",
@@ -243,11 +243,11 @@
       "text": "Now then, about Espo…"
     },
     {
-      "name": "School Staff",
-      "text": "She's received glowing praise from the new students! They said she's a bit scary, but overall very kind.",
       "choice_data_list": [
         "Really?!"
-      ]
+      ],
+      "name": "School Staff",
+      "text": "She's received glowing praise from the new students! They said she's a bit scary, but overall very kind."
     },
     {
       "name": "School Staff",

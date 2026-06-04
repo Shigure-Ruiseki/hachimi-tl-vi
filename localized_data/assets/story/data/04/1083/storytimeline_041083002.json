@@ -16,11 +16,11 @@
       "text": "Symboli Kris S' running excited the crowd that \nhad naturally gathered. She definitely has incredible \nintensity and abilities. But――"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "――",
       "choice_data_list": [
         "(She's focused……)"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "――"
     },
     {
       "text": "I couldn't help but be fascinated by her sharp, straight-forward \ngaze. I had an idea of what that gaze was focused on."
@@ -33,10 +33,10 @@
       "text": "A gust of wind blows past."
     },
     {
-      "text": "She passed by the stands in the blink of an eye, her back \nreceding in to the distance. What 『Mission』 was it that she \nsought to fulfill?――",
       "choice_data_list": [
         "(……I want to know.)"
-      ]
+      ],
+      "text": "She passed by the stands in the blink of an eye, her back \nreceding in to the distance. What 『Mission』 was it that she \nsought to fulfill?――"
     },
     {
       "name": "Veteran Trainer A",
@@ -66,30 +66,30 @@
       "text": "……"
     },
     {
-      "text": "Suddenly, my eyes met with Symboli Kris S'. \nIn those eyes, I could see she seemed troubled――",
       "choice_data_list": [
         "H-hold on a minute, please……!"
-      ]
+      ],
+      "text": "Suddenly, my eyes met with Symboli Kris S'. \nIn those eyes, I could see she seemed troubled――"
     },
     {
       "text": "Without thinking, I stepped in front of my senpai. \nShouldn't we listen to Symboli Kris S first?"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "No problem. ――I don't mind.",
       "choice_data_list": [
         "Eh……!?"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "No problem. ――I don't mind."
     },
     {
       "name": "Veteran Trainer A",
       "text": "……She's the one saying it, so I guess that's settled. \nSo then, let's iron out a schedule first――"
     },
     {
-      "text": "In the end, this ended up becoming a way to decide Symboli \nKris S' trainer, essentially a 『Trainer Selection』 event.",
       "choice_data_list": [
         "(I should learn as much as I can……!)"
-      ]
+      ],
+      "text": "In the end, this ended up becoming a way to decide Symboli \nKris S' trainer, essentially a 『Trainer Selection』 event."
     },
     {
       "text": "There was Symboli Rudolf's request to 『Look after her』, \nand I could also learn from my senpai!"
@@ -103,21 +103,21 @@
       "text": "That's why, 2400m on turf―― let's try keeping the Derby in mind \nwhile you run. Along with that, try thinking about things like \nyour approach and pace management!"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "……",
       "choice_data_list": [
         "(……Huh?)"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "……"
     },
     {
       "text": "Symboli Kris S calmly carried out the \ntraining menu……or so it seemed. However――"
     },
     {
-      "name": "Veteran Trainer A",
-      "text": "Huh……? On the final straight, \nI thought she'd push even harder……",
       "choice_data_list": [
         "(She's not being serious……?)"
-      ]
+      ],
+      "name": "Veteran Trainer A",
+      "text": "Huh……? On the final straight, \nI thought she'd push even harder……"
     },
     {
       "text": "The next day too, while training \nwith the second trainer candidate――"
@@ -154,10 +154,10 @@
       "text": "Same here…… I thought her acceleration power was wonderful but, \nshe just can't seem to pull away. I'm not sure what to do……"
     },
     {
-      "text": "I wonder if Symboli Kris S was okay―― I thought about it, \nand decided I should talk to her and find out.",
       "choice_data_list": [
         "Um, about all that training……"
-      ]
+      ],
+      "text": "I wonder if Symboli Kris S was okay―― I thought about it, \nand decided I should talk to her and find out."
     },
     {
       "text": "It seemed like she wasn't willing to compromise at all. \nI asked her if the trainers' methods were the problem――"
@@ -167,11 +167,11 @@
       "text": "…… ……――Problem."
     },
     {
-      "name": "Symboli Kris S",
-      "text": "About the trainers―― themselves, there's no…… problem. \n――They're thinking about me. ――Seriously.",
       "choice_data_list": [
         "Then, why――?"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "About the trainers―― themselves, there's no…… problem. \n――They're thinking about me. ――Seriously."
     },
     {
       "name": "Symboli Kris S",

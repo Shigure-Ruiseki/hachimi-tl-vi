@@ -45,12 +45,12 @@
       "text": "After all, what you're trying to do is not normal. \nLet's make sure we've got a solid foundation too."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Solid foundation… right, understood. \nAfter the break, please treat me well again!",
       "choice_data_list": [
         "Let's keep moving forward!",
         "Let's keep moving forward!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Solid foundation… right, understood. \nAfter the break, please treat me well again!"
     },
     {
       "name": "Silence Suzuka",
@@ -199,11 +199,11 @@
       "text": "That's true for me too. \nI look forward to seeing Suzuka's growth everyday."
     },
     {
-      "name": "Silence Suzuka",
-      "text": "In that case, I have to show you how much I've grown. \nIn today's race, I swear I'll run through it in the lead.",
       "choice_data_list": [
         "Aim for that \"scenery\" nobody has seen before!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "In that case, I have to show you how much I've grown. \nIn today's race, I swear I'll run through it in the lead."
     },
     {
       "name": "Silence Suzuka",

@@ -50,11 +50,11 @@
       "text": "And I want to win there. No, I don't want to just win, \nI want to win in the greatest way possible."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "That's my dream. And everyone's happiness. \nThe place my dad is aiming for, and that I am too――the sky.",
       "choice_data_list": [
         "Which……race is that?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "That's my dream. And everyone's happiness. \nThe place my dad is aiming for, and that I am too――the sky."
     },
     {
       "name": "Sakura Laurel",
@@ -78,28 +78,28 @@
       "text": "She was aiming to 『Fulfill』 the biggest dream. With a strong desire \nto show 『I can fulfill it』. Straight-forwardly chasing after it."
     },
     {
-      "text": "……Seeing that desire drew me to her. \nAnd before I realized it――I said aloud.",
       "choice_data_list": [
         "I want to see that dream……together"
-      ]
+      ],
+      "text": "……Seeing that desire drew me to her. \nAnd before I realized it――I said aloud."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "……? Trainer-san?",
       "choice_data_list": [
         "I want to fulfill that dream together!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "……? Trainer-san?"
     },
     {
       "name": "Sakura Laurel",
       "text": "Ah……Thank you very much! But……"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "If you really feel that way, it'll be a while…… \nwould you be willing to wait several seasons for that?",
       "choice_data_list": [
         "Several seasons?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "If you really feel that way, it'll be a while…… \nwould you be willing to wait several seasons for that?"
     },
     {
       "name": "Sakura Laurel",
@@ -147,34 +147,34 @@
       "text": "The second time I met that Uma Musume was―― \nUnder rows of cherry blossoms in full bloom."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "……Hello, Trainer-san. \nWe're always under your care.",
       "choice_data_list": [
         "Do you have a trainer yet?",
         "Do you have a trainer yet?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "……Hello, Trainer-san. \nWe're always under your care."
     },
     {
       "name": "Sakura Laurel",
       "text": "No, not yet. \nI was thinking of recruiting one right about now."
     },
     {
-      "text": "In that case――",
       "choice_data_list": [
         "Will you form a contract with me?",
         "Will you form a contract with me?"
-      ]
+      ],
+      "text": "In that case――"
     },
     {
       "name": "Sakura Laurel",
       "text": "Contract……?"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "……Muuu, I refuse.",
       "choice_data_list": [
         "……Eh?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "……Muuu, I refuse."
     },
     {
       "name": "Sakura Laurel",
@@ -185,11 +185,11 @@
       "text": "Just think back. \nOn that day, the words we exchanged."
     },
     {
-      "text": "……That's right. \nThose words from that day, once more…….",
       "choice_data_list": [
         "I want to fulfill that dream together!",
         "I want to fulfill that dream together!"
-      ]
+      ],
+      "text": "……That's right. \nThose words from that day, once more……."
     },
     {
       "name": "Sakura Laurel",

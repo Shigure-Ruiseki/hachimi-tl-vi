@@ -102,10 +102,10 @@
       "text": "But her results in every race since haven't showed that."
     },
     {
-      "text": "Maybe it's still the booing getting to her, even if she doesn't realize \nit.",
       "choice_data_list": [
         "Do you want to step away from racing for a bit?"
-      ]
+      ],
+      "text": "Maybe it's still the booing getting to her, even if she doesn't realize \nit."
     },
     {
       "name": "Rice Shower",
@@ -155,11 +155,11 @@
       "text": "Where is Rice Shower who once stood in Mihono Bourbon and \nMejiro McQueen's way?!"
     },
     {
-      "name": "Rice Shower",
-      "text": "…<i>Sigh.</i>",
       "choice_data_list": [
         "Good job out there."
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "…<i>Sigh.</i>"
     },
     {
       "name": "Rice Shower",
@@ -170,10 +170,10 @@
       "text": "Heheh… Couldn't win today either."
     },
     {
-      "text": "She forces a smile, but she's already welling up…",
       "choice_data_list": [
         "It's okay to cry."
-      ]
+      ],
+      "text": "She forces a smile, but she's already welling up…"
     },
     {
       "name": "Rice Shower",

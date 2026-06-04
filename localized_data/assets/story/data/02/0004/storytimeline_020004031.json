@@ -43,11 +43,11 @@
       "text": "She's in the middle of a five-win streak, with two of them being G1 \nraces. That momentum has taken her straight to the Japanese Derby."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "When the big day comes, I have no doubt she'll be the favorite.",
       "choice_data_list": [
         "…Is there something wrong with that?"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "When the big day comes, I have no doubt she'll be the favorite."
     },
     {
       "name": "Mejiro McQueen",
@@ -216,12 +216,12 @@
       "text": "Hey, rockstar! You tore up the competition!"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Whooooa! That was better than anyone could have hoped for! \nAnother Derby legend is born <i>TODAAAY</i>!",
       "choice_data_list": [
         "You just keep on raising the bar, Brian!",
         "You just keep on raising the bar, Brian!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Whooooa! That was better than anyone could have hoped for! \nAnother Derby legend is born <i>TODAAAY</i>!"
     },
     {
       "name": "Narita Brian",

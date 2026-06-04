@@ -24,12 +24,12 @@
       "text": "With Kitasan Black's tremendous toughness, she never \nfaltered in her absurd training. Far from wavering, \nher fighting spirit burned even brighter-"
     },
     {
-      "name": "Kitasan Black",
-      "text": "Haa, haa, haa, slope running… I need to do at least 3 times as \nmuch as other girls… I can keep going, I'm not done yet…",
       "choice_data_list": [
         "How many more do you plan to do, Kitasan Black?",
         "How many more do you plan to do, Kitasan Black?"
-      ]
+      ],
+      "name": "Kitasan Black",
+      "text": "Haa, haa, haa, slope running… I need to do at least 3 times as \nmuch as other girls… I can keep going, I'm not done yet…"
     },
     {
       "name": "Kitasan Black",
@@ -40,11 +40,11 @@
       "text": "I want to win! I really want to win! To make the most of this one \nchance, and show them something amazing, to make them all smile!"
     },
     {
-      "name": "Kitasan Black",
-      "text": "No, there's no guarantee they'll come to see me… \nbut… even still… there's one person I want to make smile-",
       "choice_data_list": [
         "Eh, do you mean…?"
-      ]
+      ],
+      "name": "Kitasan Black",
+      "text": "No, there's no guarantee they'll come to see me… \nbut… even still… there's one person I want to make smile-"
     },
     {
       "name": "Kitasan Black",
@@ -61,12 +61,12 @@
       "text": "Kitasan Black is betting everything on this, to take one big step \nforward. It's her one chance. Betting on this \"Festival\", with \npassion as bright as any fireworks…"
     },
     {
-      "name": "Kitasan Black",
-      "text": "Trainer-san, please!! My strength, my one and only trait-!! \nMake it stronger than anyone—!!",
       "choice_data_list": [
         "Yeah, I got it. Let's do it!",
         "Yeah, I got it. Let's do it!"
-      ]
+      ],
+      "name": "Kitasan Black",
+      "text": "Trainer-san, please!! My strength, my one and only trait-!! \nMake it stronger than anyone—!!"
     },
     {
       "text": "We were already in sync. Doing every kind of training we could \nthink of with the highest intensity, making full use of her \nstamina and willpower, from dawn until dusk-"
@@ -126,16 +126,16 @@
       "text": "Time — seemed to slow. No matter how hard she struggles \nshe won't win. At the moment when all hope seemed \nlost, something came welling up within."
     },
     {
-      "text": "\"You can keep going!! Your toughness isn't just for show!!\" \nThat conviction — was put in to words.",
       "choice_data_list": [
         "Kitasan Black…!!"
-      ]
+      ],
+      "text": "\"You can keep going!! Your toughness isn't just for show!!\" \nThat conviction — was put in to words."
     },
     {
-      "text": "\"You can keep going!! Your toughness isn't just for show!!\" \nThat conviction — was put in to words.",
       "choice_data_list": [
         "Kitasan Black…!!"
-      ]
+      ],
+      "text": "\"You can keep going!! Your toughness isn't just for show!!\" \nThat conviction — was put in to words."
     },
     {
       "name": "Kitasan Black",
@@ -204,12 +204,12 @@
       "text": "Trainer-san, I… I… \nI wasn't able to make anyone smile!"
     },
     {
-      "name": "Kitasan Black",
-      "text": "But… I won't give up. I don't want to give up! \nNext time, next time for sure—!!",
       "choice_data_list": [
         "Yeah, let's keep training!",
         "Yeah, let's keep training!"
-      ]
+      ],
+      "name": "Kitasan Black",
+      "text": "But… I won't give up. I don't want to give up! \nNext time, next time for sure—!!"
     },
     {
       "name": "Kitasan Black",

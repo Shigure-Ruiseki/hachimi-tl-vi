@@ -95,12 +95,12 @@
       "text": "Running to my heart's content, enjoying the \"scenery\", \nshowing that \"scenery\" to Trainer-san, and finally-"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "I swear I'll return to Trainer-san's side.",
       "choice_data_list": [
         "I believe in you!",
         "I believe in you!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "I swear I'll return to Trainer-san's side."
     },
     {
       "name": "Silence Suzuka",

@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "In my room, I was looking over Mejiro Ardan's data.",
       "choice_data_list": [
         "[Dirt, Short distance] will be hard…"
-      ]
+      ],
+      "text": "In my room, I was looking over Mejiro Ardan's data."
     },
     {
       "text": "After looking over her past mock race results, it was pretty obvious \nthat this wasn't her strength."
     },
     {
-      "text": "Even if she's trying to get up to speed, the reality is that her \ndays of being unable to participate in Selection Races are \ncontinuing. I can understand why she's in a hurry…",
       "choice_data_list": [
         "…Wait a second."
-      ]
+      ],
+      "text": "Even if she's trying to get up to speed, the reality is that her \ndays of being unable to participate in Selection Races are \ncontinuing. I can understand why she's in a hurry…"
     },
     {
       "text": "That's when I finally realized. Selection Races were originally \nmeant as a place for Uma Musume to show off their abilities and \nget scouted by Trainers."
@@ -23,11 +23,11 @@
       "text": "Which means―"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "…Oh. You're offering to scout me?",
       "choice_data_list": [
         "Absolutely!"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "…Oh. You're offering to scout me?"
     },
     {
       "text": "To begin with, if she already has a trainer, then there'd be \nno reason to be so desperate to enter a Selection Race."
@@ -40,11 +40,11 @@
       "text": "Fufuu, thank you very much. \nI'm very honored to hear that."
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "However — I apologize. \nI'll have to refuse.",
       "choice_data_list": [
         "…!"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "However — I apologize. \nI'll have to refuse."
     },
     {
       "name": "Mejiro Ardan",
@@ -59,12 +59,12 @@
       "text": "Please, in the upcoming Selection Race, could I ask you to \nconfirm my abilities with your own eyes?"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "After all, it won't do to accept your scouting without having you \nsee what I am capable of.",
       "choice_data_list": [
         "But the race you're entering…!",
         "But the race you're entering…!"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "After all, it won't do to accept your scouting without having you \nsee what I am capable of."
     },
     {
       "name": "Mejiro Ardan",
@@ -206,28 +206,28 @@
       "text": "Me too…! Your run just now, was wonderful. \nIf you're fine with it, then join my―"
     },
     {
-      "text": "As expected, Mejiro Ardan is surrounded by \ntrainers aiming to scout her. But…!!",
       "choice_data_list": [
         "Let me through! Please let me through!!"
-      ]
+      ],
+      "text": "As expected, Mejiro Ardan is surrounded by \ntrainers aiming to scout her. But…!!"
     },
     {
       "text": "I desperately push through the crowd until I'm finally standing in front \nof her! And then…"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "Oh? You are…",
       "choice_data_list": [
         "You said 'After the selection \nrace', so I'm here."
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "Oh? You are…"
     },
     {
-      "name": "Mejiro Ardan",
-      "text": "…Fufuu, that's true.",
       "choice_data_list": [
         "Please, let me scout you!",
         "Please, let me scout you!"
-      ]
+      ],
+      "name": "Mejiro Ardan",
+      "text": "…Fufuu, that's true."
     },
     {
       "name": "Mejiro Ardan",

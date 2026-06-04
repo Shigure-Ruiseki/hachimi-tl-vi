@@ -16,22 +16,22 @@
       "text": "My dear Trainer, how are you feeling? \nDid you take your temperature, what did \nyou have for breakfast, how long did you sleep?"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "All could have a bearing on the outcome of our experiment! We \nmust take care to note down every detail before we proceed!",
       "choice_data_list": [
         "So… were you planning on doing some training today, or…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "All could have a bearing on the outcome of our experiment! We \nmust take care to note down every detail before we proceed!"
     },
     {
       "name": "Agnes Tachyon",
       "text": "The theory we will be verifying pertains to running \nperformance, so yes! You might say it's a SORT of \ntraining that we will be conducting…!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Although by \"we\", I of course mean \"you\".",
       "choice_data_list": [
         "Uuuugh…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Although by \"we\", I of course mean \"you\"."
     },
     {
       "name": "Agnes Tachyon",
@@ -65,11 +65,11 @@
       "text": "Is the pulse oximeter securely in place? Remember, \nI need a solid reading at the end of each lap!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "And no matter how much it hurts, I need you to keep going! Data \nfrom your absolute physiological limit is best.",
       "choice_data_list": [
         "Is this really necessary!?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "And no matter how much it hurts, I need you to keep going! Data \nfrom your absolute physiological limit is best."
     },
     {
       "name": "Agnes Tachyon",
@@ -91,11 +91,11 @@
       "text": "More! More, trainer…! \nGet those knees up!! Don't let your speed drop, now!"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Steady, regular breaths! If you break the \nrhythm it's only going to hurt more!",
       "choice_data_list": [
         "Easy for you to say…!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Steady, regular breaths! If you break the \nrhythm it's only going to hurt more!"
     },
     {
       "name": "Agnes Tachyon",
@@ -110,46 +110,46 @@
       "text": "Never mind. We shall proceed to the next test. I need you to run \nup that incline again in your current state so that I can collect \ndata on your respiratory function."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "This is very important data. It could, in fact, be the very key \nwe seek, that unlocks the doors of untold possibility!",
       "choice_data_list": [
         "I… I'll do my best…!",
         "I… I'll do my best…!"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "This is very important data. It could, in fact, be the very key \nwe seek, that unlocks the doors of untold possibility!"
     },
     {
       "name": "Agnes Tachyon",
       "text": "However… looking at the color of you, I'd say we are not so much \n\"close\" to your physiological limit as were are… over it."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Can't be helped I suppose. I must reexamine the test procedure. I \ncan't get the data I need from you in this condition, so let's \nsave that for another time.",
       "choice_data_list": [
         "Are you sure?",
         "Are you sure?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Can't be helped I suppose. I must reexamine the test procedure. I \ncan't get the data I need from you in this condition, so let's \nsave that for another time."
     },
     {
       "name": "Agnes Tachyon",
       "text": "If you wish to suffer further, I won't stop you. \nBut rather than collecting useless data, we should \nperhaps direct our efforts elsewhere…"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "But what can we do instead…? I didn't bring \nthe necessary equipment for anything else.",
       "choice_data_list": [
         "The sea's right there. Can't we use that somehow?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "But what can we do instead…? I didn't bring \nthe necessary equipment for anything else."
     },
     {
       "name": "Agnes Tachyon",
       "text": "The sea, eh. I could have you swim in it, but without any of my \nequipment I'm not sure what that would accomplish."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "You're not offering to drink it or something, are you?",
       "choice_data_list": [
         "How about… muscle icing?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "You're not offering to drink it or something, are you?"
     },
     {
       "name": "Agnes Tachyon",
@@ -198,11 +198,11 @@
       "text": "On paper, at any rate. Without my equipment here, we shall have \nto wait until we return to the academy to prototype it."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Before that, though, I'd like to pick your brain a little more. \nAny insights based on our work so far?",
       "choice_data_list": [
         "Huh?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Before that, though, I'd like to pick your brain a little more. \nAny insights based on our work so far?"
     },
     {
       "name": "Agnes Tachyon",
@@ -213,23 +213,23 @@
       "text": "You have a fresh perspective. As a layperson, \nI find you sometimes pick up on things that I do not. \nYou have an eye for the small details."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "And most of all, you're the only one willing to assist me in my \nexperiments like this every day. You might say you're my \n\"guinea-pig-slash-assistant\"!",
       "choice_data_list": [
         "Did you say \"assistant\"!?"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "And most of all, you're the only one willing to assist me in my \nexperiments like this every day. You might say you're my \n\"guinea-pig-slash-assistant\"!"
     },
     {
       "name": "Agnes Tachyon",
       "text": "Not only are you a valuable test subject, your viewpoint is \nvaluable too. Taken together, I don't think it's too much of a \nstretch to call you my \"assistant\"."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Both of those things are indispensable requirements for my \nresearch. So! Don't be shy! What do you have for me?",
       "choice_data_list": [
         "It's just… I don't think you've ever asked for my opinion before…",
         "It's just… I don't think you've ever asked for my opinion before…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Both of those things are indispensable requirements for my \nresearch. So! Don't be shy! What do you have for me?"
     },
     {
       "name": "Agnes Tachyon",

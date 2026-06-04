@@ -17,11 +17,11 @@
       "text": "『Ladies and gentlemen from Japan, \nwelcome to Los Angeles!』"
     },
     {
-      "name": "Announcer",
-      "text": "Through exhibitions and hands-on experiences, this event brings together people, technology, and ideas to pave the way for new possibilities in racing—",
       "choice_data_list": [
         "Wait, overseas...?! No way...!!"
-      ]
+      ],
+      "name": "Announcer",
+      "text": "Through exhibitions and hands-on experiences, this event brings together people, technology, and ideas to pave the way for new possibilities in racing—"
     },
     {
       "name": "Visitor A",
@@ -36,11 +36,11 @@
       "text": "『RACING WORLD EXPO”...?』\n...Like, what even is that?!"
     },
     {
-      "name": "Gold City",
-      "text": "Looking at the brochure, it's like a racing festival that brings together companies on a global scale... I guess? And Yan-ko's booth is here too, right?",
       "choice_data_list": [
         "This is just way too off the charts..."
-      ]
+      ],
+      "name": "Gold City",
+      "text": "Looking at the brochure, it's like a racing festival that brings together companies on a global scale... I guess? And Yan-ko's booth is here too, right?"
     },
     {
       "name": "Loves Only You",
@@ -51,11 +51,11 @@
       "text": "Oh, Jordan, City... and you as well!"
     },
     {
-      "name": "Marche Lorraine",
-      "text": "『What a coincidence~!\nDid Yan-ko-san invite all of you too?』",
       "choice_data_list": [
         "Yeah, had no idea it was overseas..."
-      ]
+      ],
+      "name": "Marche Lorraine",
+      "text": "『What a coincidence~!\nDid Yan-ko-san invite all of you too?』"
     },
     {
       "name": "Loves Only You",
@@ -66,36 +66,36 @@
       "text": "Thank you for coming!\nHaha, just kidding♪ Are you guys enjoying yourselves?"
     },
     {
-      "name": "Forever Young",
-      "text": "Wow, since it's the very first one, all eyes are on us♪\nSuggesting we do an Expo was totally\nworth it!",
       "choice_data_list": [
         "Suggesting it...? Wait, don't tell me..."
-      ]
+      ],
+      "name": "Forever Young",
+      "text": "Wow, since it's the very first one, all eyes are on us♪\nSuggesting we do an Expo was totally\nworth it!"
     },
     {
-      "name": "Forever Young",
-      "text": "The Expo is hosted by my dad's company♪\nAnd the mastermind behind it is M-E!",
       "choice_data_list": [
         "Eeeeh?!"
-      ]
+      ],
+      "name": "Forever Young",
+      "text": "The Expo is hosted by my dad's company♪\nAnd the mastermind behind it is M-E!"
     },
     {
       "name": "Young's Father",
       "text": "Young, the main event is about to start."
     },
     {
-      "name": "Forever Young",
-      "text": "Oh, for real\nWell then, guess I'll go put on the finishing touches!",
       "choice_data_list": [
         "Finishing touches?"
-      ]
+      ],
+      "name": "Forever Young",
+      "text": "Oh, for real\nWell then, guess I'll go put on the finishing touches!"
     },
     {
-      "name": "Forever Young",
-      "text": "Yep, we're doing a commemorative race♪\nWith the ones who call this place home—\nSome big-name Umamusume!",
       "choice_data_list": [
         "Eeeeh?!"
-      ]
+      ],
+      "name": "Forever Young",
+      "text": "Yep, we're doing a commemorative race♪\nWith the ones who call this place home—\nSome big-name Umamusume!"
     },
     {
       "name": "Forever Young",
@@ -110,12 +110,12 @@
       "text": "They don't stand a chance against the local powerhouses."
     },
     {
-      "name": "Monologue",
-      "text": "It's only a natural reaction. The name Forever Young\nhasn't made waves overseas yet. But—",
       "choice_data_list": [
         "<size=38>If anyone can spark a true innovation, it's her!.</size>",
         "<size=35>(The roadmap to victory must already be laid out</size>)"
-      ]
+      ],
+      "name": "Monologue",
+      "text": "It's only a natural reaction. The name Forever Young\nhasn't made waves overseas yet. But—"
     },
     {
       "name": "Loves Only You",
@@ -142,11 +142,11 @@
       "text": "CLANG!"
     },
     {
-      "name": "Monologue",
-      "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—",
       "choice_data_list": [
         "<size=32>She must definitely have a strategy for victory in place!</size>"
-      ]
+      ],
+      "name": "Monologue",
+      "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—"
     },
     {
       "name": "Young's Father",
@@ -161,11 +161,11 @@
       "text": "CLANG!"
     },
     {
-      "name": "Monologue",
-      "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—",
       "choice_data_list": [
         "<size=32>She must definitely have a strategy for victory in place!</size>"
-      ]
+      ],
+      "name": "Monologue",
+      "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—"
     },
     {
       "name": "Young's Father",
@@ -180,25 +180,25 @@
       "text": "CLANG!"
     },
     {
-      "name": "Monologue",
-      "text": "She shines despite the away turf—but \nlocal racers guard their pride. Showing power early, they refuse to yield the lead.",
       "choice_data_list": [
         "<size=34>No wonder the local dirt racers are so powerful...!</size>"
-      ]
+      ],
+      "name": "Monologue",
+      "text": "She shines despite the away turf—but \nlocal racers guard their pride. Showing power early, they refuse to yield the lead."
     },
     {
-      "name": "Monologue",
-      "text": "But Forever Young refuses to back down.\nAs if to show the future she will forge with her own hands, she rapidly closes the gap.",
       "choice_data_list": [
         "Goooooooo!!!"
-      ]
+      ],
+      "name": "Monologue",
+      "text": "But Forever Young refuses to back down.\nAs if to show the future she will forge with her own hands, she rapidly closes the gap."
     },
     {
-      "name": "Caster",
-      "text": "The winner of\nthis memorable race was...",
       "choice_data_list": [
         "FOREVER YOUNG!!"
-      ]
+      ],
+      "name": "Caster",
+      "text": "The winner of\nthis memorable race was..."
     },
     {
       "name": "Overseas Trainers",
@@ -209,12 +209,12 @@
       "text": "A runner like you would make\nfor a great business partner!"
     },
     {
-      "name": "Forever Young",
-      "text": "I'm really flattered\nby the offers, but first...",
       "choice_data_list": [
         "(That's right—you have a grand vision.)",
         "(Yes—you possess a grand vision.)"
-      ]
+      ],
+      "name": "Forever Young",
+      "text": "I'm really flattered\nby the offers, but first..."
     },
     {
       "name": "Forever Young",

@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Winning Ticket",
-      "text": "Hey, Trainer! Hayahide! There you are!",
       "choice_data_list": [
         "That was an amazing race.",
         "That was an amazing race."
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Hey, Trainer! Hayahide! There you are!"
     },
     {
       "name": "Winning Ticket",

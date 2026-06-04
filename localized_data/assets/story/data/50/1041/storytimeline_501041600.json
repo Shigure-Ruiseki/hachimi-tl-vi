@@ -6,12 +6,12 @@
       "text": "I can hear it, I hear it…!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "The voices awaiting the arrival of the \nmost exemplary of honor students!!",
       "choice_data_list": [
         "Go out there and give it your best shot!",
         "Go out there and give it your best shot!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "The voices awaiting the arrival of the \nmost exemplary of honor students!!"
     },
     {
       "name": "Sakura Bakushin O",

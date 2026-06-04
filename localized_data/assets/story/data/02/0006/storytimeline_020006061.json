@@ -243,12 +243,12 @@
       "text": "The promise with my Moms about becoming \"Japan's \n#1\"… and for the sake of catching up to the \none I admire, I'll run with everything I have!"
     },
     {
-      "name": "Silence Suzuka",
-      "text": "Spe-chan's run, we'll be watching closely.",
       "choice_data_list": [
         "Go do your best!",
         "Go do your best!"
-      ]
+      ],
+      "name": "Silence Suzuka",
+      "text": "Spe-chan's run, we'll be watching closely."
     },
     {
       "name": "Special Week",

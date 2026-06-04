@@ -136,11 +136,11 @@
       "text": "――And a few days later."
     },
     {
-      "name": "Tokai Teio",
-      "text": "Fufufufufu～n♪",
       "choice_data_list": [
         "……!?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Fufufufufu～n♪"
     },
     {
       "text": "On the wall in front of me… an arrow was sticking out. \nThere was a piece of paper tied to the arrow. \nI opened it and looked inside――"
@@ -177,12 +177,12 @@
       "text": "I see, so Teio didn't notice Turbo's letter, and then trainer…"
     },
     {
-      "name": "Twin Turbo",
-      "text": "Trainer is that one right? \nThe one who coaches and runs with you!",
       "choice_data_list": [
         "No, we're not running together.",
         "Well, we're not running together."
-      ]
+      ],
+      "name": "Twin Turbo",
+      "text": "Trainer is that one right? \nThe one who coaches and runs with you!"
     },
     {
       "text": "She doesn't seem to understand it very well. \nI try explain trainer job in detail."
@@ -192,28 +192,28 @@
       "text": "Ehhh～…… so you're going to give lecture? \nTurbo hate it! I don't like that kind of thing～!"
     },
     {
-      "text": "The words that came back were almost like a \nconditioned reflex. I try to change the conversation topic.",
       "choice_data_list": [
         "Do you want to fight Tokai Teio?",
         "You want to fight Tokai Teio?"
-      ]
+      ],
+      "text": "The words that came back were almost like a \nconditioned reflex. I try to change the conversation topic."
     },
     {
-      "name": "Twin Turbo",
-      "text": "That's right! Teio is Turbo's lifelong rival. \nDo you know why I want to win? Do you \nknow why I wants to compete with her?",
       "choice_data_list": [
         "Why?"
-      ]
+      ],
+      "name": "Twin Turbo",
+      "text": "That's right! Teio is Turbo's lifelong rival. \nDo you know why I want to win? Do you \nknow why I wants to compete with her?"
     },
     {
       "name": "Twin Turbo",
       "text": "Because I want to win!"
     },
     {
-      "text": "It was that simple. But that's the kind of horse girl she is. \nA carnivorous fish-like horse girl who instinctively \nfinds a partner and challenges them.",
       "choice_data_list": [
         "Her enthusiasm is admirable, but…"
-      ]
+      ],
+      "text": "It was that simple. But that's the kind of horse girl she is. \nA carnivorous fish-like horse girl who instinctively \nfinds a partner and challenges them."
     },
     {
       "name": "Twin Turbo",

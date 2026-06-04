@@ -2,10 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "My interim contract with Ines Fujin had started. \nI wanted to make the most of this chance. Of course —",
       "choice_data_list": [
         "(I can't make this about me.)"
-      ]
+      ],
+      "text": "My interim contract with Ines Fujin had started. \nI wanted to make the most of this chance. Of course —"
     },
     {
       "text": "There's a risk of injury if I work her too hard. I don't want to \nforce this on her, but work with her, provide her choices… \nWith that in mind, I carefully crafted my training regimens."
@@ -23,12 +23,12 @@
       "text": "Wait, these are all just for start dashes?! \nAhaha, you're too gung-ho about this～!"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Aah, my sides. …But hey, I like that you're enthusiastic but \nyou don't expect to finish all of this before the Meet, do you?",
       "choice_data_list": [
         "We don't need to.",
         "We don't have to."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Aah, my sides. …But hey, I like that you're enthusiastic but \nyou don't expect to finish all of this before the Meet, do you?"
     },
     {
       "text": "I'd like to observe her through different trainings \nand determine what she needs from that."
@@ -74,10 +74,10 @@
       "text": "I'd come to a conclusion after watching her \nfor a few days now. The girl just likes to <i>run</i>. \nWith no care to races, or training, or sanity."
     },
     {
-      "text": "She will run until she flat-out collapses. She can. \nAnd that's not something anyone can. So —",
       "choice_data_list": [
         "You can try a battle of attrition."
-      ]
+      ],
+      "text": "She will run until she flat-out collapses. She can. \nAnd that's not something anyone can. So —"
     },
     {
       "text": "You start out at high pace, pulling a lead. Midway you \ngather your breath, and go all out spending your stored \nenergy on the final straight."
@@ -97,12 +97,12 @@
       "text": "More time passed, and on our important \nlast day for final adjustments —"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Eeeeh! 100% chance of rain all day!? \nOur training…!",
       "choice_data_list": [
         "No, it's okay!",
         "No, don't worry!"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Eeeeh! 100% chance of rain all day!? \nOur training…!"
     },
     {
       "text": "There are plenty of indoor training facilities at Tracen Academy. \nIf they are free, we should be able to work on a few things there."
@@ -111,12 +111,12 @@
       "text": "With that glimmer of hope, we made our way \nto the indoor gym and pool, but —"
     },
     {
-      "name": "Ines Fujin",
-      "text": "Aw shucks. \nI didn't think the gym and pool would be all booked up.",
       "choice_data_list": [
         "Sorry, I should've checked the weather…",
         "Sorry, I should've checked the weather…"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "Aw shucks. \nI didn't think the gym and pool would be all booked up."
     },
     {
       "text": "To think we'd be spending this important \nfinal day stuck in the trainer's office……"
@@ -126,11 +126,11 @@
       "text": "…… Trainer. \nLet Miss Ines teach you a magic phrase."
     },
     {
-      "name": "Ines Fujin",
-      "text": "\"First, calm down, second, be positive. \nNow take it one thing at a time!\"",
       "choice_data_list": [
         "!"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "\"First, calm down, second, be positive. \nNow take it one thing at a time!\""
     },
     {
       "name": "Ines Fujin",
@@ -141,23 +141,23 @@
       "text": "Have a try too, recite the words in your mind. \nI promise it'll calm you down!"
     },
     {
-      "text": "Contrary to her playful words, her eyes were staring \nstraight into mine. It finally sank in that she \nmust have been quite worried about me.",
       "choice_data_list": [
         "Thanks. …You've got a great mom",
         "Thanks. …You've got a great mom"
-      ]
+      ],
+      "text": "Contrary to her playful words, her eyes were staring \nstraight into mine. It finally sank in that she \nmust have been quite worried about me."
     },
     {
       "name": "Ines Fujin",
       "text": "That's right! My mom ― everyone in my family is amazing! \nShe's kind and knows so many important things."
     },
     {
-      "name": "Ines Fujin",
-      "text": "And it's thanks to them that I'm at Tracen now.",
       "choice_data_list": [
         "They gave you the push?",
         "They gave you the push?"
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "And it's thanks to them that I'm at Tracen now."
     },
     {
       "name": "Ines Fujin",
@@ -204,12 +204,12 @@
       "text": "Those words pushed me to face my feelings. \nI was able to ask myself, \"Don't you really still want to run?\" —"
     },
     {
-      "name": "Ines Fujin",
-      "text": "A future where I could go to Tracen started to appear. \n… Although it took me a little longer to make up my mind!",
       "choice_data_list": [
         "So that's what happened.",
         "So that's what happened."
-      ]
+      ],
+      "name": "Ines Fujin",
+      "text": "A future where I could go to Tracen started to appear. \n… Although it took me a little longer to make up my mind!"
     },
     {
       "name": "Ines Fujin",
@@ -224,16 +224,16 @@
       "text": "― My family's coming to watch, so you know. \nI thought it'd be a good chance to show them \"hey, I'm doing \nmy best and growing at this academy\"."
     },
     {
-      "text": "She spoke pretty casually… \nBut I could tell how important her family was to her.",
       "choice_data_list": [
         "(Then―)"
-      ]
+      ],
+      "text": "She spoke pretty casually… \nBut I could tell how important her family was to her."
     },
     {
-      "text": "We <i>have</i> to produce a good result at the Meet tomorrow. \nI felt like the sense of mission lifted my expression.",
       "choice_data_list": [
         "Let's make your family proud tomorrow!"
-      ]
+      ],
+      "text": "We <i>have</i> to produce a good result at the Meet tomorrow. \nI felt like the sense of mission lifted my expression."
     },
     {
       "name": "Ines Fujin",

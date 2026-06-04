@@ -41,12 +41,12 @@
       "text": "All we can do now is watch over Stego's \nfirst act in the Classics, and hope that \nno misfortune befalls her."
     },
     {
-      "name": "Stay Gold",
-      "text": "…………",
       "choice_data_list": [
         "Are you alright?",
         "You alright?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…………"
     },
     {
       "name": "Stay Gold",
@@ -65,11 +65,11 @@
       "text": "<i>Hahah…</i> Been a while since I got chills \nlike this…!"
     },
     {
-      "text": "Seeing Stay Gold's electrifying anticipation \ntowards today's Satsuki Sho made my \nheart skip a few beats.",
       "choice_data_list": [
         "Show everyone what you're made of",
         "Show everyone what you're made of"
-      ]
+      ],
+      "text": "Seeing Stay Gold's electrifying anticipation \ntowards today's Satsuki Sho made my \nheart skip a few beats."
     },
     {
       "name": "Stay Gold",
@@ -108,11 +108,11 @@
       "text": "Be sure to watch me guys, I'm going \nto put everything I got into this."
     },
     {
-      "name": "Stay Gold",
-      "text": "Alright. I guess it's about time I get going.",
       "choice_data_list": [
         "May you have a good Satsuki Sho!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Alright. I guess it's about time I get going."
     },
     {
       "name": "Stay Gold",

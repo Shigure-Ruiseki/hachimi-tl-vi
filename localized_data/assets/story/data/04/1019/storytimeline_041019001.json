@@ -66,27 +66,27 @@
       "text": "Good work again today, Trainer-san. \nAre you settled in to the academy already?"
     },
     {
-      "name": "Tazuna Hayakawa",
-      "text": "There's quite a variety of talented Umamusume enrolled here. \nI encourage you to find someone you'd like to train with ♪",
       "choice_data_list": [
         "Right, I'll do my best!"
-      ]
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "There's quite a variety of talented Umamusume enrolled here. \nI encourage you to find someone you'd like to train with ♪"
     },
     {
       "text": "——Tracen Academy. The institution dedicated to training the \nUmamusume who race in the Twinkle Series."
     },
     {
-      "text": "I worked really hard and finally managed to become a trainer at \nthe Academy. I may be inexperienced, but I'd like to think my \npassion makes up for it.",
       "choice_data_list": [
         "(Time to give it my all today, too!)",
         "(Time to give it my all today, too!)"
-      ]
+      ],
+      "text": "I worked really hard and finally managed to become a trainer at \nthe Academy. I may be inexperienced, but I'd like to think my \npassion makes up for it."
     },
     {
-      "text": "I psyched myself up and went down to observe the running \nUmamusume. Seeing them giving it their all, I couldn't help but \nraise my fist and cheer.",
       "choice_data_list": [
         "Keep it uuup!"
-      ]
+      ],
+      "text": "I psyched myself up and went down to observe the running \nUmamusume. Seeing them giving it their all, I couldn't help but \nraise my fist and cheer."
     },
     {
       "name": "Daiwa Scarlet",
@@ -123,11 +123,11 @@
       "text": "She felt the threat of her pursuers, but turned that fear into her \npower. Power enough to push through those last three \nfurlongs…"
     },
     {
-      "name": "Agnes Digital",
-      "text": "And the moment she crossed the finish line, oh, she just couldn't \nhelp but smile! Ahhh, that blessed smile is our divine reward! \nDon't you agree!?",
       "choice_data_list": [
         "What?"
-      ]
+      ],
+      "name": "Agnes Digital",
+      "text": "And the moment she crossed the finish line, oh, she just couldn't \nhelp but smile! Ahhh, that blessed smile is our divine reward! \nDon't you agree!?"
     },
     {
       "name": "Agnes Digital",
@@ -142,33 +142,33 @@
       "text": "I could feel it, you know. You, too, infuse your cheers with a \npassionate karma. As a fellow traveller on this karmic path, I \ncan't afford to fall behind…"
     },
     {
-      "text": "I kind of got caught up in the flow there, but I wonder what she's \nup to. Wait, is she not going to run too?",
       "choice_data_list": [
         "Sorry, do you have a second?"
-      ]
+      ],
+      "text": "I kind of got caught up in the flow there, but I wonder what she's \nup to. Wait, is she not going to run too?"
     },
     {
       "name": "Agnes Digital",
       "text": "Wh- There's no way. …Wait, now they're running together!? \nBut didn't you just say \"she really gets on my nerves\"…!!!?"
     },
     {
-      "name": "Agnes Digital",
-      "text": "Wait, then, you mean, she was hiding how she really felt!? \nWHAAA～! \nMy oh my, what forbidden fruit!! <i>Le mariage</i> of sweet and bitter—",
       "choice_data_list": [
         "I said, have a second!?"
-      ]
+      ],
+      "name": "Agnes Digital",
+      "text": "Wait, then, you mean, she was hiding how she really felt!? \nWHAAA～! \nMy oh my, what forbidden fruit!! <i>Le mariage</i> of sweet and bitter—"
     },
     {
       "name": "Agnes Digital",
       "text": "——Oh. Yeah!? What's up…!?"
     },
     {
-      "name": "Agnes Digital",
-      "text": "Oh, was I being too loud…? \nWould you accept an Umamusume-chan anecdote as an \napology?",
       "choice_data_list": [
         "Are you not going to run?",
         "Are you not going to run?"
-      ]
+      ],
+      "name": "Agnes Digital",
+      "text": "Oh, was I being too loud…? \nWould you accept an Umamusume-chan anecdote as an \napology?"
     },
     {
       "name": "Agnes Digital",
@@ -179,11 +179,11 @@
       "text": "Whaaat? Nonono!! You just got to see those precious \nUmamusume-chans run, and you're going to say something like \nthat!?"
     },
     {
-      "name": "Agnes Digital",
-      "text": "Nope, nope, that's no good! No running from me! \nNone! None! Absolutely none!",
       "choice_data_list": [
         "But aren't you a student here?"
-      ]
+      ],
+      "name": "Agnes Digital",
+      "text": "Nope, nope, that's no good! No running from me! \nNone! None! Absolutely none!"
     },
     {
       "name": "Agnes Digital",

@@ -15,18 +15,18 @@
       "text": "YAHOOOOOOOOOOOOOOOOOO!!!"
     },
     {
-      "name": "Gold Ship",
-      "text": "Hey hey hey!! This ain't no time \nto be playing dead, trainer!!",
       "choice_data_list": [
         "Waaaaah!?"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "Hey hey hey!! This ain't no time \nto be playing dead, trainer!!"
     },
     {
-      "name": "Gold Ship",
-      "text": "On your feet! <i>Stand up</i>! \nIt's time for you to wake up!",
       "choice_data_list": [
         "What in the…!?"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "On your feet! <i>Stand up</i>! \nIt's time for you to wake up!"
     },
     {
       "name": "Gold Ship",
@@ -37,11 +37,11 @@
       "text": "The day that darkness covered the world… \nThe day nearly all hope was snuffed \nfrom these lands."
     },
     {
-      "name": "Gold Ship",
-      "text": "But as luck would have it, earth had \na savior in lord Gold Ship…!",
       "color_text_info_list": [
         "Gold Ship"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "But as luck would have it, earth had \na savior in lord Gold Ship…!"
     },
     {
       "name": "Gold Ship",
@@ -54,10 +54,10 @@
       "text": "― Right, it was a few days prior."
     },
     {
-      "text": "When I was walking, thinking \nabout the Twinkles Series \nwhich was about to start…",
       "color_text_info_list": [
         "Twinkle Series"
-      ]
+      ],
+      "text": "When I was walking, thinking \nabout the Twinkles Series \nwhich was about to start…"
     },
     {
       "name": "Gold Ship",
@@ -88,28 +88,28 @@
       "text": "Wooooooo! \nIt lights the fire in meeee!"
     },
     {
-      "text": "\"by Enigmatic Tome\", really? \nShe thinks it would say that?",
       "choice_data_list": [
         "Something's fishy……"
-      ]
+      ],
+      "text": "\"by Enigmatic Tome\", really? \nShe thinks it would say that?"
     },
     {
-      "name": "Gold Ship",
-      "text": "The heck!? You don't understand the worth \nof little old Golshi, desired even by Eden, \ndo you!",
       "color_text_info_list": [
         "Golshi"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "The heck!? You don't understand the worth \nof little old Golshi, desired even by Eden, \ndo you!"
     },
     {
       "name": "Gold Ship",
       "text": "I didn't wanna get rough, but \nyou leave me no choice—"
     },
     {
-      "name": "Gold Ship",
-      "text": "……And, yoop!",
       "choice_data_list": [
         "Wah!! Help!!"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "……And, yoop!"
     },
     {
       "name": "Gold Ship",
@@ -123,11 +123,11 @@
       "text": "So, 'bout our next course of action—"
     },
     {
-      "name": "Gold Ship",
-      "text": "… You have one of those cardinal clocks \nthey call a compass?",
       "choice_data_list": [
         "…… A what now?"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "… You have one of those cardinal clocks \nthey call a compass?"
     },
     {
       "name": "Gold Ship",

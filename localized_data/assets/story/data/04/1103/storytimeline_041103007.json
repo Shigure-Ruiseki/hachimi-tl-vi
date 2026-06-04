@@ -1,10 +1,10 @@
 {
   "text_block_list": [
     {
-      "text": "It was at the summer training camp. \nI was at the boardinghouse, racking my brain over what to write——",
       "choice_data_list": [
         "Advertising Royce this summer… Hmm."
-      ]
+      ],
+      "text": "It was at the summer training camp. \nI was at the boardinghouse, racking my brain over what to write——"
     },
     {
       "text": "The paper in front of me was meant to have an advertising plan for her, but it was still totally blank. Though there was a reason I was doing this by myself to begin with——"
@@ -14,12 +14,12 @@
       "text": "We're going to shoot a special feature! \n\"Royce-chan's Special Summer Movie\"! \nIt'll spread the word of Royce all over the globe!"
     },
     {
-      "name": "Royce and Royce",
-      "text": "I'll let you take the wheel this time, Trainer. \nYou'll be producer, director, and cinematographer \n—— The whole package!",
       "choice_data_list": [
         "Wait, me!?",
         "Wait, me!?"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "I'll let you take the wheel this time, Trainer. \nYou'll be producer, director, and cinematographer \n—— The whole package!"
     },
     {
       "name": "Royce and Royce",
@@ -29,36 +29,36 @@
       "text": "Royce and Royce put her trust in me to handle the entire project. So I wanted to make a plan that would not only live up to that trust, but go even further."
     },
     {
-      "text": "If I wanted to do that, I needed to do what we did before… \nFind a charming hidden side of her, and show it off from an unconventional angle.",
       "choice_data_list": [
         "Let me give her profile another read!"
-      ]
+      ],
+      "text": "If I wanted to do that, I needed to do what we did before… \nFind a charming hidden side of her, and show it off from an unconventional angle."
     },
     {
       "text": "And then, on the day of the shoot——"
     },
     {
-      "name": "Royce and Royce",
-      "text": "\"Maximize Time and Cost Efficiency! \nRoyce and Royce's Tips and Tricks for a Perfect Countryside Summer Getaway\" ——",
       "choice_data_list": [
         "I figured we'd play to your strengths.",
         "I figured we'd play to your strengths."
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "\"Maximize Time and Cost Efficiency! \nRoyce and Royce's Tips and Tricks for a Perfect Countryside Summer Getaway\" ——"
     },
     {
-      "text": "In the countryside, everything is slow and laid-back, the polar opposite of time efficient. The contrast would make her efficiency stand out all the more.",
       "choice_data_list": [
         "This script'll really make you shine!",
         "This script'll really make you shine!"
-      ]
+      ],
+      "text": "In the countryside, everything is slow and laid-back, the polar opposite of time efficient. The contrast would make her efficiency stand out all the more."
     },
     {
-      "name": "Royce and Royce",
-      "text": "Understood. We'll run with this.",
       "choice_data_list": [
         "Huh? You don't have any feedback?",
         "Huh? You don't have any feedback?"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "Understood. We'll run with this."
     },
     {
       "name": "Royce and Royce",
@@ -69,10 +69,10 @@
       "text": "First up is the intro. \nHow should I read it?"
     },
     {
-      "text": "Normally the presentation would be simple to fit our shooting location. But this video was supposed to show off her strengths, so——",
       "choice_data_list": [
         "Focus on efficiency from the very start."
-      ]
+      ],
+      "text": "Normally the presentation would be simple to fit our shooting location. But this video was supposed to show off her strengths, so——"
     },
     {
       "name": "Royce and Royce",
@@ -91,10 +91,10 @@
       "text": "Yippee!! So refreshing～!!! \n…The plan is to entertain myself in the river, if I recall. \nSo, what should I do?"
     },
     {
-      "text": "The equipment required for rafting and fishing was too cost inefficient. It had to be an activity she could enjoy using nothing but what she could find around her——",
       "choice_data_list": [
         "Remember, cost efficiency!"
-      ]
+      ],
+      "text": "The equipment required for rafting and fishing was too cost inefficient. It had to be an activity she could enjoy using nothing but what she could find around her——"
     },
     {
       "name": "Royce and Royce",
@@ -125,10 +125,10 @@
       "text": "\"Kyaaaa～～♡ \nYou're so cool, Phantom EX Edition!\""
     },
     {
-      "text": "The shoot went well from there——",
       "choice_data_list": [
         "Let's finish this strong, Royce."
-      ]
+      ],
+      "text": "The shoot went well from there——"
     },
     {
       "name": "Royce and Royce",
@@ -193,33 +193,33 @@
       "text": "Hm? Aren't you going to record?"
     },
     {
-      "text": "The video was all about efficiency. Her visage as she gazed at the fireworks was charming for sure, but taking things slow like this went against the project's central thesis.",
       "choice_data_list": [
         "It'd throw off the whole script, so…"
-      ]
+      ],
+      "text": "The video was all about efficiency. Her visage as she gazed at the fireworks was charming for sure, but taking things slow like this went against the project's central thesis."
     },
     {
       "name": "Royce and Royce",
       "text": "Hmm… \nReally now."
     },
     {
-      "name": "Royce and Royce",
-      "text": "…Then how do you personally feel? \nDo I go well with fireworks?",
       "choice_data_list": [
         "…I think you look amazing that way."
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "…Then how do you personally feel? \nDo I go well with fireworks?"
     },
     {
       "name": "Royce and Royce",
       "text": "That's reason enough for me. \nI trusted \"you\" to do this for me, remember?"
     },
     {
-      "name": "Royce and Royce",
-      "text": "Don't think, feel. \nFilm me, the way YOU see me… \n…Would you do that for me?",
       "choice_data_list": [
         "Oh… Of course!",
         "Oh… Of course!"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "Don't think, feel. \nFilm me, the way YOU see me… \n…Would you do that for me?"
     },
     {
       "name": "Royce and Royce",
@@ -242,21 +242,21 @@
       "text": "Can I count on you from here on out, Trainer?"
     },
     {
-      "text": "It's my dream as her trainer to make her the greatest. \nI didn't even need to think about my answer——",
       "choice_data_list": [
         "You've always got my support."
-      ]
+      ],
+      "text": "It's my dream as her trainer to make her the greatest. \nI didn't even need to think about my answer——"
     },
     {
       "name": "Royce and Royce",
       "text": "Hmm? Aren't you being a little cold～? \nWhat I'm trying to tell you is——"
     },
     {
-      "name": "Royce and Royce",
-      "text": "I want to be with you more and more♡",
       "choice_data_list": [
         "Wh——"
-      ]
+      ],
+      "name": "Royce and Royce",
+      "text": "I want to be with you more and more♡"
     },
     {
       "name": "Royce and Royce",

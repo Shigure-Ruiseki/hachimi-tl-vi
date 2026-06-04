@@ -58,8 +58,8 @@
       "text": "...I can smell it! The scent of crime...\nWhoever you are, you can't escape the nose of the Disciplinary Committee!"
     },
     {
-      "text": "Psst, you know that \"good stuff\"...?\n...I got it.",
-      "name": "Nakayama Festa"
+      "name": "Nakayama Festa",
+      "text": "Psst, you know that \"good stuff\"...?\n...I got it."
     },
     {
       "name": "Fenomeno",
@@ -123,12 +123,12 @@
       "text": "Gold Ship and Fenomeno were helping guide the kids along.\nThe kids took an immediate liking to the former, while getting scared of the latter... It was a little worrying.\n"
     },
     {
-      "name": "Fenomeno",
-      "text": "This workout machine is dangerous, so please refrain from touching it. This piece of equipment, however, is safe to try.\n",
       "choice_data_list": [
         "Remember, kids, take turns.",
         "Remember, kids, take turns."
-      ]
+      ],
+      "name": "Fenomeno",
+      "text": "This workout machine is dangerous, so please refrain from touching it. This piece of equipment, however, is safe to try.\n"
     },
     {
       "name": "Primary School Umamusume",
@@ -168,8 +168,8 @@
       "text": "I will do everything in my power to serve as a good example for the children!"
     },
     {
-      "text": "...Eek.",
-      "name": "Timid Umamusume Child"
+      "name": "Timid Umamusume Child",
+      "text": "...Eek."
     },
     {
       "text": "Fenomeno focused herself, forming an intense look in her eyes, which intimidated the children around her.\n...Again, a little worrying."

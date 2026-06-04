@@ -15,12 +15,12 @@
       "text": "Yeah, that's it! \nAwesome, go for it!"
     },
     {
-      "name": "Gold Ship",
-      "text": "Now when's she gonna <i>shake</i>…! \nAaah, I can't look away from this!",
       "choice_data_list": [
         "What are you looking at……?",
         "What are you looking at……?"
-      ]
+      ],
+      "name": "Gold Ship",
+      "text": "Now when's she gonna <i>shake</i>…! \nAaah, I can't look away from this!"
     },
     {
       "name": "Gold Ship",

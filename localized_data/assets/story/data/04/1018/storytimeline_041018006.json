@@ -5,12 +5,12 @@
       "text": "On a certain holiday, I was called out to meet Air Groove―"
     },
     {
-      "name": "Air Groove",
-      "text": "You've got some guts making me wait like this, trainer.",
       "choice_data_list": [
         "Sorry……was there always a field here?",
         "Sorry……was there always a field here?"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "You've got some guts making me wait like this, trainer."
     },
     {
       "name": "Air Groove",
@@ -24,12 +24,12 @@
       "text": "Air Groove's gaze was directed at a wagon \nfull of red, white, and yellow flowers."
     },
     {
-      "name": "Air Groove",
-      "text": "There ended up being more than I expected. While I'd rather not \nI'd like you to lend me a hand.",
       "choice_data_list": [
         "You took care of them well, so a lot bloomed huh.",
         "You took care of them well, so a lot bloomed huh."
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "There ended up being more than I expected. While I'd rather not \nI'd like you to lend me a hand."
     },
     {
       "name": "Air Groove",
@@ -55,10 +55,10 @@
       "text": "I'm sure my mother will be thrilled!"
     },
     {
-      "text": "Comparing Air Groove and her kouhai, I \nstart to think \"Ah, maybe this is一",
       "choice_data_list": [
         "Carnations for Mother's Day?"
-      ]
+      ],
+      "text": "Comparing Air Groove and her kouhai, I \nstart to think \"Ah, maybe this is一"
     },
     {
       "name": "Air Groove",
@@ -69,12 +69,12 @@
       "text": "Everyone's been away from their family stuck in \ntheir dorms. It's times like this where it's a \ngood opportunity to convey their feelings."
     },
     {
-      "name": "Air Groove",
-      "text": "Do you know the meaning of the yellow carnations?",
       "choice_data_list": [
         "The different colors have different meanings",
         "The different colors have different meanings"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "Do you know the meaning of the yellow carnations?"
     },
     {
       "name": "Air Groove",
@@ -112,12 +112,12 @@
       "text": "Air Groove smiles gently as she looks down \nat the carnation left in the wagon一"
     },
     {
-      "name": "Air Groove",
-      "text": "I suppose I'll send this one to my mother.",
       "choice_data_list": [
         "It's a beautiful one",
         "It's a beautiful one"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "I suppose I'll send this one to my mother."
     },
     {
       "text": "However… at that moment, one horse girl rushed over."
@@ -161,11 +161,11 @@
       "text": "Air Groove muttered so, with her usual cool expression. I \ncouldn't tell how she was feeling from her face alone."
     },
     {
-      "text": "Suddenly, I got worried remembering the injury she'd sustained \nfrom protecting her kouhai.",
       "choice_data_list": [
         "Are you putting yourself off again?",
         "Are you putting yourself off again?"
-      ]
+      ],
+      "text": "Suddenly, I got worried remembering the injury she'd sustained \nfrom protecting her kouhai."
     },
     {
       "name": "Air Groove",
@@ -184,23 +184,23 @@
       "text": "If you pursue your ideals to the point of neglecting \nyourself, you'll be overwhelmed. In that aspect… \nit's something also failed to grasp."
     },
     {
-      "name": "Air Groove",
-      "text": "But, it's different now.",
       "choice_data_list": [
         "Meaning, you've learned to value yourself?",
         "Meaning, you've learned to value yourself?"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "But, it's different now."
     },
     {
       "name": "Air Groove",
       "text": "That's right……Even if there are no flowers, I don't mind."
     },
     {
-      "name": "Air Groove",
-      "text": "Even if I don't have any definite proof, I'm sure that my will is \nunwavering. All that's left, is to go tell my mother directly.",
       "choice_data_list": [
         "In that case, I'm glad"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "Even if I don't have any definite proof, I'm sure that my will is \nunwavering. All that's left, is to go tell my mother directly."
     },
     {
       "name": "Air Groove",
@@ -211,12 +211,12 @@
       "text": "Calm and collected. \nThat's how the trainer of the \"Empress\" should carry themselves."
     },
     {
-      "name": "Air Groove",
-      "text": "But, well……it's only because you were so bothersome……that I…",
       "choice_data_list": [
         "Eh? What?",
         "Eh? What?"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "But, well……it's only because you were so bothersome……that I…"
     },
     {
       "name": "Air Groove",
@@ -231,12 +231,12 @@
       "text": "The sincere eyes one turns to become a mirror, and reflect what \ntheir ideal figure is."
     },
     {
-      "name": "Air Groove",
-      "text": "So, basically……it's like that.",
       "choice_data_list": [
         "I'll continue to watch you closely",
         "I'll continue to watch you closely"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "So, basically……it's like that."
     },
     {
       "name": "Air Groove",

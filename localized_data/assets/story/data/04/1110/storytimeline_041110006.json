@@ -5,37 +5,37 @@
       "text": "On a day off. While wandering around town, I happened to spot \nCesario. When she noticed me, she started walking towards me."
     },
     {
-      "name": "Cesario",
-      "text": "Good afternoon! \nTrainer are you heading somewhere?",
       "choice_data_list": [
         "I just did some shopping, what about you?",
         "I just did some shopping, what about you?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Good afternoon! \nTrainer are you heading somewhere?"
     },
     {
-      "name": "Cesario",
-      "text": "I'm heading to go see a comedy♪ \nIt's a popular work called 『Dreams of a Restless Lord』",
       "choice_data_list": [
         "Ohh, that sounds fun!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "I'm heading to go see a comedy♪ \nIt's a popular work called 『Dreams of a Restless Lord』"
     },
     {
       "name": "Cesario",
       "text": "Yes. It's a performance I've always wanted to see…… \nI was so excited I could barely sleep yesterday."
     },
     {
-      "text": "A sudden thought entered my mind upon seeing Cesario in such a \nhappy mood. Wasn't this a good chance to get to know her better?",
       "choice_data_list": [
         "Hey, are tickets still being sold?",
         "Hey, are tickets still being sold?"
-      ]
+      ],
+      "text": "A sudden thought entered my mind upon seeing Cesario in such a \nhappy mood. Wasn't this a good chance to get to know her better?"
     },
     {
-      "name": "Cesario",
-      "text": "Eh? Umm, on the website it says that tickets are \nbeing sold there……Ah, Trainer, are you perhaps――!",
       "choice_data_list": [
         "If you're okay with it, let's see it together"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Eh? Umm, on the website it says that tickets are \nbeing sold there……Ah, Trainer, are you perhaps――!"
     },
     {
       "name": "Cesario",
@@ -65,37 +65,37 @@
       "text": "Cesario seemed to be having fun, expressing \nvarious emotions, including her childish-side. \nHer usual seriousness was nowhere to be seen."
     },
     {
-      "name": "Cesario",
-      "text": "Haaa～, I don't think I'll be able to sleep much tonight \neither. I think I'll just keep thinking about this, fufu♪",
       "choice_data_list": [
         "You were laughing the whole time",
         "You were laughing the whole time"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Haaa～, I don't think I'll be able to sleep much tonight \neither. I think I'll just keep thinking about this, fufu♪"
     },
     {
-      "name": "Cesario",
-      "text": "Ah……well, I just couldn't hold it in…… \nSorry, was I too noisy?",
       "choice_data_list": [
         "No way! I'm glad you were having fun!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Ah……well, I just couldn't hold it in…… \nSorry, was I too noisy?"
     },
     {
-      "name": "Cesario",
-      "text": "I'm glad…… Besides, it really was entertaining, after all. \nMy cheeks are still sore. I wonder if I'll have cramps later.",
       "choice_data_list": [
         "How about heading to a cafe next?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "I'm glad…… Besides, it really was entertaining, after all. \nMy cheeks are still sore. I wonder if I'll have cramps later."
     },
     {
       "name": "Cesario",
       "text": "Yeah. Let's do that, Fufuu."
     },
     {
-      "text": "While drinking coffee, we took a breather. \nBut it didn't seem like Cesario was any less excited.",
       "choice_data_list": [
         "You must have really liked that comedy",
         "You must have really liked that comedy"
-      ]
+      ],
+      "text": "While drinking coffee, we took a breather. \nBut it didn't seem like Cesario was any less excited."
     },
     {
       "name": "Cesario",
@@ -114,11 +114,11 @@
       "text": "But at that time, I couldn't properly put my \nfeelings in to words. I was tense all the time."
     },
     {
-      "name": "Cesario",
-      "text": "And so the fatigue started to accumulate…… \nto the point I collapsed.",
       "choice_data_list": [
         "So something like that happened……"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "And so the fatigue started to accumulate…… \nto the point I collapsed."
     },
     {
       "name": "Cesario",
@@ -181,12 +181,12 @@
       "text": "After that, I gradually became aware of what I had learned, \nand a little bit at a time, I became able to switch on and off."
     },
     {
-      "name": "Cesario",
-      "text": "And that's why I love comedies, not just because \nthey're interesting. They were also the reason \nI learned something important from my parents.",
       "choice_data_list": [
         "It became an important memory",
         "It became an important memory"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "And that's why I love comedies, not just because \nthey're interesting. They were also the reason \nI learned something important from my parents."
     },
     {
       "name": "Cesario",
@@ -197,11 +197,11 @@
       "text": "And it made me realize that 『Teachers』 are amazing!"
     },
     {
-      "text": "From the clear look in her eyes, it was obvious \njust how deep the love for her parents was.",
       "choice_data_list": [
         "You really respect your parents, huh?",
         "You really respect your parents, huh?"
-      ]
+      ],
+      "text": "From the clear look in her eyes, it was obvious \njust how deep the love for her parents was."
     },
     {
       "name": "Cesario",
@@ -216,12 +216,12 @@
       "text": "――even my parents' names might be engraved \nin to history as the 『Origin of that Light』"
     },
     {
-      "name": "Cesario",
-      "text": "Just how wonderful would that be? The origin of that \ndream would also become a part of that dream.",
       "choice_data_list": [
         "We can carry all of that in to the future",
         "We can carry all of that in to the future"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Just how wonderful would that be? The origin of that \ndream would also become a part of that dream."
     },
     {
       "text": "I was unexpectedly able to learn just how \nfar in to the future Cesario was looking."

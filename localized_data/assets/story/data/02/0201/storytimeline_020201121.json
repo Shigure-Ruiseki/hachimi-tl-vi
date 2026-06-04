@@ -6,12 +6,12 @@
       "text": "Trainer-san. ……sorry for taking so long. \nAbout my next race――"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "My goal is to take first place in the 『NHK Mile Cup』! \nI look forward to your guidance!!",
       "choice_data_list": [
         "Kraft……! I see, you decided!",
         "Kraft……! I see, you decided!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "My goal is to take first place in the 『NHK Mile Cup』! \nI look forward to your guidance!!"
     },
     {
       "name": "Rhein Kraft",
@@ -32,12 +32,12 @@
       "text": "……I see. So you've decided too. \n……Alright, now that we've decided that, time's running out!"
     },
     {
-      "name": "King Halo",
-      "text": "Something that nobody has achieved before. Obtaining the \nunorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. \nWe need to make sure to train and prepare properly!",
       "choice_data_list": [
         "Right!",
         "Right!"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Something that nobody has achieved before. Obtaining the \nunorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. \nWe need to make sure to train and prepare properly!"
     },
     {
       "text": "And with that said――!"
@@ -134,12 +134,12 @@
       "text": "Oh, how thoughtful!"
     },
     {
-      "name": "Cesario",
-      "text": "Trainer……are you gonna be okay? \nIt'd be bad if you cut yourself, should I peel them instead?",
       "choice_data_list": [
         "Huh? Now I'm treated like a kid too!?",
         "Huh? Now I'm treated like a kid too!?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "Trainer……are you gonna be okay? \nIt'd be bad if you cut yourself, should I peel them instead?"
     },
     {
       "name": "Rhein Kraft",

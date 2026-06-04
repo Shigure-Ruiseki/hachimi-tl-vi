@@ -61,10 +61,10 @@
       "text": "McQueen looks at me with a wry smile."
     },
     {
-      "text": "I take that to mean I'd better convince Rice to compete.",
       "choice_data_list": [
         "She'll run. I'll make sure of it."
-      ]
+      ],
+      "text": "I take that to mean I'd better convince Rice to compete."
     },
     {
       "name": "Mejiro McQueen",
@@ -267,11 +267,11 @@
       "text": "I want to win. Even if it's an important race for McQueen!"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Heh. I wouldn't have it any other way.",
       "choice_data_list": [
         "Then we'd better get training, yeah?"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Heh. I wouldn't have it any other way."
     },
     {
       "name": "Both",

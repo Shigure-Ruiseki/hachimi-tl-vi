@@ -39,12 +39,12 @@
       "text": "However, in contrast to the \nexcitement, Vodka had a somewhat \nabsent expression."
     },
     {
-      "name": "Vodka",
-      "text": "Aaah, dammit! What the hell…! This \ncan't be happening… Aaah, geez!",
       "choice_data_list": [
         "That doesn't sound fun.",
         "That doesn't sound fun."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Aaah, dammit! What the hell…! This \ncan't be happening… Aaah, geez!"
     },
     {
       "name": "Vodka",
@@ -67,12 +67,12 @@
       "text": "It's way too lame! Dammit!"
     },
     {
-      "name": "Vodka",
-      "text": "I'm sure……she's just as shocked……",
       "choice_data_list": [
         "Show some remorse!",
         "Just apologize."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "I'm sure……she's just as shocked……"
     },
     {
       "name": "Vodka",
@@ -208,12 +208,12 @@
       "text": "Open the window and blow \nthe dust into the wind! What \ndo you think, genius?"
     },
     {
-      "name": "Daiwa Scarlet",
-      "text": "It's an idiot's idea, and it won't \nget dust outside! You really are…!!",
       "choice_data_list": [
         "You really are close.",
         "We really are close."
-      ]
+      ],
+      "name": "Daiwa Scarlet",
+      "text": "It's an idiot's idea, and it won't \nget dust outside! You really are…!!"
     },
     {
       "name": "Both",

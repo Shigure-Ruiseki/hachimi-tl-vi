@@ -12,12 +12,12 @@
       "text": "A Sakura Bakushin O jogging."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Oya! Trainer-san! \nGood morning!",
       "choice_data_list": [
         "You're up early.",
         "You're up early."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Oya! Trainer-san! \nGood morning!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -50,23 +50,23 @@
       "text": "I have a feeling that this course of \naction is a little―no, actually, a lot―wrong."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "That aside! Trainer-san, let's do some \nSpartan training, please!",
       "choice_data_list": [
         "……Huh?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "That aside! Trainer-san, let's do some \nSpartan training, please!"
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Since this is our long-awaited training \ncamp, I thought we might want to make it \nan exemplary one!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "In other words――Spartan training! \nAnd I, being intelligent, have realized this!",
       "choice_data_list": [
         "(Is that so?)",
         "(Is that so?)"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "In other words――Spartan training! \nAnd I, being intelligent, have realized this!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -77,26 +77,26 @@
       "text": "She trained harder than anyone else, \ndrinking away every last drop of the mud, \ntears, and sweat…!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "And so! \nI'm going to become an even more \namazing class president!!",
       "choice_data_list": [
         "….Alright!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "And so! \nI'm going to become an even more \namazing class president!!"
     },
     {
-      "text": "It's good that she's motivated, anyways. \nA Spartan training that she might enjoy \nwould be…",
       "choice_data_list": [
         "Lifting logs in the forest!",
         "Swimming to her limits in the ocean!"
-      ]
+      ],
+      "text": "It's good that she's motivated, anyways. \nA Spartan training that she might enjoy \nwould be…"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Lifting logs…!?",
       "choice_data_list": [
         "(Was that as stupid as I thought it was?)",
         "(Was that as stupid as I thought it was?)"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Lifting logs…!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -123,12 +123,12 @@
       "text": "Could it be that I…"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Ackk―! If I don't knock the tree down, a \nlog won't be brought into this world!?",
       "choice_data_list": [
         "Don't do that.",
         "Don't do that."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Ackk―! If I don't knock the tree down, a \nlog won't be brought into this world!?"
     },
     {
       "text": "If things continue like this, it seems they'll \nonly get increasingly more absurd, but \nwhen I tried to tell her to rein it in――"
@@ -138,11 +138,11 @@
       "text": "Ah―――!! \nI've come up with an excellent idea!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Trainer-san will be a tree!",
       "choice_data_list": [
         "!?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Trainer-san will be a tree!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -164,32 +164,32 @@
       "text": "Understood, let's do it! \nI'll use my Bakushin・Guts!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Now, let's push the limits!! \nI'll swim to the end of the horizon!",
       "choice_data_list": [
         "Stop, Bakushin O"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Now, let's push the limits!! \nI'll swim to the end of the horizon!"
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Affirmative! \nI've stopped!"
     },
     {
-      "text": "I'm sure she'd seriously swim to the \nend of the ocean. \nThat's dangerous…",
       "choice_data_list": [
         "Let's swim in the shallows!"
-      ]
+      ],
+      "text": "I'm sure she'd seriously swim to the \nend of the ocean. \nThat's dangerous…"
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Roger!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "―Wait, I'm not going to swim in \nshallow water!",
       "choice_data_list": [
         "Class presidents can swim in shallow water!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "―Wait, I'm not going to swim in \nshallow water!"
     },
     {
       "name": "Sakura Bakushin O",

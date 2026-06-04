@@ -9,11 +9,11 @@
       "text": "<i>Hmhmhm!?</i> Hold up a moment there, good citizen! \nYou are bathed in a most peculiar aura!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "I see in your future… a leisurely afternoon outing with me! \nOh how thoughtful, how wonderful～!",
       "choice_data_list": [
         "Uhh, I just remembered I had work to do…"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "I see in your future… a leisurely afternoon outing with me! \nOh how thoughtful, how wonderful～!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -32,12 +32,12 @@
       "text": "Not wanting to see my one free day go up in smoke, \nthere was only one conclusion I could come to."
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Indeed, I would have to surround myself with powerful \nsources of fortune. I've already stuffed lucky items in \nany place that will hold them!",
       "choice_data_list": [
         "And I'm one of those sources…?",
         "And I'm one of your lucky items…?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Indeed, I would have to surround myself with powerful \nsources of fortune. I've already stuffed lucky items in \nany place that will hold them!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -69,11 +69,11 @@
       "text": "All fired up, Matikanefukukitaru picked a piece \nof gum and started unwrapping it ——"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "The paper is blank… I shall take this as Middling Luck!",
       "choice_data_list": [
         "Isn't that a bit convenient of a choice?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "The paper is blank… I shall take this as Middling Luck!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -103,11 +103,11 @@
       "text": "Where better to wrap up today than at the shrine! \nI offer my gratitude for this day of peace and tranquility."
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Truly, divination and auspicious traditions are such \nwonderful things. They've always been there for me, \nalways pushed me forward. Ever since that day…",
       "choice_data_list": [
         "You experienced a special day?"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Truly, divination and auspicious traditions are such \nwonderful things. They've always been there for me, \nalways pushed me forward. Ever since that day…"
     },
     {
       "name": "Matikanefukukitaru",
@@ -149,10 +149,10 @@
       "text": "There could be no doubt about how much divination \nand those lucky items helped support her, and how \nmuch they meant to her."
     },
     {
-      "text": "Nonetheless, her overdependence on these things leading \nher to shut down when they are not available is worrying.",
       "choice_data_list": [
         "Let's try something, shall we."
-      ]
+      ],
+      "text": "Nonetheless, her overdependence on these things leading \nher to shut down when they are not available is worrying."
     },
     {
       "name": "Matikanefukukitaru",
@@ -163,22 +163,22 @@
       "text": "<i>Hm-hmm</i>… so all I have to do is play \nthis claw machine, is that right?"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "I'll snag something up in no time! Observe the power \nof my pockets packed with lucky items!",
       "choice_data_list": [
         "Hand me all your lucky items first."
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "I'll snag something up in no time! Observe the power \nof my pockets packed with lucky items!"
     },
     {
       "name": "Matikanefukukitaru",
       "text": "<i>Neeehh!?</i> What kind of outrageous request is that!? \nSnagging anything from a claw machine without \nlucky items is not an accomplishable feat!"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Moreover, my luck for today is Terrible… \nForget snagging anything, I fear my whole \nwallet would not even get that claw moving!",
       "choice_data_list": [
         "<size=34>We'll just call an employee over if that happens.</size>"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Moreover, my luck for today is Terrible… \nForget snagging anything, I fear my whole \nwallet would not even get that claw moving!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -188,11 +188,11 @@
       "text": "Plenty of shrieking later, I had managed to \nconvince her to hand in all her lucky items."
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "<i>Gu-huh…</i> At this point I am nothing more \nthan pure, concentrated misfortune……",
       "choice_data_list": [
         "Come on, give it a go."
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "<i>Gu-huh…</i> At this point I am nothing more \nthan pure, concentrated misfortune……"
     },
     {
       "name": "Matikanefukukitaru",
@@ -206,11 +206,11 @@
       "text": "Determined to ignore her pleas, I took a step back and watched \nas she started an attempt at the claw machine ——"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "Well, there you have it. Or more accurately, there you don't. \nIt's no surprise, now that none of the lucky items' power \nis supporting me…",
       "choice_data_list": [
         "Alright, well, try it again!"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "Well, there you have it. Or more accurately, there you don't. \nIt's no surprise, now that none of the lucky items' power \nis supporting me…"
     },
     {
       "name": "Matikanefukukitaru",
@@ -227,24 +227,24 @@
       "text": "Huh? I… got one…?"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "I got one out of it, Trainer!",
       "choice_data_list": [
         "See, you can do it without lucky items!",
         "See, you can do it without lucky items!"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "I got one out of it, Trainer!"
     },
     {
       "name": "Matikanefukukitaru",
       "text": "It certainly looks that way… So what you're saying is that \nfortune can reach me even in the absence of lucky items…?"
     },
     {
-      "name": "Matikanefukukitaru",
-      "text": "<i>Hwaaah～</i> It's… actually really freeing to know that I don't \nhave to lug a mountain of lucky items with me everywhere.",
       "choice_data_list": [
         "<size=38>Relying on your charms too much isn't good.</size>",
         "<size=38>Relying on your charms too much isn't good.</size>"
-      ]
+      ],
+      "name": "Matikanefukukitaru",
+      "text": "<i>Hwaaah～</i> It's… actually really freeing to know that I don't \nhave to lug a mountain of lucky items with me everywhere."
     },
     {
       "name": "Matikanefukukitaru",

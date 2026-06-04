@@ -5,12 +5,12 @@
       "text": "A day off――I was planning on heading out \nsomewhere when I spotted Sakura Laurel."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "『Good morning, Victory~♪ \nSalutations, Full of energy, Today's also A-okay~♪』",
       "choice_data_list": [
         "Sounds like fun, going somewhere?",
         "Sounds like fun, going somewhere?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "『Good morning, Victory~♪ \nSalutations, Full of energy, Today's also A-okay~♪』"
     },
     {
       "name": "Sakura Laurel",
@@ -32,11 +32,11 @@
       "text": "I found it while searching the net! \nI knew I definitely had to come see it in person."
     },
     {
-      "text": "Sakura Laurel had a strong admiration and dream that was \nrelated to France. Was this church also a part of that?",
       "choice_data_list": [
         "What parts are French?",
         "What parts are French?"
-      ]
+      ],
+      "text": "Sakura Laurel had a strong admiration and dream that was \nrelated to France. Was this church also a part of that?"
     },
     {
       "name": "Sakura Laurel",
@@ -47,11 +47,11 @@
       "text": "First, this stained glass! \nIt's a characteristic of the Gothic architectural style!"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Tall ceilings with large windows to let in a lot of light―― \nThat's what this style was developed for.",
       "choice_data_list": [
         "Ooooh~! What else?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Tall ceilings with large windows to let in a lot of light―― \nThat's what this style was developed for."
     },
     {
       "name": "Sakura Laurel",
@@ -66,23 +66,23 @@
       "text": "In my room, I've got a bunch of photos of those \nmemories on my walls……and among those, is a photo of \nmy parents walking down the aisle for their wedding."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Whenever I look at it, I can't help but feel all warm inside――",
       "choice_data_list": [
         "That's why you wanted to see it in person",
         "That's why you wanted to see it in person"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Whenever I look at it, I can't help but feel all warm inside――"
     },
     {
       "name": "Sakura Laurel",
       "text": "Yes! This altar too…… \nyeah, it really looks similar."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "……――That's right! Hey, Trainer-san. \nWant to try walking it together?",
       "choice_data_list": [
         "Eh?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "……――That's right! Hey, Trainer-san. \nWant to try walking it together?"
     },
     {
       "text": "Before I could say anything, Sakura Laurel linked \narms with me and pulled me along. Almost like she \nwas re-enacting the last part of a wedding."
@@ -96,11 +96,11 @@
       "text": "Even if now, they're living apart――"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Je ne pense qu'a toi chaque jour! \nMy beloved, today too, I can't think of anything but you.",
       "choice_data_list": [
         "!?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Je ne pense qu'a toi chaque jour! \nMy beloved, today too, I can't think of anything but you."
     },
     {
       "name": "Sakura Laurel",
@@ -111,22 +111,22 @@
       "text": "No matter how far apart, they're always thinking of each other, \nand trust each other……The parents that I'm proud of!"
     },
     {
-      "text": "Seeing her smile like that made me happy as well. \nThat said, what she said and did earlier……",
       "choice_data_list": [
         "You can't do this with just anyone though"
-      ]
+      ],
+      "text": "Seeing her smile like that made me happy as well. \nThat said, what she said and did earlier……"
     },
     {
       "name": "Sakura Laurel",
       "text": "Ah……Fufu, I'm sorry. \nI'll be careful!"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "This is my favorite cafe! I wanted Trainer-san \nto try the French food here too.",
       "choice_data_list": [
         "Thanks, I'm looking forward to it!",
         "Thanks, I'm looking forward to it!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "This is my favorite cafe! I wanted Trainer-san \nto try the French food here too."
     },
     {
       "text": "Though I said that……the menu is very French indeed. \nHonestly, it all looks like gibberish to me……!"
@@ -136,12 +136,12 @@
       "text": "I wonder what I should get today~. \nMaybe bourguignon?"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Trainer-san, what about――……Ooooh, do you prefer delicacies? \nThat section is almost all French food. You've got quite the eye~!",
       "choice_data_list": [
         "Y-yeah!",
         "Y-yeah!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Trainer-san, what about――……Ooooh, do you prefer delicacies? \nThat section is almost all French food. You've got quite the eye~!"
     },
     {
       "text": "I was initially intimidated when she pointed that out \nbut, that means it should be the best parts of French \ncuisine. I'll take it as a challenge and try it out!"
@@ -154,32 +154,32 @@
       "text": "These delicacies were more impressive than I expected……! \nA unique-looking sausage and blue cheese……I couldn't help \nbut feel lost when faced with unfamiliar ingredients."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Wah~ it looks delicious! Thanks for the meal!",
       "choice_data_list": [
         "T-thanks for the meal――……!?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Wah~ it looks delicious! Thanks for the meal!"
     },
     {
       "text": "The moment I put the food in my mouth, a very pungent scent \nassaulted my nose! This is……incredibly……distinctive……!!"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "……Trainer-san? Are you okay?",
       "choice_data_list": [
         "Ugh……I-I'm not okay……maybe……"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "……Trainer-san? Are you okay?"
     },
     {
       "name": "Sakura Laurel",
       "text": "Waah, that's not good! \nI see, maybe it was too much for a first-timer!"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "But, it'll be fine! Actually――For this unique andouillette, \nthere's a special magic to make it tastier!",
       "choice_data_list": [
         "Eh, what is it……some kind of sauce?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "But, it'll be fine! Actually――For this unique andouillette, \nthere's a special magic to make it tastier!"
     },
     {
       "name": "Sakura Laurel",
@@ -189,19 +189,19 @@
       "text": "I tried what she said――the mustard did a good job masking \nthe pungent scent……the taste was strong but it was tasty!"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Next I'll explain the salad~! \nFirst, try eating one of those purple leaves.",
       "choice_data_list": [
         "Okay! ……Bitter!",
         "Okay! ……Bitter!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Next I'll explain the salad~! \nFirst, try eating one of those purple leaves."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Ahahahaa, isn't it~!? Now, with that bitter taste in your mouth, \nwhat happens when you add a little bit of that dressing~?",
       "choice_data_list": [
         "It's good!!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Ahahahaa, isn't it~!? Now, with that bitter taste in your mouth, \nwhat happens when you add a little bit of that dressing~?"
     },
     {
       "name": "Sakura Laurel",
@@ -212,23 +212,23 @@
       "text": "And the blue cheese on top is called Roquefort. It has a strong \nsalty taste that goes well with the salad, so try a bite♪"
     },
     {
-      "text": "Eating everything in the manner that Sakura Laurel \nsuggested made the meal delicious. I think I understand \nwhy she prefers French cuisine now.",
       "choice_data_list": [
         "French food is almost like magic",
         "French food is almost like magic"
-      ]
+      ],
+      "text": "Eating everything in the manner that Sakura Laurel \nsuggested made the meal delicious. I think I understand \nwhy she prefers French cuisine now."
     },
     {
       "name": "Sakura Laurel",
       "text": "――！"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "……That's right. No matter what ingredients you have, even if \nit's difficult to eat, it's made in a way to make it delicious――",
       "choice_data_list": [
         "Is what you're eating the same?",
         "Is what you're eating the same?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "……That's right. No matter what ingredients you have, even if \nit's difficult to eat, it's made in a way to make it delicious――"
     },
     {
       "name": "Sakura Laurel",
@@ -238,11 +238,11 @@
       "text": "It looks delicious. Next time we come here, maybe I should \ntry ordering that. So I don't forget, I make a memo."
     },
     {
-      "name": "Sakura Laurel",
-      "text": "――……Fufu. You're alike……",
       "choice_data_list": [
         "……? Did you say something?"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "――……Fufu. You're alike……"
     },
     {
       "name": "Sakura Laurel",
@@ -253,11 +253,11 @@
       "text": "How about ordering some dessert? \nI've got some more recommendations♪"
     },
     {
-      "name": "Sakura Laurel",
-      "text": "Thank you for today! \nWere you able to enjoy that quick tour of France?",
       "choice_data_list": [
         "Very much so!"
-      ]
+      ],
+      "name": "Sakura Laurel",
+      "text": "Thank you for today! \nWere you able to enjoy that quick tour of France?"
     },
     {
       "name": "Sakura Laurel",

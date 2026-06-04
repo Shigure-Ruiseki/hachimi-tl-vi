@@ -5,11 +5,11 @@
       "text": "I was on my way home from an \nouting with Sakura Bakushin O――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Are you aware, Trainer? \nDid you know that my rival is \ncoming here, right now?",
       "choice_data_list": [
         "Eh, rival…?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Are you aware, Trainer? \nDid you know that my rival is \ncoming here, right now?"
     },
     {
       "text": "When I was told that, I thought of the Uma \nMusume of her generation…"
@@ -19,11 +19,11 @@
       "text": "You already know, don't you? \nIndeed, my rival is――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "The fastest king of the sea! \nThe \"Sailfish\"!!",
       "choice_data_list": [
         "I didn't think it was a fish!?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "The fastest king of the sea! \nThe \"Sailfish\"!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -42,11 +42,11 @@
       "text": "In other words, let's G.O. to the aquarium, \nwhich is open to the public for a limited \ntime!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Excuse meeee―!!",
       "choice_data_list": [
         "Quiet in the museum!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Excuse meeee―!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -65,11 +65,11 @@
       "text": "Ever since I heard that, I've been \neating them from head to tail!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Thanks to this, I am very intelligent. \nThe sailfish must be terrified.",
       "choice_data_list": [
         "I, I see."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Thanks to this, I am very intelligent. \nThe sailfish must be terrified."
     },
     {
       "name": "Sakura Bakushin O",
@@ -80,11 +80,11 @@
       "text": "It's a \"yellowtail\", the fish they call \nthe fish of success! \nBefore they grow up, they're called \nthings like \"Mejiro\" and \"Warasa\"――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Oya? So the McQueens will eventually \nbecome \"yellowtail\" McQueens?",
       "choice_data_list": [
         "More than that, we're looking for a sailfish!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Oya? So the McQueens will eventually \nbecome \"yellowtail\" McQueens?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -99,12 +99,12 @@
       "text": "\"Sailfish\"…"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "…!! ……～～～～!!!!!!!",
       "choice_data_list": [
         "(She's excited so quietly…!)",
         "(She's excited so quietly…!)"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "…!! ……～～～～!!!!!!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -119,12 +119,12 @@
       "text": "Sure enough, I still want to compete \nwith you! \nBut, this is a museum, and we can't \nbreak the rules…"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Kuuuuuu～～! \nWhat am I supposed to dooo～～!",
       "choice_data_list": [
         "Let's just observe for today.",
         "Maybe try something like racing in your brain."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Kuuuuuu～～! \nWhat am I supposed to dooo～～!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -178,11 +178,11 @@
       "text": "Bakushinbakushiiii―n!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "………",
       "choice_data_list": [
         "H, how'd it go?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "………"
     },
     {
       "name": "Sakura Bakushin O",

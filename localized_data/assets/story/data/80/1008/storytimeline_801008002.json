@@ -25,12 +25,12 @@
       "text": "D-Dammit… If we don't hurry, we're \ngonna run out of photo books!"
     },
     {
-      "name": "Vodka",
-      "text": "Hey, you! Don't you know how to \navoid the guys on the main street?!",
       "choice_data_list": [
         "Use side roads",
         "At full speed."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Hey, you! Don't you know how to \navoid the guys on the main street?!"
     },
     {
       "name": "Vodka",

@@ -9,22 +9,22 @@
       "text": "Chomp!!"
     },
     {
-      "text": "I was bitten by an Uma Musume.",
       "choice_data_list": [
         "(……I'm being bitten!?)"
-      ]
+      ],
+      "text": "I was bitten by an Uma Musume."
     },
     {
       "name": "Shinko Windy",
       "text": "…………Kukuu ……Ha ha ha!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Wa-ha ha ha ha ha ha!! \nThey're surprised, They're surprised～!",
       "choice_data_list": [
         "W-who are you?",
         "W-who are you?"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Wa-ha ha ha ha ha ha!! \nThey're surprised, They're surprised～!"
     },
     {
       "name": "Shinko Windy",
@@ -39,10 +39,10 @@
       "text": "Nii-shi shi shi shi!! \nYou better remember this!"
     },
     {
-      "text": "Ever since that day…… things like Jack-in-the-boxesーー",
       "choice_data_list": [
         "Uwah!?…… W-what the heck-!"
-      ]
+      ],
+      "text": "Ever since that day…… things like Jack-in-the-boxesーー"
     },
     {
       "name": "Shinko Windy",
@@ -53,10 +53,10 @@
       "text": "Uhya hya hya hya hyaa-!!"
     },
     {
-      "text": "And pitfall trapsーー",
       "choice_data_list": [
         "Waaah-! ……Windy!"
-      ]
+      ],
+      "text": "And pitfall trapsーー"
     },
     {
       "name": "Shinko Windy",
@@ -74,18 +74,18 @@
       "text": "Amazing huh, shaking in your boots huh, you were thunderstuck \nhuh!? Windy-chan is overwhelming, huh!? Waaha ha ha-!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "……wait, what's wrong? \nWhy are you crying?",
       "choice_data_list": [
         "M-my sinuses hurt……!"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "……wait, what's wrong? \nWhy are you crying?"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Eh? It hurts? ……Hmph, can't be helped! \nDrink this. It's not carbonated, it's just regular water.",
       "choice_data_list": [
         "Thanks……"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Eh? It hurts? ……Hmph, can't be helped! \nDrink this. It's not carbonated, it's just regular water."
     },
     {
       "name": "Shinko Windy",
@@ -99,11 +99,11 @@
       "text": "And then one day, I went to watch a \nfew mock races and saw Shinko Windy."
     },
     {
-      "name": "Shinko Windy",
-      "text": "―…… Haa, haa, haa, haa……!",
       "choice_data_list": [
         "(……！)"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "―…… Haa, haa, haa, haa……!"
     },
     {
       "text": "That prankster aura was nowhere to be found. Focusing ahead, \nwith a sharp look in her eye, seriously running through the dirt."
@@ -169,10 +169,10 @@
       "text": "――The result was 2nd place. In the final straight, \nthe girl she bit increased her speed and came \nin 1st place, pulling ahead by a neck."
     },
     {
-      "text": "Interference was never the answer. \nBut, it was painfully clear that she wanted to win.",
       "choice_data_list": [
         "Windy……"
-      ]
+      ],
+      "text": "Interference was never the answer. \nBut, it was painfully clear that she wanted to win."
     },
     {
       "name": "Shinko Windy",
@@ -182,39 +182,39 @@
       "text": "I had called out to her, but I was \nstill at a loss as to what to say――"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Chomp!!",
       "choice_data_list": [
         "Uwah!?"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Chomp!!"
     },
     {
       "text": "I don't know why she suddenly attacked…… with nothing to say, \nI ended up spending several seconds just staring at Shinko Windy―"
     },
     {
-      "name": "Shinko Windy",
-      "text": "……Hehe, hehehehe……! \n……they're looking, they're looking this way.",
       "choice_data_list": [
         "Eh?"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "……Hehe, hehehehe……! \n……they're looking, they're looking this way."
     },
     {
       "name": "Shinko Windy",
       "text": "Wahahahahaha-! \nThey were looking this wayーー!!"
     },
     {
-      "name": "Shinko Windy",
-      "text": "Fast as fast can be, you'll never catch me!",
       "choice_data_list": [
         "Wha-……!?"
-      ]
+      ],
+      "name": "Shinko Windy",
+      "text": "Fast as fast can be, you'll never catch me!"
     },
     {
-      "text": "Shinko Windy ran off in high spirits, \nfor now, I ended up chasing after her.",
       "choice_data_list": [
         "(She wasn't depressed!?)",
         "(She wasn't depressed!?)"
-      ]
+      ],
+      "text": "Shinko Windy ran off in high spirits, \nfor now, I ended up chasing after her."
     },
     {
       "text": "She ran ahead with a smile on her face…… \nit was a smile that made me think she was having fun."

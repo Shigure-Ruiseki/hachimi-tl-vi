@@ -157,11 +157,11 @@
       "text": "(Comparing myself to others and then losing confidence. I should just keep walking forward, but I'm incapable of doing even that——)"
     },
     {
-      "name": "Cheval Grand",
-      "text": "…I'm such a scaredy cat… \nHow could I ever become the greatest uma musume…",
       "choice_data_list": [
         "…Huh?"
-      ]
+      ],
+      "name": "Cheval Grand",
+      "text": "…I'm such a scaredy cat… \nHow could I ever become the greatest uma musume…"
     },
     {
       "name": "Cheval Grand",
@@ -174,12 +174,12 @@
       "text": "She's a uma musume with talent. The \"Greatest Uma Musume\" whatever that meant, I have no doubt that she'd be able to accomplish great things…"
     },
     {
-      "name": "Cheval Grand",
-      "text": "Um, ah, d-did you… h-hear what I said!?",
       "choice_data_list": [
         "What makes you think that?",
         "What makes you think that?"
-      ]
+      ],
+      "name": "Cheval Grand",
+      "text": "Um, ah, d-did you… h-hear what I said!?"
     },
     {
       "name": "Cheval Grand",

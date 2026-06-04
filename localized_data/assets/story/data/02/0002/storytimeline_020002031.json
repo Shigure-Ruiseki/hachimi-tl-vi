@@ -77,10 +77,10 @@
       "text": "I want to end the day by going on the ferris wheel. So, um… would \nyou join me?"
     },
     {
-      "text": "Oh no, she's too pure — my heart can't take it… If she wants to ride the \nferris wheel, then the ferris wheel it is.",
       "choice_data_list": [
         "Of course."
-      ]
+      ],
+      "text": "Oh no, she's too pure — my heart can't take it… If she wants to ride the \nferris wheel, then the ferris wheel it is."
     },
     {
       "name": "Rice Shower",
@@ -94,10 +94,10 @@
       "text": "…"
     },
     {
-      "text": "…But the breathtaking sight is lost on Rice Shower. Something's been \nbugging her ever since we got on.",
       "choice_data_list": [
         "What's up?"
-      ]
+      ],
+      "text": "…But the breathtaking sight is lost on Rice Shower. Something's been \nbugging her ever since we got on."
     },
     {
       "name": "Rice Shower",
@@ -108,12 +108,12 @@
       "text": "I wanted to say thank you. For everything. I really didn't think I'd be \nable to achieve so much."
     },
     {
-      "name": "Rice Shower",
-      "text": "I mean, I still can't believe that <i>I</i> got second place in the Derby.",
       "choice_data_list": [
         "All thanks to your hard work.",
         "All thanks to your hard work."
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "I mean, I still can't believe that <i>I</i> got second place in the Derby."
     },
     {
       "name": "Rice Shower",
@@ -160,12 +160,12 @@
       "text": "Yeah, it was like a land of dreams. I had so much fun♪"
     },
     {
-      "name": "Rice Shower",
-      "text": "Trainer, thanks for the treat today. I'll keep up the hard work!",
       "choice_data_list": [
         "And I'll be right by your side.",
         "And I'll be right by your side."
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "Trainer, thanks for the treat today. I'll keep up the hard work!"
     },
     {
       "name": "Mejiro McQueen",

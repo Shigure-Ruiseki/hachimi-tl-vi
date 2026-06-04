@@ -34,12 +34,12 @@
       "text": "……Nnnnnaaaaaa~~~!!"
     },
     {
-      "name": "King Halo",
-      "text": "Kraft-san……seems to be quite deep in thought.",
       "choice_data_list": [
         "……Yeah. But――",
         "……Yeah. But――"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Kraft-san……seems to be quite deep in thought."
     },
     {
       "text": "I've already told her everything I needed to. All that's left…… \nis to wait and see what answer she comes to."

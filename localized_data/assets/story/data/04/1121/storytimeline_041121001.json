@@ -86,11 +86,11 @@
       "text": "The lead role was played by an Uma Musume named 『Durandal』. \nThe name of a holy sword that appears in French mythology."
     },
     {
-      "name": "Experienced Trainer A",
-      "text": "That Uma Musume called Durandal has excellent \nswordsmanship, but apparently she's also amazing \nat running. Particularly short distances.",
       "choice_data_list": [
         "I really want to see it then……"
-      ]
+      ],
+      "name": "Experienced Trainer A",
+      "text": "That Uma Musume called Durandal has excellent \nswordsmanship, but apparently she's also amazing \nat running. Particularly short distances."
     },
     {
       "text": "If an Uma Musume could move like that, \nthen she must be able to run extremely well too."
@@ -110,18 +110,18 @@
       "text": "My senpai trainer. Someone who always earnestly \nworks with Uma Musume, he's someone I look up to."
     },
     {
-      "text": "I decided to take a chance and try to speak to Durandal. It was \npossible she wouldn't even give me the time of day, but……",
       "choice_data_list": [
         "Your acting from before was great!"
-      ]
+      ],
+      "text": "I decided to take a chance and try to speak to Durandal. It was \npossible she wouldn't even give me the time of day, but……"
     },
     {
-      "name": "Durandal",
-      "text": "You are……a new trainer, right? \nSounds like you were able to see the play.",
       "choice_data_list": [
         "I was really moved! It was great!",
         "I was really moved! It was great!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "You are……a new trainer, right? \nSounds like you were able to see the play."
     },
     {
       "name": "Durandal",
@@ -158,31 +158,31 @@
       "text": "I want to determine it with my own eyes. \nTo find a King I can serve."
     },
     {
-      "name": "Fine Motion",
-      "text": "Fufuu, Durandal's at it again. \nShe's already doing the usual thing.",
       "choice_data_list": [
         "……and you are?",
         "……and you are?"
-      ]
+      ],
+      "name": "Fine Motion",
+      "text": "Fufuu, Durandal's at it again. \nShe's already doing the usual thing."
     },
     {
       "name": "Fine Motion",
       "text": "Oh, how do you do? \nI'm Fine Motion. One of Durandal's classmates."
     },
     {
-      "name": "Fine Motion",
-      "text": "Durandal always asks me about kings and such. \nSince I'm royalty♪",
       "choice_data_list": [
         "Royalty……A-amazing……",
         "Royalty……A-amazing……"
-      ]
+      ],
+      "name": "Fine Motion",
+      "text": "Durandal always asks me about kings and such. \nSince I'm royalty♪"
     },
     {
-      "name": "Fine Motion",
-      "text": "She's searching really hard you know. As a knight, \nsearching for a King she can devote herself to.",
       "choice_data_list": [
         "By King……she means a trainer?"
-      ]
+      ],
+      "name": "Fine Motion",
+      "text": "She's searching really hard you know. As a knight, \nsearching for a King she can devote herself to."
     },
     {
       "name": "Fine Motion",
@@ -205,11 +205,11 @@
       "text": "Everyone, thank you very much."
     },
     {
-      "text": "Since that was the case, several people stepped \nforward. This was a rare opportunity. So——",
       "choice_data_list": [
         "Me too……!",
         "Me too……!"
-      ]
+      ],
+      "text": "Since that was the case, several people stepped \nforward. This was a rare opportunity. So——"
     },
     {
       "text": "As soon as I said that——"

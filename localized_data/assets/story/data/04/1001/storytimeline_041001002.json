@@ -119,12 +119,12 @@
       "text": "Never in my wildest dreams did I imagine I'd get to feast on all \nthese dishes for free… Tracen Academy never ceases to amaze me!"
     },
     {
-      "name": "Special Week",
-      "text": "I never thought I'd get to eat with friends either… \nEhehe, I'm really glad I get to be here~!",
       "choice_data_list": [
         "You seem to be enjoying it here.",
         "You seem to be enjoying it here."
-      ]
+      ],
+      "name": "Special Week",
+      "text": "I never thought I'd get to eat with friends either… \nEhehe, I'm really glad I get to be here~!"
     },
     {
       "name": "Special Week",

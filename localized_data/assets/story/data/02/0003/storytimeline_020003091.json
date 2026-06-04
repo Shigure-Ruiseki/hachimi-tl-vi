@@ -112,11 +112,11 @@
       "text": "Winning Ticket is entering the final stage of her training. Today, I'm \nhaving her do runs outside the academy."
     },
     {
-      "name": "Winning Ticket",
-      "text": "I'm so full of energy! Let's get this extra training going!",
       "choice_data_list": [
         "That's the spirit! Keep it up until the race!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "I'm so full of energy! Let's get this extra training going!"
     },
     {
       "name": "Winning Ticket",
@@ -153,12 +153,12 @@
       "text": "It's fine! I'm not trying to skip it or anything. I'm still gonna do exactly \nas we planned!"
     },
     {
-      "name": "Winning Ticket",
-      "text": "So! Looks like I'll be at it until curfew! You'll stick with me the whole \ntime, right?",
       "choice_data_list": [
         "Yeah, you've got it.",
         "Yeah, you've got it."
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "So! Looks like I'll be at it until curfew! You'll stick with me the whole \ntime, right?"
     },
     {
       "name": "Winning Ticket",
@@ -255,12 +255,12 @@
       "text": "We've trained hard for this though. You're in tip-top shape. All that's \nleft is to race up a storm and take the crown!"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Taishin and Hayahide will be with me too! So I'll be able to go all out!",
       "choice_data_list": [
         "You've got this!",
         "You've got this!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Taishin and Hayahide will be with me too! So I'll be able to go all out!"
     },
     {
       "name": "Winning Ticket",

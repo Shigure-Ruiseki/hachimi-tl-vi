@@ -10,11 +10,11 @@
       "text": "Hoh… hoh…!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Gallop, gallop… \nOya, perfect!",
       "choice_data_list": [
         "Are you restless?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Gallop, gallop… \nOya, perfect!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -25,12 +25,12 @@
       "text": "But, I'm still in the race!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'm still in the middle of \nrunning towards the 3600m goal!!",
       "choice_data_list": [
         "……You're right!",
         "……You're right!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "I'm still in the middle of \nrunning towards the 3600m goal!!"
     },
     {
       "name": "Sakura Bakushin O",

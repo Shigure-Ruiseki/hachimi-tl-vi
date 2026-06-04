@@ -51,11 +51,11 @@
       "text": "<i>Ahahahaha. Ahhh, </i>I'm wet all the way \ndown to my tail. Hey, that towel \nover there —"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>…Hm?</i> What's up?",
       "choice_data_list": [
         "Nah, you seem more upbeat than usual"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>…Hm?</i> What's up?"
     },
     {
       "name": "Stay Gold",
@@ -78,11 +78,11 @@
       "text": "<i>Ahh,</i> gimme a second."
     },
     {
-      "text": "After roughly drying herself off with \nthe towel, Stay Gold dashed back to \njoin her friends.",
       "choice_data_list": [
         "(She really seems to be enjoying herself)",
         "(She really seems to be enjoying herself)"
-      ]
+      ],
+      "text": "After roughly drying herself off with \nthe towel, Stay Gold dashed back to \njoin her friends."
     },
     {
       "name": "Mejiro Dober",
@@ -101,11 +101,11 @@
       "text": "Aren't you the outdoorsey type? I want to \nsee your skills in action and… I thought \nthis would also be a great chance to be \nable to converse with you."
     },
     {
-      "name": "Taiki Shuttle",
-      "text": "<i>Oh!</i> If that's the case then I wanna \ninvite you! <i>Come on</i> to my team with \nPearl! I still wanna play with you some \nmore Stego!",
       "color_text_info_list": [
         "Pearl"
-      ]
+      ],
+      "name": "Taiki Shuttle",
+      "text": "<i>Oh!</i> If that's the case then I wanna \ninvite you! <i>Come on</i> to my team with \nPearl! I still wanna play with you some \nmore Stego!"
     },
     {
       "name": "Stay Gold",
@@ -124,12 +124,12 @@
       "text": "—So that's how I got invited to both teams. \nThey all seem kinda fun though…"
     },
     {
-      "name": "Stay Gold",
-      "text": "Say if it was you, which would you choose?",
       "choice_data_list": [
         "The powerful Taiki and Peal",
         "The stable Dober and Air Groove"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Say if it was you, which would you choose?"
     },
     {
       "name": "Stay Gold",
@@ -210,12 +210,12 @@
       "text": "While I waited at the goal of the orienteering \nactivity, Stay Gold showed up at the finish \nwith her friends."
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Mmm… Gwahh～～</i>",
       "choice_data_list": [
         "You look like you had fun",
         "You look like you had fun"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Mmm… Gwahh～～</i>"
     },
     {
       "name": "Stay Gold",
@@ -234,12 +234,12 @@
       "text": "<i>Oh.</i> Since when did they all gather \ntogether. <i>Heyyy,</i> I'm coming now."
     },
     {
-      "name": "Stay Gold",
-      "text": "Hey, Trainer. Why don't you tag along? \n\"To us, who are present here and now,\" \nthis is the only time you'll ever get to \nexperience this moment.",
       "choice_data_list": [
         "Yeah, you're right!",
         "Yep, you're right!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Hey, Trainer. Why don't you tag along? \n\"To us, who are present here and now,\" \nthis is the only time you'll ever get to \nexperience this moment."
     },
     {
       "text": "So, Stay Gold was able to have a \nrefreshing day off ——"

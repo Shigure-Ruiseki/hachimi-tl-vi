@@ -72,11 +72,11 @@
       "text": "That's all. The supervisor contract is \nnow terminated. Now then, excuse me."
     },
     {
-      "name": "Hishi Amazon",
-      "text": "Good grief… it happened again, huh?",
       "choice_data_list": [
         "\"Again\"?"
-      ]
+      ],
+      "name": "Hishi Amazon",
+      "text": "Good grief… it happened again, huh?"
     },
     {
       "name": "Hishi Amazon",
@@ -91,11 +91,11 @@
       "text": "Hm? But wait this might actually be a big chance for you, huh?"
     },
     {
-      "name": "Hishi Amazon",
-      "text": "Hey you, if you tried it now wouldn't \nyou be able to scout Air Groove?",
       "choice_data_list": [
         "Now that you mention it…!"
-      ]
+      ],
+      "name": "Hishi Amazon",
+      "text": "Hey you, if you tried it now wouldn't \nyou be able to scout Air Groove?"
     },
     {
       "name": "Hishi Amazon",
@@ -109,12 +109,12 @@
       "text": "Good grief… is a trainer of that level \nreally the best Tracen has to offer?"
     },
     {
-      "name": "Air Groove",
-      "text": "At this rate, something like a trusted partner seems一",
       "choice_data_list": [
         "Air Groove, I'm here to scout you!",
         "Air Groove, I'm here to scout you!"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "At this rate, something like a trusted partner seems一"
     },
     {
       "name": "Air Groove",
@@ -158,12 +158,12 @@
       "text": "Then, the contract will go as so. As my trainer, you will only \nconcern yourself with duties related to my training."
     },
     {
-      "name": "Air Groove",
-      "text": "Involving yourself with anything other than training, that is my \ntime spent on student council activities. Will not be forgiven.",
       "choice_data_list": [
         "So, you'll let me scout you!?",
         "So, you'll let me scout you!?"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "Involving yourself with anything other than training, that is my \ntime spent on student council activities. Will not be forgiven."
     },
     {
       "name": "Air Groove",
@@ -178,11 +178,11 @@
       "text": "Of course in races too, I must uphold the meaning \nof this title. Leaving only victory and results \nworthy of admiration, is my duty."
     },
     {
-      "name": "Air Groove",
-      "text": "For that purpose, you also need to make sure you \nfulfill your role as trainer. Understood?",
       "choice_data_list": [
         "U-Understood!"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "For that purpose, you also need to make sure you \nfulfill your role as trainer. Understood?"
     },
     {
       "name": "Air Groove",
@@ -196,12 +196,12 @@
       "text": "Thus, although there was a hint of turmoil, \nmy days of supervising Air Groove began一"
     },
     {
-      "name": "Air Groove",
-      "text": "Is that all for training? Then I'll be excusing myself.",
       "choice_data_list": [
         "Where are you going in such a hurry?",
         "Where are you going in such a hurry?"
-      ]
+      ],
+      "name": "Air Groove",
+      "text": "Is that all for training? Then I'll be excusing myself."
     },
     {
       "name": "Air Groove",

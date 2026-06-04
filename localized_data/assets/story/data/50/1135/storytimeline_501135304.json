@@ -9,12 +9,12 @@
       "text": "<i>Huff, huff, huff ——</i>"
     },
     {
-      "name": "$(scale 55)Elegant Chestnut-Haired Trainee",
-      "text": "Thank you for your hard work today…! \nYour goals should all be complete \nwith this…!",
       "choice_data_list": [
         "You did it Stego…!",
         "You did it Stego…!"
-      ]
+      ],
+      "name": "$(scale 55)Elegant Chestnut-Haired Trainee",
+      "text": "Thank you for your hard work today…! \nYour goals should all be complete \nwith this…!"
     },
     {
       "name": "Stay Gold",
@@ -32,12 +32,12 @@
       "text": "<i>Hahah.</i> I needed you to treat to me like \nthe way you did, otherwise I wouldn't \nhave been fit for the upcoming battle, \nneither for the Classics, nor for my future."
     },
     {
-      "name": "Stay Gold",
-      "text": "Thanks McQueen. It's only because you \nwere here, that I was able to trudge \nonward and discover a new path.",
       "choice_data_list": [
         "From my heart also, thank you very much",
         "From my heart also, thank you very much"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Thanks McQueen. It's only because you \nwere here, that I was able to trudge \nonward and discover a new path."
     },
     {
       "name": "Mejiro McQueen",
@@ -52,18 +52,18 @@
       "text": "The spring winds have not even graced \nus yet… The view you promised me, \nis that still not to come?"
     },
     {
-      "name": "Stay Gold",
-      "text": "Yeah. Keep looking forward to it for me.",
       "choice_data_list": [
         "We'll have to keep honing your skills"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Yeah. Keep looking forward to it for me."
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Oh,</i> it seems like you've already got \nsomething prepared for me hey.",
       "choice_data_list": [
         "You'll see once we head back on campus"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Oh,</i> it seems like you've already got \nsomething prepared for me hey."
     },
     {
       "name": "Stay Gold",
@@ -77,10 +77,10 @@
       "text": "Once we returned to the campus ——"
     },
     {
-      "text": "To test the results of Stay Gold's training, \nI invited the perfect individuals to help us \nfind out.",
       "choice_data_list": [
         "I'm putting you against these two"
-      ]
+      ],
+      "text": "To test the results of Stay Gold's training, \nI invited the perfect individuals to help us \nfind out."
     },
     {
       "name": "Stay Gold",
@@ -91,16 +91,16 @@
       "text": "Hello Stego! Looking forward to our \nrun together today."
     },
     {
-      "text": "The two I requested to be Stay Gold's \nrunning partners are Fuji Kiseki and \nBubble Gum Fellow.",
       "color_text_info_list": [
         "Bubble Gum Fellow"
-      ]
+      ],
+      "text": "The two I requested to be Stay Gold's \nrunning partners are Fuji Kiseki and \nBubble Gum Fellow."
     },
     {
-      "text": "——Bubblegum Fellow was the first \nhorse girl her age to win the Tenno \nSho (Autumn) after it was shortened \nto 2000 meters.",
       "color_text_info_list": [
         "Tenno Sho (Autumn)"
-      ]
+      ],
+      "text": "——Bubblegum Fellow was the first \nhorse girl her age to win the Tenno \nSho (Autumn) after it was shortened \nto 2000 meters."
     },
     {
       "text": "With this great achievement, she has \nbeen given a top-class status. \nAdditionally ——"
@@ -147,11 +147,11 @@
       "text": "…While our foundations are similar, \ncompared to you guys, how I run is \nnowhere as sophisticated."
     },
     {
-      "name": "Stay Gold",
-      "text": "So if it's alright with you, I want you to \nrun as you please. In return, I'll be \ntaking your running as sustenance for \nmy journey.",
       "choice_data_list": [
         "The distance is 2000m going clockwise"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "So if it's alright with you, I want you to \nrun as you please. In return, I'll be \ntaking your running as sustenance for \nmy journey."
     },
     {
       "name": "Stay Gold",
@@ -177,10 +177,10 @@
       "text": "……!!"
     },
     {
-      "text": "Like an vagrant shooting star advancing \nthrough the sky, Stay Gold burst through with \nall her power saved up for the final spurt. Her \nsharpness, strength and danger… Unrivalled.",
       "choice_data_list": [
         "(Alright…!!)"
-      ]
+      ],
+      "text": "Like an vagrant shooting star advancing \nthrough the sky, Stay Gold burst through with \nall her power saved up for the final spurt. Her \nsharpness, strength and danger… Unrivalled."
     },
     {
       "name": "Fuji Kiseki",
@@ -212,11 +212,11 @@
       "text": "……My heart was still throbbing from the \nadrenaline rush. Feeling the need to calm \nmyself down, I wandered outside and ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "————",
       "choice_data_list": [
         "……Hey"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "————"
     },
     {
       "text": "She was right there, as if my supposed \naimless wandering turned out not so \naimless after all."
@@ -226,21 +226,21 @@
       "text": "……Yo."
     },
     {
-      "name": "Stay Gold",
-      "text": "The moon looks pretty good today, \nthe sky is also quite clear.",
       "choice_data_list": [
         "Yeah"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "The moon looks pretty good today, \nthe sky is also quite clear."
     },
     {
-      "name": "Stay Gold",
-      "text": "…I had a lot of fun today, to think I'd \neven have the chance to race with \nFuji and Bubble.",
       "choice_data_list": [
         "I knew it'd be a great experience for you"
       ],
       "color_text_info_list": [
         "Bubble"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…I had a lot of fun today, to think I'd \neven have the chance to race with \nFuji and Bubble."
     },
     {
       "name": "Stay Gold",
@@ -251,31 +251,31 @@
       "text": "From now on always, please approach \nour journey in your own way."
     },
     {
-      "name": "Stay Gold",
-      "text": "Because I know, that our journey will \nbe far more interesting that way.",
       "choice_data_list": [
         "You can leave it to me",
         "You can leave it to me"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Because I know, that our journey will \nbe far more interesting that way."
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Haha,</i> nice. That's reassuring to hear.",
       "choice_data_list": [
         "…I've got some canned coffee, want one?",
         "…I've got some canned coffee, want one?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Haha,</i> nice. That's reassuring to hear."
     },
     {
       "name": "Stay Gold",
       "text": "<i>Oh～</i> How thoughtful hey. I'll have one then."
     },
     {
-      "name": "Stay Gold",
-      "text": "…Alright. Should we have ourselves \na toast?",
       "choice_data_list": [
         "To what?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…Alright. Should we have ourselves \na toast?"
     },
     {
       "name": "Stay Gold",

@@ -34,11 +34,11 @@
       "text": "……You don't have to be perfect from the start. Rather, \nif there are things you are lacking, find out what they are."
     },
     {
-      "name": "Dura's Father",
-      "text": "That would help out your instructors. ……Isn't \nthat right, Trainer-san? Once you've found what \nyou're weak at, you can strategize around it.",
       "choice_data_list": [
         "Yes, that's how you can get stronger"
-      ]
+      ],
+      "name": "Dura's Father",
+      "text": "That would help out your instructors. ……Isn't \nthat right, Trainer-san? Once you've found what \nyou're weak at, you can strategize around it."
     },
     {
       "name": "Dura's Father",
@@ -85,33 +85,33 @@
       "text": "Even the way you sought help was the same. \nLike father, like daughter, right?"
     },
     {
-      "name": "Duramente",
-      "text": "……I'll be fine from here. \nThat you were there today really helped.",
       "choice_data_list": [
         "……I'm glad you think so."
-      ]
+      ],
+      "name": "Duramente",
+      "text": "……I'll be fine from here. \nThat you were there today really helped."
     },
     {
       "name": "Duramente",
       "text": "Yes…………"
     },
     {
-      "name": "Duramente",
-      "text": "……Trainer. \nFather was praising you.",
       "choice_data_list": [
         "Eh!? Thanks!"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "……Trainer. \nFather was praising you."
     },
     {
       "name": "Duramente",
       "text": "(……I should be the one thanking them.)"
     },
     {
-      "name": "Duramente",
-      "text": "(Father said it. \n……Someone like you is indispensable)",
       "choice_data_list": [
         "……Duramente?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "(Father said it. \n……Someone like you is indispensable)"
     },
     {
       "name": "Duramente",
@@ -126,12 +126,12 @@
       "text": "……even if you were to change your mind, \nI would still want you to be my trainer."
     },
     {
-      "name": "Duramente",
-      "text": "I want to ask for your help again.",
       "choice_data_list": [
         "……! You're fine with me?",
         "……! You're fine with me?"
-      ]
+      ],
+      "name": "Duramente",
+      "text": "I want to ask for your help again."
     },
     {
       "name": "Duramente",
@@ -182,11 +182,11 @@
       "text": "…………In the next moments……I will become stronger……!"
     },
     {
-      "text": "Duramente accelerated. Faster, and faster. \nWith a speed that nobody could catch——",
       "choice_data_list": [
         "(That's right……From now on——)",
         "(That's right……From now on——)"
-      ]
+      ],
+      "text": "Duramente accelerated. Faster, and faster. \nWith a speed that nobody could catch——"
     },
     {
       "text": "——This is where Duramente becoming the \"Strongest\" would begin."

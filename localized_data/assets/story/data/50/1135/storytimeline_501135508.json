@@ -5,11 +5,11 @@
       "text": "I was watching some race footage with \nStay Gold, but as the girl closed her \neyes to ponder……"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Suuuu………… \nSuuuu…………</i>",
       "choice_data_list": [
         "Eh, she fell asleep…?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Suuuu………… \nSuuuu…………</i>"
     },
     {
       "name": "Stay Gold",

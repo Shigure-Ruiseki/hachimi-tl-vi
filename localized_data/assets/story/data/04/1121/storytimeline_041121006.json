@@ -23,12 +23,12 @@
       "text": "I'm honored that you'd accompany me. \nThank you. Please, leave everything to me today!"
     },
     {
-      "name": "Durandal",
-      "text": "Now, if it please you my lord. On to this rickshaw.",
       "choice_data_list": [
         "You're going to pull this!?",
         "You're going to pull this!?"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Now, if it please you my lord. On to this rickshaw."
     },
     {
       "name": "Durandal",
@@ -50,11 +50,11 @@
       "text": "Before I could say I was fine, Durandal hurriedly ran off. \nApparently she was really excited about today's outing."
     },
     {
-      "name": "Durandal",
-      "text": "I apologize for making you wait, Trainer-dono. \nWater, coffee, tea, soft drinks. Just tell me which you'd prefer.",
       "choice_data_list": [
         "You bought that much!?"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "I apologize for making you wait, Trainer-dono. \nWater, coffee, tea, soft drinks. Just tell me which you'd prefer."
     },
     {
       "name": "Durandal",
@@ -65,16 +65,16 @@
       "text": "But rest assured! I purchased a little of \neverything in the store. You can choose freely!"
     },
     {
-      "text": "And now our current situation. Durandal said she would check \nto make sure there was no danger, but then never returned.",
       "choice_data_list": [
         "Did she run in to trouble?"
-      ]
+      ],
+      "text": "And now our current situation. Durandal said she would check \nto make sure there was no danger, but then never returned."
     },
     {
-      "text": "(Bzzzz, bzzzz, bzzzz)",
       "choice_data_list": [
         "——Durandal?"
-      ]
+      ],
+      "text": "(Bzzzz, bzzzz, bzzzz)"
     },
     {
       "name": "Durandal",
@@ -108,28 +108,28 @@
       "text": "Hey……did you hear that? \nThat person is making their Uma Musume-chan call them 『King』."
     },
     {
-      "name": "Spectator B",
-      "text": "No way……isn't that kinda wild? \nTreating their Uma Musume-chan like a servant?",
       "choice_data_list": [
         "(Ugh……!)"
-      ]
+      ],
+      "name": "Spectator B",
+      "text": "No way……isn't that kinda wild? \nTreating their Uma Musume-chan like a servant?"
     },
     {
       "text": "I couldn't help but feel taken aback. \nA trainer's job was to protect and support their Uma Musume."
     },
     {
-      "text": "Having an Uma Musume act as my servant would be \nbad not only for me, but for Durandal's public image.",
       "choice_data_list": [
         "(It might be better to make her stop)"
-      ]
+      ],
+      "text": "Having an Uma Musume act as my servant would be \nbad not only for me, but for Durandal's public image."
     },
     {
-      "name": "Durandal",
-      "text": "My lord, I have returned. ……Is something the matter?",
       "choice_data_list": [
         "Well……you see……",
         "Well……you see……"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "My lord, I have returned. ……Is something the matter?"
     },
     {
       "name": "Durandal",
@@ -181,20 +181,20 @@
       "text": "Please leave security on our return journey to me. \nI will sweep away all obstacles in our path!"
     },
     {
-      "name": "Durandal",
-      "text": "——By the way. \nBefore the play, it seemed like you wanted to say something?",
       "choice_data_list": [
         "No, it's fine",
         "No, it's fine"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "——By the way. \nBefore the play, it seemed like you wanted to say something?"
     },
     {
-      "name": "Durandal",
-      "text": "……is that so? If you need anything, \nplease don't hesitate to give me your orders",
       "choice_data_list": [
         "I'm glad you're my knight.",
         "I'm glad you're my knight."
-      ]
+      ],
+      "name": "Durandal",
+      "text": "……is that so? If you need anything, \nplease don't hesitate to give me your orders"
     },
     {
       "name": "Durandal",

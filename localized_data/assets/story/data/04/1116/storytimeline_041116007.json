@@ -2,10 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "――Under the blazing sun came a \nsudden announcement of a competition.",
       "choice_data_list": [
         "『Tracen Academy Strongest Pair Tournament』?"
-      ]
+      ],
+      "text": "――Under the blazing sun came a \nsudden announcement of a competition."
     },
     {
       "name": "Gentildonna",
@@ -18,18 +18,18 @@
       "text": "The format is round robin. The winning team is \ndecided by which pair has the most wins combined."
     },
     {
-      "name": "Gentildonna",
-      "text": "――Only if you can exert it fully at the right \ntime, can Power be called a trump card.",
       "choice_data_list": [
         "!"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "――Only if you can exert it fully at the right \ntime, can Power be called a trump card."
     },
     {
-      "name": "Gentildonna",
-      "text": "Seems like you've been keeping up with your training, \nsince your body looks a bit more defined……",
       "choice_data_list": [
         "There'd be no point, if I didn't"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Seems like you've been keeping up with your training, \nsince your body looks a bit more defined……"
     },
     {
       "name": "Gentildonna",
@@ -63,11 +63,11 @@
       "text": "No way! I-I couldn't even last a second……!?"
     },
     {
-      "name": "Spectator A",
-      "text": "Even against other Uma Musume, there's that much of a difference……? \nShe-……she's in an entirely different dimension……!",
       "choice_data_list": [
         "(I see……)"
-      ]
+      ],
+      "name": "Spectator A",
+      "text": "Even against other Uma Musume, there's that much of a difference……? \nShe-……she's in an entirely different dimension……!"
     },
     {
       "text": "Power can only be called a trump card if it can be used \ncorrectly in the right place is what she said. But why \nis that? ……probably because there are secondary effects."
@@ -87,11 +87,11 @@
       "text": "(Stare……!)"
     },
     {
-      "name": "Participating Trainers",
-      "text": "We just need to win against them!",
       "choice_data_list": [
         "Eh?"
-      ]
+      ],
+      "name": "Participating Trainers",
+      "text": "We just need to win against them!"
     },
     {
       "name": "Gentildonna",
@@ -124,12 +124,12 @@
       "text": "The entire venue was buzzing with a sense of mayhem. \nI could feel the intense stares coming from every direction."
     },
     {
-      "name": "Gentildonna",
-      "text": "Oh my, someone's in trouble.",
       "choice_data_list": [
         "No, it's no problem",
         "No, it's no problem"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Oh my, someone's in trouble."
     },
     {
       "name": "Gentildonna",
@@ -139,11 +139,11 @@
       "text": "I nod. The primary focus is stamina management. \nIf I run out of stamina early and then lose every \ngame in the second half, I wouldn't be able to face her."
     },
     {
-      "text": "Focus on your opponent but be prepared to lose……only \nuse your full power on someone you really need to beat. \nThat was theoretically the optimal solution. However――",
       "choice_data_list": [
         "But……for me",
         "But……for me"
-      ]
+      ],
+      "text": "Focus on your opponent but be prepared to lose……only \nuse your full power on someone you really need to beat. \nThat was theoretically the optimal solution. However――"
     },
     {
       "name": "Gentildonna",
@@ -177,16 +177,16 @@
       "text": "……――"
     },
     {
-      "text": "If you think about it realistically, you should \nassess your opponent and adjust accordingly. But――",
       "choice_data_list": [
         "If you have Power, that's unnecessary!"
-      ]
+      ],
+      "text": "If you think about it realistically, you should \nassess your opponent and adjust accordingly. But――"
     },
     {
-      "text": "(Bang!!!)",
       "choice_data_list": [
         "I'll just crush them first!"
-      ]
+      ],
+      "text": "(Bang!!!)"
     },
     {
       "text": "(Baaang!!!!)"
@@ -196,10 +196,10 @@
       "text": "Fuu. You're good……but your final opponent is me, \nTracen's Strongest Super Macho Trainer! ……Hmmmmmph!"
     },
     {
-      "text": "Looking at his muscles glistening under the sun, I take \na deep breath. ……This is where I need to go full power.",
       "choice_data_list": [
         "Then, I'll switch to my dominant hand!"
-      ]
+      ],
+      "text": "Looking at his muscles glistening under the sun, I take \na deep breath. ……This is where I need to go full power."
     },
     {
       "name": "Macho Trainer",
@@ -210,43 +210,43 @@
       "text": "Then, does that mean you weren't serious……――U-ugyaaaaaaa!!"
     },
     {
-      "name": "Gentildonna",
-      "text": "――I see you've started to understand it a little now? \nPower, and it's true essence.",
       "choice_data_list": [
         "……just a little bit.",
         "……just a little bit."
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "――I see you've started to understand it a little now? \nPower, and it's true essence."
     },
     {
       "text": "But, I'm still nowhere near seeing things from her perspective. \nIt was too presumptuous to say I could stand next to her……However――"
     },
     {
-      "name": "Gentildonna",
-      "text": "――Here. I'll give this to you.",
       "choice_data_list": [
         "Eh?"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "――Here. I'll give this to you."
     },
     {
       "text": "I took the iron weight from her. \nThis was probably the one she bought that time――"
     },
     {
-      "name": "Gentildonna",
-      "text": "This 『Super Heavy Class』 iron weight……how is it? \nIt's got quite a comfortable weight to it, right?",
       "choice_data_list": [
         "……Yeah. Surprisingly",
         "……Yeah. Surprisingly"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "This 『Super Heavy Class』 iron weight……how is it? \nIt's got quite a comfortable weight to it, right?"
     },
     {
       "text": "I rolled it around in my hands, remembering that \nit used to be so heavy. ……It was a good weight!"
     },
     {
-      "name": "Gentildonna",
-      "text": "Hehe…… If you're going to walk around with that, \nyou probably need a carrying case, don't you?",
       "choice_data_list": [
         "I can stop by that shop next time!"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Hehe…… If you're going to walk around with that, \nyou probably need a carrying case, don't you?"
     },
     {
       "name": "Gentildonna",

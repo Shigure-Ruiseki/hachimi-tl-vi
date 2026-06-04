@@ -75,11 +75,11 @@
       "text": "After the mock race was over, \nwhile I was walking down the road…"
     },
     {
-      "name": "Timid-looking Trainee",
-      "text": "Uuu… my head is spinning…",
       "choice_data_list": [
         "(Wasn't she in the race with Taiki…?)"
-      ]
+      ],
+      "name": "Timid-looking Trainee",
+      "text": "Uuu… my head is spinning…"
     },
     {
       "name": "Timid-looking Trainee",
@@ -165,12 +165,12 @@
       "text": "Fufuu, getting to see her happy smile was a good thing! \nAs I thought, it's best when everyone is happy!"
     },
     {
-      "name": "Taiki Shuttle",
-      "text": "-Oh?! \nYou, since when have you…?",
       "choice_data_list": [
         "I was just curious about you",
         "I was just curious about you"
-      ]
+      ],
+      "name": "Taiki Shuttle",
+      "text": "-Oh?! \nYou, since when have you…?"
     },
     {
       "name": "Taiki Shuttle",
@@ -181,11 +181,11 @@
       "text": "Are you perhaps… scouting!? \nScouting me?!"
     },
     {
-      "name": "Taiki Shuttle",
-      "text": "Yahoooooooo!! Okay okay, \nof course it's okay!! I'm so happy~~~~~!!!",
       "choice_data_list": [
         "Ehh, wait a-"
-      ]
+      ],
+      "name": "Taiki Shuttle",
+      "text": "Yahoooooooo!! Okay okay, \nof course it's okay!! I'm so happy~~~~~!!!"
     },
     {
       "name": "Taiki Shuttle",
@@ -196,11 +196,11 @@
       "text": "That's right, we should throw a party too!! \nOf course, Trainer-san should come too!!"
     },
     {
-      "name": "Taiki Shuttle",
-      "text": "The barbeque I make is a masterpiece, you know~!",
       "choice_data_list": [
         "No, like I said-"
-      ]
+      ],
+      "name": "Taiki Shuttle",
+      "text": "The barbeque I make is a masterpiece, you know~!"
     },
     {
       "name": "Taiki Shuttle",

@@ -5,20 +5,20 @@
       "text": "One weekend afternoon, I saw Nakayama Festa \nentering a back alley. …Those rumors from before \nflashed through my mind."
     },
     {
-      "name": "Rough-looking Trainee",
-      "text": "They're looking all over the place looking for her. \nAaah, I wonder how she'll end up.",
       "choice_data_list": [
         "Where are you going?",
         "Where are you going?"
-      ]
+      ],
+      "name": "Rough-looking Trainee",
+      "text": "They're looking all over the place looking for her. \nAaah, I wonder how she'll end up."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Ah? What're you doing? I have a lot of business to attend to.",
       "choice_data_list": [
         "…Can I come with you?",
         "…Can I come with you?"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Ah? What're you doing? I have a lot of business to attend to."
     },
     {
       "text": "When I said that, I thought about how I'd she \nwas in danger, I had to protect her even if \nit meant putting my life on the line, but ——"
@@ -47,11 +47,11 @@
       "text": "Ahh… yum… Mmm…"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "That really hit the spot. There's nothing like some offal on an \nempty stomach. I think I'll get some tofu and pork <i>sashimi</i> too.",
       "choice_data_list": [
         "(I'm a bit scared to order…)"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "That really hit the spot. There's nothing like some offal on an \nempty stomach. I think I'll get some tofu and pork <i>sashimi</i> too."
     },
     {
       "text": "Just after Nakayama Festa finished eating, \nshe was stopped by a police officer."
@@ -73,11 +73,11 @@
       "text": "(<i>Arf! Arf!</i>)"
     },
     {
-      "name": "Puppy's Owner",
-      "text": "Hehe, you remember the one who \nsaved your life, don't you Mugi?",
       "choice_data_list": [
         "The one who saved your life… \nare you talking about Nakayama?"
-      ]
+      ],
+      "name": "Puppy's Owner",
+      "text": "Hehe, you remember the one who \nsaved your life, don't you Mugi?"
     },
     {
       "name": "Police Officer",
@@ -121,11 +121,11 @@
       "text": "Shut it! It was obviously rigged!! There's no other reason \nyou'd go all in when you had such a shitty hand!"
     },
     {
-      "name": "Delinquent-looking Man B",
-      "text": "You… stop messing around. Or do you want \nme to make sure you'll never run again!?",
       "choice_data_list": [
         "I won't let you touch her!"
-      ]
+      ],
+      "name": "Delinquent-looking Man B",
+      "text": "You… stop messing around. Or do you want \nme to make sure you'll never run again!?"
     },
     {
       "text": "I spoke without thinking after hearing \nthe man's threatening words."
@@ -135,12 +135,12 @@
       "text": "Hey, you. Back off. This is between me and these guys."
     },
     {
-      "name": "Leader-looking Man",
-      "text": "…That badge… are you her trainer? \nTry to get involved you'll be the first to get it.",
       "choice_data_list": [
         "<size=38>If that's what makes you happy then go for it.</size>",
         "<size=38>If that's what makes you happy then go for it.</size>"
-      ]
+      ],
+      "name": "Leader-looking Man",
+      "text": "…That badge… are you her trainer? \nTry to get involved you'll be the first to get it."
     },
     {
       "name": "Leader-looking Man",
@@ -150,21 +150,21 @@
       "text": "The man who seems to be their leader cracks his fingers in a \nprovocative manner. Honestly, when it came to my confidence \nin my ability to fight them, I wasn't."
     },
     {
-      "text": "But I won't change my mind, no matter what anyone does. \nI have to protect the future of Nakayama Festa. As her trainer, \nI absolutely refuse to back down.",
       "choice_data_list": [
         "Well, what's keeping you?",
         "Well, what's keeping you?"
-      ]
+      ],
+      "text": "But I won't change my mind, no matter what anyone does. \nI have to protect the future of Nakayama Festa. As her trainer, \nI absolutely refuse to back down."
     },
     {
       "text": "I stepped in front of Nakayama Festa with both arms \noutstretched as, step by step, he slowly approached."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Hey, hey, are you outta your mind?",
       "choice_data_list": [
         "Come on, hurry up!"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Hey, hey, are you outta your mind?"
     },
     {
       "name": "Leader-looking Man",
@@ -179,22 +179,22 @@
       "text": "Don't take those guys so seriously. You can just shrug them off."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "! Oh, I see how it is.",
       "choice_data_list": [
         "Wh- what's up?",
         "Wh- what's up?"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "! Oh, I see how it is."
     },
     {
       "name": "Nakayama Festa",
       "text": "Kehehe… just take a look at yourself."
     },
     {
-      "text": "Still shaking, I looked at the display window Nakayama Festa \npointed at to look at my reflection.",
       "choice_data_list": [
         "…!!"
-      ]
+      ],
+      "text": "Still shaking, I looked at the display window Nakayama Festa \npointed at to look at my reflection."
     },
     {
       "text": "The look on my face shocked me."

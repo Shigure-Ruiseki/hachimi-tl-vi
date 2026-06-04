@@ -21,11 +21,11 @@
       "text": "Prez'll win, just like she always does, right? \nSo she'll be showered with praise again…"
     },
     {
-      "name": "Tokai Teio",
-      "text": "Maybe… seeing that one more time will help me \nshake off whatever's been bothering me.",
       "choice_data_list": [
         "Why don't we go and find out?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Maybe… seeing that one more time will help me \nshake off whatever's been bothering me."
     },
     {
       "name": "Tokai Teio",
@@ -48,11 +48,11 @@
       "text": "Emperor! Emperor! Emperor!!"
     },
     {
-      "name": "Tokai Teio",
-      "text": "………",
       "choice_data_list": [
         "How was that?"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "………"
     },
     {
       "name": "Tokai Teio",
@@ -63,11 +63,11 @@
       "text": "But…"
     },
     {
-      "name": "Tokai Teio",
-      "text": "There's something I need to talk to her about. \nWill you come too?",
       "choice_data_list": [
         "Of course. Let's go."
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "There's something I need to talk to her about. \nWill you come too?"
     },
     {
       "name": "Tokai Teio",
@@ -197,22 +197,22 @@
       "text": "Thank you for coming with me. Also, umm… thanks \nfor everything you've done!"
     },
     {
-      "name": "Tokai Teio",
-      "text": "And… I'll be relying on you \neven more from now on!",
       "choice_data_list": [
         "From now on? Does that mean…"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "And… I'll be relying on you \neven more from now on!"
     },
     {
       "name": "Tokai Teio",
       "text": "Geez, you're so dense! If you keep that up, I \nwon't let you be my trainer anymore."
     },
     {
-      "name": "Tokai Teio",
-      "text": "Our target is the strongest Uma Musume in the \nworld after all. So get it together, Trainer!!",
       "choice_data_list": [
         "Okay! Let's do this together!"
-      ]
+      ],
+      "name": "Tokai Teio",
+      "text": "Our target is the strongest Uma Musume in the \nworld after all. So get it together, Trainer!!"
     },
     {
       "name": "Tokai Teio",

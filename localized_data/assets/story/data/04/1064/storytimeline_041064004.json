@@ -29,25 +29,25 @@
       "text": "Indeed, that might be a bit too much —— \nFor a Mejiro trainee, I may be stepping over a line."
     },
     {
-      "text": "After mustering up the resolve, I directed an inquiry \nto the ever-serious Mejiro Palmer, who was quietly \nletting her feelings out.",
       "choice_data_list": [
         "<size=31>Your dream was to etch your name in history, wasn't it?</size>",
         "<size=31>Your dream was to etch your name in history, wasn't it?</size>"
-      ]
+      ],
+      "text": "After mustering up the resolve, I directed an inquiry \nto the ever-serious Mejiro Palmer, who was quietly \nletting her feelings out."
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "Huh? Ah, yeah, that's right, but……",
       "choice_data_list": [
         "Is that name \"Mejiro\"?"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "Huh? Ah, yeah, that's right, but……"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "……!",
       "choice_data_list": [
         "Or is it \"Mejiro Palmer\"?"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "……!"
     },
     {
       "name": "Mejiro Palmer",
@@ -62,22 +62,22 @@
       "text": "(T-That's right. That's right…… I'm…!!)"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "…… Yeah. Trainer!! Could you put me on training that fully \nspecializes in running away from the pack from now on? \nAnd also…… please set up a mock race, too!",
       "choice_data_list": [
         "Leave it to me!",
         "Leave it to me!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "…… Yeah. Trainer!! Could you put me on training that fully \nspecializes in running away from the pack from now on? \nAnd also…… please set up a mock race, too!"
     },
     {
       "text": "Thus began my new training with Mejiro Palmer, focusing solely \non honing her ability to outrun the rest."
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "<i>Hah, ha, hah, haaa!</i> My start dash……! \nHow was that? Is something like this——?",
       "choice_data_list": [
         "Palmer! Free yourself more!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "<i>Hah, ha, hah, haaa!</i> My start dash……! \nHow was that? Is something like this——?"
     },
     {
       "name": "Mejiro Palmer",
@@ -92,19 +92,19 @@
       "text": "<i>Raise the roof! Run like fireworks!! Being first is a blast!!</i>"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "—— <i>Explosive escape</i>, is that it?! \n<i>Haaaaaaaaa</i>————!!!!",
       "choice_data_list": [
         "……!!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "—— <i>Explosive escape</i>, is that it?! \n<i>Haaaaaaaaa</i>————!!!!"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "—— <i>Haaa—! Haaah! Haaa～～～～!</i> \nOh damn, my breath… seriously, I can't… no more!!",
       "choice_data_list": [
         "<size=38>A-Are you okay?! But, your running just now…!</size>",
         "<size=38>A-Are you okay?! But, your running just now…!</size>"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "—— <i>Haaa—! Haaah! Haaa～～～～!</i> \nOh damn, my breath… seriously, I can't… no more!!"
     },
     {
       "name": "Mejiro Palmer",
@@ -134,12 +134,12 @@
       "text": "Ahh, you're talking about the Selection Race that Mejiro Ryan \nparticipated in? Yeah, but more importantly, what I'm excited \nabout is that girl over there ——"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "Ahhaha! Looks like I'm totally being \ntreated as a dark horse again, huh～? \n… Fine with me, I'm getting fired up!",
       "choice_data_list": [
         "Hold your head high and show them \nwhat your running is made of!",
         "Hold your head high and show them \nwhat your running is made of!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "Ahhaha! Looks like I'm totally being \ntreated as a dark horse again, huh～? \n… Fine with me, I'm getting fired up!"
     },
     {
       "name": "Mejiro Palmer",
@@ -224,11 +224,11 @@
       "text": "… And thanks, Trainer! For constantly pushing me forward! \nSo you know, from now on, let's continue to…"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "HYPE IT UUUP——!! \nWEIIIIIIIII～～～～～!!",
       "choice_data_list": [
         "Wee～～～～ii!!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "HYPE IT UUUP——!! \nWEIIIIIIIII～～～～～!!"
     },
     {
       "text": "… Until the name Mejiro Palmer is engraved in history, \nI will continue to support her to the best of my ability!"

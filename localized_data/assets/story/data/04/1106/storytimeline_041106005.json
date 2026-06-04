@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Hishi Miracle",
-      "text": "(――It's been a while since \nTrainer-san became my trainer.)",
       "choice_data_list": [
         "So in this case, you'd use……"
-      ]
+      ],
+      "name": "Hishi Miracle",
+      "text": "(――It's been a while since \nTrainer-san became my trainer.)"
     },
     {
       "name": "Hishi Miracle",
@@ -53,11 +53,11 @@
       "text": "(They're really enthusiastic. \n……When I think back, it's a little……)"
     },
     {
-      "name": "Hishi Miracle",
-      "text": "Fu, fufuu……",
       "choice_data_list": [
         "……Hishi Miracle? Are you listening?"
-      ]
+      ],
+      "name": "Hishi Miracle",
+      "text": "Fu, fufuu……"
     },
     {
       "name": "Hishi Miracle",
@@ -116,40 +116,40 @@
       "text": "Trainer-san is more like them, right? \nI wonder if they have any thoughts about that."
     },
     {
-      "name": "Hishi Miracle",
-      "text": "Even with that difference, I wonder if it's still fun~. \nThey're not getting bored right~?……wait, huh?",
       "choice_data_list": [
         "Getting ready, getting ready~♪"
-      ]
+      ],
+      "name": "Hishi Miracle",
+      "text": "Even with that difference, I wonder if it's still fun~. \nThey're not getting bored right~?……wait, huh?"
     },
     {
       "name": "Hishi Miracle",
       "text": "(……Heh. They're humming while getting ready)"
     },
     {
-      "name": "Hishi Miracle",
-      "text": "Trainer-san, are you…… having fun now?",
       "choice_data_list": [
         "Of course! I'm expecting great things!"
-      ]
+      ],
+      "name": "Hishi Miracle",
+      "text": "Trainer-san, are you…… having fun now?"
     },
     {
-      "name": "Hishi Miracle",
-      "text": "O-oh…… you're energetic even before training, huh?",
       "choice_data_list": [
         "You can do it! Do your best!"
-      ]
+      ],
+      "name": "Hishi Miracle",
+      "text": "O-oh…… you're energetic even before training, huh?"
     },
     {
       "name": "Hishi Miracle",
       "text": "Wai-, why are you as enthusiastic as when I'm running? \n……Fuu, ahahahaa. You're too spirited!"
     },
     {
-      "name": "Hishi Miracle",
-      "text": "(……Are they doing that on purpose? Are they trying to be \nconsiderate? Or is a conversation like this part of the 『fun』?)",
       "choice_data_list": [
         "Everything's almost ready~"
-      ]
+      ],
+      "name": "Hishi Miracle",
+      "text": "(……Are they doing that on purpose? Are they trying to be \nconsiderate? Or is a conversation like this part of the 『fun』?)"
     },
     {
       "name": "Hishi Miracle",

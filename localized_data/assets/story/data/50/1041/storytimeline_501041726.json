@@ -20,22 +20,22 @@
       "text": "As class president, I must keep up with the \nclass trends!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "All right, now let's Bakushin this arm and \ntry to get that stuffed doll!!",
       "choice_data_list": [
         "Bakushin your arm……?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "All right, now let's Bakushin this arm and \ntry to get that stuffed doll!!"
     },
     {
       "name": "Sakura Bakushin O",
       "text": "Affirmative! I'm going to get that stuffed \ndoll with the power of Bakushin!"
     },
     {
-      "text": "I can easily imagine that it would be \nimpossible to get a stuffed doll by using \"the \npower of Bakushin\" as she says……",
       "choice_data_list": [
         "Leave it to me.",
         "Leave it to me."
-      ]
+      ],
+      "text": "I can easily imagine that it would be \nimpossible to get a stuffed doll by using \"the \npower of Bakushin\" as she says……"
     },
     {
       "name": "Sakura Bakushin O",

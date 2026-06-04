@@ -29,10 +29,10 @@
       "text": "――Guidance. ――I'll leave it to you."
     },
     {
-      "text": "Symboli Kris S seemed like the quiet type but…… being overseas in \nan unfamiliar school could be unsettling too. That's why――",
       "choice_data_list": [
         "I'll try to make the tour fun!"
-      ]
+      ],
+      "text": "Symboli Kris S seemed like the quiet type but…… being overseas in \nan unfamiliar school could be unsettling too. That's why――"
     },
     {
       "text": "For starters, the training gym, a point of pride \nof Tracen Academy! Undoubtedly, the number of specialized \nmachines would be a sight to behold!"
@@ -59,11 +59,11 @@
       "text": "And what you've been waiting for, Tracen Academy's pride, the \ntraining course! If it's an Uma Musume that loves racing, they'll \ndefinitely love it……!"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "Turf……――the grass, is really green.",
       "choice_data_list": [
         "(Is she enjoying it at all……?)"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "Turf……――the grass, is really green."
     },
     {
       "text": "No matter where I took her, Symboli Kris S remained \nexpressionless. I was starting to feel uneasy, and that's when――"
@@ -92,18 +92,18 @@
       "text": "All the senpai trainers spotted Symboli Kris S, \nand before I realized it, we were surrounded……!"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "……",
       "choice_data_list": [
         "You can run if you want, I'll wait"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "……"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "……――No. \nGuidance―― In progress.",
       "choice_data_list": [
         "Eh……？"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "……――No. \nGuidance―― In progress."
     },
     {
       "name": "Symboli Kris S",
@@ -113,18 +113,18 @@
       "text": "I could only nod in response to that―― \nI then ask if she's really okay with that."
     },
     {
-      "name": "Symboli Kris S",
-      "text": "――Up until now―― You've politely guided me. \n……―― I'll listen―― until the end.",
       "choice_data_list": [
         "G-got it……!"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "――Up until now―― You've politely guided me. \n……―― I'll listen―― until the end."
     },
     {
-      "text": "And so we retreated from the gaze of my senpais. \nFor some reason, we ended up back at the trainers' offices――",
       "choice_data_list": [
         "Was it fine to continue the tour?",
         "Was it fine to continue the tour?"
-      ]
+      ],
+      "text": "And so we retreated from the gaze of my senpais. \nFor some reason, we ended up back at the trainers' offices――"
     },
     {
       "text": "In a place with so many veterans, if she had shown her strength, \nthe chances of being scouted would increase significantly."
@@ -134,10 +134,10 @@
       "text": "……――――Yeah."
     },
     {
-      "text": "Really? When I was about to respond with that―― \nI noticed that Symboli Kris S' gaze had wavered for a moment.",
       "choice_data_list": [
         "……？"
-      ]
+      ],
+      "text": "Really? When I was about to respond with that―― \nI noticed that Symboli Kris S' gaze had wavered for a moment."
     },
     {
       "name": "Symboli Kris S",
@@ -155,10 +155,10 @@
       "text": "……――very much so. \n――That's why, please continue."
     },
     {
-      "text": "Very. ――It was very helpful. Considering how much time she had \nspent considering that modifier, I believed it was not flattery.",
       "choice_data_list": [
         "Then, I'm glad!"
-      ]
+      ],
+      "text": "Very. ――It was very helpful. Considering how much time she had \nspent considering that modifier, I believed it was not flattery."
     },
     {
       "name": "Symboli Kris S",
@@ -182,22 +182,22 @@
       "text": "――Certainly, she seemed to be a kind but awkward Uma Musume. \nThere would probably be times where she would be misunderstood."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "For better or worse, she will gather attention. That's why――",
       "choice_data_list": [
         "If you're fine with it, leave it to me"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "For better or worse, she will gather attention. That's why――"
     },
     {
       "name": "Symboli Rudolf",
       "text": "……I appreciate it."
     },
     {
-      "text": "Symboli Kris S. She had the abilities to be invited from \noverseas, and an aura that made it clear she was not ordinary―― \nbut, probably, she was still a kind Uma Musume.",
       "choice_data_list": [
         "(As a newbie, it has nothing to do with me……)",
         "(As a newbie, it has nothing to do with me……)"
-      ]
+      ],
+      "text": "Symboli Kris S. She had the abilities to be invited from \noverseas, and an aura that made it clear she was not ordinary―― \nbut, probably, she was still a kind Uma Musume."
     },
     {
       "text": "She was attracting attention from well known veteran trainers, \nso the chances of me becoming her trainer were quite low."

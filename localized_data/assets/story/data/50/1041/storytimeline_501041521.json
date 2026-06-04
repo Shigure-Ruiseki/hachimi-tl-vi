@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Sakura Bakushin O",
-      "text": "Gooood… mor… ning……",
       "choice_data_list": [
         "You look sleepy.",
         "You look sleepy."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Gooood… mor… ning……"
     },
     {
       "name": "Sakura Bakushin O",

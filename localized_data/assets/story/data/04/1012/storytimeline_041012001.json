@@ -12,11 +12,11 @@
       "text": "Two groups of excited students stood facing each other, \nwith Hishi Amazon and Fuji Kiseki at their fronts……"
     },
     {
-      "name": "Miho Dorm Trainee",
-      "text": "Oh, heya! You come for the show too, Trainer? \nWe're about to start the monthly Dormitory Pool Battle!",
       "choice_data_list": [
         "The Dormitory Pool Battle?"
-      ]
+      ],
+      "name": "Miho Dorm Trainee",
+      "text": "Oh, heya! You come for the show too, Trainer? \nWe're about to start the monthly Dormitory Pool Battle!"
     },
     {
       "name": "Miho Dorm Trainee",
@@ -214,11 +214,11 @@
       "text": "And next time I'll even the score with Fuji!! \nLook forward to it!!"
     },
     {
-      "name": "Miho Dormitory Trainees",
-      "text": "<i>(clap, clap, clap, clap, clap!!)</i>",
       "choice_data_list": [
         "(I'm liking the cut of this trainee's jib…!)"
-      ]
+      ],
+      "name": "Miho Dormitory Trainees",
+      "text": "<i>(clap, clap, clap, clap, clap!!)</i>"
     },
     {
       "text": "Hishi Amazon had made a lasting impression on me with \nthe way she stood up to any situation……"

@@ -2,20 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Furioso",
-      "text": "You won't take the next exam……? \nWhat do you……mean by that?",
       "choice_data_list": [
         "That's——for Furioso's sake"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "You won't take the next exam……? \nWhat do you……mean by that?"
     },
     {
       "text": "I failed the License Exam twice. The days spent unable to be at \nFurioso's side during training would continue, and for how long……?"
     },
     {
-      "text": "I was putting Furioso's future in to jeopardy. \nSo, rather than waiting for someone unreliable, like me……",
       "choice_data_list": [
         "You should choose another trainer"
-      ]
+      ],
+      "text": "I was putting Furioso's future in to jeopardy. \nSo, rather than waiting for someone unreliable, like me……"
     },
     {
       "name": "Furioso",
@@ -33,11 +33,11 @@
       "text": "Do you really think that choosing a different \ntrainer would be better? If that's the case then——"
     },
     {
-      "name": "Furioso",
-      "text": "You need to open your eyes! There isn't another trainer except you! \nThere isn't one! Anywhere!",
       "choice_data_list": [
         "There's no guarantee I'll pass……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "You need to open your eyes! There isn't another trainer except you! \nThere isn't one! Anywhere!"
     },
     {
       "name": "Furioso",
@@ -48,11 +48,11 @@
       "text": "It's true that in terms of theory and skill, \nthere might be trainers better than you. But, \nto win with someone other than you, that's……"
     },
     {
-      "name": "Furioso",
-      "text": "Not something you can call Funabashi's victory!!",
       "choice_data_list": [
         "Furioso……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Not something you can call Funabashi's victory!!"
     },
     {
       "name": "Furioso",
@@ -75,35 +75,35 @@
       "text": "For my dream! For our dream! \nWithout you, it can't come true!"
     },
     {
-      "name": "Furioso",
-      "text": "For our hometown, to make Funabashi more \nlively, to make it shine, our dream……",
       "choice_data_list": [
         "Furioso……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "For our hometown, to make Funabashi more \nlively, to make it shine, our dream……"
     },
     {
-      "text": "Her voice——reminded me of the reason for our \ndream. This much was true, to show the appeal \nof Funabashi, it had to be a duo from Funabashi.",
       "choice_data_list": [
         "But……the exam……"
-      ]
+      ],
+      "text": "Her voice——reminded me of the reason for our \ndream. This much was true, to show the appeal \nof Funabashi, it had to be a duo from Funabashi."
     },
     {
-      "name": "Furioso",
-      "text": "——I'll help you.",
       "choice_data_list": [
         "You'll help?"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "——I'll help you."
     },
     {
       "name": "Furioso",
       "text": "Yes, let's study for the exam together. I'm a \nstudent so I can enter Tracen Academy's library \nand borrow as many technical books as we need."
     },
     {
-      "name": "Furioso",
-      "text": "That's why……Let's do our best! Even if it's a long climb, \nwe can keep working until you're able to overcome.",
       "choice_data_list": [
         "……Alright, let's do it! Thank you"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "That's why……Let's do our best! Even if it's a long climb, \nwe can keep working until you're able to overcome."
     },
     {
       "name": "Furioso",
@@ -174,12 +174,12 @@
       "text": "We were finally——able to make it here."
     },
     {
-      "name": "Furioso",
-      "text": "Then, Trainer, our first step. \nLined up together at the gate.",
       "choice_data_list": [
         "Yeah! One-two!",
         "Yeah! One-two!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Then, Trainer, our first step. \nLined up together at the gate."
     },
     {
       "name": "Furioso",

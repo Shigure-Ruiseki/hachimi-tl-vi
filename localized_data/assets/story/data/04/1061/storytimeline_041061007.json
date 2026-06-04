@@ -5,12 +5,12 @@
       "text": "Summer training starts this week, King was \nworking hard at the beach but…"
     },
     {
-      "name": "King Halo",
-      "text": "Trainer, we've done enough beach training.",
       "choice_data_list": [
         "What's this all of a sudden?",
         "What's up all of a sudden?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Trainer, we've done enough beach training."
     },
     {
       "name": "King Halo",
@@ -21,11 +21,11 @@
       "text": "I heard of a secret training plan! A training plan \ntaken on by many G1 horse girls, a first-class training plan!"
     },
     {
-      "name": "King Halo",
-      "text": "Behind the forest on the training grounds, there's a super \nadvanced course! You didn't know either, did you?",
       "choice_data_list": [
         "I had no idea…"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Behind the forest on the training grounds, there's a super \nadvanced course! You didn't know either, did you?"
     },
     {
       "name": "King Halo",
@@ -73,12 +73,12 @@
       "text": "My preparations are perfect."
     },
     {
-      "name": "King Halo",
-      "text": "Last night, I checked all the rumored super advanced \ncourses! The mark on my phone map is perfect!",
       "choice_data_list": [
         "It it okay to not bring a backup map?",
         "Are we okay without a backup map?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Last night, I checked all the rumored super advanced \ncourses! The mark on my phone map is perfect!"
     },
     {
       "name": "King Halo",
@@ -112,12 +112,12 @@
       "text": "TR-TR-TRAINER, DO SOMETHING ABOUT THIS～!!!"
     },
     {
-      "name": "King Halo",
-      "text": "Ha… Ha… Ha…",
       "choice_data_list": [
         "You okay?",
         "Are you alright?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Ha… Ha… Ha…"
     },
     {
       "name": "King Halo",
@@ -128,12 +128,12 @@
       "text": "…Huh?"
     },
     {
-      "name": "King Halo",
-      "text": "Hey, trainer. Have you seen my phone around?",
       "choice_data_list": [
         "you lost it…?",
         "Did you lose it…?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Hey, trainer. Have you seen my phone around?"
     },
     {
       "name": "King Halo",
@@ -152,12 +152,12 @@
       "text": "Um, it was at the 2nd resting point. It's okay, it's okay. \nI already marked it on my phone map…"
     },
     {
-      "name": "King Halo",
-      "text": "…Wait, my phone!!",
       "choice_data_list": [
         "Are you sure you're okay…?",
         "Are you really okay…?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "…Wait, my phone!!"
     },
     {
       "name": "King Halo",
@@ -171,46 +171,46 @@
       "text": "…At this rate she, ll end up in distress. I memorize the routes \nwe've been through, while looking at my map-"
     },
     {
-      "name": "King Halo",
-      "text": "Geez, what are you doing at a time like this…",
       "choice_data_list": [
         "I figured this might happen."
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Geez, what are you doing at a time like this…"
     },
     {
       "name": "King Halo",
       "text": "Wait, isn't that a map! You've even got a compass! And this red \nline… is this the path we've been running till now?"
     },
     {
-      "name": "King Halo",
-      "text": "You've done it, trainer! If we have this we can even find my ph-",
       "choice_data_list": [
         "Let's go look for it."
-      ]
+      ],
+      "name": "King Halo",
+      "text": "You've done it, trainer! If we have this we can even find my ph-"
     },
     {
       "name": "King Halo",
       "text": "Urgh… I-I'm, counting on you."
     },
     {
-      "name": "King Halo",
-      "text": "Looks like we came back safe somehow…",
       "choice_data_list": [
         "Are you injured?",
         "Are you hurt?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Looks like we came back safe somehow…"
     },
     {
       "name": "King Halo",
       "text": "Yes, no problems at all. \nAs you can see my phone is fine too…"
     },
     {
-      "name": "King Halo",
-      "text": "That said… you were rather prepared. \nEven though I spurred this onto you only yesterday.",
       "choice_data_list": [
         "Well, I am aiming to be a first-class trainer after all.",
         "Well, I am aiming to be a first-class trainer after all."
-      ]
+      ],
+      "name": "King Halo",
+      "text": "That said… you were rather prepared. \nEven though I spurred this onto you only yesterday."
     },
     {
       "name": "King Halo",
@@ -221,12 +221,12 @@
       "text": "If you hadn't prepared the map and compass, \nI think this would have turned out much worse."
     },
     {
-      "name": "King Halo",
-      "text": "So… sorry, for causing you trouble.",
       "choice_data_list": [
         "I'm just glad you're okay.",
         "I'm just glad you're safe."
-      ]
+      ],
+      "name": "King Halo",
+      "text": "So… sorry, for causing you trouble."
     },
     {
       "name": "King Halo",
@@ -237,12 +237,12 @@
       "text": "Just for today, I'll praise you. Respecting a first-class horse \ngirl like this is first-class treatment."
     },
     {
-      "name": "King Halo",
-      "text": "Then, let's reflect on this for now. \nTomorrow we're going to perfect that forest training!",
       "choice_data_list": [
         "We are!?",
         "We are!?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Then, let's reflect on this for now. \nTomorrow we're going to perfect that forest training!"
     },
     {
       "name": "King Halo",

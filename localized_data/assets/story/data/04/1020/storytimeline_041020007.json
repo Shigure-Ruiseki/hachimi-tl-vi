@@ -30,12 +30,12 @@
       "text": "Woah, the blue sky and the blue sea!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "It's a wonderful day to go fishing! \nWelp, guess I have no choice but to…",
       "choice_data_list": [
         "At least look at the training regimen!",
         "At least look at the training regimen!"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "It's a wonderful day to go fishing! \nWelp, guess I have no choice but to…"
     },
     {
       "name": "Seiun Sky",
@@ -72,12 +72,12 @@
       "text": "The midsummer heat was pretty taxing on my \nsleep-deprived body… It took everything in my \npower not to collapse…"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Oi, Trainer-san… You seem a little out of it, are you okay?",
       "choice_data_list": [
         "I'm fine, continue with your training.",
         "I'm fine, continue with your training."
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Oi, Trainer-san… You seem a little out of it, are you okay?"
     },
     {
       "text": "Seiun Sky ran off as soon as I gave her the next clue. \nAs I watched her run off…"
@@ -152,11 +152,11 @@
       "text": "While I do prefer slacking off, it really depends on the situation."
     },
     {
-      "name": "Seiun Sky",
-      "text": "After all, you worked so hard on my behalf to \nthe point where you collapsed, so I figured you \ndeserved a reward of some sort.",
       "choice_data_list": [
         "Thank you."
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "After all, you worked so hard on my behalf to \nthe point where you collapsed, so I figured you \ndeserved a reward of some sort."
     },
     {
       "name": "Seiun Sky",
@@ -179,24 +179,24 @@
       "text": "You must be thinking \"wow, to train so diligently while alone, \nshe's so mature and working so hard\", aren't you?"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Or wait, did you purposefully collapse so that \nyou'd get me to train on my own, voluntarily…!?",
       "choice_data_list": [
         "And if that were the case?",
         "And if that were the case?"
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Or wait, did you purposefully collapse so that \nyou'd get me to train on my own, voluntarily…!?"
     },
     {
       "name": "Seiun Sky",
       "text": "Uwah, you're so scary! Despite your calm composure, \nI can't believe I have to be careful around you!"
     },
     {
-      "name": "Seiun Sky",
-      "text": "Well maybe that's what connects us… \nThat we can't be too careful around one another.",
       "choice_data_list": [
         "I guess you're right.",
         "I guess you're right."
-      ]
+      ],
+      "name": "Seiun Sky",
+      "text": "Well maybe that's what connects us… \nThat we can't be too careful around one another."
     },
     {
       "name": "Seiun Sky",

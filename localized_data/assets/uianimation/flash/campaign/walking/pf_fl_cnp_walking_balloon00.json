@@ -1,6 +1,13 @@
 {
   "data": {
     "motion_parameter_list": {
+      "11": {
+        "text_param_list": {
+          "0": {
+            "text": "Meal"
+          }
+        }
+      },
       "5": {
         "text_param_list": {
           "0": {
@@ -12,13 +19,6 @@
         "text_param_list": {
           "0": {
             "text": "Reward"
-          }
-        }
-      },
-      "11": {
-        "text_param_list": {
-          "0": {
-            "text": "Meal"
           }
         }
       }

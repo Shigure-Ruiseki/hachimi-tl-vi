@@ -6,12 +6,12 @@
       "text": "<i>Hmm…</i> I went ahead and lost."
     },
     {
-      "name": "Stay Gold",
-      "text": "I couldn't run as well as I thought I could. \nIf only I tried harder out there…",
       "choice_data_list": [
         "There are days like this",
         "Let's stay focused…!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "I couldn't run as well as I thought I could. \nIf only I tried harder out there…"
     },
     {
       "name": "Stay Gold",

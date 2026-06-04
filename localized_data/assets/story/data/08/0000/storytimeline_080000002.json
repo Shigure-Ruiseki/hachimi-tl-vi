@@ -2,24 +2,24 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "Ladies and gentlemen, the Aoharu Hai \nis about to begin!",
       "color_text_info_list": [
         "Aoharu Hai"
-      ]
+      ],
+      "name": "Caster",
+      "text": "Ladies and gentlemen, the Aoharu Hai \nis about to begin!"
     },
     {
-      "text": "The Aoharu Hai was a different kind of \nspectacle, which would run in parallel \nto the Twinkle Series.",
       "color_text_info_list": [
         "Twinkle Series"
-      ]
+      ],
+      "text": "The Aoharu Hai was a different kind of \nspectacle, which would run in parallel \nto the Twinkle Series."
     },
     {
-      "name": "Caster",
-      "text": "This team competition, organized by \nTracen Academy, emphasizes team \nplay over individual ability!",
       "color_text_info_list": [
         "Tracen Academy"
-      ]
+      ],
+      "name": "Caster",
+      "text": "This team competition, organized by \nTracen Academy, emphasizes team \nplay over individual ability!"
     },
     {
       "text": "This, however, wasn't an \nordinary racing event!"

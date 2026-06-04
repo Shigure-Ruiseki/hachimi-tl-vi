@@ -14,22 +14,22 @@
       "text": "That was the run of a flunk-student! \nNow, I'm Bakushin-ing down the road to \nbecoming a delinqueeeent―!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "……Gulp.",
       "choice_data_list": [
         "Failure isn't a bad thing.",
         "Class president, pull yourself together!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "……Gulp."
     },
     {
       "text": "Can you recover from failure? That's the \nreal key to success, I told her."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "…So, in other words, what you're saying is, \nI'm still Bakushin-ing down the glorious \nhonor student road at this very moment!?",
       "choice_data_list": [
         "That's exactly what I'm saying!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "…So, in other words, what you're saying is, \nI'm still Bakushin-ing down the glorious \nhonor student road at this very moment!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -40,12 +40,12 @@
       "text": "I have to set an example for everyone! \nThere's no time to stand still!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "T-Trainer…!",
       "choice_data_list": [
         "You're supposed to be a role model for everyone, right?",
         "You're supposed to be a role model for everyone, right?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "T-Trainer…!"
     },
     {
       "name": "Sakura Bakushin O",

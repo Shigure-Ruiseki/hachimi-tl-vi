@@ -6,24 +6,24 @@
       "text": "It's a crazy lineup, huh!? I was just my usual wicked self and \nthe word spread like wildfire☆"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Oguri-paisen, Ban-chamu, Yae-mero…… \nKuuuu～ it really gets you fired up!",
       "choice_data_list": [
         "Yae-me-…… what?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Oguri-paisen, Ban-chamu, Yae-mero…… \nKuuuu～ it really gets you fired up!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Anyway, it means this race is gonna be extra spicy! \nUhyaa, I'm pysched～☆ Crazy～☆",
       "choice_data_list": [
         "Maybe TOO crazy……"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Anyway, it means this race is gonna be extra spicy! \nUhyaa, I'm pysched～☆ Crazy～☆"
     },
     {
-      "text": "Daitaku Helios hadn't even debuted yet. No matter how much \nhidden talent she had, against experienced opponents like this……",
       "choice_data_list": [
         "Honestly, this will be rough"
-      ]
+      ],
+      "text": "Daitaku Helios hadn't even debuted yet. No matter how much \nhidden talent she had, against experienced opponents like this……"
     },
     {
       "name": "Daitaku Helios",
@@ -50,36 +50,36 @@
       "text": "See? They're all chompin' at the bit too! \nGot no choice but to take the reins!!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "'Sides, results? \n―We won't know 'til it's over!!",
       "choice_data_list": [
         "……！"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "'Sides, results? \n―We won't know 'til it's over!!"
     },
     {
       "name": "Daitaku Helios",
       "text": "Well, just sit back and relax～! \nHeli-poyo is gonna knock this Wei～ outta the park☆ Let's go!"
     },
     {
-      "text": "If she's like that in front of this line up, \nthen just maybe…… that means she was confident \nenough that she purposefully gathered them!",
       "choice_data_list": [
         "That girl, maybe she's incredible―"
-      ]
+      ],
+      "text": "If she's like that in front of this line up, \nthen just maybe…… that means she was confident \nenough that she purposefully gathered them!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "―Hell yeah, pedal to the metal～～～～!!!!",
       "choice_data_list": [
         "！！！！"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "―Hell yeah, pedal to the metal～～～～!!!!"
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "Ooooooh……!? Daitaku Helios leapt out in front! \nAnd she just keeps on accelerating……!",
       "choice_data_list": [
         "(W-what crazy speed……!)",
         "(W-what crazy speed……!)"
-      ]
+      ],
+      "name": "Rookie Trainer A",
+      "text": "Ooooooh……!? Daitaku Helios leapt out in front! \nAnd she just keeps on accelerating……!"
     },
     {
       "text": "Daitaku Helios was running at a speed that seemed like she wasn't \neven thinking about pacing herself, she just continued to pull \nfurther ahead. And that's not all――"
@@ -89,25 +89,25 @@
       "text": "Gyahahaa, keep it up Helios!! \nRed-line it～～～～!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "You got it～～!! \nYou better kick it up over there too～～～～!! Ahahaa!",
       "choice_data_list": [
         "(She's laughing!?)"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "You got it～～!! \nYou better kick it up over there too～～～～!! Ahahaa!"
     },
     {
-      "name": "Rookie Trainer A",
-      "text": "She's got enough leeway…… to hold a conversation!? That girl, \ndon't tell me…… she's seriously planning to run away with this? \nAgainst those opponents……!?",
       "choice_data_list": [
         "(No way, is she seriously……!?)"
-      ]
+      ],
+      "name": "Rookie Trainer A",
+      "text": "She's got enough leeway…… to hold a conversation!? That girl, \ndon't tell me…… she's seriously planning to run away with this? \nAgainst those opponents……!?"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "―I～～～～～ caaaaan't～～～～!!!!",
       "choice_data_list": [
         "Eeeeeeeeeeeeh!?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "―I～～～～～ caaaaan't～～～～!!!!"
     },
     {
       "name": "Everyone",
@@ -121,19 +121,19 @@
       "text": "Zeeeeh…… Haaa…… Ugh, gonna puke…… \nAnd I was last～…… Haa～～…… Seriously, seriously―"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "―Seriously, that was hilarious!! Wahahaha～!",
       "choice_data_list": [
         "!?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "―Seriously, that was hilarious!! Wahahaha～!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "I really wanted to push through to the end though～. \nKnew it, I just didn't have the stamina! Fuha☆",
       "choice_data_list": [
         "You had no chance from the start!?",
         "You had no chance from the start!?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "I really wanted to push through to the end though～. \nKnew it, I just didn't have the stamina! Fuha☆"
     },
     {
       "name": "Daitaku Helios",
@@ -144,11 +144,11 @@
       "text": "Haa, I was worried there. Daitaku Helios…… Fufuu, what an \ninteresting girl. But, well…… teaming up with her…… is a bit much."
     },
     {
-      "name": "Experienced Trainer A",
-      "text": "Talking to the spectators during the race…… it's almost like she \nhas no ability to focus. A girl that only wants to perform, I \nwouldn't want to face her……",
       "choice_data_list": [
         "(Only wants to perform……)"
-      ]
+      ],
+      "name": "Experienced Trainer A",
+      "text": "Talking to the spectators during the race…… it's almost like she \nhas no ability to focus. A girl that only wants to perform, I \nwouldn't want to face her……"
     },
     {
       "name": "Friend B",
@@ -159,45 +159,45 @@
       "text": "I have～!! We should fix that! \nLANE me!! See ya～☆"
     },
     {
-      "text": "She had just come in last, but I didn't sense any sense of \nfrustration from Daitaku Helios at all. Of course, she was \nprobably down about it, but……",
       "choice_data_list": [
         "Um, aren't you…… a little upset?",
         "Um, aren't you…… a little upset?"
-      ]
+      ],
+      "text": "She had just come in last, but I didn't sense any sense of \nfrustration from Daitaku Helios at all. Of course, she was \nprobably down about it, but……"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Ahahaa, about that～! \nNope, not one bit☆",
       "choice_data_list": [
         "Not at all!?"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Ahahaa, about that～! \nNope, not one bit☆"
     },
     {
       "name": "Daitaku Helios",
       "text": "Well, it would have been awesome if I won! \nLosing isn't gonna pull me down, though. No regrets!"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "I mean, it was super fun, right!? Everyone was all smiles! \nAnd I was～ awesome! Ain't nothing to be down about～, right!?",
       "choice_data_list": [
         "Th-that's absurd……"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "I mean, it was super fun, right!? Everyone was all smiles! \nAnd I was～ awesome! Ain't nothing to be down about～, right!?"
     },
     {
       "text": "It wasn't a front at all, she, from the bottom of \nher heart…… was laughing. I never thought I'd meet \na student here that was so outside the norm."
     },
     {
-      "name": "Daitaku Helios",
-      "text": "Hm? What's up with your palm!? \nIsn't it really red?",
       "choice_data_list": [
         "……！！"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "Hm? What's up with your palm!? \nIsn't it really red?"
     },
     {
-      "text": "When I looked, my fingernails had left marks in my palm. \"She \nmight win!\" ……when I had been thinking that, I must have \nunintentionally clenched my fists.",
       "choice_data_list": [
         "(Right, I was excited for her. But……)"
-      ]
+      ],
+      "text": "When I looked, my fingernails had left marks in my palm. \"She \nmight win!\" ……when I had been thinking that, I must have \nunintentionally clenched my fists."
     },
     {
       "name": "Daitaku Helios",
@@ -208,47 +208,47 @@
       "text": "Yo, Heli～! We're heading to a family \nrestaurant with Jordan, wanna come～?"
     },
     {
-      "name": "Daitaku Helios",
-      "text": "I'll go――!",
       "choice_data_list": [
         "W-wait!"
-      ]
+      ],
+      "name": "Daitaku Helios",
+      "text": "I'll go――!"
     },
     {
       "name": "Daitaku Helios",
       "text": "Hnya?"
     },
     {
-      "text": "I had gotten to see her run but, I still didn't have a clear \nunderstanding of her. At the very least, I wanted to hear what \nshe wanted to focus on―",
       "choice_data_list": [
         "Do you have a dream you want to fulfill?",
         "Do you have a dream you want to fulfill?"
-      ]
+      ],
+      "text": "I had gotten to see her run but, I still didn't have a clear \nunderstanding of her. At the very least, I wanted to hear what \nshe wanted to focus on―"
     },
     {
       "name": "Daitaku Helios",
       "text": "A never-ending festival! \nByeeee～☆"
     },
     {
-      "text": "―Her run was very promising. She could probably \nmake big things happen, that's what I felt. But……",
       "choice_data_list": [
         "(A \"never-ending festival\" huh……?)"
-      ]
+      ],
+      "text": "―Her run was very promising. She could probably \nmake big things happen, that's what I felt. But……"
     },
     {
       "text": "There was no good or bad when it came to dreams. \nBut if I was going to be her trainer, I wanted \nher to be able to aim for it seriously."
     },
     {
-      "text": "A clash of serious emotions was what made races awe-inspiring. \nWith the way she is now, I couldn't sense any sense of \n\"seriousness\" in her……",
       "choice_data_list": [
         "(I need to know more about her)"
-      ]
+      ],
+      "text": "A clash of serious emotions was what made races awe-inspiring. \nWith the way she is now, I couldn't sense any sense of \n\"seriousness\" in her……"
     },
     {
-      "text": "And so, on the next day off. I went in to the city to find \nDaitaku Helios…… I found her almost immediately, and she seemed \nto be in a good mood.",
       "choice_data_list": [
         "Helios!"
-      ]
+      ],
+      "text": "And so, on the next day off. I went in to the city to find \nDaitaku Helios…… I found her almost immediately, and she seemed \nto be in a good mood."
     },
     {
       "name": "Daitaku Helios",

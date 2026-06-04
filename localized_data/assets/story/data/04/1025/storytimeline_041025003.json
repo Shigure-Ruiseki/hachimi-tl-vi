@@ -8,10 +8,10 @@
       "text": "(plunk…)"
     },
     {
-      "text": "The lights went out…",
       "choice_data_list": [
         "……"
-      ]
+      ],
+      "text": "The lights went out…"
     },
     {
       "text": "\"Saves me turning them off, I guess…\" \nI told myself, and went on my way."
@@ -35,29 +35,29 @@
       "text": "Maybe it was because she was fixated on her target, \nbut her form was off, her pace erratic…"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "Still… not there… not even close…",
       "choice_data_list": [
         "Hello!"
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "Still… not there… not even close…"
     },
     {
       "name": "Manhattan Cafe",
       "text": "Ah…"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "…Hello.",
       "choice_data_list": [
         "I hope I'm not intruding. Mind if I ask you something?"
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "…Hello."
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "Eh?",
       "choice_data_list": [
         "About your friend. How she runs."
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "Eh?"
     },
     {
       "name": "Manhattan Cafe",
@@ -71,28 +71,28 @@
       "text": "Can't even see her? That's why I needed her to tell me. \nHow is her form? When does she time her attacks?"
     },
     {
-      "text": "If I knew that, maybe I could give her some advice. \nI wanted to do anything I could to help her. But…",
       "choice_data_list": [
         "I'm sorry. You're right, this is none of my…"
-      ]
+      ],
+      "text": "If I knew that, maybe I could give her some advice. \nI wanted to do anything I could to help her. But…"
     },
     {
       "name": "Manhattan Cafe",
       "text": "……"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "My friend…… she's… \nFast. Very fast…",
       "choice_data_list": [
         "Very fast……"
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "My friend…… she's… \nFast. Very fast…"
     },
     {
-      "name": "Manhattan Cafe",
-      "text": "Yes………",
       "choice_data_list": [
         "Very…… fast. Okay."
-      ]
+      ],
+      "name": "Manhattan Cafe",
+      "text": "Yes………"
     },
     {
       "name": "Manhattan Cafe",
@@ -105,10 +105,10 @@
       "text": "Still, I decided to keep going down \nto the track at night to see her."
     },
     {
-      "text": "And every time I got up to leave, a window would \nsuddenly blow open… or a book would fall from the \nshelf… or the TV would turn on by itself.",
       "choice_data_list": [
         "Eh. I'm used to it!"
-      ]
+      ],
+      "text": "And every time I got up to leave, a window would \nsuddenly blow open… or a book would fall from the \nshelf… or the TV would turn on by itself."
     },
     {
       "text": "And I wasn't the only one who was getting used to things…"
@@ -121,11 +121,11 @@
       "text": "She was still a little wary, but gradually Manhattan Cafe started \nto open up to me about her \"friend\"…"
     },
     {
-      "name": "New Trainer A",
-      "text": "It's easy to say you're just going to scout someone, but finding \na good Uma Musume is hard. How about you. Find someone?",
       "choice_data_list": [
         "I sure did."
-      ]
+      ],
+      "name": "New Trainer A",
+      "text": "It's easy to say you're just going to scout someone, but finding \na good Uma Musume is hard. How about you. Find someone?"
     },
     {
       "text": "After seeing her run, I'd decided I wanted \nto take Manhattan Cafe on as her trainer."
@@ -167,10 +167,10 @@
       "text": "… The door opened? Then suddenly…"
     },
     {
-      "text": "A powerful force… like I was being pulled out \ninto the hall by something invisible…!",
       "choice_data_list": [
         "What the…!"
-      ]
+      ],
+      "text": "A powerful force… like I was being pulled out \ninto the hall by something invisible…!"
     },
     {
       "text": "I decided I probably should go to the track tonight after all."
@@ -186,12 +186,12 @@
       "text": "At the track the next day, I looked around to \nsee if I could find Manhattan Cafe. When…"
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Oh-ho. Looking for Cafe, are we? Most of the other trainers try \nto stay as far away from her as possible, but…",
       "choice_data_list": [
         "You…",
         "You…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Oh-ho. Looking for Cafe, are we? Most of the other trainers try \nto stay as far away from her as possible, but…"
     },
     {
       "name": "Agnes Tachyon",
@@ -217,22 +217,22 @@
       "text": "A psychologist could have a field day analyzing that lot. \nLike a dream world, made real."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "Tell me. What do you think? \nAbout Manhattan Cafe's \"friend\". Do you think she exists?",
       "choice_data_list": [
         "Well, Manhattan Cafe says she does, so…"
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "Tell me. What do you think? \nAbout Manhattan Cafe's \"friend\". Do you think she exists?"
     },
     {
       "name": "Agnes Tachyon",
       "text": "Hmm. Leaving aside what we might mean by the word \n\"exist\"… you can't see her, correct? Of course, I \ncan't either. And neither can anyone else."
     },
     {
-      "name": "Agnes Tachyon",
-      "text": "To believe in such a thing would be the very definition of \n\"unscientific\". And yet. You can still believe she exists…?",
       "choice_data_list": [
         "There's more to this world than \nwhat we can see with our eyes."
-      ]
+      ],
+      "name": "Agnes Tachyon",
+      "text": "To believe in such a thing would be the very definition of \n\"unscientific\". And yet. You can still believe she exists…?"
     },
     {
       "text": "That's right. What we see… depends on where we stand. \nWe all see things that no one else can."

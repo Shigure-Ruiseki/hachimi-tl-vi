@@ -13,20 +13,20 @@
       "text": "Could this be an ordeal… am I being tested!? Then confronting it \nis the only right thing to do as class president!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "However, howevererrere!!!!",
       "choice_data_list": [
         "What's up?",
         "What's up?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "However, howevererrere!!!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Oh, trainer! I am in fact talking about a queue!!!",
       "choice_data_list": [
         "Alright, calm down and explain.",
         "Alright, calm down and explain"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Oh, trainer! I am in fact talking about a queue!!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -41,11 +41,11 @@
       "text": "Guh… should I push myself to stand in that queue, \nor follow my heart and refrain…!! Nrmgblgg～!!"
     },
     {
-      "text": "She does seem like the type who couldn't stand still for long. \nPerhaps it would help her to have someone to talk to.",
       "choice_data_list": [
         "I'll go with you.",
         "I'll go with you."
-      ]
+      ],
+      "text": "She does seem like the type who couldn't stand still for long. \nPerhaps it would help her to have someone to talk to."
     },
     {
       "name": "Sakura Bakushin O",
@@ -71,12 +71,12 @@
       "text": "One sparrow, two sparrows…!! \nThree pigeons, and one excellent class president……!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Hold up!! Where's my trainer!? I'm certain he came with me!! \nHow many trainers are…!?",
       "choice_data_list": [
         "I'm standing next to you, relax.",
         "I'm right here, relax."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Hold up!! Where's my trainer!? I'm certain he came with me!! \nHow many trainers are…!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -86,11 +86,11 @@
       "text": "—We've been in line for a minute. \nI don't know if it's the effect queues have on her, but \nshe's clearly not dealing with it well."
     },
     {
-      "text": "…I have to distract her with something.",
       "choice_data_list": [
         "What kind of cake is it anyway?",
         "What kind of cake is it anyway?"
-      ]
+      ],
+      "text": "…I have to distract her with something."
     },
     {
       "name": "Sakura Bakushin O",
@@ -112,10 +112,10 @@
       "text": "She seems to think that the cheesecake \nis supposed to make her faster…"
     },
     {
-      "text": "But at the other end of the line, at the entrance to the shop, \nstood a board. Taking a closer look at it, \nI think she missed the \"-selling\" part after \"Fastest\"…",
       "choice_data_list": [
         "It says fastest-selling…"
-      ]
+      ],
+      "text": "But at the other end of the line, at the entrance to the shop, \nstood a board. Taking a closer look at it, \nI think she missed the \"-selling\" part after \"Fastest\"…"
     },
     {
       "name": "Sakura Bakushin O",
@@ -153,12 +153,12 @@
       "text": "Oho!? We're standing at the entrance!? \nHow could this be…!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Is this a miracle…!? A gift from the heavens bestowed \nupon the chosen class president…!?",
       "choice_data_list": [
         "A little chat makes time go by quick.",
         "A little chat makes time go by quick."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Is this a miracle…!? A gift from the heavens bestowed \nupon the chosen class president…!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -169,12 +169,12 @@
       "text": "Trainer, did you keep chatting with me for exactly that reason?!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I'm simply amazed… to come this far without realizing…! \nTrainer, you're a genius!!",
       "choice_data_list": [
         "This is what I can do…!",
         "This is what I can do…!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "I'm simply amazed… to come this far without realizing…! \nTrainer, you're a genius!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -185,12 +185,12 @@
       "text": "If I am the heavens' chosen class president, \nthen you must be the gods' chosen trainer!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "The chosen class president and the chosen trainer… \nIf this can't be called fate, then what can…!?",
       "choice_data_list": [
         "We're at the door already.",
         "We're at the door already."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "The chosen class president and the chosen trainer… \nIf this can't be called fate, then what can…!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -224,11 +224,11 @@
       "text": "You don't have to tell me anything! \nI know I've just become \"History's Fastest\"…!!!!"
     },
     {
-      "text": "Looking at the stopwatch in my hand, I see that her time \nis right around her usual…",
       "choice_data_list": [
         "Nice start! But your time hasn't changed…",
         "Nice start! But your time hasn't changed…"
-      ]
+      ],
+      "text": "Looking at the stopwatch in my hand, I see that her time \nis right around her usual…"
     },
     {
       "name": "Sakura Bakushin O",

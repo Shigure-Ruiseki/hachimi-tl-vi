@@ -5,10 +5,10 @@
       "text": "On my way to the training course to pick \nup something I forgot…"
     },
     {
-      "text": "This time, the \"President Showdown\" is in \nthe gym! \nWe have to hurry up and cheer on \nBaku-chan!",
       "choice_data_list": [
         "…President Showdown?"
-      ]
+      ],
+      "text": "This time, the \"President Showdown\" is in \nthe gym! \nWe have to hurry up and cheer on \nBaku-chan!"
     },
     {
       "text": "I was curious, so I took a look in the gym \nto find――"
@@ -33,11 +33,11 @@
       "text": "…I was originally going to go get \nthe thing I forgot, but I ran into a hell of a \nshowdown!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Oh, Trainer! \nYou've come to support me!?",
       "choice_data_list": [
         "No, I was on my way to get something I forgot…"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Oh, Trainer! \nYou've come to support me!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -79,11 +79,11 @@
       "text": "Uuuuuuugh～!! I lost…! \nI couldn't even see the back of you……!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "However……Trainer, \naren't you still forgetting something!?",
       "choice_data_list": [
         "Huh? No, not really…"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "However……Trainer, \naren't you still forgetting something!?"
     },
     {
       "name": "Sakura Bakushin O",
@@ -94,11 +94,11 @@
       "text": "So, for my purposes, that is the next best \nthing to really having forgotten something. \nHowever, what you're really forgetting is――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "\"Giving Your Hardworking Self a \nBreak\"…!",
       "choice_data_list": [
         "Bakushin O…!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "\"Giving Your Hardworking Self a \nBreak\"…!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -128,12 +128,12 @@
       "text": "Ehhen! That is true… however! \nIt's all thanks to my Trainer, too!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "I shall help my Trainer! And while I was \nrunning, I remembered our usual training!",
       "choice_data_list": [
         "You've put what you've learned to good use!",
         "You've put what you've learned to good use!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "I shall help my Trainer! And while I was \nrunning, I remembered our usual training!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -159,11 +159,11 @@
       "text": "This is the <i>power</i> of the Public Morals \nPresident! \nI'll take the title of the <i>strongest president!</i>"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Frustrating… This is, frustrating…!",
       "choice_data_list": [
         "Bakushin O…"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Frustrating… This is, frustrating…!"
     },
     {
       "name": "Sakura Bakushin O",

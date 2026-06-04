@@ -5,12 +5,12 @@
       "text": "In the school building at dusk, I found Fuji Kiseki looking out \nthe window with a somewhat melancholy look on her face."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "Fufu, they're adorable when they're working hard.",
       "choice_data_list": [
         "What are you looking at?",
         "What are you looking at?"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "Fufu, they're adorable when they're working hard."
     },
     {
       "name": "Fuji Kiseki",
@@ -29,12 +29,12 @@
       "text": "I want to run to entertain someone. \nBut… I feel as if that's not enough."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "To be the best Entertainer, \"Fuji Kiseki.\"",
       "choice_data_list": [
         "Is there anything I can do to help?",
         "Is there anything I can do to help?"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "To be the best Entertainer, \"Fuji Kiseki.\""
     },
     {
       "name": "Fuji Kiseki",
@@ -48,12 +48,12 @@
       "text": "I was escorted to our destination by Fuji Kiseki――"
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "Tonight, we invite Trainer to join us here at the Crown Classic \nHotel.",
       "choice_data_list": [
         "That's one of the most exclusive hotels in the country…!",
         "That's one of the most exclusive hotels in the country…!"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "Tonight, we invite Trainer to join us here at the Crown Classic \nHotel."
     },
     {
       "name": "Fuji Kiseki",
@@ -76,12 +76,12 @@
       "text": "When she laughs, the audience laughs. When she cries, the \naudience cries. She possesses such outstanding talent."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "However, those were not her only alarming qualities――",
       "choice_data_list": [
         "You were afraid of her?",
         "You were afraid of her?"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "However, those were not her only alarming qualities――"
     },
     {
       "name": "Fuji Kiseki",
@@ -109,12 +109,12 @@
       "text": "――\"Eclipse, incomparable goddess, please smile on me. \nGive me the strength to stand once again, my dreams broken.\""
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "\"If I can win this war, I will give my soul. Above my head, now, \nis my crown!\"",
       "choice_data_list": [
         "That was a great show.",
         "That was a great show."
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "\"If I can win this war, I will give my soul. Above my head, now, \nis my crown!\""
     },
     {
       "name": "Fuji Kiseki",
@@ -137,12 +137,12 @@
       "text": "And, a passion to be the best. \nA strong, strong feeling, almost like an obsession, to pursue \none's dreams."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "I was fascinated by that sort of thing; being a top star.",
       "choice_data_list": [
         "Have you found the answer to your dream?",
         "Have you found the answer to your dream?"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "I was fascinated by that sort of thing; being a top star."
     },
     {
       "name": "Fuji Kiseki",
@@ -200,11 +200,11 @@
       "text": "Thanks to you, my doubts are gone. \nI will never forget what you did today."
     },
     {
-      "name": "Fuji Kiseki",
-      "text": "…What's the matter? You're all quiet.",
       "choice_data_list": [
         "No, I just thought you were more handsome than ever…"
-      ]
+      ],
+      "name": "Fuji Kiseki",
+      "text": "…What's the matter? You're all quiet."
     },
     {
       "name": "Fuji Kiseki",

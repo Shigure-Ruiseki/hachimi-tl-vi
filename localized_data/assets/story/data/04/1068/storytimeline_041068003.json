@@ -34,11 +34,11 @@
       "text": "But… I won't fail. \nI refuse to fail…!!"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "With Kita-san's current strength— \nShe can probably reach the \"Fifth Station\", I would say.",
       "choice_data_list": [
         "Better than average?"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "With Kita-san's current strength— \nShe can probably reach the \"Fifth Station\", I would say."
     },
     {
       "name": "Mejiro McQueen",
@@ -73,19 +73,19 @@
       "text": "The sun is setting already… \nWe should probably end it here."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Most likely, she's probably unable to move just past the Fifth \nstation. We should probably contact the observation staff, and \nhave them carry her to a nearby rest stop…",
       "choice_data_list": [
         "—?!"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Most likely, she's probably unable to move just past the Fifth \nstation. We should probably contact the observation staff, and \nhave them carry her to a nearby rest stop…"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "W-what's wrong, all of a sudden?",
       "choice_data_list": [
         "I knew it… it's just like I thought",
         "I knew it… it's just like I thought"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "W-what's wrong, all of a sudden?"
     },
     {
       "name": "Kitasan Black",
@@ -100,22 +100,22 @@
       "text": "Yes! It was way tougher than I thought, and it took quite a long \ntime. But if this repays the favor even a little…!"
     },
     {
-      "name": "Kitasan Black",
-      "text": "Trainer-san, thank you very much for the special training! And \nalso… have you figured out what my strong points are with this?",
       "choice_data_list": [
         "Yeah, it's clear now",
         "Yeah, it's clear now"
-      ]
+      ],
+      "name": "Kitasan Black",
+      "text": "Trainer-san, thank you very much for the special training! And \nalso… have you figured out what my strong points are with this?"
     },
     {
       "text": "Through this harsh trial, Kitasan Black's \nstrong point has become clear."
     },
     {
-      "text": "Able to carry a heavy object up a snowy mountain with a \"Strong \nBody\", and quick recovery \"Resilience\". Never giving up, \n\"Willpower\". In other words-",
       "choice_data_list": [
         "Exceptional \"Toughness\" is your strong point!",
         "Exceptional \"Toughness\" is your strong point!"
-      ]
+      ],
+      "text": "Able to carry a heavy object up a snowy mountain with a \"Strong \nBody\", and quick recovery \"Resilience\". Never giving up, \n\"Willpower\". In other words-"
     },
     {
       "name": "Kitasan Black",
@@ -126,23 +126,23 @@
       "text": "Without a doubt. Completing something as reckless as this, \nthere aren't any other Uma Musume with that level of toughness."
     },
     {
-      "name": "Kitasan Black",
-      "text": "I see～. But, is toughness something you can really \nuse in a race? It doesn't really seem like it \nhas any effect on speed, does it…?",
       "choice_data_list": [
         "It's more important for \"Before\" a race"
-      ]
+      ],
+      "name": "Kitasan Black",
+      "text": "I see～. But, is toughness something you can really \nuse in a race? It doesn't really seem like it \nhas any effect on speed, does it…?"
     },
     {
       "name": "Mejiro McQueen",
       "text": "Before a race? So something to do with preparations before a \nrace… Ah! I see, you mean something like this?"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "By having Kita-san do some absurd training, \nyou plan to make use of this ability? Just like Bourbon-san…?",
       "choice_data_list": [
         "That's right! We'll make use of that trait",
         "That's right! We'll make use of that trait"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "By having Kita-san do some absurd training, \nyou plan to make use of this ability? Just like Bourbon-san…?"
     },
     {
       "name": "Kitasan Black",

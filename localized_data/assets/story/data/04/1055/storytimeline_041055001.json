@@ -28,22 +28,22 @@
       "text": "Suddenly, in the middle of the course \nshe collapsed and layed sprawled out!"
     },
     {
-      "name": "???",
-      "text": "Zeh……Aha ……Hahaa ……zeh, Haa…… Ahahaha, haa.",
       "choice_data_list": [
         "A-are you okay!?"
-      ]
+      ],
+      "name": "???",
+      "text": "Zeh……Aha ……Hahaa ……zeh, Haa…… Ahahaha, haa."
     },
     {
       "name": "???",
       "text": "Haa…… Ahaha…… Yeah☆ \nI'm just Marvelous★ Ahahaa☆"
     },
     {
-      "text": "I was worried she had overexerted herself, but this Uma Musume was \nstill laughing while out of breath. ……It was a little unnerving.",
       "choice_data_list": [
         "(What about this was marvelous……?)",
         "(What about this was marvelous……?)"
-      ]
+      ],
+      "text": "I was worried she had overexerted herself, but this Uma Musume was \nstill laughing while out of breath. ……It was a little unnerving."
     },
     {
       "name": "Nice Nature",
@@ -58,11 +58,11 @@
       "text": "But you see, Nature, today…… it felt like \n――Haa ……it'd be especially Marvelous!"
     },
     {
-      "name": "Nice Nature",
-      "text": "Yeah, yeah. I figured you'd say that but, if you keep \ncollapsing like that, it'll make everyone else worry!",
       "choice_data_list": [
         "Um…… is she okay?"
-      ]
+      ],
+      "name": "Nice Nature",
+      "text": "Yeah, yeah. I figured you'd say that but, if you keep \ncollapsing like that, it'll make everyone else worry!"
     },
     {
       "name": "Nice Nature",
@@ -116,11 +116,11 @@
       "text": "Ahahahahaa, my arms feel like putty! My legs are shaking! \nI can't move~, Ma-rvelous☆★☆"
     },
     {
-      "name": "Marvelous Sunday",
-      "text": "Muscle soreness is Marvelous☆ Tomorrow will be more~ Marvelous★ \nOw ow ow oww, Ahahahahaa☆",
       "choice_data_list": [
         "(……So, what exactly is marvelous!?)"
-      ]
+      ],
+      "name": "Marvelous Sunday",
+      "text": "Muscle soreness is Marvelous☆ Tomorrow will be more~ Marvelous★ \nOw ow ow oww, Ahahahahaa☆"
     },
     {
       "text": "The word 『Marvelous』 repeatedly came out of Marvelous Sunday's mouth. \nAfter hearing it so many times, I was starting to have my doubts."
@@ -151,11 +151,11 @@
       "text": "Then…… what? Maybe now I'll finally figure out what she means by \nmarvelous. That's what I thought while lisenting closely, but――"
     },
     {
-      "name": "Mayano Top Gun",
-      "text": "Ahh, Maya's got it! You're right, I guess if you think \nabout that then the rain might just be marvelous♪",
       "choice_data_list": [
         "！？"
-      ]
+      ],
+      "name": "Mayano Top Gun",
+      "text": "Ahh, Maya's got it! You're right, I guess if you think \nabout that then the rain might just be marvelous♪"
     },
     {
       "name": "Marvelous Sunday",

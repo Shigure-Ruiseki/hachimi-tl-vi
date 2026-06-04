@@ -14,23 +14,23 @@
       "text": "As such――"
     },
     {
-      "name": "Gentildonna",
-      "text": "Can't you at least handle a light warm up? \nYour pace is dropping.",
       "choice_data_list": [
         "Fununununu……!"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Can't you at least handle a light warm up? \nYour pace is dropping."
     },
     {
       "name": "Gentildonna",
       "text": "Didn't you put this together? \nOn your own, this menu."
     },
     {
-      "name": "Gentildonna",
-      "text": "『Quite the commendable spirit』",
       "choice_data_list": [
         "『I swear it on my trainer badge!』",
         "『I swear it on my trainer badge!』"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "『Quite the commendable spirit』"
     },
     {
       "name": "Gentildonna",
@@ -41,29 +41,29 @@
       "text": "Or is this just an appeal to show how 『Serious』 you are?"
     },
     {
-      "text": "At those words, I shook my head, still moving \nmy muscles desperately. Wrong, that was――",
       "choice_data_list": [
         "……not an appeal, my resolve!",
         "……not an appeal, my resolve!"
-      ]
+      ],
+      "text": "At those words, I shook my head, still moving \nmy muscles desperately. Wrong, that was――"
     },
     {
-      "text": "This was a training menu I put together for myself as if I was \nthe trainee Uma Musume. ……Of course, adjusted to human specs.",
       "choice_data_list": [
         "This is so I can stand beside you!",
         "This is so I can stand beside you!"
-      ]
+      ],
+      "text": "This was a training menu I put together for myself as if I was \nthe trainee Uma Musume. ……Of course, adjusted to human specs."
     },
     {
       "name": "Gentildonna",
       "text": "Heh……I see."
     },
     {
-      "name": "Gentildonna",
-      "text": "If that's the case, it's not enough, you know.",
       "choice_data_list": [
         "……Eh, it's not enough!?"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "If that's the case, it's not enough, you know."
     },
     {
       "name": "Gentildonna",
@@ -106,11 +106,11 @@
       "text": "Ready, go!"
     },
     {
-      "name": "Gentildonna",
-      "text": "1！　2！　3！　4！　5！\n5！　5！　5！　5！　5！",
       "choice_data_list": [
         "Kuu……!!"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "1！　2！　3！　4！　5！\n5！　5！　5！　5！　5！"
     },
     {
       "name": "Gentildonna",
@@ -121,48 +121,48 @@
       "text": "Okay, 5! 6! 7! 8! 8! 8! 9! \n……10!"
     },
     {
-      "name": "Gentildonna",
-      "text": "Good enough. \nWell then――One more set.",
       "choice_data_list": [
         "Y-yesh～……!"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Good enough. \nWell then――One more set."
     },
     {
       "name": "Gentildonna",
       "text": "Okay, a 3 minute break."
     },
     {
-      "text": "The moment she said 『Break』, I collapsed on the floor. \nI tried to rehydrate, and I could barely breathe.",
       "choice_data_list": [
         "(I-it's way harder than I thought……!)"
-      ]
+      ],
+      "text": "The moment she said 『Break』, I collapsed on the floor. \nI tried to rehydrate, and I could barely breathe."
     },
     {
       "text": "(Beep beep beep beep!)"
     },
     {
-      "text": "Three minutes was over in the blink of an eye. My breathing \nwas still heavy, and my entire body was screaming to stop――but.",
       "choice_data_list": [
         "……Let's keep going!"
-      ]
+      ],
+      "text": "Three minutes was over in the blink of an eye. My breathing \nwas still heavy, and my entire body was screaming to stop――but."
     },
     {
-      "name": "Gentildonna",
-      "text": "Ara, you can still stand?",
       "choice_data_list": [
         "Not yet! I can keep going……!"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Ara, you can still stand?"
     },
     {
       "name": "Gentildonna",
       "text": "……Heh. \n…………Fufuu."
     },
     {
-      "name": "Gentildonna",
-      "text": "Well, well, color me surprised. \n……To think you've still got plenty of 『Leeway』.",
       "choice_data_list": [
         "Eh……? No I didn't say――"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Well, well, color me surprised. \n……To think you've still got plenty of 『Leeway』."
     },
     {
       "name": "Gentildonna",
@@ -176,11 +176,11 @@
       "text": "――I don't recall much after that."
     },
     {
-      "name": "Gentildonna",
-      "text": "Stop stumbling about, it's unsightly. \nYou're like a newborn deer. I fear for the future.",
       "choice_data_list": [
         "Pl-please, for just today……"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Stop stumbling about, it's unsightly. \nYou're like a newborn deer. I fear for the future."
     },
     {
       "text": "Before I realized it, it was over and we were walking around \noutside. But, now I just needed to make it back to the academy――"
@@ -202,18 +202,18 @@
       "text": "On top of that, 『Super Heavy class』 but still this \ncompact. Seems useful for carrying around too."
     },
     {
-      "text": "……there were many things I wanted to tsukkomi about. \nThere were, but more than that――",
       "choice_data_list": [
         "Y-you're going to carry that around……?",
         "Y-you're going to carry that around……?"
-      ]
+      ],
+      "text": "……there were many things I wanted to tsukkomi about. \nThere were, but more than that――"
     },
     {
-      "name": "Gentildonna",
-      "text": "Yes. \nLike a walking dumbbell",
       "choice_data_list": [
         "Isn't it too heavy!?"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Yes. \nLike a walking dumbbell"
     },
     {
       "name": "Gentildonna",
@@ -236,11 +236,11 @@
       "text": "……Ara? \nThis leather case, I wonder if it's a new color."
     },
     {
-      "name": "Gentildonna",
-      "text": "Hmmm……Hey. Could you take out this item? \nYes. That brand new one.",
       "choice_data_list": [
         "(She looks like she's having fun……)"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "Hmmm……Hey. Could you take out this item? \nYes. That brand new one."
     },
     {
       "text": "It was a shocking difference from her previously \nSpartan attitude……though, it made sense, I guess."
@@ -249,10 +249,10 @@
       "text": "If you carried around your own muscle training goods, \nit might make it more fun to work out."
     },
     {
-      "text": "Thinking that, I tried reaching my hand out to the \n『Super Heavy Class Iron Weight』 that had caught her eye but……",
       "choice_data_list": [
         "(It's freaking heaaaaaaavy……!)"
-      ]
+      ],
+      "text": "Thinking that, I tried reaching my hand out to the \n『Super Heavy Class Iron Weight』 that had caught her eye but……"
     },
     {
       "text": "Heavy, it was too heavy……! It wasn't realistic \nat all for me to carry around something like this."
@@ -262,11 +262,11 @@
       "text": "Ara……Ho ho ho."
     },
     {
-      "name": "Gentildonna",
-      "text": "It's way too early for you to use that, rookie-san.",
       "choice_data_list": [
         "Right……I'd need something lighter"
-      ]
+      ],
+      "name": "Gentildonna",
+      "text": "It's way too early for you to use that, rookie-san."
     },
     {
       "text": "But someday I'll be able to take it. \nWhile vowing that, I purchased my own, lighter one."

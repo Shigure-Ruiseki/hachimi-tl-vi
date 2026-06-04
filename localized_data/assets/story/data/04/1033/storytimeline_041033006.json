@@ -30,20 +30,20 @@
       "text": "We look forward to seeing you again. \nThe next projection will begin at…"
     },
     {
-      "text": "The planetarium. I knew she loved the stars, so I came here \nto learn more so that we would have something to talk about.",
       "choice_data_list": [
         "That was so beautiful…"
-      ]
+      ],
+      "text": "The planetarium. I knew she loved the stars, so I came here \nto learn more so that we would have something to talk about."
     },
     {
       "text": "I enjoyed it more than I thought I would. I figured this was a \ngood time to learn more about the stars. So I went to the gift \nshop, looking for some picture books to help my study, when…"
     },
     {
-      "name": "Admire Vega",
-      "text": "Ah…",
       "choice_data_list": [
         "So you came too, Ayabe?"
-      ]
+      ],
+      "name": "Admire Vega",
+      "text": "Ah…"
     },
     {
       "name": "Admire Vega",
@@ -54,34 +54,34 @@
       "text": "Did you come to look at the stars?"
     },
     {
-      "text": "Admire Vega asked me a question. \nIt's rare to see her try to have a conversation.",
       "choice_data_list": [
         "I thought I'd learn more about the stars."
-      ]
+      ],
+      "text": "Admire Vega asked me a question. \nIt's rare to see her try to have a conversation."
     },
     {
       "name": "Admire Vega",
       "text": "Why…? Are you interested in the stars?"
     },
     {
-      "text": "As expected, the conversation is still going! I can't \nwaste this chance. I need to come up with something witty…",
       "choice_data_list": [
         "It's because I love you!"
-      ]
+      ],
+      "text": "As expected, the conversation is still going! I can't \nwaste this chance. I need to come up with something witty…"
     },
     {
-      "name": "Admire Vega",
-      "text": "…What?",
       "choice_data_list": [
         "Eh?"
-      ]
+      ],
+      "name": "Admire Vega",
+      "text": "…What?"
     },
     {
-      "name": "Admire Vega",
-      "text": "Wh-What are you… saying…?",
       "choice_data_list": [
         "Ah, no I meant… \nYou know, stars! The stars!"
-      ]
+      ],
+      "name": "Admire Vega",
+      "text": "Wh-What are you… saying…?"
     },
     {
       "text": "In my haste, I ended up saying something weird. I hurriedly \ncorrected myself, stating that \"it's because you love the stars.\""
@@ -115,11 +115,11 @@
       "text": "Died in my place."
     },
     {
-      "name": "Admire Vega",
-      "text": "So just stop…",
       "choice_data_list": [
         "I simply and selfishly \nwant to get closer to you."
-      ]
+      ],
+      "name": "Admire Vega",
+      "text": "So just stop…"
     },
     {
       "name": "Admire Vega",
@@ -130,11 +130,11 @@
       "text": "No matter what I say, you \ncontinue to reply with the same thing."
     },
     {
-      "name": "Admire Vega",
-      "text": "I'm going home…",
       "choice_data_list": [
         "Ah, but I figured we could…"
-      ]
+      ],
+      "name": "Admire Vega",
+      "text": "I'm going home…"
     },
     {
       "name": "Admire Vega",

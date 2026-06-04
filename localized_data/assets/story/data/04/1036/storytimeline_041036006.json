@@ -25,22 +25,22 @@
       "text": "Y'know, you sure shrug things off easy. It's like you forgot what \nhappened with the net cafe…"
     },
     {
-      "name": "Air Shakur",
-      "text": "Don't you try and start a conversation while we're in there.",
       "choice_data_list": [
         "Okay, I get it."
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "Don't you try and start a conversation while we're in there."
     },
     {
       "name": "Air Shakur",
       "text": "…Whole lotta problems when it comes to small-time artists, huh. \nIf they were with a label I could just click buy and be done with it."
     },
     {
-      "text": "It seemed she was planning to buy a CD from a fairly unknown \nartist.",
       "choice_data_list": [
         "So you're into music.",
         "So you're into music."
-      ]
+      ],
+      "text": "It seemed she was planning to buy a CD from a fairly unknown \nartist."
     },
     {
       "name": "Air Shakur",
@@ -55,10 +55,10 @@
       "text": "——Take a listen, everyone. \nHere's my new song—— \"rust\"."
     },
     {
-      "text": "Shakur stopped suddenly to watch the young musician spinning \nmusic on her turntable.",
       "choice_data_list": [
         "You recognize her?"
-      ]
+      ],
+      "text": "Shakur stopped suddenly to watch the young musician spinning \nmusic on her turntable."
     },
     {
       "name": "Air Shakur",
@@ -72,11 +72,11 @@
       "text": "With that, Shakur slunk a bit further away from the DJ, taking in \nthe music."
     },
     {
-      "text": "With the melody set to an energetic rhythm, punctuated with \nlight vocal samples, it was the kind of pleasant music you \ncouldn't help but move along with.",
       "choice_data_list": [
         "…What a nice song.",
         "…What a nice song."
-      ]
+      ],
+      "text": "With the melody set to an energetic rhythm, punctuated with \nlight vocal samples, it was the kind of pleasant music you \ncouldn't help but move along with."
     },
     {
       "name": "Air Shakur",
@@ -106,17 +106,17 @@
       "text": "I'm still new and all, but I'm going to be DJing at this event. \nPlease come and enjoy, if you're interested!"
     },
     {
-      "name": "Air Shakur",
-      "text": "…Thanks. \nOh, it's this weekend —— …!",
       "choice_data_list": [
         "?"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "…Thanks. \nOh, it's this weekend —— …!"
     },
     {
-      "text": "I took a look at the flyer. The DJ's introductory blurb described \nher as \"Inspired by the faceless DJ <i>!monad</i> \" —",
       "choice_data_list": [
         "(Wait, 『!monad』 was…)"
-      ]
+      ],
+      "text": "I took a look at the flyer. The DJ's introductory blurb described \nher as \"Inspired by the faceless DJ <i>!monad</i> \" —"
     },
     {
       "name": "Air Shakur",
@@ -127,12 +127,12 @@
       "text": "Uh… Sorry, is there something wrong?"
     },
     {
-      "name": "Air Shakur",
-      "text": "Nah, you're good. Good luck this weekend.",
       "choice_data_list": [
         "So there's a DJ you admire, eh?",
         "So there's a DJ you admire, eh?"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "Nah, you're good. Good luck this weekend."
     },
     {
       "name": "Air Shakur",
@@ -191,11 +191,11 @@
       "text": "……… \n…Oh, really."
     },
     {
-      "name": "Air Shakur",
-      "text": "…Ah? \nWhat's with that shit-eating grin…!",
       "choice_data_list": [
         "Uh, nothing!"
-      ]
+      ],
+      "name": "Air Shakur",
+      "text": "…Ah? \nWhat's with that shit-eating grin…!"
     },
     {
       "text": "A few days later…"

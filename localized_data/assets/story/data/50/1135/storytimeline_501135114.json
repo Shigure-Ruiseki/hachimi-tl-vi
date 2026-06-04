@@ -5,53 +5,53 @@
       "text": "Shortly after we set the Classics as \nStay Gold's goal ——"
     },
     {
-      "text": "In order to find Stay Gold's breakthrough \nmethod, I have been conducting research.",
       "choice_data_list": [
         "(……Alright, that just about sums it up)"
-      ]
+      ],
+      "text": "In order to find Stay Gold's breakthrough \nmethod, I have been conducting research."
     },
     {
       "text": "I think Stay Gold should take a look at the \nresources I've gathered. Now, based on \ntoday's vibe, I think she's at ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>——Fuu.</i> That's a good looking blue…",
       "choice_data_list": [
         "Nice, there you were"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>——Fuu.</i> That's a good looking blue…"
     },
     {
       "name": "Stay Gold",
       "text": "<i>Ohh～</i> It's Trainer. Did you also come to \nlook at the sky?"
     },
     {
-      "text": "I was able to find her rather quickly today. \nDespite my slow improvement, I find it \nbecomes a lot easier if I make locating \nher my objective.",
       "choice_data_list": [
         "I want to chat about the breakthrough"
-      ]
+      ],
+      "text": "I was able to find her rather quickly today. \nDespite my slow improvement, I find it \nbecomes a lot easier if I make locating \nher my objective."
     },
     {
       "name": "Stay Gold",
       "text": "Oh? …I guess I'll have to hear you out then."
     },
     {
-      "name": "Stay Gold",
-      "text": "So, were you able to grasp something?",
       "choice_data_list": [
         "I tried putting it into a tangible form",
         "I tried putting it into a tangible form"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "So, were you able to grasp something?"
     },
     {
       "name": "Stay Gold",
       "text": "Tangible…… Now that you mention it, \nwe've only been talking about this \n\"strength\" we need to attain quite \nvaguely."
     },
     {
-      "text": "…To explain this to Stay Gold, I think we \nshould both first be on the same page \nregarding the current races.",
       "choice_data_list": [
         "How do you see the current racing trends?",
         "How do you see the current racing trends?"
-      ]
+      ],
+      "text": "…To explain this to Stay Gold, I think we \nshould both first be on the same page \nregarding the current races."
     },
     {
       "name": "Stay Gold",
@@ -67,10 +67,10 @@
       "text": "Despite racing the same distance, the \nclock of the past ticked sluggishly \ncompared to the battles of speed \ncurrent races have become."
     },
     {
-      "text": "And at the forefront of this need for speed \nis a trainee called Fuji Kiseki.",
       "color_text_info_list": [
         "Fuji Kiseki"
-      ]
+      ],
+      "text": "And at the forefront of this need for speed \nis a trainee called Fuji Kiseki."
     },
     {
       "text": "From her flexibility comes an instantaneous \nforce, which ensures smooth acceleration. \nThen in the final spurt, she unleashes an \nexplosive power conserved within her feet —"
@@ -79,14 +79,14 @@
       "text": "Her running had the potential to reform \nthe races that were previously a battle \nfor endurance into an endgame battle \nfor speed ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "——Fuji's running style, I'm not sure how \nto put it, but I can feel a certain affinity \ntowards it.",
       "choice_data_list": [
         "…! Is she in your memories perhaps?"
       ],
       "color_text_info_list": [
         "Fuji's"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "——Fuji's running style, I'm not sure how \nto put it, but I can feel a certain affinity \ntowards it."
     },
     {
       "name": "Stay Gold",
@@ -97,12 +97,12 @@
       "text": "It's more like… the shape of our souls \nare similar, is that better or ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "Well, it's not really a feeling I understand \nmuch myself either.",
       "choice_data_list": [
         "S-So it's like that too sometimes……",
         "S-So it's like that too sometimes……"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Well, it's not really a feeling I understand \nmuch myself either."
     },
     {
       "text": "Given Stay Gold's feeling of affinity to Fuji \nKiseki, I feel much more confident in \nsaying what I'm about to say."
@@ -124,11 +124,11 @@
       "text": "Hmm, so my running is similar to \nFuji's, you say."
     },
     {
-      "name": "Stay Gold",
-      "text": "…………interesting.",
       "choice_data_list": [
         "Based on that, we know what to work on"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "…………interesting."
     },
     {
       "text": "From when high speed racing was established \ntill now, the main component to win your next \nrace was to precisely \"maintain a buildup \nof speed\"."
@@ -143,31 +143,31 @@
       "text": "That precisely is, a power to surpass one's \npast, the greatness that Stay Gold should \nseize…!"
     },
     {
-      "name": "Stay Gold",
-      "text": "\"Fast and Tenacious Legs\"…In order \nto fully reach my top potential speed, \nyou're saying that I'll need stamina \nand strength in both mind and body.",
       "choice_data_list": [
         "Speed is not the only important factor"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "\"Fast and Tenacious Legs\"…In order \nto fully reach my top potential speed, \nyou're saying that I'll need stamina \nand strength in both mind and body."
     },
     {
       "text": "Being excessively speedy means that you \ncould injure yourself. So if \"speed\" is a \ndouble-edged sword, then \"tenacity\" \nbecomes the sheath to prevent injury."
     },
     {
-      "name": "Stay Gold",
-      "text": "So it can become the support for me to \ndemonstrate my top speed… I see.",
       "choice_data_list": [
         "So I'd like to adjust our training compass"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "So it can become the support for me to \ndemonstrate my top speed… I see."
     },
     {
       "text": "To obtain \"tenacity\", my current idea was \nthat we should emphasise training on \nstamina and pace control."
     },
     {
-      "name": "Stay Gold",
-      "text": "I have no objections. It's what we need \nfor our journey. I'll train as much as \nyou need me to.",
       "choice_data_list": [
         "Thank you…! I'll adjust as soon as I can!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "I have no objections. It's what we need \nfor our journey. I'll train as much as \nyou need me to."
     },
     {
       "name": "Stay Gold",
@@ -178,24 +178,24 @@
       "text": "Hey, Trainer. To train for this tenacity, I \nthink I know just the person to ask ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "Let's go meet them.",
       "choice_data_list": [
         "Eh"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Let's go meet them."
     },
     {
-      "text": "The next day, without a clue as to who \nwe were going to visit, Stay Gold \nbrought me to a certain estate ——",
       "choice_data_list": [
         "Stego, don't tell me this is…"
-      ]
+      ],
+      "text": "The next day, without a clue as to who \nwe were going to visit, Stay Gold \nbrought me to a certain estate ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "Yeah, it's one of the Mejiro family's villas.",
       "choice_data_list": [
         "What so suddenly…!?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Yeah, it's one of the Mejiro family's villas."
     },
     {
       "name": "Stay Gold",
@@ -206,11 +206,11 @@
       "text": "Good grief. Why must you always be showing \nyourself so suddenly like this?"
     },
     {
-      "name": "Stay Gold",
-      "text": "Yo McQueen. Here, it's some melon \ncandy that I thought was <i>real</i> good.",
       "color_text_info_list": [
         "McQueen"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Yo McQueen. Here, it's some melon \ncandy that I thought was <i>real</i> good."
     },
     {
       "name": "Mejiro McQueen",
@@ -224,17 +224,17 @@
       "text": "I was surprised at the sudden appearance \nof a big name. Don't tell me the one Stay \nGold was referring to all this time was \nactually…"
     },
     {
-      "text": "——Meijiro McQueen. Boasting the \nprestigious name of the Mejiro Family, \nshe is a first-class Stayer.",
       "color_text_info_list": [
         "Meijiro McQueen"
-      ]
+      ],
+      "text": "——Meijiro McQueen. Boasting the \nprestigious name of the Mejiro Family, \nshe is a first-class Stayer."
     },
     {
-      "text": "Not only was she the first in history to win \nsuccessive victories in the longest G1 race, \nthe Spring Tenno Sho, she is a <i>star</i> who \nhas acquired plenty of achievements.",
       "color_text_info_list": [
         "G 1",
         "Spring Tenno Sho"
-      ]
+      ],
+      "text": "Not only was she the first in history to win \nsuccessive victories in the longest G1 race, \nthe Spring Tenno Sho, she is a <i>star</i> who \nhas acquired plenty of achievements."
     },
     {
       "text": "Due to her overwhelming strength in \nlong distance races, she is renowned \nto be the strongest stayer in history."
@@ -264,11 +264,11 @@
       "text": "…For what reason do you show yourself \nthis time?"
     },
     {
-      "name": "Stay Gold",
-      "text": "I want to run in the Classics. Lend me \nyour power, McQueen.",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "I want to run in the Classics. Lend me \nyour power, McQueen."
     },
     {
       "name": "Mejiro McQueen",
@@ -294,10 +294,10 @@
       "text": "The position Meijiro McQueen speaks of \nis most likely of that as a member of the \nMeijro Family."
     },
     {
-      "text": "Of Stay Gold's generation, there are two \nMejiro family trainees, Meijiro Bright and \nMeijiro Dober.",
       "color_text_info_list": [
         "Meijiro Dober"
-      ]
+      ],
+      "text": "Of Stay Gold's generation, there are two \nMejiro family trainees, Meijiro Bright and \nMeijiro Dober."
     },
     {
       "text": "Let's say Meijiro McQueen decides to \nlend her power to an outsider, then it's \nobvious she would still have to prioritise \nthose two ——"
@@ -331,18 +331,18 @@
       "text": "……Oh you, you are truly as honest \nas a child can be sometimes."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "…Bright and Dober are bright children I \nam proud of, and I know their strong wills \ncan lead them down their own paths.",
       "color_text_info_list": [
         "Dober"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "…Bright and Dober are bright children I \nam proud of, and I know their strong wills \ncan lead them down their own paths."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Furthermore, as Ryan says, there exists a \nsense of reassurance in the two of them… \nNo matter what challenge they face, they \ncan definitely overcome it.",
       "color_text_info_list": [
         "Ryan"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Furthermore, as Ryan says, there exists a \nsense of reassurance in the two of them… \nNo matter what challenge they face, they \ncan definitely overcome it."
     },
     {
       "name": "Mejiro McQueen",
@@ -447,18 +447,18 @@
       "text": "As per Miss McQueen's request, please \naccept the delivery of her training \nrecords."
     },
     {
-      "name": "Meijiro Family Trainer",
-      "text": "If you were to have any questions, please \nask so at any moment.",
       "choice_data_list": [
         "Thank you very much! That was rather fast!"
-      ]
+      ],
+      "name": "Meijiro Family Trainer",
+      "text": "If you were to have any questions, please \nask so at any moment."
     },
     {
-      "text": "By Meijiro McQueen's good graces, I was \nalso able to share the Mejiro house's \nresources.",
       "choice_data_list": [
         "$(scale 95)(I must make use of all this for our journey!)",
         "$(scale 95)(I must make use of all this for our journey!)"
-      ]
+      ],
+      "text": "By Meijiro McQueen's good graces, I was \nalso able to share the Mejiro house's \nresources."
     },
     {
       "text": "Heading towards a yet unbloomed spring, \nStay Gold and I continued our endeavours \nto gain the strength we need to continue \nour journey…!"

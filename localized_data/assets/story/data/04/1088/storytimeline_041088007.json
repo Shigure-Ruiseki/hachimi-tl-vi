@@ -9,11 +9,11 @@
       "text": "Do you have a moment? For the question I'm about \nto ask, can you give me an honest answer please?"
     },
     {
-      "name": "Satono Crown",
-      "text": "……Trainer. \nDo you……have any interest in what's beyond the ocean?",
       "choice_data_list": [
         "Beyond the ocean……?"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "……Trainer. \nDo you……have any interest in what's beyond the ocean?"
     },
     {
       "name": "Satono Crown",
@@ -24,11 +24,11 @@
       "text": "(In addition to that, they already know that I'm \ngoing to Hong Kong because of our shopping trip)"
     },
     {
-      "name": "Satono Crown",
-      "text": "(Good! It's perfect, if I do say so myself! With this, it should \nproperly convey that I want to go to Hong Kong together……!)",
       "choice_data_list": [
         "Hmmmmm……"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "(Good! It's perfect, if I do say so myself! With this, it should \nproperly convey that I want to go to Hong Kong together……!)"
     },
     {
       "text": "If she was going out of her way to ask me after training \nwas over, then she must want to keep this private."
@@ -37,11 +37,11 @@
       "text": "Beyond the ocean……so she's asking about traveling \nabroad……? In that case, I didn't have any plans \nto go abroad anytime soon. So my answer is――"
     },
     {
-      "name": "Satono Crown",
-      "text": "(Alright, Trainer! Let's go together――to Hong Kong!)",
       "choice_data_list": [
         "I don't plan on going"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "(Alright, Trainer! Let's go together――to Hong Kong!)"
     },
     {
       "name": "Satono Crown",
@@ -52,11 +52,11 @@
       "text": "(No……I can't force the issue, definitely……)"
     },
     {
-      "name": "Satono Crown",
-      "text": "…………I see. \nI guess it can't be helped. ……Thank you.",
       "choice_data_list": [
         "……?"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "…………I see. \nI guess it can't be helped. ……Thank you."
     },
     {
       "text": "It was a bit unusual, but she seemed to be worried \nabout something. I wonder if something happened…… \nI suppose I'll keep an eye on her for a while."
@@ -69,39 +69,39 @@
       "text": "……Kura-chan is it? Ummm……huh? \nWe just came out of the common room though?"
     },
     {
-      "text": "If she's not in the common room……then maybe she went outside? \nDid she not tell anyone where she was going?――",
       "choice_data_list": [
         "(The beach……?)"
-      ]
+      ],
+      "text": "If she's not in the common room……then maybe she went outside? \nDid she not tell anyone where she was going?――"
     },
     {
-      "text": "Now that I think about it, when we were talking about \ntraveling abroad, she seemed to have something on her mind……",
       "choice_data_list": [
         "(Is it possible……?)"
-      ]
+      ],
+      "text": "Now that I think about it, when we were talking about \ntraveling abroad, she seemed to have something on her mind……"
     },
     {
       "text": "Maybe she made her way back to the beach from this afternoon. \nIt was nighttime but I still made my way there. Then――"
     },
     {
-      "name": "Satono Crown",
-      "text": "……Trainer.",
       "choice_data_list": [
         "I was looking for you",
         "I was looking for you"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "……Trainer."
     },
     {
       "name": "Satono Crown",
       "text": "Sorry. I just wanted to enjoy the evening breeze……"
     },
     {
-      "name": "Satono Crown",
-      "text": "(As I thought. Trainer always seems to \nbe able to find me no matter where I go……)",
       "choice_data_list": [
         "Is there something worrying you?",
         "Is there something worrying you?"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "(As I thought. Trainer always seems to \nbe able to find me no matter where I go……)"
     },
     {
       "name": "Satono Crown",
@@ -164,22 +164,22 @@
       "text": "Don't worry! Even if I'm on my own, \nI'll show you that I can still grow in Hong Kong!"
     },
     {
-      "name": "Satono Crown",
-      "text": "That's why, while Trainer's staying here…… \nyou can think of the best training menu for the future me♪",
       "choice_data_list": [
         "If possible, I want to go too"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "That's why, while Trainer's staying here…… \nyou can think of the best training menu for the future me♪"
     },
     {
       "name": "Satono Crown",
       "text": "Eh……?"
     },
     {
-      "name": "Satono Crown",
-      "text": "But……you said you didn't plan to…………",
       "choice_data_list": [
         "Did I say that?"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "But……you said you didn't plan to…………"
     },
     {
       "name": "Satono Crown",
@@ -190,11 +190,11 @@
       "text": "……Trainer. \nDo you……have any interest in what's beyond the ocean?"
     },
     {
-      "name": "Satono Crown",
-      "text": "Back then, you said 『I don't plan on going』……",
       "choice_data_list": [
         "Sorry, I thought you meant a vacation……"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "Back then, you said 『I don't plan on going』……"
     },
     {
       "name": "Satono Crown",
@@ -205,26 +205,26 @@
       "text": "Huh……but, I suppose……? It could be misunderstood \nthat way…… I guess……I didn't convey it properly……"
     },
     {
-      "text": "For my part, before, I spent so much time desperately trying to \nread her intentions that I never even asked about her feelings.",
       "choice_data_list": [
         "We both need to talk more, huh?",
         "We both need to talk more, huh?"
-      ]
+      ],
+      "text": "For my part, before, I spent so much time desperately trying to \nread her intentions that I never even asked about her feelings."
     },
     {
-      "name": "Satono Crown",
-      "text": "You're right. Trust isn't all about knowing without speaking \nto each other……Being able to say it out loud……is important too.",
       "choice_data_list": [
         "In that case, in regards to Hong Kong――"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "You're right. Trust isn't all about knowing without speaking \nto each other……Being able to say it out loud……is important too."
     },
     {
-      "name": "Satono Crown",
-      "text": "……?",
       "choice_data_list": [
         "I want to go as your trainer",
         "I want to go as your trainer"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "……?"
     },
     {
       "name": "Satono Crown",
@@ -235,11 +235,11 @@
       "text": "Right. Let's go together――to Hong Kong!"
     },
     {
-      "name": "Satono Crown",
-      "text": "……Then, I guess I'll have to adjust my plans, huh? \nI made adjustments assuming you wouldn't come.",
       "choice_data_list": [
         "Ah, I don't have the notepad with me"
-      ]
+      ],
+      "name": "Satono Crown",
+      "text": "……Then, I guess I'll have to adjust my plans, huh? \nI made adjustments assuming you wouldn't come."
     },
     {
       "name": "Satono Crown",

@@ -36,11 +36,11 @@
       "text": "Is 3.3 seconds! It's 3.3 seconds! \nThey were left so far behind."
     },
     {
-      "name": "Furioso",
-      "text": "No way…… No……",
       "choice_data_list": [
         "Impossible……there's no way……"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "No way…… No……"
     },
     {
       "text": "I could only stare in disbelief…… \nAs a trainer from the local Funabashi Tracen Academy."
@@ -57,42 +57,42 @@
       "text": "Are you serious……? \nBut, well……it was a possibility……I guess."
     },
     {
-      "name": "Funabashi Trainer",
-      "text": "Aaah, I guess it can't be helped. They were from Central…… \nI guess we still held on pretty well……",
       "choice_data_list": [
         "——!?"
-      ]
+      ],
+      "name": "Funabashi Trainer",
+      "text": "Aaah, I guess it can't be helped. They were from Central…… \nI guess we still held on pretty well……"
     },
     {
       "name": "Furioso",
       "text": "It can't……be helped……? \nIt can't……?"
     },
     {
-      "name": "Furioso",
-      "text": "Are you saying that being humiliated \nlike this……is only natural!?",
       "choice_data_list": [
         "That's right! Aren't you frustrated!?",
         "That's right! Aren't you frustrated!?"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Are you saying that being humiliated \nlike this……is only natural!?"
     },
     {
       "name": "Funabashi Trainer",
       "text": "W-well yeah, I'm frustrated…… \nI'm frustrated but since Funabashi is weak, it can't be helped……"
     },
     {
-      "name": "Furioso",
-      "text": "You're wrong! Funabashi is——",
       "choice_data_list": [
         "We're not weak!!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "You're wrong! Funabashi is——"
     },
     {
-      "name": "Furioso",
-      "text": "……? You're……?",
       "choice_data_list": [
         "A Funabashi Trainer! We'll win next time!",
         "A Funabashi Trainer! We'll win next time!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "……? You're……?"
     },
     {
       "name": "Furioso",
@@ -114,31 +114,31 @@
       "text": "An outside race? I'll gladly be your opponent! \nHaaaaaaaaaaaaaaa!!"
     },
     {
-      "name": "Furioso",
-      "text": "Haa, haa……Trainer……our hometown club has some \ngood girls in it too, huh? I'll ask them if \nthey have any interest in Funabashi Tracen.",
       "choice_data_list": [
         "I'll go with you!",
         "I'll go with you!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Haa, haa……Trainer……our hometown club has some \ngood girls in it too, huh? I'll ask them if \nthey have any interest in Funabashi Tracen."
     },
     {
-      "name": "Furioso",
-      "text": "Thank you for coming to the Funabashi Racecourse today. \nPlease take a look at the Funabashi Tracen Academy newsletter!",
       "choice_data_list": [
         "Thank you very much!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Thank you for coming to the Funabashi Racecourse today. \nPlease take a look at the Funabashi Tracen Academy newsletter!"
     },
     {
       "name": "Furioso",
       "text": "Trainer, this is something important, so I'll ask again. \nOf course I'm really happy, but……"
     },
     {
-      "name": "Furioso",
-      "text": "Are you okay with this? With me. \nWill you form a trainer contract with me and lend me your strength?",
       "choice_data_list": [
         "Yeah, I want to support you!",
         "Yeah, I want to support you!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "Are you okay with this? With me. \nWill you form a trainer contract with me and lend me your strength?"
     },
     {
       "text": "And so, with mutual trust, we formed a contract. \nAnd then——"
@@ -152,11 +152,11 @@
       "text": "Funabashi Tracen's Star of Hope. One of the girls hoping \nto become the next genration's Ace, Furioso-san!"
     },
     {
-      "name": "Furioso",
-      "text": "For inviting me here today, thank you very much. \nFor being able to take part in this commemoration \nfor the city we love, my Trainer and I are thankful.",
       "choice_data_list": [
         "Thank you very much!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "For inviting me here today, thank you very much. \nFor being able to take part in this commemoration \nfor the city we love, my Trainer and I are thankful."
     },
     {
       "text": "Furioso had been working incredibly hard, \nsteadily emerging as a rising talent from Funabashi Tracen."
@@ -185,11 +185,11 @@
       "text": "Furioso, I've wanted to have a serious conversation with you \nat least once. And I'm moved by the opportunity! As such——"
     },
     {
-      "name": "Director Akikawa",
-      "text": "Announcement! I would like to offer a transfer from Funabashi to \nCentral. Would you be willing to come to our Tracen Academy?",
       "choice_data_list": [
         "——!?"
-      ]
+      ],
+      "name": "Director Akikawa",
+      "text": "Announcement! I would like to offer a transfer from Funabashi to \nCentral. Would you be willing to come to our Tracen Academy?"
     },
     {
       "text": "The offer had come directly from Chairman Akikawa herself, \nwho had come all the way to Funabashi. However——"
@@ -218,11 +218,11 @@
       "text": "How about this? Staying in Funabashi \nbut attending Central Tracen Academy——"
     },
     {
-      "name": "Director Akikawa",
-      "text": "A special exchange! This is my suggestion. \nHow about it?",
       "choice_data_list": [
         "Special……Exchange……"
-      ]
+      ],
+      "name": "Director Akikawa",
+      "text": "A special exchange! This is my suggestion. \nHow about it?"
     },
     {
       "text": "I'd heard that such a system existed. Remaining a local racer while \nstudying at Central Tracen Academy, it was a dream-like offer……"
@@ -231,19 +231,19 @@
       "text": "If she were to accept, \nthis would be incredibly beneficial for Furioso, but……"
     },
     {
-      "name": "Furioso",
-      "text": "I refuse——!!",
       "choice_data_list": [
         "Wait! Let's take a look first!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "I refuse——!!"
     },
     {
-      "name": "Furioso",
-      "text": "……Trainer? After looking first?",
       "choice_data_list": [
         "Yeah, since we're here already",
         "Yeah, since we're here already"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "……Trainer? After looking first?"
     },
     {
       "text": "It would be better to think about it after taking a look at \nthe facilities here. That was my conclusion as a trainer."
@@ -253,11 +253,11 @@
       "text": "Central's facilities……True, I am curious…… \nThere's no way I wouldn't be……"
     },
     {
-      "name": "Furioso",
-      "text": "How are they able to get that strong……",
       "choice_data_list": [
         "Then, so we can learn it……!"
-      ]
+      ],
+      "name": "Furioso",
+      "text": "How are they able to get that strong……"
     },
     {
       "name": "Furioso",

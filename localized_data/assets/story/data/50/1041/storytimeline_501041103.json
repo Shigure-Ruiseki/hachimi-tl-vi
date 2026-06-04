@@ -21,12 +21,12 @@
       "text": "―ooh, if it isn't Trainer-san!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Be careful, I was almost about to show \nyou to your room by mistake!",
       "choice_data_list": [
         "You're all worked up.",
         "You're all worked up."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Be careful, I was almost about to show \nyou to your room by mistake!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -37,11 +37,11 @@
       "text": "When it comes to the camp, it's the \nclass president's time to shine! \nGuiding, supervision, patrolling, et cetera."
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Ahh, so busy, so busy! \nIt's hard work being an honors student!",
       "choice_data_list": [
         "…What about training?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Ahh, so busy, so busy! \nIt's hard work being an honors student!"
     },
     {
       "name": "Sakura Bakushin O",

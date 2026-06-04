@@ -2,22 +2,22 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Nakayama Festa",
-      "text": "Huff, huff, huff… That's exactly 20 dashes. \nAnything else on the menu?",
       "choice_data_list": [
         "Ah, good job. That was perfect.",
         "Ah, good job. That was perfect."
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Huff, huff, huff… That's exactly 20 dashes. \nAnything else on the menu?"
     },
     {
       "text": "Summer camp has started and everything's been going well \nsince day one. That's not a problem, but…"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Haha, you're real bad at bluffing, aren't you?",
       "choice_data_list": [
         "Eh…?"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Haha, you're real bad at bluffing, aren't you?"
     },
     {
       "name": "Nakayama Festa",
@@ -27,11 +27,11 @@
       "text": "Nakayama Festa led me deep into the forest."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "We're going the right way. We just gotta keep \nwalking straight through this forest.",
       "choice_data_list": [
         "Uh, can you tell me where we're going?"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "We're going the right way. We just gotta keep \nwalking straight through this forest."
     },
     {
       "name": "Nakayama Festa",
@@ -46,36 +46,36 @@
       "text": "Let's play a game against this forest."
     },
     {
-      "text": "A long abandoned forest. The ominously overgrown vegetation \nmakes it impossible to see what's ahead. It's clearly dangerous. \nI should try to stop her. And yet ——",
       "choice_data_list": [
         "…Let's go."
-      ]
+      ],
+      "text": "A long abandoned forest. The ominously overgrown vegetation \nmakes it impossible to see what's ahead. It's clearly dangerous. \nI should try to stop her. And yet ——"
     },
     {
       "name": "Nakayama Festa",
       "text": "Keheh… there's only half of suspension bridge left…!"
     },
     {
-      "text": "(<i>Snap!!</i>)",
       "choice_data_list": [
         "UWAH…!"
-      ]
+      ],
+      "text": "(<i>Snap!!</i>)"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Hahaha! Lucky you didn't fall through the deck, huh?",
       "choice_data_list": [
         "…Maybe luck is on my side.",
         "…Maybe luck is on my side."
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Hahaha! Lucky you didn't fall through the deck, huh?"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Tch, a dead end. Guess that means we'll \nneed to go back and around the cliff…",
       "choice_data_list": [
         "Couldn't we climb up here?",
         "Couldn't we climb up here?"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Tch, a dead end. Guess that means we'll \nneed to go back and around the cliff…"
     },
     {
       "name": "Nakayama Festa",
@@ -85,12 +85,12 @@
       "text": "As we continued walking, night fell. In the darkness not even \nthe moonlight could reach, the distant murmurs of wild animals \nechoed from every direction."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "Hey, look at this tree trunk. Are these bear claw marks? \nThey seem like the real deal.",
       "choice_data_list": [
         "Yeah, those look pretty fresh.",
         "Yeah, those look pretty fresh."
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "Hey, look at this tree trunk. Are these bear claw marks? \nThey seem like the real deal."
     },
     {
       "text": "…What am I saying? But even though it was true, I'm still \nputting myself in danger with her regardle——"
@@ -102,11 +102,11 @@
       "text": "In the distance I could hear a low rumbling and the \nsound of grass and trees scraping against each other. \nSomething was lowly approaching us."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "…Hah. We should probably get out of here. \nDon't want your luck to run out, right?",
       "choice_data_list": [
         "…Nakayama, let's head to the beach."
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "…Hah. We should probably get out of here. \nDon't want your luck to run out, right?"
     },
     {
       "name": "Nakayama Festa",
@@ -123,10 +123,10 @@
       "text": "I'm running in the dark. I can't see anything. \nIt's reckless, foolish, and high-risk gamble. \nAnd yet, that's exactly why ——"
     },
     {
-      "text": "We're running. We need to escape. The breaths of the beast are \nrough, its footsteps sound like earthquakes. I feel it looming. \nMy brain is on fire, death is close, I feel like I'm burning up ——",
       "choice_data_list": [
         "(…Ah. This is it. This is the feeling…!)"
-      ]
+      ],
+      "text": "We're running. We need to escape. The breaths of the beast are \nrough, its footsteps sound like earthquakes. I feel it looming. \nMy brain is on fire, death is close, I feel like I'm burning up ——"
     },
     {
       "name": "Nakayama Festa",
@@ -147,11 +147,11 @@
       "text": "Huff, huff, huff, huff… I-it's the sandy beach…"
     },
     {
-      "name": "Nakayama Festa",
-      "text": "<i>Huff… huff…</i> dammit… fat bastard…. chasing after me… \n<i>huff…</i> outta nowhere… I wasn't gonna let you win…",
       "choice_data_list": [
         "That was a hell of a gamble!"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "<i>Huff… huff…</i> dammit… fat bastard…. chasing after me… \n<i>huff…</i> outta nowhere… I wasn't gonna let you win…"
     },
     {
       "text": "(<i>Thud</i>)"
@@ -161,20 +161,20 @@
       "text": "Ahahahaha!! You're not wrong…!! Hahahaha…!"
     },
     {
-      "text": "Both of us fell down on the sand and cackled like \nidiots for a while. It was so funny my hands started \nshaking, and then it occurred to me ——",
       "choice_data_list": [
         "(It's that feeling. The same one I had \non my way home that day…)"
-      ]
+      ],
+      "text": "Both of us fell down on the sand and cackled like \nidiots for a while. It was so funny my hands started \nshaking, and then it occurred to me ——"
     },
     {
       "text": "When my expression reflected in the display window, \nI saw a smile overflowing with satisfaction and euphoria."
     },
     {
-      "text": "The unexplainable feeling that made my limbs tremble, \nboth then and now… it wasn't fear. I'm not scared ——",
       "choice_data_list": [
         "…I'm excited.",
         "…I'm excited."
-      ]
+      ],
+      "text": "The unexplainable feeling that made my limbs tremble, \nboth then and now… it wasn't fear. I'm not scared ——"
     },
     {
       "name": "Nakayama Festa",
@@ -195,12 +195,12 @@
       "text": "The most glorious rewards come from a battle in which \nyou put your life on the line. Exhilaration and gratification \nbegin flooding into me… and my body trembling in that \nsensation makes me feel alive."
     },
     {
-      "name": "Nakayama Festa",
-      "text": "…Keheh… You look tired. Got ahead of \nyourself and burnt out, have you?",
       "choice_data_list": [
         "Hey… what should we bet on next?",
         "Hey… what should we bet on next?"
-      ]
+      ],
+      "name": "Nakayama Festa",
+      "text": "…Keheh… You look tired. Got ahead of \nyourself and burnt out, have you?"
     },
     {
       "name": "Nakayama Festa",

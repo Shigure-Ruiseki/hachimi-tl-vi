@@ -2,11 +2,11 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Sakura Bakushin O",
-      "text": "Uuuu……it's here it's here it's hereee! \nI've got a headache!!",
       "choice_data_list": [
         "Are you alright?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Uuuu……it's here it's here it's hereee! \nI've got a headache!!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -21,12 +21,12 @@
       "text": "Sore muscles are a harbinger of growth…!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "In other words! I'm smart, and I'm about to \nget even smarter!",
       "choice_data_list": [
         "S, so that's how it works…?",
         "S, so that's how it works…?"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "In other words! I'm smart, and I'm about to \nget even smarter!"
     },
     {
       "name": "Sakura Bakushin O",

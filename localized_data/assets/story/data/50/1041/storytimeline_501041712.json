@@ -13,10 +13,10 @@
       "text": "Welcome, Trainer! \nWe have just finished the banners for the \npress conference!"
     },
     {
-      "text": "Surprised, I look down at her feet and saw \na banner that read…… \n\"Sakura Bakushin O, Apology Conference!\" \nspread out on the floor.",
       "choice_data_list": [
         "You don't have to go that far…"
-      ]
+      ],
+      "text": "Surprised, I look down at her feet and saw \na banner that read…… \n\"Sakura Bakushin O, Apology Conference!\" \nspread out on the floor."
     },
     {
       "name": "Sakura Bakushin O",
@@ -27,12 +27,12 @@
       "text": "Now, I will begin my apology conference! \nI am well and truly, deeply, honestly…… \nsorry!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "On the Bakushin road that goes straight \ndown… I forgot myself, I began to run… \nand before I knew it, it was night…!",
       "choice_data_list": [
         "Alright, just be careful next time.",
         "Okay, just be careful next time."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "On the Bakushin road that goes straight \ndown… I forgot myself, I began to run… \nand before I knew it, it was night…!"
     },
     {
       "name": "Sakura Bakushin O",

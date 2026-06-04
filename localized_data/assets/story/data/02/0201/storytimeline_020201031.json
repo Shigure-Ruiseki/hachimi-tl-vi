@@ -12,11 +12,11 @@
       "text": "……The truth is, we already knew about you before we enrolled here."
     },
     {
-      "name": "Cesario",
-      "text": "……that you were following in the footsteps of your \n『Famous』 father by becoming the trainer of Team <Ascella>.",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "……that you were following in the footsteps of your \n『Famous』 father by becoming the trainer of Team <Ascella>."
     },
     {
       "text": "(Honestly――I wasn't surprised that they knew. \nAfter all, it was quite the news story at the time.)"
@@ -67,12 +67,12 @@
       "text": "But……"
     },
     {
-      "name": "King Halo",
-      "text": "……it's finally the 『Japan Derby』 isn't it……?",
       "choice_data_list": [
         "Y-yeah……",
         "Y-yeah……"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "……it's finally the 『Japan Derby』 isn't it……?"
     },
     {
       "text": "(Not good……King looks really uneasy……I wanted to give her some \nadvice so she could be more confident and positive……but……!)"
@@ -106,11 +106,11 @@
       "text": "W-wait……what's wrong? \nDon't make a face like that right before……Hey――!"
     },
     {
-      "name": "Race Official",
-      "text": "――Excuse me. \nKing Halo-san, it's time. Please make your way to the paddock.",
       "choice_data_list": [
         "!!"
-      ]
+      ],
+      "name": "Race Official",
+      "text": "――Excuse me. \nKing Halo-san, it's time. Please make your way to the paddock."
     },
     {
       "name": "King Halo",
@@ -131,11 +131,11 @@
       "text": "(I need to win, I need to win, I need to win! \nI need to win, I…… ……!?)"
     },
     {
-      "name": "King Halo",
-      "text": "Aaaaaaaaah!!",
       "choice_data_list": [
         "King!? Out front……!?"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "Aaaaaaaaah!!"
     },
     {
       "name": "King Halo",
@@ -192,30 +192,30 @@
       "text": "……I suppose that just means the world has finally \nlost interest in the Unreliable Second Gen Duo……"
     },
     {
-      "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)",
       "choice_data_list": [
         "(……Even then――!)"
-      ]
+      ],
+      "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)"
     },
     {
-      "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)",
       "choice_data_list": [
         "(……Even then――!)"
-      ]
+      ],
+      "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)"
     },
     {
-      "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)",
       "choice_data_list": [
         "(Which means, there's still more to do!)",
         "(Which means, there's still more to do!)"
-      ]
+      ],
+      "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)"
     },
     {
-      "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)",
       "choice_data_list": [
         "(Which means, there's still more to do!)",
         "(Which means, there's still more to do!)"
-      ]
+      ],
+      "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)"
     },
     {
       "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? \nI want to utilize your best weapon, your speed."
@@ -254,10 +254,10 @@
       "text": "『Yasuda Kinen』『Takarazuka Kinen』『Tenno Sho (Autumn)』 \n『Mile CS』『Sprinter's S』『February S』……"
     },
     {
-      "text": "We lost, tried again, and lost again. Just hanging \non desperately. On the grandest stage. G1 Races. \nEverything for the sake of winning there.",
       "choice_data_list": [
         "And then……finally――"
-      ]
+      ],
+      "text": "We lost, tried again, and lost again. Just hanging \non desperately. On the grandest stage. G1 Races. \nEverything for the sake of winning there."
     },
     {
       "name": "Live Announcer",
@@ -286,19 +286,19 @@
       "text": "(Afterwards……when we watched the broadcast, King \nand I both argued 『No, you were crying harder』)"
     },
     {
-      "name": "Cesario",
-      "text": "――……it was powerful, and moved me. \nDuring that press conference, both of you……looked so strong.",
       "choice_data_list": [
         "……Eh?"
-      ]
+      ],
+      "name": "Cesario",
+      "text": "――……it was powerful, and moved me. \nDuring that press conference, both of you……looked so strong."
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Fufuu. ……Actually, both of us were watching \nthat press conference on the street billboards! \nAnd we happened to be next to each other!",
       "choice_data_list": [
         "Y-……You were!?",
         "Y-……You were!?"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Fufuu. ……Actually, both of us were watching \nthat press conference on the street billboards! \nAnd we happened to be next to each other!"
     },
     {
       "name": "Rhein Kraft",
@@ -317,18 +317,18 @@
       "text": "……that's why Kraft and I chose Team <Ascella>. \nThere is no better team for us, is what we believe."
     },
     {
-      "name": "Rhein Kraft",
-      "text": "That if Trainer-san is with us, then we can keep going, \nnever giving up. Until we take hold of our dreams, no \nmatter how painful it is, we can keep running……!",
       "choice_data_list": [
         "Kraft…… Cesario……"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "That if Trainer-san is with us, then we can keep going, \nnever giving up. Until we take hold of our dreams, no \nmatter how painful it is, we can keep running……!"
     },
     {
-      "name": "King Halo",
-      "text": "……geez, I was wondering what you were talking about. \nAnd you, you should be more proud of yourself too.",
       "choice_data_list": [
         "King――"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "……geez, I was wondering what you were talking about. \nAnd you, you should be more proud of yourself too."
     },
     {
       "name": "King Halo",
@@ -347,11 +347,11 @@
       "text": "That we were able to do something so like us――that only \nwe could do, being able to obtain a first rate result. \nJust who else do you think this was thanks to?"
     },
     {
-      "name": "King Halo",
-      "text": "The reason I was able to hold my head high and keep running…… \njust who was it that stuck by my side and made it possible?",
       "choice_data_list": [
         "……!"
-      ]
+      ],
+      "name": "King Halo",
+      "text": "The reason I was able to hold my head high and keep running…… \njust who was it that stuck by my side and made it possible?"
     },
     {
       "text": "――I'm pathetic. I gave King Halo a bitter smile, \nand turned back to Rhein Kraft and Cesario."
@@ -360,18 +360,18 @@
       "text": "Kraft, Cesario. \n……I'm really thankful that you chose Team <Ascella>."
     },
     {
-      "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――",
       "choice_data_list": [
         "I'll support you until the end",
         "I'll support you until the end"
-      ]
+      ],
+      "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――"
     },
     {
-      "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――",
       "choice_data_list": [
         "I'll support you until the end",
         "I'll support you until the end"
-      ]
+      ],
+      "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――"
     },
     {
       "name": "Rhein Kraft",

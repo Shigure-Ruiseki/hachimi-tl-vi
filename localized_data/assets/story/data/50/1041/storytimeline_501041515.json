@@ -42,19 +42,19 @@
       "text": "Sakura Bakushin O's peers were Rice \nShower, Mihono Bourbon, and Nishino \nFlower."
     },
     {
-      "text": "In order not to be overshadowed by them, \nI want to actively promote her and raise \nher profile――",
       "choice_data_list": [
         "Yeah, we'll take the interview.",
         "Yeah, we'll take the interview."
-      ]
+      ],
+      "text": "In order not to be overshadowed by them, \nI want to actively promote her and raise \nher profile――"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Yaaay!! \nAllow me to tell you all about my fascinating \nappeal!",
       "choice_data_list": [
         "Let's talk about your running.",
         "Let's talk about your enthusiasm."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Yaaay!! \nAllow me to tell you all about my fascinating \nappeal!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -83,12 +83,12 @@
       "text": "Of course it does, of course it does! \nRunning'll make me shine even brighter!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Without further ado, I'm off!",
       "choice_data_list": [
         "Go ahead and Bakushin to your heart's content!",
         "Go ahead and Bakushin to your heart's content!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Without further ado, I'm off!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -107,12 +107,12 @@
       "text": "Phew!"
     },
     {
-      "name": "PR Committee Chair",
-      "text": "What speed…! \nWithout a doubt, my \"Bakushin-like Dash\" \n――the fastest of the fast!",
       "choice_data_list": [
         "That was one of the best runs I've ever seen!",
         "That was one of the best runs I've ever seen!"
-      ]
+      ],
+      "name": "PR Committee Chair",
+      "text": "What speed…! \nWithout a doubt, my \"Bakushin-like Dash\" \n――the fastest of the fast!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -168,12 +168,12 @@
       "text": "Understood, please do leave it to me!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Without so much as a sliver of doubt, I'll \nshow you all how I put 100% of my power \nand overflowing enthusiasm into it!!",
       "choice_data_list": [
         "E, easy, now.",
         "E, easy, now."
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Without so much as a sliver of doubt, I'll \nshow you all how I put 100% of my power \nand overflowing enthusiasm into it!!"
     },
     {
       "text": "They wanted to take pictures at the same \ntime, so they decided to do the interview \nafter Sakura Bakushin O had changed into \nher victory suit."

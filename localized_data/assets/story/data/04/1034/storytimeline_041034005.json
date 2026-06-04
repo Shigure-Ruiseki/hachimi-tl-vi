@@ -25,11 +25,11 @@
       "text": "When I'm runnin', there were times where even if I used power my \nspeed wouldn't increase, but with Boss' advice, look at me now!"
     },
     {
-      "name": "Inari One",
-      "text": "That my speed would start slippin' like that, it all makes sense \nnow! Man, that's impressive!",
       "choice_data_list": [
         "No, I'm not that impressive……"
-      ]
+      ],
+      "name": "Inari One",
+      "text": "That my speed would start slippin' like that, it all makes sense \nnow! Man, that's impressive!"
     },
     {
       "name": "Inari One",
@@ -40,10 +40,10 @@
       "text": "In Oi, learnin' strength, and at Tracen learnin' \nprecision……kaaaaa～!! Bein' able to experience both, I'm really \nlucky, huh!? Right!?"
     },
     {
-      "text": "――Speaking of Oi, I'd heard from Inari One that the one that \npushed her forward to accept being scouted was her 『Chief』 in Oi.",
       "choice_data_list": [
         "Is the Chief doing well?"
-      ]
+      ],
+      "text": "――Speaking of Oi, I'd heard from Inari One that the one that \npushed her forward to accept being scouted was her 『Chief』 in Oi."
     },
     {
       "name": "Inari One",
@@ -112,20 +112,20 @@
       "text": "Just like she ran for me that one time, before being trained, she \nlaughed it off as if it was nothing."
     },
     {
-      "name": "Inari One",
-      "text": "Hm? What's wrong, Boss? You've got \na real serious look on your face――",
       "choice_data_list": [
         "I'm glad I scouted you!!",
         "I'm glad I scouted you!!"
-      ]
+      ],
+      "name": "Inari One",
+      "text": "Hm? What's wrong, Boss? You've got \na real serious look on your face――"
     },
     {
-      "name": "Inari One",
-      "text": "Hm? What's wrong, Boss? You've got \na real serious look on your face――",
       "choice_data_list": [
         "I'm glad I scouted you!!",
         "I'm glad I scouted you!!"
-      ]
+      ],
+      "name": "Inari One",
+      "text": "Hm? What's wrong, Boss? You've got \na real serious look on your face――"
     },
     {
       "name": "Inari One",

@@ -128,10 +128,10 @@
       "text": "I can't blame her for being intimidated. The Derby draws the fiercest \ncontenders around."
     },
     {
-      "text": "Still, Rice has the legs to keep up with McQueen. And more \nimportantly…",
       "choice_data_list": [
         "You still want to win, don't you?"
-      ]
+      ],
+      "text": "Still, Rice has the legs to keep up with McQueen. And more \nimportantly…"
     },
     {
       "name": "Rice Shower",
@@ -195,11 +195,11 @@
       "text": "Hey, look at that! You didn't fall behind a single time today!"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Well done. That stamina will serve you well.",
       "choice_data_list": [
         "Just like that! That's how you're gonna win the \nDerby!"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Well done. That stamina will serve you well."
     },
     {
       "name": "Rice Shower",

@@ -13,11 +13,11 @@
       "text": "…Just like dad… \nStraight ahead, with a resolute heart… I have to run!"
     },
     {
-      "name": "Win Variation",
-      "text": "…I can't stop thinking about it… No, I can't \ncast it aside. This… murky feeling.",
       "choice_data_list": [
         "A murky feeling?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "…I can't stop thinking about it… No, I can't \ncast it aside. This… murky feeling."
     },
     {
       "name": "Win Variation",
@@ -27,30 +27,30 @@
       "text": "I was thinking that I had to talk to her, but I was lucky to come across her on my morning run."
     },
     {
-      "name": "Win Variation",
-      "text": "Running… right. I guess you're physically-minded too. \nYou're amazing, working so hard…",
       "choice_data_list": [
         "You're the same, right?",
         "You're the same, right?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Running… right. I guess you're physically-minded too. \nYou're amazing, working so hard…"
     },
     {
-      "name": "Win Variation",
-      "text": "…Ha ha. In what way? \nI feel like I'm running in circles here.",
       "choice_data_list": [
         "Is that how you feel?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "…Ha ha. In what way? \nI feel like I'm running in circles here."
     },
     {
       "name": "Win Variation",
       "text": "…Yeah, no progress at all."
     },
     {
-      "name": "Win Variation",
-      "text": "My mental's deteriorating and my form's falling apart… I can't focus. Even if I do the basics everyday, it doesn't amount to much.",
       "choice_data_list": [
         "Is that because… of that \"murky feeling\"?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "My mental's deteriorating and my form's falling apart… I can't focus. Even if I do the basics everyday, it doesn't amount to much."
     },
     {
       "name": "Win Variation",
@@ -65,20 +65,20 @@
       "text": "…Ah. A ha ha. I don't know what that's supposed to mean. What am I even saying…"
     },
     {
-      "name": "Win Variation",
-      "text": "Please forget what I just—",
       "choice_data_list": [
         "Tell me what—",
         "Tell me what—"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Please forget what I just—"
     },
     {
-      "name": "Win Variation",
-      "text": "Huh?",
       "choice_data_list": [
         "What are you suppressing?",
         "What are you suppressing?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Huh?"
     },
     {
       "name": "Win Variation",
@@ -91,11 +91,11 @@
       "text": "It looks like she was in pain and that she was enduring it, like she was holding back… something inside her—— That's how she ran."
     },
     {
-      "name": "Win Variation",
-      "text": "Trainer…",
       "choice_data_list": [
         "…Is it Orfevre?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "Trainer…"
     },
     {
       "name": "Win Variation",
@@ -113,10 +113,10 @@
       "text": "I'm…"
     },
     {
-      "text": "\"Why is she being brought up\", I felt like those words summed up the emotions in her heart. She probably was holding some type of grudge towards Orfevre—",
       "choice_data_list": [
         "Win Variation…"
-      ]
+      ],
+      "text": "\"Why is she being brought up\", I felt like those words summed up the emotions in her heart. She probably was holding some type of grudge towards Orfevre—"
     },
     {
       "name": "Win Variation",
@@ -183,11 +183,11 @@
       "text": "And yet, I… inside of me is this dark and murky feeling… \nIt isn't pure in the slightest."
     },
     {
-      "name": "Win Variation",
-      "text": "…Trainer, I'm sorry. \nYou must be disgusted… by me.",
       "choice_data_list": [
         "Why would I?"
-      ]
+      ],
+      "name": "Win Variation",
+      "text": "…Trainer, I'm sorry. \nYou must be disgusted… by me."
     },
     {
       "name": "Win Variation",
@@ -203,20 +203,20 @@
       "text": "So that's why anything involving Orfevre makes her think of these murky feelings."
     },
     {
-      "text": "…Actually, is that really the case?",
       "choice_data_list": [
         "It's not a good thing, but—"
-      ]
+      ],
+      "text": "…Actually, is that really the case?"
     },
     {
       "name": "Win Variation",
       "text": "Trainer?"
     },
     {
-      "text": "Is it really only a bad thing? \nor maybe—",
       "choice_data_list": [
         "Do you want to check it?"
-      ]
+      ],
+      "text": "Is it really only a bad thing? \nor maybe—"
     },
     {
       "text": "Her feelings might carry something completely \ndifferent, but I decided to have her confirm it."

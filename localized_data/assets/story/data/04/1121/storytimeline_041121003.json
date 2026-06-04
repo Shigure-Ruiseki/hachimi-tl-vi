@@ -2,12 +2,12 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Durandal",
-      "text": "For strategy——I'd like to go with \"Chaser\".",
       "choice_data_list": [
         "Yeah! Blow 'em all away!",
         "Yeah! Blow 'em all away!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "For strategy——I'd like to go with \"Chaser\"."
     },
     {
       "name": "Durandal",
@@ -29,18 +29,18 @@
       "text": "The result——another overwhelming victory. She really \nis on a completely different level. Even with only a \nfew instructions, she responded with unrivaled sharpness."
     },
     {
-      "name": "Durandal",
-      "text": "I've safely returned after my triumph. \nPlease share with me this glory.",
       "choice_data_list": [
         "Amazing! That was amazing Durandal!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "I've safely returned after my triumph. \nPlease share with me this glory."
     },
     {
-      "name": "Durandal",
-      "text": "Eh……? Okay……",
       "choice_data_list": [
         "I've never seen anything like it!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Eh……? Okay……"
     },
     {
       "name": "Durandal",
@@ -55,19 +55,19 @@
       "text": "And even that genius trainer couldn't form a contract with her. \nIn that case, that person too……"
     },
     {
-      "name": "Durandal",
-      "text": "Um……I apologize, but……",
       "choice_data_list": [
         "Hm? What's up?"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Um……I apologize, but……"
     },
     {
-      "name": "Durandal",
-      "text": "Once more……could I ask for a little bit more of your time? \nI want to try talking a bit more, with you.",
       "choice_data_list": [
         "Yeah! Gladly!",
         "Yeah! Gladly!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Once more……could I ask for a little bit more of your time? \nI want to try talking a bit more, with you."
     },
     {
       "name": "Experienced Trainer C",
@@ -77,22 +77,22 @@
       "text": "At Durandal's invitation, I was meeting \nher at a certain place on my day off."
     },
     {
-      "name": "Durandal",
-      "text": "If we're having a conversation, it has to be here. \nPlease, make yourself at home.",
       "choice_data_list": [
         "A church? Why here?"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "If we're having a conversation, it has to be here. \nPlease, make yourself at home."
     },
     {
       "name": "Durandal",
       "text": "……when it comes to Holy Knights, it has to be the church, right? \nI'm very particular when it comes to places where I can be myself."
     },
     {
-      "text": "Now that I thought about it, I'd been wondering \nthis whole time so I figured I'd try asking now.",
       "choice_data_list": [
         "You're not really a Holy Knight, right?",
         "You're not really a Holy Knight, right?"
-      ]
+      ],
+      "text": "Now that I thought about it, I'd been wondering \nthis whole time so I figured I'd try asking now."
     },
     {
       "name": "Durandal",
@@ -123,27 +123,27 @@
       "text": "My older sister entered a race. And she won…… \nAnd her trainer, gave praise to her just like the King."
     },
     {
-      "name": "Durandal",
-      "text": "A truly ideal connection. And my admiration only became stronger. \nI wanted to try living as a knight in the Racing World.",
       "choice_data_list": [
         "So that's what you want to do……",
         "So that's what you want to do……"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "A truly ideal connection. And my admiration only became stronger. \nI wanted to try living as a knight in the Racing World."
     },
     {
-      "name": "Durandal",
-      "text": "Perhaps……it's a bit of a childish aspiration……",
       "choice_data_list": [
         "That's not true. I think it's wonderful!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Perhaps……it's a bit of a childish aspiration……"
     },
     {
-      "name": "Durandal",
-      "text": "Wonderful…… is a bit of an exaggeration……",
       "choice_data_list": [
         "No, dreams should be chased!",
         "No, dreams should be chased!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Wonderful…… is a bit of an exaggeration……"
     },
     {
       "text": "It was the same as how I was following after my senpai. \nI wanted to fully support Durandal's dream."
@@ -169,18 +169,18 @@
       "text": "My temporary King. \nI have a request."
     },
     {
-      "name": "Durandal",
-      "text": "Together with me, will you take on another challenge? \n——For another more arduous race.",
       "choice_data_list": [
         "A more arduous race?"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Together with me, will you take on another challenge? \n——For another more arduous race."
     },
     {
-      "name": "Durandal",
-      "text": "Yes. I want to prove myself against a strong opponent. \nAnd to see if you——truly are the King I should offer my sword to.",
       "choice_data_list": [
         "——Understood!"
-      ]
+      ],
+      "name": "Durandal",
+      "text": "Yes. I want to prove myself against a strong opponent. \nAnd to see if you——truly are the King I should offer my sword to."
     },
     {
       "text": "Only during fierce battle can one's true \ncaliber be measured. My own, and Durandal's too."

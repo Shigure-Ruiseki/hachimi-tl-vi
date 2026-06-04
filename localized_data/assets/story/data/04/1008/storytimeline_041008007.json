@@ -37,18 +37,18 @@
       "text": "Damn it! Just you wait. By the time the training \ncamp is over, the beach champion will be…"
     },
     {
-      "name": "Vodka",
-      "text": "Wait, no, no, no! This pattern's \nhappening again! I knew it! A guy \nwho's just lame is totally lame!",
       "choice_data_list": [
         "Vodka, I need to talk to you…"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Wait, no, no, no! This pattern's \nhappening again! I knew it! A guy \nwho's just lame is totally lame!"
     },
     {
-      "name": "Vodka",
-      "text": "Hm? What's this? A trainer? There's \nno need to comfort me…",
       "choice_data_list": [
         "Let's not kick the sand backwards."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Hm? What's this? A trainer? There's \nno need to comfort me…"
     },
     {
       "name": "Vodka",
@@ -98,11 +98,11 @@
       "text": "The training camp is almost \nover. After the festival…"
     },
     {
-      "name": "Vodka",
-      "text": "Man, festivals are nice every once \nin a while. Ah, I sold it!",
       "choice_data_list": [
         "You didn't eat it?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Man, festivals are nice every once \nin a while. Ah, I sold it!"
     },
     {
       "name": "Vodka",
@@ -117,11 +117,11 @@
       "text": "Who cares about that? Thanks for everything \nduring the training camp."
     },
     {
-      "name": "Vodka",
-      "text": "I think I figured it out during that beach race. \nThe coolness I'm aiming for. In other words, I \njust need both, right?",
       "choice_data_list": [
         "Both?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "I think I figured it out during that beach race. \nThe coolness I'm aiming for. In other words, I \njust need both, right?"
     },
     {
       "name": "Vodka",
@@ -132,12 +132,12 @@
       "text": "I'll definitely win with a cool run! \nThen I'll say something cool! That \nway, I'll always be a sore loser."
     },
     {
-      "name": "Vodka",
-      "text": "Of course, it's not as easy as it sounds. But \ndon't worry. I can do it!",
       "choice_data_list": [
         "You sure are confident.",
         "You sure are confident."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Of course, it's not as easy as it sounds. But \ndon't worry. I can do it!"
     },
     {
       "name": "Vodka",
@@ -156,23 +156,23 @@
       "text": "At the time, Mom was an open-mouthed \ngirl on active duty. And Dad was just \na cold-hearted older brother."
     },
     {
-      "name": "Vodka",
-      "text": "But what do you think was the reason why Mom \nconfessed to you?",
       "choice_data_list": [
         "Have you fallen for Hart?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "But what do you think was the reason why Mom \nconfessed to you?"
     },
     {
       "name": "Vodka",
       "text": "I don't think that's quite right. Dad's \nbeen playing a lot of games. Like 'I'll \ndefinitely become big!' and 'I'll be the \nhappiest person in the world!'"
     },
     {
-      "name": "Vodka",
-      "text": "”She's an interesting person to say such \nbaseless things out loud.” And that's how she \nended up going along with it. She pushed herself \nforward with the momentum.",
       "choice_data_list": [
         "This parent, this child.",
         "This parent and this child."
-      ]
+      ],
+      "name": "Vodka",
+      "text": "”She's an interesting person to say such \nbaseless things out loud.” And that's how she \nended up going along with it. She pushed herself \nforward with the momentum."
     },
     {
       "name": "Vodka",
@@ -183,12 +183,12 @@
       "text": "I'll definitely… become one with both of them! A \ngood girl who can challenge and accomplish \nanything reckless."
     },
     {
-      "name": "Vodka",
-      "text": "I'm way stronger than I was before I joined you!",
       "choice_data_list": [
         "Have you overcome your weaknesses?",
         "Did you overcome your weaknesses?"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "I'm way stronger than I was before I joined you!"
     },
     {
       "name": "Vodka",
@@ -211,12 +211,12 @@
       "text": "Wha…? You're holding my waist?! Then…"
     },
     {
-      "name": "Vodka",
-      "text": "Boo!!",
       "choice_data_list": [
         "What's wrong? Are you okay?",
         "What's wrong? Are you okay?!"
-      ]
+      ],
+      "name": "Vodka",
+      "text": "Boo!!"
     },
     {
       "name": "Vodka",

@@ -103,11 +103,11 @@
       "text": "I was getting more and more interested in twin \nturbo. Taken by Nice Nature, where we headed is…"
     },
     {
-      "name": "Twin Turbo",
-      "text": "……………………",
       "choice_data_list": [
         "under the stairs? What are you doing in the dark?"
-      ]
+      ],
+      "name": "Twin Turbo",
+      "text": "……………………"
     },
     {
       "name": "Nice Nature",

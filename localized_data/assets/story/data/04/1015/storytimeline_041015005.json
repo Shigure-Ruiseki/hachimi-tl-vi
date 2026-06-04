@@ -8,12 +8,12 @@
       "text": "I figured it wouldn't bother us, as our plans for the day \nhappened to keep us inside for strength training. I had \nnot factored in T.M. Opera O ——"
     },
     {
-      "name": "T.M. Opera O",
-      "text": "Ah, how ravishing, this rain-soaked appearance of mine……",
       "choice_data_list": [
         "Why in heavens are you dripping wet!?",
         "Why in heavens are you dripping wet!?"
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "Ah, how ravishing, this rain-soaked appearance of mine……"
     },
     {
       "name": "T.M. Opera O",
@@ -24,12 +24,12 @@
       "text": "Naturally, the moment I stepped outside, yours truly \nand the rain formed an ensemble — one which played \na performance most captivating."
     },
     {
-      "name": "T.M. Opera O",
-      "text": "Sweeping over the track beside the raging winds, my glorious \nvisage sparkling with drops of rain… true perfection!!",
       "choice_data_list": [
         "You went running in this downpour!?",
         "You went running in this downpour!?"
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "Sweeping over the track beside the raging winds, my glorious \nvisage sparkling with drops of rain… true perfection!!"
     },
     {
       "name": "T.M. Opera O",
@@ -40,11 +40,11 @@
       "text": "On a soft, drenched track such as today's, every single one \nof my steps is powerful and striking."
     },
     {
-      "name": "T.M. Opera O",
-      "text": "Should my performance be desired, I will take \nto the stage no matter the circumstance.",
       "choice_data_list": [
         "Through rains and thunderstorms?"
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "Should my performance be desired, I will take \nto the stage no matter the circumstance."
     },
     {
       "name": "T.M. Opera O",
@@ -63,12 +63,12 @@
       "text": "On the contrary, should the whims of the skies \nbe able to influence me so, the title of high king \nwould remain far out of reach."
     },
     {
-      "name": "T.M. Opera O",
-      "text": "…… Oh now, what is this, my dear trainer? You gaze upon me \nas if entranced… have you perchance fallen for my charms?",
       "choice_data_list": [
         "I was thinking… you're so passionate.",
         "I was thinking… you're so passionate."
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "…… Oh now, what is this, my dear trainer? You gaze upon me \nas if entranced… have you perchance fallen for my charms?"
     },
     {
       "name": "T.M. Opera O",
@@ -83,10 +83,10 @@
       "text": "For indeed, words of praise exist to be used on me!! \nNow let me hear them! My dea-ar t-tr<i>ai-chooo</i>!"
     },
     {
-      "text": "A small lake was starting to form where T.M. Opera O stood. \nShe's gonna catch a cold in this state.",
       "choice_data_list": [
         "You should go change…"
-      ]
+      ],
+      "text": "A small lake was starting to form where T.M. Opera O stood. \nShe's gonna catch a cold in this state."
     },
     {
       "name": "T.M. Opera O",
@@ -97,12 +97,12 @@
       "text": "Has the rain-enhanced luster of my hair \ninspired feelings of bashfulness in you?"
     },
     {
-      "name": "T.M. Opera O",
-      "text": "But of course! I fully understand your feelings! \nMy striking beauty must have set your heart aflutter!",
       "choice_data_list": [
         "Can you just go change!",
         "Can you just go change!"
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "But of course! I fully understand your feelings! \nMy striking beauty must have set your heart aflutter!"
     },
     {
       "name": "T.M. Opera O",
@@ -116,11 +116,11 @@
       "text": "Dear me, why would you kick me out like that… \nIs this really what you desire?"
     },
     {
-      "name": "T.M. Opera O",
-      "text": "To forgo a chance at beholding my glistening glamour?",
       "choice_data_list": [
         "I don't want you coming down with a cold."
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "To forgo a chance at beholding my glistening glamour?"
     },
     {
       "name": "T.M. Opera O",
@@ -131,11 +131,11 @@
       "text": "That being the one where yours truly dons \nthe crown of the Centurial High King to engulf \nthe world in my radiant light."
     },
     {
-      "name": "T.M. Opera O",
-      "text": "In any case, let us confront the day's training. \nIt would after all be inconceivable for yours truly \nto neglect routine and discipline.",
       "choice_data_list": [
         "Your jersey is still soaked though……"
-      ]
+      ],
+      "name": "T.M. Opera O",
+      "text": "In any case, let us confront the day's training. \nIt would after all be inconceivable for yours truly \nto neglect routine and discipline."
     },
     {
       "name": "T.M. Opera O",

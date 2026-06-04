@@ -51,11 +51,11 @@
       "text": "Which means that if you're able to give her a new target, she may run \nlike she once did."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "In other words… I'd best hurry and get changed.",
       "choice_data_list": [
         "Wait, what? You're going to run?"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "In other words… I'd best hurry and get changed."
     },
     {
       "name": "Mejiro McQueen",
@@ -161,11 +161,11 @@
       "text": "As long as you're there, and the team's there, we can have fun \nanywhere. Just seeing the others smile makes me smile too."
     },
     {
-      "name": "Rice Shower",
-      "text": "And I want to make them smile today. So I'm going to give this race \nmy all.",
       "choice_data_list": [
         "You've got this."
-      ]
+      ],
+      "name": "Rice Shower",
+      "text": "And I want to make them smile today. So I'm going to give this race \nmy all."
     },
     {
       "name": "Rice Shower",

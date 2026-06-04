@@ -33,11 +33,11 @@
       "text": "With this, beach training is all wrapped up. ……It felt like \nthe training load was a bit lighter than usual though――"
     },
     {
-      "name": "Verxina",
-      "text": "……Dashing on the beach is pretty effective. \nBut, since it's poor footing, doing it for extended \nperiods could be risky……is that about right?",
       "choice_data_list": [
         "That's right!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "……Dashing on the beach is pretty effective. \nBut, since it's poor footing, doing it for extended \nperiods could be risky……is that about right?"
     },
     {
       "text": "――Of course. This time, I put quite \na lot of effort in to the contents."
@@ -46,11 +46,11 @@
       "text": "As a trainer, that was expected of me, but…… \nTo be honest, I wanted to make up for last time……"
     },
     {
-      "name": "Verxina",
-      "text": "Next on the menu was swimming right……? \nHow much longer should I rest?",
       "choice_data_list": [
         "About 3 minutes!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Next on the menu was swimming right……? \nHow much longer should I rest?"
     },
     {
       "name": "Verxina",
@@ -63,20 +63,20 @@
       "text": "So I could be a reliable trainer for Verxina."
     },
     {
-      "name": "Verxina",
-      "text": "Good work, Trainer-san. \nOnce again, thank you for your guidance.",
       "choice_data_list": [
         "Ah, yeah……good work……",
         "Ah, yeah……good work……"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Good work, Trainer-san. \nOnce again, thank you for your guidance."
     },
     {
-      "name": "Verxina",
-      "text": "……You seem really tired. \nAre you okay?",
       "choice_data_list": [
         "Maybe I was a little too enthusiastic",
         "Maybe I was a little too enthusiastic"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "……You seem really tired. \nAre you okay?"
     },
     {
       "name": "Verxina",
@@ -87,12 +87,12 @@
       "text": "Right, right. \nWe talked about having a barbeque tonight."
     },
     {
-      "name": "Verxina",
-      "text": "I'm starting to get hungry now…… \nMaybe today I'll ask for some extra.",
       "choice_data_list": [
         "That sounds fun",
         "That sounds fun"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "I'm starting to get hungry now…… \nMaybe today I'll ask for some extra."
     },
     {
       "text": "And so, we returned from training camp with high expectations――"
@@ -122,20 +122,20 @@
       "text": "……No firewood or lighters, huh. \nSo, what should we do……?"
     },
     {
-      "name": "Verxina",
-      "text": "To start with, we should probably figure \nout how we're going to start a fire, huh?",
       "choice_data_list": [
         "……You can leave that to me!",
         "……You can leave that to me!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "To start with, we should probably figure \nout how we're going to start a fire, huh?"
     },
     {
-      "name": "Verxina",
-      "text": "Ehh……Trainer-san, \ndid you have something in mind?",
       "choice_data_list": [
         "You can count on me!",
         "You can count on me!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Ehh……Trainer-san, \ndid you have something in mind?"
     },
     {
       "name": "Verxina",
@@ -149,10 +149,10 @@
       "text": "……Well, that's what I said but, \nI'm not really sure on the proper method."
     },
     {
-      "text": "But when it came to fires, there was a standard way to start one. \nFirst you needed a wooden stick to start with.",
       "choice_data_list": [
         "Alright……I think I've got it!"
-      ]
+      ],
+      "text": "But when it came to fires, there was a standard way to start one. \nFirst you needed a wooden stick to start with."
     },
     {
       "text": "――And 15 minutes later…… \nI was already exhausted but still hadn't started a fire."
@@ -162,11 +162,11 @@
       "text": "Trainer-san. Everyone helped out \nand we prepared a lot of firewood."
     },
     {
-      "name": "Verxina",
-      "text": "The fire……is still in progress it seems. \nWould you like my help?",
       "choice_data_list": [
         "Thanks! But just a little longer!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "The fire……is still in progress it seems. \nWould you like my help?"
     },
     {
       "name": "Verxina",
@@ -193,12 +193,12 @@
       "text": "H-here we go……taaa!"
     },
     {
-      "name": "Verxina",
-      "text": "……Fufu. \nDo your best, Trainer-san.",
       "choice_data_list": [
         "……Yeah!",
         "……Yeah!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "……Fufu. \nDo your best, Trainer-san."
     },
     {
       "text": "And then――when the sun was starting to set――"
@@ -220,30 +220,30 @@
       "text": "No. I didn't do anything though, really. \nThe one who lit the fire was Trainer-san after all."
     },
     {
-      "name": "Trainee B",
-      "text": "Mumumu……that's true! Trainer-san! \nYou'll be the Savior of the Meats from now on!",
       "choice_data_list": [
         "Hahaha……"
-      ]
+      ],
+      "name": "Trainee B",
+      "text": "Mumumu……that's true! Trainer-san! \nYou'll be the Savior of the Meats from now on!"
     },
     {
-      "name": "Verxina",
-      "text": "Truly, thanks for the hard work today. \nTrainer-san.",
       "choice_data_list": [
         "……Was I reliable today?",
         "……Was I reliable today?"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Truly, thanks for the hard work today. \nTrainer-san."
     },
     {
       "name": "Verxina",
       "text": "Was Trainer-san? \n…………"
     },
     {
-      "name": "Verxina",
-      "text": "Fufuu.",
       "choice_data_list": [
         "……I guess not"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Fufuu."
     },
     {
       "name": "Verxina",
@@ -254,24 +254,24 @@
       "text": "You always have been. Since you became my \ntrainer, Trainer-san has been a point of pride."
     },
     {
-      "name": "Verxina",
-      "text": "Incredibly earnest. Always hard working――",
       "choice_data_list": [
         "……I'd say that describes you though",
         "……I'd say that describes you though"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Incredibly earnest. Always hard working――"
     },
     {
       "name": "Verxina",
       "text": "Then, I guess that makes us two of a kind."
     },
     {
-      "name": "Verxina",
-      "text": "……Ever since I met Trainer-san――I think I've \ncome to understand the way my sisters see me.",
       "choice_data_list": [
         "Think you can start relying on me?",
         "Think you can start relying on me?"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "……Ever since I met Trainer-san――I think I've \ncome to understand the way my sisters see me."
     },
     {
       "name": "Verxina",

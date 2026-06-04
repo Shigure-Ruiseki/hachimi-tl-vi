@@ -176,11 +176,11 @@
       "text": "3 short distance races…?"
     },
     {
-      "name": "Nishino Flower",
-      "text": "Well, that's, that's just running short \ndistances, isn't it…",
       "choice_data_list": [
         "(Thump…)"
-      ]
+      ],
+      "name": "Nishino Flower",
+      "text": "Well, that's, that's just running short \ndistances, isn't it…"
     },
     {
       "name": "Sakura Bakushin O",

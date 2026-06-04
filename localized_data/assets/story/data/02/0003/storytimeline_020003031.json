@@ -33,12 +33,12 @@
       "text": "Wh-What ever do you mean?! A fine meal is simply a bonus! Never \nmind that — you need to concentrate!"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Oh, right. Focus, focus… All righty, Trainer, I'm off!",
       "choice_data_list": [
         "Go get 'em!",
         "Go get 'em!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "Oh, right. Focus, focus… All righty, Trainer, I'm off!"
     },
     {
       "name": "Winning Ticket",
@@ -179,18 +179,18 @@
       "text": "You have to keep up with her passion, Trainer. Can you do it?"
     },
     {
-      "text": "No worries. That's exactly what I intend to do. A trainer never holds \nback a racer from pushing forward. Which is why…",
       "choice_data_list": [
         "Tickezo! You're racing again next week!",
         "Tickezo! You're racing again next week!"
-      ]
+      ],
+      "text": "No worries. That's exactly what I intend to do. A trainer never holds \nback a racer from pushing forward. Which is why…"
     },
     {
-      "text": "No worries. That's exactly what I intend to do. A trainer never holds \nback a racer from pushing forward. Which is why…",
       "choice_data_list": [
         "Tickezo! You're racing again next week!",
         "Tickezo! You're racing again next week!"
-      ]
+      ],
+      "text": "No worries. That's exactly what I intend to do. A trainer never holds \nback a racer from pushing forward. Which is why…"
     },
     {
       "name": "Winning Ticket",
@@ -208,11 +208,11 @@
       "text": "Ah… AAAGH! I'm gonna <i>RACE!</i>"
     },
     {
-      "name": "Winning Ticket",
-      "text": "I'm gonna face this challenge head-on and push through to the \nDerby! And we'll do it as a team, Trainer!",
       "choice_data_list": [
         "Yeah, we'll win it together!"
-      ]
+      ],
+      "name": "Winning Ticket",
+      "text": "I'm gonna face this challenge head-on and push through to the \nDerby! And we'll do it as a team, Trainer!"
     },
     {
       "name": "Winning Ticket",

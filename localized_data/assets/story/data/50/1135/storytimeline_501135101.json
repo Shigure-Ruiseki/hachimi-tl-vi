@@ -9,11 +9,11 @@
       "text": "——Hey, have you tried out the steak yet? \nThey grill it right in front of you, it's some \ngood stuff."
     },
     {
-      "text": "We were at the Mejiro family house \nas Meijiro Mcqueen invited us for \nthe New Year's gathering.",
       "choice_data_list": [
         "Always same-old with you huh…",
         "Always same-old with you huh…"
-      ]
+      ],
+      "text": "We were at the Mejiro family house \nas Meijiro Mcqueen invited us for \nthe New Year's gathering."
     },
     {
       "name": "Stay Gold",
@@ -35,13 +35,13 @@
       "text": "Accompanying Meijiro Bright was Meijiro \nDober. Just like Meijiro Bright, she is in \nthe same generation as Stay Gold ——"
     },
     {
-      "text": "She is a trainee who took upon the Tiara \nroute, aiming for the Oka Sho, the Oaks \nand the Shuka Sho, which is why there \nare only few chances to compete with her.",
       "color_text_info_list": [
         "Oka Sho",
         "Oaks",
         "Shuka Sho",
         "Tiara route"
-      ]
+      ],
+      "text": "She is a trainee who took upon the Tiara \nroute, aiming for the Oka Sho, the Oaks \nand the Shuka Sho, which is why there \nare only few chances to compete with her."
     },
     {
       "name": "Mejiro Dober",
@@ -75,11 +75,11 @@
       "text": "After the pleasant chat with Meijiro Bright \nand Meijiro Dober, Stay Gold and I were \nenjoying the food and ——"
     },
     {
-      "name": "Stay Gold",
-      "text": "Now then, since my tummy is feeling \nhappy, should we get going soon～",
       "choice_data_list": [
         "Eh? We haven't even said hi to McQueen"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Now then, since my tummy is feeling \nhappy, should we get going soon～"
     },
     {
       "name": "Stay Gold",
@@ -102,11 +102,11 @@
       "text": "Yeah, happy New Year. You really helped \nus out a bunch last year, so thank you for \nthat."
     },
     {
-      "name": "Stay Gold",
-      "text": "Also, the food was really good, McQueen. \nEspecially the meat.",
       "choice_data_list": [
         "Thank you for having us"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Also, the food was really good, McQueen. \nEspecially the meat."
     },
     {
       "name": "Mejiro McQueen",
@@ -129,11 +129,11 @@
       "text": "<i>…Uhm</i>, Miss McQueen, if you would \nallow me, I would like to take upon \nMiss Stego's offer."
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Ooh</i>, this is good. It's 3 v 1 then.",
       "choice_data_list": [
         "(Since when did I get involved…?)"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Ooh</i>, this is good. It's 3 v 1 then."
     },
     {
       "name": "Mejiro McQueen",
@@ -144,24 +144,24 @@
       "text": "Please do escort us properly, \nas this was your proposal."
     },
     {
-      "name": "Stay Gold",
-      "text": "Got it. Well then Trainer, I'll leave the \ndestination to you.",
       "choice_data_list": [
         "Eeh? Me?!",
         "Eeh? Me?!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Got it. Well then Trainer, I'll leave the \ndestination to you."
     },
     {
       "name": "Stay Gold",
       "text": "It'd be more interesting if you picked it. \nIt's all you now."
     },
     {
-      "text": "An unreasonable request was suddenly \nplaced on my shoulders. I want to respond \nwith a place that could match their fancy. \nAll I could come up with was ——",
       "choice_data_list": [
         "T-Then, we go on a stroll…?",
         "Have some tea somewhere…?",
         "Go play at the arcade…?"
-      ]
+      ],
+      "text": "An unreasonable request was suddenly \nplaced on my shoulders. I want to respond \nwith a place that could match their fancy. \nAll I could come up with was ——"
     },
     {
       "name": "Stay Gold",
@@ -192,11 +192,11 @@
       "text": "……It's a beautiful sunset………"
     },
     {
-      "name": "Stay Gold",
-      "text": "That's right. It's as if the horizon \nhas been lit on fire.",
       "choice_data_list": [
         "This was my bad McQueen………"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "That's right. It's as if the horizon \nhas been lit on fire."
     },
     {
       "name": "Mejiro McQueen",
@@ -206,11 +206,11 @@
       "text": "…We gazed at the beautiful sunset together, \nbut afterwards, we were genuinely dazed \nby how we manged to end up in the \nmiddle of nowhere —"
     },
     {
-      "name": "Stay Gold",
-      "text": "Tea time huh… Good opportunity actually, \nthere was a store I wanted to try out.",
       "choice_data_list": [
         "Shall we go then?"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Tea time huh… Good opportunity actually, \nthere was a store I wanted to try out."
     },
     {
       "name": "$(scale 55)Elegant Chestnut-Haired Trainee",
@@ -233,12 +233,12 @@
       "text": "<i>Hiee……!</i> W-W-What is even happening!? \nWhy are we at such a spooky dooky place!!"
     },
     {
-      "name": "Stay Gold",
-      "text": "<i>Hahahaha!</i> Your startled reaction is so \ngood! Also, I have no idea what you're \neven saying!!",
       "choice_data_list": [
         "These decorations look incredibly real…!",
         "These decorations look incredibly real…!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "<i>Hahahaha!</i> Your startled reaction is so \ngood! Also, I have no idea what you're \neven saying!!"
     },
     {
       "name": "$(scale 55)Elegant Chestnut-Haired Trainee",
@@ -284,11 +284,11 @@
       "text": "P-Please do not come any closer! \n<i>Ahhh</i>, my bullets…!"
     },
     {
-      "name": "Stay Gold",
-      "text": "Alright, leave it to me. \n——Right there.",
       "choice_data_list": [
         "Ohh, you got the weak spot in one hit…!"
-      ]
+      ],
+      "name": "Stay Gold",
+      "text": "Alright, leave it to me. \n——Right there."
     },
     {
       "name": "Mejiro McQueen",

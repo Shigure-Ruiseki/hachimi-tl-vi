@@ -40,11 +40,11 @@
       "text": "Ah, and I must make a call to Grandmother. Please go ahead without \nme."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "Everyone… I am so, so sorry.",
       "choice_data_list": [
         "McQueen!"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "Everyone… I am so, so sorry."
     },
     {
       "name": "Gold Ship",
@@ -72,11 +72,11 @@
       "text": "Of course. I owe this team a lot, and I heard its brightest star would \nbe running."
     },
     {
-      "name": "Oguri Cap",
-      "text": "But where <i>is</i> that star, might I ask?",
       "choice_data_list": [
         "Yeah, she, uhh…"
-      ]
+      ],
+      "name": "Oguri Cap",
+      "text": "But where <i>is</i> that star, might I ask?"
     },
     {
       "name": "Oguri Cap",
@@ -190,17 +190,17 @@
       "text": "Always putting us first…"
     },
     {
-      "text": "That's it. That's what I need to do. I need to stand by her side, and \noffer her my faith and support.",
       "choice_data_list": [
         "I'm going to go look for McQueen."
-      ]
+      ],
+      "text": "That's it. That's what I need to do. I need to stand by her side, and \noffer her my faith and support."
     },
     {
-      "text": "That's it. That's what I need to do. I need to stand by her side, and \noffer her my faith and support.",
       "choice_data_list": [
         "I'm going to go look for McQueen.",
         "I'm going to go look for McQueen."
-      ]
+      ],
+      "text": "That's it. That's what I need to do. I need to stand by her side, and \noffer her my faith and support."
     },
     {
       "name": "Gold Ship",
@@ -215,12 +215,12 @@
       "text": "And I'll go looking around the racecourse!"
     },
     {
-      "name": "Trainee with Black Bob-cut",
-      "text": "Maybe she went to the shrine? I'll drop by and check!",
       "choice_data_list": [
         "Thank you, all of you. Let's go!",
         "Thank you, all of you. Let's go!"
-      ]
+      ],
+      "name": "Trainee with Black Bob-cut",
+      "text": "Maybe she went to the shrine? I'll drop by and check!"
     },
     {
       "text": "Our team's ace needs us now more than ever!"

@@ -97,12 +97,12 @@
       "text": "『Will she win against this group of young competitors, proud of \ntheir speed, and achieve this unorthodox double crown for the \nfirst time in history? Now, the NHK Mile C will soon begin!』"
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Fuu-…………",
       "choice_data_list": [
         "……Kraft. You got this, right?",
         "……Kraft. You got this, right?"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Fuu-…………"
     },
     {
       "name": "Rhein Kraft",
@@ -113,12 +113,12 @@
       "text": "For each of the girls participating, I've done a lot \nof investigating and analyzing. No matter what situations \narise, I think I can stay calm and handle them."
     },
     {
-      "name": "Rhein Kraft",
-      "text": "Get out front at the start, take control of the pace, and \npush through with power. I know how I should be running!",
       "choice_data_list": [
         "Alright. ……then, go get 'em!",
         "Alright. ……then, go get 'em!"
-      ]
+      ],
+      "name": "Rhein Kraft",
+      "text": "Get out front at the start, take control of the pace, and \npush through with power. I know how I should be running!"
     },
     {
       "name": "Rhein Kraft",

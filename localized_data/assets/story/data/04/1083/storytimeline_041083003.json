@@ -2,10 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "On that day as well, Symboli Kris S' 『Trainer Selection』 was \ncontinuing as planned, but――",
       "choice_data_list": [
         "Eh, you're…… withdrawing?"
-      ]
+      ],
+      "text": "On that day as well, Symboli Kris S' 『Trainer Selection』 was \ncontinuing as planned, but――"
     },
     {
       "name": "Experienced Trainer A",
@@ -19,11 +19,11 @@
       "text": "He had already let Symboli Kris S know but…… \nI was kind of worried, so I went to see her."
     },
     {
-      "name": "Symboli Kris S",
-      "text": "――I was planning…… on training―― myself anyways. \n――So, no problem.",
       "choice_data_list": [
         "If you'd like, I could help"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "――I was planning…… on training―― myself anyways. \n――So, no problem."
     },
     {
       "text": "If things stayed like this, I was worried that \nSymboli Kris S would become isolated. I wondered \nif there was any way I could help her――"
@@ -40,11 +40,11 @@
       "text": "――……"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "――Next, lunges. ――Any objections?",
       "choice_data_list": [
         "S-sounds fine! But――"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "――Next, lunges. ――Any objections?"
     },
     {
       "text": "Symboli Kris S seemed to have designed the training menu to not \ncross a line that would put too much strain on her body."
@@ -53,10 +53,10 @@
       "text": "Because of this line―― she wasn't able to follow the menu that \nthe trainers provided her."
     },
     {
-      "text": "It wasn't that she wanted to slack off or had reached \nher limit. It was probably because she wanted to \navoid overworking herself at all costs.",
       "choice_data_list": [
         "Why are you regulating this so strictly?"
-      ]
+      ],
+      "text": "It wasn't that she wanted to slack off or had reached \nher limit. It was probably because she wanted to \navoid overworking herself at all costs."
     },
     {
       "name": "Symboli Kris S",
@@ -126,12 +126,12 @@
       "text": "If you can't speak, then that's fine. \nSay it with your results."
     },
     {
-      "name": "Symboli Kris S",
-      "text": "――That's fine, he said. \nThat's why―― I started to think it's fine.",
       "choice_data_list": [
         "He accepted you as you were",
         "He accepted you as you were"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "――That's fine, he said. \nThat's why―― I started to think it's fine."
     },
     {
       "name": "Symboli Kris S",
@@ -190,21 +190,21 @@
       "text": "――Together with that gratitude―― all of it, for those 『Results』. \nTo be unbreakable, strong, building up a strong body――"
     },
     {
-      "name": "Symboli Kris S",
-      "text": "In this country, Japan―― to become an Uma Musume \nthat could cause a revolution. ――That's my mission.",
       "choice_data_list": [
         "……You're shouldering something amazing",
         "……You're shouldering something amazing"
-      ]
+      ],
+      "name": "Symboli Kris S",
+      "text": "In this country, Japan―― to become an Uma Musume \nthat could cause a revolution. ――That's my mission."
     },
     {
       "text": "『Changing the racing world in Japan』 ――An arduous, fantastical \nmission like that, she's saying she'll definitely fulfill it."
     },
     {
-      "text": "That's why she must have worked so hard to not strain \nher body in this important time before her debut.",
       "choice_data_list": [
         "Thanks for telling me."
-      ]
+      ],
+      "text": "That's why she must have worked so hard to not strain \nher body in this important time before her debut."
     },
     {
       "name": "Symboli Kris S",
@@ -218,10 +218,10 @@
       "text": "But was that true? Symboli Kris S seemed so focused on returning \nthat gratitude, almost to the point of neglecting everything else."
     },
     {
-      "text": "After all, she was standing here because she \nhad persevered through everything. The truth is――",
       "choice_data_list": [
         "――I think your results are commendable"
-      ]
+      ],
+      "text": "After all, she was standing here because she \nhad persevered through everything. The truth is――"
     },
     {
       "name": "Symboli Kris S",
@@ -235,10 +235,10 @@
       "text": "Dignified but expressionless, certainly, \nit was hard to guess what she was thinking. However――"
     },
     {
-      "text": "If you face her with sincerity, she will return it. \nHidden behind that veil was genuineness.",
       "choice_data_list": [
         "(I want to see eye to eye with her)"
-      ]
+      ],
+      "text": "If you face her with sincerity, she will return it. \nHidden behind that veil was genuineness."
     },
     {
       "text": "If I'm lacking, then I want to change that. \nI had a strong desire to become a trainer that could support her."

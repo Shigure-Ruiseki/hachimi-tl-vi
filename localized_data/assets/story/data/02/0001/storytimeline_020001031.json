@@ -47,12 +47,12 @@
       "text": "The next day, I head to the office to prepare for training. There, I \nfind McQueen waiting with unexpected company."
     },
     {
-      "name": "???",
-      "text": "Hello! Hope you don't mind me!",
       "choice_data_list": [
         "Could you be… a new recruit?!",
         "Could you be… a new recruit?!"
-      ]
+      ],
+      "name": "???",
+      "text": "Hello! Hope you don't mind me!"
     },
     {
       "name": "Mejiro McQueen",
@@ -78,11 +78,11 @@
       "text": "It appears to be something of secrecy, so Ryan <i>insisted</i> that it just be \nthe two of you."
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "I know how much of a distraction I can be, so now let me make myself \nsparse.",
       "choice_data_list": [
         "Wait, are you mad?"
-      ]
+      ],
+      "name": "Mejiro McQueen",
+      "text": "I know how much of a distraction I can be, so now let me make myself \nsparse."
     },
     {
       "name": "Mejiro McQueen",
@@ -104,11 +104,11 @@
       "text": "Ah, well it's about McQueen."
     },
     {
-      "name": "Mejiro Ryan",
-      "text": "You've probably already noticed, but she's pushing herself way too \nhard.",
       "choice_data_list": [
         "…Is this about her nighttime training sessions?"
-      ]
+      ],
+      "name": "Mejiro Ryan",
+      "text": "You've probably already noticed, but she's pushing herself way too \nhard."
     },
     {
       "name": "Mejiro Ryan",
@@ -181,12 +181,12 @@
       "text": "So please, stop her before she hurts herself."
     },
     {
-      "name": "Mejiro Ryan",
-      "text": "I'm sure she would listen to anything you have to say if you explain it \nto her.",
       "choice_data_list": [
         "Okay, leave it to me.",
         "Okay, leave it to me."
-      ]
+      ],
+      "name": "Mejiro Ryan",
+      "text": "I'm sure she would listen to anything you have to say if you explain it \nto her."
     },
     {
       "text": "Yeesh, just what have I been doing all this time?"

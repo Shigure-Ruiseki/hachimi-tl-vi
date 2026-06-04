@@ -5,42 +5,42 @@
       "text": "—— Ah man, I missed my opportunity again…!"
     },
     {
-      "text": "Just when someone had finally caught my interest at \nthe Selection Race, she had already signed a contract \nwith another trainer before I could approach her…",
       "choice_data_list": [
         "Ah… just my luck, I guess…"
-      ]
+      ],
+      "text": "Just when someone had finally caught my interest at \nthe Selection Race, she had already signed a contract \nwith another trainer before I could approach her…"
     },
     {
-      "name": "???",
-      "text": "Ooh～ That was a mighty big sigh!",
       "choice_data_list": [
         "Ah!"
-      ]
+      ],
+      "name": "???",
+      "text": "Ooh～ That was a mighty big sigh!"
     },
     {
       "name": "Jolly Trainee",
       "text": "Ahahah! Sorry, did I startle you? I was taking a nap over there \nin the shade, but I couldn't help being curious."
     },
     {
-      "name": "Jolly Trainee",
-      "text": "So, something making you feel down? Wanna tell me about it? \nJust putting it into words can make you feel better.",
       "choice_data_list": [
         "<size=32>Ah, it's not really something to discuss with students…</size>"
-      ]
+      ],
+      "name": "Jolly Trainee",
+      "text": "So, something making you feel down? Wanna tell me about it? \nJust putting it into words can make you feel better."
     },
     {
-      "name": "Jolly Trainee",
-      "text": "<i>Hm-hmm</i>, that so～? Must be a work-related problem then? \nOr could it be… that you witnessed some dark secrets of the \nacademy that you can't disclose?!",
       "choice_data_list": [
         "No, it's work-related…"
-      ]
+      ],
+      "name": "Jolly Trainee",
+      "text": "<i>Hm-hmm</i>, that so～? Must be a work-related problem then? \nOr could it be… that you witnessed some dark secrets of the \nacademy that you can't disclose?!"
     },
     {
-      "name": "Jolly Trainee",
-      "text": "Ahahaa! I see, I see. Work troubles, eh～? \nBeing a trainer sounds like a tough job. \nAre you training anyone right now?",
       "choice_data_list": [
         "I-I did have a girl who caught my eye, but…"
-      ]
+      ],
+      "name": "Jolly Trainee",
+      "text": "Ahahaa! I see, I see. Work troubles, eh～? \nBeing a trainer sounds like a tough job. \nAre you training anyone right now?"
     },
     {
       "name": "Jolly Trainee",
@@ -50,11 +50,11 @@
       "text": "Before I knew it, I found myself opening up… \nAs I shared my thoughts, it felt like a weight \nwas being lifted off my shoulders."
     },
     {
-      "name": "Jolly Trainee",
-      "text": "How about going for a change of pace first, and then \ntrying your luck again at the next Selection Race?",
       "choice_data_list": [
         "Thanks, I'll try that."
-      ]
+      ],
+      "name": "Jolly Trainee",
+      "text": "How about going for a change of pace first, and then \ntrying your luck again at the next Selection Race?"
     },
     {
       "name": "Jolly Trainee",
@@ -65,11 +65,11 @@
       "text": "Ahaha. And it's my carefully timed debut race to boot! \nCurious yet～? …Heh, I gotta promote myself a lil', right? \nWell anyway, feel free to come and see me race!"
     },
     {
-      "text": "Charmed by the trainee's playful aura and contagious \nlaughter, a question slipped from my mouth…",
       "choice_data_list": [
         "Wait — what's your name?",
         "Wait — what's your name?"
-      ]
+      ],
+      "text": "Charmed by the trainee's playful aura and contagious \nlaughter, a question slipped from my mouth…"
     },
     {
       "name": "Jolly Trainee",
@@ -80,11 +80,11 @@
       "text": "Today's center of attention is undoubtedly Mejiro Ryan! \nShe looks to be in impeccable condition, too…! \n<i>Aagh</i>, the anticipation is killing me……"
     },
     {
-      "name": "Experienced Trainer B",
-      "text": "Huh? Is that another Mejiro trainee next to her? \nWhat was her name, again…? Mejiro something…",
       "choice_data_list": [
         "(It's <i>Mejiro Palmer</i>…)"
-      ]
+      ],
+      "name": "Experienced Trainer B",
+      "text": "Huh? Is that another Mejiro trainee next to her? \nWhat was her name, again…? Mejiro something…"
     },
     {
       "text": "—— The trainee I met on the rooftop earlier \ncame from the prestigious Mejiro family."
@@ -104,21 +104,21 @@
       "text": "Well, not that I can compete with Ryan in terms of popularity. \nAhaha, guess I just don't stand out that much!"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "… But hey, watch me. After all, I'm a Mejiro trainee as well. \nIf I don't show my resolve here, it'd disgrace our great name, \nisn't that right?",
       "choice_data_list": [
         "Y-Yeah…… I'm rooting for you!",
         "Y-Yeah…… I'm rooting for you!"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "… But hey, watch me. After all, I'm a Mejiro trainee as well. \nIf I don't show my resolve here, it'd disgrace our great name, \nisn't that right?"
     },
     {
       "text": "Her unwavering cheerful demeanor hid any trace of worry. \nNevertheless, I thought I caught a tense expression flashing \nacross her face. Then the race got underway ——"
     },
     {
-      "text": "Mejiro Palmer immediately took the lead, looking to \nescape from the rest. Her graceful and flawless form \nwas obvious at a glance.",
       "choice_data_list": [
         "(I suppose her way of running \nbefits her family's prestige.)"
-      ]
+      ],
+      "text": "Mejiro Palmer immediately took the lead, looking to \nescape from the rest. Her graceful and flawless form \nwas obvious at a glance."
     },
     {
       "text": "However, as the race approached its final leg ——"
@@ -128,21 +128,21 @@
       "text": "—— This is it! <i>Haaaaaaaaaaaaa—!</i>"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "<i>……! Haa, haa, haah, haa…!</i>",
       "choice_data_list": [
         "(Huh, what's wrong…!?)"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "<i>……! Haa, haa, haah, haa…!</i>"
     },
     {
       "text": "As each trainee unleashed their final spurt, they overtook \nher one by one. Her visibly strained expression contrasted \nwith her beautiful and perfectly composed form."
     },
     {
-      "text": "It was as if she was \"running too properly\", or playing it safe ——",
       "choice_data_list": [
         "(Something about her running feels stiff…)",
         "(Something about her running feels stiff…)"
-      ]
+      ],
+      "text": "It was as if she was \"running too properly\", or playing it safe ——"
     },
     {
       "name": "Mejiro Palmer",
@@ -173,18 +173,18 @@
       "text": "Ah, what a relief! Turns out that I didn't have \nto worry about all that. If you're not worthy of \nattention… you can't disappoint anyone either."
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "…… Who am I kidding.",
       "choice_data_list": [
         "… Hey, uh…"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "…… Who am I kidding."
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "… Oh! Sorry about that, ahahah. Thanks for coming! How was \nthe race? Did you find any promising talents? Well, actually, \nof course — Ryan is obviously the number one candidate～!",
       "choice_data_list": [
         "No, that's not true ——"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "… Oh! Sorry about that, ahahah. Thanks for coming! How was \nthe race? Did you find any promising talents? Well, actually, \nof course — Ryan is obviously the number one candidate～!"
     },
     {
       "name": "Mejiro Palmer",
@@ -195,11 +195,11 @@
       "text": "But of course, I'm not going to give up. If things aren't \nworking out at the moment, then I'll just have to become \nstronger. There's no time to be feeling sad — none at all!"
     },
     {
-      "name": "Mejiro Palmer",
-      "text": "I'll have to resume my training right away! \nFirst, I need to build more stamina, thoroughly \nreview the fundamentals, and then ——",
       "choice_data_list": [
         "Is that really what you want……?"
-      ]
+      ],
+      "name": "Mejiro Palmer",
+      "text": "I'll have to resume my training right away! \nFirst, I need to build more stamina, thoroughly \nreview the fundamentals, and then ——"
     },
     {
       "name": "Mejiro Palmer",
@@ -209,11 +209,11 @@
       "text": "After observing the race, a realization dawned on me. \nPerhaps she is affected by the pressure stemming from \nhaving to live up to the esteemed Mejiro name."
     },
     {
-      "text": "I felt like, as a result of that pressure, her running stiffens up. \nWhile it is a good thing to be faithful to the fundamentals, \nevery so often, exceptions arise…",
       "choice_data_list": [
         "<size=32>There might be a way of running that suits you better…</size>",
         "<size=32>There might be a way of running that suits you better…</size>"
-      ]
+      ],
+      "text": "I felt like, as a result of that pressure, her running stiffens up. \nWhile it is a good thing to be faithful to the fundamentals, \nevery so often, exceptions arise…"
     },
     {
       "name": "Mejiro Palmer",

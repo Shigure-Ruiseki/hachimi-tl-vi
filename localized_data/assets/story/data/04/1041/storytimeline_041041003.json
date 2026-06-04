@@ -24,11 +24,11 @@
       "text": "(Wooooaaaaahhh…)"
     },
     {
-      "text": "(chirp chirp)",
       "choice_data_list": [
         "A dream…",
         "A dream…"
-      ]
+      ],
+      "text": "(chirp chirp)"
     },
     {
       "text": "Early morning. I'd gone to the training course and saw \nSakura Bakushin O running. She seemed to be training on her own."
@@ -190,18 +190,18 @@
       "text": "All the trainers I spoke to after yesterday tried to \nlead me astray with talk of \"giving up on long distances\" \nand \"aptitudes\"…"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "If you're like that, I can tell you I will refuse!!",
       "choice_data_list": [
         "…Speed!!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "If you're like that, I can tell you I will refuse!!"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "Yes?!",
       "choice_data_list": [
         "We go for the pinnacle of speed together!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "Yes?!"
     },
     {
       "name": "Sakura Bakushin O",
@@ -212,12 +212,12 @@
       "text": "Trainer, you mean… \nTo command every race with speed!! Is that it!?"
     },
     {
-      "name": "Sakura Bakushin O",
-      "text": "As class president!! Every race!! \nIs that what you're trying to do?!?!",
       "choice_data_list": [
         "… That's right!!",
         "… Exactly!!"
-      ]
+      ],
+      "name": "Sakura Bakushin O",
+      "text": "As class president!! Every race!! \nIs that what you're trying to do?!?!"
     },
     {
       "name": "Sakura Bakushin O",

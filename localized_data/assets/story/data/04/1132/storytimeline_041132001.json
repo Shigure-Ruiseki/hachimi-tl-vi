@@ -69,10 +69,10 @@
       "text": "The ones gathered here are fans of the Umamusume, Loves Only You. They are members of the community she runs.\n"
     },
     {
-      "text": "I was interested in the way the community formed by Umamusumes and fans works, and by chance I ended up here. Since then, I too have been a commu-men\n",
       "choice_data_list": [
         "<size=40>Alright then, I'll be heading out for today.</size>"
-      ]
+      ],
+      "text": "I was interested in the way the community formed by Umamusumes and fans works, and by chance I ended up here. Since then, I too have been a commu-men\n"
     },
     {
       "name": "Passionate Teacher",
@@ -89,32 +89,32 @@
       "text": "...Phew."
     },
     {
-      "name": "Loves Only You",
-      "text": "Hmm… maybe finishing stretch isn't quite there? …Oh?\nUm… did you need something from me?\n",
       "choice_data_list": [
         "<size=36>Ah, no—it's just, I thought it was… a good run.</size>"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "Hmm… maybe finishing stretch isn't quite there? …Oh?\nUm… did you need something from me?\n"
     },
     {
-      "name": "Loves Only You",
-      "text": "Oh, hehe, thank you. Say, you're a trainer, aren't you?\nIf you don't mind, could you give me some advice?\n",
       "choice_data_list": [
         "Uh, well…"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "Oh, hehe, thank you. Say, you're a trainer, aren't you?\nIf you don't mind, could you give me some advice?\n"
     },
     {
-      "name": "Loves Only You",
-      "text": "Oh, hehe, thank you. Say, you're a trainer, right?\nIf you don't mind, could you give me some advice?\n",
       "choice_data_list": [
         "Uh, well…"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "Oh, hehe, thank you. Say, you're a trainer, right?\nIf you don't mind, could you give me some advice?\n"
     },
     {
-      "name": "Loves Only You",
-      "text": "…Yeah, the posture you showed me, raising my upper body a little, really suits me. As expected, a pro is different.\n",
       "choice_data_list": [
         " No, I'm still just a complete rookie…"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "…Yeah, the posture you showed me, raising my upper body a little, really suits me. As expected, a pro is different.\n"
     },
     {
       "name": "Loves Only You",
@@ -125,21 +125,21 @@
       "text": "Looks like I'll have a nice update to share with the commumem during the next stream ♪ …Oh, bythe way, \"commumem\" means the members of my fan community.\n"
     },
     {
-      "text": "I know. Of course I do. But here... I have to carry myself as a trainer. I hold back my excitement as a fan, telling myself it's best to just pretend not know.\n",
       "choice_data_list": [
         "<size=30>Streaming, hu… must be tough even though you're busy.</size>",
         "<size=30>Streaming, huh… must be tough even though you're busy.</size>"
-      ]
+      ],
+      "text": "I know. Of course I do. But here... I have to carry myself as a trainer. I hold back my excitement as a fan, telling myself it's best to just pretend not know.\n"
     },
     {
       "name": "Loves Only You",
       "text": "Hehe, it's not hard at all. I've been doing this for years now, after all\n"
     },
     {
-      "text": "In the flow of conversation, I decided to ask something I'd been curious about for a while I finally decided to ask what I'd been wondering about.\n",
       "choice_data_list": [
         "<size=36>Why do you put so much effort into streaming?.</size>"
-      ]
+      ],
+      "text": "In the flow of conversation, I decided to ask something I'd been curious about for a while I finally decided to ask what I'd been wondering about.\n"
     },
     {
       "name": "Loves Only You",
@@ -182,11 +182,11 @@
       "text": "...But you know, it's precisely within relationships where we can talk like this that I feel it. That thing called Love, you know.\n"
     },
     {
-      "name": "Loves Only You",
-      "text": "Well then, see you next time♪\nLove me~♡ Love you~♡ It's Loves Only You~♡",
       "choice_data_list": [
         " …Feeling their feelings close, huh…"
-      ]
+      ],
+      "name": "Loves Only You",
+      "text": "Well then, see you next time♪\nLove me~♡ Love you~♡ It's Loves Only You~♡"
     },
     {
       "text": "Recently, the racing world has evolved, blending sport with entertainment. Therefore, Umamusumes beloved by fans come in many different forms.\n"

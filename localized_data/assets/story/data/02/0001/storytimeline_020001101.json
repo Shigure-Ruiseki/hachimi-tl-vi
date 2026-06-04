@@ -47,11 +47,11 @@
       "text": "That's right! I'll be looking forward to your next race!"
     },
     {
-      "name": "Droopy-eyed Trainee",
-      "text": "Fight on, McQueen!",
       "choice_data_list": [
         "Let's treat this as a learning experience."
-      ]
+      ],
+      "name": "Droopy-eyed Trainee",
+      "text": "Fight on, McQueen!"
     },
     {
       "name": "Mejiro McQueen",
@@ -152,16 +152,16 @@
       "text": "I know she wants to answer their questions with honesty, and I \nintended to let her do so if it would help her sort out her own \nemotions."
     },
     {
-      "text": "However, the sight of her trying to shoulder all of the responsibility \non her own is too much for me to bear.",
       "choice_data_list": [
         "Let's go, McQueen."
-      ]
+      ],
+      "text": "However, the sight of her trying to shoulder all of the responsibility \non her own is too much for me to bear."
     },
     {
-      "text": "However, the sight of her trying to shoulder all of the responsibility \non her own is too much for me to bear.",
       "choice_data_list": [
         "Let's go, McQueen."
-      ]
+      ],
+      "text": "However, the sight of her trying to shoulder all of the responsibility \non her own is too much for me to bear."
     },
     {
       "name": "Mejiro McQueen",
@@ -220,11 +220,11 @@
       "text": "I imagine that she hopes to put this incident away as quickly as \npossible."
     },
     {
-      "text": "Not only that, but she likely means it as a way to redeem herself in \nthe eyes of fans and those she troubled.",
       "choice_data_list": [
         "All right. Our next race will be the Japan Cup.",
         "All right. Our next race will be the Japan Cup."
-      ]
+      ],
+      "text": "Not only that, but she likely means it as a way to redeem herself in \nthe eyes of fans and those she troubled."
     },
     {
       "name": "Mejiro McQueen",

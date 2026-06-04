@@ -86,12 +86,12 @@
       "text": "Hey!? That's not fair! Me too――"
     },
     {
-      "name": "Verxina",
-      "text": "Now, now, don't fight. Let's see―― \nThen, you can help with the next training exercise――",
       "choice_data_list": [
         "(……She's super popular)",
         "(……She's super popular)"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "Now, now, don't fight. Let's see―― \nThen, you can help with the next training exercise――"
     },
     {
       "text": "――Even during training, there were a fair share of admirers \nthat would sneak peeks at her. She really was a model student――"
@@ -101,11 +101,11 @@
       "text": "……Fuu."
     },
     {
-      "name": "Verxina",
-      "text": "I'm sorry, Trainer-san. Even though today's menu is \nfinished, asking you to record a video of my running.",
       "choice_data_list": [
         "It's fine!"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "I'm sorry, Trainer-san. Even though today's menu is \nfinished, asking you to record a video of my running."
     },
     {
       "name": "Verxina",
@@ -115,34 +115,34 @@
       "text": "Whether it was academics or running, she was \nalways working hard behind the scenes. She even \nstudied in her free time in the trainers' office."
     },
     {
-      "text": "All of it was to reach the 『Peak』――to be the one that \nher sisters looked up to. She truly was outstanding――",
       "choice_data_list": [
         "…………"
-      ]
+      ],
+      "text": "All of it was to reach the 『Peak』――to be the one that \nher sisters looked up to. She truly was outstanding――"
     },
     {
-      "text": "……Since Verxina was like that, \nshould I really stay the way I am?",
       "choice_data_list": [
         "(Hmmm……me too, I need to――)"
-      ]
+      ],
+      "text": "……Since Verxina was like that, \nshould I really stay the way I am?"
     },
     {
-      "name": "Verxina",
-      "text": "――Trainer-san. Excuse me.",
       "choice_data_list": [
         "Ah……w-what's up?"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "――Trainer-san. Excuse me."
     },
     {
       "name": "Verxina",
       "text": "There's still some time until training starts, \nso I was thinking of having some tea."
     },
     {
-      "name": "Verxina",
-      "text": "If you'd like, how about joining me?",
       "choice_data_list": [
         "Yeah……okay"
-      ]
+      ],
+      "name": "Verxina",
+      "text": "If you'd like, how about joining me?"
     },
     {
       "name": "Verxina",

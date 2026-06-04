@@ -56,12 +56,12 @@
       "text": "Everyone was waiting. \nFor change. For the one to overturn it all."
     },
     {
-      "name": "Almond Eye",
-      "text": "Then, I'm heading out……Trainer.",
       "choice_data_list": [
         "Yeah——Almond Eye. Go out there and win",
         "Yeah——Almond Eye. Go out there and win"
-      ]
+      ],
+      "name": "Almond Eye",
+      "text": "Then, I'm heading out……Trainer."
     },
     {
       "name": "Almond Eye",
@@ -74,20 +74,20 @@
       "text": "And it all began——Several years ago."
     },
     {
-      "text": "————Finally. ……Finally, finally!",
       "choice_data_list": [
         "(I'm finally at the starting line!)"
-      ]
+      ],
+      "text": "————Finally. ……Finally, finally!"
     },
     {
       "text": "I obtained a trainer license for Central. \nI'm going to be a trainer at Tracen Academy!"
     },
     {
-      "text": "To make sure I was firmly grounded, I came here looking \nfor some books that might be useful for me. Racing Textbooks, \nNutrition, Anatomy——the books were starting to pile up.",
       "choice_data_list": [
         "(I have to be as prepared as possible)",
         "(I have to be as prepared as possible)"
-      ]
+      ],
+      "text": "To make sure I was firmly grounded, I came here looking \nfor some books that might be useful for me. Racing Textbooks, \nNutrition, Anatomy——the books were starting to pile up."
     },
     {
       "text": "——Sometimes, Uma Musume are called \n『Existences that carry the aspirations of everyone』"
@@ -96,21 +96,21 @@
       "text": "Sometimes, a dramatic comeback. Or a graceless, \nunconventional race that throws everything out the window."
     },
     {
-      "text": "That a wish turns in to a run, one that \nmay even turn in to salvation. That's why——",
       "choice_data_list": [
         "(I want to be the one to support them)",
         "(I want to be the one to support them)"
-      ]
+      ],
+      "text": "That a wish turns in to a run, one that \nmay even turn in to salvation. That's why——"
     },
     {
       "text": "I hope the Uma Musume I'll be responsible for will be able to \nuse their full potential to make their dream come true. And to \nshine brightly enough that another will chase after them……!"
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "[——How to become a \"7 G1 winner\"……is it? \nThat's quite an interesting question]",
       "choice_data_list": [
         "!"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "[——How to become a \"7 G1 winner\"……is it? \nThat's quite an interesting question]"
     },
     {
       "text": "I looked up……Monthly Twinkle, a recurring talk show \nbroadcast, was airing on one of the bookstore monitors."
@@ -128,19 +128,19 @@
       "text": "……that is the question, isn't it? Although I have achieved \n7 crowns, I was unable to break past that, so I'm at a loss."
     },
     {
-      "name": "Symboli Rudolf",
-      "text": "However——When an Uma Musume that can achieve \nthat appears, I'm sure all eyes will be on her.",
       "choice_data_list": [
         "(……7 G1 wins. That's quite the topic)",
         "(……7 G1 wins. That's quite the topic)"
-      ]
+      ],
+      "name": "Symboli Rudolf",
+      "text": "However——When an Uma Musume that can achieve \nthat appears, I'm sure all eyes will be on her."
     },
     {
-      "text": "In the first place, winning just one G1 is an incredible \nachievement on its own. Symboli Rudolf and the others \nwith 7 G1 wins is already the longest of the long shots.",
       "choice_data_list": [
         "(Will someone really be able to top that?)",
         "(Will someone really be able to top that?)"
-      ]
+      ],
+      "text": "In the first place, winning just one G1 is an incredible \nachievement on its own. Symboli Rudolf and the others \nwith 7 G1 wins is already the longest of the long shots."
     },
     {
       "text": "With those lingering thoughts, I headed home……"
@@ -166,12 +166,12 @@
       "text": "Her form allowed for a wide range of motion, and she \nkicked at the ground, accelerating in the blink of \nan eye. Her eyes focused ahead, shining brightly."
     },
     {
-      "name": "???",
-      "text": "Haaa, phewー…… ……? Good afternoon! \nThat badge. Are you a Tracen Academy trainer?",
       "choice_data_list": [
         "Ah……Yeah! I'm a trainer, what about you?",
         "Ah……Yeah! I'm a trainer, what about you?"
-      ]
+      ],
+      "name": "???",
+      "text": "Haaa, phewー…… ……? Good afternoon! \nThat badge. Are you a Tracen Academy trainer?"
     },
     {
       "name": "Almond Eye",
@@ -199,10 +199,10 @@
       "text": "Occasionally, in the evening, I'd see her \ndoing her own self-training on the grounds."
     },
     {
-      "text": "Talented and hard-working, \nan 『Honor Student Uma Musume』",
       "choice_data_list": [
         "(That's——\"Almond Eye\")"
-      ]
+      ],
+      "text": "Talented and hard-working, \nan 『Honor Student Uma Musume』"
     },
     {
       "text": "That's……what I thought. At least, at first——"
