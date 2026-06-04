@@ -13,19 +13,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Checkout nhánh release hiện tại làm thư mục làm việc gốc
       - uses: actions/checkout@v4
         with:
           ref: release
           fetch-depth: 0
 
-      # 2. Checkout nhánh main (Tiếng Việt) về thư mục tạm 'vn_repo'
       - uses: actions/checkout@v4
         with:
           ref: main
           path: vn_repo
 
-      # 3. Checkout repo EN về thư mục tạm 'base_tl'
       - uses: actions/checkout@v4
         with:
           repository: Shigure-Ruiseki/hachimi-tl-en
@@ -33,12 +30,10 @@ jobs:
           fetch-depth: 0
           path: base_tl
 
-      # 4. Setup Python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # 5. Cài đặt các phụ thuộc cần thiết
       - name: Install dependencies
         run: |
           curl -O https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/refs/heads/dev/gen_index.py
@@ -46,18 +41,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 6. Thực hiện đồng bộ cấu trúc hình ảnh và hòa trộn tệp JSON
       - name: Merge changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Đập đi xây lại cấu trúc nền: Xóa thư mục cũ của release, chuyển dữ liệu EN vào thế chỗ
           rm -rf localized_data
           mv -f base_tl/localized_data .
           rm -rf base_tl
 
-          # Chạy script Python để gộp dữ liệu dịch và khôi phục Texture độc quyền từ vn_repo/localized_data
           cat << 'EOF' > smart_patch.py
           import json
           import os
@@ -85,10 +77,8 @@ jobs:
           vn_dir = "vn_repo/localized_data"
           target_dir = "localized_data"
 
-          # MẢNG THEO DÕI: Lưu lại danh sách những file độc quyền do VI tự thêm vào
           vi_exclusive_files = set()
 
-          # BƯỚC 1: Quét cứu tất cả các file Texture riêng hoặc file đặc thù (như includes_win) của bản Việt
           for root, _, files in os.walk(vn_dir):
               for file in files:
                   vn_file_path = os.path.join(root, file)
@@ -98,20 +88,16 @@ jobs:
                   if not os.path.exists(target_file_path):
                       os.makedirs(os.path.dirname(target_file_path), exist_ok=True)
                       shutil.copy2(vn_file_path, target_file_path)
-                      # Ghi nhận đây là file độc quyền của VI
                       vi_exclusive_files.add(target_file_path)
                   elif "includes_win" in file:
                       shutil.copy2(vn_file_path, target_file_path)
 
-          # BƯỚC 2: Quét xử lý gộp đệ quy đối với toàn bộ các file JSON trùng nhau
           for root, _, files in os.walk(target_dir):
               for file in files:
                   if file.endswith(".json"):
                       file_path = os.path.join(root, file)
                       
-                      # NẾU LÀ FILE ĐỘC QUYỀN CỦA VI -> Bỏ qua không chạy merge đệ quy (vì nội dung chuẩn sẵn rồi)
                       if file_path in vi_exclusive_files:
-                          # Chỉ chạy sắp xếp lại cấu trúc Natural Sort cho file đẹp hơn
                           with open(file_path, "r", encoding="utf-8") as f:
                               pure_vi = json.load(f)
                           with open(file_path, "w", encoding="utf-8") as f:
@@ -120,7 +106,6 @@ jobs:
 
                       vn_equivalent = os.path.join(vn_dir, os.path.relpath(file_path, target_dir))
                       
-                      # Nếu file JSON này tồn tại ở cả 2 bản, thực hiện trộn text thông minh
                       if os.path.exists(vn_equivalent):
                           with open(vn_equivalent, "r", encoding="utf-8") as f:
                               vi_json = json.load(f)
@@ -135,29 +120,24 @@ jobs:
 
           python smart_patch.py
 
-      # 7. Commit dữ liệu sạch lên nhánh release (Giữ nguyên vn_repo lúc này để Git nhận dạng file untracked)
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Merge changes (with Custom Textures)
           branch: release
           file_pattern: 'localized_data/*'
 
-      # [BƯỚC MỚI] 7.5 Dọn dẹp an toàn sau khi Git đã Commit thành công
       - name: Clean up temp folders
         run: rm -rf smart_patch.py vn_repo
 
-      # 8. Tạo file chỉ mục index.json
       - name: Create index
         run: python gen_index.py
 
-      # 9. Commit nốt file index lên release để hoàn tất workflow
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update index
           branch: release
           file_pattern: 'localized_data/* index.json'
 
-      # 10. Gửi Webhook thông báo kết quả hành động
       - name: Send update
         if: ${{ vars.NOTIFY_REPO }}
         run: |
