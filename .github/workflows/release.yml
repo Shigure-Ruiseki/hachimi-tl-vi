@@ -56,13 +56,16 @@ jobs:
           # Chạy script merge: Giữ nội dung dịch của main_repo, bổ sung key thiếu từ hachimi-tl-en
           python main_repo/quick_merge.py main_repo/localized_data hachimi-tl-en/localized_data
           
-          echo "=== Đồng bộ dữ liệu sạch sang thư mục release ==="
-          # Xóa sạch dữ liệu cũ trong release_repo/localized_data để tránh file rác (hoặc file đã bị xóa bên EN)
+          echo "=== Đồng bộ dữ liệu sạch từ hachimi-tl-en sang thư mục release ==="
+          # Xóa sạch dữ liệu cũ trong release_repo/localized_data để tránh file rác
           rm -rf release_repo/localized_data
           mkdir -p release_repo/localized_data
           
-          # Copy toàn bộ dữ liệu sau khi merge từ main_repo sang release_repo
-          cp -r main_repo/localized_data/. release_repo/localized_data/
+          # SỬA TẠI ĐÂY: Copy từ hachimi-tl-en (nơi đã được gộp đầy đủ file) sang release_repo
+          cp -r hachimi-tl-en/localized_data/. release_repo/localized_data/
+          
+          echo "=== Giải phóng bộ nhớ thư mục EN ==="
+          rm -rf hachimi-tl-en
 
       # 6. CHỈ GEN INDEX KHI TẤT CẢ ĐÃ XONG
       - name: Generate Index Finalization
