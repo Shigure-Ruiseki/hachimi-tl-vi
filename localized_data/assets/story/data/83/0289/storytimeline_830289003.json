@@ -1,0 +1,225 @@
+{
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Lunch break. Forever Young had called me over, but by the time I reached the table, someone was already there."
+    },
+    {
+      "name": "Forever Young",
+      "text": "Remember that everyday concept merch prototype I showed you a while back?\nWe're having a reveal party soon, so you should totally come! ♪"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Fr? I'm so there~!\nWhere's it at?"
+    },
+    {
+      "name": "Announcer",
+      "text": "『Ladies and gentlemen from Japan, \nwelcome to Los Angeles!』"
+    },
+    {
+      "choice_data_list": [
+        "Wait, overseas...?! No way...!!"
+      ],
+      "name": "Announcer",
+      "text": "Through exhibitions and hands-on experiences, this event brings together people, technology, and ideas to pave the way for new possibilities in racing—"
+    },
+    {
+      "name": "Visitor A",
+      "text": "Daddy! They're holding a fashion show\nwith racing outfits from all over the world!\nLet's go watch it~!"
+    },
+    {
+      "name": "Visitor B",
+      "text": "Your company's reputation has reached far beyond borders,\nand I have been hoping to speak with you for some time.\nSince we have this wonderful opportunity, I would love to—"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "『RACING WORLD EXPO”...?』\n...Like, what even is that?!"
+    },
+    {
+      "choice_data_list": [
+        "This is just way too off the charts..."
+      ],
+      "name": "Gold City",
+      "text": "Looking at the brochure, it's like a racing festival that brings together companies on a global scale... I guess? And Yan-ko's booth is here too, right?"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, Jordan, City... and you're here too!"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Oh, Jordan, City... and you as well!"
+    },
+    {
+      "choice_data_list": [
+        "Yeah, had no idea it was overseas..."
+      ],
+      "name": "Marche Lorraine",
+      "text": "『What a coincidence~!\nDid Yan-ko-san invite all of you too?』"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "This Expo is a truly lovely event...\nYou can just feel the love for racing throughout the venue ♡"
+    },
+    {
+      "name": "Forever Young",
+      "text": "Thank you for coming!\nHaha, just kidding♪ Are you guys enjoying yourselves?"
+    },
+    {
+      "choice_data_list": [
+        "Suggesting it...? Wait, don't tell me..."
+      ],
+      "name": "Forever Young",
+      "text": "Wow, since it's the very first one, all eyes are on us♪\nSuggesting we do an Expo was totally\nworth it!"
+    },
+    {
+      "choice_data_list": [
+        "Eeeeh?!"
+      ],
+      "name": "Forever Young",
+      "text": "The Expo is hosted by my dad's company♪\nAnd the mastermind behind it is M-E!"
+    },
+    {
+      "name": "Young's Father",
+      "text": "Young, the main event is about to start."
+    },
+    {
+      "choice_data_list": [
+        "Finishing touches?"
+      ],
+      "name": "Forever Young",
+      "text": "Oh, for real\nWell then, guess I'll go put on the finishing touches!"
+    },
+    {
+      "choice_data_list": [
+        "Eeeeh?!"
+      ],
+      "name": "Forever Young",
+      "text": "Yep, we're doing a commemorative race♪\nWith the ones who call this place home—\nSome big-name Umamusume!"
+    },
+    {
+      "name": "Forever Young",
+      "text": "I'm gonna paint the world in my colors—\nand drive everyone wild.\nAnd it all starts right here♪"
+    },
+    {
+      "name": "Visitor D",
+      "text": "She thinks they'll win?\nOn U.S. dirt?"
+    },
+    {
+      "name": "Visitor E",
+      "text": "They don't stand a chance against the local powerhouses."
+    },
+    {
+      "choice_data_list": [
+        "<size=38>If anyone can spark a true innovation, it's her!.</size>",
+        "<size=35>(The roadmap to victory must already be laid out</size>)"
+      ],
+      "name": "Monologue",
+      "text": "It's only a natural reaction. The name Forever Young\nhasn't made waves overseas yet. But—"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "That's right ♡ Yanko-san...\nIs the kind of girl who absolutely gets things done once she sets her mind to it.\nAt least, that's what onee-chan said♪"
+    },
+    {
+      "name": "Marche Lorraine",
+      "text": "You can do it!\nLove-chan and I are right here with you!"
+    },
+    {
+      "name": "Monologue",
+      "text": "CLANG!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Right? It's an insane race, but I honestly can't picture Yanko losing."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Like, Yanko's totally gonna pull it off, right?!\nI mean, she's always come through like that up till now!"
+    },
+    {
+      "name": "Monologue",
+      "text": "CLANG!"
+    },
+    {
+      "choice_data_list": [
+        "<size=32>She must definitely have a strategy for victory in place!</size>"
+      ],
+      "name": "Monologue",
+      "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—"
+    },
+    {
+      "name": "Young's Father",
+      "text": "—That girl is incredible for believing she can do it.\nOnce she sets her sights on a goal, she takes the shortest path and firmly secures the results."
+    },
+    {
+      "name": "Young's Father",
+      "text": "Young...\nToday, you're going to show the world \nwhat you're made of, aren't you?"
+    },
+    {
+      "name": "Monologue",
+      "text": "CLANG!"
+    },
+    {
+      "choice_data_list": [
+        "<size=32>She must definitely have a strategy for victory in place!</size>"
+      ],
+      "name": "Monologue",
+      "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—"
+    },
+    {
+      "name": "Young's Father",
+      "text": "—The world is a towering wall. But Young\nhas poured everything into winning, all the way up until today."
+    },
+    {
+      "name": "Young's Father",
+      "text": "All that's left now is to believe.\nThat my beloved child will live up to expectations—\nAnd that she has the power to achieve it."
+    },
+    {
+      "name": "Monologue",
+      "text": "CLANG!"
+    },
+    {
+      "choice_data_list": [
+        "<size=34>No wonder the local dirt racers are so powerful...!</size>"
+      ],
+      "name": "Monologue",
+      "text": "She shines despite the away turf—but \nlocal racers guard their pride. Showing power early, they refuse to yield the lead."
+    },
+    {
+      "choice_data_list": [
+        "Goooooooo!!!"
+      ],
+      "name": "Monologue",
+      "text": "But Forever Young refuses to back down.\nAs if to show the future she will forge with her own hands, she rapidly closes the gap."
+    },
+    {
+      "choice_data_list": [
+        "FOREVER YOUNG!!"
+      ],
+      "name": "Caster",
+      "text": "The winner of\nthis memorable race was..."
+    },
+    {
+      "name": "Overseas Trainers",
+      "text": "Care to try a U.S.-\nbased training plan?"
+    },
+    {
+      "name": "Foreign Company President",
+      "text": "A runner like you would make\nfor a great business partner!"
+    },
+    {
+      "choice_data_list": [
+        "(That's right—you have a grand vision.)",
+        "(Yes—you possess a grand vision.)"
+      ],
+      "name": "Forever Young",
+      "text": "I'm really flattered\nby the offers, but first..."
+    },
+    {
+      "name": "Forever Young",
+      "text": "With my roadmap—I'll bring innovation to the racing world!"
+    }
+  ],
+  "title": "Dreams are Forever"
+}
