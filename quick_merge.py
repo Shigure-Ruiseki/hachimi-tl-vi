@@ -4,7 +4,6 @@ import shutil
 import sys
 import datetime
 
-
 def merge_json(old_data, new_data, path="root"):
     """
     Hòa trộn dữ liệu JSON: Gộp sâu (recursive) cho mọi trường hợp dict.
