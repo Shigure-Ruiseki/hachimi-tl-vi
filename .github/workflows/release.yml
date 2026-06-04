@@ -13,71 +13,138 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Lấy dữ liệu nhánh main (Tiếng Việt) và các file script
-      - name: Checkout main
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          path: main_repo
-
-      # 2. Lấy khung dữ liệu chuẩn từ repo EN (Mọi file mới/cũ đều ở đây)
-      - name: Checkout hachimi-tl-en
-        uses: actions/checkout@v4
-        with:
-          repository: Shigure-Ruiseki/hachimi-tl-en
-          path: hachimi-tl-en
-
-      # 3. Checkout nhánh release để ghi kết quả cuối cùng lên đây
-      - name: Checkout release
-        uses: actions/checkout@v4
+      # 1. Checkout trực tiếp nhánh release để làm thư mục gốc làm việc
+      - uses: actions/checkout@v4
         with:
           ref: release
-          path: release_repo
+          fetch-depth: 0
 
-      # 4. Setup Python
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      # 2. Checkout repo EN để lấy khung dữ liệu chuẩn nền tảng
+      - uses: actions/checkout@v4
+        with:
+          repository: Shigure-Ruiseki/hachimi-tl-en
+          ref: main
+          fetch-depth: 0
+          path: base_tl
+
+      # 3. Setup Python
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # 5. Cài đặt thư viện bổ trợ
+      # 4. Tải và cài đặt các phụ thuộc cần thiết cho việc gen index
       - name: Install dependencies
         run: |
+          curl -O https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/refs/heads/dev/gen_index.py
+          curl -O https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/refs/heads/dev/requirements.txt
           python -m pip install --upgrade pip
-          if [ -f main_repo/requirements.txt ]; then 
-            pip install -r main_repo/requirements.txt
-          else
-            pip install pygit2 blake3 cffi
-          fi
+          pip install -r requirements.txt
 
-      # 6. THỰC HIỆN MERGE THÔNG MINH BẰNG PYTHON
-      # Lấy dữ liệu VN dịch (main_repo) gộp đè vào khung EN (hachimi-tl-en) để giữ file chuẩn
-      - name: Merge missing keys from EN
+      # 5. Xử lý Merge dữ liệu hỗ trợ Object phân tầng
+      - name: Merge changes
         run: |
-          # Chạy script: giữ text dịch từ main_repo, bổ sung key từ hachimi-tl-en
-          python main_repo/quick_merge.py main_repo/localized_data hachimi-tl-en/localized_data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          echo "=== Làm sạch và chuyển dữ liệu hoàn chỉnh sang thư mục release ==="
-          rm -rf release_repo/localized_data
-          mkdir -p release_repo/localized_data
-          
-          # Đưa dữ liệu sau khi gộp hoàn chỉnh sang release
-          cp -r main_repo/localized_data/. release_repo/localized_data/
-          
-          # Dọn dẹp bộ nhớ tạm
-          rm -rf hachimi-tl-en
+          # Kéo dữ liệu main mới nhất về local của runner để lát nữa đối chiếu
+          git fetch origin main
 
-      # 7. CHỈ GENERATE INDEX KHI DỮ LIỆU ĐÃ SẠCH 100%
-      - name: Create index
-        run: |
-          cp main_repo/gen_index.py release_repo/
-          cd release_repo
-          python gen_index.py
-          rm -f gen_index.py
+          # Bước đập đi xây lại giống mẫu của bạn:
+          # Xóa sạch dữ liệu release cũ, đưa nguyên trạng dữ liệu EN (base_tl) làm nền
+          rm -rf localized_data
+          mv -f base_tl/localized_data .
+          rm -rf base_tl
 
-      # 8. Commit kết quả trực tiếp lên nhánh release
+          # Viết một script Python chạy tại chỗ (Inline Script) để lấy TIẾNG VIỆT từ main gộp vào nền EN
+          # Script này kế thừa thuật toán Đệ quy hỗ trợ cả Object và Natural Sort (A-Z) từ quick_merge.py
+          cat << 'EOF' > smart_patch.py
+          import json
+          import os
+          import subprocess
+
+          def sort_dict_by_natural_key(d):
+              if not isinstance(d, dict): return d
+              def get_sort_key(item):
+                  key = item[0]
+                  if key.isdigit(): return (0, int(key))
+                  return (1, key.lower())
+              return {k: sort_dict_by_natural_key(v) for k, v in sorted(d.items(), key=get_sort_key)}
+
+          def merge_json(old_data, new_data):
+              """
+              old_data: Tiếng Việt (Ưu tiên giữ)
+              new_data: Tiếng Anh nền (Bổ sung nếu thiếu)
+              """
+              if isinstance(old_data, dict) and isinstance(new_data, dict):
+                  result = dict(new_data) # Lấy khung EN làm chuẩn trước
+                  
+                  # Đè tiếng Việt lên khung EN
+                  for key, value in old_data.items():
+                      # Nếu cả 2 đều là Object, tiến hành đệ quy đi sâu vào cấu trúc bên trong
+                      if key in result and isinstance(result[key], dict) and isinstance(value, dict):
+                          result[key] = merge_json(value, result[key])
+                      else:
+                          # Nếu trùng key trần (String), ưu tiên giữ nội dung tiếng Việt (old_data)
+                          result[key] = value
+                  return sort_dict_by_natural_key(result)
+              return old_data if old_data is not None else new_data
+
+          # Quét qua toàn bộ các file JSON nền EN vừa được move ra ngoài
+          target_dir = "localized_data"
+          for root, _, files in os.walk(target_dir):
+              for file in files:
+                  if file.endswith(".json"):
+                      file_path = os.path.join(root, file)
+                      
+                      # Thử lấy nội dung file tương ứng từ nhánh main (Tiếng Việt) ra
+                      try:
+                          vi_content = subprocess.check_output(["git", "show", f"origin/main:{file_path}"], stderr=subprocess.DEVNULL).decode('utf-8')
+                          vi_json = json.loads(vi_content)
+                      except Exception:
+                          # Nếu nhánh main không có file này (file mới hoàn toàn từ EN), giữ nguyên bản EN
+                          continue
+
+                      # Đọc nội dung file nền EN hiện tại
+                      with open(file_path, "r", encoding="utf-8") as f:
+                          en_json = json.load(f)
+
+                      # Tiến hành gộp thông minh: Tiếng Việt đè lên EN, giữ các key Object/String phân tầng
+                      merged = merge_json(vi_json, en_json)
+
+                      # Ghi đè kết quả sạch cuối cùng xuống tệp tin
+                      with open(file_path, "w", encoding="utf-8") as f:
+                          json.dump(merged, f, ensure_ascii=False, indent=2, sort_keys=False)
+          EOF
+
+          # Chạy script gộp dữ liệu
+          python smart_patch.py
+          rm -f smart_patch.py
+
+      # 6. Commit toàn bộ thay đổi dữ liệu sạch lên nhánh release
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync release: Smart merge from main and EN base"
+          commit_message: Merge changes
           branch: release
-          repository: release_repo
+          file_pattern: 'localized_data/*'
+
+      # 7. Thực thi tạo chỉ mục tệp tin từ gen_index.py đã tải về ở bước 4
+      - name: Create index
+        run: python gen_index.py
+
+      # 8. Commit file index.json cuối cùng lên nhánh release
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update index
+          branch: release
+          file_pattern: 'localized_data/* index.json'
+
+      # 9. Gửi Webhook thông báo hành động hoàn tất
+      - name: Send update
+        if: ${{ vars.NOTIFY_REPO }}
+        run: |
+          curl -L -X POST \
+          -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer ${{ secrets.UPD_TOKEN }}" \
+          -H "X-GitHub-Api-Version: 2022-11-28" \
+          https://api.github.com/repos/${{ github.repository_owner }}/${{ vars.NOTIFY_REPO }}/actions/workflows/release.yml/dispatches \
+          -d '{"ref":"main"}'
