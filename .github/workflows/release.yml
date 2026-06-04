@@ -44,7 +44,7 @@ jobs:
 
       - name: Merge missing keys from EN
         run: |
-          python quick_merge.py localized_data hachimi-tl-en/localized_data
+          python quick_merge.py hachimi-tl-en/localized_data localized_data 
           rm -rf hachimi-tl-en
 
       - name: Create index
