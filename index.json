@@ -7765,8 +7765,8 @@
     },
     {
       "path": "assets/story/data/04/1132/storytimeline_041132003.json",
-      "hash": "333c3160c3d94bae823bb21e0c8989515d17d5a01f7419c22b04724049475903",
-      "size": 15584
+      "hash": "22bfc7a59665245e5e6cd141e715115ac9807c6c4b6a9f6794e5d190882f3578",
+      "size": 14014
     },
     {
       "path": "assets/story/data/04/1135/storytimeline_041135001.json",
@@ -21817,6 +21817,11 @@
       "path": "race_jikkyo_message_dict.json",
       "hash": "a7daecd94408bc4318b2217d07ed2db1887499a5171e4f3c5cb06fa3238d6a11",
       "size": 257684
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "9663c646d5aee6fb2eb3ef4e6a551945566f7d4b46c8bc42df2801217091d494",
+      "size": 3802254
     }
   ]
 }
