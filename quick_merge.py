@@ -6,22 +6,28 @@ import sys
 
 def merge_json(old_data, new_data):
     """
-    Hòa trộn dữ liệu JSON: Nếu trùng key, ưu tiên giữ nguyên giá trị cũ (old_data).
-    Chỉ thêm vào những key mới xuất hiện từ bản update (new_data).
+    Hòa trộn dữ liệu JSON: Hỗ trợ gộp sâu (recursive merge).
+    Nếu key đã tồn tại và cả hai đều là dict, tiếp tục gộp.
+    Nếu không, ưu tiên giữ giá trị cũ (old_data).
     """
+    # Nếu cả hai là dict, thực hiện gộp đệ quy
     if isinstance(old_data, dict) and isinstance(new_data, dict):
-        # Khởi tạo kết quả bằng bản dịch cũ của local
         result = dict(old_data)
-
         for key, value in new_data.items():
-            # CHÌA KHÓA: Chỉ thêm key mới nếu nó CHƯA TỒN TẠI trong bản cũ của local
-            if key not in result:
+            if key in result and isinstance(result[key], dict) and isinstance(value, dict):
+                # Đệ quy xuống cấp tiếp theo
+                result[key] = merge_json(result[key], value)
+            elif key not in result:
+                # Chỉ thêm nếu chưa tồn tại
                 result[key] = value
-
         return dict(sorted(result.items()))
+    
+    # Nếu là list, kết hợp list (nếu cần) hoặc giữ cũ
+    elif isinstance(old_data, list) and isinstance(new_data, list):
+        return old_data # Giữ nguyên list cũ để tránh hỏng chỉ số index
 
     # Nếu không phải dict, ưu tiên giữ lại dữ liệu cũ của local
-    return old_data if old_data else new_data
+    return old_data if old_data is not None else new_data
 
 
 def merge_folders(old_dir, new_dir):
