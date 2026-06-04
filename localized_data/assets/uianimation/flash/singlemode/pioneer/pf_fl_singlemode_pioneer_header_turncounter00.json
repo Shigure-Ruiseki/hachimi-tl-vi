@@ -1,25 +1,6 @@
 {
   "data": {
     "motion_parameter_list": {
-      "6": {
-        "text_param_list": {
-          "0": {
-            "text": "left"
-          }
-        }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "scale": {
-              "x": 0.9,
-              "y": 0.9,
-              "z": 1.0
-            },
-            "text": "Turns"
-          }
-        }
-      },
       "12": {
         "text_param_list": {
           "0": {
@@ -45,6 +26,25 @@
         "text_param_list": {
           "0": {
             "text": "Eval Meeting in"
+          }
+        }
+      },
+      "6": {
+        "text_param_list": {
+          "0": {
+            "text": "left"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "scale": {
+              "x": 0.9,
+              "y": 0.9,
+              "z": 1.0
+            },
+            "text": "Turns"
           }
         }
       }

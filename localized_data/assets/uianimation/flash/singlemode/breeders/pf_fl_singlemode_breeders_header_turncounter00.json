@@ -1,20 +1,6 @@
 {
   "data": {
     "motion_parameter_list": {
-      "6": {
-        "text_param_list": {
-          "0": {
-            "text": "left"
-          }
-        }
-      },
-      "7": {
-        "text_param_list": {
-          "0": {
-            "text": "Turns"
-          }
-        }
-      },
       "12": {
         "text_param_list": {
           "0": {
@@ -40,6 +26,20 @@
         "text_param_list": {
           "0": {
             "text": "Review in"
+          }
+        }
+      },
+      "6": {
+        "text_param_list": {
+          "0": {
+            "text": "left"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "Turns"
           }
         }
       }
