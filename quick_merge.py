@@ -5,31 +5,23 @@ import sys
 import datetime
 
 def merge_json(old_data, new_data, path="root"):
-    """
-    Hòa trộn dữ liệu JSON: Gộp sâu (recursive) cho mọi trường hợp dict.
-    """
-    # Nếu cả hai là dict, tiến hành gộp sâu
     if isinstance(old_data, dict) and isinstance(new_data, dict):
         result = dict(old_data)
         
         for key, value in new_data.items():
-            # Nếu key đã tồn tại và cả hai đều là dict -> Đệ quy tiếp
             if key in result and isinstance(result[key], dict) and isinstance(value, dict):
                 print(f"[DEBUG] Đệ quy vào key: {path} -> {key}")
                 result[key] = merge_json(result[key], value, path=f"{path}.{key}")
             
-            # Nếu key chưa tồn tại -> Thêm mới hoàn toàn
             elif key not in result:
                 print(f"[DEBUG] Thêm mới key: {path} -> {key}")
                 result[key] = value
             
-            # Nếu key đã tồn tại nhưng là string/list/int -> Giữ nguyên giá trị cũ
             else:
                 print(f"[DEBUG] Key đã tồn tại, giữ giá trị cũ: {path} -> {key}")
                 
         return dict(sorted(result.items()))
     
-    # Nếu không phải dict, ưu tiên giữ lại giá trị cũ
     return old_data if old_data is not None else new_data
 
 
@@ -40,7 +32,6 @@ def merge_folders(old_dir, new_dir):
 
     print(f"[+] Đang tiến hành quét và gộp từ '{new_dir}' vào '{old_dir}'...")
 
-    # Mở file log để ghi
     with open("merge_log.txt", "w", encoding="utf-8") as log_file:
         log_file.write(f"Log merge: {new_dir} -> {old_dir}\n")
         log_file.write(f"Thời gian: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
@@ -64,7 +55,6 @@ def merge_folders(old_dir, new_dir):
                             with open(old_path, "r", encoding="utf-8") as f:
                                 old_json = json.load(f)
 
-                        # Ghi lại key mới trước khi merge
                         def log_new_keys(old, new, path):
                             for k, v in new.items():
                                 if k not in old:

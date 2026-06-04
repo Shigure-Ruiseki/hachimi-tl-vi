@@ -36,29 +36,24 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # BỔ SUNG: Clone repo nguồn để có dữ liệu EN mới nhất mà merge
       - name: Checkout hachimi-tl-en
         uses: actions/checkout@v4
         with:
           repository: Shigure-Ruiseki/hachimi-tl-en
           path: hachimi-tl-en
 
-      # BỔ SUNG: Chạy script gộp dữ liệu
       - name: Merge missing keys from EN
         run: |
           python quick_merge.py localized_data hachimi-tl-en/localized_data
           rm -rf hachimi-tl-en
 
-      # Chạy gen index
       - name: Create index
         run: python gen_index.py
 
-      # Commit tất cả thay đổi (cả JSON đã merge và index.json)
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Sync release: Merge main and update index"
           branch: release
-          # Bỏ file_pattern để nó tự động commit tất cả các file đã thay đổi
 
       - name: Send update
         if: ${{ vars.NOTIFY_REPO }}
