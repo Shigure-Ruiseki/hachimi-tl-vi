@@ -37,7 +37,8 @@ def merge_json(old_data, new_data, path, log_file):
             else:
                 pass
                 
-        return dict(sorted(result.items()))
+        # FIX 1: Dùng Natural Sort ở đây thay vì dict(sorted(...)) để đồng bộ từ các tầng sâu
+        return sort_dict_by_natural_key(result)
     
     return old_data if old_data is not None else new_data
 
@@ -73,7 +74,8 @@ def merge_folders(old_dir, new_dir):
                         final_sorted_json = sort_dict_by_natural_key(merged)
 
                         with open(old_path, "w", encoding="utf-8") as f:
-                            json.dump(final_sorted_json, f, ensure_ascii=False, indent=2, sort_keys=True)
+                            # FIX 2: Chuyển sort_keys sang False để giữ nguyên kết quả sắp xếp của final_sorted_json
+                            json.dump(final_sorted_json, f, ensure_ascii=False, indent=2, sort_keys=False)
                         
                         log_file.write(f"[MERGED JSON] {rel_path}\n")
                     except Exception as e:
