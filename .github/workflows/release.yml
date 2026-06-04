@@ -13,13 +13,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Checkout trực tiếp nhánh release để làm thư mục gốc làm việc
       - uses: actions/checkout@v4
         with:
           ref: release
           fetch-depth: 0
 
-      # 2. Checkout repo EN để lấy khung dữ liệu chuẩn nền tảng
       - uses: actions/checkout@v4
         with:
           repository: Shigure-Ruiseki/hachimi-tl-en
@@ -27,12 +25,10 @@ jobs:
           fetch-depth: 0
           path: base_tl
 
-      # 3. Setup Python
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # 4. Tải và cài đặt các phụ thuộc cần thiết cho việc gen index
       - name: Install dependencies
         run: |
           curl -O https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/refs/heads/dev/gen_index.py
@@ -40,27 +36,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 5. Xử lý Merge dữ liệu hỗ trợ Object phân tầng
       - name: Merge changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Kéo dữ liệu main mới nhất về local của runner để lát nữa đối chiếu
+          # Kéo dữ liệu main mới nhất về để lấy cả text và texture
           git fetch origin main
 
-          # Bước đập đi xây lại giống mẫu của bạn:
-          # Xóa sạch dữ liệu release cũ, đưa nguyên trạng dữ liệu EN (base_tl) làm nền
+          # Tạo một thư mục tạm để chứa bản sao lưu cấu trúc main (VN)
+          mkdir -p vn_temp
+          cd vn_temp
+          git archive origin/main localized_data | tar -x
+          cd ..
+
+          # Tiến hành dọn dẹp release và đưa EN làm nền
           rm -rf localized_data
           mv -f base_tl/localized_data .
           rm -rf base_tl
 
-          # Viết một script Python chạy tại chỗ (Inline Script) để lấy TIẾNG VIỆT từ main gộp vào nền EN
-          # Script này kế thừa thuật toán Đệ quy hỗ trợ cả Object và Natural Sort (A-Z) từ quick_merge.py
+          # Script Python nâng cấp: Gộp JSON + Khôi phục Texture riêng của VN
           cat << 'EOF' > smart_patch.py
           import json
           import os
-          import subprocess
+          import shutil
 
           def sort_dict_by_natural_key(d):
               if not isinstance(d, dict): return d
@@ -71,74 +70,69 @@ jobs:
               return {k: sort_dict_by_natural_key(v) for k, v in sorted(d.items(), key=get_sort_key)}
 
           def merge_json(old_data, new_data):
-              """
-              old_data: Tiếng Việt (Ưu tiên giữ)
-              new_data: Tiếng Anh nền (Bổ sung nếu thiếu)
-              """
               if isinstance(old_data, dict) and isinstance(new_data, dict):
-                  result = dict(new_data) # Lấy khung EN làm chuẩn trước
-                  
-                  # Đè tiếng Việt lên khung EN
+                  result = dict(new_data)
                   for key, value in old_data.items():
-                      # Nếu cả 2 đều là Object, tiến hành đệ quy đi sâu vào cấu trúc bên trong
                       if key in result and isinstance(result[key], dict) and isinstance(value, dict):
                           result[key] = merge_json(value, result[key])
                       else:
-                          # Nếu trùng key trần (String), ưu tiên giữ nội dung tiếng Việt (old_data)
                           result[key] = value
                   return sort_dict_by_natural_key(result)
               return old_data if old_data is not None else new_data
 
-          # Quét qua toàn bộ các file JSON nền EN vừa được move ra ngoài
+          # BƯỚC 1: Quét thư mục VN tạm để cứu các file texture/file riêng biệt
+          vn_dir = "vn_temp/localized_data"
           target_dir = "localized_data"
+
+          for root, _, files in os.walk(vn_dir):
+              for file in files:
+                  vn_file_path = os.path.join(root, file)
+                  rel_path = os.path.relpath(vn_file_path, vn_dir)
+                  target_file_path = os.path.join(target_dir, rel_path)
+
+                  # Nếu file này ở bên nền EN không có (File texture mới, ảnh .png, font...)
+                  if not os.path.exists(target_file_path):
+                      os.makedirs(os.path.dirname(target_file_path), exist_ok=True)
+                      shutil.copy2(vn_file_path, target_file_path)
+
+          # BƯỚC 2: Tiến hành merge nội dung JSON như cũ
           for root, _, files in os.walk(target_dir):
               for file in files:
                   if file.endswith(".json"):
                       file_path = os.path.join(root, file)
+                      vn_equivalent = os.path.join(vn_dir, os.path.relpath(file_path, target_dir))
                       
-                      # Thử lấy nội dung file tương ứng từ nhánh main (Tiếng Việt) ra
-                      try:
-                          vi_content = subprocess.check_output(["git", "show", f"origin/main:{file_path}"], stderr=subprocess.DEVNULL).decode('utf-8')
-                          vi_json = json.loads(vi_content)
-                      except Exception:
-                          # Nếu nhánh main không có file này (file mới hoàn toàn từ EN), giữ nguyên bản EN
-                          continue
+                      # Nếu bên bản dịch VN có file JSON này, tiến hành merge text
+                      if os.path.exists(vn_equivalent):
+                          with open(vn_equivalent, "r", encoding="utf-8") as f:
+                              vi_json = json.load(f)
+                          with open(file_path, "r", encoding="utf-8") as f:
+                              en_json = json.load(f)
 
-                      # Đọc nội dung file nền EN hiện tại
-                      with open(file_path, "r", encoding="utf-8") as f:
-                          en_json = json.load(f)
+                          merged = merge_json(vi_json, en_json)
 
-                      # Tiến hành gộp thông minh: Tiếng Việt đè lên EN, giữ các key Object/String phân tầng
-                      merged = merge_json(vi_json, en_json)
-
-                      # Ghi đè kết quả sạch cuối cùng xuống tệp tin
-                      with open(file_path, "w", encoding="utf-8") as f:
-                          json.dump(merged, f, ensure_ascii=False, indent=2, sort_keys=False)
+                          with open(file_path, "w", encoding="utf-8") as f:
+                              json.dump(merged, f, ensure_ascii=False, indent=2, sort_keys=False)
           EOF
 
-          # Chạy script gộp dữ liệu
           python smart_patch.py
-          rm -f smart_patch.py
+          rm -rf smart_patch.py vn_temp
 
-      # 6. Commit toàn bộ thay đổi dữ liệu sạch lên nhánh release
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Merge changes
+          commit_message: Merge changes (with Custom Textures)
           branch: release
           file_pattern: 'localized_data/*'
 
-      # 7. Thực thi tạo chỉ mục tệp tin từ gen_index.py đã tải về ở bước 4
       - name: Create index
         run: python gen_index.py
 
-      # 8. Commit file index.json cuối cùng lên nhánh release
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update index
           branch: release
           file_pattern: 'localized_data/* index.json'
 
-      # 9. Gửi Webhook thông báo hành động hoàn tất
       - name: Send update
         if: ${{ vars.NOTIFY_REPO }}
         run: |
