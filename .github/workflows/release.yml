@@ -13,88 +13,42 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Checkout nhánh main để lấy dữ liệu VN mới nhất và các script, requirements
-      - name: Checkout main
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          path: main_repo
-
-      # 2. Checkout repo EN để làm nền tảng gộp key
-      - name: Checkout hachimi-tl-en
-        uses: actions/checkout@v4
-        with:
-          repository: Shigure-Ruiseki/hachimi-tl-en
-          path: hachimi-tl-en
-
-      # 3. Checkout nhánh release để làm thư mục đích chứa kết quả cuối cùng
-      - name: Checkout release
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: release
-          path: release_repo
+          fetch-depth: 0
 
-      # 4. Setup Python
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Merge changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge -X theirs origin/main
+
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+            python-version: "3.12"
 
-      # BƯỚC BỔ SUNG: Cài đặt dependencies (pygit2, cffi, blake3...) từ main_repo
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          if [ -f main_repo/requirements.txt ]; then
-            pip install -r main_repo/requirements.txt
-          else
-            pip install pygit2 blake3 cffi
-          fi
+            python -m pip install --upgrade pip
+            pip install -r requirements.txt
 
-      # 5. TIẾN HÀNH MERGE: Gộp dữ liệu từ main (VN) vào hachimi-tl-en (EN)
-      - name: Execute Smart Merge Data
-        run: |
-          # Chạy script merge: Giữ nội dung dịch của main_repo, bổ sung key thiếu từ hachimi-tl-en
-          python main_repo/quick_merge.py main_repo/localized_data hachimi-tl-en/localized_data
-          
-          echo "=== Đồng bộ dữ liệu sạch từ hachimi-tl-en sang thư mục release ==="
-          # Xóa sạch dữ liệu cũ trong release_repo/localized_data để tránh file rác
-          rm -rf release_repo/localized_data
-          mkdir -p release_repo/localized_data
-          
-          # SỬA TẠI ĐÂY: Copy từ hachimi-tl-en (nơi đã được gộp đầy đủ file) sang release_repo
-          cp -r hachimi-tl-en/localized_data/. release_repo/localized_data/
-          
-          echo "=== Giải phóng bộ nhớ thư mục EN ==="
-          rm -rf hachimi-tl-en
+      - name: Create index
+        run: python gen_index.py
 
-      # 6. CHỈ GEN INDEX KHI TẤT CẢ ĐÃ XONG
-      - name: Generate Index Finalization
-        run: |
-          # Copy script gen_index vào release_repo để chạy tại chỗ
-          cp main_repo/gen_index.py release_repo/
-          
-          cd release_repo
-          echo "=== Thực thi gen_index.py trên dữ liệu release sạch ==="
-          python gen_index.py
-          
-          # Dọn dẹp script tạm
-          rm -f gen_index.py
-
-      # 7. Commit toàn bộ kết quả sạch vào nhánh release
-      - name: Commit and Push to Release
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync release: Smart merge from main and EN base with indexing"
+          commit_message: Update index
           branch: release
-          repository: release_repo
+          file_pattern: 'index.json'
 
-      # 8. Gửi webhook thông báo
-      - name: Send update notification
+      - name: Send update
         if: ${{ vars.NOTIFY_REPO }}
         run: |
           curl -L -X POST \
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.UPD_TOKEN }}" \
-          -H "X-GitHub-Api-Version: 2022-11-28" \
+          -H "X-GitHub-Api-Version: 2026-03-10" \
           https://api.github.com/repos/${{ github.repository_owner }}/${{ vars.NOTIFY_REPO }}/actions/workflows/release.yml/dispatches \
           -d '{"ref":"main"}'

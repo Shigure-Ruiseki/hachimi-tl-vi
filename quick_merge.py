@@ -3,80 +3,52 @@ import os
 import shutil
 import sys
 import datetime
-import copy
 
 def sort_dict_by_natural_key(d):
+    """
+    Sắp xếp dictionary theo thứ tự tự nhiên (Natural Sort) A-Z và tăng dần số.
+    """
     if not isinstance(d, dict):
         return d
+        
     def get_sort_key(item):
         key = item[0]
+        # Nếu key hoàn toàn là số, chuyển về kiểu int để so sánh số lớn bé
         if key.isdigit():
             return (0, int(key))
-        else:
-            return (1, key.lower())
+        # Nếu key chứa ký tự chữ, so sánh theo string viết thường
+        return (1, key.lower())
+
+    # Đệ quy để sắp xếp toàn bộ các tầng object con bên trong
     return {k: sort_dict_by_natural_key(v) for k, v in sorted(d.items(), key=get_sort_key)}
 
 def merge_json(old_data, new_data, path, log_file):
-    if old_data is not None and isinstance(old_data, dict):
-        result = copy.deepcopy(old_data)
-    else:
-        result = {}
-
-    if isinstance(new_data, dict):
+    if isinstance(old_data, dict) and isinstance(new_data, dict):
+        result = dict(old_data)
+        
         for key, value in new_data.items():
-            current_path = f"{path}->{key}" if path else key
-            
-            # TRƯỜNG HỢP ĐẶC BIỆT: Lệch tầng cấu trúc (VN bọc trong ID nhóm như "92", còn EN là key trần)
-            # Nếu key của EN trùng với key nằm BÊN TRONG một nhóm của VN
-            target_group = None
-            if key not in result:
-                for g_key, g_val in result.items():
-                    if isinstance(g_val, dict) and key in g_val:
-                        target_group = g_key
-                        break
-            
-            # Nếu tìm thấy nhóm bọc tương ứng trong VN, tiến hành merge trực tiếp vào nhóm đó
-            if target_group is not None:
-                if not isinstance(value, dict):
-                    # Nếu key đã có sẵn trong nhóm của VN dưới dạng text -> Giữ nguyên bản dịch VN
-                    log_file.write(f"[KEEP OLD IN GROUP] {target_group}->{key}: Giữ bản dịch VN -> '{result[target_group][key]}' (Bỏ qua EN)\n")
-                else:
-                    result[target_group][key] = merge_json(result[target_group][key], value, f"{target_group}->{key}", log_file)
-                continue
-
-            # --- LOGIC MERGE TIÊU CHUẨN ---
-            # 1. Cả hai bên trùng cấu trúc Dict -> Đệ quy sâu
             if key in result and isinstance(result[key], dict) and isinstance(value, dict):
-                result[key] = merge_json(result[key], value, current_path, log_file)
+                result[key] = merge_json(result[key], value, f"{path}.{key}", log_file)
             
-            # 2. EN là Dict nhưng VN chưa có hoặc lệch kiểu
-            elif isinstance(value, dict):
-                log_file.write(f"[NEW BLOCK]  {current_path}: (Tạo cấu trúc Dict mới từ EN)\n")
-                old_sub = result[key] if (key in result and isinstance(result[key], dict)) else {}
-                result[key] = merge_json(old_sub, value, current_path, log_file)
-                
-            # 3. Key mới hoàn toàn từ EN -> Thêm vào VN
             elif key not in result:
-                log_file.write(f"[NEW KEY]    {current_path}: Lấy từ EN -> '{value.strip()}'\n")
-                result[key] = copy.deepcopy(value)
-                
-            # 4. Trùng key dạng phẳng và VN đã có text -> Giữ nguyên bản dịch VN
+                log_file.write(f"[NEW KEY] {path}.{key}\n")
+                result[key] = value
+            
             else:
-                log_file.write(f"[KEEP OLD]   {current_path}: Giữ bản dịch VN -> '{result[key]}' (Bỏ qua EN)\n")
                 pass
                 
-        return result
+        return dict(sorted(result.items()))
     
-    return old_data if old_data is not None else copy.deepcopy(new_data)
+    return old_data if old_data is not None else new_data
 
 def merge_folders(old_dir, new_dir):
     if not os.path.exists(old_dir) or not os.path.exists(new_dir):
         return
 
     with open("merge_log.txt", "w", encoding="utf-8") as log_file:
-        log_file.write(f"Log merge hoàn chỉnh (Fix lệch tầng cấu trúc): {new_dir} -> {old_dir}\n")
-        log_file.write(f"Thời gian chạy: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        log_file.write("-" * 80 + "\n")
+        log_file.write(f"Log merge: {new_dir} -> {old_dir}\n")
+        log_file.write(f"Thời gian: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        log_file.write("-" * 50 + "\n")
 
         for root, _, files in os.walk(new_dir):
             for file in files:
@@ -92,29 +64,24 @@ def merge_folders(old_dir, new_dir):
                             new_json = json.load(f)
                         
                         old_json = {}
-                        if os.path.exists(old_path) and os.path.getsize(old_path) > 0:
+                        if os.path.exists(old_path):
                             with open(old_path, "r", encoding="utf-8") as f:
-                                try:
-                                    old_json = json.load(f)
-                                except json.JSONDecodeError:
-                                    old_json = {}
+                                old_json = json.load(f)
 
-                        log_file.write(f"\n[PROCESSING FILE] {rel_path}\n")
-                        merged = merge_json(old_json, new_json, "", log_file)
-                        
-                        # Sắp xếp lại tự nhiên A-Z & Số
-                        sorted_merged = sort_dict_by_natural_key(merged)
-                        
+                        merged = merge_json(old_json, new_json, rel_path, log_file)
+
+                        final_sorted_json = sort_dict_by_natural_key(merged)
+
                         with open(old_path, "w", encoding="utf-8") as f:
-                            json.dump(sorted_merged, f, ensure_ascii=False, indent=2, sort_keys=False)
+                            json.dump(final_sorted_json, f, ensure_ascii=False, indent=2, sort_keys=True)
                         
-                        log_file.write(f"[SUCCESS] Đã merge thành công file: {rel_path}\n")
+                        log_file.write(f"[MERGED JSON] {rel_path}\n")
                     except Exception as e:
                         log_file.write(f"[ERROR JSON] {rel_path}: {e}\n")
                 else:
                     if not os.path.exists(old_path):
                         shutil.copy2(new_path, old_path)
-                        log_file.write(f"[NEW FILE NON-JSON] {rel_path}\n")
+                        log_file.write(f"[NEW FILE] {rel_path}\n")
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
