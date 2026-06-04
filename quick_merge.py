@@ -4,29 +4,32 @@ import shutil
 import sys
 
 
-def merge_json(old_data, new_data):
+def merge_json(old_data, new_data, path="root"):
     """
-    Hòa trộn dữ liệu JSON: Hỗ trợ gộp sâu (recursive merge).
-    Nếu key đã tồn tại và cả hai đều là dict, tiếp tục gộp.
-    Nếu không, ưu tiên giữ giá trị cũ (old_data).
+    Hòa trộn dữ liệu JSON: Gộp sâu (recursive) cho mọi trường hợp dict.
     """
-    # Nếu cả hai là dict, thực hiện gộp đệ quy
+    # Nếu cả hai là dict, tiến hành gộp sâu
     if isinstance(old_data, dict) and isinstance(new_data, dict):
         result = dict(old_data)
+        
         for key, value in new_data.items():
+            # Nếu key đã tồn tại và cả hai đều là dict -> Đệ quy tiếp
             if key in result and isinstance(result[key], dict) and isinstance(value, dict):
-                # Đệ quy xuống cấp tiếp theo
-                result[key] = merge_json(result[key], value)
+                print(f"[DEBUG] Đệ quy vào key: {path} -> {key}")
+                result[key] = merge_json(result[key], value, path=f"{path}.{key}")
+            
+            # Nếu key chưa tồn tại -> Thêm mới hoàn toàn
             elif key not in result:
-                # Chỉ thêm nếu chưa tồn tại
+                print(f"[DEBUG] Thêm mới key: {path} -> {key}")
                 result[key] = value
+            
+            # Nếu key đã tồn tại nhưng là string/list/int -> Giữ nguyên giá trị cũ
+            else:
+                print(f"[DEBUG] Key đã tồn tại, giữ giá trị cũ: {path} -> {key}")
+                
         return dict(sorted(result.items()))
     
-    # Nếu là list, kết hợp list (nếu cần) hoặc giữ cũ
-    elif isinstance(old_data, list) and isinstance(new_data, list):
-        return old_data # Giữ nguyên list cũ để tránh hỏng chỉ số index
-
-    # Nếu không phải dict, ưu tiên giữ lại dữ liệu cũ của local
+    # Nếu không phải dict, ưu tiên giữ lại giá trị cũ
     return old_data if old_data is not None else new_data
 
 
