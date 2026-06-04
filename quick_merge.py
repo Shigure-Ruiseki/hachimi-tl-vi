@@ -4,33 +4,28 @@ import shutil
 import sys
 import datetime
 
-def merge_json(old_data, new_data, path="root"):
+def merge_json(old_data, new_data, path, log_file):
     if isinstance(old_data, dict) and isinstance(new_data, dict):
         result = dict(old_data)
         
         for key, value in new_data.items():
             if key in result and isinstance(result[key], dict) and isinstance(value, dict):
-                print(f"[DEBUG] Đệ quy vào key: {path} -> {key}")
-                result[key] = merge_json(result[key], value, path=f"{path}.{key}")
+                result[key] = merge_json(result[key], value, f"{path}.{key}", log_file)
             
             elif key not in result:
-                print(f"[DEBUG] Thêm mới key: {path} -> {key}")
+                log_file.write(f"[NEW KEY] {path}.{key}\n")
                 result[key] = value
             
             else:
-                print(f"[DEBUG] Key đã tồn tại, giữ giá trị cũ: {path} -> {key}")
+                pass
                 
         return dict(sorted(result.items()))
     
     return old_data if old_data is not None else new_data
 
-
 def merge_folders(old_dir, new_dir):
     if not os.path.exists(old_dir) or not os.path.exists(new_dir):
-        print("[-] Đường dẫn không tồn tại.")
         return
-
-    print(f"[+] Đang tiến hành quét và gộp từ '{new_dir}' vào '{old_dir}'...")
 
     with open("merge_log.txt", "w", encoding="utf-8") as log_file:
         log_file.write(f"Log merge: {new_dir} -> {old_dir}\n")
@@ -55,37 +50,21 @@ def merge_folders(old_dir, new_dir):
                             with open(old_path, "r", encoding="utf-8") as f:
                                 old_json = json.load(f)
 
-                        def log_new_keys(old, new, path):
-                            for k, v in new.items():
-                                if k not in old:
-                                    log_file.write(f"[NEW KEY] {rel_path} -> {path}.{k}\n")
-                                elif isinstance(old.get(k), dict) and isinstance(v, dict):
-                                    log_new_keys(old[k], v, f"{path}.{k}")
-
-                        log_new_keys(old_json, new_json, "root")
+                        merged = merge_json(old_json, new_json, rel_path, log_file)
                         
-                        # Thực hiện merge
-                        merged = merge_json(old_json, new_json)
                         with open(old_path, "w", encoding="utf-8") as f:
                             json.dump(merged, f, ensure_ascii=False, indent=2, sort_keys=True)
                         
-                        print(f"[MERGE JSON] {rel_path}")
+                        log_file.write(f"[MERGED JSON] {rel_path}\n")
                     except Exception as e:
-                        print(f"[ERROR JSON] {rel_path}: {e}")
+                        log_file.write(f"[ERROR JSON] {rel_path}: {e}\n")
                 else:
                     if not os.path.exists(old_path):
                         shutil.copy2(new_path, old_path)
                         log_file.write(f"[NEW FILE] {rel_path}\n")
-                        print(f"[ADD NEW FILE] {rel_path}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Cách dùng: python quick_merge.py <thư_mục_local_vi> <thư_mục_update_en_trên_máy>")
-        print("Ví dụ:    python quick_merge.py C:\\Project\\main-vi  C:\\Project\\main-en")
         sys.exit(1)
 
-    old_dir = sys.argv[1]
-    new_dir = sys.argv[2]
-
-    merge_folders(old_dir, new_dir)
-    print("\n[+] XỬ LÝ HOÀN THÀNH!")
+    merge_folders(sys.argv[1], sys.argv[2])
