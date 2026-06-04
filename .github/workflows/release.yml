@@ -13,67 +13,69 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Checkout nhánh main để lấy script mới nhất và dữ liệu dịch VN vừa push
+      # 1. Checkout nhánh main để lấy dữ liệu VN mới nhất và các script
       - name: Checkout main
         uses: actions/checkout@v4
         with:
           ref: main
           path: main_repo
 
-      # 2. Checkout nhánh release vào thư mục riêng (để làm sạch dữ liệu đích)
-      - name: Checkout release
-        uses: actions/checkout@v4
-        with:
-          ref: release
-          path: release_repo
-
-      # 3. Setup Python môi trường sạch
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      # 4. Checkout kho dữ liệu EN (hachimi-tl-en) để lấy các key mới/thiếu
+      # 2. Checkout repo EN để làm nền tảng gộp key
       - name: Checkout hachimi-tl-en
         uses: actions/checkout@v4
         with:
           repository: Shigure-Ruiseki/hachimi-tl-en
           path: hachimi-tl-en
 
-      # 5. TIẾN HÀNH MERGE TOÀN BỘ FILE (Script chạy xong hết mới chuyển bước)
+      # 3. Checkout nhánh release để làm thư mục đích chứa kết quả cuối cùng
+      - name: Checkout release
+        uses: actions/checkout@v4
+        with:
+          ref: release
+          path: release_repo
+
+      # 4. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 5. TIẾN HÀNH MERGE: Gộp dữ liệu từ main (VN) vào hachimi-tl-en (EN)
       - name: Execute Smart Merge Data
         run: |
-          # Đưa các file script bổ trợ từ main sang thư mục release để chạy tại chỗ
-          cp main_repo/quick_merge.py release_repo/
+          # Chạy script merge: Giữ nội dung dịch của main_repo, bổ sung key thiếu từ hachimi-tl-en
+          python main_repo/quick_merge.py main_repo/localized_data hachimi-tl-en/localized_data
+          
+          echo "=== Đồng bộ dữ liệu sạch sang thư mục release ==="
+          # Xóa sạch dữ liệu cũ trong release_repo/localized_data để tránh file rác (hoặc file đã bị xóa bên EN)
+          rm -rf release_repo/localized_data
+          mkdir -p release_repo/localized_data
+          
+          # Copy toàn bộ dữ liệu sau khi merge từ main_repo sang release_repo
+          cp -r main_repo/localized_data/. release_repo/localized_data/
+
+      # 6. CHỈ GEN INDEX KHI TẤT CẢ ĐÃ XONG
+      - name: Generate Index Finalization
+        run: |
+          # Copy script gen_index vào release_repo để chạy tại chỗ
           cp main_repo/gen_index.py release_repo/
           
           cd release_repo
-          echo "=== Bắt đầu tiến trình phẳng hóa và merge thông minh ==="
-          python quick_merge.py localized_data ../hachimi-tl-en/localized_data
-          
-          echo "=== Hoàn tất gộp tệp tin. Giải phóng bộ nhớ thư mục EN ==="
-          rm -rf ../hachimi-tl-en
-
-      # 6. CHỈ GEN INDEX KHI TẤT CẢ ĐÃ XONG
-      # Bước này tách biệt hoàn toàn và nằm sau bước Merge, đảm bảo tất cả JSON đã sẵn sàng
-      - name: Generate Index Finalization
-        run: |
-          cd release_repo
-          echo "=== Thực thi gen_index.py trên toàn bộ cấu trúc dữ liệu mới ==="
+          echo "=== Thực thi gen_index.py trên dữ liệu release sạch ==="
           python gen_index.py
           
-          # Dọn dẹp các tệp script tạm để tránh commit thừa vào nhánh release
-          rm -f quick_merge.py gen_index.py
+          # Dọn dẹp script tạm
+          rm -f gen_index.py
 
-      # 7. Commit toàn bộ thay đổi (gồm dữ liệu JSON đã merge + file index mới tạo) vào nhánh release
+      # 7. Commit toàn bộ kết quả sạch vào nhánh release
       - name: Commit and Push to Release
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Sync release: Completed processing all data and indexing"
+          commit_message: "Sync release: Smart merge from main and EN base with indexing"
           branch: release
           repository: release_repo
 
-      # 8. Gửi webhook thông báo (nếu cấu hình)
+      # 8. Gửi webhook thông báo
       - name: Send update notification
         if: ${{ vars.NOTIFY_REPO }}
         run: |
@@ -81,4 +83,5 @@ jobs:
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.UPD_TOKEN }}" \
           -H "X-GitHub-Api-Version: 2022-11-28" \
-          https://api.github.com/repos/${{ github.repository_owner
+          https://api.github.com/repos/${{ github.repository_owner }}/${{ vars.NOTIFY_REPO }}/actions/workflows/release.yml/dispatches \
+          -d '{"ref":"main"}'
