@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "A decorated runner who passes on her\nambition to your trainee is called a\nVeteran Umamusume.",
+      "color_text_info_list": [
+        "Veteran Umamusume"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Once a runner has completed her\nCareer, she can be registered as a\nVeteran Umamusume and chosen as a\nLegacy.",
+      "color_text_info_list": [
+        "registered as a Veteran Umamusume and chosen as a Legacy"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Now then, go ahead and choose your\nLegacies."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Legacies can pass on Sparks of\nInspiration, which grant your trainee\nattribute boosts and skill hints, among\nother benefits.",
+      "color_text_info_list": [
+        "Sparks of Inspiration"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "And don't worry, Legacies can inspire\nnew trainees as many times as you like!"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "text_block_list": [
+    {
+      "name": "Mid-level Trainer",
+      "text": "What a run… she might be someone who can aim for the top…!\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "<i>Huff... Huff... Huff... Huff...!</i>"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "<i>Hah... whew...!</i>"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Phew…! Mm-hmm, today might be turning out pretty good?",
+      "choice_data_list": [
+        "<size=34>(As I thought, her skill is head and shoulders above the rest…)</size>"
+      ]
+    },
+    {
+      "name": "Mid-level Trainer",
+      "text": "Excellent work! Your sustained speed is especially impressive! Why don’t you let me help bring out that talent?\n"
+    },
+    {
+      "name": "Monologue",
+      "text": "I’ve seen her get scouted like that plenty of times already. Even from my perspective as a rookie, it wouldn’t be strange if she already had someone in charge.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "—So, I was scouted, but… I decided to turn it down this time.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "[ You’ll definitely find a good trainer! ] …Mm-hm, thanks ♡ Finding the right person really comes down to timing and chance.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "It's like staking your entire career on that person, you know? It's such an important decision, so I don’t want to make a decision half-heartedly.\n"
+    },
+    {
+      "name": "Hard Worker@Overseas Posting",
+      "text": "At Tracen Academy, you can’t debut without a trainer, right? Is Loves-chan gonna be okay? Like, about her debut timing and stuff?”\n",
+      "choice_data_list": [
+        " <size=29>If she’s aiming to debut this year, she should be making a decision soon.</size>"
+      ]
+    },
+    {
+      "name": "Hard Worker@Overseas Posting",
+      "text": "Oh, really! Wait, Bridge-san, are you actually pretty knowledgeable about this stuff?\n",
+      "choice_data_list": [
+        " N-no, I only heard that somewhere…!"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "I quickly tried to cover it up. If my identity were exposed, keeping things as they are would probably be impossible. I need to be careful.\n"
+    },
+    {
+      "name": "Monologue",
+      "text": "The next day. As I passed by the cafeteria, I spotted a familiar figure once again.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hehe, to be approached by such a seasoned veteran is truly an honor.",
+      "choice_data_list": [
+        "<size=42>(That person has also handled GI Umamusumes…)</size>"
+      ]
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "I can take you to the heights you’re aiming for. Why not put that talent to work in the graded stakes… no, on the GI stage itself?\n",
+      "choice_data_list": [
+        " (It’s decided. I can’t find a reason to refuse.)"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "―I turned it down ♡"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "[ Do you have that strong of a reason? ] you’d say? Hmm… well, that’s true. Getting scouted by a GI trainer, anyone would normally leap at the chance.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Considering the trainer’s track record, I know this is definitely an offer I should accept. But—\n"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Sorry, but I’d like you to shut down this so-called fan community. ―That’s the condition of the contract.\n"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Needless hassle or trouble can wear you down mentally and even cause injuries. If you think about priorities as an athlete, you should be able to understand.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "…I understand what you are saying. But… for me, it’s different. You might not understand, though.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "―[ You don’t need excessive fan interaction to get stronger. ] The ones I’ve turned down before more or less thought the same way.\n",
+      "choice_data_list": [
+        "…Aren’t you scared?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "... [ ...Aren’t you scared? ] ..."
+    },
+    {
+      "name": "Monologue",
+      "text": "Before I knew it, I had posted such a question. I couldn’t help but ask.\n",
+      "choice_data_list": [
+        "<size=30>What if you weren’t discovered by someone who truly understands you</size>"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "[ What if you weren’t discovered by someone who truly understands you ] ...huh\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "…Hehe ♪ That question might not even matter anymore. I haven't thought about it. A path where I can’t walk with everyone.\n"
+    },
+    {
+      "name": "Monologue",
+      "text": "Some time has passed since then.\n"
+    },
+    {
+      "name": "Monologue",
+      "text": "Loves Only You still doesn’t have a trainer.\n"
+    },
+    {
+      "name": "Middle-aged Lifter",
+      "text": "Aren’t we taking away your opportunities?"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Saying you’re taking away my opportunities? That’s not true at all. I'm making sure to set aside time for training, too.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "[ But if streaming ends up becoming a burden on your contract ] ...?\n"
+    },
+    {
+      "name": "Middle-aged Lifter",
+      "text": "[ I don’t mind if I only watch from afar ]\n",
+      "choice_data_list": [
+        "...!?"
+      ]
+    },
+    {
+      "name": "Loves Only You",
+      "text": "『Just watching from afar』…you mean?"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "[ If the reason you can’t find a trainer is because of us ]"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "…Hehe, really. You really don’t need to worry about that.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "There are still plenty of trainers at Tracen Academy. It’s just that I had some differences in opinion with a few people.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "...Say. Does anyone remember the story about when I was little?\n"
+    },
+    {
+      "name": "Caster",
+      "text": "Alright! Today’s special event! The winner of today’s kids’ race is Loves Only You-chan!\n"
+    },
+    {
+      "name": "Young Loves",
+      "text": "Yay~! Papa~! Mommy~! Did you see~!?\n"
+    },
+    {
+      "name": "Loves’ Mother",
+      "text": "Hehe, yes, congratulations on your victory ♪ Mommy is so happy, Loves ♪\n"
+    },
+    {
+      "name": "Loves’ Father",
+      "text": "Honey, look at Loves’ smile! Ahh, I wish more people could see this smile…!\n"
+    },
+    {
+      "name": "Loves’ Father",
+      "text": "Look, Loves. This is the streaming you said you wanted to try. Look at the camera here and try saying hello.\n"
+    },
+    {
+      "name": "Young Loves",
+      "text": "H-h-hello?"
+    },
+    {
+      "name": "Passionate teacher",
+      "text": "[ Hello! ]"
+    },
+    {
+      "name": "Young Loves",
+      "text": "Hwah!? Papa! Look, it popped up here with Hello!"
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "You’re so small and cute, but wow, you’re really fast! That race just made me your fan!\n"
+    },
+    {
+      "name": "Young Loves",
+      "text": "Fan…?"
+    },
+    {
+      "name": "Loves’ Father",
+      "text": "Ahaha, it means people who really like you, Loves!"
+    },
+    {
+      "name": "Young Loves",
+      "text": "Wow…!"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "[ Loves-chan was so small back then ]..."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hehe, that's right. This brings back memories. …This place is special to me. It’s where I first met all of you.\n"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "And more than anything... "
+    },
+    {
+      "name": "Loves Only You",
+      "text": "This is the place where I found my own love. A love that belongs only to me.\n"
+    }
+  ],
+  "title": "Each person's \"Love\""
+}

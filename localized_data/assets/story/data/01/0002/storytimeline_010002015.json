@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "This place is called the paddock.\nRunners appear here before the race to\nexcite their adoring fans!",
+      "color_text_info_list": [
+        "paddock"
+      ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Attention! There are various things you\ncan confirm here at the paddock before\nthe race!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "I'll leave the detailed explanations to\nyou, Tazuna!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "You can count on me. ♪"
+    }
+  ]
+}

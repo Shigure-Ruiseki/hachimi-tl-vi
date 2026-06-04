@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "We're finally ready to give racing a try!"
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Attention! Before participating in a race,\nbe sure to always check your skills!",
+      "color_text_info_list": [
+        "skills"
+      ]
+    },
+    {
+      "name": "Director Akikawa",
+      "text": "Take this! Allow me to grant you some\nskill points for this special occasion!",
+      "color_text_info_list": [
+        "skill points"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Skill points can be acquired at various\ntimes during your Career playthrough!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "First place, congratulations!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "It was a splendid run. I felt so impassioned\njust cheering you on!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "And next up is, finally—",
+      "choice_data_list": [
+        "The Finals"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yes! The fans' expectations are the power to\nrun…  on the big stage, to the top."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "I'm sure you will find glory!"
+    }
+  ]
+}
