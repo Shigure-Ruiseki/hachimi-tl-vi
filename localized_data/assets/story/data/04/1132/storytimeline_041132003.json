@@ -1,0 +1,292 @@
+{
+  "text_block_list": [
+    {
+      "name": "Loves tiểu học",
+      "text": "Ngày mai, các em nhỏ ở Junior Race Club cũng sẽ tham gia giải đấu đấy! Em cũng tham gia nữa... không biết liệu mình có chạy tốt được không nhỉ?"
+    },
+    {
+      "name": "Nekketsu-sensei",
+      "text": "『Mọi người đã luôn dõi theo em chạy bộ mỗi ngày!』"
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "Vậy nên đừng lo lắng nhé! Em chắc chắn sẽ thắng thôi"
+    },
+    {
+      "name": "Loves tiểu học",
+      "text": "…Yeah!"
+    },
+    {
+      "name": "Middle-aged Lifter",
+      "text": "『Chúc mừng nhé! Đó là một lần chạy rất tuyệt đó!』"
+    },
+    {
+      "name": "Hard Worker@Overseas Posting",
+      "text": "『Em chắc chắn là một ngôi sao đầy triển vọng của Twinkle Series rồi!』"
+    },
+    {
+      "name": "Loves tiểu học",
+      "text": "Cảm ơn mọi người nhiều...! Thấy mọi người vui, emcũng vui lắm!"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Mai là em bắt đầu nỗ lực hết mình ở Học viện Tracen rồi nè♪  Tuy sớm một ngày nhưng em muốn được khoe đồng phục với mọi người trên livestream liền luôn♡"
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "『Từ giờ chị sẽ ủng hộ em hết mình luôn!』"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "— Lúc nào cũng vậy, mọi người luôn ở bên cạnh em."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Vì có mọi người ở đó, vì biết mọi người sẽ vui mừng cho em... nên việc chạy trở nên vui hơn bao giờ hết, và đó cũng là lý do em quyết định vào Học viện Tracen."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Thế nên, nếu em có giành chiến thắng ở một nơi nào đó cách xa mọi người... thì em cũng chẳng thể trao đi \"tình yêu\" của mình. Và em cũng không thể nhận lại \"tình yêu\" từ mọi người nữa."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Em không cần những tiếng hò reo xa vời ấy đâu... e-em chẳng muốn chút nào."
+    },
+    {
+      "choice_data_list": [
+        "<size=32>Dù đáng lẽ nơi đây phải ngập tràn tình yêu thương đến thế...</size>"
+      ],
+      "name": "Middle-aged Lifter",
+      "text": "『......Có phải mình đã dồn ép con bé vào bước đường cùng rồi không?』"
+    },
+    {
+      "choice_data_list": [
+        "<size=28>Dù rõ ràng là chúng ta đều dành rất nhiều tình cảm cho nhau mà...</size>"
+      ],
+      "name": "3-Day Type Girl",
+      "text": "Đâu chỉ riêng gì \"Middle-aged Lifter\" đâu. Tất cả chúng ta, ít nhiều gì cũng đều đã không thấu hiểu được cảm xúc của con bé."
+    },
+    {
+      "name": " Hard Worker@Overseas Posting",
+      "text": "『Nhưng mà, dù chúng ta có làm gì thì giờ cũng không thay đổi được cảm xúc của con bé đâu. Chết tiệt... chẳng lẽ chúng ta chỉ có thể đứng nhìn con bé chật vật như vậy thôi sao...!?』"
+    },
+    {
+      "name": "Độc thoại",
+      "text": "Cô ấy là một Umamusume tài năng. Chiến thắng giải G1 chắc chắn không chỉ là một giấc mơ xa vời. Đôi chân đó mang trong mình tiềm năng để chinh phục một tương lai rạng rỡ."
+    },
+    {
+      "choice_data_list": [
+        "<size=38>——Không thể kết thúc như thế này được...!</size>"
+      ],
+      "name": "Độc thoại",
+      "text": "Chính vì lẽ đó mà tôi cứ cảm thấy gánh nặng này thật quá sức với mình. Trái tim tớ như muốn chùn bước, tự hỏi rằng liệu một đứa như tôi có thực sự gánh vác nổi hay không. Thế nhưng—"
+    },
+    {
+      "choice_data_list": [
+        "Tôi―"
+      ],
+      "name": "Độc thoại",
+      "text": "Bên cạnh cô ấy, từ nay về sau và mãi mãi về sau, nhất định phải có những người luôn yêu thương cô ấy ở đó."
+    },
+    {
+      "choice_data_list": [
+        "<size=26>Chính tôi sẽ là người―kết nối tương lai của cô ấy với tất cả mọi người!</size>"
+      ],
+      "name": "Middle-aged Lifter",
+      "text": "『 Bridge...san?』"
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "『Kết nối tương lai ư... mấy người ngoài cuộc như chúng ta thì làm được gì cơ chứ——』"
+    },
+    {
+      "choice_data_list": [
+        "<size=34>Dù là người mới... nhưng thực chất tôi là trainer</size>"
+      ],
+      "name": "Độc thoại",
+      "text": "Tôi lôi thẻ chứng chỉ trainer ra, chụp ảnh lại rồi đăng lên khung chat."
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "『EEEEHHHHHH!?』"
+    },
+    {
+      "name": "Nekketsu-sensei",
+      "text": "『Cậu... hóa ra là người của Học viện Tracen sao...!』"
+    },
+    {
+      "choice_data_list": [
+        "<size=30>Tôi đã không đủ can đảm... vì tớ chẳng có chút thành tích cả.</size>"
+      ],
+      "name": "3-Day Type Girl",
+      "text": "『Đồ ngốc! Thế thì tại sao cậu không phải là người đầu tiên đi chiêu mộ Loves-chan chứ! Như thế mà cũng đòi làm fan sao!?』"
+    },
+    {
+      "choice_data_list": [
+        "<size=30>Tôi biết là có nói ra lúc này thì cũng đã muộn. Thế nhưng―</size>"
+      ],
+      "name": "Hard Worker@Overseas Posting",
+      "text": "『.....Nhưng này, một kẻ cứ mãi run sợ và chẳng dám bước tới bước nào cho đến tận bây giờ như cậu, liệu có thực sự cứu được con bé không? Huống hồ cậu lại còn là một người mới nữa chứ?』"
+    },
+    {
+      "choice_data_list": [
+        "<size=26>Vì giờ đây, tôi chỉ muốn làm những gì trong khả năng của mình mà thôi.</size>"
+      ],
+      "name": "Độc thoại",
+      "text": "Quyết tâm――cũng đã nằm trong tim mình rồi."
+    },
+    {
+      "name": "Hard Worker@Overseas Posting",
+      "text": "『......Vậy thì lần tới, hãy bàn bạc với mọi người sớm hơn đi. Chúng ta đều là những người cùng mong muốn con bé được hạnh phúc mà, đúng không?』"
+    },
+    {
+      "name": "Middle-aged Lifter",
+      "text": "『......Tôi cũng vậy, nếu có thể, quả thực tôi vẫn muốn được dõi theo. Dõi theo quá trình tập luyện, những câu chuyện thường ngày. Muốn được nhìn con bé trò chuyện một cách vui vẻ.』"
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "Nếu cậu thực sự trân trọng con bé, thì việc nghĩ đến chuyện rút lui là điều tuyệt đối không được đâu đó nha!"
+    },
+    {
+      "choice_data_list": [
+        "......Ừ, tôi hứa!",
+        "......Vâng, tôi hứa!"
+      ],
+      "name": "Nekketsu-sensei",
+      "text": "『Cậu đã nói là sẽ kết nối tương lai mà. Vậy thì hãy cho chúng tôi thấy cậu thực sự làm được đi, Brigde...... à không, là Trainer của chúng tôi cơ mà!』"
+    },
+    {
+      "choice_data_list": [
+        "<size=30>Không có gì! Nếu vậy thì không sao đâu, em cứ tự nhiên nhé!</size>"
+      ],
+      "name": "Loves Only You",
+      "text": "——Tham quan sao?\nĐiều đó thì không vấn đề gì, nhưng mà……?"
+    },
+    {
+      "choice_data_list": [
+        "<size=26>(Tôi sẽ khắc ghi sâu sắc từng chi tiết về cách chạy của cô ấy vào tâm trí!)</size>"
+      ],
+      "name": "Độc thoại",
+      "text": "Với tư cách là một trainer, để hỗ trợ cô ấy trên con đường phía trước, tôi phải nắm vững hoàn hảo ưu nhượt điểm về cự ly, điều kiện sân và diễn biến trận đấu cách cô ấy chạy."
+    },
+    {
+      "name": "Độc thoại",
+      "text": "Và dựa vào thông tin có được từ đó…… Tôi cần tích lũy kiến thức mọi mặt để bù đắp cho những năng lực còn thiếu sót."
+    },
+    {
+      "choice_data_list": [
+        "Ơ, như vậy…… có ổn không ạ?"
+      ],
+      "name": "Trainer tiền bối",
+      "text": "Ra là vậy…… Nghĩa là cậu đã cho lời khuyên về tư thế này, đúng không."
+    },
+    {
+      "choice_data_list": [
+        "Cảm ơn rất nhiều ạ!"
+      ],
+      "name": "Trainer tiền bối",
+      "text": "Không đâu. Ngược lại, tôi nghĩ cậu đang đi đúng hướng đấy. Hãy lấy đây làm nền tảng và tìm thêm vài điểm cần cải thiện xem sao nhé."
+    },
+    {
+      "choice_data_list": [
+        "S-Xin lỗi! Tôi mải tìm hiểu vài thứ nên……!"
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "Ôi? Cậu vẫn còn ở lại đây sao? Tòa nhà sắp đến giờ đong cửa cuối ngày rồi đấy."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y học thể thao…… Ra là vậy. Nhưng mà, lượng nội dung có vẻ quá nhiều để có thể hiểu hết chỉ sau một lần đọc đấy."
+    },
+    {
+      "choice_data_list": [
+        "Vâng...!"
+      ],
+      "name": "Tazuna Hayakawa",
+      "text": "Tôi sẽ làm thủ tục mượn sách cho cậu, xin mời đi lối này. Hãy giúp mọi người có một sự nghiệp thi đấu trọn vẹn và không gặp phải chấn thương nhé."
+    },
+    {
+      "choice_data_list": [
+        "Làm ơn, xin hãy chỉ giáo với ạ……!"
+      ],
+      "name": "Café Lady",
+      "text": "Chà, ánh mắt sắc sảo thế kia thì chẳng ai nghĩ cậu là trainer mới vào nghề đâu. Xem ra cậu thực sự nghiêm túc muốn làm chủ kiến thức dinh dưỡng mới nhất của Học viện Tracen nhỉ."
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Trainer kìa…… Hình như anh ấy trông hơi khác so với mọi khi……?"
+    },
+    {
+      "name": "3-Day Type Girl",
+      "text": "『Đúng vậy! Việc dốc toàn lực hỗ trợ dáng chạy của cô ấy, ngoài cậu ra không ai làm nổi đâu. Đổi lại, tụi này sẽ giúp một tay với tư cách là streamer』"
+    },
+    {
+      "choice_data_list": [
+        "Tuyệt!"
+      ],
+      "name": "3-Day Type Girl",
+      "text": "『Dù gì thì tôi cũng là trợ lý tại một công ty Vtuber mà! Tớ sẽ tìm kiếm những kiến thức hữu ích để lan tỏa sức hút của Loves-chan!』"
+    },
+    {
+      "name": "Hard Worker@Overseas Posting",
+      "text": "『Nếu là giúp một tay lan tỏa thông tin ra nước ngoài thì chắc tôi làm được chút đỉnh đấy~ Dù sao thì tôi cũng đang là một phóng viên thể thao tập sự mà, dù chỉ cho một tạp chí nhỏ thôi』"
+    },
+    {
+      "choice_data_list": [
+        "Manga á!? Hóa ra anh là mangaka đấy à!?"
+      ],
+      "name": "Nekketsu-sensei",
+      "text": "『Còn tôi…… sẽ góp sức bằng manga』"
+    },
+    {
+      "choice_data_list": [
+        "<size=30>Cảm xúc của mọi người, đang bắt đầu tìm đến với nhau rồi……</size>"
+      ],
+      "name": "Nekketsu-sensei",
+      "text": "『Kiểu như một chuyên mục ký sự khám phá các cuộc đua ấy mà. Thế nên tôi chỉ có thể góp chút sức lực sau khi cô ấy chính thức debut thôi……』"
+    },
+    {
+      "choice_data_list": [
+        "<size=26>Nhất định chúng ta phải trở thành chỗ dựa vững chắc cho Loves mới được!</size>",
+        "<size=26>Nhất định chúng ta phải trở thành chỗ dựa vững chắc cho Loves mới được!</size>"
+      ],
+      "name": "Độc thoại",
+      "text": "Có lẽ đó không phải là một sứ mệnh cao cả hay chí hướng vĩ đại gì. Thế nhưng, tất cả những người ở nơi đây đều nhìn thấy hy vọng vào tương lai khi được đồng hành cùng cô ấy."
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Tôi nghe nói rồi. Hình như em vẫn chưa có trainer dẫn dắt nhỉ. Thật đáng tiếc cho một tài năng hiếm có như vậy……"
+    },
+    {
+      "choice_data_list": [
+        "<size=30>Dẫu vậy…… con đường mà cô ấy bước đi vẫn còn ở một nơi khác.</size>"
+      ],
+      "name": "Trainer kỳ cựu:",
+      "text": "Nếu không thể debut, em sẽ chẳng thể đứng ở vạch xuất phát. Hãy rèn mình trong môi trường khắc nghiệt, giành chiến thắng để đền đáp fan của mình."
+    },
+    {
+      "choice_data_list": [
+        "<size=32>Cô ấy là Uma Musume sẽ mạnh lên cùng với fan của mình.</size>"
+      ],
+      "name": "Loves Only You",
+      "text": "Eh…… Trainer-san?"
+    },
+    {
+      "name": "Trainer kỳ cựu",
+      "text": "Ra vậy…… Với tư cách là một người dẫn dắt, tôi đã đưa ra lời khuyên rồi. Hãy suy nghĩ cho kỹ…… đừng để bản thân phải hối hận là được."
+    },
+    {
+      "choice_data_list": [
+        "……Sao lại không liên quan cho được chứ.",
+        "……Sao lại không liên quan cho được chứ."
+      ],
+      "name": "Loves Only You",
+      "text": "……Dạ, em xin lỗi. Rõ ràng chuyện này không liên quan gì đến Trainer vậy mà――"
+    },
+    {
+      "name": "Loves Only You",
+      "text": "Hả……?"
+    }
+  ],
+  "title": "\"Tình yêu\" dành cho ai?"
+}
