@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Biko Pegasus",
@@ -37,5 +36,6 @@
       "name": "Biko Pegasus",
       "text": "Th-That's just not the same!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

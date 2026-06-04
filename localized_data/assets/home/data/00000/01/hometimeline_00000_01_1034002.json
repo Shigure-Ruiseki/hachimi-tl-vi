@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Inari One",
@@ -17,5 +16,6 @@
       "name": "Inari One",
       "text": "Ain't nothing worse than keepin' \nit bottled up! Just let it all out, \nand you'll feel better in no time!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,21 +1,21 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "You can obtain Support Cards from the\nSupport Card Scout!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "A Support Card is a card used to assist\nyour trainees in Career."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "By selecting a deck of Support Cards,\nyou'll receive the aid of others around\nTracen Academy to help your trainee\nalong!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "All right, let's try our hand at scouting\nsome Support Cards!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You can obtain Support Cards from the\nSupport Card Scout!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "A Support Card is a card used to assist\nyour trainees in Career."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "By selecting a deck of Support Cards,\nyou'll receive the aid of others around\nTracen Academy to help your trainee\nalong!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "All right, let's try our hand at scouting\nsome Support Cards!"
+        }
+    ]
 }

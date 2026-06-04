@@ -1,41 +1,41 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Smart Falcon",
-      "text": "Oh! I'm so glad I finally found you!\nThere's something I reeeally want to tell\nyou!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Um, thank you so, SO much! I just HAD\nto say that loud and clear!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "So many people came out to my concert,\nand it's all thanks to you! Hehe, it's like\na dream!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "I mentioned before that as an Umadol, I\nwant to make this birthday concert the\nbest present ever to all my fans who\nsupport me..."
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "But it really feels like <i>I'm</i> the one who's\nreceiving the greatest gift. Getting to do\na show like this makes me the happiest\nUmadol in the world!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Can't dawdle, though. Time to return my\ngratitude in full! Falco, locking iiiiin!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "I'll make this the beeeest birthday\nconcert ever! Let me show you what the\nworld's future top Umadol can really do!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "Make sure to keep your eyes on me from\nthe VIP seats! I'm planning on shining\neven brighter than the stars!"
-    },
-    {
-      "name": "Smart Falcon",
-      "text": "All righty, off I go! ♪"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Smart Falcon",
+            "text": "Oh! I'm so glad I finally found you!\nThere's something I reeeally want to tell\nyou!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Um, thank you so, SO much! I just HAD\nto say that loud and clear!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So many people came out to my concert,\nand it's all thanks to you! Hehe, it's like\na dream!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I mentioned before that as an Umadol, I\nwant to make this birthday concert the\nbest present ever to all my fans who\nsupport me..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "But it really feels like <i>I'm</i> the one who's\nreceiving the greatest gift. Getting to do\na show like this makes me the happiest\nUmadol in the world!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Can't dawdle, though. Time to return my\ngratitude in full! Falco, locking iiiiin!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I'll make this the beeeest birthday\nconcert ever! Let me show you what the\nworld's future top Umadol can really do!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Make sure to keep your eyes on me from\nthe VIP seats! I'm planning on shining\neven brighter than the stars!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "All righty, off I go! ♪"
+        }
+    ]
 }

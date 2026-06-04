@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Bakushin O",
@@ -17,5 +16,6 @@
       "name": "Sakura Bakushin O",
       "text": "Therefore, I must give today my all! \nBakushin, Bakushiiin!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

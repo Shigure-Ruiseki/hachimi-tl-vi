@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daitaku Helios",
@@ -37,5 +36,6 @@
       "name": "Mejiro Ardan",
       "text": "I'm glad you liked it. Hehe! \"Wahey\" is a\nwonderful word, isn't it?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

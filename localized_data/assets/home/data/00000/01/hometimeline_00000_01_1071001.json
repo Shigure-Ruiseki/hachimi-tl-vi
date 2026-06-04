@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Ardan",
@@ -17,5 +16,6 @@
       "name": "Mejiro Ardan",
       "text": "So I was thinking, I'd like to organize \na hospital food party for some of my \nclosest friends. Would you like to join?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

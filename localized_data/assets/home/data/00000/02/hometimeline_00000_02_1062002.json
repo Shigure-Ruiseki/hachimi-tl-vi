@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nice Nature",
@@ -37,5 +36,6 @@
       "name": "Matikanetannhauser",
       "text": "What? What's so refreshing about this?!\nIf you know some secret way of calming\ndown, please teach meee!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

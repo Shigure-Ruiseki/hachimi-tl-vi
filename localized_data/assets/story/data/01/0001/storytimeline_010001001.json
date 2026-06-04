@@ -1,17 +1,17 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "It looks like you had a conversation with\none of the support Umamusume!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Every single encounter is a precious\nexperience. Be sure to make use of them\nwhile training!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Incidentally, the academy is a big place,\nso you also have a chance of meeting\nindividuals who weren't included in your\nSupport Card deck."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It looks like you had a conversation with\none of the support Umamusume!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Every single encounter is a precious\nexperience. Be sure to make use of them\nwhile training!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Incidentally, the academy is a big place,\nso you also have a chance of meeting\nindividuals who weren't included in your\nSupport Card deck."
+        }
+    ]
 }

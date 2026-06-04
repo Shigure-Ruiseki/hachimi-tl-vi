@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
@@ -17,5 +16,6 @@
       "name": "Kawakami Princess",
       "text": "Heheeh♪ You see, dancing comes \nnaturally to a princess!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Symboli Rudolf",
@@ -17,5 +16,6 @@
       "name": "Symboli Rudolf",
       "text": "Hahaha! A masterful pun, no?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

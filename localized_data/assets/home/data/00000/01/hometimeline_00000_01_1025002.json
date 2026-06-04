@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
@@ -17,5 +16,6 @@
       "name": "Manhattan Cafe",
       "text": "Yes… Let's have a long chat… I can hear your \nvoice clearly… in the quiet mountain air."
     }
-  ]
+  ],
+  "no_wrap": true
 }

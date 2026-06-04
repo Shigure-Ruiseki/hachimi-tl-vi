@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fine Motion",
@@ -17,5 +16,6 @@
       "name": "Fine Motion",
       "text": "I tried that at home once, but it was so big \nI got lost. Maybe I'll try again here!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

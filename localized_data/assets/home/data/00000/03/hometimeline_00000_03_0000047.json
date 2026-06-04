@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Super Creek",
@@ -49,5 +48,6 @@
       "name": "Yaeno Muteki",
       "text": "That… would perhaps be a little strange…\nHehe, but I feel fortunate nonetheless."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanefukukitaru",
@@ -37,5 +36,6 @@
       "name": "Silence Suzuka",
       "text": "Phew… Huh? I was thirsty…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

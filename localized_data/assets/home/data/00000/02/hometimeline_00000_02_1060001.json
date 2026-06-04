@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mayano Top Gun",
@@ -29,5 +28,6 @@
       "name": "Nice Nature",
       "text": "(Cute <i>and</i> gullible…)"
     }
-  ]
+  ],
+  "no_wrap": true
 }

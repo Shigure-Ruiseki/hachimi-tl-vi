@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Meisho Doto",
@@ -41,5 +40,6 @@
       "name": "T.M. Opera O",
       "text": "Haaa-ha-ha-ha-ha! Yes, yes, YES!\nThe juxtaposition of madness and\ncomedy is truly magnificent!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

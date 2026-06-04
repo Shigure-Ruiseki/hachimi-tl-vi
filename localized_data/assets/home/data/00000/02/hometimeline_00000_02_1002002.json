@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Silence Suzuka",
@@ -41,5 +40,6 @@
       "name": "Silence Suzuka",
       "text": "Ehehe."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
@@ -17,5 +16,6 @@
       "name": "Mihono Bourbon",
       "text": "According to her, we must first pose, and \nthen we take a picture… Say cheese, Trainer."
     }
-  ]
+  ],
+  "no_wrap": true
 }

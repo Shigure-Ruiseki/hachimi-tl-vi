@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Oguri Cap",
@@ -49,5 +48,6 @@
       "name": "Yaeno Muteki",
       "text": "Wait… shouldn't we take care of your studies\nfor the quiz first…?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

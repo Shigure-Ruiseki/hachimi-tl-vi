@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -49,5 +48,6 @@
       "name": "Mejiro McQueen",
       "text": "Goodness graci– I'll let them know, okay?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

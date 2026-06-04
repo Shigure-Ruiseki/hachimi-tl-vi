@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Shakur",
@@ -41,5 +40,6 @@
       "name": "Air Shakur",
       "text": "I'd like to see you try…\nYou're as crazy as ever."
     }
-  ]
+  ],
+  "no_wrap": true
 }

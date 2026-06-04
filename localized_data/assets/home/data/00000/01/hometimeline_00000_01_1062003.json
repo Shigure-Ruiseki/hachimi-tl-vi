@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanetannhauser",
@@ -17,5 +16,6 @@
       "name": "Matikanetannhauser",
       "text": "I walked into a post — bonk! My face — bam!\n<i>Hng</i>… Maybe I should first start with watching\nwhere I'm going…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

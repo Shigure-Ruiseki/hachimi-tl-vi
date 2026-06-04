@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
@@ -17,5 +16,6 @@
       "name": "Mihono Bourbon",
       "text": "My data reserves suggest that humor can \nalleviate fatigue… Did that help at all?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

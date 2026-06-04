@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Super Creek",
@@ -17,5 +16,6 @@
       "name": "Super Creek",
       "text": "That's a shame, I would've \nlet you sleep on my lap…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

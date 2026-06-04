@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mayano Top Gun",
@@ -17,5 +16,6 @@
       "name": "Mayano Top Gun",
       "text": "Looks like my ladylike charms \nare pretty effective after all☆"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Vodka",
@@ -17,5 +16,6 @@
       "name": "Vodka",
       "text": "Hnnngh, I can't wait! I'll take you \nfor a ride when I finally get one!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

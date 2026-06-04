@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Ines Fujin",
@@ -17,5 +16,6 @@
       "name": "Ines Fujin",
       "text": "At this rate, I might even be able to \nafford a trip to the amusement park \nas next month's treat for my sisters!♪ \nBig sister's got work todo!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

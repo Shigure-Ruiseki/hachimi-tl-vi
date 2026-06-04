@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanetannhauser",
@@ -17,5 +16,6 @@
       "name": "Matikanetannhauser",
       "text": "But I'll lose the weight with a bit of running! \nAnd the nice people in the shopping district \nwill be happy to see me run too! So for now…\nI'm gonna dig right in♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

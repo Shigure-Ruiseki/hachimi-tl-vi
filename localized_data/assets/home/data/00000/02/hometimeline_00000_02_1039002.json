@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
@@ -41,5 +40,6 @@
       "name": "Kawakami Princess",
       "text": "Akebono… you're so sweet!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

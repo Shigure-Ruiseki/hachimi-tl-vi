@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro McQueen",
@@ -29,5 +28,6 @@
       "name": "Mejiro McQueen",
       "text": "…Well. When you say that with such sparkling \neyes, how can I tell you to stop…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

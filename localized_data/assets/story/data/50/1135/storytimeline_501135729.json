@@ -1,4 +1,5 @@
 {
+  "title": "Claw Machine: Failure…",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -23,6 +24,5 @@
     {
       "text": "It was an unfortunate result……"
     }
-  ],
-  "title": "Claw Machine: Failure…"
+  ]
 }

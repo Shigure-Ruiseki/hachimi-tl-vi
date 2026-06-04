@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Super Creek",
@@ -17,5 +16,6 @@
       "name": "Super Creek",
       "text": "They said it'll take them an hour to get ready,\nso I'm just relaxing while I wait."
     }
-  ]
+  ],
+  "no_wrap": true
 }

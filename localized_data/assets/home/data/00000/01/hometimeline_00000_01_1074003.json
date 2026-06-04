@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Bright",
@@ -17,5 +16,6 @@
       "name": "Mejiro Bright",
       "text": "Even so, the two of them insisted on \nusing the umbrella in the sun, so as not \nto let my efforts go to waste. Hehe, it's a \nvery heartwarming memory."
     }
-  ]
+  ],
+  "no_wrap": true
 }

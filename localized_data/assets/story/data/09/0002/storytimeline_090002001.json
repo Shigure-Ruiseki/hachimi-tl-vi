@@ -1,4 +1,5 @@
 {
+  "title": "Into a Fantasy World",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -256,6 +257,5 @@
       "name": "El Condor Pasa",
       "text": "All right. Time for a journey full of adventure, \ncombat, and victory! Let's defeat the demon lord \nand save this world while we're at it!"
     }
-  ],
-  "title": "Into a Fantasy World"
+  ]
 }

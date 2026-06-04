@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Akebono",
@@ -41,5 +40,6 @@
       "name": "Fuji Kiseki",
       "text": "Hahaha, I can with your help.\nLet's work together to surprise everyone."
     }
-  ]
+  ],
+  "no_wrap": true
 }

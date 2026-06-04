@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Narita Taishin",
@@ -17,5 +16,6 @@
       "name": "Narita Taishin",
       "text": "I mean… It's first come, first serve, right?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

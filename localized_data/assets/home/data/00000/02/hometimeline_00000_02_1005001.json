@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fuji Kiseki",
@@ -45,5 +44,6 @@
       "name": "Hishi Amazon",
       "text": "Fuuuuujjjiiiii!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

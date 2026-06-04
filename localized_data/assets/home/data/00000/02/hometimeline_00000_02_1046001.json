@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Smart Falcon",
@@ -41,5 +40,6 @@
       "name": "Smart Falcon",
       "text": "Yippee!☆ Thanks a bunch, Flash!\nWe'll show your fans the show of a lifetime!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

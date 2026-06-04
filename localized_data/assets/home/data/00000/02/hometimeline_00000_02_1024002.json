@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mayano Top Gun",
@@ -29,5 +28,6 @@
       "name": "Mayano Top Gun",
       "text": "I wonder what it'll look like on me…\nEhehe, I can't wait to find out!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

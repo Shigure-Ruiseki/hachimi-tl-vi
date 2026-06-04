@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Special Week",
@@ -17,5 +16,6 @@
       "name": "Special Week",
       "text": "Wait, no, I can't! Mustn't run in the halls… \nRunning in the halls is bad…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

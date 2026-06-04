@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tokai Teio",
@@ -29,5 +28,6 @@
       "name": "Tokai Teio",
       "text": "I-I still don't get it…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

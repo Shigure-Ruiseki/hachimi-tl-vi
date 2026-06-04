@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Bamboo Memory",
@@ -45,5 +44,6 @@
       "name": "Inari One",
       "text": "Uhh… Did ya listen to a <i>single</i> word I said?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

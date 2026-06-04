@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Special Week",
@@ -49,5 +48,6 @@
       "name": "Agnes Digital",
       "text": "I'm sorryyyyy!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

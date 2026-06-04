@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "King Halo",
@@ -21,5 +20,6 @@
       "name": "King Halo",
       "text": "Ohhh, forget everything you just saw! \nRight this instant!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

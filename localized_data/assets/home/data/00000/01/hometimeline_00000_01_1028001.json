@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Akebono",
@@ -17,5 +16,6 @@
       "name": "Hishi Akebono",
       "text": "I know! I'll make both! Double the hot \npot means double the buono!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Ardan",
@@ -17,5 +16,6 @@
       "name": "Mejiro Ardan",
       "text": "I'm lovestruck♪ \nI only have eyes for you♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

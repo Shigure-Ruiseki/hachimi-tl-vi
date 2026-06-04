@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kitasan Black",
@@ -41,5 +40,6 @@
       "name": "Kitasan Black",
       "text": "We'll run together, give each other massages,\nand run again! No goal's too far, so long as\nwe're together!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

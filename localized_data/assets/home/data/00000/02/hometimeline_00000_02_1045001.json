@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Super Creek",
@@ -41,5 +40,6 @@
       "name": "Inari One",
       "text": "<i>That's</i> what you're worried about?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

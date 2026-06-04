@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Shakur",
@@ -17,5 +16,6 @@
       "name": "Air Shakur",
       "text": "Tch! Do I delete it, or keep it? …Keep it?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

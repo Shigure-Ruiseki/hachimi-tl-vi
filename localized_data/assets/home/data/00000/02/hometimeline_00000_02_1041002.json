@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Bakushin O",
@@ -41,5 +40,6 @@
       "name": "Biko Pegasus",
       "text": "Whoooaaa! Lemme help, Bakushin Red!\nSpecial Move: Super Patrol Daaash!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

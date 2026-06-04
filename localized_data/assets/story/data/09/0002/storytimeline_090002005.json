@@ -1,4 +1,5 @@
 {
+  "title": "Vs Her Lordship",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -185,6 +186,5 @@
       "name": "Grass Wonder",
       "text": "We're about to run in a fantasy race… where blades \nwill clash and spells will soar!"
     }
-  ],
-  "title": "Vs Her Lordship"
+  ]
 }

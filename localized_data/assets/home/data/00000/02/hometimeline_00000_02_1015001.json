@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "T.M. Opera O",
@@ -45,5 +44,6 @@
       "name": "T.M. Opera O",
       "text": "Then I too shall don my swimsuit!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

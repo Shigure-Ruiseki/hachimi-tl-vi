@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nice Nature",
@@ -17,5 +16,6 @@
       "name": "Nice Nature",
       "text": "…Yeah, who am I kidding. Get your head out \nof the clouds, Ms. Third Place."
     }
-  ]
+  ],
+  "no_wrap": true
 }

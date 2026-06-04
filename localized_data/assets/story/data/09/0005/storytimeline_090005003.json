@@ -1,4 +1,5 @@
 {
+  "title": "Disco Magic",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -187,6 +188,5 @@
       "name": "Special Week",
       "text": "All-you-can-eat tiramisu?! No way! \nOh my gosh, where's the cafe?!"
     }
-  ],
-  "title": "Disco Magic"
+  ]
 }

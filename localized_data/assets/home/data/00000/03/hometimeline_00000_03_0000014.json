@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Eishin Flash",
@@ -41,5 +40,6 @@
       "name": "Smart Falcon",
       "text": "Both of them sound scary to meee!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

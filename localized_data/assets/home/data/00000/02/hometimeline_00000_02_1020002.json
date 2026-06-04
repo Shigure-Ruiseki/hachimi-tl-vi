@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Seiun Sky",
@@ -41,5 +40,6 @@
       "name": "Seiun Sky",
       "text": "You sure are. Getting lots of sleep is vital\nfor growing children, so… Get lots of z's\nand grow up fast."
     }
-  ]
+  ],
+  "no_wrap": true
 }

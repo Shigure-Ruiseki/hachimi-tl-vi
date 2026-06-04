@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Special Week",
@@ -17,5 +16,6 @@
       "name": "Special Week",
       "text": "She said Mama really liked it too… \nAll right, I'll do that song!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

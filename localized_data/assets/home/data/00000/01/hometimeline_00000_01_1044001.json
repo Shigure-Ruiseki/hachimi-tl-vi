@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sweep Tosho",
@@ -21,5 +20,6 @@
       "name": "Sweep Tosho",
       "text": "Aaand done. Oh, I can't even imagine the face\nPapa will make when he hears this! Teehee♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mayano Top Gun",
@@ -45,5 +44,6 @@
       "name": "Mejiro Palmer",
       "text": "…Phew."
     }
-  ]
+  ],
+  "no_wrap": true
 }

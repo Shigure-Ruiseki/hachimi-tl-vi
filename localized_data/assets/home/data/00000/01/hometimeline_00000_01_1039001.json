@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
@@ -17,5 +16,6 @@
       "name": "Kawakami Princess",
       "text": "Yep! Go right into the test with \nno preparation! Problem solved!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanefukukitaru",
@@ -17,5 +16,6 @@
       "name": "Matikanefukukitaru",
       "text": "Whooooaaa! Extra great fortune!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,4 +1,5 @@
 {
+  "title": "Welcome to Tracen Academy!",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -223,6 +224,5 @@
       "name": "Special Week",
       "text": "Mom, Mama, now that I'm here at Tracen Academy in Tokyo, \nI'm gonna give it everything I've got!"
     }
-  ],
-  "title": "Welcome to Tracen Academy!"
+  ]
 }

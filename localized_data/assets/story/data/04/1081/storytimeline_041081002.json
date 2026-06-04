@@ -1,4 +1,5 @@
 {
+  "title": "Rebellious War Front, Abnormalities Abound!",
   "text_block_list": [
     {
       "text": "It's the second day of the training camp. We're supposed to get down to business today, but… ever since that mock race, I haven't been able to hold a proper conversation with Espoir City.",
@@ -207,6 +208,5 @@
       "name": "Espoir City",
       "text": "Hey! \nThe hell you think you're doin'?!"
     }
-  ],
-  "title": "Rebellious War Front, Abnormalities Abound!"
+  ]
 }

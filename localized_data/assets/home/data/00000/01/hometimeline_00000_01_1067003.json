@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Satono Diamond",
@@ -17,5 +16,6 @@
       "name": "Satono Diamond",
       "text": "I want to give everyone a chance to see \nthis diamond shining in first place♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Ines Fujin",
@@ -29,5 +28,6 @@
       "name": "Mejiro Ryan",
       "text": "I can't wait to see how well\nyou perform in battle!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "T.M. Opera O",
@@ -33,5 +32,6 @@
       "name": "T.M. Opera O",
       "text": "A… A flashlight?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
@@ -17,5 +16,6 @@
       "name": "Manhattan Cafe",
       "text": "Would you like… to join me for a cup?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

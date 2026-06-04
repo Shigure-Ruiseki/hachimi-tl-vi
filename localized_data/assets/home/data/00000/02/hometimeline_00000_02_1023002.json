@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Biwa Hayahide",
@@ -41,5 +40,6 @@
       "name": "Biwa Hayahide",
       "text": "Of course! Even if Tachyon's research\nleaves me with a pair of glasses with legs…\nI will continue on!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

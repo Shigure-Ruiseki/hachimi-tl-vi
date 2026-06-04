@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Biwa Hayahide",
@@ -17,5 +16,6 @@
       "name": "Biwa Hayahide",
       "text": "If you have any arguments, let's hear them.\nRight here, right now. We shall debate this\ntopic until we reach an agreement!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fine Motion",
@@ -41,5 +40,6 @@
       "name": "Fine Motion",
       "text": "Ah… Yes, I can see that. They do tend to go\na bit overboard expressing their gratitude."
     }
-  ]
+  ],
+  "no_wrap": true
 }

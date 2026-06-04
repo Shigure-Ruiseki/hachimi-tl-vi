@@ -1,4 +1,5 @@
 {
+  "title": "Sleepless Night",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -165,6 +166,5 @@
       "name": "Special Week",
       "text": "W-Wait, please! Huh? Why am I getting déjà vu?!"
     }
-  ],
-  "title": "Sleepless Night"
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Rice Shower",
@@ -13,5 +12,6 @@
       "name": "Rice Shower",
       "text": "So don't worry about taking too many, okay?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

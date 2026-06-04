@@ -1,4 +1,5 @@
 {
+  "title": "Claw Machine!",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -40,6 +41,5 @@
     {
       "text": "——I can't lose against this game!!"
     }
-  ],
-  "title": "Claw Machine!"
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mihono Bourbon",
@@ -41,5 +40,6 @@
       "name": "Mihono Bourbon",
       "text": "Affirmative. Let us initiate the protocol\nfor Operation: Sweets."
     }
-  ]
+  ],
+  "no_wrap": true
 }

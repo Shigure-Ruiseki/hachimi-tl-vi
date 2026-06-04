@@ -1,4 +1,5 @@
 {
+  "title": "Defeat",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -41,6 +42,5 @@
       "name": "Stay Gold",
       "text": "You're gonna have to be strict on me. \nI'll surmount any headwind that blows \nmy way."
     }
-  ],
-  "title": "Defeat"
+  ]
 }

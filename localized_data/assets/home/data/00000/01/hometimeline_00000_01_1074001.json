@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Bright",
@@ -17,5 +16,6 @@
       "name": "Mejiro Bright",
       "text": "Since I thought so long and hard, all the \nanswers I <i>did</i> fill in were correct!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

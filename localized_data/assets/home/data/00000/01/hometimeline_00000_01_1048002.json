@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tosen Jordan",
@@ -17,5 +16,6 @@
       "name": "Tosen Jordan",
       "text": "So, like, you're cool to go study \nfor me, right? Thaaanks!☆ …No?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

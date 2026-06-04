@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Palmer",
@@ -17,5 +16,6 @@
       "name": "Mejiro Palmer",
       "text": "But you know, talking about it is making me \nwant to go see them again! Wonder when I'll\nget the chance…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

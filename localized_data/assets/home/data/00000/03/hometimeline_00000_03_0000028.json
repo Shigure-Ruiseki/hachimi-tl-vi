@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sweep Tosho",
@@ -49,5 +48,6 @@
       "name": "Agnes Tachyon",
       "text": "A serum to dramatically increase muscle\nmass or… a mood-elevating tonic to make\nyou feel you can accomplish anything…\nWhich shall I have you test first?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

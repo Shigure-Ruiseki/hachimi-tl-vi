@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Admire Vega",
@@ -17,5 +16,6 @@
       "name": "Admire Vega",
       "text": "…I already told her I'm not interested \nin photos of cute, fluffy animals."
     }
-  ]
+  ],
+  "no_wrap": true
 }

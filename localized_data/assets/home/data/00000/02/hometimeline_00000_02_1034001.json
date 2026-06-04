@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Twin Turbo",
@@ -41,5 +40,6 @@
       "name": "Inari One",
       "text": "Haha, look at the smirk on your mug.\nY'know I can't refuse a face like that."
     }
-  ]
+  ],
+  "no_wrap": true
 }

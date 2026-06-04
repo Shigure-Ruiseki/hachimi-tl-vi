@@ -1,4 +1,5 @@
 {
+  "title": "Demon Generals Attack!",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -200,6 +201,5 @@
       "name": "Grass Wonder",
       "text": "No, it's nothing. Now then, shall we be off? \nWe've got a castle to storm!"
     }
-  ],
-  "title": "Demon Generals Attack!"
+  ]
 }

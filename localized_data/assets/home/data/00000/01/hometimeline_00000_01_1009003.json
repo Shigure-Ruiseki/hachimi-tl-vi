@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daiwa Scarlet",
@@ -17,5 +16,6 @@
       "name": "Daiwa Scarlet",
       "text": "Ah…! D-Don't get it twisted! I'm not saying \nI want to go with <i>you,</i> got it?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nishino Flower",
@@ -33,5 +32,6 @@
       "name": "Nishino Flower",
       "text": "Ehehe… If you like, we can water them\ntogether again sometime!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

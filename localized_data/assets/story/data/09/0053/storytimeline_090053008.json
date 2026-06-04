@@ -1,4 +1,5 @@
 {
+  "title": "Teacher and Student",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -165,6 +166,5 @@
       "name": "Fuji Kiseki",
       "text": "——And I want to stay your Fuji Kiseki… Forever."
     }
-  ],
-  "title": "Teacher and Student"
+  ]
 }

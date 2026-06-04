@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Haru Urara",
@@ -29,5 +28,6 @@
       "name": "Haru Urara",
       "text": "I <i>did</i> buy it for you, but it looked so good \nthat I ate it without thinking…!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

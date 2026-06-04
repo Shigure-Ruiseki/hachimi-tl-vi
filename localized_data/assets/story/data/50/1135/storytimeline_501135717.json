@@ -1,4 +1,5 @@
 {
+  "title": "At the Infirmary",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -106,6 +107,5 @@
       "name": "Stay Gold",
       "text": "——I'll take on anything that comes \nmy way, because this is the path I \nchose for myself."
     }
-  ],
-  "title": "At the Infirmary"
+  ]
 }

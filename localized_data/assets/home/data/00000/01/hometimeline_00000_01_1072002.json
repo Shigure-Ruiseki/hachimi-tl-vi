@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Yaeno Muteki",
@@ -17,5 +16,6 @@
       "name": "Yaeno Muteki",
       "text": "Then I can polish my technique, \nand one day defeat those ghosts!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

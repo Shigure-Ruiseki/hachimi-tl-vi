@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Still in Love",
@@ -53,5 +52,6 @@
       "name": "Admire Groove",
       "text": "(…Standing out as the only \"birthday girl\"? \nWhat a strange feeling…)"
     }
-  ]
+  ],
+  "no_wrap": true
 }

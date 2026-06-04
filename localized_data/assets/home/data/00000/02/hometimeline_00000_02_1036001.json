@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Shakur",
@@ -45,5 +44,6 @@
       "name": "Air Shakur",
       "text": "Uhhh… I don't think my calculations can\naccount for <i>that</i> one. I'll have to reevaluate\nthe magnitude of the goof-up factor…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

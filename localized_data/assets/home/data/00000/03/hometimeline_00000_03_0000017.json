@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fine Motion",
@@ -49,5 +48,6 @@
       "name": "Fine Motion",
       "text": "Hehe, this is different! This kind of\nspecial shows that we're close and\nhaving fun together!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

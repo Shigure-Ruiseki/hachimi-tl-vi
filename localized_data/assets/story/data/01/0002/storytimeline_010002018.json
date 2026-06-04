@@ -1,13 +1,13 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "In Team Trials, you race against teams of\nrunners carefully assembled by other\ntrainers!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "All right, Trainer. Let's try making a team\nwith some Veteran Umamusume who\nhave finished their careers!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "In Team Trials, you race against teams of\nrunners carefully assembled by other\ntrainers!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "All right, Trainer. Let's try making a team\nwith some Veteran Umamusume who\nhave finished their careers!"
+        }
+    ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Oguri Cap",
@@ -17,5 +16,6 @@
       "name": "Oguri Cap",
       "text": "Yup, that's her, alright."
     }
-  ]
+  ],
+  "no_wrap": true
 }

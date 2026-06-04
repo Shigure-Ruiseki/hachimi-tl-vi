@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Dober",
@@ -41,5 +40,6 @@
       "name": "Mejiro Ryan",
       "text": "Ahaha, I won't! And don't worry…\nWe've got this!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Chiyono O",
@@ -45,5 +44,6 @@
       "name": "Mejiro Ardan",
       "text": "Aww… hehe♪ I suppose purity is another\none of Sakura's charms."
     }
-  ]
+  ],
+  "no_wrap": true
 }

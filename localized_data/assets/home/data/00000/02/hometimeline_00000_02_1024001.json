@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Both",
@@ -29,5 +28,6 @@
       "name": "Both",
       "text": "Marvelous!☆\nTake off!★"
     }
-  ]
+  ],
+  "no_wrap": true
 }

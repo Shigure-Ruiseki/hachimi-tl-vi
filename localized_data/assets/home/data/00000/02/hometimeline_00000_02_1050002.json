@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Super Creek",
@@ -45,5 +44,6 @@
       "name": "Super Creek",
       "text": "Taishin! All right♪ Hehe… I'll make this\nthe best lunch you've ever had!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

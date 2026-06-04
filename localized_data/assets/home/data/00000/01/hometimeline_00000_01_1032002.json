@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Agnes Tachyon",
@@ -17,5 +16,6 @@
       "name": "Agnes Tachyon",
       "text": "Which is why you — yes, <i>you</i> shall be \nthe subject of my next experiment! \nCoincidence brought you before me, \nand I shall act accordingly!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Meisho Doto",
@@ -41,5 +40,6 @@
       "name": "Agnes Digital",
       "text": "<i>COUGH!</i> And now you want to be my <i>escort?!</i>\nMy oshis, you are too generous…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

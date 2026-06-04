@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Agnes Digital",
@@ -17,5 +16,6 @@
       "name": "Agnes Digital",
       "text": "I won't be as nervous if you're my partner. \nThere's no one else I can ask! Please…! \nPleeeaaase!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nishino Flower",
@@ -17,5 +16,6 @@
       "name": "Nishino Flower",
       "text": "Tomorrow, I think I'll make some chamomile \ntea for her. I hope it'll help cheer her up…!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Ines Fujin",
@@ -17,5 +16,6 @@
       "name": "Ines Fujin",
       "text": "Oh, and be sure to tell me what you think \nafter you try them. My manager wants \nopinions before we expand the sales area. \nSo yeah, let me know!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

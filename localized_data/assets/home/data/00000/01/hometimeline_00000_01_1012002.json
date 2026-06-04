@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Amazon",
@@ -21,5 +20,6 @@
       "name": "Hishi Amazon",
       "text": "I'll have a chat with Fuji and see \nif we can get the people in charge \nto add some hot options!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

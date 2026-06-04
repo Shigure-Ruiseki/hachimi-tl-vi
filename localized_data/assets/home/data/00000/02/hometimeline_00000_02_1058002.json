@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Meisho Doto",
@@ -41,5 +40,6 @@
       "name": "Meisho Doto",
       "text": "Hehe… Urara, you really are\nsuch a sweetheart."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Silence Suzuka",
@@ -17,5 +16,6 @@
       "name": "Silence Suzuka",
       "text": "Like… feeding anyone who looks \nlike the right person?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

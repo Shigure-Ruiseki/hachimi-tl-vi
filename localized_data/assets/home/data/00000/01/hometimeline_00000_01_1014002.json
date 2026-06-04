@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "El Condor Pasa",
@@ -17,5 +16,6 @@
       "name": "El Condor Pasa",
       "text": "I bet if we did it before a race, the crowd \nwould get super hyped! Right? Right? \nCome on, let's do iiit!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

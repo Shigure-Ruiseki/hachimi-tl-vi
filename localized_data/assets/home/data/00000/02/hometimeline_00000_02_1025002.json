@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Yukino Bijin",
@@ -41,5 +40,6 @@
       "name": "Yukino Bijin",
       "text": "I'll just add… a lil' sugar."
     }
-  ]
+  ],
+  "no_wrap": true
 }

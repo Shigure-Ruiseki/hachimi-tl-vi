@@ -1,4 +1,5 @@
 {
+  "title": "Ready for a Challenge",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -24,6 +25,5 @@
       "name": "Stay Gold",
       "text": "I'll be going off to confirm it."
     }
-  ],
-  "title": "Ready for a Challenge"
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Vodka",
@@ -29,5 +28,6 @@
       "name": "Daiwa Scarlet",
       "text": "…Th-That's my line."
     }
-  ]
+  ],
+  "no_wrap": true
 }

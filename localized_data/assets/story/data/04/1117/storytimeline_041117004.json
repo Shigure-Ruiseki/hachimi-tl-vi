@@ -1,4 +1,5 @@
 {
+  "title": "The Oz I chose",
   "text_block_list": [
     {
       "name": "Shion's Father",
@@ -241,6 +242,5 @@
       "name": "Orfevre",
       "text": "Something… trivial."
     }
-  ],
-  "title": "The Oz I chose"
+  ]
 }

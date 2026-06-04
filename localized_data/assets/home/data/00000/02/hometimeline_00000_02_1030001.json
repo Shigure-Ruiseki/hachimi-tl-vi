@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Rice Shower",
@@ -37,5 +36,6 @@
       "name": "Rice Shower",
       "text": "Eek! M-Mr. Centipede, please… just…\nstay there, okay?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

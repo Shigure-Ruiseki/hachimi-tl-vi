@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tokai Teio",
@@ -41,5 +40,6 @@
       "name": "Mejiro McQueen",
       "text": "Umpire?! Now hold on! The umpire \ndoesn't get to hit the ball at all!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

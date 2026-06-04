@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Vodka",
@@ -21,5 +20,6 @@
       "name": "Vodka",
       "text": "<i>Ugyaaaaah!</i>"
     }
-  ]
+  ],
+  "no_wrap": true
 }

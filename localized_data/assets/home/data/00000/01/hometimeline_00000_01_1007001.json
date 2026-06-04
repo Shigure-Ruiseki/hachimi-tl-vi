@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -17,5 +16,6 @@
       "name": "Gold Ship",
       "text": "The only thing you can count on in an \nemergency is a donut, don't you know…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

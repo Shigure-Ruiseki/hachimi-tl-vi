@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
@@ -17,5 +16,6 @@
       "name": "Kawakami Princess",
       "text": "Good idea, right?! I'd even call it <i>great!</i> \nStarting tomorrow, I'm gonna smash \nthrough that new routine!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

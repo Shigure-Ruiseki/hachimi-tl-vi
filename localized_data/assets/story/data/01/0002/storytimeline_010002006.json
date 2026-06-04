@@ -1,13 +1,13 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Next, choose an Umamusume to train!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Since this time is just for practice, please\nselect one of the Trainee Umamusume\nyou scouted just now."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Next, choose an Umamusume to train!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Since this time is just for practice, please\nselect one of the Trainee Umamusume\nyou scouted just now."
+        }
+    ]
 }

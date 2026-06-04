@@ -1,4 +1,5 @@
 {
+  "title": "The <i>Final</i> Final Boss",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -229,6 +230,5 @@
       "name": "El Condor Pasa",
       "text": "Go figure… I guess it makes sense a cleric \ncould heal stiff shoulders too…"
     }
-  ],
-  "title": "The <i>Final</i> Final Boss"
+  ]
 }

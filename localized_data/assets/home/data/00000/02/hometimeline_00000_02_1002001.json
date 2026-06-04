@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Taiki Shuttle",
@@ -41,5 +40,6 @@
       "name": "Taiki Shuttle",
       "text": "Only one way to find out! \nLet's go train on the roof!☆"
     }
-  ]
+  ],
+  "no_wrap": true
 }

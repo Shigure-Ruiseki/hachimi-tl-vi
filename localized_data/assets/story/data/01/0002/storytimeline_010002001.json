@@ -1,9 +1,9 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Look, it's beginning! Let's cheer them on\nas they run!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Look, it's beginning! Let's cheer them on\nas they run!"
+        }
+    ]
 }

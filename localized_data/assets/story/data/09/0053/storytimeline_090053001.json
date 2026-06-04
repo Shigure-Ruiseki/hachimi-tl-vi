@@ -1,4 +1,5 @@
 {
+  "title": "Emboldening",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -222,6 +223,5 @@
       "name": "Agnes Tachyon",
       "text": "So, what about you, and your collisions? \nKehehe… Oh, what to do, what to do?!"
     }
-  ],
-  "title": "Emboldening"
+  ]
 }

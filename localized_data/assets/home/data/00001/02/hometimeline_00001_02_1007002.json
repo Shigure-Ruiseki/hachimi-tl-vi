@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -49,5 +48,6 @@
       "name": "Tosen Jordan",
       "text": "I knew it!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,75 +1,75 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "The day after watching the race with\nTazuna..."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Hello again, Trainer! Welcome to the\nJapan Umamusume Training Center\nAcademy!",
-      "color_text_info_list": [
-        "Japan Trainee  Training Center Academy"
-      ]
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "This is the finest Umamusume training\nestablishment in Japan, home to\ncountless students who dream of the\nracing world!"
-    },
-    {
-      "name": "???",
-      "text": "WELL MET!",
-      "choice_data_list": [
-        "?!"
-      ]
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Goodness, Director Akikawa! You scared\nus!",
-      "color_text_info_list": [
-        "Akikawa"
-      ]
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Apologies! Seeing such a promising new\ntrainer just gets me so excited!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Introductions! I am Akikawa, the director\nof this academy! I look forward to your\nendeavors, newcomer!",
-      "color_text_info_list": [
-        "Akikawa"
-      ]
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "But first... Please! Tell us about yourself!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Welcome!\nTrainer\n<username>,\nfrom here on, you are a part of Tracen\nAcademy!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "High hopes! I expect you'll give your all\ntogether with your trainees to make their\ndreams come true!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "The goal of our academy's students is to\nparticipate in the highly renowned\nTwinkle Series.",
-      "color_text_info_list": [
-        "Twinkle Series"
-      ]
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "So I want you, Trainer, to teach, guide,\nand support your trainees through and\nthrough!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "That's all! I hope that you will work\ndiligently to bring honor to the trainer\nbadge you wear on your chest!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Well then, let's set off for the\nintroduction course,\nTrainer <username>!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day after watching the race with\nTazuna..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hello again, Trainer! Welcome to the\nJapan Umamusume Training Center\nAcademy!",
+            "color_text_info_list": [
+                "Japan Trainee  Training Center Academy"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "This is the finest Umamusume training\nestablishment in Japan, home to\ncountless students who dream of the\nracing world!"
+        },
+        {
+            "name": "???",
+            "text": "WELL MET!",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Goodness, Director Akikawa! You scared\nus!",
+            "color_text_info_list": [
+                "Akikawa"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Apologies! Seeing such a promising new\ntrainer just gets me so excited!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Introductions! I am Akikawa, the director\nof this academy! I look forward to your\nendeavors, newcomer!",
+            "color_text_info_list": [
+                "Akikawa"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "But first... Please! Tell us about yourself!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Welcome!\nTrainer\n<username>,\nfrom here on, you are a part of Tracen\nAcademy!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "High hopes! I expect you'll give your all\ntogether with your trainees to make their\ndreams come true!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The goal of our academy's students is to\nparticipate in the highly renowned\nTwinkle Series.",
+            "color_text_info_list": [
+                "Twinkle Series"
+            ]
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "So I want you, Trainer, to teach, guide,\nand support your trainees through and\nthrough!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "That's all! I hope that you will work\ndiligently to bring honor to the trainer\nbadge you wear on your chest!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well then, let's set off for the\nintroduction course,\nTrainer <username>!"
+        }
+    ]
 }

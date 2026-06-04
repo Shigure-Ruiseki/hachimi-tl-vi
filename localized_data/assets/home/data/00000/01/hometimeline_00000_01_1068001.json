@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kitasan Black",
@@ -17,5 +16,6 @@
       "name": "Kitasan Black",
       "text": "Don't worry, I definitely won't drop you! \nIn fact, I'll even carry you wherever you want!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

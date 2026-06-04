@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tosen Jordan",
@@ -17,5 +16,6 @@
       "name": "Tosen Jordan",
       "text": "And I'll start by going to a goated nail salon! \n…As soon as I actually find one."
     }
-  ]
+  ],
+  "no_wrap": true
 }

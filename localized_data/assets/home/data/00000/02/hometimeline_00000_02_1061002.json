@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
@@ -37,5 +36,6 @@
       "name": "King Halo",
       "text": "Continue on, and aim for the highest heights!\nMay your laughter reach the stars above!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

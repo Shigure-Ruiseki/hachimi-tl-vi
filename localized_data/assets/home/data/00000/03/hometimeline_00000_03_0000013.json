@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Smart Falcon",
@@ -41,5 +40,6 @@
       "name": "Ines Fujin",
       "text": "Hey, wait a minute! I'm pretty sure\n<i>none</i> of those are the latest trends!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

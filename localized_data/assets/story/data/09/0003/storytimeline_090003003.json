@@ -1,4 +1,5 @@
 {
+  "title": "A Strange Bunch",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -200,6 +201,5 @@
       "name": "???",
       "text": "Hmm… What should I do?"
     }
-  ],
-  "title": "A Strange Bunch"
+  ]
 }

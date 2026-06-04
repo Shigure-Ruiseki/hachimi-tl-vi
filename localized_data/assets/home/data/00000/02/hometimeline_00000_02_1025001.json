@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
@@ -49,5 +48,6 @@
       "name": "Manhattan Cafe",
       "text": "…None of them."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kitasan Black",
@@ -49,5 +48,6 @@
       "name": "T.M. Opera O",
       "text": "Mmm… We are cacophonous!\nThis, my friends, is art!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

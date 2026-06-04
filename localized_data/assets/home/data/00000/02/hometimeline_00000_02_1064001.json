@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daitaku Helios",
@@ -41,5 +40,6 @@
       "name": "Mejiro Palmer",
       "text": "Haha! I'm the one who's hyped now just\ntalking to you! You gotta hit everyone with\nthat killer smile!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

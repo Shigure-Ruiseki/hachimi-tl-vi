@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold City",
@@ -17,5 +16,6 @@
       "name": "Gold City",
       "text": "Well, I don't have to do all that in front \nof you… I can be the <i>real</i> me."
     }
-  ]
+  ],
+  "no_wrap": true
 }

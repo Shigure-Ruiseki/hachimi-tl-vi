@@ -1,4 +1,5 @@
 {
+  "title": "Out of Character",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -213,6 +214,5 @@
       "name": "Nice Nature",
       "text": "Oh, to be so young and full of aspirations. \nWonder if I was like that when I first enrolled…"
     }
-  ],
-  "title": "Out of Character"
+  ]
 }

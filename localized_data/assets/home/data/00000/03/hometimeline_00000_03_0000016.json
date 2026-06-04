@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tamamo Cross",
@@ -37,5 +36,6 @@
       "name": "Both",
       "text": "Da heck! You think we can't handle it?!\nZa heck! You think we can't handle it?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

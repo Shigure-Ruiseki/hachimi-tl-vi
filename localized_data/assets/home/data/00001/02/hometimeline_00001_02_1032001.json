@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Daiwa Scarlet",
@@ -45,5 +44,6 @@
       "name": "Agnes Tachyon",
       "text": "…I've always wondered if your eagerness \nand inability to listen to others is something \nyou inherited from your parents."
     }
-  ]
+  ],
+  "no_wrap": true
 }

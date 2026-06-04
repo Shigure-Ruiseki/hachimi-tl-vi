@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Oguri Cap",
@@ -25,5 +24,6 @@
       "name": "Tamamo Cross",
       "text": "Yep, yep, it's always been a dream of mine… \nHol'it, whatchu on about!?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tosen Jordan",
@@ -33,5 +32,6 @@
       "name": "Winning Ticket",
       "text": "Yaaaaay!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

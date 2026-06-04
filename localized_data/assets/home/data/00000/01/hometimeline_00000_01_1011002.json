@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Grass Wonder",
@@ -25,5 +24,6 @@
       "name": "Grass Wonder",
       "text": "If you ever wish to give terrariums a try, \nI highly recommend it♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

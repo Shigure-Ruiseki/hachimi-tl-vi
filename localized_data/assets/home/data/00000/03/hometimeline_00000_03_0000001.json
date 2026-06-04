@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Special Week",
@@ -41,5 +40,6 @@
       "name": "El Condor Pasa",
       "text": "Yes, ma'am…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

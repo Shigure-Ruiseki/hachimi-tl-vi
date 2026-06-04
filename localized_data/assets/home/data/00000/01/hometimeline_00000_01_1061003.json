@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "King Halo",
@@ -17,5 +16,6 @@
       "name": "King Halo",
       "text": "…Starting tomorrow, she'll have to \nwake herself up."
     }
-  ]
+  ],
+  "no_wrap": true
 }

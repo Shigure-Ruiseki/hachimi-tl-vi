@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "T.M. Opera O",
@@ -17,5 +16,6 @@
       "name": "T.M. Opera O",
       "text": "Worry not, I still have three hundred \npages to go! There's still plenty of \nscenes for you to enjoy!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

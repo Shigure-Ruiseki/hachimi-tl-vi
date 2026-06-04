@@ -1,4 +1,5 @@
 {
+  "title": "The Dance of the Apple Country",
   "text_block_list": [
     {
       "name": "Staff A",
@@ -295,6 +296,5 @@
       "name": "Win Variation",
       "text": "Ehehe… that was a lot of fun…"
     }
-  ],
-  "title": "The Dance of the Apple Country"
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Admire Vega",
@@ -17,5 +16,6 @@
       "name": "Admire Vega",
       "text": "So don't keep them waiting… I'm sure they'd \nrather have you return their lost item than me."
     }
-  ]
+  ],
+  "no_wrap": true
 }

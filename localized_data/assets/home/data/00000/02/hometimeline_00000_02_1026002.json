@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Bakushin O",
@@ -41,5 +40,6 @@
       "name": "Mihono Bourbon",
       "text": "…Accessing data storage. Reclassifying\n\"too much\" as a compliment. Thank you\nfor your help."
     }
-  ]
+  ],
+  "no_wrap": true
 }

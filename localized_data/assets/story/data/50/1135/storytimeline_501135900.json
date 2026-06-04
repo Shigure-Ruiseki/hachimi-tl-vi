@@ -1,4 +1,5 @@
 {
+  "title": "Self Introduction",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -25,6 +26,5 @@
     {
       "text": "Just like this, with <chrname>, the battle \nagainst the Twinkle Series has begun!"
     }
-  ],
-  "title": "Self Introduction"
+  ]
 }

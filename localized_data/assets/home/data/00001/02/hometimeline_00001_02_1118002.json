@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Groove",
@@ -53,5 +52,6 @@
       "name": "Admire Groove",
       "text": "…The raspberry cake does sell out \nalmost immediately. …Follow me, then."
     }
-  ]
+  ],
+  "no_wrap": true
 }

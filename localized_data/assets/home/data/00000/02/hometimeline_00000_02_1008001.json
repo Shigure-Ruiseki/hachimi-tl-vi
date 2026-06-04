@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Vodka",
@@ -33,5 +32,6 @@
       "name": "Daiwa Scarlet",
       "text": "Y-You don't have any sense \nof delicacy, do you?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

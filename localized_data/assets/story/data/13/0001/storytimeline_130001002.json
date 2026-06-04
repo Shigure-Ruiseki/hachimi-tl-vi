@@ -1,4 +1,5 @@
 {
+  "title": "Ending",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -89,6 +90,5 @@
       "name": "All 3",
       "text": "KIRARI MAGIC SHOW!"
     }
-  ],
-  "title": "Ending"
+  ]
 }

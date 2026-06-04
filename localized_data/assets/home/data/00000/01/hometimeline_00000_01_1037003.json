@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Eishin Flash",
@@ -17,5 +16,6 @@
       "name": "Eishin Flash",
       "text": "He always made the same exact amount \nin the same exact time. And every year, \nthe joy I felt was the same…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

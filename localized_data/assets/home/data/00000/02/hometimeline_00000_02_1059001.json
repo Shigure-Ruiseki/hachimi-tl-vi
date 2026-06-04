@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Dober",
@@ -41,5 +40,6 @@
       "name": "Mejiro Dober",
       "text": "Oh, I'll reserve our tickets. I'll make sure\nwe get the best seats!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

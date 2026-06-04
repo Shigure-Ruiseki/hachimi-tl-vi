@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Taiki Shuttle",
@@ -45,5 +44,6 @@
       "name": "Nishino Flower",
       "text": "But in a way, your version sounds just right\nto me. After all, when I need help, that's\nexactly what I think: \"I should turn to Taiki!\""
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Dober",
@@ -17,5 +16,6 @@
       "name": "Mejiro Dober",
       "text": "No, sorry. Forget I said anything. \nI have to change…!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

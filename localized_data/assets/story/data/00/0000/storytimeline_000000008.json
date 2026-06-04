@@ -1,29 +1,29 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Director Akikawa",
-      "text": "Welcome! This is where you'll be taking\nthe Trainer Aptitude Test!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Our goal is to refine trainers' abilities,\nenabling them to instruct their trainees\nmore effectively. It is in your best\ninterest to fully commit to this effort!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "There is a test for every racing distance.\nSo the knowledge and skills required in\neach assessment will differ <i>greatly.</i>"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "That's not all! When you receive high\nenough ratings, you shall be permitted\nto undertake more challenging tests! No\nskipping grades here, as I'm sure you're\naware."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Once you manage to pass them all,\nperhaps you'll be ready for the most\nspecial test of all..."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "First things first! Get out there and apply\nyourself! Overcome your weaknesses and\ndevelop your strengths."
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Director Akikawa",
+            "text": "Welcome! This is where you'll be taking\nthe Trainer Aptitude Test!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Our goal is to refine trainers' abilities,\nenabling them to instruct their trainees\nmore effectively. It is in your best\ninterest to fully commit to this effort!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "There is a test for every racing distance.\nSo the knowledge and skills required in\neach assessment will differ <i>greatly.</i>"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "That's not all! When you receive high\nenough ratings, you shall be permitted\nto undertake more challenging tests! No\nskipping grades here, as I'm sure you're\naware."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Once you manage to pass them all,\nperhaps you'll be ready for the most\nspecial test of all..."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "First things first! Get out there and apply\nyourself! Overcome your weaknesses and\ndevelop your strengths."
+        }
+    ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Manhattan Cafe",
@@ -17,5 +16,6 @@
       "name": "Manhattan Cafe",
       "text": "…If it means I can catch up with \nmy friend, then maybe that's not \nsuch a bad thing… hehe."
     }
-  ]
+  ],
+  "no_wrap": true
 }

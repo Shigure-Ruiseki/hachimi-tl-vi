@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Seiun Sky",
@@ -41,5 +40,6 @@
       "name": "Seiun Sky",
       "text": "…And I might take a quick peek at your\nanswers while I'm there. Teehee☆"
     }
-  ]
+  ],
+  "no_wrap": true
 }

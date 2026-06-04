@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Taiki Shuttle",
@@ -25,5 +24,6 @@
       "name": "Seeking the Pearl",
       "text": "Heh… I see you understand \nthe universal language!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

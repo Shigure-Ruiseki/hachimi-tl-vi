@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sweep Tosho",
@@ -17,5 +16,6 @@
       "name": "Sweep Tosho",
       "text": "\"For what?\" My new stuffed animal's name, \nthat's what! It has to sound like a bunny \nname, be cute, and easy to say♪ Got it?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Amazon",
@@ -49,5 +48,6 @@
       "name": "Hishi Amazon",
       "text": "Thank you! I'm counting on you guys!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

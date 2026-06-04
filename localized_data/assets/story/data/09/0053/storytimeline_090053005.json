@@ -1,4 +1,5 @@
 {
+  "title": "Counterattack",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -213,6 +214,5 @@
       "name": "Jungle Pocket",
       "text": "RED TEAM'S! THE STRONGEEEEST!!"
     }
-  ],
-  "title": "Counterattack"
+  ]
 }

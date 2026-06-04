@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanetannhauser",
@@ -49,5 +48,6 @@
       "name": "Tosen Jordan",
       "text": "Um… Why don't we stick to just\none color for now, 'kay…?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Symboli Rudolf",
@@ -17,5 +16,6 @@
       "name": "Symboli Rudolf",
       "text": "Perhaps I should take a page from Fuji Kiseki. \nLearning magic tricks might soften my image."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -17,5 +16,6 @@
       "name": "Gold Ship",
       "text": "Room temperature? More like right \ntemperature! Not too cold, but not too hot! \nGet 'em while they're lukewarm!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

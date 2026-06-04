@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanefukukitaru",
@@ -49,5 +48,6 @@
       "name": "Matikanetannhauser",
       "text": "Why today of all days?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

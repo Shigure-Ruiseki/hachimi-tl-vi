@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Satono Diamond",
@@ -49,5 +48,6 @@
       "name": "Admire Vega",
       "text": "…Good. I'll let you know when I figure out\nwhat day's clear enough for it."
     }
-  ]
+  ],
+  "no_wrap": true
 }

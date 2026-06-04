@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Bright",
@@ -41,5 +40,6 @@
       "name": "Mejiro Ryan",
       "text": "Whuh?! Um, uh, wooow! Me?!\nGeez, you scared me for a second there!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

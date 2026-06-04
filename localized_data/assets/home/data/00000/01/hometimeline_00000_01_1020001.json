@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Seiun Sky",
@@ -25,5 +24,6 @@
       "name": "Seiun Sky",
       "text": "How am I supposed to run away \nwhile you're not looking? Nyahaha."
     }
-  ]
+  ],
+  "no_wrap": true
 }

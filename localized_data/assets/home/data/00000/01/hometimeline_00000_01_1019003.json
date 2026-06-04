@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Agnes Digital",
@@ -17,5 +16,6 @@
       "name": "Agnes Digital",
       "text": "Huehehe! No battleground is too harrowing \nwhen it comes to my horsies! Facing hardship \nonly makes a hero stronger!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

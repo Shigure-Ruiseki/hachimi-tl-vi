@@ -1,4 +1,5 @@
 {
+  "title": "A Silent Pas de Quatre",
   "text_block_list": [
     {
       "name": "Win Variation",
@@ -168,6 +169,5 @@
       "name": "Win Variation",
       "text": "…Well then, excuse me! \nSorry for bothering you when you were busy!"
     }
-  ],
-  "title": "A Silent Pas de Quatre"
+  ]
 }

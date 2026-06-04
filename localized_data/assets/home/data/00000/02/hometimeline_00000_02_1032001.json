@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Agnes Tachyon",
@@ -41,5 +40,6 @@
       "name": "Agnes Tachyon",
       "text": "Ohhh, drat!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

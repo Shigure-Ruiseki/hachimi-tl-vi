@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Dober",
@@ -17,5 +16,6 @@
       "name": "Mejiro Dober",
       "text": "\"I'll make you some tea to help you \nthrough it, so give it a try on your \nown first.\" …There."
     }
-  ]
+  ],
+  "no_wrap": true
 }

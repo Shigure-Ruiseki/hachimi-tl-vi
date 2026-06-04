@@ -1,4 +1,5 @@
 {
+  "title": "Toward Our Dreams",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -199,6 +200,5 @@
       "name": "???",
       "text": "<i>WAAAAAH!!</i>"
     }
-  ],
-  "title": "Toward Our Dreams"
+  ]
 }

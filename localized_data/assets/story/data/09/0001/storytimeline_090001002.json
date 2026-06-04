@@ -1,4 +1,5 @@
 {
+  "title": "A New Place to Call Home",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -185,6 +186,5 @@
       "name": "Special Week",
       "text": "Okaaay…!"
     }
-  ],
-  "title": "A New Place to Call Home"
+  ]
 }

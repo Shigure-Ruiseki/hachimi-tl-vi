@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Groove",
@@ -41,5 +40,6 @@
       "name": "Narita Brian",
       "text": "This isn't the time for jokes…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

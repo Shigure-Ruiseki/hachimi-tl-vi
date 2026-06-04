@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Akebono",
@@ -17,5 +16,6 @@
       "name": "Hishi Akebono",
       "text": "Aha! I'll dress up as a tree! As long as I \nstay still, maybe no one will find me!?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

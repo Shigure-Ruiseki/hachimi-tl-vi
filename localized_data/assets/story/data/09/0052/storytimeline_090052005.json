@@ -1,4 +1,5 @@
 {
+  "title": "Patient Wintersweet",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -228,6 +229,5 @@
       "name": "Daring Tact",
       "text": "I… I've found the color I can only wear with you!"
     }
-  ],
-  "title": "Patient Wintersweet"
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "T.M. Opera O",
@@ -17,5 +16,6 @@
       "name": "T.M. Opera O",
       "text": "Well? Don't rush me all at once! \nThose who wish to partake, form a line!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

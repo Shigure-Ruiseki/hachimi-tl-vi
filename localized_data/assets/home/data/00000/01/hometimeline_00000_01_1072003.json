@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Yaeno Muteki",
@@ -17,5 +16,6 @@
       "name": "Yaeno Muteki",
       "text": "It is so rewarding to see the techniques \nI trained so hard prove useful to others. \nI shall continue to strive for mastery!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

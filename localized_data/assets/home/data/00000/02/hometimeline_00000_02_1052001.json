@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Haru Urara",
@@ -29,5 +28,6 @@
       "name": "Agnes Digital",
       "text": "SQUEEEEE!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

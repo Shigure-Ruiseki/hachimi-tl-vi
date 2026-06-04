@@ -1,4 +1,5 @@
 {
+  "title": "Welcome to Bubblyland",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -150,6 +151,5 @@
       "name": "Daiwa Scarlet",
       "text": "This is ridiculous! I have to hurry back and train!"
     }
-  ],
-  "title": "Welcome to Bubblyland"
+  ]
 }

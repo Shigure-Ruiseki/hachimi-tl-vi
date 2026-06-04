@@ -1,4 +1,5 @@
 {
+  "title": "Clash",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -209,6 +210,5 @@
       "name": "Tap Dance City",
       "text": "Man, who said anything about playing a character? \nI want <i>you!</i> Ahahahaha!!"
     }
-  ],
-  "title": "Clash"
+  ]
 }

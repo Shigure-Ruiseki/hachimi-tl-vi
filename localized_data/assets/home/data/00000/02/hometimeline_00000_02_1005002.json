@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fuji Kiseki",
@@ -41,5 +40,6 @@
       "name": "Fuji Kiseki",
       "text": "U-Ummm… That certainly would be stunning, \nbut in a much more… pungent way."
     }
-  ]
+  ],
+  "no_wrap": true
 }

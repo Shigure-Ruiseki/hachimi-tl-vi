@@ -1,4 +1,5 @@
 {
+  "title": "Tranquility",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -250,6 +251,5 @@
       "name": "Duramente",
       "text": "…………What a mysterious person."
     }
-  ],
-  "title": "Tranquility"
+  ]
 }

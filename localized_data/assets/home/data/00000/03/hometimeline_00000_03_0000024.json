@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -49,5 +48,6 @@
       "name": "Haru Urara",
       "text": "Ehehe, now we're getting along great!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

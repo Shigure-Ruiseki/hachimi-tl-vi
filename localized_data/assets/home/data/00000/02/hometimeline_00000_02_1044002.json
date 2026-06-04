@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sweep Tosho",
@@ -45,5 +44,6 @@
       "name": "Sweep Tosho",
       "text": "Heehee!♪ My witch training's coming along\ngreat thanks to you!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

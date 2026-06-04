@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tosen Jordan",
@@ -17,5 +16,6 @@
       "name": "Tosen Jordan",
       "text": "Hm… that doesn't sound right. \n…Souffle-tion? Whatever, I am \nsooo done with these prices!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

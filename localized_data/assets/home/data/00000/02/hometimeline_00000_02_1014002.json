@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Seeking the Pearl",
@@ -41,5 +40,6 @@
       "name": "El Condor Pasa",
       "text": "Flamenco! Those steps! That passion! \nDance on, my dangerous beauty!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

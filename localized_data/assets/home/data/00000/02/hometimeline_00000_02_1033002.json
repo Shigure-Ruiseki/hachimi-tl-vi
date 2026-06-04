@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Admire Vega",
@@ -37,5 +36,6 @@
       "name": "Admire Vega",
       "text": "I was just deciding if I should have\ncurry or pasta for lunch!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

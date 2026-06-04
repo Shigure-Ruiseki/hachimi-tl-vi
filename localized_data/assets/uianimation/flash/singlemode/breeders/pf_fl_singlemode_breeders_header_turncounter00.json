@@ -1,4 +1,7 @@
 {
+  "windows": {
+    "bundle_name": "DSK5Y7L4JD3FELGFJH7TNENUL6S3VHML"
+  },
   "data": {
     "motion_parameter_list": {
       "6": {
@@ -44,8 +47,5 @@
         }
       }
     }
-  },
-  "windows": {
-    "bundle_name": "DSK5Y7L4JD3FELGFJH7TNENUL6S3VHML"
   }
 }

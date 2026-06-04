@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold City",
@@ -49,5 +48,6 @@
       "name": "Gold City",
       "text": "Tamamo… You're right. Thanks for the advice."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Bamboo Memory",
@@ -33,5 +32,6 @@
       "name": "Yaeno Muteki",
       "text": "I-I see now… But take care not to collapse\nfrom heat exhaustion."
     }
-  ]
+  ],
+  "no_wrap": true
 }

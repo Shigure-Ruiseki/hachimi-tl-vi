@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold City",
@@ -41,5 +40,6 @@
       "name": "Gold City",
       "text": "Ahaha, your lips are gonna hate you\nif you do that."
     }
-  ]
+  ],
+  "no_wrap": true
 }

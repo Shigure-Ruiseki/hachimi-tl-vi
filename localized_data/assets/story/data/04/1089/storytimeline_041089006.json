@@ -1,4 +1,5 @@
 {
+  "title": "My Troubles: A Tingly Feeling",
   "text_block_list": [
     {
       "name": "Cheval Grand",
@@ -230,6 +231,5 @@
       "name": "Cheval Grand",
       "text": "(…What's… going on with me?)"
     }
-  ],
-  "title": "My Troubles: A Tingly Feeling"
+  ]
 }

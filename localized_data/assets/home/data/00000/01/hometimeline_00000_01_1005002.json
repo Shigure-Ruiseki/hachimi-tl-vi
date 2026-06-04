@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fuji Kiseki",
@@ -25,5 +24,6 @@
       "name": "Fuji Kiseki",
       "text": "After all, I would love nothing more than \nfor you to be happy and full of life."
     }
-  ]
+  ],
+  "no_wrap": true
 }

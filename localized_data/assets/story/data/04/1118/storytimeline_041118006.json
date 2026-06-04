@@ -1,4 +1,5 @@
 {
+  "title": "Tip of the Iceberg",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -262,6 +263,5 @@
       "name": "Admire Groove",
       "text": "…Nothing."
     }
-  ],
-  "title": "Tip of the Iceberg"
+  ]
 }

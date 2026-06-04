@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Biwa Hayahide",
@@ -33,5 +32,6 @@
       "name": "Biwa Hayahide",
       "text": "Oh! Thank you, I'm sure Mother\nwill be quite pleased!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

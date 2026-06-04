@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Akebono",
@@ -17,5 +16,6 @@
       "name": "Hishi Akebono",
       "text": "Whether your stomach's grumbly or not, \neeeveryone gets a piece of buono!☆"
     }
-  ]
+  ],
+  "no_wrap": true
 }

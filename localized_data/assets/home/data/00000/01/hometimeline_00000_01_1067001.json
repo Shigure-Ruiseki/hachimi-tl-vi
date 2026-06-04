@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Satono Diamond",
@@ -17,5 +16,6 @@
       "name": "Satono Diamond",
       "text": "It's our duty to deliver moments like \nthose to fans. I'm going to share this \nwith Kita later♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

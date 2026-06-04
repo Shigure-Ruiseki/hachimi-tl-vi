@@ -1,4 +1,5 @@
 {
+  "title": "Feeling Awful",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -202,6 +203,5 @@
       "name": "Special Week",
       "text": "Wait! I-Is it actually possible to do any training here?!"
     }
-  ],
-  "title": "Feeling Awful"
+  ]
 }

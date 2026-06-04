@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Shakur",
@@ -41,5 +40,6 @@
       "name": "Fine Motion",
       "text": "Hehe, that's <i>exactly</i> what the hero would say♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

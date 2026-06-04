@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Winning Ticket",
@@ -41,5 +40,6 @@
       "name": "Winning Ticket",
       "text": "Awwwww!! At least let me finish!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

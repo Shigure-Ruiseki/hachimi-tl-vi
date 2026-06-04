@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Kawakami Princess",
@@ -45,5 +44,6 @@
       "name": "Sweep Tosho",
       "text": "What're you imagining?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

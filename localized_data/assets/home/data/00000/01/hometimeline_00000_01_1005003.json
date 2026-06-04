@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fuji Kiseki",
@@ -21,5 +20,6 @@
       "name": "Fuji Kiseki",
       "text": "…All right, I shall adjust my schedule. \nI certainly don't wish to worry you \nany further."
     }
-  ]
+  ],
+  "no_wrap": true
 }

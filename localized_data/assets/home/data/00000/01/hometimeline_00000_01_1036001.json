@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Air Shakur",
@@ -13,5 +12,6 @@
       "name": "Air Shakur",
       "text": "<i>Tch</i>… Too much drive can \nblind you, you know that?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

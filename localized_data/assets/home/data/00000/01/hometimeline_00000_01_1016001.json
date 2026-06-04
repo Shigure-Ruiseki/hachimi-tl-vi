@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Narita Brian",
@@ -17,5 +16,6 @@
       "name": "Narita Brian",
       "text": "Either way, I'd like to see that gallant \nsilhouette again sometime."
     }
-  ]
+  ],
+  "no_wrap": true
 }

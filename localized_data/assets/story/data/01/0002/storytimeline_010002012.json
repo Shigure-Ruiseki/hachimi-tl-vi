@@ -1,21 +1,21 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Now, we'll choose some Support Cards\nto assist you and your trainee during her\nCareer!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Each card comes with various benefits,\nsuch as the Support Card character\nappearing in your playthrough and\nproviding skills for your trainee to\nacquire."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "With that said, you can't choose a\nSupport Card depicting the same\nUmamusume that you selected to train.\nPlease keep that in mind!",
-      "color_text_info_list": [
-        "the same Umamusume that you selected to train",
-        "you can't choose a Support Card depicting"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Now, we'll choose some Support Cards\nto assist you and your trainee during her\nCareer!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Each card comes with various benefits,\nsuch as the Support Card character\nappearing in your playthrough and\nproviding skills for your trainee to\nacquire."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "With that said, you can't choose a\nSupport Card depicting the same\nUmamusume that you selected to train.\nPlease keep that in mind!",
+            "color_text_info_list": [
+                "the same Umamusume that you selected to train",
+                "you can't choose a Support Card depicting"
+            ]
+        }
+    ]
 }

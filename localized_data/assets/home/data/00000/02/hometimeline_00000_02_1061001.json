@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "King Halo",
@@ -41,5 +40,6 @@
       "name": "King Halo",
       "text": "…This is why no one calls you cute."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanefukukitaru",
@@ -41,5 +40,6 @@
       "name": "Meisho Doto",
       "text": "Yes, that's a relief…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

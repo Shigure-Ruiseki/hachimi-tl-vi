@@ -1,4 +1,5 @@
 {
+  "title": "Nice to Meet You!",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -214,6 +215,5 @@
       "name": "Special Week",
       "text": "(…Though I can't even rise to my feet!)"
     }
-  ],
-  "title": "Nice to Meet You!"
+  ]
 }

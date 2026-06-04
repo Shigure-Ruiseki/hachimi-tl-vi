@@ -1,4 +1,5 @@
 {
+  "title": "Take Off Running",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -231,6 +232,5 @@
       "name": "Daiwa Scarlet",
       "text": "Hey, Mama? You know, today I…"
     }
-  ],
-  "title": "Take Off Running"
+  ]
 }

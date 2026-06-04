@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fine Motion",
@@ -17,5 +16,6 @@
       "name": "Fine Motion",
       "text": "All right, I've decided! I'll do both! \nFirst I'll find a four-leaf clover, \nthen I'll go into town!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

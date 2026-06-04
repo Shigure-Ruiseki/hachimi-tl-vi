@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nice Nature",
@@ -13,5 +12,6 @@
       "name": "Nice Nature",
       "text": "Hehe, but thanks to that, I'm pretty good \nat all the winning concert songs."
     }
-  ]
+  ],
+  "no_wrap": true
 }

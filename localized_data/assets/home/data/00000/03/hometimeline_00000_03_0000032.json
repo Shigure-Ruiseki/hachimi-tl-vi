@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Nishino Flower",
@@ -49,5 +48,6 @@
       "name": "King Halo",
       "text": "…I need to read up on camping, fast."
     }
-  ]
+  ],
+  "no_wrap": true
 }

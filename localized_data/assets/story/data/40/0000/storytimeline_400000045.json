@@ -1,35 +1,35 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Trainer, we're in trouble!\nTime is running out…!",
-      "choice_data_list": [
-        "What do you mean!?"
-      ]
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "You see, some consider it a problem\nthat your horse girl has not won\na single race so far…!",
-      "color_text_info_list": [
-        "not won a single race so far"
-      ]
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "If you can't provide her a first victory by\nSeptember, your contract may be terminated!",
-      "color_text_info_list": [
-        "September",
-        "first victory",
-        "contract\nmay be terminated"
-      ]
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "September is right around the corner!\nPlease, obtain that win!",
-      "color_text_info_list": [
-        "September"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer, we're in trouble!\nTime is running out…!",
+            "choice_data_list": [
+                "What do you mean!?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You see, some consider it a problem\nthat your horse girl has not won\na single race so far…!",
+            "color_text_info_list": [
+                "not won a single race so far"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you can't provide her a first victory by\nSeptember, your contract may be terminated!",
+            "color_text_info_list": [
+                "September",
+                "first victory",
+                "contract\nmay be terminated"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "September is right around the corner!\nPlease, obtain that win!",
+            "color_text_info_list": [
+                "September"
+            ]
+        }
+    ]
 }

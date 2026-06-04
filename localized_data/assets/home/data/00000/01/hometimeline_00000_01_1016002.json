@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Narita Brian",
@@ -17,5 +16,6 @@
       "name": "Narita Brian",
       "text": "…Her form was pretty good though. \nWhat class is she in…?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

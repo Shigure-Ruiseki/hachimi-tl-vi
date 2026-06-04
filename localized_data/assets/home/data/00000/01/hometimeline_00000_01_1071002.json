@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Ardan",
@@ -17,5 +16,6 @@
       "name": "Mejiro Ardan",
       "text": "I would like to speak to them and ask \nwhat it is that keeps them so passionately \ntied to our realm."
     }
-  ]
+  ],
+  "no_wrap": true
 }

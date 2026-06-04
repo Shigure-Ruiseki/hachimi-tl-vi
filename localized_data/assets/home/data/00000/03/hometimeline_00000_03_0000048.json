@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Bright",
@@ -49,5 +48,6 @@
       "name": "Matikanefukukitaru",
       "text": "Ah, so it was the fragrance of a lucky drink!\nYou <i>must</i> let me attend your next tea party!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Narita Taishin",
@@ -21,5 +20,6 @@
       "name": "Narita Taishin",
       "text": "Ugh… Why does everyone in my class \nhave to be so <i>friendly?</i>"
     }
-  ]
+  ],
+  "no_wrap": true
 }

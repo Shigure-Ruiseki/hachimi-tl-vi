@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Agnes Tachyon",
@@ -17,5 +16,6 @@
       "name": "Agnes Tachyon",
       "text": "The heretofore unknown, the yet undetermined \npossibilities! I shall surpass the limits of \nsolubility… and reach peak sugar levels!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

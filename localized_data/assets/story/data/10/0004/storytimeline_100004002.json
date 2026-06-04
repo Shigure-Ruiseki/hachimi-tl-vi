@@ -1,4 +1,5 @@
 {
+  "title": "Ending",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -58,6 +59,5 @@
       "name": "All Three",
       "text": "Keep up… victory!"
     }
-  ],
-  "title": "Ending"
+  ]
 }

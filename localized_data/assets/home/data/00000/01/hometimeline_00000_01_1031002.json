@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Ines Fujin",
@@ -17,5 +16,6 @@
       "name": "Ines Fujin",
       "text": "I think she's saying, \"Get out there with that \nsmile of yours and have fun!\" …Hehe, can't \nlet her down now, can I?♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro McQueen",
@@ -41,5 +40,6 @@
       "name": "Mejiro McQueen",
       "text": "Y-Yes! Tea… That's all we're doing!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

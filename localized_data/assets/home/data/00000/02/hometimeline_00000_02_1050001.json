@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Winning Ticket",
@@ -41,5 +40,6 @@
       "name": "Narita Taishin",
       "text": "Yup. Good idea. You go do that."
     }
-  ]
+  ],
+  "no_wrap": true
 }

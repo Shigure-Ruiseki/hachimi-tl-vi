@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Symboli Rudolf",
@@ -41,5 +40,6 @@
       "name": "Symboli Rudolf",
       "text": "Thank you. I can't wait to see the look on \nAir Groove and the others' faces. Haha."
     }
-  ]
+  ],
+  "no_wrap": true
 }

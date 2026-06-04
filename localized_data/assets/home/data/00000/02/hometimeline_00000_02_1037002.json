@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Hishi Akebono",
@@ -37,5 +36,6 @@
       "name": "Eishin Flash",
       "text": "How many grams of love should I add?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

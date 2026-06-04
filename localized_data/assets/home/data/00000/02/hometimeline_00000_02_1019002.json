@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Agnes Digital",
@@ -45,5 +44,6 @@
       "name": "Zenno Rob Roy",
       "text": "You flatter me! Hehe♪ \"The wise scholar\nof light\" sounds like a heroic tale…!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

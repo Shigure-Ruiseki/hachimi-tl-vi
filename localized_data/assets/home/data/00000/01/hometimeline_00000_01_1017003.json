@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Symboli Rudolf",
@@ -17,5 +16,6 @@
       "name": "Symboli Rudolf",
       "text": "Therefore, I am studying the law while also \nobserving the people. Killing two birds with one\nstone, if you will. You should try it sometime."
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Smart Falcon",
@@ -17,5 +16,6 @@
       "name": "Smart Falcon",
       "text": "I bet it'd be super popular with other people\nwho suck at studying! It might even make it \nto number one on the charts☆"
     }
-  ]
+  ],
+  "no_wrap": true
 }

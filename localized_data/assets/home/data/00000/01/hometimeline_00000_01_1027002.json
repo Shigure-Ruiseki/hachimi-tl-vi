@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Ryan",
@@ -17,5 +16,6 @@
       "name": "Mejiro Ryan",
       "text": "<i>Aaah</i>! No way, NO WAY! Please, forget \neverything you just heard! Everything!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

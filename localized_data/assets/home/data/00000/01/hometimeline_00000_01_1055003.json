@@ -1,21 +1,21 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Marvelous Sunday",
-      "text": "Marvelous word chain game～☆"
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "Marvelous☆ \nS…… Spectacular surprises★"
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "S…… Sunny-side-up eggs with two yolks☆ \nS…… Sparkling sunlight beam★"
-    },
-    {
-      "name": "Marvelous Sunday",
-      "text": "Maaaarvelous☆★☆"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Marvelous Sunday",
+            "text": "Marvelous word chain game～☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Marvelous☆ \nS…… Spectacular surprises★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "S…… Sunny-side-up eggs with two yolks☆ \nS…… Sparkling sunlight beam★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Maaaarvelous☆★☆"
+        }
+    ]
 }

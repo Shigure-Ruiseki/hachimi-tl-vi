@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold City",
@@ -17,5 +16,6 @@
       "name": "Gold City",
       "text": "Besides, you do the same for me during \npractice, right? You know, giving advice."
     }
-  ]
+  ],
+  "no_wrap": true
 }

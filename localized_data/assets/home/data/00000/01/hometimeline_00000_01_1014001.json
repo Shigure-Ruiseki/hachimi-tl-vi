@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "El Condor Pasa",
@@ -17,5 +16,6 @@
       "name": "El Condor Pasa",
       "text": "The trick is… to hold your nose while \nyou down it in one gulp."
     }
-  ]
+  ],
+  "no_wrap": true
 }

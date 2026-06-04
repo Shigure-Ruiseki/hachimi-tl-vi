@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "T.M. Opera O",
@@ -41,5 +40,6 @@
       "name": "Admire Vega",
       "text": "I'll give you credit. When it comes to \nconfidence — no, delusion — no one \ndoes it better…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

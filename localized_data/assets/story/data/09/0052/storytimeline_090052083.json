@@ -1,4 +1,5 @@
 {
+  "title": "A Vow of Statice",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -137,6 +138,5 @@
       "name": "Both",
       "text": "Always, and forever—— To the ends of the earth."
     }
-  ],
-  "title": "A Vow of Statice"
+  ]
 }

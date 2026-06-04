@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Bakushin O",
@@ -17,5 +16,6 @@
       "name": "Sakura Bakushin O",
       "text": "Go ahead! Take it all in!!\nBask in the joy my face brings!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

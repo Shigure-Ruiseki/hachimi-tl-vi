@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Narita Brian",
@@ -41,5 +40,6 @@
       "name": "Biwa Hayahide",
       "text": "M-My head is <i>not</i> big!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Biwa Hayahide",
@@ -17,5 +16,6 @@
       "name": "Biwa Hayahide",
       "text": "I've got it… We'll just have to hold hands!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

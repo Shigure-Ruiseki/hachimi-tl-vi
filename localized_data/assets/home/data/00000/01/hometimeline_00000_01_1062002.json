@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Matikanetannhauser",
@@ -17,5 +16,6 @@
       "name": "Matikanetannhauser",
       "text": "Nya?! O-Oh no… I'm feeling weak… \nS-Someone, help meee!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

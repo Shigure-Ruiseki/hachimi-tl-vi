@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -41,5 +40,6 @@
       "name": "Tosen Jordan",
       "text": "Yeah, you're the real GOAT here, <i>taiyaki</i>! \nWe stan!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

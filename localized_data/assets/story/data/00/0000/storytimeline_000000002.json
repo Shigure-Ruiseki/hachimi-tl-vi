@@ -1,33 +1,33 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Director Akikawa",
-      "text": "Greetings! This is where the trophies\nyou've acquired from races are\ndisplayed!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Proposition! I want you to win every race\nand fill this room with prizes!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Dream big! Don't stop until all the\ntrophies are yours!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "I want to see this place <i>absolutely\ncrammed</i> wall-to-wall with glimmering\ntrophies!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Of course! I wish for the success of all\nour Umamusume here at Tracen\nAcademy as well."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Incidentally, accruing many trophies\nbrings more rewards. So be sure to check\nyour missions often!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "For my dream and the future of our\nUmamusume, I'm counting on you!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Director Akikawa",
+            "text": "Greetings! This is where the trophies\nyou've acquired from races are\ndisplayed!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Proposition! I want you to win every race\nand fill this room with prizes!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Dream big! Don't stop until all the\ntrophies are yours!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I want to see this place <i>absolutely\ncrammed</i> wall-to-wall with glimmering\ntrophies!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Of course! I wish for the success of all\nour Umamusume here at Tracen\nAcademy as well."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Incidentally, accruing many trophies\nbrings more rewards. So be sure to check\nyour missions often!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "For my dream and the future of our\nUmamusume, I'm counting on you!"
+        }
+    ]
 }

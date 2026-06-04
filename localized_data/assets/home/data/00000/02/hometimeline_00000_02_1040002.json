@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tosen Jordan",
@@ -41,5 +40,6 @@
       "name": "Gold City",
       "text": "Hehe, why not. I'm not going to leave\nmy \"bestie\" hanging."
     }
-  ]
+  ],
+  "no_wrap": true
 }

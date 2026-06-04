@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fine Motion",
@@ -49,5 +48,6 @@
       "name": "Fine Motion",
       "text": "Really?! Okay, I will!♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

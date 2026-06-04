@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Inari One",
@@ -41,5 +40,6 @@
       "name": "Inari One",
       "text": "Uhhh… I dunno what's up with you two,\nbut can we eat these already?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

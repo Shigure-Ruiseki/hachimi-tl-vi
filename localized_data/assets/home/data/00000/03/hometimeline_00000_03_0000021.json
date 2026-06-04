@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Ines Fujin",
@@ -41,5 +40,6 @@
       "name": "Both",
       "text": "Huh?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

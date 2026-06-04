@@ -1,41 +1,41 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Oh, Trainer! Thank you for coming!"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Greetings! This is the Umamusume\nArchive, where records of your trainees'\ncareers are stored."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "All the days you spend getting to know\neach other, the days you spend\ntraining..."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "The more memories you make, the\nhigher your Archive level will become."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Raising this level comes with its own\nrewards, so you'd do well to work your\nhardest!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "As the overseer of the Archive, please\nlet me know if there's anything you\nneed."
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "Correct! All the rewards have been\nentrusted to Tazuna, so you'll be\ncollecting them from her. That's all from\nme!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Hehe, please work hard to make plenty\nof wonderful memories. ♪"
-    },
-    {
-      "name": "Director Akikawa",
-      "text": "I'll also be waiting with great\nanticipation to see the amazing Archive\nyou make. Ha-ha-ha!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, Trainer! Thank you for coming!"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Greetings! This is the Umamusume\nArchive, where records of your trainees'\ncareers are stored."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "All the days you spend getting to know\neach other, the days you spend\ntraining..."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "The more memories you make, the\nhigher your Archive level will become."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Raising this level comes with its own\nrewards, so you'd do well to work your\nhardest!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "As the overseer of the Archive, please\nlet me know if there's anything you\nneed."
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "Correct! All the rewards have been\nentrusted to Tazuna, so you'll be\ncollecting them from her. That's all from\nme!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe, please work hard to make plenty\nof wonderful memories. ♪"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I'll also be waiting with great\nanticipation to see the amazing Archive\nyou make. Ha-ha-ha!"
+        }
+    ]
 }

@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "El Condor Pasa",
@@ -17,5 +16,6 @@
       "name": "El Condor Pasa",
       "text": "You heard nothing! You will forget everything \nyou just heard. In fact, who's Mambo? \nYou certainly don't know…!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

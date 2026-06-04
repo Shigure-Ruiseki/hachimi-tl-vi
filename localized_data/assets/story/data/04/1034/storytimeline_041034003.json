@@ -1,235 +1,235 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "Several days have passed since the festival I went to with Inari One. \nWhen I was passing through the front gate of Tracen Academy――"
-    },
-    {
-      "name": "Inari One",
-      "text": "Let's see, the front gate is this way……oh, Uooh!! \nYou're, from that time……！",
-      "choice_data_list": [
-        "Oh！ Inari One……！？"
-      ]
-    },
-    {
-      "name": "Inari One",
-      "text": "Tahaha, looks like ya found me. \nWell～, you see, the reason I came here……",
-      "choice_data_list": [
-        "……want me to show you around？"
-      ]
-    },
-    {
-      "name": "Inari One",
-      "text": "！……is that okay？ That'd be helpful！ \nHehe……seems like the complete opposite from when we first met, huh？"
-    },
-    {
-      "name": "Inari One",
-      "text": "Haa～, I'd heard the rumors but, a huge dorm, \nhuge gym, huge cafeteria…… and even this huuuuge training ground！"
-    },
-    {
-      "name": "Inari One",
-      "text": "……So this is Tracen Academy, huh. \nWell, the facilities are all like that too――"
-    },
-    {
-      "name": "Trainees",
-      "text": "Haa, haa, haa, haa, haa……！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "(Are they doing……parallel running？ From the looks of it, they're \nnearing the end……seems like they're competing with each other \nwhile feeling out the timing for their attack……)"
-    },
-    {
-      "name": "Trainee A",
-      "text": "Haa, haa…… right here……！ \nHaaaAAAAa！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "(Uoh！？ Already！？ \nAin't it too early to push forward……！？)"
-    },
-    {
-      "name": "Trainee B",
-      "text": "……！ No…… not yet……！！"
-    },
-    {
-      "name": "Trainee A",
-      "text": "Kuu…… Fine, in that case……I'll keep pushing forward like this！！"
-    },
-    {
-      "name": "Trainees",
-      "text": "DaaAAAAAAー！！"
-    },
-    {
-      "name": "Trainees",
-      "text": "Haaa, haaa, haa……！！"
-    },
-    {
-      "name": "Instructor A",
-      "text": "Good. Last time your assignment was to supplement your last leg \nperformance. Pushing forward early and trying to draw your \nopponent in to a stamina battle――it's a good tactic！"
-    },
-    {
-      "name": "Instructor A",
-      "text": "Let's raise your stamina more and more. We'll switch the \nfocus of your self training to that. And then, for you――"
-    },
-    {
-      "name": "Instructor A",
-      "text": "Good job not being drawn in！ Believing in your own last leg \nperformance and maintaining your own pace until the end. \nLet's keep refining that sharpness."
-    },
-    {
-      "name": "Instructor A",
-      "text": "Both of you, you're building up more ways to appeal to trainers. \nLet's build up some more while aiming for Selection Races！"
-    },
-    {
-      "name": "Trainees",
-      "text": "Yes！ Thank you very much！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "(Selection, which means……wait wait, they're like that and they \nhaven't even debuted yet！？ I heard the level here was high but――)"
-    },
-    {
-      "name": "???",
-      "text": "――Sorry. We'd like to use this place now, \nwould you mind moving？"
-    },
-    {
-      "name": "Inari One",
-      "text": "Oh！ Sorry, I'll move now―― \n……？"
-    },
-    {
-      "name": "???",
-      "text": "Oh my～. Are you here inspecting the school？ \nI'm sorry. Looks like we're bothering you～"
-    },
-    {
-      "name": "Inari One",
-      "text": "Ah, no, it's fine. It's not something ya have to apologize for……"
-    },
-    {
-      "name": "Inari One",
-      "text": "(……Huh？ These two……what's with them？ \nThere's a strange……sense of pressure――)"
-    },
-    {
-      "name": "Inari One",
-      "text": "……Hey. You, do ya know anything about those two？",
-      "choice_data_list": [
-        "They're Oguri Cap and Super Creek",
-        "They're Oguri Cap and Super Creek"
-      ]
-    },
-    {
-      "text": "I answer her question. Both of them are Uma Musume who haven't debuted yet. \nHowever――",
-      "choice_data_list": [
-        "Both of them have huge potential"
-      ]
-    },
-    {
-      "name": "Oguri Cap",
-      "text": "Haa, haa, haa, haa, haa……！！ \nRight here……push forward！！"
-    },
-    {
-      "name": "Super Creek",
-      "text": "Ufufu…… I won't let you！！"
-    },
-    {
-      "name": "Oguri&Creek",
-      "text": "HaaAAAAAAAa！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "……！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "(Hey…… hey, hey, hey, hey, what's with them！？ \nThat white one, she had such a dopey look on her face just now, \nbut with that kind of grit, it seems like a lie！)"
-    },
-    {
-      "name": "Inari One",
-      "text": "(On the other hand, that big one！ It's hard to see……\nthe true depth of her potential！ Just looking at her……\nit feels like I'll be overwhelmed……！)"
-    },
-    {
-      "name": "Inari One",
-      "text": "What is this……what's with those two……！"
-    },
-    {
-      "text": "Next to me, Inari One had her breath taken away. \nJudging by her reaction, she was completely overwhelmed \nby their parallel running, but……",
-      "choice_data_list": [
-        "Inari One"
-      ]
-    },
-    {
-      "name": "Inari One",
-      "text": "Eh?",
-      "choice_data_list": [
-        "You can win against those two",
-        "You can win against those two"
-      ]
-    },
-    {
-      "name": "Inari One",
-      "text": "～～～～！！"
-    },
-    {
-      "name": "Caster",
-      "text": "――400m remain！ The leader is Oguri Cap, \nbut Super Creek pulls forward！ Super Creek takes the lead！！"
-    },
-    {
-      "name": "Caster",
-      "text": "Super Creek and Oguri Cap……and here comes Inari One！！ \nInari One pushes forward！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "DaaAAAARyaaAAAAA！！"
-    },
-    {
-      "name": "Caster",
-      "text": "200m remain！ Who will take the lead this time, \nInari One or Super Creek！？ The leader is――"
-    },
-    {
-      "name": "Inari&Creek",
-      "text": "OraaAAAAAAAAAAAAA！！ \nHaaAAAAAAーーー！！"
-    },
-    {
-      "name": "Caster",
-      "text": "Inari One！ It's Inari One！！ Inari One takes the lead！！ \n――And goal！！"
-    },
-    {
-      "name": "Caster",
-      "text": "The one who emerges victorious from this heated battle is Inari One！！ \nThe stands erupt in to a loud cheer！！"
-    },
-    {
-      "name": "Inari One",
-      "text": "(……a narrow victory after a tough battle with opponents like these. \nAn explosive cheer louder than fireworks, with the Chief \nand everyone from town there)"
-    },
-    {
-      "name": "Inari One",
-      "text": "(And then, after I've won, \nthose guys joyfully come runnin'――)",
-      "choice_data_list": [
-        "……Inari One？"
-      ]
-    },
-    {
-      "name": "Inari One",
-      "text": "Uwaaa！？ Ah……J-just now…… \n………………"
-    },
-    {
-      "name": "Inari One",
-      "text": "……Sorry！ I need to…… get goin' now！！",
-      "choice_data_list": [
-        "Eh！？ Wait……！！"
-      ]
-    },
-    {
-      "name": "Chief",
-      "text": "……Geez. I thought something like this might happen, you idiot.",
-      "choice_data_list": [
-        "Huh！？ Y-you're……！"
-      ]
-    },
-    {
-      "name": "Chief",
-      "text": "We meet again, Trainer-san. \nWell then――"
-    },
-    {
-      "name": "Chief",
-      "text": "I'd like to ask you for a favor. \n……Next time, there's a race I would like you to come and see, how about it？"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Several days have passed since the festival I went to with Inari One. \nWhen I was passing through the front gate of Tracen Academy――"
+        },
+        {
+            "name": "Inari One",
+            "text": "Let's see, the front gate is this way……oh, Uooh!! \nYou're, from that time……！",
+            "choice_data_list": [
+                "Oh！ Inari One……！？"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Tahaha, looks like ya found me. \nWell～, you see, the reason I came here……",
+            "choice_data_list": [
+                "……want me to show you around？"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "！……is that okay？ That'd be helpful！ \nHehe……seems like the complete opposite from when we first met, huh？"
+        },
+        {
+            "name": "Inari One",
+            "text": "Haa～, I'd heard the rumors but, a huge dorm, \nhuge gym, huge cafeteria…… and even this huuuuge training ground！"
+        },
+        {
+            "name": "Inari One",
+            "text": "……So this is Tracen Academy, huh. \nWell, the facilities are all like that too――"
+        },
+        {
+            "name": "Trainees",
+            "text": "Haa, haa, haa, haa, haa……！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Are they doing……parallel running？ From the looks of it, they're \nnearing the end……seems like they're competing with each other \nwhile feeling out the timing for their attack……)"
+        },
+        {
+            "name": "Trainee A",
+            "text": "Haa, haa…… right here……！ \nHaaaAAAAa！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Uoh！？ Already！？ \nAin't it too early to push forward……！？)"
+        },
+        {
+            "name": "Trainee B",
+            "text": "……！ No…… not yet……！！"
+        },
+        {
+            "name": "Trainee A",
+            "text": "Kuu…… Fine, in that case……I'll keep pushing forward like this！！"
+        },
+        {
+            "name": "Trainees",
+            "text": "DaaAAAAAAー！！"
+        },
+        {
+            "name": "Trainees",
+            "text": "Haaa, haaa, haa……！！"
+        },
+        {
+            "name": "Instructor A",
+            "text": "Good. Last time your assignment was to supplement your last leg \nperformance. Pushing forward early and trying to draw your \nopponent in to a stamina battle――it's a good tactic！"
+        },
+        {
+            "name": "Instructor A",
+            "text": "Let's raise your stamina more and more. We'll switch the \nfocus of your self training to that. And then, for you――"
+        },
+        {
+            "name": "Instructor A",
+            "text": "Good job not being drawn in！ Believing in your own last leg \nperformance and maintaining your own pace until the end. \nLet's keep refining that sharpness."
+        },
+        {
+            "name": "Instructor A",
+            "text": "Both of you, you're building up more ways to appeal to trainers. \nLet's build up some more while aiming for Selection Races！"
+        },
+        {
+            "name": "Trainees",
+            "text": "Yes！ Thank you very much！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Selection, which means……wait wait, they're like that and they \nhaven't even debuted yet！？ I heard the level here was high but――)"
+        },
+        {
+            "name": "???",
+            "text": "――Sorry. We'd like to use this place now, \nwould you mind moving？"
+        },
+        {
+            "name": "Inari One",
+            "text": "Oh！ Sorry, I'll move now―― \n……？"
+        },
+        {
+            "name": "???",
+            "text": "Oh my～. Are you here inspecting the school？ \nI'm sorry. Looks like we're bothering you～"
+        },
+        {
+            "name": "Inari One",
+            "text": "Ah, no, it's fine. It's not something ya have to apologize for……"
+        },
+        {
+            "name": "Inari One",
+            "text": "(……Huh？ These two……what's with them？ \nThere's a strange……sense of pressure――)"
+        },
+        {
+            "name": "Inari One",
+            "text": "……Hey. You, do ya know anything about those two？",
+            "choice_data_list": [
+                "They're Oguri Cap and Super Creek",
+                "They're Oguri Cap and Super Creek"
+            ]
+        },
+        {
+            "text": "I answer her question. Both of them are Uma Musume who haven't debuted yet. \nHowever――",
+            "choice_data_list": [
+                "Both of them have huge potential"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Haa, haa, haa, haa, haa……！！ \nRight here……push forward！！"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ufufu…… I won't let you！！"
+        },
+        {
+            "name": "Oguri&Creek",
+            "text": "HaaAAAAAAAa！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "……！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Hey…… hey, hey, hey, hey, what's with them！？ \nThat white one, she had such a dopey look on her face just now, \nbut with that kind of grit, it seems like a lie！)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(On the other hand, that big one！ It's hard to see……\nthe true depth of her potential！ Just looking at her……\nit feels like I'll be overwhelmed……！)"
+        },
+        {
+            "name": "Inari One",
+            "text": "What is this……what's with those two……！"
+        },
+        {
+            "text": "Next to me, Inari One had her breath taken away. \nJudging by her reaction, she was completely overwhelmed \nby their parallel running, but……",
+            "choice_data_list": [
+                "Inari One"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Eh?",
+            "choice_data_list": [
+                "You can win against those two",
+                "You can win against those two"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "～～～～！！"
+        },
+        {
+            "name": "Caster",
+            "text": "――400m remain！ The leader is Oguri Cap, \nbut Super Creek pulls forward！ Super Creek takes the lead！！"
+        },
+        {
+            "name": "Caster",
+            "text": "Super Creek and Oguri Cap……and here comes Inari One！！ \nInari One pushes forward！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "DaaAAAARyaaAAAAA！！"
+        },
+        {
+            "name": "Caster",
+            "text": "200m remain！ Who will take the lead this time, \nInari One or Super Creek！？ The leader is――"
+        },
+        {
+            "name": "Inari&Creek",
+            "text": "OraaAAAAAAAAAAAAA！！ \nHaaAAAAAAーーー！！"
+        },
+        {
+            "name": "Caster",
+            "text": "Inari One！ It's Inari One！！ Inari One takes the lead！！ \n――And goal！！"
+        },
+        {
+            "name": "Caster",
+            "text": "The one who emerges victorious from this heated battle is Inari One！！ \nThe stands erupt in to a loud cheer！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(……a narrow victory after a tough battle with opponents like these. \nAn explosive cheer louder than fireworks, with the Chief \nand everyone from town there)"
+        },
+        {
+            "name": "Inari One",
+            "text": "(And then, after I've won, \nthose guys joyfully come runnin'――)",
+            "choice_data_list": [
+                "……Inari One？"
+            ]
+        },
+        {
+            "name": "Inari One",
+            "text": "Uwaaa！？ Ah……J-just now…… \n………………"
+        },
+        {
+            "name": "Inari One",
+            "text": "……Sorry！ I need to…… get goin' now！！",
+            "choice_data_list": [
+                "Eh！？ Wait……！！"
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "……Geez. I thought something like this might happen, you idiot.",
+            "choice_data_list": [
+                "Huh！？ Y-you're……！"
+            ]
+        },
+        {
+            "name": "Chief",
+            "text": "We meet again, Trainer-san. \nWell then――"
+        },
+        {
+            "name": "Chief",
+            "text": "I'd like to ask you for a favor. \n……Next time, there's a race I would like you to come and see, how about it？"
+        }
+    ]
 }

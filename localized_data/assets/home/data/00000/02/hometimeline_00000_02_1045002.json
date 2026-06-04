@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Super Creek",
@@ -41,5 +40,6 @@
       "name": "Tamamo Cross",
       "text": "…So that's your real aim here."
     }
-  ]
+  ],
+  "no_wrap": true
 }

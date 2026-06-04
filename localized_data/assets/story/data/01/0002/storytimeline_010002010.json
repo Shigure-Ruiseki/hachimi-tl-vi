@@ -1,16 +1,16 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Let's choose a second Legac\nUmamusume!"
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "Until you're more familiar with the\nprocess, please try using the\nAuto-Select feature.",
-      "color_text_info_list": [
-        "Auto-Select"
-      ]
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Let's choose a second Legac\nUmamusume!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Until you're more familiar with the\nprocess, please try using the\nAuto-Select feature.",
+            "color_text_info_list": [
+                "Auto-Select"
+            ]
+        }
+    ]
 }

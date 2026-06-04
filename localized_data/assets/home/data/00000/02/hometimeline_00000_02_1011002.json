@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Grass Wonder",
@@ -37,5 +36,6 @@
       "name": "Taiki Shuttle",
       "text": "Y-Yes! I'd love to have ya!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

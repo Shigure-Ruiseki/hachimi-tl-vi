@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Admire Vega",
@@ -17,5 +16,6 @@
       "name": "Admire Vega",
       "text": "Anyway, don't worry about me. \nI know myself best, so…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,4 +1,5 @@
 {
+  "title": "Sleep Deprived",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -24,6 +25,5 @@
     {
       "text": "Stay Gold stayed out late and did not \nseem to get much sleep that night."
     }
-  ],
-  "title": "Sleep Deprived"
+  ]
 }

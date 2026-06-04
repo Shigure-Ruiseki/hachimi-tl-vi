@@ -1,4 +1,5 @@
 {
+  "title": "Scouting for Monsters",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -201,6 +202,5 @@
       "name": "Trainee's Journal",
       "text": "\"Tomorrow's the big day. I'm feeling pretty nervous… But it's \nokay — I've done all I can to prepare. I hope I don't let down \nthe people supporting me!\""
     }
-  ],
-  "title": "Scouting for Monsters"
+  ]
 }

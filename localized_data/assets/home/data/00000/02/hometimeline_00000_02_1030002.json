@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Rice Shower",
@@ -41,5 +40,6 @@
       "name": "Rice Shower",
       "text": "Really… Thank you so, so much…"
     }
-  ]
+  ],
+  "no_wrap": true
 }

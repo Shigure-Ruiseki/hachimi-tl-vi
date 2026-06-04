@@ -1,4 +1,5 @@
 {
+  "title": "Race Fatigue",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -22,6 +23,5 @@
     {
       "text": "She seemed quite sleepy and was most \nlikely tired. I should reassess her race \nschedule."
     }
-  ],
-  "title": "Race Fatigue"
+  ]
 }

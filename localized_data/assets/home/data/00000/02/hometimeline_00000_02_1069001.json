@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Chiyono O",
@@ -41,5 +40,6 @@
       "name": "Maruzensky",
       "text": "Hehe, even that was cute!\nAnd don't you forget… I believe in you."
     }
-  ]
+  ],
+  "no_wrap": true
 }

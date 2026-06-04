@@ -1,4 +1,5 @@
 {
+  "title": "Extra Training",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -69,6 +70,5 @@
       "name": "Stay Gold",
       "text": "I can't say no to that, guess I'm looking \nout for myself today. Be my guide next \ntime will you."
     }
-  ],
-  "title": "Extra Training"
+  ]
 }

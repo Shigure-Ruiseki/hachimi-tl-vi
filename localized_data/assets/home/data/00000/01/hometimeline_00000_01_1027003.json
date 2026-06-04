@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Mejiro Ryan",
@@ -17,5 +16,6 @@
       "name": "Mejiro Ryan",
       "text": "The harder to open, the better! \nMy muscles are screaming for a challenge!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

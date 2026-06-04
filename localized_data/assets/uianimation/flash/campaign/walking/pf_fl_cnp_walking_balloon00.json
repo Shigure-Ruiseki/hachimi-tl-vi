@@ -1,4 +1,7 @@
 {
+  "windows": {
+    "bundle_name": "XXBIXHQUBBRZP4LN5FA6PWSBST5O3BLL"
+  },
   "data": {
     "motion_parameter_list": {
       "5": {
@@ -23,8 +26,5 @@
         }
       }
     }
-  },
-  "windows": {
-    "bundle_name": "XXBIXHQUBBRZP4LN5FA6PWSBST5O3BLL"
   }
 }

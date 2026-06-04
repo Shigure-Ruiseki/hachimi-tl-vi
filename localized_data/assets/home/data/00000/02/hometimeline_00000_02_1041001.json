@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Sakura Bakushin O",
@@ -37,5 +36,6 @@
       "name": "Sakura Bakushin O",
       "text": "Yes, by these hands, we will guide this\ndelinquent down the path to redemption\nand righteousness! Charge! Bakushiiin!!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

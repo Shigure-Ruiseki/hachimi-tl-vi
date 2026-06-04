@@ -1,24 +1,24 @@
 {
-  "no_wrap": true,
-  "text_block_list": [
-    {
-      "text": "October, France――"
-    },
-    {
-      "name": "Caster",
-      "text": "In the race called the greatest turf race in the world, \nthe world's most preeminent Uma Musume have gathered."
-    },
-    {
-      "name": "Caster",
-      "text": "Will the one to stand at the top be \nJapan's hero, El Condor Pasa or――"
-    },
-    {
-      "name": "Caster",
-      "text": "Will it be France's strongest Uma Musume, Montjeu！？"
-    },
-    {
-      "name": "Caster",
-      "text": "The [Prix de l'Arc de Triomphe], starts―― Now!!"
-    }
-  ]
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "October, France――"
+        },
+        {
+            "name": "Caster",
+            "text": "In the race called the greatest turf race in the world, \nthe world's most preeminent Uma Musume have gathered."
+        },
+        {
+            "name": "Caster",
+            "text": "Will the one to stand at the top be \nJapan's hero, El Condor Pasa or――"
+        },
+        {
+            "name": "Caster",
+            "text": "Will it be France's strongest Uma Musume, Montjeu！？"
+        },
+        {
+            "name": "Caster",
+            "text": "The [Prix de l'Arc de Triomphe], starts―― Now!!"
+        }
+    ]
 }

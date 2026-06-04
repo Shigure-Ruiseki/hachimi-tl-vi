@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Admire Vega",
@@ -41,5 +40,6 @@
       "name": "Admire Vega",
       "text": "Stargazing… goals? …No, you know what,\nI'm really okay with just looking."
     }
-  ]
+  ],
+  "no_wrap": true
 }

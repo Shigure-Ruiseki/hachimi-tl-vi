@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tokai Teio",
@@ -41,5 +40,6 @@
       "name": "Symboli Rudolf",
       "text": "Whatever you please. I simply wish to hear \nyou speak with joy in your voice."
     }
-  ]
+  ],
+  "no_wrap": true
 }

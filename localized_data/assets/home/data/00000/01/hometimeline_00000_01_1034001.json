@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Inari One",
@@ -17,5 +16,6 @@
       "name": "Inari One",
       "text": "We're trainees. A good ol' fashioned \nrace is how we settle things!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

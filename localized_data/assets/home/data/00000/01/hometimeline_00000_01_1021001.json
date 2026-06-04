@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Tamamo Cross",
@@ -17,5 +16,6 @@
       "name": "Tamamo Cross",
       "text": "<i>Pant, pant…</i> But no one else is makin' \nwisecracks… Am <i>I</i> the weird one?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

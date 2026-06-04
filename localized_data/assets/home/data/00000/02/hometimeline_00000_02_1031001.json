@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Ines Fujin",
@@ -45,5 +44,6 @@
       "name": "Mejiro Ryan",
       "text": "Just try to outrun me, Ines!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

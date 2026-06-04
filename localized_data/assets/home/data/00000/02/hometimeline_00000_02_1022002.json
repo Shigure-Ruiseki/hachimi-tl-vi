@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Fine Motion",
@@ -45,5 +44,6 @@
       "name": "Air Groove",
       "text": "…Wait, when did you take that last one?!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

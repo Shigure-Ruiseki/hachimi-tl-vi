@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Satono Diamond",
@@ -45,5 +44,6 @@
       "name": "Satono Diamond",
       "text": "Because, Kita, even if we do get split up,\nyou <i>always</i> manage to find me♪"
     }
-  ]
+  ],
+  "no_wrap": true
 }

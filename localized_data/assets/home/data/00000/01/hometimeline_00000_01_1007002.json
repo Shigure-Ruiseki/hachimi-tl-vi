@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Gold Ship",
@@ -21,5 +20,6 @@
       "name": "Gold Ship",
       "text": "Then let's forge them together…… \nA pair of jaws as strong as the Giant Squid's!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

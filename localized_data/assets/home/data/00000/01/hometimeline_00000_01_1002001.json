@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Silence Suzuka",
@@ -17,5 +16,6 @@
       "name": "Silence Suzuka",
       "text": "…Okay, a short break, and then one \nmore lap. That shouldn't count as \noverworking myself… right?"
     }
-  ]
+  ],
+  "no_wrap": true
 }

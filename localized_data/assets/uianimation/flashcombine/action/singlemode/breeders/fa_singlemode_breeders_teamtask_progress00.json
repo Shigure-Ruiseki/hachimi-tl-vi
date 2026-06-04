@@ -1,4 +1,7 @@
 {
+  "windows": {
+    "bundle_name": "HAHYCESCSDVWYIDINUOGMFZXMT6C6VEL"
+  },
   "data": {
     "an_root": {
       "motion_parameter_list": {
@@ -15,8 +18,5 @@
         }
       }
     }
-  },
-  "windows": {
-    "bundle_name": "HAHYCESCSDVWYIDINUOGMFZXMT6C6VEL"
   }
 }

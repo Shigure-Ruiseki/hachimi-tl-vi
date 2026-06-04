@@ -1,5 +1,4 @@
 {
-  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Satono Diamond",
@@ -17,5 +16,6 @@
       "name": "Satono Diamond",
       "text": "So we must go and get into a quarrel! \nNo jinx can stop us. We'll prove that we \ncan still be just as close afterwards!"
     }
-  ]
+  ],
+  "no_wrap": true
 }

@@ -1,4 +1,5 @@
 {
+  "title": "Debut Battle",
   "no_wrap": true,
   "text_block_list": [
     {
@@ -189,6 +190,5 @@
       "name": "Director Akikawa",
       "text": "Onwards! We must commit firmly to the course we've set!"
     }
-  ],
-  "title": "Debut Battle"
+  ]
 }
