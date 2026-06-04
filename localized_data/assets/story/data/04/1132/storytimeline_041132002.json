@@ -1,5 +1,4 @@
 {
-    "title": "\"Tình yêu\" của mỗi người",
     "text_block_list": [
         {
             "name": "Trainer trung cấp",
@@ -14,11 +13,11 @@
             "text": "<i>Hà... phù...!</i>"
         },
         {
-            "name": "Loves Only You",
-            "text": "Phù...! Ưm, hôm nay có vẻ khá ổn nhỉ?\"",
             "choice_data_list": [
-                "<size=40>(Quả nhiên, thực lực của cô ấy vượt xa mọi người...)</size>"
-            ]
+                "<size=38>(Quả nhiên, thực lực của cô ấy vượt xa mọi người...)</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Phù...! Ưm, hôm nay có vẻ khá ổn nhỉ?"
         },
         {
             "name": "Trainer trung cấp",
@@ -41,18 +40,18 @@
             "text": "Vì đó là đặt cược cả sự nghiệp của mình vào người ta mà, đúng không? Đây là chuyện hệ trọng, nên em không muốn quyết định một cách qua loa đâu."
         },
         {
-            "name": "Hard Worker@Overseas Posting",
-            "text": "『Ở Học viện Tracen, không có trainer thì không được debut đúng không nhỉ? Loves-chan ổn chứ? Ý tớ là về thời điểm debut ấy...』",
             "choice_data_list": [
-                "<size=30>Nếu muốn kịp debut trong năm nay thì cô ấy nên sớm quyết định thôi.</size>"
-            ]
+                "<size=28>Nếu muốn kịp debut trong năm nay thì cô ấy nên sớm quyết định thôi.</size>"
+            ],
+            "name": "Hard Worker@Overseas Posting",
+            "text": "『Ở Học viện Tracen, không có trainer thì không được debut đúng không nhỉ? Loves-chan ổn chứ? Ý tớ là về thời điểm debut ấy...』"
         },
         {
-            "name": "Hard Worker@Overseas Posting",
-            "text": "『Thật sao! Mà khoan đã, “Bridge-san”, cậu rành chuyện này ghê nhỉ?』",
             "choice_data_list": [
-                "L-làm gì có, tớ chỉ tình cờ nghe được thôi mà...!"
-            ]
+                "<size=40>L-làm gì có, tớ chỉ tình cờ nghe được thôi mà...!</size>"
+            ],
+            "name": "Hard Worker@Overseas Posting",
+            "text": "『Thật sao! Mà khoan đã,\"Bridge-san\", cậu rành chuyện này ghê nhỉ?』"
         },
         {
             "name": "Độc thoại",
@@ -63,18 +62,18 @@
             "text": "Ngày hôm sau. Lúc tình cờ đi ngang qua khu vực căn tin, tôi lại thấy bóng hình quen thuộc đó một lần nữa."
         },
         {
-            "name": "Loves Only You",
-            "text": "Hehe, được một tiền bối giàu kinh nghiệm như người ngỏ lời, quả thực là vinh hạnh của em.",
             "choice_data_list": [
-                "<size=34>(Người đó... từng dẫn dắt cả những Umamusume vô địch G1...)</size>"
-            ]
+                "<size=30>(Người đó... từng dẫn dắt cả những Umamusume vô địch G1...)</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Hehe, được một tiền bối giàu kinh nghiệm như người ngỏ lời, quả thực là vinh hạnh của em."
         },
         {
-            "name": "Trainer kỳ cựu",
-            "text": "Tôi sẽ đưa em tới đỉnh vinh quang. Hãy để tài năng đó được chứng minh tại các giải lớn... không, là tại chính giải G1!",
             "choice_data_list": [
-                "(Thế là rõ rồi. Chẳng có cớ gì để từ chối cả.)"
-            ]
+                "<size=40>(Thế là rõ rồi. Chẳng có cớ gì để từ chối cả.)</size>"
+            ],
+            "name": "Trainer kỳ cựu",
+            "text": "Tôi sẽ đưa em tới đỉnh vinh quang. Hãy để tài năng đó được chứng minh tại các giải lớn... không, là tại chính giải G1!"
         },
         {
             "name": "Loves Only You",
@@ -90,7 +89,7 @@
         },
         {
             "name": "Trainer kỳ cựu",
-            "text": "Xin lỗi, nhưng tôi muốn em đóng cái gọi là 'cộng đồng fan' đó đi. —Đó là điều kiện ký hợp đồng của tôi."
+            "text": "Xin lỗi, nhưng tôi muốn em đóng cái gọi là 'cộng đồng commumem' gì đó đi. —Đó là điều kiện ký hợp đồng của tôi."
         },
         {
             "name": "Trainer kỳ cựu",
@@ -101,22 +100,22 @@
             "text": "...Em hiểu. Nhưng mà... đối với em, nó lại là chuyện khác. Có lẽ trainer sẽ không hiểu được đâu."
         },
         {
-            "name": "Loves Only You",
-            "text": "—'Chẳng cần phải tương tác quá mức với fan để mạnh lên làm gì'. Những người em đã từ chối cũng đều có quan điểm tương tự như vậy đấy.",
             "choice_data_list": [
                 "…Em không thấy sợ à?"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "—'Chẳng cần phải tương tác quá mức với người hâm mộ để mạnh lên làm gì'. Những người em đã từ chối cũng đều có quan điểm tương tự như vậy đấy."
         },
         {
             "name": "Loves Only You",
             "text": "... [ …Em không thấy sợ à? ] ..."
         },
         {
-            "name": "Độc thoại",
-            "text": "Trước khi kịp nhận ra, tôi đã gửi đi câu hỏi mà bản thân không sao kìm lòng được.",
             "choice_data_list": [
-                "<size=30>Nếu em không được tìm thấy bởi một người thực sự hiểu em thì sao?</size>"
-            ]
+                "<size=28>Nếu em không được tìm thấy bởi một người thực sự hiểu em thì sao?</size>"
+            ],
+            "name": "Độc thoại",
+            "text": "Trước khi kịp nhận ra, tôi đã gửi đi câu hỏi mà bản thân không sao kìm lòng được."
         },
         {
             "name": "Loves Only You",
@@ -147,11 +146,11 @@
             "text": "—『Nhưng nếu việc livestream lại trở thành rào cản cho hợp đồng của cậu thì sao』……?"
         },
         {
-            "name": "Middle-aged Lifter",
-            "text": "『Tôi không bận tâm nếu chỉ có thể dõi theo cậu từ xa đâu.』",
             "choice_data_list": [
                 "…Hả!?"
-            ]
+            ],
+            "name": "Middle-aged Lifter",
+            "text": "『Tôi không bận tâm nếu chỉ có thể dõi theo cậu từ xa đâu.』"
         },
         {
             "name": "Loves Only You",
@@ -198,12 +197,12 @@
             "text": "X… xin… chào… ạ?"
         },
         {
-            "name": "Giáo viên nhiệt tình",
+            "name": "Nekketsu-sensei",
             "text": "[ Xin chào! ]"
         },
         {
             "name": "Loves thuở nhỏ",
-            "text": "Hwah!? Papa! Có chữ 『Xin chào!』 hiện lên ở đây này!\""
+            "text": "Hwah!? Papa! Có chữ 『Xin chào!』 hiện lên ở đây này!"
         },
         {
             "name": "3-Day Type Girl",
@@ -237,5 +236,6 @@
             "name": "Loves Only You",
             "text": "Đây là nơi mà em đã tìm thấy \"tình yêu\" của riêng mình."
         }
-    ]
+    ],
+    "title": "\"Tình yêu\" của mỗi người"
 }
