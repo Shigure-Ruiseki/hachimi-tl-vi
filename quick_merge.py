@@ -2,91 +2,81 @@ import json
 import os
 import shutil
 import sys
+import datetime
 
-
-def merge_json(old_data, new_data):
-    """
-    Hòa trộn dữ liệu JSON: Nếu trùng key, ưu tiên giữ nguyên giá trị cũ (old_data).
-    Chỉ thêm vào những key mới xuất hiện từ bản update (new_data).
-    """
+def merge_json(old_data, new_data, path="root"):
     if isinstance(old_data, dict) and isinstance(new_data, dict):
-        # Khởi tạo kết quả bằng bản dịch cũ của local
         result = dict(old_data)
-
+        
         for key, value in new_data.items():
-            # CHÌA KHÓA: Chỉ thêm key mới nếu nó CHƯA TỒN TẠI trong bản cũ của local
-            if key not in result:
+            if key in result and isinstance(result[key], dict) and isinstance(value, dict):
+                print(f"[DEBUG] Đệ quy vào key: {path} -> {key}")
+                result[key] = merge_json(result[key], value, path=f"{path}.{key}")
+            
+            elif key not in result:
+                print(f"[DEBUG] Thêm mới key: {path} -> {key}")
                 result[key] = value
-
+            
+            else:
+                print(f"[DEBUG] Key đã tồn tại, giữ giá trị cũ: {path} -> {key}")
+                
         return dict(sorted(result.items()))
-
-    # Nếu không phải dict, ưu tiên giữ lại dữ liệu cũ của local
-    return old_data if old_data else new_data
+    
+    return old_data if old_data is not None else new_data
 
 
 def merge_folders(old_dir, new_dir):
-    """
-    Duyệt thư mục update trên máy (new_dir) để bổ sung vào thư mục local (old_dir).
-    """
-    # Kiểm tra xem các thư mục nhập vào có tồn tại không
-    if not os.path.exists(old_dir):
-        print(f"[-] Thư mục Local không tồn tại: {old_dir}")
-        return
-    if not os.path.exists(new_dir):
-        print(f"[-] Thư mục Update không tồn tại: {new_dir}")
+    if not os.path.exists(old_dir) or not os.path.exists(new_dir):
+        print("[-] Đường dẫn không tồn tại.")
         return
 
     print(f"[+] Đang tiến hành quét và gộp từ '{new_dir}' vào '{old_dir}'...")
 
-    for root, _, files in os.walk(new_dir):
-        for file in files:
-            new_path = os.path.join(root, file)
+    with open("merge_log.txt", "w", encoding="utf-8") as log_file:
+        log_file.write(f"Log merge: {new_dir} -> {old_dir}\n")
+        log_file.write(f"Thời gian: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        log_file.write("-" * 50 + "\n")
 
-            # Tính toán đường dẫn tương đối để đối chiếu sang thư mục local
-            rel_path = os.path.relpath(new_path, new_dir)
-            old_path = os.path.join(old_dir, rel_path)
+        for root, _, files in os.walk(new_dir):
+            for file in files:
+                new_path = os.path.join(root, file)
+                rel_path = os.path.relpath(new_path, new_dir)
+                old_path = os.path.join(old_dir, rel_path)
 
-            # Tự động tạo thư mục con ở local nếu bên update có thư mục mới
-            os.makedirs(os.path.dirname(old_path), exist_ok=True)
+                os.makedirs(os.path.dirname(old_path), exist_ok=True)
 
-            if file.endswith(".json"):
-                try:
-                    # Đọc file update mới trên máy
-                    with open(new_path, "r", encoding="utf-8") as f:
-                        new_json = json.load(f)
-
-                    # Đọc file local cũ nếu đã có sẵn
-                    if os.path.exists(old_path):
-                        with open(old_path, "r", encoding="utf-8") as f:
-                            old_json = json.load(f)
-                    else:
+                if file.endswith(".json"):
+                    try:
+                        with open(new_path, "r", encoding="utf-8") as f:
+                            new_json = json.load(f)
+                        
                         old_json = {}
+                        if os.path.exists(old_path):
+                            with open(old_path, "r", encoding="utf-8") as f:
+                                old_json = json.load(f)
 
-                    # Thực hiện merge bảo vệ bản dịch tiếng Việt
-                    merged = merge_json(old_json, new_json)
+                        def log_new_keys(old, new, path):
+                            for k, v in new.items():
+                                if k not in old:
+                                    log_file.write(f"[NEW KEY] {rel_path} -> {path}.{k}\n")
+                                elif isinstance(old.get(k), dict) and isinstance(v, dict):
+                                    log_new_keys(old[k], v, f"{path}.{k}")
 
-                    with open(old_path, "w", encoding="utf-8") as f:
-                        json.dump(
-                            merged,
-                            f,
-                            ensure_ascii=False,
-                            indent=2,
-                            sort_keys=True
-                        )
-
-                    print(f"[MERGE JSON - TRÙNG KEY GIỮ VI] {rel_path}")
-
-                except Exception as e:
-                    print(f"[ERROR JSON] {rel_path}: {e}")
-
-            else:
-                # Đối với file asset, font... CHỈ copy nếu local CHƯA CÓ
-                if not os.path.exists(old_path):
-                    shutil.copy2(new_path, old_path)
-                    print(f"[ADD NEW FILE] {rel_path}")
+                        log_new_keys(old_json, new_json, "root")
+                        
+                        # Thực hiện merge
+                        merged = merge_json(old_json, new_json)
+                        with open(old_path, "w", encoding="utf-8") as f:
+                            json.dump(merged, f, ensure_ascii=False, indent=2, sort_keys=True)
+                        
+                        print(f"[MERGE JSON] {rel_path}")
+                    except Exception as e:
+                        print(f"[ERROR JSON] {rel_path}: {e}")
                 else:
-                    print(f"[SKIP] {rel_path} (File đã có ở local, không ghi đè)")
-
+                    if not os.path.exists(old_path):
+                        shutil.copy2(new_path, old_path)
+                        log_file.write(f"[NEW FILE] {rel_path}\n")
+                        print(f"[ADD NEW FILE] {rel_path}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
