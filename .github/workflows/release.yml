@@ -13,35 +13,47 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout release
+        uses: actions/checkout@v4
         with:
           ref: release
           fetch-depth: 0
 
-      - name: Merge changes
+      - name: Merge Main into Release
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin main
-          git merge -X theirs origin/main
+          git merge -X theirs origin/main --no-edit
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-            python-version: "3.12"
+          python-version: "3.12"
 
       - name: Install dependencies
         run: |
-            python -m pip install --upgrade pip
-            pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Checkout hachimi-tl-en
+        uses: actions/checkout@v4
+        with:
+          repository: Shigure-Ruiseki/hachimi-tl-en
+          path: hachimi-tl-en
+
+      - name: Merge missing keys from EN
+        run: |
+          python quick_merge.py localized_data hachimi-tl-en/localized_data
+          rm -rf hachimi-tl-en
 
       - name: Create index
         run: python gen_index.py
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update index
+          commit_message: "Sync release: Merge main and update index"
           branch: release
-          file_pattern: 'index.json'
 
       - name: Send update
         if: ${{ vars.NOTIFY_REPO }}
