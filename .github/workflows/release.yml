@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Checkout nhánh main để lấy dữ liệu VN mới nhất và các script
+      # 1. Checkout nhánh main để lấy dữ liệu VN mới nhất và các script, requirements
       - name: Checkout main
         uses: actions/checkout@v4
         with:
@@ -39,6 +39,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      # BƯỚC BỔ SUNG: Cài đặt dependencies (pygit2, cffi, blake3...) từ main_repo
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f main_repo/requirements.txt ]; then
+            pip install -r main_repo/requirements.txt
+          else
+            pip install pygit2 blake3 cffi
+          fi
 
       # 5. TIẾN HÀNH MERGE: Gộp dữ liệu từ main (VN) vào hachimi-tl-en (EN)
       - name: Execute Smart Merge Data
