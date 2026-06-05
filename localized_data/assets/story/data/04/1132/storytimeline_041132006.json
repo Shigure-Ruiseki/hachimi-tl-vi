@@ -9,7 +9,7 @@
     },
     {
       "name": "Quản lý của hàng",
-      "text": "Nhất định phải làm nhé! Anh có thể tạo một video đánh giá về các sản phẩm này được không? Đánh giá của anh rất đáng tin cậy, và tôi nghĩ nó sẽ thực sự giúp ích cho mọi người đấy!"
+      "text": "Nhất định phải làm nhé! Bạn có thể làm một video đánh giá về các sản phẩm này được không? Đánh giá của bạn rất đáng tin cậy, và tôi nghĩ nó sẽ thực sự giúp ích cho mọi người đó!"
     },
     {
       "name": "Loves Only You",
@@ -34,12 +34,12 @@
       "text": "Cô ấy không hề tỏ ra chút khó chịu nào, mà nhận lời tất cả các yêu cầu một cách vô cùng nhanh chóng."
     },
     {
+      "name": "Loves Only You",
+      "text": "Hehe! Được nhiều người ngỏ ý nhờ cậy thế này... đúng là một ngày thật tuyệt vời, anh nhỉ.",
       "choice_data_list": [
         "<size=24>Chừng đó cũng đủ thấy mọi người tin tưởng em đến mức nào rồi.</size>",
         "<size=24>Chừng đó cũng đủ thấy mọi người tin tưởng em đến mức nào rồi.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Hehe! Được nhiều người ngỏ ý nhờ cậy thế này... đúng là một ngày thật tuyệt vời, anh nhỉ."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -58,10 +58,10 @@
       "text": "Em phải đáp lại sự kỳ vọng của mọi người thôi. Khi hàng được giao đến, em  sẽ dùng thử thật kỹ, rồi tìm đọc những cuốn sách hữu ích nữa..."
     },
     {
+      "text": "Dù thời hạn đã được nới lỏng khá nhiều, nhưng quả thực để Loves Only You tự mình xoay sở hết đống việc đó thì vẫn quá sức. Vì vậy—",
       "choice_data_list": [
         "<size=30>Em bận như vậy, anh có thể giúp gì cho em không?</size>"
-      ],
-      "text": "Dù thời hạn đã được nới lỏng khá nhiều, nhưng quả thực để Loves Only You tự mình xoay sở hết đống việc đó thì vẫn quá sức. Vì vậy—"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -73,25 +73,25 @@
     },
     {
       "name": "Loves Only You",
-      "text": "Vậy thì, mình hãy cùng nhau thử mọi thứ nhé! Làm cùng nhau chắc chắn sẽ tốt hơn nhiều so với việc mình phải tự làm một mình rồi."
+      "text": "Vậy thì, mình hãy cùng nhau thử mọi thứ nhé! Chắc chắn sẽ tốt hơn nhiều so với việc mình phải tự làm một mình."
     },
     {
+      "name": "Loves Only You",
+      "text": "Ừm. Ngay cả khi đeo trực tiếp lên cổ chân thì nó cũng không gây cọ xát vào da, nên cũng không tệ đâu. Chỉ là nó hơi dày, nên có lẽ sẽ dễ làm mình đổ mồ hôi một chút.",
       "choice_data_list": [
         "<size=30>Em nghĩ nó có phù hợp để sử dụng hàng ngày không?</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Ừm. Ngay cả khi đeo trực tiếp lên cổ chân thì nó cũng không gây cọ xát vào da, nên cũng không tệ đâu. Chỉ là nó hơi dày, nên có lẽ sẽ dễ làm mình đổ mồ hôi một chút."
+      ]
     },
     {
       "name": "Loves Only You",
       "text": "Về độ nặng thì cũng không tệ... nhưng thiết kế có vẻ đơn giản quá nhỉ? Dù chỉ là đồ tập luyện, nhưng nếu có người nhìn thấy thì em vẫn muốn nó phải thật chỉn chu."
     },
     {
+      "name": "Loves Only You",
+      "text": "Anh nghĩ sao về cuốn sách đó? Em nghĩ phần giải thích trong đó khá là dễ hiểu.",
       "choice_data_list": [
         "<size=26>Đúng vậy, nhưng mà... cái này không dành cho người mới đâu.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Anh nghĩ sao về cuốn sách đó? Em nghĩ phần giải thích trong đó khá là dễ hiểu."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -118,28 +118,28 @@
       "text": "Nhờ có anh mà mọi việc tiến triển vô cùng suôn sẻ. Vì em cứ mãi nhìn mọi thứ dưới góc độ của một UmaMusume nên—"
     },
     {
+      "name": "Loves Only You",
+      "text": "Khi Trainer-kun nhìn ra được những phần mà em không thấy, nó giúp em có thêm những khám phá mới đấy. Cảm ơn anh nhé!",
       "choice_data_list": [
         "<size=30>...Anh tự hỏi liệu mình có giúp ích được gì không?</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Khi Trainer-kun nhìn ra được những phần mà em không thấy, nó giúp em có thêm những khám phá mới đấy. Cảm ơn anh nhé!"
+      ]
     },
     {
+      "name": "Loves Only You",
+      "text": "Khi Trainer-kun nhìn ra được những phần mà em không thấy, nó giúp em có thêm những khám phá mới đấy. Cảm ơn anh nhé!",
       "choice_data_list": [
         "<size=30>...Anh tự hỏi liệu mình có giúp ích được gì không?</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Khi Trainer-kun nhìn ra được những phần mà em không thấy, nó giúp em có thêm những khám phá mới đấy. Cảm ơn anh nhé!"
+      ]
     },
     {
       "name": "Loves Only You",
       "text": "......Giúp ích......?"
     },
     {
+      "text": "Có lẽ cảm thấy chút lấn cấn trong những lời vừa rồi, Loves Only You khẽ nghiêng đầu.",
       "choice_data_list": [
         "Anh nói gì kỳ lắm hả?"
-      ],
-      "text": "Có lẽ cảm thấy chút lấn cấn trong những lời vừa rồi, Loves Only You khẽ nghiêng đầu."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -154,11 +154,11 @@
       "text": "Chúng ta dành rất nhiều thời gian bên nhau đúng không anh? Vì thế nên mỗi khi có chuyện gì khó khăn, hai đứa lại cùng tâm sự rồi cùng nhau tìm cách giải quyết."
     },
     {
+      "name": "Loves Only You",
+      "text": "Vì thế nên lần này cũng vậy... chẳng biết từ bao giờ, em đã bắt đầu có cảm giác như thế rồi.",
       "choice_data_list": [
         "Hử...?"
-      ],
-      "name": "Loves Only You",
-      "text": "Vì thế nên lần này cũng vậy... chẳng biết từ bao giờ, em đã bắt đầu có cảm giác như thế rồi."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -169,11 +169,11 @@
       "text": "Có lẽ nên nói cảm giác đó cũng giống y như lúc chúng ta cùng tập luyện hướng về một cuộc đua vậy nhỉ."
     },
     {
+      "name": "Loves Only You",
+      "text": "Chẳng phải là cảm giác được nâng đỡ từ phía sau, mà như thể chúng ta đang sánh bước ngay bên cạnh, tay trong tay cùng nhau vậy...",
       "choice_data_list": [
         "――――"
-      ],
-      "name": "Loves Only You",
-      "text": "Chẳng phải là cảm giác được nâng đỡ từ phía sau, mà như thể chúng ta đang sánh bước ngay bên cạnh, tay trong tay cùng nhau vậy..."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -188,11 +188,11 @@
       "text": "……Thế còn anh thì sao?"
     },
     {
+      "name": "Loves Only You",
+      "text": "Em muốn mỗi khi chúng mình lạc lối, hay lúc vấp phải bức tường thử thách... hai đứa sẽ là những người cộng sự có thể không chút do dự mà nắm lấy tay nhau, cùng kéo nhau vượt qua!",
       "choice_data_list": [
         "D-dĩ nhiên rồi...!"
-      ],
-      "name": "Loves Only You",
-      "text": "Em muốn mỗi khi chúng mình lạc lối, hay lúc vấp phải bức tường thử thách... hai đứa sẽ là những người cộng sự có thể không chút do dự mà nắm lấy tay nhau, cùng kéo nhau vượt qua!"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -226,11 +226,11 @@
       "text": "『Lúc tôi đi mua cuốn sách được đề xuất thì chỉ còn đúng một quyển thôi! Suýt soát mới mua kịp, nhưng không biết đợt hàng tiếp theo bao giờ mới về nhỉ～』"
     },
     {
+      "text": "Mọi người đang bàn tán rôm rả về những sản phẩm mà mình đã mua được. Loves Only You quả thực đã đáp lại một cách hoàn hảo niềm tin tưởng từ phía cửa hàng.",
       "choice_data_list": [
         "<size=32>(Ít nhất thì mình cũng giúp ích được phần nào—)</size>",
         "<size=32>(Ít nhất thì mình cũng giúp ích được phần nào—)</size>"
-      ],
-      "text": "Mọi người đang bàn tán rôm rả về những sản phẩm mà mình đã mua được. Loves Only You quả thực đã đáp lại một cách hoàn hảo niềm tin tưởng từ phía cửa hàng."
+      ]
     },
     {
       "name": "Loves Only You",
@@ -244,18 +244,18 @@
       "text": "Hehe. Được cả các bạn ở cửa hàng quý mến, rồi những người mua được sản phẩm ai nấy cũng đều mỉm cười rạng rỡ nữa chứ……"
     },
     {
+      "name": "Loves Only You",
+      "text": "Thành công rực rỡ luôn đó, Trainer-kun ♡",
       "choice_data_list": [
         "Các fan ai nấy cũng đều vui lắm đó."
-      ],
-      "name": "Loves Only You",
-      "text": "Thành công rực rỡ luôn đó, Trainer-kun ♡"
+      ]
     },
     {
+      "name": "Loves Only You",
+      "text": "Thành công rực rỡ luôn đó, Trainer-kun ♡",
       "choice_data_list": [
         "Các fan ai nấy cũng đều vui lắm đó."
-      ],
-      "name": "Loves Only You",
-      "text": "Thành công rực rỡ luôn đó, Trainer-kun ♡"
+      ]
     },
     {
       "name": "Loves Only You",
@@ -266,10 +266,10 @@
       "text": "Thật không anh? Em cũng nhận được vài lời bình luận rồi…… nhưng nghe Trainer-kun nói, em cảm thấy lời nói của mọi người càng gần gũi hơn."
     },
     {
+      "text": "Nhìn nụ cười rạng rỡ của cô ấy, tôi cũng mỉm cười đáp lại. ……Nhưng lòng tôi vẫn chưa thỏa mãn. Bởi vì với tư cách là một Trainer――",
       "choice_data_list": [
         "<size=32>(Tôi chỉ mới làm được những bình thường……)</size>"
-      ],
-      "text": "Nhìn nụ cười rạng rỡ của cô ấy, tôi cũng mỉm cười đáp lại. ……Nhưng lòng tôi vẫn chưa thỏa mãn. Bởi vì với tư cách là một Trainer――"
+      ]
     },
     {
       "text": "Chẳng hạn như một thứ xứng đáng với cô ấy và fan――như một 'Tình yêu đặc biệt' vậy. Có lẽ đó là điều cần thiết?"
