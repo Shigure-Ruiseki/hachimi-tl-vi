@@ -1,4 +1,5 @@
 {
-    "zokuzoku.enabled": true,
-    "files.autoSave": "off"
+  "zokuzoku.enabled": true,
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true
 }

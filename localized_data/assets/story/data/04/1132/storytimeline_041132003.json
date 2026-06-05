@@ -54,14 +54,14 @@
         },
         {
             "choice_data_list": [
-                "<size=32>Dù đáng lẽ nơi đây phải ngập tràn tình yêu thương đến thế...</size>"
+                "<size=30>Dù đáng lẽ nơi đây phải ngập tràn tình yêu thương đến thế...</size>"
             ],
             "name": "Middle-aged Lifter",
             "text": "『......Có phải mình đã dồn ép con bé vào bước đường cùng rồi không?』"
         },
         {
             "choice_data_list": [
-                "<size=28>Dù rõ ràng là chúng ta đều dành rất nhiều tình cảm cho nhau mà...</size>"
+                "<size=26>Dù rõ ràng là chúng ta đều dành rất nhiều tình cảm cho nhau mà...</size>"
             ],
             "name": "3-Day Type Girl",
             "text": "Đâu chỉ riêng gì \"Middle-aged Lifter\" đâu. Tất cả chúng ta, ít nhiều gì cũng đều đã không thấu hiểu được cảm xúc của con bé."
