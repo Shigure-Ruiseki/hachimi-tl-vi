@@ -7200,7 +7200,7 @@
   "Title0110": "Please do not force quit the application.",
   "Title0111": "<atlas=PreIn sprite=utx_ico_notice_00/><color=#ff4400>After completing the tutorial, it can be skipped in the future.</color>",
   "Title0112": "Download times may be affected by your network conditions.",
-  "Title0113": "$(nb)$(anchor 1)Trainer ID: Tap here to show\\nTranslations: Shiruge Ruiseki\n",
+  "Title0113": "$(nb)$(anchor 1)Trainer ID: Tap here to show\nTranslations: Shiruge Ruiseki",
   "Title0114": "<color=#794016>The tracking confirmation screen will display</color>",
   "Title0115": "<color=#794016>when you press </color><color=#FF911C>Next</color>",
   "Title0116": "<color=#794016>located toward the bottom of the screen.</color>",
