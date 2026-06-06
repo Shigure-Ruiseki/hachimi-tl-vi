@@ -90,7 +90,7 @@
     },
     {
       "choice_data_list": [
-        "<size=36>À không—chỉ là, tôi nghĩ đó là… một lần chạy tốt thôi.</size>"
+        "<size=32>À không—chỉ là, tôi nghĩ đó là… một lần chạy tốt thôi.</size>"
       ],
       "name": "Loves Only You",
       "text": "Hmm… có lẽ cú bứt tốc về đích vẫn chưa đạt lắm? …Ồ?\nỪm… anh có việc gì cần gặp em sao?"
@@ -126,8 +126,8 @@
     },
     {
       "choice_data_list": [
-        "<size=36>Livestream hả… chắc là vất vả lắm dù em đang bận rộn.</size>",
-        "<size=36>Livestream sao… chắc là vất vả lắm dù em đang bận rộn.</size>"
+        "<size=32>Livestream hả… chắc là vất vả lắm dù em đang bận rộn.</size>",
+        "<size=32>Livestream sao… chắc là vất vả lắm dù em đang bận rộn.</size>"
       ],
       "text": "Tôi biết chứ. Dĩ nhiên là tôi biết. Nhưng ở đây... tôi phải cư xử như một trainer. Tôi kìm nén sự phấn khích của một fan, tự nhủ rằng tốt nhất là cứ vờ như không biết."
     },
@@ -183,7 +183,7 @@
     },
     {
       "choice_data_list": [
-        " <size=38>…Cảm nhận được cảm xúc của họ thật gần gũi sao…</size>"
+        " <size=32>…Cảm nhận được cảm xúc của họ thật gần gũi sao…</size>"
       ],
       "name": "Loves Only You",
       "text": "Vậy thì, hẹn gặp lại mọi người lần sau nhé♪\nLove me～♡ Love you～♡ Loves Only You đây ạ～♡"
