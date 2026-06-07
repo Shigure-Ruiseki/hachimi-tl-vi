@@ -1,0 +1,158 @@
+{
+    "title": "A Roller Coaster of Feelings!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I'm at an amusement park on a day off,\n when..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Roll, roll, roller coaster! Amusement\n parks are the best!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wowie. You're really happy today, huh,\n El?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Spe! Are you ready?! We're about to\n have the time of our lives!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Haha! It just hit me! You're feeling pretty\n down, aren't ya?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wh-what?! Do you have psychic\n abilities?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "To tell you the truth... I can't sing or\n dance very well, so I don't feel very\n confident about winning concerts."
+        },
+        {
+            "name": "Special Week",
+            "text": "And the council president told me to\n think about why we have winning\n concerts in the first place."
+        },
+        {
+            "name": "Special Week",
+            "text": "Why... why... How am I supposed to\n know why?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "...Sounds like you're missing something\n important. Don't worry, I'll show you how\n to make a grand entrance!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "C'mon, let's go! To the scream machine!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? The s-scream machine?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A few minutes later, I hear Special\n Week's faint screams carried on the\n wind."
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Wheeze...</i> I think I saw the Three\n Goddesses back there..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Well, Spe?! Did you figure it out yet?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "That was amazing! Amusement parks are\n so cool! They're almost as great as a box\n full of potatoes!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Heheh. Then let's choose our last ride.\n There are two choices!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The longest, greatest, most\n screamworthy roller coaster in the world!\n Or... the teacups!"
+        },
+        {
+            "name": "Special Week",
+            "text": "A roller coaster or teacups? That's like\n choosing between super spicy and super\n sweet!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Oh, well put."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Well, then... You there! Our fates rest in\n your hands!",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "What should our last ride be? The\n world's longest roller coaster?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Or the teacups? The choice is yours!",
+            "choice_data_list": [
+                "The world's longest roller coaster!",
+                "The teacups!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Mom! I... I'm going to try my best!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah! Hah! AAAAAH!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week's screams last the entire\n length of the world's longest roller\n coaster!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh my gosh! They're so cute! There's no\n way I can't handle this!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hehehe, you're sweet as sugar and just\n as innocent. But life is like a box of\n jalapenos!"
+        },
+        {
+            "name": "Monologue",
+            "text": "El Condor Pasa spins the cup with all her\n might, leaving Special Week completely\n dizzy."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ngh... My head keeps spinning... But\n that was... so... fun!"
+        },
+        {
+            "name": "Special Week",
+            "text": "There are so many fun rides here, it's\n like the park itself <i>wants</i> us to have fun!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "You get it now."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "My papi's a pro wrestler. He always told\n me to be like an amusement park!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "We may be athletes, but we must never\n forget our guests!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Same thing goes for winning concerts.\n Can you be like an amusement park?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you! I'm going to be a roller\n coaster!"
+        }
+    ]
+}
