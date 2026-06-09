@@ -1,0 +1,352 @@
+{
+    "text_block_list": [
+        {
+            "name": "Loves Only You",
+            "text": "Mọi người, đã chuẩn bị xong đồ ngọt chưa nào～?\nThế thì～――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Happy～ Valentine～ ♪"
+        },
+        {
+            "name": "Bình luận",
+            "text": "『Happy Valentine～!』『 Húuuuuuu ↑ ↑』\n『Happy Valentine～!』\n『★☆Cạn ly☆★』『Happy Valentine!!』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hôm nay mọi người đã chuẩn bị món gì vậy?\n......『Mua bánh ngọt ở tầng hầm trung tâm thương mại』á!?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thật á～! Thích thế～! Của tiệm nào tiệm nào vậy? \n.....Eh, nhìn ngon quá～! Em cũng thích bánh Gateau Chocolate của tiệm đó lắm～♪"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "......Hôm nay là Valentine.\nLoves Only You đang livestream chúc mừng Valentine thường niên cùng với các fan trong cộng đồng của mình."
+        },
+        {
+            "choice_data_list": [
+                "(……B-Bắt đầu thấy căng thẳng rồi đây)"
+            ],
+            "name": "Độc thoại",
+            "text": "Trong buổi stream hằng năm này, cả Loves Only You và các fan đều chuẩn bị sẵn đồ ngọt yêu thích để vừa ăn vừa tán gẫu, thế nhưng——"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Vì một lý do nào đó, mà tôi tôi cứ thấp thỏm hồi hộp dõi theo buổi stream hôm nay……"
+        },
+        {
+            "choice_data_list": [
+                "『Hả!? Tôi tặng chocolate cho Loves á!?』",
+                "『Hả!? Tôi tặng chocolate cho Loves á!?』"
+            ],
+            "name": "Độc thoại",
+            "text": "——Để nói về lý do đó, phải quay ngược thời gian lại một chút."
+        },
+        {
+            "name": "3-Day Type Girl",
+            "text": "『Đúng vậy! Tôi muốn ông đại diện cho các fan trong cộng đồng, tặng cho Loves-chan thanh chocolate tuyệt vời nhất!!』"
+        },
+        {
+            "choice_data_list": [
+                "<size=40>Kìa, nhưng chuyện trọng đại như thế thì……</size>"
+            ],
+            "name": "HW@OP",
+            "text": "『Tụi tôi thấy cơ hội như này hiếm khi có lắm……! Hãy gửi gắm tình cảm của tụi tôi đến Loves-chan nhé!』"
+        },
+        {
+            "name": "Middle-aged Lifter",
+            "text": "『Trọng trách này ngoài Bridge-san ra thì chẳng ai làm nổi đâu. Tất cả những người ở đây đều biết rõ, anh chính là người đã dốc hết tâm huyết cho cô ấy mà.』"
+        },
+        {
+            "name": "Nekketsu-sensei",
+            "text": "『Tất cả chúng ta đều là fan bình đẳng trong cộng đồng. Nhưng nếu phải chọn ra một người duy nhất, thì dù có tiếc nuối, người đó chỉ có thể là cậu mà thôi……!』"
+        },
+        {
+            "choice_data_list": [
+                "(Mọi người――)"
+            ],
+            "name": "Commumem",
+            "text": "『Trông cậy vào anh!』『Nhất trí luôn!』『Hôm đó nhớ làm nàng hạnh phúc nha!』『Nhờ ông cả đấy!』『Bridge-san cố lên!』『Ủng hộ hết mình luôn!』"
+        },
+        {
+            "choice_data_list": [
+                "Xem nào, nhiêu đây là được rồi nhỉ……"
+            ],
+            "name": "Độc thoại",
+            "text": "——Thế là, mang theo bao kỳ vọng và tình cảm gửi gắm từ mọi người, tôi đã chuẩn bị chocolate để tặng cho Loves Only You."
+        },
+        {
+            "name": "Commumem",
+            "text": "『Khéo!』『Thành quả luyện tập có khác!』\n『Sắp xong rồi, cố lên anh ơi!』\n『Ngon thế』『Loves-chan nhận được chắc vui lắm đây』"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Được mọi người dõi theo, thỉnh thoảng lại chỉ bảo cho, tôi vừa làm vừa gửi gắm tất cả tâm tình vào đó——"
+        },
+        {
+            "choice_data_list": [
+                "<size=38>（Đ-Được rồi…… Chuẩn bị lên thôi nào……!）</size>"
+            ],
+            "name": "Độc thoại",
+            "text": "……Quay lại hiện tại. Kế hoạch là tôi sẽ canh thời điểm thích hợp ngay trong buổi stream này để tạo bất ngờ và tặng nó cho cô ấy."
+        },
+        {
+            "choice_data_list": [
+                "Hả?"
+            ],
+            "name": "Loves Only You",
+            "text": "Vậy là bữa tiệc đã trở nên sôi động rồi……\nVà đây là một bất ngờ dành cho anh!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Trainer-kun."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Trainer-kun."
+        },
+        {
+            "choice_data_list": [
+                "！？"
+            ],
+            "name": "Loves Only You",
+            "text": "——Happy Valentine!"
+        },
+        {
+            "choice_data_list": [
+                "C-C-C-C-Cảm ơn em――"
+            ],
+            "name": "Loves Only You",
+            "text": "……Cảm ơn anh vì lúc nào cũng dành thật nhiều tình yêu cho em ♡ Em đã cố gắng hết sức để làm ra nó đó, nên anh hãy thưởng thức thật ngon nha ♪"
+        },
+        {
+            "name": "3-Day Type Girl",
+            "text": "『Thôi xong——!! Bị hớt tay trên rồi——!!』"
+        },
+        {
+            "name": "Nekketsu-sensei",
+            "text": "『Khỉ thật! Nếu xét theo tính cách của Loves-chan thì rõ ràng nước đi này hoàn toàn có thể xảy ra……!!』"
+        },
+        {
+            "name": "Commumem",
+            "text": "『Bridge-san lên luôn anh ơi!!』『Thời cơ tới!!』『Ngay lúc này luôn!』『GOGOGOGOGOGO』『Lấy lại tinh thần đi!!』『Không được thua đâu đấy——!』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, mọi người nhìn xem ♪\nTrainer-kun ngơ ngác hết cả người rồi——"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, mọi người nhìn xem ♪\nTrainer-kun ngơ ngác hết cả người rồi——"
+        },
+        {
+            "choice_data_list": [
+                "――Loves!"
+            ],
+            "name": "Loves Only You",
+            "text": "…………Ủa, gì thế gì thế? Mọi người bảo 『Không được thua』 nghĩa là sao……——"
+        },
+        {
+            "choice_data_list": [
+                "Happy Valentine!!"
+            ],
+            "name": "Loves Only You",
+            "text": "<i>V-Vâng ạ!</i>"
+        },
+        {
+            "choice_data_list": [
+                "<size=32>Cái này là từ mọi người, và cả anh nữa. Cảm ơn em nhé.</size>",
+                "<size=32>Cái này là từ mọi người, và cả anh nữa. Cảm ơn em nhé.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Hảảả————"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――――"
+        },
+        {
+            "choice_data_list": [
+                "Loves ơi!?"
+            ],
+            "name": "Loves Only You",
+            "text": "――――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "<i>X-Xin lỗi…… Xin lỗi anh nhé!\nTại em, hơi bất ngờ quá nên……!</i>"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "<i>Mọi người… biết hết rồi sao……?</i>"
+        },
+        {
+            "name": "Commumem",
+            "text": "『Đồng phạm hết』『Làm cổ hú hồn luôn』『Hay lắm Bridge-san!』『Bất ngờ thành công rực rỡ!』『Yeahhh!! Mấy đứa hư chính là tụi tuiii!』"
+        },
+        {
+            "name": "Commumem",
+            "text": "『Từ tụi tui gửi tới Loves-chan đó!』\n『Bridge-san đã cất công tự làm đấy nha』\n『Làm tốt lắm!!』『Nice!!』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "『Từ tụi tui gửi tới Loves-chan』……"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "<i>Mọi người——</i>"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "<i>Em vui lắm……! Ngập tràn tình yêu luôn……\nEm hạnh phúc quá đi mất!</i>"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Không phải mình anh đâu. Có cả công sức của mọi người nữa.</size>",
+                "<size=28>Không phải mình anh đâu. Có cả công sức của mọi người nữa.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Đã vậy viên chocolate này, lại còn là do chính tay Trainer-kun làm nữa——"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Không phải mình anh đâu. Có cả công sức của mọi người nữa.</size>",
+                "<size=28>Không phải mình anh đâu. Có cả công sức của mọi người nữa.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Đã vậy viên chocolate này, lại còn là do chính tay Trainer-kun làm nữa——"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, ra là vậy……!\nViên kẹo này đong đầy tình yêu của mọi người và Trainer-kun nhỉ……♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, ra là vậy……!\nViên kẹo này đong đầy tình yêu của mọi người và Trainer-kun nhỉ……♡"
+        },
+        {
+            "choice_data_list": [
+                "……Anh mới là người phải cảm ơn chứ."
+            ],
+            "name": "Loves Only You",
+            "text": "Em cảm ơn anh nhiều lắm……!\nĐây là lần đầu tiên trong đời em có một ngày Valentine ngập tràn tình yêu thế này……!"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Loves Only You cảm thấy hạnh phúc từ tận đáy lòng, và mọi người cũng đang rất vui sướng."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "……Đối với bản thân tôi, đây cũng là một ngày Valentine tuyệt vời nhất từ trước đến nay."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Loves Only You cảm thấy hạnh phúc từ tận đáy lòng, và mọi người cũng đang rất vui sướng."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "……Đối với bản thân tôi, đây cũng là một ngày Valentine tuyệt vời nhất từ trước đến nay."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Sau khi buổi livestream Valentine kết thúc và việc dọn dẹp cũng đã hoàn tất——"
+        },
+        {
+            "choice_data_list": [
+                "Chuyện gì vậy?",
+                "Chuyện gì vậy?"
+            ],
+            "name": "Loves Only You",
+            "text": "Trainer-kun～♡\nEm có một thỉnh cầu nho nhỏ này nè～——"
+        },
+        {
+            "choice_data_list": [
+                "Chuyện gì vậy?",
+                "Chuyện gì vậy?"
+            ],
+            "name": "Loves Only You",
+            "text": "Trainer-kun～♡\nEm có một thỉnh cầu nho nhỏ này nè～——"
+        },
+        {
+            "choice_data_list": [
+                "Tất nhiên rồi! Em cứ tự nhiên."
+            ],
+            "name": "Loves Only You",
+            "text": "Viên chocolate vừa nãy anh tặng, em ăn luôn bây giờ được không?\nEm tò mò muốn chết rồi đây này!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thật không ạ? Vậy thì——"
+        },
+        {
+            "choice_data_list": [
+                "……………………Hả?"
+            ],
+            "name": "Loves Only You",
+            "text": "Aaaam～"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ～ Sao anh vẫn chưa hiểu vậy?"
+        },
+        {
+            "choice_data_list": [
+                "<size=36>K-K-Khoan, khoan đã, thế này thì có hơi quá...!</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Em đang bảo anh đút cho em ăn cơ mà ♪\nNhìn nè, kiểu như là \"Am～\" ấy!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ! Chính em đã bảo muốn anh làm thế rồi nên không sao hết!\nHay là——"
+        },
+        {
+            "choice_data_list": [
+                "Sao mà thành như thế này được chứ!?",
+                "Sao mà thành như thế này được chứ!?"
+            ],
+            "name": "Loves Only You",
+            "text": "Hay là Trainer-kun muốn được em đút cho ăn \"Am～\" trước?"
+        },
+        {
+            "choice_data_list": [
+                "Sao mà thành như thế này được chứ!?",
+                "Sao mà thành như thế này được chứ!?"
+            ],
+            "name": "Loves Only You",
+            "text": "Hay là Trainer-kun muốn được em đút cho ăn \"Am～\" trước?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ể～? Hai đứa mình đã tặng vhocolate qua lại rồi mà, làm thế chẳng phải tuyệt đối ngọt ngào, tràn ngập tình yêu hơn sao ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Sẵn tiện nói luôn, vụ này là t-u-y-ệ-t \nđ-ố-i anh phải làm cho em đấy nhé ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Anh phải chịu trách nhiệm vì đã làm em cảm động phát khóc trước mặt mọi người đấy nhé ♡"
+        },
+        {
+            "choice_data_list": [
+                "Ớ, kìa... chuyện đó... tức là——"
+            ],
+            "name": "Loves Only You",
+            "text": "Nào, anh giơ tay chịu trói đi Trainer-kun!\nĐút cho em ăn hay được em đút \"Am～\" trước đây, chọn cái nào nào!?"
+        },
+        {
+            "choice_data_list": [
+                "Ớ, kìa... chuyện đó... tức là——"
+            ],
+            "name": "Loves Only You",
+            "text": "Nào, anh giơ tay chịu trói đi Trainer-kun!\nĐút cho em ăn hay được em đút \"Am～\" trước đây, chọn cái nào nào!?"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Và cứ như thế, tôi với Loves Only You đã cùng nhau thưởng thức những viên socola của đối phương một cách thật ngon lành——"
+        }
+    ],
+    "title": "Valentine\"s Day"
+}
