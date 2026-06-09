@@ -18,7 +18,7 @@
         },
         {
             "name": "Loves Only You",
-            "text": "Thật á～! Thích thế～! Của tiệm nào tiệm nào vậy? \n.....Eh, nhìn ngon quá～! Em cũng thích bánh Gateau Chocolate của tiệm đó lắm～♪"
+            "text": "Thật á～! Thích thế～! Của tiệm nào tiệm nào vậy? .....Eh, nhìn ngon quá～! \nEm cũng thích bánh Gateau Chocolate của tiệm đó lắm～♪"
         },
         {
             "name": "Độc thoại",
@@ -67,7 +67,7 @@
                 "(Mọi người――)"
             ],
             "name": "Commumem",
-            "text": "『Trông cậy vào anh!』『Nhất trí luôn!』『Hôm đó nhớ làm nàng hạnh phúc nha!』『Nhờ ông cả đấy!』『Bridge-san cố lên!』『Ủng hộ hết mình luôn!』"
+            "text": "『Trông cậy vào anh!』『Nhất trí luôn!』『Hôm đó nhớ làm nàng hạnh phúc nha!』\n『Nhờ ông cả đấy!』『Bridge-san cố lên!』『Ủng hộ hết mình luôn!』"
         },
         {
             "choice_data_list": [
@@ -130,7 +130,7 @@
         },
         {
             "name": "Commumem",
-            "text": "『Bridge-san lên luôn anh ơi!!』『Thời cơ tới!!』『Ngay lúc này luôn!』『GOGOGOGOGOGO』『Lấy lại tinh thần đi!!』『Không được thua đâu đấy——!』"
+            "text": "『Bridge-san lên luôn anh ơi!!』『Thời cơ tới!!』『Ngay lúc này luôn!』\n『GOGOGOGOGOGO』『Lấy lại tinh thần đi!!』『Không được thua đâu đấy——!』"
         },
         {
             "name": "Loves Only You",
@@ -145,7 +145,7 @@
                 "――Loves!"
             ],
             "name": "Loves Only You",
-            "text": "…………Ủa, gì thế gì thế? Mọi người bảo 『Không được thua』 nghĩa là sao……——"
+            "text": "…………Ủa, gì thế gì thế? Mọi người bảo \n『Không được thua』 nghĩa là sao……——"
         },
         {
             "choice_data_list": [
@@ -183,7 +183,7 @@
         },
         {
             "name": "Commumem",
-            "text": "『Đồng phạm hết』『Làm cổ hú hồn luôn』『Hay lắm Bridge-san!』『Bất ngờ thành công rực rỡ!』『Yeahhh!! Mấy đứa hư chính là tụi tuiii!』"
+            "text": "『Đồng phạm hết』『Làm cổ hú hồn luôn』\n『Hay lắm Bridge-san!』『Bất ngờ thành công rực rỡ!』『Yeahhh!! Mấy đứa hư chính là tụi tuiii!』"
         },
         {
             "name": "Commumem",
