@@ -16,11 +16,11 @@
             "text": "She didn't strike me as the enthusiastic type when we'd first \nmet, but once we got down to it, Nice Nature was serious and \ndiligent about her training."
         },
         {
-            "name": "Nice Nature",
-            "text": "What? Something the matter, Trainer-san?",
             "choice_data_list": [
                 "Not at all. You're a good student!"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "What? Something the matter, Trainer-san?"
         },
         {
             "name": "Nice Nature",
@@ -42,23 +42,23 @@
             "text": "Third place, huh…"
         },
         {
-            "name": "Nice Nature",
-            "text": "My own personal trainer… all that work… \nand that's all I've got, huh…",
             "choice_data_list": [
                 "You were so close that time, though!",
                 "You were so close that time, though!"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "My own personal trainer… all that work… \nand that's all I've got, huh…"
         },
         {
             "name": "Nice Nature",
             "text": "A-hahaha… nah. I don't know… maybe third \nplace is as good as it gets for me."
         },
         {
-            "name": "Nice Nature",
-            "text": "I'm not going to stand here saying stuff like \"The \nTwinkle Series is mine for the taking!\", \"Second \nis just the first loser!\"… you know?",
             "choice_data_list": [
                 "Why not?"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "I'm not going to stand here saying stuff like \"The \nTwinkle Series is mine for the taking!\", \"Second \nis just the first loser!\"… you know?"
         },
         {
             "name": "Nice Nature",
@@ -80,12 +80,12 @@
             "text": "(Grrrr)"
         },
         {
-            "name": "Nice Nature",
-            "text": "Mmm…? Trainer-san, was that… you?",
             "choice_data_list": [
                 "E… excuse me.",
                 "E… excuse me."
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "Mmm…? Trainer-san, was that… you?"
         },
         {
             "name": "Nice Nature",
@@ -131,12 +131,12 @@
             "text": "A-aaah! There's no need to make… a… ahh. He's pretty fast for an \nold guy. Maybe I should let him run some of my races for me…"
         },
         {
-            "name": "Nice Nature",
-            "text": "See, this is why I was trying not to tell anyone. \nLittle late for that now, though.",
             "choice_data_list": [
                 "The locals really love you here, don't they?",
                 "The locals really love you here, don't they?"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "See, this is why I was trying not to tell anyone. \nLittle late for that now, though."
         },
         {
             "name": "Nice Nature",
@@ -163,12 +163,12 @@
             "text": "Talking about it brings back memories. Like that \nold lady from the sweet shop across the street… \nI wonder how her back's doing these days…"
         },
         {
-            "name": "Nice Nature",
-            "text": "She looks kind of scary but she she's actually a real sweetheart. \nShe always made sure I got the sweets with prizes in 'em!",
             "choice_data_list": [
                 "They love you back home too, huh.",
                 "They love you back home too, huh."
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "She looks kind of scary but she she's actually a real sweetheart. \nShe always made sure I got the sweets with prizes in 'em!"
         },
         {
             "name": "Nice Nature",

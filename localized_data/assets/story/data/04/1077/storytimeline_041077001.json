@@ -5,11 +5,11 @@
             "text": "It had been a few days since I had become a \nPro Trainer at Tracen Academy. Today, too, \nI hadn't found an Uma Musume to be in charge of."
         },
         {
-            "name": "Teacher",
-            "text": "If you slouch like that, won't it make the other party uneasy? \nIt's fine if you have more self-confidence.",
             "choice_data_list": [
                 "Sensei……"
-            ]
+            ],
+            "name": "Teacher",
+            "text": "If you slouch like that, won't it make the other party uneasy? \nIt's fine if you have more self-confidence."
         },
         {
             "text": "The former trainer who has been mentoring me since I \nstarted aiming to be a Pro Trainer, tried consoling me."
@@ -19,10 +19,10 @@
             "text": "You've been saying it for a long time, that you want \nto help an Uma Musume aim for their dream, right? \nThat's why I've had such high expetations of you."
         },
         {
-            "text": "……even seeing me in such a pathetic state, \nSensei still said he had such expectations of me. \nThere was not even a glimmer of doubt in his eyes.",
             "choice_data_list": [
                 "Expectations, huh……"
-            ]
+            ],
+            "text": "……even seeing me in such a pathetic state, \nSensei still said he had such expectations of me. \nThere was not even a glimmer of doubt in his eyes."
         },
         {
             "name": "???",
@@ -88,17 +88,17 @@
             "text": "At those words, the look in T M Opera O \nand Admire Vega's eyes changed."
         },
         {
-            "name": "Narita Top Road",
-            "text": "Excuse me, the Trainer-san over there! \nWould you mind handling the starting signal!?",
             "choice_data_list": [
                 "Eh? Ahh, okay……"
-            ]
+            ],
+            "name": "Narita Top Road",
+            "text": "Excuse me, the Trainer-san over there! \nWould you mind handling the starting signal!?"
         },
         {
-            "text": "These 3 were all Uma Musume at the academy that were \nthe center of many rumors. Narita Top Road and Admire \nVega, especially, were getting alot of attention.",
             "choice_data_list": [
                 "――Start!"
-            ]
+            ],
+            "text": "These 3 were all Uma Musume at the academy that were \nthe center of many rumors. Narita Top Road and Admire \nVega, especially, were getting alot of attention."
         },
         {
             "text": "At the same time as the starting signal, \nthere were the sounds of strong kicks in the turf."
@@ -161,19 +161,19 @@
             "text": "It was difficult to change yourself so suddenly. \nI still couldn't proudly call myself a Pro Trainer, yet."
         },
         {
-            "text": "But, I should be sincere and tell her \nstraight-forwardly, just like her run.",
             "choice_data_list": [
                 "I'm looking to scout an Uma Musume",
                 "I'm looking to scout an Uma Musume"
-            ]
+            ],
+            "text": "But, I should be sincere and tell her \nstraight-forwardly, just like her run."
         },
         {
-            "name": "Narita Top Road",
-            "text": "Ah, so that's why! \nThen, does that mean you're a new trainer?",
             "choice_data_list": [
                 "Yeah, I am",
                 "Yeah, I am"
-            ]
+            ],
+            "name": "Narita Top Road",
+            "text": "Ah, so that's why! \nThen, does that mean you're a new trainer?"
         },
         {
             "name": "Narita Top Road",
@@ -188,22 +188,22 @@
             "text": "Ah! Um, is there anything I can help with? \nIf there's someone you want to talk to, I can go get them."
         },
         {
-            "text": "In that case, there was something I wanted to ask her. \nI took a deep breath and stood straight.",
             "choice_data_list": [
                 "Is there a dream you're aiming for?",
                 "Is there a dream you're aiming for?"
-            ]
+            ],
+            "text": "In that case, there was something I wanted to ask her. \nI took a deep breath and stood straight."
         },
         {
             "name": "Narita Top Road",
             "text": "Eh? My dream, is it? Now that I think about it, \nthis might be the first time I've put it in to words."
         },
         {
-            "name": "Narita Top Road",
-            "text": "I want to――live up to everyone's expectations!",
             "choice_data_list": [
                 "Everyone's expectations……"
-            ]
+            ],
+            "name": "Narita Top Road",
+            "text": "I want to――live up to everyone's expectations!"
         },
         {
             "name": "Narita Top Road",
@@ -221,19 +221,19 @@
             "text": "It wasn't an unusual answer. However, I wonder why. \nCompared to anyone before, it strongly――resounded within me."
         },
         {
-            "text": "I took another deep breath, looking directly at Narita Top Road.",
             "choice_data_list": [
                 "I want to help with that dream",
                 "I want to help with that dream"
-            ]
+            ],
+            "text": "I took another deep breath, looking directly at Narita Top Road."
         },
         {
-            "name": "Narita Top Road",
-            "text": "Eh……does that mean……",
             "choice_data_list": [
                 "I want to be your trainer",
                 "I want to be your trainer"
-            ]
+            ],
+            "name": "Narita Top Road",
+            "text": "Eh……does that mean……"
         },
         {
             "name": "Narita Top Road",
@@ -243,10 +243,10 @@
             "text": "Would I be rejected again? But, I had still wanted to say it――"
         },
         {
-            "text": "…………",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "text": "…………"
         },
         {
             "name": "Narita Top Road",

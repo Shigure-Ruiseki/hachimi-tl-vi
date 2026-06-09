@@ -4505,6 +4505,8 @@
         "71015": "This racewear is mine and mine alone. No one else can wear this... And not just cuz of the size!",
         "71018": "Well? How do I look?",
         "71019": "A'ight, let's get runnin'!",
+        "81000": "Oh, ya wanna go? I won't make it easy!",
+        "81001": "Now we're talkin'! I can finally start gettin' serious!",
         "90000": "Mornin'! C'mon, let's start the day off right by blastin' off, full steam ahead!",
         "90001": "Look, I'm glad ya got me breakfast and all... but did ya have to grab <i>natto?!</i> That stuff's so... slimy...",
         "90002": "How ya doin'? Eat lunch yet? Then ya better get movin', or you'll turn into a cow! At least, that's what they say! Ahaha!",
@@ -4572,9 +4574,7 @@
         "140017": "Ah!",
         "140018": "Aaagh!",
         "400004": "Man have I got my hands full this year... But hey, I'm used to bein' the big sis!",
-        "400011": "I wonder if this's how my mom felt sendin' me off to Tracen. Just trustin' that I'd figure things out...",
-        "81000": "Oh, ya wanna go? I won't make it easy!",
-        "81001": "Now we're talkin'! I can finally start gettin' serious!"
+        "400011": "I wonder if this's how my mom felt sendin' me off to Tracen. Just trustin' that I'd figure things out..."
     },
     "1022": {
         "11": "Cygames",
@@ -6718,6 +6718,7 @@
         "1045": "\nSearch\nPlease refrain from drooling...\nType your translation here...\n",
         "1057": "Afraid I can't hear you!",
         "1069": "Let's get this experiment started.",
+        "1093": "Then I'll give you a special \"potion.\"",
         "2030": "Now then, let's start the experiment!",
         "2031": "Now, let's expand our potential!",
         "2032": "Research is an everlasting endeavor, my dear guinea pig!",
@@ -6882,8 +6883,7 @@
         "140015": "Oh!",
         "140016": "Please continue.",
         "140017": "Hmph...",
-        "140018": "Good grief.",
-        "1093": "Then I'll give you a special \"potion.\""
+        "140018": "Good grief."
     },
     "1033": {
         "11": "Cygames",
@@ -7993,6 +7993,7 @@
         "1007": "We can go higher!",
         "1008": "Team Princess, here to save the day!",
         "1024": "Bring it on!",
+        "1083": "A witch and a princess...",
         "1084": "We're gonna crush this!",
         "1128": "I got the guts to tough it out!",
         "2030": "No way we'll lose!",
@@ -8170,8 +8171,7 @@
         "410005": "Hehe!",
         "410006": "Heh... hehehe.",
         "410007": "Heh... hehehe.",
-        "410008": "Heh... hehehe.",
-        "1083": "A witch and a princess..."
+        "410008": "Heh... hehehe."
     },
     "1040": {
         "11": "Cygames",
@@ -8616,15 +8616,6 @@
     "1044": {
         "11": "Cygames",
         "12": "Umamusume: Pretty Derby!",
-        "20051": "Let's do it... our fusion spell!",
-        "70000": "I'm going to work you to the bone, my familiar!",
-        "80000": "good work",
-        "95005": "Leave the support magic to me!",
-        "95006": "Looks like it's time to use my secret spell!",
-        "140001": "Yay!",
-        "140008": "Hehe!",
-        "400005": "I can feel a bit of magic from those sparkly balls at that disco place!",
-        "400016": "Did the event end already? Hmm. More importantly, I gotta ask Granny to teach me how to cast that spell!",
         "13": "Here's your login bonus for today!",
         "15": "You'll get this tomorrow, so you better come claim it!",
         "1000": "We'll show you the power of magic!",
@@ -8704,6 +8695,7 @@
         "20047": "It's the ocean!",
         "20049": "You tried your best, so good job!",
         "20050": "Well, that wasn't too bad. Thanks!",
+        "20051": "Let's do it... our fusion spell!",
         "30000": "Ugh! Next time, first is mine!",
         "30001": "This isn't what I want at all!",
         "30002": "I just wasn't feeling it today!",
@@ -8715,6 +8707,7 @@
         "40001": "Twinkle, twinkle... ☆ Watch as I unleash my ultimate spell! Whoa, hey, listen to me! Heh... Now get ready!",
         "60000": "Twinkle, twinkle—make this concert shine! ☆",
         "60001": "I'll cast a musical spell on everyone here!",
+        "70000": "I'm going to work you to the bone, my familiar!",
         "70001": "Every magical girl's gotta have her familiar! We'll be together from now on, so I'm expecting great things!",
         "70004": "School uniforms aren't so bad. Besides, every magical girl needs an everyday disguise! ♪",
         "70008": "All these frills are just like the ones on a magical girl's outfit! I'm a fan—it even goes well with my hat!",
@@ -8732,6 +8725,7 @@
         "71015": "This racewear must be infused with some powerful magic—it never fails to give me courage! ♪",
         "71018": "Twinkle, twinkle! ☆ Sweepy Transform! See? Look how cute I am!",
         "71019": "I gotta send some photos to Grandma later! I just know she'll praise me lots! ♪",
+        "80000": "good work",
         "90000": "A witch's day always starts off with a spell! Twinkle☆twinkle—may today be full of fun sprinkles! ♪",
         "90001": "<i>Yawn...</i> Witches aren't morning people—they're nocturnal... Familiar, go to class for me...",
         "90002": "The lunch lady <i>has</i> to be a witch! I still remember the scary aura she had when I didn't finish my plate... Yeah, that has to be it!",
@@ -8773,17 +8767,21 @@
         "95001": "Bloom, my ultimate magic! I can feel new power flowing through me!",
         "95003": "I'm genius magical girl Sweep Tosho!",
         "95004": "Twinkle, twinkle, little star! ☆ Show them how magical my spells are!",
+        "95005": "Leave the support magic to me!",
+        "95006": "Looks like it's time to use my secret spell!",
         "110000": "What now? I'll only come along if we're practicing magic.",
         "110001": "The academy's history is cool and all, but the history of magic is even cooler!",
         "110002": "We're racing? Fine by me—I'll show everyone the power of a genius magical girl!",
         "120000": "I can feel new mana coursing through me!",
         "140000": "Hehe, give it your best try!",
+        "140001": "Yay!",
         "140002": "Ahhh!",
         "140003": "Great going, familiar!",
         "140004": "Hm... not bad at all!",
         "140005": "Try a <i>little</i> harder, will you?",
         "140006": "Great going, familiar!",
         "140007": "Hm... not bad at all!",
+        "140008": "Hehe!",
         "140009": "What now?",
         "140010": "Hrm-hm...",
         "140011": "Wow, that's amazing!",
@@ -8793,7 +8791,9 @@
         "140015": "Mngh...",
         "140016": "Hurry up and play!",
         "140017": "Whyyy?!",
-        "140018": "Nuh-uhhh!"
+        "140018": "Nuh-uhhh!",
+        "400005": "I can feel a bit of magic from those sparkly balls at that disco place!",
+        "400016": "Did the event end already? Hmm. More importantly, I gotta ask Granny to teach me how to cast that spell!"
     },
     "1045": {
         "11": "Cygames",

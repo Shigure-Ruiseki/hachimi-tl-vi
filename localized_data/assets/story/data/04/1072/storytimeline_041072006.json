@@ -22,12 +22,12 @@
             "text": "Afternoon on a day off. As I was walking by the station, \nI spotted Yaeno Muteki standing in front of the information board."
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Oh, if it isn't Trainer-dono. What a coincidence.",
             "choice_data_list": [
                 "What are you doing here?",
                 "What are you doing here?"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "Oh, if it isn't Trainer-dono. What a coincidence."
         },
         {
             "name": "Yaeno Muteki",
@@ -38,10 +38,10 @@
             "text": "However, I am someone who is always immersed in martial arts. \nAs embarrassing as it is, I'm unsure where to go."
         },
         {
-            "text": "In that case, perhaps a place made for everyone to enjoy. \nMaybe even someone like her could relax there.",
             "choice_data_list": [
                 "How about an amusement park?"
-            ]
+            ],
+            "text": "In that case, perhaps a place made for everyone to enjoy. \nMaybe even someone like her could relax there."
         },
         {
             "name": "Yaeno Muteki",
@@ -55,11 +55,11 @@
             "text": "And so, that's why the two of us find \nourselves at the amusement park, however……"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Huuu, it was a splendid Jet Coaster.",
             "choice_data_list": [
                 "But, was it fun?"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "Huuu, it was a splendid Jet Coaster."
         },
         {
             "name": "Yaeno Muteki",
@@ -70,10 +70,10 @@
             "text": "Racetracks also have downhill slopes. I was aware of it, but I \ndon't think I can handle them much better than I currently am……"
         },
         {
-            "text": "I was only asking for her impressions, but Yaeno Muteki was deep in \nthought. At this rate, she'd start thinking about training again……!",
             "choice_data_list": [
                 "Yaeno! Let's go there next!"
-            ]
+            ],
+            "text": "I was only asking for her impressions, but Yaeno Muteki was deep in \nthought. At this rate, she'd start thinking about training again……!"
         },
         {
             "name": "Yaeno Muteki",
@@ -100,11 +100,11 @@
             "text": "We shall plunge you in to the depths of fear……!"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "What did you say……!?",
             "choice_data_list": [
                 "(Good, if it's a haunted mansion then……)"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "What did you say……!?"
         },
         {
             "name": "Yaeno Muteki",
@@ -131,11 +131,11 @@
             "text": "Not by something of this level! \nWithstand this if you can, Kongou Yaegaki Ryuu Ultimate――!"
         },
         {
-            "name": "Monster?",
-            "text": "Ueeeeehh~!?!?",
             "choice_data_list": [
                 "Wait wait stop~!"
-            ]
+            ],
+            "name": "Monster?",
+            "text": "Ueeeeehh~!?!?"
         },
         {
             "name": "Yaeno Muteki",
@@ -150,11 +150,11 @@
             "text": "O-once again, I forcibly turned this in to training……I apologize! \nEven though you've gone so far for this, how unsightly……!"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "This was supposed to be training to discipline myself, \nI end up so caught up in the training that I forget all \nelse. It's proof of my immaturity……!",
             "choice_data_list": [
                 "Then train to forget about training"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "This was supposed to be training to discipline myself, \nI end up so caught up in the training that I forget all \nelse. It's proof of my immaturity……!"
         },
         {
             "name": "Yaeno Muteki",
@@ -165,21 +165,21 @@
             "text": "Today, and during my recent breaks…… \nI feel like I'm always inconveniencing Trainer-dono."
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "That's why, helping anymore than this…… \nI absolutely need to solve this on my own!",
             "choice_data_list": [
                 "No, I'll accompany you to the end"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "That's why, helping anymore than this…… \nI absolutely need to solve this on my own!"
         },
         {
             "text": "I say it firmly. This is the role of a trainer."
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "However……!",
             "choice_data_list": [
                 "And a flustered Yaeno is interesting!"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "However……!"
         },
         {
             "name": "Yaeno Muteki",
@@ -204,11 +204,11 @@
             "text": "That's why, your instructions to 『Take a break from \ntraining』, I suppose I didn't truly understand it."
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "And if that's the case…… \n…………",
             "choice_data_list": [
                 "……In that case?"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "And if that's the case…… \n…………"
         },
         {
             "name": "Yaeno Muteki",

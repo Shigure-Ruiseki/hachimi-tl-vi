@@ -30,12 +30,12 @@
             "text": "The fleeing Mayano Top Gun bumped into \nme, so I held her in a hurry."
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "Awawawa, sorry-! Are you okay!?",
             "choice_data_list": [
                 "I'm fine. Are you ok?",
                 "I'm fine. Are you ok?"
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "Awawawa, sorry-! Are you okay!?"
         },
         {
             "name": "Mayano Top Gun",
@@ -46,11 +46,11 @@
             "text": "Ehehe. You're so sweet! Are you a new \ntrainer? You can call Maya, Mayano Top Gun―"
         },
         {
-            "name": "Selection Race Official A",
-            "text": "Oh, just in time! Trainer! Can you keep an \neye on her so she doesn't go off to the track \nwithout permission again? I'm counting on you!",
             "choice_data_list": [
                 "Yes, I'll make sure."
-            ]
+            ],
+            "name": "Selection Race Official A",
+            "text": "Oh, just in time! Trainer! Can you keep an \neye on her so she doesn't go off to the track \nwithout permission again? I'm counting on you!"
         },
         {
             "name": "Mayano Top Gun",
@@ -163,12 +163,12 @@
             "text": "If it had been Mayano Top Gun, \nthen maybe―"
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "Ughh, must feel nice to run! \nMaya also wanted to race～.",
             "choice_data_list": [
                 "What are you……?",
                 "What are you……?"
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "Ughh, must feel nice to run! \nMaya also wanted to race～."
         },
         {
             "name": "Mayano Top Gun",

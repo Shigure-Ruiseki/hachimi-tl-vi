@@ -1,5 +1,4 @@
 {
-    "title": "As Fruit Ripened",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -241,5 +240,6 @@
             "name": "King Halo",
             "text": "—— Commit to being in bed early and waking up early instead!!!! \n…… I'll join in, of course… at least for a bit."
         }
-    ]
+    ],
+    "title": "As Fruit Ripened"
 }

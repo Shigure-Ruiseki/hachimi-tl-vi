@@ -37,45 +37,45 @@
             "text": "The younger sister of these two, Vivlos, had also \ninherited that talent. She's also achieved excellent \nresults during her training with instructors."
         },
         {
-            "text": "If she continues to pursue her training seriously, then her \ntalk about going to Dubai won't remain an impossible dream――",
             "choice_data_list": [
                 "(If there was a concern then……)"
-            ]
+            ],
+            "text": "If she continues to pursue her training seriously, then her \ntalk about going to Dubai won't remain an impossible dream――"
         },
         {
-            "name": "Vivlos",
-            "text": "……",
             "choice_data_list": [
                 "Oh, Vivlos!?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "……"
         },
         {
             "text": "……for some reason she seemed to be depressed. \nNow that I think about it, I said I'd consider the \ncontract on my own but, I hadn't met her since then."
         },
         {
-            "name": "Vivlos",
-            "text": "……I'm sorry.",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "……I'm sorry."
         },
         {
-            "name": "Vivlos",
-            "text": "You see……for a long time, I've been told \n『You're good at getting your way』 by everyone.",
             "choice_data_list": [
                 "……Hm?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "You see……for a long time, I've been told \n『You're good at getting your way』 by everyone."
         },
         {
             "name": "Vivlos",
             "text": "Papa and Mama, and my older sisters were all really kind. \nThey spoiled me alot……and I love them."
         },
         {
-            "name": "Vivlos",
-            "text": "Hmm-, well there were times it failed with Chevacchi though. \nBut, they still showered me with lots of love.",
             "choice_data_list": [
                 "(What's she talking about……?)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Hmm-, well there were times it failed with Chevacchi though. \nBut, they still showered me with lots of love."
         },
         {
             "name": "Vivlos",
@@ -118,11 +118,11 @@
             "text": "But……Mama and Papa, and my Onee-chans, \nall said 『You're still saying that, Vivlos~?』……"
         },
         {
-            "name": "Vivlos",
-            "text": "They don't think I'm serious. But it's true that it \nsounds like a childish dream……but I'm not messing around.",
             "choice_data_list": [
                 "……!"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "They don't think I'm serious. But it's true that it \nsounds like a childish dream……but I'm not messing around."
         },
         {
             "name": "Vivlos",
@@ -133,12 +133,12 @@
             "text": "Compared to my serious Onee-chans, I know that it's weird. \nBut…… ……that's what my dream is."
         },
         {
-            "name": "Vivlos",
-            "text": "……Trainer-san, \ndo you think this isn't a worthwhile dream?",
             "choice_data_list": [
                 "(Aah……so that's what this is about)",
                 "(Aah……so that's what this is about)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "……Trainer-san, \ndo you think this isn't a worthwhile dream?"
         },
         {
             "text": "The reason why Vivlos seemed so depressed and why she \nstarted talking so much about herself……I finally realized."
@@ -147,46 +147,46 @@
             "text": "She had just told me about Dubai, and I left \nwithout responding directly to her. She was left \nshocked and eventually came to explain herself."
         },
         {
-            "name": "Vivlos",
-            "text": "Is it really…… \nnot a serious goal?",
             "choice_data_list": [
                 "No, I think it's a wonderful dream",
                 "No, I think it's a wonderful dream"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Is it really…… \nnot a serious goal?"
         },
         {
-            "name": "Vivlos",
-            "text": "Eh……",
             "choice_data_list": [
                 "Sorry I didn't explain. You see――",
                 "Sorry I didn't explain. You see――"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Eh……"
         },
         {
-            "name": "Vivlos",
-            "text": "――Then, Trainer-san……does that mean you were thinking \nabout how to get me to Dubai this whole time?",
             "choice_data_list": [
                 "Helping with your dream is my job"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "――Then, Trainer-san……does that mean you were thinking \nabout how to get me to Dubai this whole time?"
         },
         {
-            "name": "Vivlos",
-            "text": "…… \nDoes that mean you don't think it's hopeless for me?",
             "choice_data_list": [
                 "It's not impossible for you",
                 "It's not impossible for you"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "…… \nDoes that mean you don't think it's hopeless for me?"
         },
         {
             "name": "Vivlos",
             "text": "……!"
         },
         {
-            "text": "When I rewatched video of her mock race and her \ntraining footage, I could feel her potential. \nWith proper guidance she will continue to grow.",
             "choice_data_list": [
                 "You can aim for Dubai",
                 "You can aim for Dubai"
-            ]
+            ],
+            "text": "When I rewatched video of her mock race and her \ntraining footage, I could feel her potential. \nWith proper guidance she will continue to grow."
         },
         {
             "name": "Vivlos",
@@ -197,11 +197,11 @@
             "text": "That means you can see that image of \nme making it to Dubai, right? Then……"
         },
         {
-            "text": "She was staring at me with eyes full of expectations. \nHowever, even if she wasn't 『Begging』 me, \nI had already decided to move forward――",
             "choice_data_list": [
                 "I'll be your trainer!",
                 "I'll be your trainer!"
-            ]
+            ],
+            "text": "She was staring at me with eyes full of expectations. \nHowever, even if she wasn't 『Begging』 me, \nI had already decided to move forward――"
         },
         {
             "name": "Vivlos",
@@ -212,21 +212,21 @@
             "text": "I guess it's true, huh……I'm not hopeless at all. \nAfter all, Trainer-san said it was fine and properly understood me."
         },
         {
-            "name": "Vivlos",
-            "text": "……Right! My eyes never deceive me after all! \nTore-cchi, you're the best! I'm also the best~♡",
             "choice_data_list": [
                 "(Back to Tore-cchi, huh……)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "……Right! My eyes never deceive me after all! \nTore-cchi, you're the best! I'm also the best~♡"
         },
         {
             "name": "Vivlos",
             "text": "And so, you were thinking about me the whole time, huh? \nWhat do I need to do to get to Dubai?"
         },
         {
-            "text": "Of course, it depended mostly on her training from now on, but…… \nif there was one thing that would help right off the bat……",
             "choice_data_list": [
                 "(It caught my attention back then too)"
-            ]
+            ],
+            "text": "Of course, it depended mostly on her training from now on, but…… \nif there was one thing that would help right off the bat……"
         },
         {
             "name": "Shop Assistant",
@@ -237,10 +237,10 @@
             "text": "Thank you very much! Hmmm~ as I thought, it's \nso cute! But……looking at it, it might be too \nbig. Looks like the waist will be really loose."
         },
         {
-            "text": "By no means was she too short. But on the other hand, she was very \nslender. Most likely her weight was a problem too……that's why――",
             "choice_data_list": [
                 "Let's start by getting a good meal!"
-            ]
+            ],
+            "text": "By no means was she too short. But on the other hand, she was very \nslender. Most likely her weight was a problem too……that's why――"
         },
         {
             "name": "Vivlos",

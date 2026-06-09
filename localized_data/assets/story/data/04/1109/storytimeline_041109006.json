@@ -14,11 +14,11 @@
             "text": "Just wait for it, Trainer-san! \nI'll make it! I'll put my all in to making it!"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "――Into Trainer-san's new mug!",
             "choice_data_list": [
                 "(It became such a big deal……)"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "――Into Trainer-san's new mug!"
         },
         {
             "text": "It all started a few days ago. \nI was taking a break while doing some race research……"
@@ -32,19 +32,19 @@
             "text": "And there's just something warm about it…… \nAh, is it handmade!?"
         },
         {
-            "text": "I nod, looking at the mug in my hand again. Even though it \nwas handmade, it was something I made during my school years.",
             "choice_data_list": [
                 "Yeah, I took a pottery class",
                 "Yeah, I took a pottery class"
-            ]
+            ],
+            "text": "I nod, looking at the mug in my hand again. Even though it \nwas handmade, it was something I made during my school years."
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Hmmm～ so there was that kind of class! How nice～! \n……Um, can I take a closer look at it!?",
             "choice_data_list": [
                 "It's not that amazing though?",
                 "It's not that amazing though?"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Hmmm～ so there was that kind of class! How nice～! \n……Um, can I take a closer look at it!?"
         },
         {
             "text": "It was just a bit embarrassing, \nbut I ended up handing her the mug. And then――"
@@ -68,22 +68,22 @@
             "text": "It's impossible to replace it with something identical……but! \nSomething that's just as wonderful! I'll definitely make it!"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "First, the handle needs to be a horseshoe-shape for sure. \nAnd the cup has two tones. Turf and dirt-like colors, and then……",
             "choice_data_list": [
                 "(I didn't particularly mind though……)"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "First, the handle needs to be a horseshoe-shape for sure. \nAnd the cup has two tones. Turf and dirt-like colors, and then……"
         },
         {
             "text": "But, it was generous of her and \nopportunities like this didn't come often."
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Something like this……I guess.",
             "choice_data_list": [
                 "Eh!? You're done already!?",
                 "Eh!? You're done already!?"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Something like this……I guess."
         },
         {
             "text": "Maybe making things by hand was a hobby for Rhein Kraft. \nI figured she'd be used to it, but it hadn't even been an hour yet!"
@@ -101,11 +101,11 @@
             "text": "…………"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Yeah. \n――As I thought, I'll make it again from the start!",
             "choice_data_list": [
                 "Eh, starting over!?"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Yeah. \n――As I thought, I'll make it again from the start!"
         },
         {
             "text": "Before I realized it, she had flattened the clay already. \nEven though it was already higher quality than what I had made……"
@@ -135,11 +135,11 @@
             "text": "Color, color, color…… Hmmm, the turf part \nshould be this color……the dirt color should \nbe this……no, this one maybe! And, the handle……"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Fuwaaah～～! It's doneーーーー! \nTrainer-san, Trainer-san! How is it? How does it look!?",
             "choice_data_list": [
                 "Amazing! I think it's perfect!"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Fuwaaah～～! It's doneーーーー! \nTrainer-san, Trainer-san! How is it? How does it look!?"
         },
         {
             "name": "Pottery Teacher",
@@ -158,36 +158,36 @@
             "text": "Uwaa～～～n! Why did I forget about the baking part～!?"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "I……I wanted it to be ready for you soon……and now \nit's going to take a whole bunch of time～…… Aww.",
             "choice_data_list": [
                 "It's not going to take that long"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "I……I wanted it to be ready for you soon……and now \nit's going to take a whole bunch of time～…… Aww."
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san……",
             "choice_data_list": [
                 "You put so much effort in to it, right?",
                 "You put so much effort in to it, right?"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Trainer-san……"
         },
         {
             "text": "She spent so much time adjusting the size and shape for comfort. \nRhein Kraft remade it so many times just for that."
         },
         {
-            "name": "Rhein Kraft",
-            "text": "You're right. \nThe feelings……at least those, I put in lots and lots!",
             "choice_data_list": [
                 "So, I was glad"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "You're right. \nThe feelings……at least those, I put in lots and lots!"
         },
         {
-            "text": "And besides――more than that.",
             "choice_data_list": [
                 "I could see how much you cared about it",
                 "I could see how much you cared about it"
-            ]
+            ],
+            "text": "And besides――more than that."
         },
         {
             "name": "Rhein Kraft",
@@ -201,10 +201,10 @@
             "text": "!"
         },
         {
-            "text": "How she kept working with the clay, with a purpose. \nUnwavering, determined. Silently forging ahead, just like……",
             "choice_data_list": [
                 "Just like a true craftsman, it was shocking"
-            ]
+            ],
+            "text": "How she kept working with the clay, with a purpose. \nUnwavering, determined. Silently forging ahead, just like……"
         },
         {
             "name": "Rhein Kraft",
@@ -215,12 +215,12 @@
             "text": "Shocking……"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "I see……shocking, huh……ehehee.",
             "choice_data_list": [
                 "You were really cool",
                 "You were really cool"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "I see……shocking, huh……ehehee."
         },
         {
             "name": "Rhein Kraft",

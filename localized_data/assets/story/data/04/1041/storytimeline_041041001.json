@@ -5,11 +5,11 @@
             "text": "It was another beautiful day. I was on my way to the trainer's \noffice in a good mood when—"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Move it, move it, move it pleaaaseee!",
             "choice_data_list": [
                 "!?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Move it, move it, move it pleaaaseee!"
         },
         {
             "text": "(Dashdashdashdashdash!!)"
@@ -21,11 +21,11 @@
             "text": "The trainee who had been running at a tremendous pace — Sakura \nBakushin O — came to a stop right in front of me."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Phew, emergency stop — success!! \nSwift decisions, immediate action, that's me!",
             "choice_data_list": [
                 "Y-You gave me a moment there…"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Phew, emergency stop — success!! \nSwift decisions, immediate action, that's me!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -84,12 +84,12 @@
             "text": "(Knock knock! Slide!)"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Excuse me! A pleasure to meet you! \nI'm Sakura Bakushin O, class president!",
             "choice_data_list": [
                 "It was \"a pleasure to meet you\" a while ago…",
                 "It was \"a pleasure to meet you\" earlier…"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Excuse me! A pleasure to meet you! \nI'm Sakura Bakushin O, class president!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -107,11 +107,11 @@
             "text": "…I conveyed to this out of control girl that \nI was the trainer from this morning."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Now that you mention it, I've seen your face before!?",
             "choice_data_list": [
                 "I'm glad you remembered."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Now that you mention it, I've seen your face before!?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -133,22 +133,22 @@
             "text": "Sakura Bakushin O handed me a document. Skimming \nthrough, I found that it contained information on \nthe Selection Race to be held this weekend."
         },
         {
-            "text": "Incidentally, I noticed the name \"Sakura \nBakushin O\" on the race entrants list…",
             "choice_data_list": [
                 "Thank you."
-            ]
+            ],
+            "text": "Incidentally, I noticed the name \"Sakura \nBakushin O\" on the race entrants list…"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Yessir! You're welcome! \nLeave it to my class president skills!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Now then, next I need to… report to the teacher, change the \nwater in the vases, put up the new class news poster, \ninspect the training course—",
             "choice_data_list": [
                 "A busy day, it sounds like.",
                 "A busy day, it sounds like."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Now then, next I need to… report to the teacher, change the \nwater in the vases, put up the new class news poster, \ninspect the training course—"
         },
         {
             "name": "Sakura Bakushin O",
@@ -171,11 +171,11 @@
             "text": "And a turning point came when I was in first grade!!!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "What do you think it was? I'll give you a hint: it starts with a \n\"c\", has an \"pre\" in the middle, and a \"t\" at the end!",
             "choice_data_list": [
                 "You were elected class president…?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "What do you think it was? I'll give you a hint: it starts with a \n\"c\", has an \"pre\" in the middle, and a \"t\" at the end!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -202,11 +202,11 @@
             "text": "I am the class president!! \nAnd the class president is me!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Me, a child prodigy full of excellence and divine speed, \nborn into this world to guide everyone down the right path \nas class president!",
             "choice_data_list": [
                 "(Yeah…)"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Me, a child prodigy full of excellence and divine speed, \nborn into this world to guide everyone down the right path \nas class president!"
         },
         {
             "name": "Sakura Bakushin O",

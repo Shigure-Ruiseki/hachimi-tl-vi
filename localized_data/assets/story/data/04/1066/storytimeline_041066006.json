@@ -16,10 +16,10 @@
             "text": "As training progressed, I had more things to \nthink about. Maybe because of that, I haven't \nbeen able to sleep well lately."
         },
         {
-            "text": "I was thinking to at least take it easy on my day off, \nbut when I look at Twin Turbo happy face \nI couldn't bring myself to say no.",
             "choice_data_list": [
                 "All right, let's go!"
-            ]
+            ],
+            "text": "I was thinking to at least take it easy on my day off, \nbut when I look at Twin Turbo happy face \nI couldn't bring myself to say no."
         },
         {
             "name": "Twin Turbo",
@@ -38,17 +38,17 @@
             "text": "Ahahahaha!! The jet coaster is fast, and the ghost \nwas surprised when they see Turbo!!"
         },
         {
-            "name": "Twin Turbo",
-            "text": "The Coffee cup was spinning around make me dizzy! \nTrainer almost jumped out of the cup was so funny!",
             "choice_data_list": [
                 "We already visit most of the attraction……"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "The Coffee cup was spinning around make me dizzy! \nTrainer almost jumped out of the cup was so funny!"
         },
         {
-            "text": "It's almost the time. If the road is crowded, we \nmight barely pass the curfew.",
             "choice_data_list": [
                 "shall we go home soon"
-            ]
+            ],
+            "text": "It's almost the time. If the road is crowded, we \nmight barely pass the curfew."
         },
         {
             "name": "Twin Turbo",
@@ -59,11 +59,11 @@
             "text": "Look Trainer! That way! \nThere is boat over there, and there is game corner next to it!!"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Hey, let's go, let's go…",
             "choice_data_list": [
                 "There is curfew"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Hey, let's go, let's go…"
         },
         {
             "name": "Twin Turbo",
@@ -73,11 +73,11 @@
             "text": "When I look at the direction where Twin Turbo is \npointing I can see the text \"Giant Maze\". \nIt look like we are going to walk for a while……"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Turbo is a genius, so I can reach the goal quickly!! \nTrainer just have to follow after Turbo.",
             "choice_data_list": [
                 "……Okay, let's go!"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Turbo is a genius, so I can reach the goal quickly!! \nTrainer just have to follow after Turbo."
         },
         {
             "name": "Twin Turbo",
@@ -97,10 +97,10 @@
             "text": "Another dead end!? Why!? Where am I!? Trainer! \nWhere is Trainer!? Did I get lost!?"
         },
         {
-            "text": "As I was waiting on the bench, I heard Twin Turbo's \nvoice coming from inside the maze.",
             "choice_data_list": [
                 "I'm waiting at the goal!"
-            ]
+            ],
+            "text": "As I was waiting on the bench, I heard Twin Turbo's \nvoice coming from inside the maze."
         },
         {
             "name": "Twin Turbo",
@@ -114,11 +114,11 @@
             "text": "The distant sound of twin turbo voices and the \nrustling of the wind. For some reason feel very \ncomfortable. I closed my eyes and―"
         },
         {
-            "name": "Twin Turbo",
-            "text": "I'm out!! As expected Turbo is genius!! Ehehehe! \nTrainer, Trainer! Look I reach the goal―",
             "choice_data_list": [
                 "…………"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "I'm out!! As expected Turbo is genius!! Ehehehe! \nTrainer, Trainer! Look I reach the goal―"
         },
         {
             "name": "Twin Turbo",
@@ -129,39 +129,39 @@
             "text": "……Hah? Trainer, are you angry!? \nIs it because Turbo is late!?"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Trai… ner? Ah you are sleeping! You scared me! \nWake up! Turbo reach the goal! Trainer!",
             "choice_data_list": [
                 "Huh? ……Oh, welcome back"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Trai… ner? Ah you are sleeping! You scared me! \nWake up! Turbo reach the goal! Trainer!"
         },
         {
             "text": "I fell asleep while waiting. \nI haven't slept this well in a long time."
         },
         {
-            "text": "I shake my sleepy head and then exhale deeply. \nMy neck hurts a little from sleeping sitting up, \nbut I feel good.",
             "choice_data_list": [
                 "You reach the goal",
                 "So, you reach the goal"
-            ]
+            ],
+            "text": "I shake my sleepy head and then exhale deeply. \nMy neck hurts a little from sleeping sitting up, \nbut I feel good."
         },
         {
             "name": "Twin Turbo",
             "text": "I did!! I made it without using the \"ruthless\" \ntechnique!! I didn't give up because Turbo is \namazing! That was fun!"
         },
         {
-            "name": "Twin Turbo",
-            "text": "But, Trainer doesn't speak, I thought you are angry \nbecause it was already pitch black outside!",
             "choice_data_list": [
                 "I'm not angry"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "But, Trainer doesn't speak, I thought you are angry \nbecause it was already pitch black outside!"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Eh?",
             "choice_data_list": [
                 "Rather, thank you"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Eh?"
         },
         {
             "text": "While listening to Twin Turbo's frantic but joyful \nvoice in the distance. The sound of the leaves \nand the breeze made for a very pleasant time."
@@ -170,10 +170,10 @@
             "text": "And just like now. Listening to Twin Turbo who \nis happily talking about reaching the goal, \nIt always brightens my mood."
         },
         {
-            "text": "Ignoring her reaction, I just say thank you at \nher directly. Twin Turbo make a confused face, \nthat look on her face make me laugh again.",
             "choice_data_list": [
                 "Now for sure, let's go home"
-            ]
+            ],
+            "text": "Ignoring her reaction, I just say thank you at \nher directly. Twin Turbo make a confused face, \nthat look on her face make me laugh again."
         },
         {
             "name": "Twin Turbo",
@@ -194,12 +194,12 @@
             "text": "\"thank you\""
         },
         {
-            "name": "Twin Turbo",
-            "text": "………",
             "choice_data_list": [
                 "Turbo? We are going home!",
                 "Turbo? Let's go home!"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "………"
         },
         {
             "name": "Twin Turbo",

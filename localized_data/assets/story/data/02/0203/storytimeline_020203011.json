@@ -1,27 +1,26 @@
 {
-    "title": "A 『Genius』 Appears……!?",
     "no_wrap": true,
     "text_block_list": [
         {},
         {
-            "name": "Rhein Kraft",
-            "text": "……！ \n————…………",
             "choice_data_list": [
                 "Kraft? ……Still not heading back?",
                 "Kraft? ……Still not heading back?"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "……！ \n————…………"
         },
         {
             "name": "Rhein Kraft",
             "text": "Wah, Trainer-san! \n……No, I was just about to leave."
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Thanks again for the training today. \nI'm looking forward to tomorrow too!",
             "choice_data_list": [
                 "Yeah. See you tomorrow",
                 "Yeah. See you tomorrow"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Thanks again for the training today. \nI'm looking forward to tomorrow too!"
         },
         {
             "name": "Rhein Kraft",
@@ -60,18 +59,18 @@
             "text": "One, two, threeeeee……! Huu, allll～right……!"
         },
         {
-            "text": "……Alright, it's about time to start training. \nTeam <Ascella>, let's begin!",
             "choice_data_list": [
                 "King, how about roll call?",
                 "King, how about roll call?"
-            ]
+            ],
+            "text": "……Alright, it's about time to start training. \nTeam <Ascella>, let's begin!"
         },
         {
-            "text": "……Alright, it's about time to start training. \nTeam <Ascella>, let's begin!",
             "choice_data_list": [
                 "King, how about roll call?",
                 "King, how about roll call?"
-            ]
+            ],
+            "text": "……Alright, it's about time to start training. \nTeam <Ascella>, let's begin!"
         },
         {
             "name": "King Halo",
@@ -90,12 +89,12 @@
             "text": "Rhein Kraft, ready to go! \nMotivated, and fully charged."
         },
         {
-            "name": "???",
-            "text": "Yeaah～! \nMe too～, fully charged～～～☆",
             "choice_data_list": [
                 "Alright, if everyone's……hm?",
                 "Alright, if everyone's……hm?"
-            ]
+            ],
+            "name": "???",
+            "text": "Yeaah～! \nMe too～, fully charged～～～☆"
         },
         {
             "name": "King Halo",
@@ -182,12 +181,12 @@
             "text": "Glad to be here with you!! \nEspecially～……Ku-chan-senpai♡"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Ah, eh, Pandora-san……!? \nWait, senpai!? ……Eeeeeeh!?",
             "choice_data_list": [
                 "Kraft, do you know her……?",
                 "Kraft, do you know her……?"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Ah, eh, Pandora-san……!? \nWait, senpai!? ……Eeeeeeh!?"
         },
         {
             "name": "Rhein Kraft",
@@ -202,11 +201,11 @@
             "text": "Pyaa!?"
         },
         {
-            "name": "Team Trainer",
-            "text": "I'm really sorry about that, Team <Ascella>. \nThat……our Fusaichi Pandora was causing trouble.",
             "choice_data_list": [
                 "N-no, it's fine……"
-            ]
+            ],
+            "name": "Team Trainer",
+            "text": "I'm really sorry about that, Team <Ascella>. \nThat……our Fusaichi Pandora was causing trouble."
         },
         {
             "text": "But, I see. Fusaichi Pandora transferring to our team \nwas already something you all came to an agreement on."
@@ -239,5 +238,6 @@
             "name": "Rhein Kraft",
             "text": "! M-me……?"
         }
-    ]
+    ],
+    "title": "A 『Genius』 Appears……!?"
 }

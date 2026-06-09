@@ -2,20 +2,20 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Yo Tray-chan! What's up? \nLooking for info from me?",
-            "name": "Transcend"
+            "name": "Transcend",
+            "text": "Yo Tray-chan! What's up? \nLooking for info from me?"
         },
         {
-            "text": "Tell me, what do you wanna know? \nThe latest gadgets? Exam hints? \nLocations of the council members?",
-            "name": "Transcend"
+            "name": "Transcend",
+            "text": "Tell me, what do you wanna know? \nThe latest gadgets? Exam hints? \nLocations of the council members?"
         },
         {
-            "text": "Or perhaps... \nInfo on a girl that caught your interest?",
-            "name": "Transcend"
+            "name": "Transcend",
+            "text": "Or perhaps... \nInfo on a girl that caught your interest?"
         },
         {
-            "text": "I'm only half kidding! Strategy, how they \ntrain, their next races, even weaknesses. \nHehe, I can tell you want some.",
-            "name": "Transcend"
+            "name": "Transcend",
+            "text": "I'm only half kidding! Strategy, how they \ntrain, their next races, even weaknesses. \nHehe, I can tell you want some."
         }
     ]
 }

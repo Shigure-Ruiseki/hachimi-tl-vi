@@ -1,5 +1,4 @@
 {
-    "title": "In Footsteps Follow",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -249,5 +248,6 @@
             "name": "Kawakami Princess",
             "text": "Ehehe… I'll treasure this ribbon filled with \nMadam King's feelings… forever……!"
         }
-    ]
+    ],
+    "title": "In Footsteps Follow"
 }

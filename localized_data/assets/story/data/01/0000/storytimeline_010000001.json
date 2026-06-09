@@ -17,8 +17,6 @@
             "text": "Now then, allow me to introduce myself."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "I'm Tazuna Hayakawa, secretary to the\ndirector, and I'll be your tour guide\ntoday!",
             "choice_data_list": [
                 "Thank you for bringing me on board."
             ],
@@ -26,7 +24,9 @@
                 "★★★",
                 "Hayakawa",
                 "Tazuna"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "I'm Tazuna Hayakawa, secretary to the\ndirector, and I'll be your tour guide\ntoday!"
         },
         {
             "name": "Tazuna Hayakawa",

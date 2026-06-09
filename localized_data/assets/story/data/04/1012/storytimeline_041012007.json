@@ -12,12 +12,12 @@
             "text": "… No matter how long I waited, she didn't return. \nThe blues of the sea were giving way to the reds \nof evening when, at last……"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "<i>Hooh… haah… wooh… haaah</i>…… I'm back, T! \nI finally did it!",
             "choice_data_list": [
                 "I was getting worried, y'know? \nWhat were you doing?",
                 "I was getting worried, y'know? \nWhat were you doing?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "<i>Hooh… haah… wooh… haaah</i>…… I'm back, T! \nI finally did it!"
         },
         {
             "name": "Hishi Amazon",
@@ -62,11 +62,11 @@
             "text": "Hmm, that sure's a bummer, yeah. I can't just overlook \nsomeone in trouble. Though, I'd love to lend a hand in \ngathering people, but…"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "If they're all that shy, then inviting them won't help. \nYou have any good ideas, Big T?",
             "choice_data_list": [
                 "We could ask the others here on camp?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "If they're all that shy, then inviting them won't help. \nYou have any good ideas, Big T?"
         },
         {
             "name": "Hishi Amazon",
@@ -84,12 +84,12 @@
             "text": "All the trainees singing and dancing, full of summer passion, \nmade the karaoke competition an exciting event to be part of."
         },
         {
-            "name": "Hishi Amazon",
-            "text": "You girls aren't bad at all, huh. But the best is yet to come! \nThanks for firing up the crowd for me! Victory will be mine!",
             "choice_data_list": [
                 "Full of confidence, aren't you?",
                 "Full of confidence, aren't you?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "You girls aren't bad at all, huh. But the best is yet to come! \nThanks for firing up the crowd for me! Victory will be mine!"
         },
         {
             "name": "Hishi Amazon",
@@ -132,35 +132,35 @@
             "text": "What am I supposed to do? This isn't even just a matter of good \nor bad anymore! I need to come up with something…"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Uugh, but thinking about how to do things is what \nI'm worst at… You got anything, Big T?",
             "choice_data_list": [
                 "An eye for an eye, as they say!"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "Uugh, but thinking about how to do things is what \nI'm worst at… You got anything, Big T?"
         },
         {
             "name": "Hishi Amazon",
             "text": "Huh? What are you… An eye for an eye, a tooth for a tooth? \nWhat, and a duet for a duet……?"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Oh, that's exactly it! If I just sing a duet too, we'll even \nthe playing field… I need to find a good partner then!",
             "choice_data_list": [
                 "Wanna try finding someone from your dorm?",
                 "Wanna try finding someone from your dorm?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "Oh, that's exactly it! If I just sing a duet too, we'll even \nthe playing field… I need to find a good partner then!"
         },
         {
             "name": "Hishi Amazon",
             "text": "Sure, that works. Pairing up with someone with live concert \nexperience would be a safe bet. Only……"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "I think I want to try something different. Follow my intuition! \nI already have a partner for a duet. Right, Big T?",
             "choice_data_list": [
                 "Wha—? Me?!",
                 "Huh? Me?!"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "I think I want to try something different. Follow my intuition! \nI already have a partner for a duet. Right, Big T?"
         },
         {
             "name": "Hishi Amazon",
@@ -183,11 +183,11 @@
             "text": "I want it to be both a duet and a duel! \nTo have an exciting battle in song…!"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "You're the only one who can partner with me for this! \nDon't you wanna give it a go? Singing together? \nYou know my songs!",
             "choice_data_list": [
                 "—— Alright then, let's do it!"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "You're the only one who can partner with me for this! \nDon't you wanna give it a go? Singing together? \nYou know my songs!"
         },
         {
             "name": "Hishi Amazon",
@@ -210,11 +210,11 @@
             "text": "Come on, let's toast to our victory! Hahah, you surprised me \nwith your singing skills, Big T!"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "We really let it all out competing for the summer spotlight! \nMaybe it's because of that passion that we won?",
             "choice_data_list": [
                 "Couldn't we have sung <i>with </i>each other?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "We really let it all out competing for the summer spotlight! \nMaybe it's because of that passion that we won?"
         },
         {
             "name": "Hishi Amazon",
@@ -233,11 +233,11 @@
             "text": "So don't question it, Big T. Just keep running alongside me. \nThe two of us will be going head to head the whole way!"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Clashing, trading blows, coming out on top somehow and having \na laugh. Don't you wanna join me? Enjoy the ride a little?",
             "choice_data_list": [
                 "Oh, I'll join the ride! I'll have a season pass!"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "Clashing, trading blows, coming out on top somehow and having \na laugh. Don't you wanna join me? Enjoy the ride a little?"
         },
         {
             "name": "Hishi Amazon",

@@ -30,21 +30,21 @@
             "text": "Oeeeeee… T-Trainer…! \nTurbo can… still… run… oehhh!"
         },
         {
-            "text": "While look like a flattened dog… \nTwin Turbo desperately speaking while still facing the ground.",
             "choice_data_list": [
                 "Shall we end here for today?"
-            ]
+            ],
+            "text": "While look like a flattened dog… \nTwin Turbo desperately speaking while still facing the ground."
         },
         {
             "name": "Twin Turbo",
             "text": "Not yet, just this much, Turbo can still…! ! \nThe next one… I'm going to surpass the time!"
         },
         {
-            "name": "Twin Turbo",
-            "text": "One more time… Engine, mo… ve ughhh……",
             "choice_data_list": [
                 "Should I carry you"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "One more time… Engine, mo… ve ughhh……"
         },
         {
             "name": "Twin Turbo",
@@ -62,18 +62,18 @@
             "text": "Haah, haah… haaa…"
         },
         {
-            "name": "Twin Turbo",
-            "text": "T-Turbo will run much more than yesterday…! \nToday's turbo is better than yesterday! !",
             "choice_data_list": [
                 "Okay, do your best!"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "T-Turbo will run much more than yesterday…! \nToday's turbo is better than yesterday! !"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Haah,hah… Yes!! \n…eh?",
             "choice_data_list": [
                 "What's wrong?"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Haah,hah… Yes!! \n…eh?"
         },
         {
             "name": "Twin Turbo",
@@ -87,10 +87,10 @@
             "text": "… And just like that she always run until she \nrun out of energy, because of that the schedule \nbecome messed up."
         },
         {
-            "text": "The paperwork was running far behind schedule. \nThe work continued until midnight, and fatigue \nwas setting in.",
             "choice_data_list": [
                 "……fun"
-            ]
+            ],
+            "text": "The paperwork was running far behind schedule. \nThe work continued until midnight, and fatigue \nwas setting in."
         },
         {
             "text": "From other perspective it look like I was just \ngetting pushed around, and while that's true…"
@@ -105,10 +105,10 @@
             "text": "As long as possible… No, I want Twin Turbo to \nkeep running. Running in the way that she enjoy \nthe most, forever."
         },
         {
-            "text": "But still, it's fun even though it's painful… \nI think while crossing my arm.",
             "choice_data_list": [
                 "…I wonder if we start to become similar."
-            ]
+            ],
+            "text": "But still, it's fun even though it's painful… \nI think while crossing my arm."
         },
         {
             "text": "I wonder if it possible for Trainer to become \nsimilar to the Horse girl they are in charge of. \nThere is no way, I thought, but―"
@@ -125,11 +125,11 @@
             "text": "And just like that I continue watching Twin Turbo running \nwithout brake day after day. No matter how many time \nthe schedule has change and no matter how tired I become."
         },
         {
-            "name": "Twin Turbo",
-            "text": "Kyuuuuuuh……",
             "choice_data_list": [
                 "Is it time to stop?"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Kyuuuuuuh……"
         },
         {
             "name": "Twin Turbo",

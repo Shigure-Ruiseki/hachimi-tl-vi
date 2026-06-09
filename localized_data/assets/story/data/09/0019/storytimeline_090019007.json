@@ -1,5 +1,4 @@
 {
-    "title": "The Threading",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -193,5 +192,6 @@
             "name": "Mejiro Ardan",
             "text": "Thy dreams in florescence. Now and ever after, may thou find \npeace and glory on the path untraveled."
         }
-    ]
+    ],
+    "title": "The Threading"
 }

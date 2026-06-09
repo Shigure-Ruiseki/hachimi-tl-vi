@@ -33,11 +33,11 @@
             "text": "Why's that? Even with just one machine it should be plenty of fun!"
         },
         {
-            "name": "Both",
-            "text": "……Huh?",
             "choice_data_list": [
                 "H-How……?"
-            ]
+            ],
+            "name": "Both",
+            "text": "……Huh?"
         },
         {
             "name": "Sakura Laurel",
@@ -55,12 +55,12 @@
             "text": "With her positive attitude and flexible thinking……I couldn't \nhelp but agree. To help with her idea, right now I should――"
         },
         {
-            "name": "Student Council Uma Musume B",
-            "text": "B-but will everyone agree with that……?",
             "choice_data_list": [
                 "I can help with that! Let's do it!",
                 "I can help with that! Let's do it!"
-            ]
+            ],
+            "name": "Student Council Uma Musume B",
+            "text": "B-but will everyone agree with that……?"
         },
         {
             "name": "Sakura Laurel",
@@ -71,18 +71,18 @@
             "text": "See? It'll be fine! \nLet's make this a great event!"
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "Eeeh, there's only one machine!?",
             "choice_data_list": [
                 "That's why we're doing record keeping!"
-            ]
+            ],
+            "name": "Mid-rank Trainer A",
+            "text": "Eeeh, there's only one machine!?"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "I see……but, the girl I'm responsible for hasn't debuted yet, \nso to make her compete against already experienced girls is……",
             "choice_data_list": [
                 "We're going to divide it based on grade!"
-            ]
+            ],
+            "name": "Rookie Trainer A",
+            "text": "I see……but, the girl I'm responsible for hasn't debuted yet, \nso to make her compete against already experienced girls is……"
         },
         {
             "name": "Trainers",
@@ -123,31 +123,31 @@
             "text": "O-……Okay! \nThe student council will consider it!"
         },
         {
-            "text": "The event was a great success. Everyone seemed \nto be able to get valuable data, a few of the \ntrainers thanked me for this opportunity too.",
             "choice_data_list": [
                 "(This was because of Laurel's positivity……)",
                 "(This was because of Laurel's positivity……)"
-            ]
+            ],
+            "text": "The event was a great success. Everyone seemed \nto be able to get valuable data, a few of the \ntrainers thanked me for this opportunity too."
         },
         {
             "name": "Sakura Laurel",
             "text": "Looks like it'll all wrap up without issue, Trainer-san! \nThank you very much for helping arrange things……!"
         },
         {
-            "name": "Sakura Laurel",
-            "text": "And, I'm sorry! \nFor acting on my own and causing trouble for you.",
             "choice_data_list": [
                 "No, I'm glad I could help you",
                 "No, I'm glad I could help you"
-            ]
+            ],
+            "name": "Sakura Laurel",
+            "text": "And, I'm sorry! \nFor acting on my own and causing trouble for you."
         },
         {
-            "name": "Sakura Laurel",
-            "text": "Of course! \nBecause Trainer-san worked so hard, everything went well!",
             "choice_data_list": [
                 "It's because of your positive attitude",
                 "It's because of your positive attitude"
-            ]
+            ],
+            "name": "Sakura Laurel",
+            "text": "Of course! \nBecause Trainer-san worked so hard, everything went well!"
         },
         {
             "name": "Sakura Laurel",

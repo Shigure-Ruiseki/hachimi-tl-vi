@@ -67,20 +67,20 @@
             "text": "Kuu……！ Come, onnnnn！！"
         },
         {
-            "name": "Purple Scrunchie Uma Musume",
-            "text": "Guuuuuuu……！ \nNot yet……not yet, not yet, not yeeeeeeeeeet！！",
             "choice_data_list": [
                 "……！"
-            ]
+            ],
+            "name": "Purple Scrunchie Uma Musume",
+            "text": "Guuuuuuu……！ \nNot yet……not yet, not yet, not yeeeeeeeeeet！！"
         },
         {
             "text": "Surprisingly, it looked like Inari One was being overwhelmed！ \nWith 200m left, at this rate……！"
         },
         {
-            "text": "The moment I thought that――",
             "choice_data_list": [
                 "Inari One！ Goooooooooー！！"
-            ]
+            ],
+            "text": "The moment I thought that――"
         },
         {
             "name": "Inari One",
@@ -169,27 +169,27 @@
             "text": "Hey hey hey hey. I'm comin' in！！"
         },
         {
-            "name": "Inari One",
-            "text": "A workin' class girl, from a workin' class town！！ \nAnd now a student at Tracen Academy, the Edo \nKid, Inari, refers to me！！……ya see！？",
             "choice_data_list": [
                 "Inari One……！ I was waiting for you！！"
-            ]
+            ],
+            "name": "Inari One",
+            "text": "A workin' class girl, from a workin' class town！！ \nAnd now a student at Tracen Academy, the Edo \nKid, Inari, refers to me！！……ya see！？"
         },
         {
-            "name": "Inari One",
-            "text": "Just Inari is fine, let's keep it casual. Since, from now on, \nwe're gonna be on the same long～road together. Right, Boss！？",
             "choice_data_list": [
                 "Yeah！ We'll take on the world, Inari！",
                 "Yeah！ We'll take on the world, Inari！"
-            ]
+            ],
+            "name": "Inari One",
+            "text": "Just Inari is fine, let's keep it casual. Since, from now on, \nwe're gonna be on the same long～road together. Right, Boss！？"
         },
         {
-            "name": "Inari One",
-            "text": "Just Inari is fine, let's keep it casual. Since, from now on, \nwe're gonna be on the same long～road together. Right, Boss！？",
             "choice_data_list": [
                 "Yeah！ We'll take on the world, Inari！",
                 "Yeah！ We'll take on the world, Inari！"
-            ]
+            ],
+            "name": "Inari One",
+            "text": "Just Inari is fine, let's keep it casual. Since, from now on, \nwe're gonna be on the same long～road together. Right, Boss！？"
         },
         {
             "name": "Inari One",

@@ -16,18 +16,18 @@
             "text": "If it was a \"Trainer\", we all could. Just like I did on that \nnight, any trainer could ask the night staff for a key."
         },
         {
-            "text": "Maybe, on that night, Neo Universe was……",
             "choice_data_list": [
                 "Were you with a different trainer?",
                 "Were you with a different trainer?"
-            ]
+            ],
+            "text": "Maybe, on that night, Neo Universe was……"
         },
         {
-            "name": "Neo Universe",
-            "text": "…………………… \n――Recalling.",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "…………………… \n――Recalling."
         },
         {
             "name": "Neo Universe",
@@ -70,20 +70,20 @@
             "text": "I'm sorry, really. I can't become your \ntrainer but, I still pray for your success."
         },
         {
-            "text": "To summarize what happened with Neo Universe, another \ntrainer had called her here to refuse her contract. However……",
             "choice_data_list": [
                 "Then, what was that \"UFO sound\"……?"
-            ]
+            ],
+            "text": "To summarize what happened with Neo Universe, another \ntrainer had called her here to refuse her contract. However……"
         },
         {
             "text": "That mysterious sound that came from the rooftop. \nJust what was that sound?"
         },
         {
-            "name": "Neo Universe",
-            "text": "That 『UFO』……sound…… \nMaybe, it was……this……?",
             "choice_data_list": [
                 "That sound……?"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "That 『UFO』……sound…… \nMaybe, it was……this……?"
         },
         {
             "name": "Neo Universe",
@@ -115,11 +115,11 @@
             "text": "Neo Universe was not some mysterious lifeform. She was \nan Uma Musume that sought to connect with others by \nrunning, aiming for something beyond that. But she……"
         },
         {
-            "text": "Was cut off at the first hurdle, just because \nit was too hard to communicate. That was probably \nthe kind of unfortunate Uma Musume she was……",
             "choice_data_list": [
                 "You \"Seek\" a \"Connection\", right?",
                 "You \"Seek\" a \"Connection\", right?"
-            ]
+            ],
+            "text": "Was cut off at the first hurdle, just because \nit was too hard to communicate. That was probably \nthe kind of unfortunate Uma Musume she was……"
         },
         {
             "name": "Neo Universe",
@@ -133,19 +133,19 @@
             "text": "I don't know what lies in store for this girl as she \ncontinues forward. Would she find meaning? However――"
         },
         {
-            "text": "She desired to reach out. Just that alone was enough. \nWith just that, she would create that \"connection\".",
             "choice_data_list": [
                 "Will……you let me help you?",
                 "Will……you let me help you?"
-            ]
+            ],
+            "text": "She desired to reach out. Just that alone was enough. \nWith just that, she would create that \"connection\"."
         },
         {
-            "name": "Neo Universe",
-            "text": "Help……?",
             "choice_data_list": [
                 "Yeah, just like this",
                 "Yeah, just like this"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "Help……?"
         },
         {
             "text": "I held my hand out infront of me. I was sure it was a hand \nsign common to all countries, no, the entire universe……"
@@ -159,11 +159,11 @@
             "text": "A Copernican……Revolution…… \nThe \"ASEM\" becomes \"LAMD\"……Becoming the light……"
         },
         {
-            "name": "Neo Universe",
-            "text": "……Sufira. It's very……Sufira, isn't it?",
             "choice_data_list": [
                 "……Sufira?"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "……Sufira. It's very……Sufira, isn't it?"
         },
         {
             "name": "Neo Universe",
@@ -183,12 +183,12 @@
             "text": "Huuu……!!"
         },
         {
-            "name": "Neo Universe",
-            "text": "Trainer, Neo Universe is 『Reporting In』. \nFrom ignition……it's a \"Rising Curve\".",
             "choice_data_list": [
                 "Yeah, you're doing great!",
                 "Yeah, you're doing great!"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "Trainer, Neo Universe is 『Reporting In』. \nFrom ignition……it's a \"Rising Curve\"."
         },
         {
             "name": "Trainee A",
@@ -209,11 +209,11 @@
             "text": "Good work! Trainer-san, Uni……-san?"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Huh? Weren't you with Uni-san just now? \nI could have sworn she was just here……",
             "choice_data_list": [
                 "――!?"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "Huh? Weren't you with Uni-san just now? \nI could have sworn she was just here……"
         },
         {
             "text": "We should have been together…… But, Neo Universe \nwas nowhere in sight…… Maybe we couldn't rule out \nthat she was a mysterious lifeform after all……"

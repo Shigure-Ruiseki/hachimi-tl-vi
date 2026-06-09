@@ -61,12 +61,12 @@
             "text": "Hmm? Is this… a picture of me? From when \nI introduced Maruzensky to Grass Wonder…?"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "This is… your way of presenting your answer?",
             "choice_data_list": [
                 "This is the future I want to see.",
                 "This is the future I want to see."
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "This is… your way of presenting your answer?"
         },
         {
             "name": "Symboli Rudolf",
@@ -98,12 +98,12 @@
             "text": "With a faint sense of reluctance, the two trainers departed."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "They were truly exceptional trainers… Any trainee working \nwith them would surely have a wonderful experience.",
             "choice_data_list": [
                 "So why did you choose me…?",
                 "So why did you choose me…?"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "They were truly exceptional trainers… Any trainee working \nwith them would surely have a wonderful experience."
         },
         {
             "name": "Symboli Rudolf",
@@ -130,11 +130,11 @@
             "text": "—— I was happy, very happy."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Having someone who shares the same aspirations \nwarms my heart… more than I ever expected.",
             "choice_data_list": [
                 "I feel honored to be chosen."
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Having someone who shares the same aspirations \nwarms my heart… more than I ever expected."
         },
         {
             "name": "Symboli Rudolf",
@@ -161,11 +161,11 @@
             "text": "I've been occupied with school activities as student council \npresident for a while, but now the time has come."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Trainer, would you consider partnering with me?",
             "choice_data_list": [
                 "Most certainly!"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Trainer, would you consider partnering with me?"
         },
         {
             "name": "Symboli Rudolf",

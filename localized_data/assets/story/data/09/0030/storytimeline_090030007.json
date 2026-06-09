@@ -1,5 +1,4 @@
 {
-    "title": "In Footsteps Follow",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -177,5 +176,6 @@
             "name": "Kawakami Princess",
             "text": "(I'll carry them with me. The feelings you've poured \ninto this role, the commitment you've displayed, \nthe frustrations you've swallowed — all of it……!)"
         }
-    ]
+    ],
+    "title": "In Footsteps Follow"
 }

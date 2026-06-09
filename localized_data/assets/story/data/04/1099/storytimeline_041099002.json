@@ -25,44 +25,44 @@
             "text": "………… Aaah!?"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "Did you hear that!",
             "choice_data_list": [
                 "…… sorry"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "Did you hear that!"
         },
         {
             "name": "Hokko Tarumae",
             "text": "……ah!"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "No…… no! I think I had a gap too, but it's just that… can \nyou please don't tell anyone else about it?",
             "choice_data_list": [
                 "…… which one?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "No…… no! I think I had a gap too, but it's just that… can \nyou please don't tell anyone else about it?"
         },
         {
             "name": "Hokko Tarumae",
             "text": "I was reflecting on the fact that I was \nplaying pure cute in my calculations!"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "Yes, it's a trade secret, so to speak! Leakage of \ninformation is considered obstruction of business!",
             "choice_data_list": [
                 "Wow, okay, okay."
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "Yes, it's a trade secret, so to speak! Leakage of \ninformation is considered obstruction of business!"
         },
         {
             "name": "Hokko Tarumae",
             "text": "Please ……! \n…… haaaa～ ……"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "…… Oh, you…… are the one who came to the street show \nthe other day, right?",
             "choice_data_list": [
                 "you remember?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "…… Oh, you…… are the one who came to the street show \nthe other day, right?"
         },
         {
             "name": "Hokko Tarumae",
@@ -171,12 +171,12 @@
             "text": "I don't know why, but the more I run, the more I feel like \nI'm getting worse and worse……"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "…… ugh ……! I'm not going to lose!",
             "choice_data_list": [
                 "(…… are you okay?)",
                 "(…… Is she okay?)"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "…… ugh ……! I'm not going to lose!"
         },
         {
             "text": "Even from the sidelines, I can tell that she is straining \nherself. Is there anything I can do to give them a break?"

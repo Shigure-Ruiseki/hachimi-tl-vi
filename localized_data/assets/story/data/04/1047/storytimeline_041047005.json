@@ -5,17 +5,17 @@
             "text": "It had been a while since I had become Zenno Rob Roy's trainer――"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Good work today too. \nI'm looking forward to tomorrow also.",
             "choice_data_list": [
                 "Good work……Ah"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "Good work today too. \nI'm looking forward to tomorrow also."
         },
         {
-            "text": "Thinking about it―― I reached for the documents sitting \non my desk. I had gathered these to use in future training.",
             "choice_data_list": [
                 "Read these when you get a chance"
-            ]
+            ],
+            "text": "Thinking about it―― I reached for the documents sitting \non my desk. I had gathered these to use in future training."
         },
         {
             "name": "Zenno Rob Roy",
@@ -30,19 +30,19 @@
             "text": "(There are so many books next to those documents…… they have book \ncovers on them but, if they're that thick, they must be some kind \nof technical training books)"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(I've seen them yawning in the morning, \nso they must be staying up late studying them……)",
             "choice_data_list": [
                 "Is something wrong?",
                 "Is something wrong?"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "(I've seen them yawning in the morning, \nso they must be staying up late studying them……)"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Eh? ……Ah, S-sorry! Um, well……",
             "choice_data_list": [
                 "If something's bothering you……"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "Eh? ……Ah, S-sorry! Um, well……"
         },
         {
             "name": "Zenno Rob Roy",

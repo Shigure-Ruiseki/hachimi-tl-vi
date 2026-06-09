@@ -2,12 +2,12 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Sakura Bakushin O",
-            "text": "Phew…",
             "choice_data_list": [
                 "What's the matter?",
                 "What's the matter?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Phew…"
         },
         {
             "name": "Sakura Bakushin O",
@@ -29,11 +29,11 @@
             "text": "Everyone in the audience will be \ninconsolable!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "There must be people who were born just \nto see this divine speed that wins every \nshort distance race by a huuuge margin.",
             "choice_data_list": [
                 "Sure…"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "There must be people who were born just \nto see this divine speed that wins every \nshort distance race by a huuuge margin."
         },
         {
             "name": "Sakura Bakushin O",

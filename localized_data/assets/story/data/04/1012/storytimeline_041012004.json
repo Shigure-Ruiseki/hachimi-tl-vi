@@ -186,12 +186,12 @@
             "text": "Hishi Amazon! I was thoroughly impressed by your strength \nand fighting spirit! Would you like to come train under me!?"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Ohh, I'm sorry, but in regards to that… I've already \nfound my partner. Right, Trainer?",
             "choice_data_list": [
                 "Who, me?! Are you sure…?!",
                 "Who, me?! Are you sure…?!"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "Ohh, I'm sorry, but in regards to that… I've already \nfound my partner. Right, Trainer?"
         },
         {
             "name": "Hishi Amazon",
@@ -202,12 +202,12 @@
             "text": "You better let me have a bunch more intense battles, Trainer! \n… Hmm, <i>Trainer</i> does sound a bit stuffy."
         },
         {
-            "name": "Hishi Amazon",
-            "text": "I know, how about I call ya <i>Big T </i>instead?",
             "choice_data_list": [
                 "Am I a rapper now? Or your bodyguard…?",
                 "Am I a rapper now? Or your bodyguard…?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "I know, how about I call ya <i>Big T </i>instead?"
         },
         {
             "name": "Hishi Amazon",

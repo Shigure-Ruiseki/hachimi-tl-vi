@@ -98,10 +98,10 @@
             "text": "I am not so soft that……something of \nthis degree would be enough to break me."
         },
         {
-            "text": "Tracen Academy Training Course. There were a \nlot of people in the spectator seats that day.",
             "choice_data_list": [
                 "There are so many people today……"
-            ]
+            ],
+            "text": "Tracen Academy Training Course. There were a \nlot of people in the spectator seats that day."
         },
         {
             "text": "But, it made sense. The race being held today was a highly \nanticipated match race. The main focus of attention was――"
@@ -135,12 +135,12 @@
             "text": "Now, would you entertain me? \nUse that effort to help me climb higher."
         },
         {
-            "name": "Verxina",
-            "text": "……No, you won't be climbing, you will fall. \n…………don't misunderstand that.",
             "choice_data_list": [
                 "(That's quite the conversation……)",
                 "(That's quite the conversation……)"
-            ]
+            ],
+            "name": "Verxina",
+            "text": "……No, you won't be climbing, you will fall. \n…………don't misunderstand that."
         },
         {
             "text": "Even though I didn't really know much about the relationship \nbetween the two of them, I could still feel the tension in \nthe air. Then those two got in to position――!"
@@ -161,21 +161,21 @@
             "text": "Both of them round the third corner maintaining the same \nposition. I wonder if they were conserving their stamina \nfor the second half. And then they entered the 4th corner――"
         },
         {
-            "name": "Verxina",
-            "text": "Here!!",
             "choice_data_list": [
                 "(……! Verxina is making her move!)"
-            ]
+            ],
+            "name": "Verxina",
+            "text": "Here!!"
         },
         {
             "text": "Verxina entered the spurt early. Would she \nstill have the stamina from this point? And \nthen the battle was decided in one moment……!"
         },
         {
-            "name": "Gentildonna",
-            "text": "Hmmmph!!!!!!!",
             "choice_data_list": [
                 "――!?"
-            ]
+            ],
+            "name": "Gentildonna",
+            "text": "Hmmmph!!!!!!!"
         },
         {
             "text": "――In that moment, a loud roaring filled my ears."
@@ -185,12 +185,12 @@
             "text": "!? In an instant, Gentil is beside her!?"
         },
         {
-            "name": "Veteran Trainer",
-            "text": "What strength……!? \nI had heard rumors but……now that I've seen it……!",
             "choice_data_list": [
                 "(What's with that acceleration……!?)",
                 "(What's with that acceleration……!?)"
-            ]
+            ],
+            "name": "Veteran Trainer",
+            "text": "What strength……!? \nI had heard rumors but……now that I've seen it……!"
         },
         {
             "name": "Verxina",
@@ -225,20 +225,20 @@
             "text": "……your challenge has no merit for me. A battle with a forgone \nconclusion is only abuse. I have no time for such a thing."
         },
         {
-            "name": "Verxina",
-            "text": "――……!",
             "choice_data_list": [
                 "(……Gentildonna)"
-            ]
+            ],
+            "name": "Verxina",
+            "text": "――……!"
         },
         {
             "text": "……The race from earlier came to mind."
         },
         {
-            "text": "In my mind, the sounds of the earth beneath her feet reverberated. \nThe dust flying in the air, the rush of the wind and――",
             "choice_data_list": [
                 "(It was an amazing sound!!)"
-            ]
+            ],
+            "text": "In my mind, the sounds of the earth beneath her feet reverberated. \nThe dust flying in the air, the rush of the wind and――"
         },
         {
             "text": "Just what was what? Just how powerful was \nher running!? My curiousity was overflowing \nand before I realized it, my legs were moving――!"

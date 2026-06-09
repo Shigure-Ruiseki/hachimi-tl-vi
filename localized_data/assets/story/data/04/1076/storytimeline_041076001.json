@@ -9,10 +9,10 @@
             "text": "Hmmmm, looks like today……I won't be able to see it."
         },
         {
-            "text": "She seemed to be looking in to the sky, looking for something. \nShe almost felt ephemeral, but she still left an impression――",
             "choice_data_list": [
                 "Excuse me……!"
-            ]
+            ],
+            "text": "She seemed to be looking in to the sky, looking for something. \nShe almost felt ephemeral, but she still left an impression――"
         },
         {
             "name": "Sakura Laurel",
@@ -23,11 +23,11 @@
             "text": "Ah, that badge…… You're a trainer, aren't you!? \nWe're always in your care♪"
         },
         {
-            "text": "In our care? Does that mean……?",
             "choice_data_list": [
                 "Do you already have a trainer?",
                 "Do you already have a trainer?"
-            ]
+            ],
+            "text": "In our care? Does that mean……?"
         },
         {
             "name": "Sakura Laurel",
@@ -137,11 +137,11 @@
             "text": "And from now on, to think she's going to get even \nstronger……she won't lose to anyone! Being able to \nrun like that, she's really amazing, isn't she?"
         },
         {
-            "text": "That was the gaze of someone that was star-struck. \nIt was almost like she was……",
             "choice_data_list": [
                 "You're……Narita Brian's fan?",
                 "You're……Narita Brian's fan?"
-            ]
+            ],
+            "text": "That was the gaze of someone that was star-struck. \nIt was almost like she was……"
         },
         {
             "text": "I couldn't help but ask. Was this Uma Musume who \ncouldn't run entrusting her dreams to Narita Brian?"

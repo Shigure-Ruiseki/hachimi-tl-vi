@@ -14,21 +14,21 @@
             "text": "Anyways, it's a good thing I was able \nto borrow one from the company today!"
         },
         {
-            "name": "Satono Crown",
-            "text": "――That's it! Because I was using a different computer \nfrom normal……! I typed the wrong number……? Aaaah, no \nmatter how I look at it, there's an extra zero……!",
             "choice_data_list": [
                 "Oh dear……!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "――That's it! Because I was using a different computer \nfrom normal……! I typed the wrong number……? Aaaah, no \nmatter how I look at it, there's an extra zero……!"
         },
         {
             "text": "It was hard to believe she'd make such a simple mistake. \nThis girl who was excellent at everything……"
         },
         {
-            "name": "Satono Crown",
-            "text": "Kuu……it happened again……",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "Kuu……it happened again……"
         },
         {
             "name": "Satono Crown",
@@ -101,11 +101,11 @@
             "text": "……! Didn't it? Definitely come take a look!"
         },
         {
-            "text": "The new project proceeded on quickly. \nFrom an outsider's perspective, her work was almost like magic……!",
             "choice_data_list": [
                 "Is there anything I can help with?",
                 "Is there anything I can help with?"
-            ]
+            ],
+            "text": "The new project proceeded on quickly. \nFrom an outsider's perspective, her work was almost like magic……!"
         },
         {
             "name": "Satono Crown",
@@ -116,27 +116,27 @@
             "text": "But that all ends tomorrow…… \nYeah, this time it's perfect……!"
         },
         {
-            "name": "Satono Crown",
-            "text": "The meeting tomorrow will definitely be a success! Thanks for \nyour help. Well then, we're finished for today. Good night.",
             "choice_data_list": [
                 "Right!",
                 "Right!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "The meeting tomorrow will definitely be a success! Thanks for \nyour help. Well then, we're finished for today. Good night."
         },
         {
-            "text": "Once again she was working late. This time it would be perfect. \nBut on the other hand, in regards to her training……",
             "choice_data_list": [
                 "(There just wasn't enough time……)"
-            ]
+            ],
+            "text": "Once again she was working late. This time it would be perfect. \nBut on the other hand, in regards to her training……"
         },
         {
             "text": "It was unlikely that she hadn't realized that. \nBut she still tried her best without complaint."
         },
         {
-            "text": "Her excellence and her dedication were the real deal. In that \ncase, times like these were when she would need support……",
             "choice_data_list": [
                 "(This is a trainer's role……!)"
-            ]
+            ],
+            "text": "Her excellence and her dedication were the real deal. In that \ncase, times like these were when she would need support……"
         },
         {
             "text": "――And then, the day of the meeting. The venue was packed……! \nBoth order-made and ready-made products sold like crazy."
@@ -150,12 +150,12 @@
             "text": "Sales are several times higher than projected! \nAs expected of the young lady."
         },
         {
-            "name": "Satono Crown",
-            "text": "It thanks to you for letting me take on that \nchallenge! ……Oh, it's just about time for a break, \nisn't it? I'm going to step away for a bit.",
             "choice_data_list": [
                 "Aah, wait, me too……!",
                 "Aah, wait, me too……!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "It thanks to you for letting me take on that \nchallenge! ……Oh, it's just about time for a break, \nisn't it? I'm going to step away for a bit."
         },
         {
             "name": "Satono Crown",
@@ -170,23 +170,23 @@
             "text": "…………"
         },
         {
-            "name": "Satono Crown",
-            "text": "Maybe……I was a bit naive. \nThat girl, she's putting everything in to it.",
             "choice_data_list": [
                 "Crown……!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "Maybe……I was a bit naive. \nThat girl, she's putting everything in to it."
         },
         {
             "name": "Satono Crown",
             "text": "Trainer……! Ahaha……Guess there's no point in whining about it, huh? \nNo problem……I'll definitely be able to turn things around."
         },
         {
-            "name": "Satono Crown",
-            "text": "There isn't much time, but I'll do everything that I can. \nAfter all, starting today I can focus solely on training……",
             "choice_data_list": [
                 "Then, use this!",
                 "Then, use this!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "There isn't much time, but I'll do everything that I can. \nAfter all, starting today I can focus solely on training……"
         },
         {
             "name": "Satono Crown",
@@ -210,11 +210,11 @@
             "text": "I'm surprised you researched this much…… \nWith something like this, I feel like it would work out……!"
         },
         {
-            "name": "Satono Crown",
-            "text": "How perceptive…… You're……pretty good, huh!?",
             "choice_data_list": [
                 "So you think this is worthwhile?"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "How perceptive…… You're……pretty good, huh!?"
         },
         {
             "name": "Satono Crown",

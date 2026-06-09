@@ -92,11 +92,11 @@
             "text": "A faint cry echoed in the evening glow of sunset. \nIn the end, the junior left with a smile on her face."
         },
         {
-            "name": "Fuji Kiseki",
-            "text": "It looks as if you've seen my secret. \nI know you're in there, aren't you? Trainer.",
             "choice_data_list": [
                 "I noticed."
-            ]
+            ],
+            "name": "Fuji Kiseki",
+            "text": "It looks as if you've seen my secret. \nI know you're in there, aren't you? Trainer."
         },
         {
             "name": "Fuji Kiseki",
@@ -111,21 +111,21 @@
             "text": "Entrust me with your dream \"as an Uma Musume\"――so she \nsaid."
         },
         {
-            "text": "――Speaking of which, Fuji Kiseki once told me that she gave \nup her dream of becoming an actor and chose racing…",
             "choice_data_list": [
                 "What's your dream, right now?",
                 "What's your dream, right now?"
-            ]
+            ],
+            "text": "――Speaking of which, Fuji Kiseki once told me that she gave \nup her dream of becoming an actor and chose racing…"
         },
         {
             "name": "Fuji Kiseki",
             "text": "My dream? That, of course, is to \"Make \"Miracles\" happen, \nand to entertain all.\"――"
         },
         {
-            "text": "But… as soon as she said that, Fuji Kiseki fell silent. \nA sort of thoughtful expression appeared on her face.",
             "choice_data_list": [
                 "…Are you alright?"
-            ]
+            ],
+            "text": "But… as soon as she said that, Fuji Kiseki fell silent. \nA sort of thoughtful expression appeared on her face."
         },
         {
             "name": "Fuji Kiseki",

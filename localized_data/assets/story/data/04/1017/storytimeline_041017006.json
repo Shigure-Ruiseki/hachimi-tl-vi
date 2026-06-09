@@ -5,11 +5,11 @@
             "text": "It was my day off, and I was heading to \ncatch a movie when suddenly ——"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Oh, Trainer! Are you here for \"The Dawn of Trainees: \nToward Untrodden Records\" as well?",
             "choice_data_list": [
                 "\"The Dawn of Trainees\"?"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Oh, Trainer! Are you here for \"The Dawn of Trainees: \nToward Untrodden Records\" as well?"
         },
         {
             "name": "Symboli Rudolf",
@@ -24,11 +24,11 @@
             "text": "While there's probably some dramatization, it beautifully \ncaptures the emotions of trainees as they compete."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "As a trainer, it should be a valuable reference to you. \nI'd recommend giving it a watch if you get the chance.",
             "choice_data_list": [
                 "Alright, why don't I watch it right now."
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "As a trainer, it should be a valuable reference to you. \nI'd recommend giving it a watch if you get the chance."
         },
         {
             "name": "Symboli Rudolf",
@@ -50,10 +50,10 @@
             "text": "Not everyone can achieve such a remarkable turnaround. \nBut the challenges they face are something we can all relate to."
         },
         {
-            "text": "Just as Symboli Rudolf had mentioned, it was \nan enlightening movie for me as a trainer.",
             "choice_data_list": [
                 "I learned a lot."
-            ]
+            ],
+            "text": "Just as Symboli Rudolf had mentioned, it was \nan enlightening movie for me as a trainer."
         },
         {
             "name": "Symboli Rudolf",
@@ -80,31 +80,31 @@
             "text": "… But, \"feel the butterflies\", was it? I guess some \nare looking for that kind of feeling from this movie."
         },
         {
-            "text": "…… As I glanced around the movie theater, \nI noticed an advertisement for a romance film \nthat read: \"Now in Theaters!\"",
             "choice_data_list": [
                 "I think they're here to see this.",
                 "I think they're here to see this."
-            ]
+            ],
+            "text": "…… As I glanced around the movie theater, \nI noticed an advertisement for a romance film \nthat read: \"Now in Theaters!\""
         },
         {
             "name": "Symboli Rudolf",
             "text": "Oh, let's see…… \"First Love Carrot Cake \n～ Love Is Sweeter Than Carrots ～\" …?"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Judging by the poster, it seems to be a teen romance movie. \nMaybe it's popular among the students…?",
             "choice_data_list": [
                 "Want to give it a try?",
                 "Want to give it a try?"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Judging by the poster, it seems to be a teen romance movie. \nMaybe it's popular among the students…?"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Huh? I don't mind, but why…?",
             "choice_data_list": [
                 "Having the same interests can be \na great conversation starter.",
                 "Having the same interests can be \na great conversation starter."
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Huh? I don't mind, but why…?"
         },
         {
             "name": "Symboli Rudolf",
@@ -133,12 +133,12 @@
             "text": "The final scene where the heroine grabs the boy's arm as \nhe's about to leave and musters the courage to confess \nwas particularly impactful."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Watching two movies in a day feels like quite the indulgence.",
             "choice_data_list": [
                 "Did you enjoy the movie?",
                 "Did you enjoy the movie?"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Watching two movies in a day feels like quite the indulgence."
         },
         {
             "name": "Symboli Rudolf",
@@ -157,10 +157,10 @@
             "text": "It may not be flashy, but it had a well-crafted plot. \nMm, I feel like I understand why it's popular among \nthe students now."
         },
         {
-            "text": "Symboli Rudolf's impressions were perceptive, but why did I \nget the feeling I just listened to a movie review…?",
             "choice_data_list": [
                 "What about the scenes…?"
-            ]
+            ],
+            "text": "Symboli Rudolf's impressions were perceptive, but why did I \nget the feeling I just listened to a movie review…?"
         },
         {
             "name": "Symboli Rudolf",
@@ -171,11 +171,11 @@
             "text": "Ah, I see what you mean now. You must be talking \nabout the main character's peculiar dialogue."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "\"Adore her as I do, I shan't open my heart's door to her\". \n… Heheh. The usage of \"heart's door\" and \"a-dore\" \ncertainly caught me off guard.",
             "choice_data_list": [
                 "Did you not find it relatable?"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "\"Adore her as I do, I shan't open my heart's door to her\". \n… Heheh. The usage of \"heart's door\" and \"a-dore\" \ncertainly caught me off guard."
         },
         {
             "name": "Symboli Rudolf",

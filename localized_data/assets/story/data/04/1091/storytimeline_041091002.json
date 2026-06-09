@@ -25,18 +25,18 @@
             "text": "I apologize Trainer-san, I'll be sure to talk to \nher about this later…… You see Vivlos, trainers are――"
         },
         {
-            "name": "Vivlos",
-            "text": "It's fine, I know already! \nTrainer-san, I think I want someone like you!",
             "choice_data_list": [
                 "Why……?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "It's fine, I know already! \nTrainer-san, I think I want someone like you!"
         },
         {
-            "name": "Vivlos",
-            "text": "I just told you? \nYou're a nice person!",
             "choice_data_list": [
                 "Just that!?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "I just told you? \nYou're a nice person!"
         },
         {
             "name": "Vivlos",
@@ -51,10 +51,10 @@
             "text": "I'll definitely make you think I'm good. Bye bye for today, \nlet's play again soon, okay? Onee-chan, let's go get food!"
         },
         {
-            "text": "――I was invited directly by an Uma Musume, so there was \nno reason not to attend. I was really curious about her \nabilities after all, but the first thing I wanted to know……",
             "choice_data_list": [
                 "(She said Dubai, does that mean――)"
-            ]
+            ],
+            "text": "――I was invited directly by an Uma Musume, so there was \nno reason not to attend. I was really curious about her \nabilities after all, but the first thing I wanted to know……"
         },
         {
             "text": "When thinking of Dubai, it was a country that hosted \nseveral international G1s. They were high-level races \nwhere some of the best Uma Musume in the world gathered."
@@ -66,11 +66,11 @@
             "text": "If Vivlos really wants to race in Dubai, then as a trainer, \nit would be a real honor to challenge that together with her. But――"
         },
         {
-            "name": "Vivlos",
-            "text": "Ah! So you really came, huh!? \nHeeey, Tore-cchi♪",
             "choice_data_list": [
                 "(Tore-cchi……)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Ah! So you really came, huh!? \nHeeey, Tore-cchi♪"
         },
         {
             "text": "……for some reason, she was acting like we were really \nclose now. The reason someone as young as this would \nalready be aiming for Dubai……there had to be some reason."
@@ -94,32 +94,32 @@
             "text": "Ehehee, they're looking, they're looking……♪"
         },
         {
-            "name": "Vivlos",
-            "text": "Then, I'll need to show them more of my good points, huh!? \nYaaaaaaaaaa♪",
             "choice_data_list": [
                 "(Oh, a good push forward……!)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Then, I'll need to show them more of my good points, huh!? \nYaaaaaaaaaa♪"
         },
         {
             "name": "Vivlos",
             "text": "Ehehee, Tore-cchi~~~~! \nI'm amazing, aren't Iーーーー!"
         },
         {
-            "text": "As she pushed through the other Uma Musume in the straight, \nshe took a dominant position. It was no contest――",
             "choice_data_list": [
                 "(She has talent……!)",
                 "(She has talent……!)"
-            ]
+            ],
+            "text": "As she pushed through the other Uma Musume in the straight, \nshe took a dominant position. It was no contest――"
         },
         {
             "text": "Depending on how she was taught, she could grow immensely. \nThinking like that, as a trainer, I couldn't help but get excited――"
         },
         {
-            "name": "Cheval Grand",
-            "text": "――Vivlos has always been like that.",
             "choice_data_list": [
                 "(That girl is……Cheval Grand!)"
-            ]
+            ],
+            "name": "Cheval Grand",
+            "text": "――Vivlos has always been like that."
         },
         {
             "text": "Suddenly, Verxina's little sister was next to me―― \nIn other words, Vivlos' other big sister, Cheval Grand."
@@ -128,12 +128,12 @@
             "text": "She was currently running in the Twinkle Series. She didn't \nhave any notable results yet, but there was potential in her."
         },
         {
-            "name": "Cheval Grand",
-            "text": "With her sense she's had since birth, she could do anything. \nCompared to someone clumsy like me, she's completely different……",
             "choice_data_list": [
                 "……Hey――",
                 "……Hey――"
-            ]
+            ],
+            "name": "Cheval Grand",
+            "text": "With her sense she's had since birth, she could do anything. \nCompared to someone clumsy like me, she's completely different……"
         },
         {
             "name": "Cheval Grand",
@@ -143,84 +143,84 @@
             "text": "……I wanted to ask her about Vivlos, but it seems I scared her. \nAnd that's when――"
         },
         {
-            "name": "Vivlos",
-            "text": "Tore-cchi~~~~! \nYou were talking with Chevacchi just now weren't you!?",
             "choice_data_list": [
                 "(Tore-cchi and now Chevacchi……)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Tore-cchi~~~~! \nYou were talking with Chevacchi just now weren't you!?"
         },
         {
-            "name": "Vivlos",
-            "text": "Did she say anthing about me? Did she talk about me!? \nDid she praise me?",
             "choice_data_list": [
                 "Well, I suppose so……?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Did she say anthing about me? Did she talk about me!? \nDid she praise me?"
         },
         {
             "name": "Vivlos",
             "text": "…… Chevacchi was…… \n……Ehehee♪"
         },
         {
-            "name": "Vivlos",
-            "text": "And so, Tore-cchi? \nMy running was good wasn't it?",
             "choice_data_list": [
                 "Yeah!",
                 "Yeah!"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "And so, Tore-cchi? \nMy running was good wasn't it?"
         },
         {
-            "name": "Vivlos",
-            "text": "Ain't that right~♪ \nThen, you'll be my trainer right?",
             "choice_data_list": [
                 "Well……"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Ain't that right~♪ \nThen, you'll be my trainer right?"
         },
         {
-            "name": "Vivlos",
-            "text": "Still a no? A trainer's job is to help an Uma Musume win, right? \nIf I already know how to run well, isn't that perfect?",
             "choice_data_list": [
                 "But I don't know anything about you",
                 "But I don't know anything about you"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "Still a no? A trainer's job is to help an Uma Musume win, right? \nIf I already know how to run well, isn't that perfect?"
         },
         {
             "name": "Vivlos",
             "text": "Hmmmm~…… \nTore-cchi, what do you want to know?"
         },
         {
-            "text": "After seeing her abilities, the other thing I wanted \nto know about was her \"dream\". Like what was she aiming \nfor, why was she running? The only keyword was……",
             "choice_data_list": [
                 "You're aiming to race in Dubai?",
                 "You're aiming to race in Dubai?"
-            ]
+            ],
+            "text": "After seeing her abilities, the other thing I wanted \nto know about was her \"dream\". Like what was she aiming \nfor, why was she running? The only keyword was……"
         },
         {
             "name": "Vivlos",
             "text": "Yeah, that's right! \nRunning in that race is my dream!"
         },
         {
-            "name": "Vivlos",
-            "text": "You've seen races in Dubai, right? They're so sparkly, \nand there are so many Celebs, right? It's the best~",
             "choice_data_list": [
                 "……Is that it?"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "You've seen races in Dubai, right? They're so sparkly, \nand there are so many Celebs, right? It's the best~"
         },
         {
             "name": "Vivlos",
             "text": "……Eh, yeah! \nThat's it, I guess……?"
         },
         {
-            "name": "Vivlos",
-            "text": "……Trainer-san, you want to know more right? \nYou can ask me anything! Ah, but who I like is~ a secret♡",
             "choice_data_list": [
                 "(I know her dream, then after this……)"
-            ]
+            ],
+            "name": "Vivlos",
+            "text": "……Trainer-san, you want to know more right? \nYou can ask me anything! Ah, but who I like is~ a secret♡"
         },
         {
-            "text": "I can tell she has talent, but talent alone won't get her \nto Dubai. Until I knew how I was going to guide her, I'd \nhave to think about it, so I couldn't sign a contract yet.",
             "choice_data_list": [
                 "Sorry, I need to think this through!"
-            ]
+            ],
+            "text": "I can tell she has talent, but talent alone won't get her \nto Dubai. Until I knew how I was going to guide her, I'd \nhave to think about it, so I couldn't sign a contract yet."
         },
         {
             "name": "Vivlos",

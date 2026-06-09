@@ -29,52 +29,52 @@
             "text": "Under the watchful eye of her parents, Eishin Flash began \nher Selection Race. A race which ended in ——"
         },
         {
-            "name": "Eishin Flash",
-            "text": "—— Ah… Trainer. I thought you might show up.",
             "choice_data_list": [
                 "Good work out there."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "—— Ah… Trainer. I thought you might show up."
         },
         {
             "name": "Eishin Flash",
             "text": "…Thank you."
         },
         {
-            "text": "Her disheartened expression was entirely understandable. \nIn the end, she had finished in 6th place. However ——",
             "choice_data_list": [
                 "You ran well.",
                 "You ran well."
-            ]
+            ],
+            "text": "Her disheartened expression was entirely understandable. \nIn the end, she had finished in 6th place. However ——"
         },
         {
-            "name": "Eishin Flash",
-            "text": "No, if I had to give myself a grade, it would be a failing one. \nThe reality is that I finished sixth.",
             "choice_data_list": [
                 "I still think you showed a lot of promise."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "No, if I had to give myself a grade, it would be a failing one. \nThe reality is that I finished sixth."
         },
         {
             "name": "Eishin Flash",
             "text": "……We see things from a very different perspective indeed. \nBut that's all the more reason why I……"
         },
         {
-            "name": "Eishin Flash",
-            "text": "Can I ask you a favor? I'd like you to \ncome with me… to meet my parents.",
             "choice_data_list": [
                 "Are you sure?",
                 "Are you sure?"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "Can I ask you a favor? I'd like you to \ncome with me… to meet my parents."
         },
         {
             "name": "Eishin Flash",
             "text": "Yes. I am… not really sure how to explain this result to them."
         },
         {
-            "name": "Eishin Flash",
-            "text": "But you said before that my \"feelings will show through\". \nThat's why… <i>umm</i>…",
             "choice_data_list": [
                 "All right, I'll come with you."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "But you said before that my \"feelings will show through\". \nThat's why… <i>umm</i>…"
         },
         {
             "name": "Eishin Flash",
@@ -163,38 +163,38 @@
             "text": "……Mother, father. Thank you. \nI… tried my best."
         },
         {
-            "text": "Their conversation came to an end, and Eishin Flash looked a lot \nlivelier as she followed her parents coming over to greet me.",
             "choice_data_list": [
                 "<i>Umm…</i>"
-            ]
+            ],
+            "text": "Their conversation came to an end, and Eishin Flash looked a lot \nlivelier as she followed her parents coming over to greet me."
         },
         {
             "name": "Flash's Father",
             "text": "We can speak in Japanese. I've learned with my daughter, \nso I understand a little bit. Flash, could you introduce us?"
         },
         {
-            "name": "Eishin Flash",
-            "text": "This is my trainer ——",
             "choice_data_list": [
                 "……!"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "This is my trainer ——"
         },
         {
             "name": "Eishin Flash",
             "text": "……candidate. I would like that, but we haven't discussed it yet."
         },
         {
-            "text": "The abruptness of that gave me a small shock, but some \npart of me thought it made perfect sense. I bet my heart \nwas actually set on this from the first time I saw her.",
             "choice_data_list": [
                 "Let me correct that."
-            ]
+            ],
+            "text": "The abruptness of that gave me a small shock, but some \npart of me thought it made perfect sense. I bet my heart \nwas actually set on this from the first time I saw her."
         },
         {
-            "name": "Eishin Flash",
-            "text": "……?",
             "choice_data_list": [
                 "I'll be her trainer, if that's what she wants."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "……?"
         },
         {
             "name": "Eishin Flash",
@@ -221,39 +221,39 @@
             "text": "……It would seem I am indeed a little offbeat. \nI don't know how to deal with deviating from \na path once I've set myself one."
         },
         {
-            "name": "Eishin Flash",
-            "text": "That's why I started thinking I need another point of view. \nSomeone who will tell me when my path is flawed.",
             "choice_data_list": [
                 "<size=38>Is that why you want me to be your trainer?</size>"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "That's why I started thinking I need another point of view. \nSomeone who will tell me when my path is flawed."
         },
         {
-            "name": "Eishin Flash",
-            "text": "Yes. …Why was it that you accepted?",
             "choice_data_list": [
                 "Probably because I fell for you at first sight."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "Yes. …Why was it that you accepted?"
         },
         {
             "name": "Eishin Flash",
             "text": "<i>……Huh!?</i> \nF-Fell for me…?"
         },
         {
-            "text": "Ever since seeing the way she ran, the sincerity in her eyes… \nI found myself thinking I wanted those things to continue \nfor as long as possible.",
             "choice_data_list": [
                 "I think this was always meant to happen."
-            ]
+            ],
+            "text": "Ever since seeing the way she ran, the sincerity in her eyes… \nI found myself thinking I wanted those things to continue \nfor as long as possible."
         },
         {
             "name": "Eishin Flash",
             "text": "……!"
         },
         {
-            "name": "Eishin Flash",
-            "text": "……No, no I'm certain it was not. \nIt never was to me, at least.",
             "choice_data_list": [
                 "R-Right."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "……No, no I'm certain it was not. \nIt never was to me, at least."
         },
         {
             "name": "Eishin Flash",

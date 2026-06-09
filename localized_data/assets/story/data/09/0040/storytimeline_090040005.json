@@ -1,5 +1,4 @@
 {
-    "title": "A Sleepless Night, An Oath at Dawn",
     "text_block_list": [
         {
             "name": "Admire Vega",
@@ -218,8 +217,8 @@
             "text": "......! Ah..........."
         },
         {
-            "text": "…………――",
-            "name": "Admire Vega"
+            "name": "Admire Vega",
+            "text": "…………――"
         },
         {
             "name": "Narita Top Road",
@@ -229,5 +228,6 @@
             "name": "Admire Vega",
             "text": "...Top Road-san. Do you... have a minute?"
         }
-    ]
+    ],
+    "title": "A Sleepless Night, An Oath at Dawn"
 }

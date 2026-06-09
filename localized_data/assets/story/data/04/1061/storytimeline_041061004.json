@@ -21,12 +21,12 @@
             "text": "I'll give you the right to challenge me. Grass-san! \nI'll show you the running of a first-class!"
         },
         {
-            "name": "King Halo",
-            "text": "…You came again, huh.",
             "choice_data_list": [
                 "I heard you'd be running.",
                 "I heard you were running."
-            ]
+            ],
+            "name": "King Halo",
+            "text": "…You came again, huh."
         },
         {
             "name": "King Halo",
@@ -37,12 +37,12 @@
             "text": "…Well, fine. If you want to see King run so badly I'll \nentertain you as many times as you like! Ohhohoho!"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Well, the princess is the same as ever～.",
             "choice_data_list": [
                 "Did you come to cheer on King Halo too?",
                 "Are you here to support King Halo too?"
-            ]
+            ],
+            "name": "Seiun Sky",
+            "text": "Well, the princess is the same as ever～."
         },
         {
             "name": "Seiun Sky",
@@ -130,34 +130,34 @@
             "text": "No matter how much she loses. how frustrated she gets, or how \ndisappointed. she continues to call herself \"first-class\". \nBecause, that's the strength of her will."
         },
         {
-            "text": "Then, her trainer should carry the same will!",
             "choice_data_list": [
                 "And, I'm the first-class trainer!",
                 "And, I'm a first-class trainer!"
-            ]
+            ],
+            "text": "Then, her trainer should carry the same will!"
         },
         {
             "name": "Trainers",
             "text": "…Ha?"
         },
         {
-            "name": "King Halo",
-            "text": "Eh?",
             "choice_data_list": [
                 "That's why I'll scout a first-class trainee!",
                 "That's why I'll scout a first-class trainee!"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Eh?"
         },
         {
             "name": "Experienced Trainer A",
             "text": "Umm… are you okay? \nGrass Wonder isn't here y'know?"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Which would mean… \nThe only one in front of your eyes is King Halo?",
             "choice_data_list": [
                 "That's right! She is!"
-            ]
+            ],
+            "name": "Veteran Trainer A",
+            "text": "Which would mean… \nThe only one in front of your eyes is King Halo?"
         },
         {
             "name": "Trainers",
@@ -172,11 +172,11 @@
             "text": "Do you have the iron will to prove King's overwhelming \nbirth-given talent to the world."
         },
         {
-            "name": "King Halo",
-            "text": "And do you have the determination to rack up countless \nvictories, and make the name \"King Halo\" roar!?",
             "choice_data_list": [
                 "I do!!"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "And do you have the determination to rack up countless \nvictories, and make the name \"King Halo\" roar!?"
         },
         {
             "name": "King Halo",
@@ -203,12 +203,12 @@
             "text": "To shout you're a \"first-class\" while everyone is watching. \nDo you really understand what you're taking on by doing that?"
         },
         {
-            "name": "King Halo",
-            "text": "To be called a fool with a big mouth, pointed at behind your \nback, laughed at. But, you can't take back what you've said.",
             "choice_data_list": [
                 "That's why I have no choice but to become a real first-class.",
                 "That's why I have no choice but to become a real first-class."
-            ]
+            ],
+            "name": "King Halo",
+            "text": "To be called a fool with a big mouth, pointed at behind your \nback, laughed at. But, you can't take back what you've said."
         },
         {
             "name": "King Halo",
@@ -222,18 +222,18 @@
             "text": "(Bzz! Bzz!)"
         },
         {
-            "name": "King Halo",
-            "text": "…It's, mother again.",
             "choice_data_list": [
                 "Let's declare it together."
-            ]
+            ],
+            "name": "King Halo",
+            "text": "…It's, mother again."
         },
         {
-            "name": "King Halo",
-            "text": "Eh?…Declare? What?",
             "choice_data_list": [
                 "\"Watch us, we're first-class.\""
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Eh?…Declare? What?"
         },
         {
             "name": "King Halo",

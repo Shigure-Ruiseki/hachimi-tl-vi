@@ -183,12 +183,12 @@
             "text": "Trainer, I won! Oh, and mom wanted to \ngive you her thanks? or something—"
         },
         {
-            "name": "Ines' Mother",
-            "text": "This is the result of your guidance. Thank you very much. \nPlease keep up the good work, Trainer.",
             "choice_data_list": [
                 "No, I'm……",
                 "No, I'm……"
-            ]
+            ],
+            "name": "Ines' Mother",
+            "text": "This is the result of your guidance. Thank you very much. \nPlease keep up the good work, Trainer."
         },
         {
             "text": "\"I'm only training her temporarily\", I thought. \nInes Fujin stopped me before I could say it out loud."
@@ -206,29 +206,29 @@
             "text": "I was able to run like today because of you. It was you who led \nme all the way here. …You know what I want you to say, right?"
         },
         {
-            "text": "She's certainly grown a lot. Of course, it's all thanks to her \nhard work… But, maybe I was able to help her out a little.",
             "choice_data_list": [
                 "…… I want to…",
                 "…… I want to…"
-            ]
+            ],
+            "text": "She's certainly grown a lot. Of course, it's all thanks to her \nhard work… But, maybe I was able to help her out a little."
         },
         {
-            "name": "Ines Fujin",
-            "text": "…… Yeah?",
             "choice_data_list": [
                 "I want to watch you run, by my side, forever."
-            ]
+            ],
+            "name": "Ines Fujin",
+            "text": "…… Yeah?"
         },
         {
             "name": "Ines Fujin",
             "text": "……! \nAhaha! Yep, you passed!"
         },
         {
-            "text": "Later, after seeing her family off…… \nInes Fujin teasingly poked me in the side.",
             "choice_data_list": [
                 "Wh-What's up?",
                 "Wh-What's up?"
-            ]
+            ],
+            "text": "Later, after seeing her family off…… \nInes Fujin teasingly poked me in the side."
         },
         {
             "name": "Ines Fujin",
@@ -239,10 +239,10 @@
             "text": "It really made me happy. I'm looking forward \nto our time together! …I'll let you watch me run \nuntil your head's going in circles♪ Hehe."
         },
         {
-            "text": "Her smile was radiant and full of hope. \nFor sure, the person reflected in her round eyes had grown —",
             "choice_data_list": [
                 "(I finally became a trainer)"
-            ]
+            ],
+            "text": "Her smile was radiant and full of hope. \nFor sure, the person reflected in her round eyes had grown —"
         },
         {
             "text": "Even I could feel that way."

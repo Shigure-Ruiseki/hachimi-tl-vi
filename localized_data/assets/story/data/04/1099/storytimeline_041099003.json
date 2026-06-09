@@ -14,11 +14,11 @@
             "text": "You ordered by phone, right? The mother there is an old \nfriend of mine. She was very happy when I moved to Tokyo. \nShe even make me business card……"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "…………",
             "choice_data_list": [
                 "……What's troubling you?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "…………"
         },
         {
             "name": "Hokko Tarumae",
@@ -28,18 +28,18 @@
             "text": "……Looking at the last few days, It look like a big problem. \nPerhaps the cause of it is―."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "『I am the star of Tomakomai!\"』",
             "choice_data_list": [
                 "……Is it about Tomakomai?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "『I am the star of Tomakomai!\"』"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "Huh? How do you know about that――",
             "choice_data_list": [
                 "Because that's the kind of atmosphere you make……"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "Huh? How do you know about that――"
         },
         {
             "name": "Hokko Tarumae",
@@ -152,11 +152,11 @@
             "text": "If I don't do it, another store might close, and Tomakomai \nmight become even smaller."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "And yet…… nothing has been done ……!",
             "choice_data_list": [
                 "…… I think, you are overthinking this."
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "And yet…… nothing has been done ……!"
         },
         {
             "name": "Hokko Tarumae",
@@ -178,11 +178,11 @@
             "text": "……………… blog updates, launch of online \nshopping, and regular events."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "Wow, so many people…… at the event, they are working with \ncity hall too ……! I can't believe they were doing this―……!",
             "choice_data_list": [
                 "?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "Wow, so many people…… at the event, they are working with \ncity hall too ……! I can't believe they were doing this―……!"
         },
         {
             "name": "Hokko Tarumae",
@@ -221,11 +221,11 @@
             "text": "……………… う."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "Ahhhhhhhh!",
             "choice_data_list": [
                 "!?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "Ahhhhhhhh!"
         },
         {
             "name": "Hokko Tarumae",
@@ -240,11 +240,11 @@
             "text": "That's why ……That's why! I'll do my best for Tomakomai! I'll \nspread the word about Tomakomai!"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "―Trainer-san! Will you be my trainer \nand help me on my training?",
             "choice_data_list": [
                 "What?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "―Trainer-san! Will you be my trainer \nand help me on my training?"
         },
         {
             "name": "Hokko Tarumae",

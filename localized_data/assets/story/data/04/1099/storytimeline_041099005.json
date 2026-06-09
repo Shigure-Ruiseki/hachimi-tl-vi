@@ -17,11 +17,11 @@
             "text": "First we need to get the word out to a lot of people…… \nwhat do you think Trainer?"
         },
         {
-            "text": "An event that can raise awareness. It is essential that the \nevent has the ability to attract a large number of visitors. \nSpeaking of events that can attract a lot of people…",
             "choice_data_list": [
                 "How about going to a music festival!",
                 "How about we go to a music festival!"
-            ]
+            ],
+            "text": "An event that can raise awareness. It is essential that the \nevent has the ability to attract a large number of visitors. \nSpeaking of events that can attract a lot of people…"
         },
         {
             "text": "The more the population of the audience grows, the more \npeople will be interested in Hokko Tarumae."
@@ -31,34 +31,34 @@
             "text": "…… The music festival that trainer is talking about is a big \nevent with a lot of famous artists and idols, right?"
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "I think it is tough.",
             "choice_data_list": [
                 "Eh."
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "I think it is tough."
         },
         {
             "name": "Hokko Tarumae",
             "text": "To be on such a stage, it is essential to have a proven \ntrack record and popularity in the entertainment industry."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "It's hard for a local locodol with no track record and no \ncredibility to be allowed to appear on the stage.",
             "choice_data_list": [
                 "I see ……"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "It's hard for a local locodol with no track record and no \ncredibility to be allowed to appear on the stage."
         },
         {
             "name": "Hokko Tarumae",
             "text": "Besides, even if we were able to participate in a festival, \nthe festival-goers are there to listen to the artists' songs."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "It is difficult to get such people interested in Tomakomai. \nThat is why you have to have an influence backed by a proven \ntrack record and popularity.",
             "choice_data_list": [
                 "That's true too ……",
                 "That's true too ……"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "It is difficult to get such people interested in Tomakomai. \nThat is why you have to have an influence backed by a proven \ntrack record and popularity."
         },
         {
             "text": "I was naive. How to increase the number of visitors to \nTomakomai, a good idea is not going to come so easily."
@@ -124,17 +124,17 @@
             "text": "Oh…… um, trainer.…… Uh, that, good work today……!"
         },
         {
-            "text": "I was just about to think a plan for an event to be hosted \nin regards to the plan I mentioned earlier. Since I'm here, \nI'll let her know about it.",
             "choice_data_list": [
                 "Tarumae, about what we talk about earlier―"
-            ]
+            ],
+            "text": "I was just about to think a plan for an event to be hosted \nin regards to the plan I mentioned earlier. Since I'm here, \nI'll let her know about it."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "……! I'm sorry!",
             "choice_data_list": [
                 "What?"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "……! I'm sorry!"
         },
         {
             "name": "Hokko Tarumae",

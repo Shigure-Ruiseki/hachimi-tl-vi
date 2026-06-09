@@ -13,12 +13,12 @@
             "text": "First, the time of day when Trainer-san met that Hero. \nIt was probably during our free training period, right?"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "At that time, lots of Uma Musume are entering \nand leaving, so it's hard to narrow it down \nbased on individual course usage records……",
             "choice_data_list": [
                 "So that's why we couldn't find anything……",
                 "So that's why we couldn't find anything……"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "At that time, lots of Uma Musume are entering \nand leaving, so it's hard to narrow it down \nbased on individual course usage records……"
         },
         {
             "name": "Zenno Rob Roy",
@@ -64,11 +64,11 @@
             "text": "Haa, haa, haa, haa――"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……！",
             "choice_data_list": [
                 "(Such intensity……!)"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "……！"
         },
         {
             "text": "Such innate strength. And such an overwhelming presence, \nhowever…… it seemed a little different from the Hero at that time."
@@ -91,10 +91,10 @@
             "text": "While writing in her notebook, she was watching training \nwith a serious look in her eyes. Her ears and tail \nflinched at the sound of the whistle."
         },
         {
-            "text": "Like this, it's almost like―",
             "choice_data_list": [
                 "――you want to run?"
-            ]
+            ],
+            "text": "Like this, it's almost like―"
         },
         {
             "name": "Zenno Rob Roy",
@@ -105,17 +105,17 @@
             "text": "But, we can continue the Hero Search next time…… Kris S-san \ndoesn't seem to be the 『Hero』 that Trainer-san was looking for."
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "T-then…… I need to get going! \nI'll be heading off n-yow!",
             "choice_data_list": [
                 "(She bit her tongue……)"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "T-then…… I need to get going! \nI'll be heading off n-yow!"
         },
         {
-            "text": "She was gone in an instant…… I was planning on heading back too, \nbut a familiar looking notebook was left behind on the benches.",
             "choice_data_list": [
                 "(Is this Rob Roy's……?)"
-            ]
+            ],
+            "text": "She was gone in an instant…… I was planning on heading back too, \nbut a familiar looking notebook was left behind on the benches."
         },
         {
             "text": "In a panic, she must have left this behind. \nFor now, I opened it to confirm its owner――"
@@ -131,18 +131,18 @@
             "text": "I couldn't help but stare at the notebook. These pages were \nfilled with such dedication. In that calm figure, where was she \nhiding all this passion?"
         },
         {
-            "name": "Kind-looking Instructor",
-            "text": "Ah…… Ummmm～! Hello there!",
             "choice_data_list": [
                 "Wah!? S-sorry!"
-            ]
+            ],
+            "name": "Kind-looking Instructor",
+            "text": "Ah…… Ummmm～! Hello there!"
         },
         {
-            "name": "Kind-looking Instructor",
-            "text": "No worries! Um, you were together with Rob Roy-san right!? \nAre you perhaps, Rob Roy-san's trainer!?",
             "choice_data_list": [
                 "No, we're just working together"
-            ]
+            ],
+            "name": "Kind-looking Instructor",
+            "text": "No worries! Um, you were together with Rob Roy-san right!? \nAre you perhaps, Rob Roy-san's trainer!?"
         },
         {
             "text": "Now that I think about it, talk about an exclusive \ncontract with Zenno Rob Roy never came up. We \nwere both just so focused on our Hero."
@@ -176,20 +176,20 @@
             "text": "……because of that, when I saw you I thought \n『It's her trainer!』 and got so excited. I'm sorry."
         },
         {
-            "text": "The instructor bowed deeply. Without a doubt, \nthe reason her self training time was decreasing \nwas because of the 『Hero Search』. However――",
             "choice_data_list": [
                 "……She'll be fine."
-            ]
+            ],
+            "text": "The instructor bowed deeply. Without a doubt, \nthe reason her self training time was decreasing \nwas because of the 『Hero Search』. However――"
         },
         {
             "name": "Kind-looking Instructor",
             "text": "Eh?"
         },
         {
-            "text": "She probably has has her reasons for reducing her self \ntraining time in order to accompany me in the 『Hero Search』.",
             "choice_data_list": [
                 "She hasn't given up and isn't running away"
-            ]
+            ],
+            "text": "She probably has has her reasons for reducing her self \ntraining time in order to accompany me in the 『Hero Search』."
         },
         {
             "text": "After all―― in the pages of this notebook she left behind, \nthere was a strong impression of 『I want to get stronger』."

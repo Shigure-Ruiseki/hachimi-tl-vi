@@ -10,11 +10,11 @@
             "text": "Thanks for always cleaning up this place! \nI'll go throw this trash away now!"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Fuuu! Good work out there! \nToday's run felt really good, and it was fun.",
             "choice_data_list": [
                 "Good work!"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Fuuu! Good work out there! \nToday's run felt really good, and it was fun."
         },
         {
             "text": "As usual, Kitasan Black was helping people as \nif it was natural. On top of that, it wasn't \ncausing any issues with her training."
@@ -28,11 +28,11 @@
             "text": "I see! So the way you pivot is important. Stay aware of the \nbalance between your pivot foot and lower body, your center of \ngravity… I see, I see."
         },
         {
-            "name": "Kitasan Black",
-            "text": "Um, is it okay if I go run a bit more? \nTrainer-san, I want to test out what you \njust taught me as soon as possible.",
             "choice_data_list": [
                 "Alright, but only for a little bit"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Um, is it okay if I go run a bit more? \nTrainer-san, I want to test out what you \njust taught me as soon as possible."
         },
         {
             "name": "Kitasan Black",
@@ -42,11 +42,11 @@
             "text": "The profile of Kitasan Black as she \nwas running was beautiful and intense, \nit was captivating."
         },
         {
-            "text": "Always proceeding forward, Kitasan Black was \noverflowing with ambition. Her presence \nhelped raise the morale of those around her-",
             "choice_data_list": [
                 "(Kitasan's working hard, I \nhave to respond in kind!)",
                 "(Kitasan's working hard, I \nhave to respond in kind!)"
-            ]
+            ],
+            "text": "Always proceeding forward, Kitasan Black was \noverflowing with ambition. Her presence \nhelped raise the morale of those around her-"
         },
         {
             "text": "I rubbed my tired eyes, and lightly slapped my own cheeks. It \nwas my duty to sincerely work hard for her sake, so I needed to \nkeep myself motivated."
@@ -72,22 +72,22 @@
             "text": "Hmmm, it's not working! The more I try to \nignore it, the more I end up focusing too \nmuch on who's behind me."
         },
         {
-            "name": "Kitasan Black",
-            "text": "But even if I could, only focusing \non what's ahead makes me uneasy…",
             "choice_data_list": [
                 "Uneasy about what?"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "But even if I could, only focusing \non what's ahead makes me uneasy…"
         },
         {
             "name": "Kitasan Black",
             "text": "Ah, well… something like whether or not they're \nmaking their move. Or if they're coming up really \nquickly behind me, or something."
         },
         {
-            "name": "Kitasan Black",
-            "text": "In those cases, I should probably just face them \nhead-to-head, right? But, if I'm too focused on \nthem, I won't be able to run properly…",
             "choice_data_list": [
                 "Kitasan, what's your running style again?"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "In those cases, I should probably just face them \nhead-to-head, right? But, if I'm too focused on \nthem, I won't be able to run properly…"
         },
         {
             "name": "Kitasan Black",
@@ -98,11 +98,11 @@
             "text": "Staying strong until the end, no matter who \ncomes up behind me, going fast enough to \nmake sure nobody can pass me."
         },
         {
-            "name": "Kitasan Black",
-            "text": "Pulling away from those following, \nand reaching the goal first… \nthat's the way I run!",
             "choice_data_list": [
                 "Even with that, you focus \non the ones behind you?"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Pulling away from those following, \nand reaching the goal first… \nthat's the way I run!"
         },
         {
             "name": "Kitasan Black",

@@ -6,21 +6,21 @@
             "text": "It's the ocean!"
         },
         {
-            "text": "At Summer Training Camp, Fine Motion was energetically jumping up \nand down, excited from being at the beach.",
             "choice_data_list": [
                 "Is this your first time at the beach…?"
-            ]
+            ],
+            "text": "At Summer Training Camp, Fine Motion was energetically jumping up \nand down, excited from being at the beach."
         },
         {
             "name": "Fine Motion",
             "text": "No, that's not the case. But, it's the first time I've been \ntogether with everyone… really, it's like a dream come true."
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufu, but the feeling of stepping barefoot through \nthe sand like this, just about everything about \nit… makes me feel like this is special.",
             "choice_data_list": [
                 "It's fine to enjoy it to the fullest."
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Fufu, but the feeling of stepping barefoot through \nthe sand like this, just about everything about \nit… makes me feel like this is special."
         },
         {
             "name": "Fine Motion",
@@ -80,19 +80,19 @@
             "text": "And so, I accompanied Fine Motion at the festival for a while… \nThus, this year's summer training camp ended without incident."
         },
         {
-            "name": "Fine Motion",
-            "text": "-Fuuu! Today's training is over. After being away for a while, \nthe school's course somehow has a fresh feeling to it.",
             "choice_data_list": [
                 "It feels like we've returned to our normal days",
                 "It feels like we've returned to our normal days"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "-Fuuu! Today's training is over. After being away for a while, \nthe school's course somehow has a fresh feeling to it."
         },
         {
-            "name": "Fine Motion",
-            "text": "Yeah… but you never know when another \nsudden surprise might happen, you know?",
             "choice_data_list": [
                 "Don't tell me, another dragon…"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Yeah… but you never know when another \nsudden surprise might happen, you know?"
         },
         {
             "name": "Fine Motion",
@@ -110,27 +110,27 @@
             "text": "Now that I think about it… after the previous incident I tidied \nup, and must have left this ramen out. It was originally meant as \nemergency rations or a snack."
         },
         {
-            "name": "Fine Motion",
-            "text": "Oooh! \"Asura Noodles the Third\"…! \nIt's a brand I haven't tried yet…!",
             "choice_data_list": [
                 "You can have it, if you want",
                 "You can have it, if you want"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Oooh! \"Asura Noodles the Third\"…! \nIt's a brand I haven't tried yet…!"
         },
         {
-            "name": "Fine Motion",
-            "text": "Really?! Thank you, Trainer! \nThen let's promptly-",
             "choice_data_list": [
                 "I don't have any ingredients though",
                 "I don't have any ingredients though"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Really?! Thank you, Trainer! \nThen let's promptly-"
         },
         {
-            "name": "Fine Motion",
-            "text": "…huh? Don't you usually eat instant ramen \nwithout adding any extra ingredients?",
             "choice_data_list": [
                 "Maybe something from the fridge…"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "…huh? Don't you usually eat instant ramen \nwithout adding any extra ingredients?"
         },
         {
             "name": "Fine Motion",
@@ -211,11 +211,11 @@
             "text": "Yeah, eat it before the noodle get soggy! \nFinishing it while it's still hot is half the battle."
         },
         {
-            "name": "Fine Motion",
-            "text": "…Yep. Definitely-it's just like that.",
             "choice_data_list": [
                 "What is?"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "…Yep. Definitely-it's just like that."
         },
         {
             "name": "Fine Motion",
@@ -226,12 +226,12 @@
             "text": "If something special happens, of course it's wonderful- \nBut, even if it doesn't, that's fine too."
         },
         {
-            "name": "Fine Motion",
-            "text": "Because just like this, spending our time together \"as \nusual\"…to me, there's nothing more \"special\" than that.",
             "choice_data_list": [
                 "…You're right.",
                 "…You're right."
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Because just like this, spending our time together \"as \nusual\"…to me, there's nothing more \"special\" than that."
         },
         {
             "name": "Fine Motion",

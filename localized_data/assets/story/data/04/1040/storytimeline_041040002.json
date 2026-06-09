@@ -124,31 +124,31 @@
             "text": "Eh, wait, you, I saw you before the selection \nrace… like, eh? By any chance…"
         },
         {
-            "name": "Gold City",
-            "text": "Just now… did you hear that?",
             "choice_data_list": [
                 "S, Sorry",
                 "S, Sorry"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "Just now… did you hear that?"
         },
         {
-            "name": "Gold City",
-            "text": "~~~~Gh, don’t screw with me! You’re unbelievable \nfor eavesdropping, you!!",
             "choice_data_list": [
                 "I’m really sorry…!",
                 "I’m really sorry…!"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "~~~~Gh, don’t screw with me! You’re unbelievable \nfor eavesdropping, you!!"
         },
         {
             "text": "After desperately trying to apologize, I confided \nthat I came to scout and that I was worried about \nthe situation and followed after her… "
         },
         {
-            "name": "Gold City",
-            "text": "…Hmmm. You came out of worry, right.",
             "choice_data_list": [
                 "I’m sorry for eavesdropping…",
                 "I’m sorry for eavesdropping…"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "…Hmmm. You came out of worry, right."
         },
         {
             "name": "Gold City",
@@ -159,22 +159,22 @@
             "text": "FIrst forget about it, and if you promise \nnot to tell anyone else, it’s okay."
         },
         {
-            "name": "Gold City",
-            "text": "Don’t tell me, you can’t do that, right?",
             "choice_data_list": [
                 "I can!!"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "Don’t tell me, you can’t do that, right?"
         },
         {
             "name": "Gold City",
             "text": "Then, this talk is over. I’ll go back to training, \nyou can do whatever you want after that."
         },
         {
-            "name": "Gold City",
-            "text": "Even if you say 『I came to scout』now, I’ve \nalready got someone in charge of me.",
             "choice_data_list": [
                 "Disappointing…"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "Even if you say 『I came to scout』now, I’ve \nalready got someone in charge of me."
         },
         {
             "name": "Gold City",
@@ -185,12 +185,12 @@
             "text": "Apologizing with a face that seems to cry, are you honest like or \nlike… You’re the type of person who can’t lie, right?"
         },
         {
-            "name": "Gold City",
-            "text": "Well, not that it matters to me…",
             "choice_data_list": [
                 "But that’s good enough, I’m cheering for you!",
                 "But that’s good enough, I’m cheering for you!"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "Well, not that it matters to me…"
         },
         {
             "name": "Gold City",
@@ -205,11 +205,11 @@
             "text": "You, why didn’t you call me? From what we were talking about \nearlier, you were the first to come to the course."
         },
         {
-            "name": "Gold City",
-            "text": "And yet, how did he get ahead of you?",
             "choice_data_list": [
                 "I can’t get in the way of your concentration…"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "And yet, how did he get ahead of you?"
         },
         {
             "name": "Gold City",

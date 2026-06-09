@@ -1,5 +1,4 @@
 {
-    "title": "The Darkness",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -192,5 +191,6 @@
             "name": "Tamamo Cross",
             "text": "<i>Huh……!?</i>"
         }
-    ]
+    ],
+    "title": "The Darkness"
 }

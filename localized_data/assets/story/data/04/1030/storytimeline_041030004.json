@@ -2,35 +2,35 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Rice Shower",
-            "text": "Ahh… Trainer……",
             "choice_data_list": [
                 "Do you feel up to the race today?",
                 "Think you're up to the race today?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Ahh… Trainer……"
         },
         {
             "name": "Rice Shower",
             "text": "…………! I-I'm so sorry. \nI'm so sorry, I'm so sorry…!"
         },
         {
-            "name": "Rice Shower",
-            "text": "I-I'm so…… sorry! \n…… I'm just so—",
             "choice_data_list": [
                 "You don't need to apologize.",
                 "You don't need to apologize."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "I-I'm so…… sorry! \n…… I'm just so—"
         },
         {
             "name": "Rice Shower",
             "text": "…… Why?"
         },
         {
-            "name": "Rice Shower",
-            "text": "Why are you so nice to me? \nEven though I'm… I'm such a good-for-nothing.",
             "choice_data_list": [
                 "You're not a good-for-nothing."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Why are you so nice to me? \nEven though I'm… I'm such a good-for-nothing."
         },
         {
             "name": "Rice Shower",
@@ -45,12 +45,12 @@
             "text": "Even though I didn't want to be away from my mother, \nI came all the way to Tracen Academy. I did so much \ntraining and even signed up for races!"
         },
         {
-            "name": "Rice Shower",
-            "text": "But… that wasn't enough. Just thinking about entering \nthe race fills me with so much fear, just like that time \nduring the Selection Race…!",
             "choice_data_list": [
                 "What are you afraid of?",
                 "What are you afraid of?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "But… that wasn't enough. Just thinking about entering \nthe race fills me with so much fear, just like that time \nduring the Selection Race…!"
         },
         {
             "name": "Rice Shower",
@@ -69,40 +69,40 @@
             "text": "Whenever those thoughts cross my mind, I become \nso afraid that I start shaking all over…!"
         },
         {
-            "name": "Rice Shower",
-            "text": "I'm just… I'm sorry, Trainer, for being so useless… \nYou should just give up on me…!",
             "choice_data_list": [
                 "<size=34>It shows how desperately you wanted to change.</size>",
                 "It proves how far you were willing to go."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "I'm just… I'm sorry, Trainer, for being so useless… \nYou should just give up on me…!"
         },
         {
-            "name": "Rice Shower",
-            "text": "……… Huh?",
             "choice_data_list": [
                 "Feeling scared is proof of that desire.",
                 "You feel scared because you \nlong so hard to change."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "……… Huh?"
         },
         {
-            "name": "Rice Shower",
-            "text": "B-But… that's……",
             "choice_data_list": [
                 "As long as you don't give up on yourself, \nI won't give up on you.",
                 "As long as you don't give up on yourself, \nI won't give up on you."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "B-But… that's……"
         },
         {
             "name": "Rice Shower",
             "text": "……! R-Really?"
         },
         {
-            "name": "Rice Shower",
-            "text": "You're telling me it's okay for me to keep trying? \nYou really believe in me…? That I can change…?",
             "choice_data_list": [
                 "I'll be waiting for you at the racetrack!",
                 "I'll be waiting for you at the racetrack!"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "You're telling me it's okay for me to keep trying? \nYou really believe in me…? That I can change…?"
         },
         {
             "name": "Rice Shower",
@@ -145,23 +145,23 @@
             "text": "(My legs, my hands… they're still trembling. \nMy fingers feel so cold…!)"
         },
         {
-            "name": "Rice Shower",
-            "text": "(But even so, this is something I must do…!)",
             "choice_data_list": [
                 "Rice!!"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "(But even so, this is something I must do…!)"
         },
         {
             "name": "Rice Shower",
             "text": "Trainer……!!"
         },
         {
-            "name": "Rice Shower",
-            "text": "I, um… ah… \nYou know, I —",
             "choice_data_list": [
                 "You got this! You'll bloom \ninto a beautiful blue rose!",
                 "You got this! You'll bloom \ninto a beautiful blue rose!"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "I, um… ah… \nYou know, I —"
         },
         {
             "name": "Rice Shower",
@@ -231,11 +231,11 @@
             "text": "<i>Ahh……!!</i>"
         },
         {
-            "name": "Rice Shower",
-            "text": "U-Um, Trainer… Would you let me make a selfish request…?",
             "choice_data_list": [
                 "A selfish request?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "U-Um, Trainer… Would you let me make a selfish request…?"
         },
         {
             "name": "Rice Shower",
@@ -250,12 +250,12 @@
             "text": "Would you let me call you <i>big sister</i>…?"
         },
         {
-            "name": "Rice Shower",
-            "text": "Or… is that too weird…?",
             "choice_data_list": [
                 "If that's what you want, sure thing.",
                 "If that's what you want, it's good with me."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Or… is that too weird…?"
         },
         {
             "name": "Rice Shower",

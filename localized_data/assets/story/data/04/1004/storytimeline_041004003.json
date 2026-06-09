@@ -5,20 +5,20 @@
             "text": "A little while after I became Maruzensky's trainer— \nThe day of her debut race had finally arrived."
         },
         {
-            "name": "Maruzensky",
-            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks.",
             "choice_data_list": [
                 "How're you feeling?",
                 "How do you feel?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks."
         },
         {
-            "name": "Maruzensky",
-            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks.",
             "choice_data_list": [
                 "How're you feeling?",
                 "How do you feel?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks."
         },
         {
             "name": "Maruzensky",
@@ -87,12 +87,12 @@
             "text": "Yeeeeaaaaaah!!"
         },
         {
-            "name": "Maruzensky",
-            "text": "………………",
             "choice_data_list": [
                 "What's up?",
                 "What's up?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "………………"
         },
         {
             "name": "Maruzensky",
@@ -107,11 +107,11 @@
             "text": "… Hey, once we get back to the school we'll be done for the day, \nright? Do you have any plans after?"
         },
         {
-            "name": "Maruzensky",
-            "text": "If you're free… maybe we can go for a drive together?",
             "choice_data_list": [
                 "A drive?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "If you're free… maybe we can go for a drive together?"
         },
         {
             "name": "Maruzensky",
@@ -135,12 +135,12 @@
             "text": "… A low, bright red car pulled up, and out stepped Maruzensky."
         },
         {
-            "name": "Maruzensky",
-            "text": "My, what's the blank stare for, something happen?",
             "choice_data_list": [
                 "That's a hell of a car…",
                 "That certainly is a car…"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "My, what's the blank stare for, something happen?"
         },
         {
             "name": "Maruzensky",
@@ -176,18 +176,18 @@
             "text": "Oooooooh, that felt so good～…! Our carefree \ndrive ends at the beach… oh, how romantic!"
         },
         {
-            "name": "Maruzensky",
-            "text": "What'd you think, trainer? My Tacchan \nmust have been a heavenly ride!",
             "choice_data_list": [
                 "I think I did see heaven a few times…"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "What'd you think, trainer? My Tacchan \nmust have been a heavenly ride!"
         },
         {
-            "name": "Maruzensky",
-            "text": "How was it, Trainer? My Tacchan must have been a heavenly ride!",
             "choice_data_list": [
                 "I think I did see heaven a few times…"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "How was it, Trainer? My Tacchan must have been a heavenly ride!"
         },
         {
             "name": "Maruzensky",
@@ -202,12 +202,12 @@
             "text": "Being able to enjoy that feeling, that joy, with my own body… \nI'm truly happy to be born a trainee."
         },
         {
-            "name": "Maruzensky",
-            "text": "The pleasure of going faster than the wind, feeling it rush by \nwith my whole body… There's nothing else like it!",
             "choice_data_list": [
                 "You really like to run, don't you?",
                 "You really like to run, don't you?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "The pleasure of going faster than the wind, feeling it rush by \nwith my whole body… There's nothing else like it!"
         },
         {
             "name": "Maruzensky",
@@ -222,11 +222,11 @@
             "text": "Don't get me wrong, I love to run and race. I just—"
         },
         {
-            "name": "Maruzensky",
-            "text": "When I'm in a serious competition like today, where everyone's \ndreams collide… I can't help but think \"am I out of place?\".",
             "choice_data_list": [
                 "I don't think…"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "When I'm in a serious competition like today, where everyone's \ndreams collide… I can't help but think \"am I out of place?\"."
         },
         {
             "name": "Maruzensky",
@@ -252,11 +252,11 @@
             "text": "Ehehehe, ahahahaha♪"
         },
         {
-            "text": "(Thudududud!!)",
             "choice_data_list": [
                 "…Hang on, there's no way I'm catching you!",
                 "…Hang on, there's no way I'm catching you!"
-            ]
+            ],
+            "text": "(Thudududud!!)"
         },
         {
             "name": "Maruzensky",

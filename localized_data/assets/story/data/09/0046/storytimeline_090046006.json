@@ -1,5 +1,4 @@
 {
-    "title": "Is This Really It?",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -158,5 +157,6 @@
             "name": "Satono Crown",
             "text": "<i>Hweeeeh!?</i>"
         }
-    ]
+    ],
+    "title": "Is This Really It?"
 }

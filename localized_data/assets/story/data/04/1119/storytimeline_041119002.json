@@ -2,37 +2,37 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Dream Journey",
-            "text": "Plans for future training……is it?",
             "choice_data_list": [
                 "Yeah!",
                 "Yeah!"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "Plans for future training……is it?"
         },
         {
-            "text": "It was a few days after signing the contract with \nDream Journey. In preparation for her debut, I had \ngathered some materials and we were discussing training plans.",
             "choice_data_list": [
                 "Let's talk and decide on some things!"
-            ]
+            ],
+            "text": "It was a few days after signing the contract with \nDream Journey. In preparation for her debut, I had \ngathered some materials and we were discussing training plans."
         },
         {
-            "name": "Dream Journey",
-            "text": "…………",
             "choice_data_list": [
                 "……Journey?"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "…………"
         },
         {
             "name": "Dream Journey",
             "text": "I apologize. Honestly……I didn't think I'd get \na trainer. I always managed my own training."
         },
         {
-            "name": "Dream Journey",
-            "text": "Please don't mind it. I would like to hear Trainer-san's \nthoughts though. I suppose I'll scrap my current plans――",
             "choice_data_list": [
                 "Wait, let me see them first!",
                 "Wait, let me see them first!"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "Please don't mind it. I would like to hear Trainer-san's \nthoughts though. I suppose I'll scrap my current plans――"
         },
         {
             "text": "When I saw her plans……I was at a loss for words. \nIt was meticulously put together――It was so \nperfect, there was nothing I could really add."
@@ -50,35 +50,35 @@
             "text": "My running style consumes a lot of stamina, so my \ntraining menu will mostly focus on endurance――"
         },
         {
-            "name": "Dream Journey",
-            "text": "……I'm sorry for rambling. You probably have many concerns. \nPlease, I'd like to hear your opinions, Trainer-san.",
             "choice_data_list": [
                 "…………W-well――"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "……I'm sorry for rambling. You probably have many concerns. \nPlease, I'd like to hear your opinions, Trainer-san."
         },
         {
-            "name": "Dream Journey",
-            "text": "……I suppose even for Trainer-san it's hard to \nanswer so suddenly. I'll let you hold on to it, \nso please take a look. And I'll excuse myself now……",
             "choice_data_list": [
                 "Ah! Sorry, one last thing……!"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "……I suppose even for Trainer-san it's hard to \nanswer so suddenly. I'll let you hold on to it, \nso please take a look. And I'll excuse myself now……"
         },
         {
-            "text": "There was one thing I definitely wanted to \nconfirm today. It was something that a Trainer \nand Uma Musume should know about each other――",
             "choice_data_list": [
                 "I want to hear what your dream is",
                 "I want to hear what your dream is"
-            ]
+            ],
+            "text": "There was one thing I definitely wanted to \nconfirm today. It was something that a Trainer \nand Uma Musume should know about each other――"
         },
         {
             "text": "I want to be a Derby Uma Musume, I want to leave my name \nin history, I just want to win……they all ran with some \ngoal in mind. What \"dream\" is most important to her?"
         },
         {
-            "name": "Dream Journey",
-            "text": "…………………… \nI want to see the \"End of a journey\"",
             "choice_data_list": [
                 "Eh……"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "…………………… \nI want to see the \"End of a journey\""
         },
         {
             "name": "Dream Journey",
@@ -96,67 +96,67 @@
             "text": "After parting with Dream Journey, I remembered something I \nforgot to mention. It would have been fine to use LANE but, \nsince I had the chance, I'd go check on her committee――"
         },
         {
-            "name": "Orfevre",
-            "text": "……――",
             "choice_data_list": [
                 "(O-Orfevre……!)"
-            ]
+            ],
+            "name": "Orfevre",
+            "text": "……――"
         },
         {
             "text": "Orfevre……even though she hasn't debuted, she was an \nUma Musume that was already showing great promise. \nShe had an overwhelming aura, a strong presence."
         },
         {
-            "text": "How long was I just standing silently staring at her? I couldn't \neven move under the amount of pressure she gave off……",
             "choice_data_list": [
                 "U-umm……"
-            ]
+            ],
+            "text": "How long was I just standing silently staring at her? I couldn't \neven move under the amount of pressure she gave off……"
         },
         {
-            "name": "Orfevre",
-            "text": "……It's Aneue's scent.",
             "choice_data_list": [
                 "Eh……"
-            ]
+            ],
+            "name": "Orfevre",
+            "text": "……It's Aneue's scent."
         },
         {
-            "name": "Orfevre",
-            "text": "Why is Aneue's scent coming off of someone like you? \nAnswer me.",
             "choice_data_list": [
                 "Uhhhh, well……――"
-            ]
+            ],
+            "name": "Orfevre",
+            "text": "Why is Aneue's scent coming off of someone like you? \nAnswer me."
         },
         {
             "name": "Dream Journey",
             "text": "――Or. \nIt's fine."
         },
         {
-            "name": "Dream Journey",
-            "text": "That person is my trainer. We were together just a \nshort while ago, so maybe that's why they have my scent.",
             "choice_data_list": [
                 "Which means, you're……",
                 "Which means, you're……"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "That person is my trainer. We were together just a \nshort while ago, so maybe that's why they have my scent."
         },
         {
             "name": "Dream Journey",
             "text": "Yes, I'm Or's older sister. \n――This proud, beautiful little sister……see?"
         },
         {
-            "name": "Orfevre",
-            "text": "……………… \nSo you're Aneue's……",
             "choice_data_list": [
                 "(She's glaring at me……)"
-            ]
+            ],
+            "name": "Orfevre",
+            "text": "……………… \nSo you're Aneue's……"
         },
         {
             "text": "I was a little troubled and looked to Dream Journey \nfor help, but she just gave me her usual gentle smile."
         },
         {
-            "name": "Dream Journey",
-            "text": "Or, just leave it at that. Your gaze is quite \nprecious. Aren't you looking at the wrong person?",
             "choice_data_list": [
                 "(……Hm? Huh……?)"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "Or, just leave it at that. Your gaze is quite \nprecious. Aren't you looking at the wrong person?"
         },
         {
             "name": "Dream Journey",
@@ -179,11 +179,11 @@
             "text": "If you start to feel uncomfortable, just let me \nknow right away. So that doesn't happen, I \nsuppose I'll have to thoroughly clean this place……"
         },
         {
-            "text": "Her calm tone was just like an older sister \ncaring for her younger sister. It didn't seem \nstrange……however……for some reason I was on edge――",
             "choice_data_list": [
                 "……You really care about your younger sister.",
                 "……You really care about your younger sister."
-            ]
+            ],
+            "text": "Her calm tone was just like an older sister \ncaring for her younger sister. It didn't seem \nstrange……however……for some reason I was on edge――"
         },
         {
             "name": "Dream Journey",
@@ -194,23 +194,23 @@
             "text": "My father, mother, little sister……are all my pride. I always \nwant them to be happy and comfortable……that's my wish."
         },
         {
-            "name": "Dream Journey",
-            "text": "By the way……Trainer-san, did you have business \nwith me? Or, just wait a little bit. I'm sure \nit's something really important. ……Right?",
             "choice_data_list": [
                 "Ah……later is fine!"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "By the way……Trainer-san, did you have business \nwith me? Or, just wait a little bit. I'm sure \nit's something really important. ……Right?"
         },
         {
-            "text": "The door slammed shut behind me. I'm the only \none that left. However……I kind of felt like it \nwas an atmosphere where I shouldn't say anything.",
             "choice_data_list": [
                 "(Maybe it's just my imagination……)"
-            ]
+            ],
+            "text": "The door slammed shut behind me. I'm the only \none that left. However……I kind of felt like it \nwas an atmosphere where I shouldn't say anything."
         },
         {
-            "text": "Dream Journey, the girl I had signed a contract with, \nwas an Uma Musume that was highly capable, an honor \nstudent, polite, and very family-oriented. However……――",
             "choice_data_list": [
                 "(Is that……really all there is?)"
-            ]
+            ],
+            "text": "Dream Journey, the girl I had signed a contract with, \nwas an Uma Musume that was highly capable, an honor \nstudent, polite, and very family-oriented. However……――"
         },
         {
             "text": "I kind of felt there was something about her perfume. It \nwas a scent that, for some reason, felt almost nostalgic……――"

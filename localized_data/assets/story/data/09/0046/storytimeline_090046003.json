@@ -1,5 +1,4 @@
 {
-    "title": "Waterside Principal",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -178,5 +177,6 @@
             "name": "Satono Crown",
             "text": "Duramente… Heh, you're right. In that case, \nI'll pick one out for myself while we're at it."
         }
-    ]
+    ],
+    "title": "Waterside Principal"
 }

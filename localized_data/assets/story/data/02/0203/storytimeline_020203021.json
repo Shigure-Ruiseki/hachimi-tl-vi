@@ -1,5 +1,4 @@
 {
-    "title": "There's No Way, Don't Wanna!",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -322,5 +321,6 @@
             "name": "Fusaichi Pandora",
             "text": "Whoa!?"
         }
-    ]
+    ],
+    "title": "There's No Way, Don't Wanna!"
 }

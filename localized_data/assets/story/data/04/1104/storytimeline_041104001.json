@@ -34,30 +34,30 @@
             "text": "That's why, I will――!"
         },
         {
-            "name": "Scout-seeking Uma Musume",
-            "text": "What's my dream, is it? Of course, it's to win races! If they're \nan Uma Musume, then I think they'd all say the same thing.",
             "choice_data_list": [
                 "Then――"
-            ]
+            ],
+            "name": "Scout-seeking Uma Musume",
+            "text": "What's my dream, is it? Of course, it's to win races! If they're \nan Uma Musume, then I think they'd all say the same thing."
         },
         {
             "text": "Let's aim for the top together."
         },
         {
-            "text": "My dream is to guide an Uma Musume to win G1s and \ndefeat famous Uma Musume from around the world――",
             "choice_data_list": [
                 "I want to be that kind of Trainer"
-            ]
+            ],
+            "text": "My dream is to guide an Uma Musume to win G1s and \ndefeat famous Uma Musume from around the world――"
         },
         {
             "name": "Scout-seeking Uma Musume",
             "text": "I see, I guess a Trainer would have that kind of dream. You're \nfree to have big dreams like that. Let's both do our best! See ya!"
         },
         {
-            "text": "……I had intended to scout her, but, \nit seems she didn't think I was serious.",
             "choice_data_list": [
                 "……Too big of a dream, I guess."
-            ]
+            ],
+            "text": "……I had intended to scout her, but, \nit seems she didn't think I was serious."
         },
         {
             "text": "A new trainer talking about big dreams. No matter how serious I am, \nI guess it just looks unrealistic from others' perspective."
@@ -75,10 +75,10 @@
             "text": "……damn. I guess that wasn't enough…… \nHaa……was that last attack too shallow? ……Huu!"
         },
         {
-            "text": "I wonder just how long she had been running. \nThere was already so much sweat pouring down her face.",
             "choice_data_list": [
                 "Amazing……"
-            ]
+            ],
+            "text": "I wonder just how long she had been running. \nThere was already so much sweat pouring down her face."
         },
         {
             "text": "It wasn't that she was showing amazing speed, nor was she \nshowing enough strength to line up with the others."
@@ -180,10 +180,10 @@
             "text": "Haa, haa……cough, haa……haa……"
         },
         {
-            "text": "The one standing there with ragged breath――",
             "choice_data_list": [
                 "(Katsuragi Ace……was it?)"
-            ]
+            ],
+            "text": "The one standing there with ragged breath――"
         },
         {
             "name": "Katsuragi Ace",
@@ -194,10 +194,10 @@
             "text": "Haa……I guess, trying to escape from that position…… \nagainst C.B.……haa, haa……haa……"
         },
         {
-            "text": "Just being able to finish the race after that run was great. \nBut even still, there will be frustration.",
             "choice_data_list": [
                 "(It was a good run……but――)"
-            ]
+            ],
+            "text": "Just being able to finish the race after that run was great. \nBut even still, there will be frustration."
         },
         {
             "text": "Should I just comfort her with 『Do your best next time』? \nEven if I wasn't her trainer, I probably shouldn't \nleave her on her own if she was feeling down――"

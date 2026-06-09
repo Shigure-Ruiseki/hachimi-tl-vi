@@ -32,10 +32,10 @@
             "text": "……I had some misgivings but, if it's just a few days during the \nweek then she should still be able to get some rest too."
         },
         {
-            "text": "Above all, if she's this enthusiastic, then I think \nI should be the one pushing her forward.",
             "choice_data_list": [
                 "Of course, do your best"
-            ]
+            ],
+            "text": "Above all, if she's this enthusiastic, then I think \nI should be the one pushing her forward."
         },
         {
             "name": "Copano Rickey",
@@ -48,29 +48,29 @@
             "text": "A few days out of the week, after training was over she would \nhead to the Executive Committee meetings. Her days were a little \nbusy but, they seemed to be proceeding smoothly. However――"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Fuaaah……! Good morning, Trainer.",
             "choice_data_list": [
                 "Busy night?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Fuaaah……! Good morning, Trainer."
         },
         {
             "name": "Copano Rickey",
             "text": "Hmmm, a little! There were some materials I wanted to prepare for \nthe next meeting. Before I noticed, it was getting light out and \nTarumae got mad at me."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Not getting enough sleep can draw in bad luck, \nso normally I'm careful about that but……it seems \nlike I was a little too enthusiastic!",
             "choice_data_list": [
                 "Get a proper rest today"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Not getting enough sleep can draw in bad luck, \nso normally I'm careful about that but……it seems \nlike I was a little too enthusiastic!"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Well-……you see, actually they wanted \nto hold another meeting today.",
             "choice_data_list": [
                 "Eh!?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Well-……you see, actually they wanted \nto hold another meeting today."
         },
         {
             "name": "Copano Rickey",
@@ -85,12 +85,12 @@
             "text": "Ah, but you don't have to worry! I'll finish \nthe training, I'm an Uma Musume after all, I \nwon't collapse just from something like this!"
         },
         {
-            "name": "Copano Rickey",
-            "text": "And you know, even though it's busy I'm having fun! When I think \nof all the people smiling at the summer festival, I can feel \npower welling up from within～!",
             "choice_data_list": [
                 "I see……",
                 "I see……"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "And you know, even though it's busy I'm having fun! When I think \nof all the people smiling at the summer festival, I can feel \npower welling up from within～!"
         },
         {
             "name": "Copano Rickey",
@@ -101,10 +101,10 @@
             "text": "On top of that, we changed the portable shrine colors to be more \nlucky, added some lucky decorations, set up a special \nstage……anyways, it'll be on another level from a normal festival!"
         },
         {
-            "text": "Her eyes were sparkling as she spoke about the Summer Festival. \nShe had prepared a large amount of materials, and it seemed like \nshe had put a lot of passion in to it.",
             "choice_data_list": [
                 "(I can't tell her 『You need to stop』……!)"
-            ]
+            ],
+            "text": "Her eyes were sparkling as she spoke about the Summer Festival. \nShe had prepared a large amount of materials, and it seemed like \nshe had put a lot of passion in to it."
         },
         {
             "text": "If I can't stop her, then I just need to properly support her. I \nspent the days racking my brain to figure out how to make sure \nthis summer ended without issues."
@@ -118,19 +118,19 @@
             "text": "Miso soup is the ultimate fortune food, the clam can sharpen \nintuition, and green-leafed vegetables give it a healthy look! \nThis rice is for economic fortune! Trainer, did you know!?"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Haa, haa……! Finished my run! \nTrainer, what's next up for training?",
             "choice_data_list": [
                 "Let's take a break",
                 "Let's take a break"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Haa, haa……! Finished my run! \nTrainer, what's next up for training?"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Eh, again? \nIt feels like we're taking more than usual though……",
             "choice_data_list": [
                 "It's just your imagination"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Eh, again? \nIt feels like we're taking more than usual though……"
         },
         {
             "name": "Copano Rickey",
@@ -141,18 +141,18 @@
             "text": "Huuu-…… today's meeting is over! ……But, just a little more. Once \nI get back I need to wash the decorations for the tents again!"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Huh, Trainer!? Why are you driving that car!? \nAre you perhaps……picking me up!?",
             "choice_data_list": [
                 "No……it's just a coincidence"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Huh, Trainer!? Why are you driving that car!? \nAre you perhaps……picking me up!?"
         },
         {
-            "name": "Copano Rickey",
-            "text": "……Really?",
             "choice_data_list": [
                 "Really"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "……Really?"
         },
         {
             "name": "Copano Rickey",
@@ -173,18 +173,18 @@
             "text": "We placed lucky items everywhere after all, there \ndon't seem to be any issues physically or spiritually! \nFufuu, I'm glad I worked hard～!"
         },
         {
-            "text": "The Summer Festival venue had plenty of heart-warming lanterns, \ncolorful tents, and brightly-colored coats, just looking around \nit seemed like the place was tailor-made to make people excited.",
             "choice_data_list": [
                 "You worked hard",
                 "You worked hard"
-            ]
+            ],
+            "text": "The Summer Festival venue had plenty of heart-warming lanterns, \ncolorful tents, and brightly-colored coats, just looking around \nit seemed like the place was tailor-made to make people excited."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Yeah! \nAh, but……that's what I want to say to you.",
             "choice_data_list": [
                 "……what do you mean?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Yeah! \nAh, but……that's what I want to say to you."
         },
         {
             "name": "Copano Rickey",
@@ -207,11 +207,11 @@
             "text": "If I ever reached my limit physically or mentally, I was sure \nyou'd be there to stop me. That even in the worst case, you'd be \nthere to catch me if I fell. That's why……I was fine!"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Maybe you haven't realized it. But what I realized lately is, \nto me you are……my lucky charm.",
             "choice_data_list": [
                 "!"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Maybe you haven't realized it. But what I realized lately is, \nto me you are……my lucky charm."
         },
         {
             "name": "Copano Rickey",

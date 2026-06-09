@@ -22,11 +22,11 @@
             "text": "The sakura mochi here is aaaabsolutely \ndelicious! \nYou're almost sure to be completely and \ntotally amazed!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I'll go and get you one, just wait one minute!",
             "choice_data_list": [
                 "I'll come with you."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "I'll go and get you one, just wait one minute!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -48,12 +48,12 @@
             "text": "Haaah, this place takes the first place cake \nfor sakura mochi!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "It's almost as perfect as my mom's \nhomemade ones. It's superb!",
             "choice_data_list": [
                 "Your mom sounds kind.",
                 "Your mom sounds kind."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "It's almost as perfect as my mom's \nhomemade ones. It's superb!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -68,11 +68,11 @@
             "text": "Sakura mochi is one of the best rice cakes \nin the world, isn't it?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Could it be, perhaps they're…… \nnamed after me!?",
             "choice_data_list": [
                 "Huh??"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Could it be, perhaps they're…… \nnamed after me!?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -107,11 +107,11 @@
             "text": "To be honest, there were times when I \ndoubted Trainer on the way."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Does my Trainer want me to stay on the \nshort track forever, just like everyone \nelse? I wondered.",
             "choice_data_list": [
                 "(Oh, no.)"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Does my Trainer want me to stay on the \nshort track forever, just like everyone \nelse? I wondered."
         },
         {
             "name": "Sakura Bakushin O",
@@ -122,12 +122,12 @@
             "text": "And it's because of that that I've been able \nto run this far."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "In fact, I ran the whole 3600 meters! \nI think I set quite the good example!",
             "choice_data_list": [
                 "……That's right!",
                 "……That's right!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "In fact, I ran the whole 3600 meters! \nI think I set quite the good example!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -138,21 +138,21 @@
             "text": "Trainer, you believe in me, don't you?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Spring and Autumn Tennoushou, Arima \nKinen, and so on…",
             "color_text_info_list": [
                 "Tennoushou"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Spring and Autumn Tennoushou, Arima \nKinen, and so on…"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "You believe I can win all those other \nraces… don't you?"
         },
         {
-            "text": "I could answer that question without any \nhesitation.",
             "choice_data_list": [
                 "Of course I do!"
-            ]
+            ],
+            "text": "I could answer that question without any \nhesitation."
         },
         {
             "text": "If she can keep up her speed and get off \nto a fast start, no one else will be able to \ncatch up…"
@@ -169,11 +169,11 @@
             "text": "Then, thank you for your continued \nsupport of me!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Let's aim for complete domination of the \nBakushin Road! \nOnwaaaards―!",
             "choice_data_list": [
                 "Onwaards―!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Let's aim for complete domination of the \nBakushin Road! \nOnwaaaards―!"
         },
         {
             "name": "Sakura Bakushin O",

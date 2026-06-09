@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Skills are of great importance to win\nraces. Using the skill menu does not\nexpend a turn, so be sure to learn as\nmany as you can!",
             "color_text_info_list": [
                 "Skills are of great importance to win races"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "Skills are of great importance to win\nraces. Using the skill menu does not\nexpend a turn, so be sure to learn as\nmany as you can!"
         },
         {
             "name": "Director Akikawa",

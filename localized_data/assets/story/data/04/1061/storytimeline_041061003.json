@@ -35,11 +35,11 @@
             "text": "What's wrong, still thinking about that selfish daughter? It's \ntrue I felt some of her mother's talent, but with that attitude \nshe's gonna have a hard road ahead."
         },
         {
-            "name": "Experienced Trainer B",
-            "text": "Considering her abilities, she's got too much spirit. Even if she \ncan get away with 2nd right now, in the classics, against the \nreal greats she won't be able to compete.",
             "choice_data_list": [
                 "No, even on the big stage she can still compete."
-            ]
+            ],
+            "name": "Experienced Trainer B",
+            "text": "Considering her abilities, she's got too much spirit. Even if she \ncan get away with 2nd right now, in the classics, against the \nreal greats she won't be able to compete."
         },
         {
             "name": "Experienced Trainer B",
@@ -96,11 +96,11 @@
             "text": "What drives her that far?"
         },
         {
-            "name": "King Halo",
-            "text": "Ha… Ha… Fu～. \nMy time is… mm, not bad.",
             "choice_data_list": [
                 "Good work."
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Ha… Ha… Fu～. \nMy time is… mm, not bad."
         },
         {
             "name": "King Halo",
@@ -122,12 +122,12 @@
             "text": "…Mother."
         },
         {
-            "name": "King Halo",
-            "text": "…",
             "choice_data_list": [
                 "Not going to answer?",
                 "You're not going to answer?"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "…"
         },
         {
             "name": "King Halo",
@@ -146,12 +146,12 @@
             "text": "Even when I decided I wanted to race, \nshe was completely against it!!"
         },
         {
-            "name": "King Halo",
-            "text": "Saying things like \"The world of racing isn't so \nsweet\" or \"You don't have to imitate me\" to me!!",
             "choice_data_list": [
                 "Isn't she just worried about her daughter?",
                 "Isn't she just worrying for her daughter?"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Saying things like \"The world of racing isn't so \nsweet\" or \"You don't have to imitate me\" to me!!"
         },
         {
             "name": "King Halo",
@@ -174,11 +174,11 @@
             "text": "Don't decide those things for yourself! \nAs if those words would convince me to give up!"
         },
         {
-            "name": "King Halo",
-            "text": "I'll absolutely win and prove my talent. I'll grab hold of a \nworthy result and force you to acknowledge me as first-class!",
             "choice_data_list": [
                 "\"First-Class\"…"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "I'll absolutely win and prove my talent. I'll grab hold of a \nworthy result and force you to acknowledge me as first-class!"
         },
         {
             "name": "King Halo",

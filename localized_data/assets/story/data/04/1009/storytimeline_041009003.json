@@ -24,12 +24,12 @@
             "text": "Hmph, good riddance! Now that the crowd that's been following me \nis gone, I can finally focus on training-"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "…is what I've been wanting to say, but… \nYou! Why are you still here!?",
             "choice_data_list": [
                 "I wanted to talk to you.",
                 "I wanted to talk to you."
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "…is what I've been wanting to say, but… \nYou! Why are you still here!?"
         },
         {
             "name": "Daiwa Scarlet",
@@ -44,11 +44,11 @@
             "text": "This is the real me. \n…Like those guys said, I'm a selfish, stubborn pain in the ass."
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "Let me guess, not what you expected? \nIt's fine, you can go away now.",
             "choice_data_list": [
                 "I'm not going anywhere."
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "Let me guess, not what you expected? \nIt's fine, you can go away now."
         },
         {
             "name": "Daiwa Scarlet",
@@ -59,11 +59,11 @@
             "text": "I'm not who you think I am! \nWhy don't you get it already!?"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "There's so many other fast horse girls in Tracen Academy! \nI'm just some poser who acts big and got humiliated!",
             "choice_data_list": [
                 "It wasn't humiliating at all!"
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "There's so many other fast horse girls in Tracen Academy! \nI'm just some poser who acts big and got humiliated!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -90,12 +90,12 @@
             "text": "I couldn't be satisfied with myself unless I was exactly that… \nThat's just how I am, so that was the only way I could react…!"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "For my own sake, I can't stop trying to be number one!",
             "choice_data_list": [
                 "I came here because of that, to support you.",
                 "I came here because of that, to support you."
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "For my own sake, I can't stop trying to be number one!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -106,11 +106,11 @@
             "text": "Wait. Even after hearing all that… \nAre you genuinely stupid?"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "Take the hint already! I'm just a stubborn kid who \nonly ever obsesses over being number one!!",
             "choice_data_list": [
                 "Then let's aim for that number one together."
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "Take the hint already! I'm just a stubborn kid who \nonly ever obsesses over being number one!!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -121,24 +121,24 @@
             "text": "Just so you know, \nI'm not going to be some obedient girl who just listens to you!"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "Also, I'm going to complain a lot if I don't like \nyour training plan! Can you handle that!?",
             "choice_data_list": [
                 "Then we'll discuss and adjust it until you like it!",
                 "Then we'll discuss and adjust it until you like it!"
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "Also, I'm going to complain a lot if I don't like \nyour training plan! Can you handle that!?"
         },
         {
             "name": "Daiwa Scarlet",
             "text": "…W-What's your problem?"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "You want to support me? You want to \ndo this together? Are you serious?",
             "choice_data_list": [
                 "I'm the \"number one\" trainer for you.",
                 "I'm the \"number one\" trainer for you."
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "You want to support me? You want to \ndo this together? Are you serious?"
         },
         {
             "name": "Daiwa Scarlet",

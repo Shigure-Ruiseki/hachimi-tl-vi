@@ -5,11 +5,11 @@
             "text": "This was something that happened when I went \nshopping for training equipment with Gran Alegria……"
         },
         {
-            "name": "Store Clerk",
-            "text": "So you'll be paying with credit. \nThen, please use your card here.",
             "choice_data_list": [
                 "Okay……Oh, that's right"
-            ]
+            ],
+            "name": "Store Clerk",
+            "text": "So you'll be paying with credit. \nThen, please use your card here."
         },
         {
             "text": "I had forgotten that I had received a new \ncard recently. That's because, this was——"
@@ -19,24 +19,24 @@
             "text": "!? T-that card……!!"
         },
         {
-            "name": "Gran Alegria",
-            "text": "It really is! \nThat card, it's one that earns you Miles for shopping, right!?",
             "choice_data_list": [
                 "You can tell just by looking at it?",
                 "You can tell just by looking at it?"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "It really is! \nThat card, it's one that earns you Miles for shopping, right!?"
         },
         {
             "name": "Gran Alegria",
             "text": "Yeah! \nI've already decided I'll get that one for sure someday!"
         },
         {
-            "name": "Gran Alegria",
-            "text": "……By the way, Trainer-san. Did you know? \nThere's a trick to saving up shopping Miles!",
             "choice_data_list": [
                 "Eh? There is?",
                 "Eh? There is?"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "……By the way, Trainer-san. Did you know? \nThere's a trick to saving up shopping Miles!"
         },
         {
             "name": "Gran Alegria",
@@ -51,21 +51,21 @@
             "text": "Trainer-san, look at that. \nThat's the mark!"
         },
         {
-            "name": "Gran Alegria",
-            "text": "If you shop at a store with that, \nyou'll save up way more Miles than normal!",
             "choice_data_list": [
                 "I see……just wait here"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "If you shop at a store with that, \nyou'll save up way more Miles than normal!"
         },
         {
             "text": "There just happened to be some books I wanted to buy, so I figured \nI'd try it out. And when I used my smartphone to check my points……"
         },
         {
-            "name": "Gran Alegria",
-            "text": "How'd it turn out, Trainer-san!?",
             "choice_data_list": [
                 "It's true! I got double the points."
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "How'd it turn out, Trainer-san!?"
         },
         {
             "name": "Gran Alegria",
@@ -83,12 +83,12 @@
             "text": "『And so, there are many Uma Musume named after the stars \nin the sky, and occasionally, their achievements——』"
         },
         {
-            "name": "Gran Alegria",
-            "text": "Ah～that was interesting! It really is times like \nthese that can inspire you, don't you think!?",
             "choice_data_list": [
                 "Yeah! I learned a lot and——",
                 "Yeah! I learned a lot and——"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "Ah～that was interesting! It really is times like \nthese that can inspire you, don't you think!?"
         },
         {
             "name": "Gran Alegria",
@@ -98,28 +98,28 @@
             "text": "It had been a short while since we left the Planetarium. \n……and suddenly I stopped in front of a clothing store."
         },
         {
-            "name": "Gran Alegria",
-            "text": "Hm? Wah, what a wonderful shop! Mile mark spotted too! \n……Trainer-san, is this where you normally go?",
             "choice_data_list": [
                 "No……I was just curious"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "Hm? Wah, what a wonderful shop! Mile mark spotted too! \n……Trainer-san, is this where you normally go?"
         },
         {
-            "text": "I always felt it was a little too stylish for me, so I never \nactually went in. ——But, if it was to save up some Miles……",
             "choice_data_list": [
                 "……Let's take a look!!"
-            ]
+            ],
+            "text": "I always felt it was a little too stylish for me, so I never \nactually went in. ——But, if it was to save up some Miles……"
         },
         {
             "name": "Gran Alegria",
             "text": "Yeah, it really looks good on you! That jacket! \nStyle points: 100 Miles!"
         },
         {
-            "name": "Gran Alegria",
-            "text": "Ehehe! Aren't you glad we entered this store!?",
             "choice_data_list": [
                 "It's thanks to you, Gran!"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "Ehehe! Aren't you glad we entered this store!?"
         },
         {
             "name": "Gran Alegria",
@@ -138,11 +138,11 @@
             "text": "——Alright! \nI suppose that's all I can show you for today."
         },
         {
-            "text": "Before I even realized it, the hours had flown by. \nIt does feel like I've learned about Shopping Miles too.",
             "choice_data_list": [
                 "Thanks, I took up so much of your time",
                 "Thanks, I took up so much of your time"
-            ]
+            ],
+            "text": "Before I even realized it, the hours had flown by. \nIt does feel like I've learned about Shopping Miles too."
         },
         {
             "name": "Gran Alegria",
@@ -165,19 +165,19 @@
             "text": "Wait, what!? That Choco plate at the top! \n『mile』 is written on it, you see!? Amaaazing!"
         },
         {
-            "text": "Hearing her words, a sudden thought came to mind. \n……Good. My current Miles should be just enough.",
             "choice_data_list": [
                 "Hey Gran, if you still have time——",
                 "Hey Gran, if you still have time——"
-            ]
+            ],
+            "text": "Hearing her words, a sudden thought came to mind. \n……Good. My current Miles should be just enough."
         },
         {
-            "name": "Gran Alegria",
-            "text": "A real 『mile』 choco plate……! \nThe sparkly level is 100 Miles!",
             "choice_data_list": [
                 "Yeah, this really is impressive……!",
                 "Yeah, this really is impressive……!"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "A real 『mile』 choco plate……! \nThe sparkly level is 100 Miles!"
         },
         {
             "text": "Illuminated by the lights, \nthe cake sparkled like a work of art."
@@ -186,17 +186,17 @@
             "text": "To think I could turn my Miles in to something like this. \n……It really was quite moving."
         },
         {
-            "name": "Gran Alegria",
-            "text": "……But, is this really okay? \nUsing all those Miles you just saved up.",
             "choice_data_list": [
                 "Of course!"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "……But, is this really okay? \nUsing all those Miles you just saved up."
         },
         {
-            "text": "The emotion I was feeling right now was a sense \nof fulfillment at seeing the results of my efforts. \nI had no regrets about using those Miles.",
             "choice_data_list": [
                 "It's the materialization of all those Miles"
-            ]
+            ],
+            "text": "The emotion I was feeling right now was a sense \nof fulfillment at seeing the results of my efforts. \nI had no regrets about using those Miles."
         },
         {
             "name": "Gran Alegria",
@@ -242,22 +242,22 @@
             "text": "……The Miles don't disappear."
         },
         {
-            "name": "Gran Alegria",
-            "text": "Miles……are forever!",
             "choice_data_list": [
                 "Huh?"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "Miles……are forever!"
         },
         {
             "name": "Gran Alegria",
             "text": "Trainer-san, thank you very much! \nThat's a 100 point, gold-star Mile!"
         },
         {
-            "name": "Gran Alegria",
-            "text": "This cake, I won't forget the taste for the rest of my life!",
             "choice_data_list": [
                 "O-okay?"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "This cake, I won't forget the taste for the rest of my life!"
         },
         {
             "name": "Gran Alegria",

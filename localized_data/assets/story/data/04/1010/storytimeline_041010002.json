@@ -85,11 +85,11 @@
             "text": "…when she's showing this much motiviation, \nI'd feel really bad if I just flat out turned her down."
         },
         {
-            "text": "The first thing I should do, is harden my heart and-",
             "choice_data_list": [
                 "Looking forward to working with you, Taiki Shuttle!",
                 "Looking forward to working with you, Taiki Shuttle!"
-            ]
+            ],
+            "text": "The first thing I should do, is harden my heart and-"
         },
         {
             "name": "Taiki Shuttle",
@@ -131,11 +131,11 @@
             "text": "Eh? Um… \nI-is that fine, Trainer-san…?"
         },
         {
-            "text": "…I didn't have any plans, but having someone as \nstrong as Silence Suzuka do some parallel-running \ntraining, was honestly greatly appreciated.",
             "choice_data_list": [
                 "If you don't mind?",
                 "If you don't mind?"
-            ]
+            ],
+            "text": "…I didn't have any plans, but having someone as \nstrong as Silence Suzuka do some parallel-running \ntraining, was honestly greatly appreciated."
         },
         {
             "name": "Silence Suzuka",
@@ -150,12 +150,12 @@
             "text": "Absolutely no problem! \nLet's go, let's go!"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Wait wait, Taiki, just now \nI was asking Trainer-san, you know…?",
             "choice_data_list": [
                 "It's fine, go ahead!",
                 "It's fine, go ahead!"
-            ]
+            ],
+            "name": "Silence Suzuka",
+            "text": "Wait wait, Taiki, just now \nI was asking Trainer-san, you know…?"
         },
         {
             "name": "Taiki Shuttle",
@@ -169,11 +169,11 @@
             "text": "While wondering if everything was going to be fine, I waited by \nthe front gate for them to return. And then-"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Haa, haa, haa… we've returned.",
             "choice_data_list": [
                 "Huh? And Taiki Shuttle…?"
-            ]
+            ],
+            "name": "Silence Suzuka",
+            "text": "Haa, haa, haa… we've returned."
         },
         {
             "name": "Silence Suzuka",
@@ -184,11 +184,11 @@
             "text": "S-sorry…! She has a tendency to run off and talk to anyone, and \nI thought I was being careful about that but…!"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "When I'm running I tend to get so focused… \nI-I'm really sorry!!",
             "choice_data_list": [
                 "Let's go find her…!!"
-            ]
+            ],
+            "name": "Silence Suzuka",
+            "text": "When I'm running I tend to get so focused… \nI-I'm really sorry!!"
         },
         {
             "text": "Together with Silence Suzuka, we looked around \nthe running course they had taken to try to find Taiki Shuttle…"

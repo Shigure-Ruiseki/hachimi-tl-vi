@@ -1,5 +1,4 @@
 {
-    "title": "The Camaraderie",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -213,5 +212,6 @@
             "name": "Tamamo Cross",
             "text": "…… Say, an idea jus' hit me! \nListen up, friends ——"
         }
-    ]
+    ],
+    "title": "The Camaraderie"
 }

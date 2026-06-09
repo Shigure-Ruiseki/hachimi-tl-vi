@@ -5,11 +5,11 @@
             "text": "I felt a sudden scent of greenery and looked up. Yamanin \nZephyr appeared as if she was chasing the early summer wind."
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "Oh? Were you also invited by the white south wind? \nIt's such a joyful feeling isn't it?",
             "choice_data_list": [
                 "Are you going somewhere?"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "Oh? Were you also invited by the white south wind? \nIt's such a joyful feeling isn't it?"
         },
         {
             "name": "Yamanin Zephyr",
@@ -26,11 +26,11 @@
             "text": "And there comes―"
         },
         {
-            "name": "Trainee A",
-            "text": "Ms. Zephyr! Please reply if you are here! \n… Ugh… She's not here either…",
             "choice_data_list": [
                 "Zephyr was here just a moment ago…"
-            ]
+            ],
+            "name": "Trainee A",
+            "text": "Ms. Zephyr! Please reply if you are here! \n… Ugh… She's not here either…"
         },
         {
             "name": "Trainee A",
@@ -44,11 +44,11 @@
             "text": "Considering the direction Zephyr walked, \nI first looked into the cafeteria, but…"
         },
         {
-            "name": "Trainee B",
-            "text": "Zephyr? hm… she just was just here a moment ago～. \nShe left after saying something about the evening breeze…",
             "choice_data_list": [
                 "'Evening Breze' huh…"
-            ]
+            ],
+            "name": "Trainee B",
+            "text": "Zephyr? hm… she just was just here a moment ago～. \nShe left after saying something about the evening breeze…"
         },
         {
             "name": "Yamanin Zephyr",
@@ -74,10 +74,10 @@
             "text": "Eh～, how is that possible! Why can't we catch up to her～!?"
         },
         {
-            "text": "She was like a drifting wind, we were unable to catch up to her. \nWe then looked around on the rooftop and―",
             "choice_data_list": [
                 "There she was!!"
-            ]
+            ],
+            "text": "She was like a drifting wind, we were unable to catch up to her. \nWe then looked around on the rooftop and―"
         },
         {
             "name": "Trainee A",
@@ -103,10 +103,10 @@
             "text": "Zephyr's words were hard to understand as usual… \nshe uses the word 'calm wind' whenever someone \nasks her about her schedule."
         },
         {
-            "text": "'Plan is a calm wind' meant that she has something \nto do that day. Which means―",
             "choice_data_list": [
                 "You're not gonna participate in social gathering?"
-            ]
+            ],
+            "text": "'Plan is a calm wind' meant that she has something \nto do that day. Which means―"
         },
         {
             "name": "Yamanin Zephyr",
@@ -121,10 +121,10 @@
             "text": "I see, you must have training that day. \nRoger that! Thanks for helping me today trainer!"
         },
         {
-            "text": "(*pata *pata *pata…)",
             "choice_data_list": [
                 "If it's about training, we can always reschedule?"
-            ]
+            ],
+            "text": "(*pata *pata *pata…)"
         },
         {
             "name": "Yamanin Zephyr",
@@ -139,11 +139,11 @@
             "text": "The color of the wind changes from time to time. I want to \nleave room for decisions unaffected by the weather vane…"
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "…I want to be my true self. Future is unpredictable. Will it \nbe a down wind or a light breeze? We may never know.",
             "choice_data_list": [
                 "That's why you didn't make any promise?"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "…I want to be my true self. Future is unpredictable. Will it \nbe a down wind or a light breeze? We may never know."
         },
         {
             "name": "Yamanin Zephyr",

@@ -12,11 +12,11 @@
             "text": "Um～, excuse me."
         },
         {
-            "name": "Grass Wonder",
-            "text": "Are you perhaps a trainer affiliated with the school?",
             "choice_data_list": [
                 "Well, yes, but……"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Are you perhaps a trainer affiliated with the school?"
         },
         {
             "name": "Grass Wonder",
@@ -34,12 +34,12 @@
             "text": "Oh my, that sounds like quite the predicament!"
         },
         {
-            "name": "Grass Wonder",
-            "text": "If you'd like, I could lead you back to the school.",
             "choice_data_list": [
                 "Is that okay?",
                 "Is that okay?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "If you'd like, I could lead you back to the school."
         },
         {
             "name": "Grass Wonder",
@@ -61,11 +61,11 @@
             "text": "Huu～. If we've made it this far, \nthe school should be nearby."
         },
         {
-            "name": "Grass Wonder",
-            "text": "The sun has already started setting, hasn't it～? I ended up \nwalking at such a carefree pace…… I'm sorry about that.",
             "choice_data_list": [
                 "I enjoyed the scenery though"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "The sun has already started setting, hasn't it～? I ended up \nwalking at such a carefree pace…… I'm sorry about that."
         },
         {
             "name": "Grass Wonder",
@@ -86,12 +86,12 @@
             "text": "(Guuuuuuu)"
         },
         {
-            "name": "Grass Wonder",
-            "text": "……Oh dear～.",
             "choice_data_list": [
                 "Sorry about that……",
                 "Sorry about that……"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "……Oh dear～."
         },
         {
             "name": "Grass Wonder",
@@ -102,11 +102,11 @@
             "text": "That's right, I happen to have something perfect \nfor that with me. Trainer-san, do you mind if I \ntake up just a little bit more of your time?"
         },
         {
-            "name": "Grass Wonder",
-            "text": "If you're fine with it, Trainer-san, \nlet me treat you to a 『Tea Ceremony』.",
             "choice_data_list": [
                 "『Tea Ceremony』?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "If you're fine with it, Trainer-san, \nlet me treat you to a 『Tea Ceremony』."
         },
         {
             "name": "Grass Wonder",
@@ -117,11 +117,11 @@
             "text": "Tea ceremonies are my hobby, you see. The whole \nreason I was out so far was to order some matcha \nand sweets from a store that I fancy."
         },
         {
-            "name": "Grass Wonder",
-            "text": "I happen to have the proper equipment \nwith me so…… how about it?",
             "choice_data_list": [
                 "Absolutely!"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "I happen to have the proper equipment \nwith me so…… how about it?"
         },
         {
             "name": "Grass Wonder",
@@ -131,35 +131,35 @@
             "text": "Then, I enjoyed a cup of tea and some elegant \nsweets prepared for me by Grass Wonder."
         },
         {
-            "name": "Grass Wonder",
-            "text": "How was it, Trainer-san?",
             "choice_data_list": [
                 "It was exquisite"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "How was it, Trainer-san?"
         },
         {
             "name": "Grass Wonder",
             "text": "Fufuu, I'm glad to hear it."
         },
         {
-            "name": "Grass Wonder",
-            "text": "Being fulfilling for body and soul \nis one of the good points about tea.",
             "choice_data_list": [
                 "Have you been practicing for long?",
                 "Have you been practicing for long?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Being fulfilling for body and soul \nis one of the good points about tea."
         },
         {
             "name": "Grass Wonder",
             "text": "Yes, since I was young."
         },
         {
-            "name": "Grass Wonder",
-            "text": "Tea ceremonies, flower arrangement, calligraphy, Japanese dance…… \noh, and a little training with the Naginata.",
             "choice_data_list": [
                 "That's amazing!!",
                 "That's amazing!!"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Tea ceremonies, flower arrangement, calligraphy, Japanese dance…… \noh, and a little training with the Naginata."
         },
         {
             "name": "Grass Wonder",
@@ -174,12 +174,12 @@
             "text": "Because of that, I had a lot of exposure to the \nwonders of Japanese culture. It was only natural \nthat I would grow an interest in it too."
         },
         {
-            "name": "Grass Wonder",
-            "text": "And back home, I had a teacher that had knowledge of this too, \nso I asked my parents if I could study under them.",
             "choice_data_list": [
                 "You really like Japanese culture, huh?",
                 "You really like Japanese culture, huh?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "And back home, I had a teacher that had knowledge of this too, \nso I asked my parents if I could study under them."
         },
         {
             "name": "Grass Wonder",

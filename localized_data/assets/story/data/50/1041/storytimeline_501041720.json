@@ -9,18 +9,18 @@
             "text": "Oh, yes, yeees! A custo… a student!"
         },
         {
-            "name": "???",
-            "text": "Injury? Illness? Or mental care? \nNo matter, just leave it all to me!",
             "choice_data_list": [
                 "…Who are you!?"
-            ]
+            ],
+            "name": "???",
+            "text": "Injury? Illness? Or mental care? \nNo matter, just leave it all to me!"
         },
         {
-            "name": "???",
-            "text": "Huh? Well, I'm in the infirmary. \n…I'm a little bit of a fantastic \nhealth teacher? Sort of?",
             "choice_data_list": [
                 "Is that right…?"
-            ]
+            ],
+            "name": "???",
+            "text": "Huh? Well, I'm in the infirmary. \n…I'm a little bit of a fantastic \nhealth teacher? Sort of?"
         },
         {
             "name": "???",
@@ -35,14 +35,14 @@
             "text": "The savior who (supposedly) guides many \nUma Musume! \nThe (self-proclaimed) legendary \nbamboo needle-er with miraculous skills!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Her name is Shinzami Anshinnzawa! ! \nWhoa, Anshi～n☆",
             "choice_data_list": [
                 "………"
             ],
             "color_text_info_list": [
                 "Shinzami Anzenzawa"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Her name is Shinzami Anshinnzawa! ! \nWhoa, Anshi～n☆"
         },
         {
             "name": "Sakura Bakushin O",
@@ -65,22 +65,22 @@
             "text": "A-ha-ha! Don't sweat it, alright? \nJust poking a little secret hole with \nmy secret bamboo needle."
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Then, you'll beee――, super-duper fast… \nsuper-duper tough… \nAnyways, you'll have a ton of suuuuper \ngreat things happen to you!",
             "choice_data_list": [
                 "(Very suspicious…)"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Then, you'll beee――, super-duper fast… \nsuper-duper tough… \nAnyways, you'll have a ton of suuuuper \ngreat things happen to you!"
         },
         {
             "name": "Anshinzawa Sasami",
             "text": "Ah! For the record, I'm not suspicious! I've \nnever failed at anything even once before!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "……My master, that is.",
             "choice_data_list": [
                 "Master \"that is\"!?"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "……My master, that is."
         },
         {
             "name": "Anshinzawa Sasami",
@@ -91,11 +91,11 @@
             "text": "I've had the experience of taking a class on \ntea with… no, sorry, training under a \nlegendary master for 10 years."
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Waaow, Ansh～in☆",
             "choice_data_list": [
                 "(Suspicious enough to jump out at you…!)"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Waaow, Ansh～in☆"
         },
         {
             "text": "There was no way I was going to \nget sucked into this story. I was \nabout to leave with <chrname>, but――"
@@ -105,11 +105,11 @@
             "text": "W, waitwaitwait, wait, waaaait!!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "You're Sakura Bakushin O, aren't you!? \nYou're the class president who's always \nchasing speed, trying to be a role \nmodel for anyone and everyone!",
             "choice_data_list": [
                 "…You know of her."
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "You're Sakura Bakushin O, aren't you!? \nYou're the class president who's always \nchasing speed, trying to be a role \nmodel for anyone and everyone!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -136,11 +136,11 @@
             "text": "I toooootally won't fail at all～!!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "…Probably.",
             "choice_data_list": [
                 "Probably!?"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "…Probably."
         },
         {
             "name": "Anshinzawa Sasami",
@@ -154,26 +154,26 @@
             "text": "…This reeks of danger, but there's \na possibility that it could be very \neffective… a possibility."
         },
         {
-            "text": "What should I do…?",
             "choice_data_list": [
                 "Aim for the vital point that'll \nmake a strong Uma Musume.",
                 "Target the vital point that wins races.",
                 "Aim for the vital point of energy and health.",
                 "Target the vital point that brings \nincreased charm.",
                 "I'm worried, so just cut it out."
-            ]
+            ],
+            "text": "What should I do…?"
         },
         {
             "name": "Anshinzawa Sasami",
             "text": "Hm-hm, the \"vital point that'll \nmake a strong Uma Musume,\" is it!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -243,12 +243,12 @@
             "text": "Hm-hm, the \"vital point that'll \nwin races,\" is it!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -318,12 +318,12 @@
             "text": "Hm-hm, the \"vital point of energy \nand health,\" is it!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -393,12 +393,12 @@
             "text": "Hm-hm, the \"vital point that'll \nbring increased charm,\" is it!"
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -464,12 +464,12 @@
             "text": "I shouldn't have gone along with such \na suspicious offer… And I felt quite \na bit of regret."
         },
         {
-            "name": "Anshinzawa Sasami",
-            "text": "Whaaat!? Oh, don't say that～…",
             "choice_data_list": [
                 "Pass it up",
                 "Reconsider"
-            ]
+            ],
+            "name": "Anshinzawa Sasami",
+            "text": "Whaaat!? Oh, don't say that～…"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -492,12 +492,12 @@
             "text": "What speed…! \nJust as I expected of a fan who's been \nwatching me run!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I must continue to show you \nmy exemplary Bakushin!!",
             "choice_data_list": [
                 "Guess so.",
                 "Guess so."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "I must continue to show you \nmy exemplary Bakushin!!"
         },
         {
             "text": "I've decided to forget about today's \nincident, since it seems there's no point in \nthinking about who Anshinzawa was…"

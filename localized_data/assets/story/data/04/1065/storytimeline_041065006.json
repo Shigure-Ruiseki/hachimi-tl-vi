@@ -16,11 +16,11 @@
             "text": "It was a store overflowing with Gyaru-looking girls. It seemed \nlike it would be a good topic of discussion with Daitaku Helios, \nso I was going to take a look――"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Oh, that's unexpected～! Trai-pi, what's up?",
             "choice_data_list": [
                 "I was curious about the menu"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Oh, that's unexpected～! Trai-pi, what's up?"
         },
         {
             "name": "Daitaku Helios",
@@ -31,10 +31,10 @@
             "text": "You're goin' really hard at that \nparty trainin' huh!? Mad respect!!"
         },
         {
-            "text": "That wasn't what I was doing though―― I just wanted to understand \nmore about Daitaku Helios and her love for partying.",
             "choice_data_list": [
                 "(Guess it wouldn't hurt to try though)"
-            ]
+            ],
+            "text": "That wasn't what I was doing though―― I just wanted to understand \nmore about Daitaku Helios and her love for partying."
         },
         {
             "name": "Daitaku Helios",
@@ -72,11 +72,11 @@
             "text": "Wei wei! Sounds good-! \nGive it all you got-!!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "So? Trai-pippi, what're you gonna do now? \nHeading back to school?",
             "choice_data_list": [
                 "Take a break. Ate too much……"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "So? Trai-pippi, what're you gonna do now? \nHeading back to school?"
         },
         {
             "name": "Daitaku Helios",
@@ -99,11 +99,11 @@
             "text": "We'll grab some make up from here, get you all coordinated, \nand then hit the club like boom boom boom～☆"
         },
         {
-            "name": "Gyaru D",
-            "text": "Sounds fun～! Let me join in～! \nI'm wicked good at doing make up!",
             "choice_data_list": [
                 "……eh?"
-            ]
+            ],
+            "name": "Gyaru D",
+            "text": "Sounds fun～! Let me join in～! \nI'm wicked good at doing make up!"
         },
         {
             "name": "Daitaku Helios",
@@ -121,45 +121,45 @@
             "text": "HEY YO! Helios, just who I was waitin' for! \nHeat it up tonight, and drop the beat!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "YO YO! You got it☆ Just sit tight, peeps! \nTonight's gonna be wicked lit, I'll set your hearts afire!",
             "choice_data_list": [
                 "(I feel like I'm in over my head……)",
                 "(I feel like I'm in over my head……)"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "YO YO! You got it☆ Just sit tight, peeps! \nTonight's gonna be wicked lit, I'll set your hearts afire!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Wei we-i☆ \nTrai-pi, havin' fun～!?",
             "choice_data_list": [
                 "We-…Weii!?"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Wei we-i☆ \nTrai-pi, havin' fun～!?"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Oh, soundin' good! \nOnce more, Weiii-☆",
             "choice_data_list": [
                 "Wei we-i……!!"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Oh, soundin' good! \nOnce more, Weiii-☆"
         },
         {
             "text": "The club was overflowing with young people enjoying themselves, \nand at the center of all that stood Daitaku Helios."
         },
         {
-            "text": "Daitaku Helios looked more lively than ever―― As I thought, \nunderstanding more about the party life would be a plus.",
             "choice_data_list": [
                 "(I need to keep up……)"
-            ]
+            ],
+            "text": "Daitaku Helios looked more lively than ever―― As I thought, \nunderstanding more about the party life would be a plus."
         },
         {
             "text": "However――"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Oooi-, ya dead～?",
             "choice_data_list": [
                 "I can't move……"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Oooi-, ya dead～?"
         },
         {
             "name": "Daitaku Helios",
@@ -170,10 +170,10 @@
             "text": "You just debuted, remember? \nJust start out by vibin' at your own pace, okay?"
         },
         {
-            "text": "Daitaku Helios' smile was so dazzling, I almost felt I had to \nclose my eyes. I intended to support her, but it felt like it was \nthe other way around……",
             "choice_data_list": [
                 "But this isn't enough……!"
-            ]
+            ],
+            "text": "Daitaku Helios' smile was so dazzling, I almost felt I had to \nclose my eyes. I intended to support her, but it felt like it was \nthe other way around……"
         },
         {
             "name": "Daitaku Helios",
@@ -184,11 +184,11 @@
             "text": "So you're really for real about aiming to be a party animal, huh? \nYou're livin' it up!! Let's keep livin' it up!!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Okay, got it! Anyways, let's get started with maxing out those \nvibes! Smash through your limits――!!",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Okay, got it! Anyways, let's get started with maxing out those \nvibes! Smash through your limits――!!"
         },
         {
             "name": "Daitaku Helios",
@@ -199,12 +199,12 @@
             "text": "Heee～y everyone-!! \nDJs Helios & Trai-pi are gonna take it from here～☆"
         },
         {
-            "name": "Party Peeps",
-            "text": "FOOOOOOO！！！！！",
             "choice_data_list": [
                 "No wait, being a DJ……!?",
                 "No wait, being a DJ……!?"
-            ]
+            ],
+            "name": "Party Peeps",
+            "text": "FOOOOOOO！！！！！"
         },
         {
             "name": "Daitaku Helios",

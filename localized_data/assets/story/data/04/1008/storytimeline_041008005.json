@@ -52,22 +52,22 @@
             "text": "Now that I think about it, isn't that actually \nkinda cool!? Senpai was looking at me warmly."
         },
         {
-            "name": "Vodka",
-            "text": "Thinking about it calmly… It sounds like the \nline of a bad guy who got hurt. Like, 'Remember \nthis next time!'",
             "choice_data_list": [
                 "Indeed…"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Thinking about it calmly… It sounds like the \nline of a bad guy who got hurt. Like, 'Remember \nthis next time!'"
         },
         {
             "name": "Vodka",
             "text": "That's not true! It wasn't like this before I \nenrolled. I never lost. But…"
         },
         {
-            "name": "Vodka",
-            "text": "Trecen Academy has amazing people, so sometimes \nyou lose. When you lose, your heart screams in \ndisappointment.",
             "choice_data_list": [
                 "What if I don't tell you?"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Trecen Academy has amazing people, so sometimes \nyou lose. When you lose, your heart screams in \ndisappointment."
         },
         {
             "name": "Vodka",
@@ -97,12 +97,12 @@
             "text": "I'm sorry for making you worry, Trainer. I feel \nlike I'm losing my cool."
         },
         {
-            "name": "Vodka",
-            "text": "I'm going to challenge any strong \nopponent head-on. That's fine, but \nI don't know if it's cool or not.",
             "choice_data_list": [
                 "You can't stand it?",
                 "You can't take it?"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "I'm going to challenge any strong \nopponent head-on. That's fine, but \nI don't know if it's cool or not."
         },
         {
             "name": "Vodka",
@@ -121,11 +121,11 @@
             "text": "You're the only one who understands \nhow cool I am."
         },
         {
-            "name": "Vodka",
-            "text": "If that's the case, then you can extend me even \nfurther, right?",
             "choice_data_list": [
                 "All right, let's do this!"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "If that's the case, then you can extend me even \nfurther, right?"
         },
         {
             "name": "Vodka",

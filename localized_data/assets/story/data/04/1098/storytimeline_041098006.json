@@ -14,10 +14,10 @@
             "text": "Since the window's closed, let's open it! Ventilation is \nfundamental to Feng Shui! With this, it'll be a fortuitous omen☆ \nWell then, see you at training～!"
         },
         {
-            "text": "Thanks to her taking the initiative, the trainers' \nroom seemed brighter and because of that work \nseemed to go more smoothly. Although―",
             "choice_data_list": [
                 "(I've only been receiving things……)"
-            ]
+            ],
+            "text": "Thanks to her taking the initiative, the trainers' \nroom seemed brighter and because of that work \nseemed to go more smoothly. Although―"
         },
         {
             "text": "Normally, the trainer's role is to support the Uma Musume. I \nstarted spending the days thinking of ways to repay her―"
@@ -26,11 +26,11 @@
             "text": "Then one day"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Huh? It's Trainer～! What a coincidence! ……Oh, that's right! Are \nyou free right now? There's a place I want to take you!",
             "choice_data_list": [
                 "Eh!?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Huh? It's Trainer～! What a coincidence! ……Oh, that's right! Are \nyou free right now? There's a place I want to take you!"
         },
         {
             "text": "I didn't particularly have any plans so, \nI followed along with Copano Rickey―"
@@ -111,11 +111,11 @@
             "text": "A corner where many things collide, it's called the cautionary \nboundary of the 8 trigrams, I was just thinking that it would be \nbetter if this girl was in a luckier place―"
         },
         {
-            "name": "Girl's Older Sister",
-            "text": "……Collide……trigrams……? I've never heard those words before. \nI-it's true……!! Moooooooooooom～～～!!",
             "choice_data_list": [
                 "W-wait!"
-            ]
+            ],
+            "name": "Girl's Older Sister",
+            "text": "……Collide……trigrams……? I've never heard those words before. \nI-it's true……!! Moooooooooooom～～～!!"
         },
         {
             "text": "I calm the child down, and as we were walking to the lost kids \ncenter, explain that Copano Rickey is a student at the academy \nand not a strange person."
@@ -136,17 +136,17 @@
             "text": "I guess it would have been better to calm down and explain it \nbetter to that girl. Sometimes I get told 『Rickey, you come on \ntoo strong』. Yeah, I need to reflect on that!"
         },
         {
-            "text": "She was pretty talkative normally. She could reflect on things, \nand quickly handle her own mental care but…… her expression \nseemed kind of distant.",
             "choice_data_list": [
                 "……Are you okay?"
-            ]
+            ],
+            "text": "She was pretty talkative normally. She could reflect on things, \nand quickly handle her own mental care but…… her expression \nseemed kind of distant."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Eh? Yeah! Of course. I'll try not to make the \nsame mistake again, and I'll think of a way to \nphrase it so that it doesn't scare them!",
             "choice_data_list": [
                 "That's not what I mean"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Eh? Yeah! Of course. I'll try not to make the \nsame mistake again, and I'll think of a way to \nphrase it so that it doesn't scare them!"
         },
         {
             "text": "I knew Copano Rickey was capable of improving the perception of \nFeng Shui. She could make plans, put them in to motion, and \nproperly prevent the disruption of qi."
@@ -175,28 +175,28 @@
             "text": "Umm, well……what should I do? \nSolving things without using Feng Shui, how do I do that again?"
         },
         {
-            "text": "Copano Rickey is at a loss. Perhaps, right now \nwhat she deseperately needs, is simply to just \ncome face to face with those feelings.",
             "choice_data_list": [
                 "At that time, how did you feel?"
-            ]
+            ],
+            "text": "Copano Rickey is at a loss. Perhaps, right now \nwhat she deseperately needs, is simply to just \ncome face to face with those feelings."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Eh? How did I feel……? Well, let's see, when that girl let out a \nscream, my chest tightened, and my head went blank……",
             "choice_data_list": [
                 "『Sad at being misunderstood』?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Eh? How did I feel……? Well, let's see, when that girl let out a \nscream, my chest tightened, and my head went blank……"
         },
         {
             "name": "Copano Rickey",
             "text": "……『Sad』……that might be true! But, being misunderstood \nhappens all the time, so it wasn't all that shocking."
         },
         {
-            "name": "Copano Rickey",
-            "text": "It's just……I wonder if I could have done better……",
             "choice_data_list": [
                 "Then, 『I wish I explained it better』?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "It's just……I wonder if I could have done better……"
         },
         {
             "name": "Copano Rickey",

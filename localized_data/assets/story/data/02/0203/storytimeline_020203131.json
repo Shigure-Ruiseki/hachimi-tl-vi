@@ -1,5 +1,4 @@
 {
-    "title": "Epilogue",
     "no_wrap": true,
     "text_block_list": [
         {},
@@ -76,5 +75,6 @@
             "text": "Seriously, today is amaaaaazing～, you know?"
         },
         {}
-    ]
+    ],
+    "title": "Epilogue"
 }

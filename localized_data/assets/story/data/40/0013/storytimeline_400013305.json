@@ -1,206 +1,206 @@
 {
-  "text_block_list": [
-    {
-      "name": "Độc thoại",
-      "text": "Một ngày nọ, khi tôi đang ở lại Del Mar vài ngày nhân tiện đi xem Breeders' Cup......\nHôm nay là ngày đi tham quan."
-    },
-    {
-      "choice_data_list": [
-        "A, trước hết cứ chơi cho thật vui vẻ nhé!",
-        "Ừm, cứ chơi vui vẻ trước đã nhé!"
-      ],
-      "name": "Loves Only You",
-      "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ. Mong chờ quá đi ♪"
-    },
-    {
-      "choice_data_list": [
-        "A, trước hết cứ chơi cho thật vui vẻ nhé!",
-        "Ừm, cứ chơi vui vẻ trước đã nhé!"
-      ],
-      "name": "Loves Only You",
-      "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ.  Mong chờ quá đi ♪"
-    },
-    {
-      "choice_data_list": [
-        "<size=28>Sẵn tiện, cứ làm quen dần với bầu không khí nơi này luôn vậy.</size>"
-      ],
-      "name": "Độc thoại",
-      "text": "Ở một môi trường xa lạ sẽ tạo ra những áp lực mà chính mình cũng không nhận ra. Vì mục tiêu năm tới, tốt nhất là nên làm quen với nơi này từ bây giờ, dù chỉ một chút."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Híttt... Hehe, mùi hương của biển nè...... \nĐẹp quá đi mất～!"
-    },
-    {
-      "choice_data_list": [
-        "<size=22>Anh nghe nói phía đằng kia là một chỗ tham quan lý tưởng ít ai biết đấy.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Nhưng mà, trông nó cứ hùng vĩ làm sao ấy nhỉ...... \nCảm giác cứ khác khác biển ở Nhật Bản!"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Thật không ạ? Chúng mình đi xem thử đi ♪"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Oa～! Tuyệt quá đi mất! \nĐúng là một chỗ lý tưởng ít người biết thật nè! Yên tĩnh nên dễ chịu quá～!"
-    },
-    {
-      "choice_data_list": [
-        "<size=26>(Còn lại là lộ trình về khách sạn, thời gian di chuyển, rồi thì...)</size>"
-      ],
-      "name": "Độc thoại",
-      "text": "Đúng như đã tìm hiểu, nơi này vắng vẻ và yên bình. Việc giải tỏa căng thẳng trước khi thi đấu rất quan trọng, nên đưa cô ấy đến đây thư giãn cũng là một ý hay."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "…………。"
-    },
-    {
-      "choice_data_list": [
-        "<size=30>Đó là những chuỗi cửa hàng có mặt khắp nước Mỹ đấy.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Quanh đây cũng có khá nhiều quán ăn Nhật Bản anh nhỉ…… Chỗ này có cả Teishoku  này, mì Soba…… ôi, có cả Sushi nữa kìa! Món nào trông cũng ngon ghê～!"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Thật thế ạ? Vậy thì, dù Breeders' Cup có được tổ chức ở nơi nào đi chăng nữa, em cũng thấy yên tâm rồi ♪"
-    },
-    {
-      "name": "Độc thoại",
-      "text": "Trước thềm giải đấu, việc quản lý thể trạng bằng những món ăn quen thuộc là điều tất yếu. Nhưng tự nấu cũng có giới hạn, nên có những cửa hàng thế này thật tốt ."
-    },
-    {
-      "choice_data_list": [
-        "<size=34>À, ừm, anh sao cũng được, gọi Teishoku đi vậy...</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Vậy thì năm nay～em sẽ chọn combo Sushi với mì Soba ăn kèm nhé? Còn Trainer-kun thì sao ạ?"
-    },
-    {
-      "choice_data_list": [
-        "<size=34>À, ừm, anh sao cũng được, gọi Teishoku đi vậy...</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Vậy thì năm nay～em sẽ chọn combo Sushi với mì Soba ăn kèm nhé? Còn Trainer-kun thì sao ạ?"
-    },
-    {
-      "name": "Độc thoại",
-      "text": "Trên menu có cả bảng thành phần nữa...... Quả nhiên chọn quán này là chuẩn bài rồi. Mình sẽ dựa vào cả thực đơn ở đây để lên kế hoạch ăn uống cho năm tới......"
-    },
-    {
-      "choice_data_list": [
-        "Ừm, đúng vậy thật――"
-      ],
-      "name": "Loves Only You",
-      "text": "Náo nhiệt quá anh nhỉ. Có bao nhiêu là khách du lịch giống như chúng mình luôn này!"
-    },
-    {
-      "name": "Độc thoại",
-      "text": "Quả nhiên trong thị trấn người qua lại đông đúc thật. Đến lúc Breeders' Cup diễn ra thì chắc còn khủng khiếp hơn nữa."
-    },
-    {
-      "name": "Độc thoại",
-      "text": "Để không rơi vào những tình huống ngoài dự kiến vào năm tới, mình phải ghi nhớ thật kỹ tình trạng đông đúc ở khu vực xung quanh mới được—......."
-    },
-    {
-      "choice_data_list": [
-        "Ơ kìa? Cái... gì cơ——"
-      ],
-      "name": "Loves Only You",
-      "text": "Trainer-kun, Aaaa～～～"
-    },
-    {
-      "choice_data_list": [
-        "Ơ kìa? Cái... gì cơ——"
-      ],
-      "name": "Loves Only You",
-      "text": "Trainer-kun, Aaaa～～～"
-    },
-    {
-      "choice_data_list": [
-        "Ưm, lạnh... nhưng ngon quá...?"
-      ],
-      "name": "Độc thoại",
-      "text": "（Umm）"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Hehe. Thấy có xe kem chạy qua phía kia nên em đã mua mất rồi. Phần của hai đứa mình luôn đó ♡"
-    },
-    {
-      "name": "Độc thoại",
-      "text": "Tôi cúi xuống nhìn cây kem 3 tầng rực rỡ sắc màu vừa được đưa cho. Nó có cùng vị với cái mà của cô ấy. Vị dâu tây ấy lan tỏa trong khoang miệng thật ngọt ngào."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Ăn một mình thì cô đơn lắm. \nNên Trainer-kun cũng ăn cùng em nhé?"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Ăn một mình thì cô đơn lắm. \nNên Trainer-kun cũng ăn cùng em nhé?"
-    },
-    {
-      "choice_data_list": [
-        "A....."
-      ],
-      "name": "Loves Only You",
-      "text": "一Chẳng phải chúng mình đã nói là sẽ đi tham quan cùng nhau sao."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Dù Trainer-kun nói với em là 'Hãy tận hưởng đi nhé'...... Nhưng nếu không phải là 'cùng nhau', thì điều đó chẳng có ý nghĩa gì cả. ......đúng không?"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Dù Trainer-kun nói với em là 'Hãy tận hưởng đi nhé'...... Nhưng nếu không phải là 'cùng nhau', thì điều đó chẳng có ý nghĩa gì cả. ......đúng không?"
-    },
-    {
-      "choice_data_list": [
-        "Xin lỗi em là anh vẫn chưa đủ tốt..",
-        "Xin lỗi em là anh vẫn chưa đủ tốt.."
-      ],
-      "name": "Độc thoại",
-      "text": "Để hỗ trợ cho cô ấy. Tôi đã nghĩ là phải chuẩn bị thật hoàn hảo và cố gắng hết mình, thế nhưng...... không ngờ điều đó lại khiến cô ấy phải bận lòng cho tôi."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Thôi mà, không có chuyện đó đâu."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Hehe. Em ấy, lúc này đang cảm thấy hạnh phúc hơn bao giờ hết."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Anh lúc nào cũng dốc hết sức mình.\n......Chăm sóc cho em, từng chút một."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Anh lúc nào cũng dốc hết sức mình.\n......Chăm sóc cho em, từng chút một."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Điều đó thật ấm áp biết bao......\nKhiến em cảm thấy rằng, à, mọi chuyện rồi sẽ ổn thôi——"
-    },
-    {
-      "choice_data_list": [
-        "......Ừm, tất nhiên rồi",
-        "......Ừm, tất nhiên rồi"
-      ],
-      "name": "Loves Only You",
-      "text": "Này...... Nhất định chúng mình phải cùng nhau chứng kiến nhé.\nTại đỉnh cao của BC——\nMột khung cảnh ngập tràn tình yêu."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "......Trước mắt thì cứ vậy đi đã! Hôm nay chúng mình phải cùng nhau đi tham quan đó nha! Đầu tiên là phải ăn kem chung này cái đã ♪"
-    },
-    {
-      "name": "Độc thoại",
-      "text": "Vừa dạo bước qua những con phố ở Del Mar, cây kem mà hai đứa cùng ăn có vị thật ngọt...... và mang một hương vị khiến lòng tôi nhẹ nhõm đến kỳ lạ."
-    }
-  ],
-  "title": "Tình Yêu Dần Lớn"
+    "text_block_list": [
+        {
+            "name": "Độc thoại",
+            "text": "Một ngày nọ, khi tôi đang ở lại Del Mar vài ngày nhân tiện đi xem Breeders' Cup......\nHôm nay là ngày đi tham quan."
+        },
+        {
+            "choice_data_list": [
+                "A, trước hết cứ chơi cho thật vui vẻ nhé!",
+                "Ừm, cứ chơi vui vẻ trước đã nhé!"
+            ],
+            "name": "Loves Only You",
+            "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ. Mong chờ quá đi ♪"
+        },
+        {
+            "choice_data_list": [
+                "A, trước hết cứ chơi cho thật vui vẻ nhé!",
+                "Ừm, cứ chơi vui vẻ trước đã nhé!"
+            ],
+            "name": "Loves Only You",
+            "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ.  Mong chờ quá đi ♪"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Sẵn tiện, cứ làm quen dần với bầu không khí nơi này luôn vậy.</size>"
+            ],
+            "name": "Độc thoại",
+            "text": "Ở một môi trường xa lạ sẽ tạo ra những áp lực mà chính mình cũng không nhận ra. Vì mục tiêu năm tới, tốt nhất là nên làm quen với nơi này từ bây giờ, dù chỉ một chút."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Híttt... Hehe, mùi hương của biển nè...... \nĐẹp quá đi mất～!"
+        },
+        {
+            "choice_data_list": [
+                "<size=22>Anh nghe nói phía đằng kia là một chỗ tham quan lý tưởng ít ai biết đấy.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Nhưng mà, trông nó cứ hùng vĩ làm sao ấy nhỉ...... \nCảm giác cứ khác khác biển ở Nhật Bản!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thật không ạ? Chúng mình đi xem thử đi ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Oa～! Tuyệt quá đi mất! \nĐúng là một chỗ lý tưởng ít người biết thật nè! Yên tĩnh nên dễ chịu quá～!"
+        },
+        {
+            "choice_data_list": [
+                "<size=26>(Còn lại là lộ trình về khách sạn, thời gian di chuyển, rồi thì...)</size>"
+            ],
+            "name": "Độc thoại",
+            "text": "Đúng như đã tìm hiểu, nơi này vắng vẻ và yên bình. Việc giải tỏa căng thẳng trước khi thi đấu rất quan trọng, nên đưa cô ấy đến đây thư giãn cũng là một ý hay."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "…………。"
+        },
+        {
+            "choice_data_list": [
+                "<size=30>Đó là những chuỗi cửa hàng có mặt khắp nước Mỹ đấy.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Quanh đây cũng có khá nhiều quán ăn Nhật Bản anh nhỉ…… Chỗ này có cả Teishoku  này, mì Soba…… ôi, có cả Sushi nữa kìa! Món nào trông cũng ngon ghê～!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thật thế ạ? Vậy thì, dù Breeders' Cup có được tổ chức ở nơi nào đi chăng nữa, em cũng thấy yên tâm rồi ♪"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Trước thềm giải đấu, việc quản lý thể trạng bằng những món ăn quen thuộc là điều tất yếu. Nhưng tự nấu cũng có giới hạn, nên có những cửa hàng thế này thật tốt ."
+        },
+        {
+            "choice_data_list": [
+                "<size=34>À, ừm, anh sao cũng được, gọi Teishoku đi vậy...</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Vậy thì năm nay～em sẽ chọn combo Sushi với mì Soba ăn kèm nhé? Còn Trainer-kun thì sao ạ?"
+        },
+        {
+            "choice_data_list": [
+                "<size=34>À, ừm, anh sao cũng được, gọi Teishoku đi vậy...</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Vậy thì năm nay～em sẽ chọn combo Sushi với mì Soba ăn kèm nhé? Còn Trainer-kun thì sao ạ?"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Trên menu có cả bảng thành phần nữa...... Quả nhiên chọn quán này là chuẩn bài rồi. Mình sẽ dựa vào cả thực đơn ở đây để lên kế hoạch ăn uống cho năm tới......"
+        },
+        {
+            "choice_data_list": [
+                "Ừm, đúng vậy thật――"
+            ],
+            "name": "Loves Only You",
+            "text": "Náo nhiệt quá anh nhỉ. Có bao nhiêu là khách du lịch giống như chúng mình luôn này!"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Quả nhiên trong thị trấn người qua lại đông đúc thật. Đến lúc Breeders' Cup diễn ra thì chắc còn khủng khiếp hơn nữa."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Để không rơi vào những tình huống ngoài dự kiến vào năm tới, mình phải ghi nhớ thật kỹ tình trạng đông đúc ở khu vực xung quanh mới được—......."
+        },
+        {
+            "choice_data_list": [
+                "Ơ kìa? Cái... gì cơ——"
+            ],
+            "name": "Loves Only You",
+            "text": "Trainer-kun, Aaaa～～～"
+        },
+        {
+            "choice_data_list": [
+                "Ơ kìa? Cái... gì cơ——"
+            ],
+            "name": "Loves Only You",
+            "text": "Trainer-kun, Aaaa～～～"
+        },
+        {
+            "choice_data_list": [
+                "Ưm, lạnh... nhưng ngon quá...?"
+            ],
+            "name": "Độc thoại",
+            "text": "（Umm）"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe. Thấy có xe kem chạy qua phía kia nên em đã mua mất rồi. Phần của hai đứa mình luôn đó ♡"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tôi cúi xuống nhìn cây kem 3 tầng rực rỡ sắc màu vừa được đưa cho. Nó có cùng vị với cái mà của cô ấy. Vị dâu tây ấy lan tỏa trong khoang miệng thật ngọt ngào."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ăn một mình thì cô đơn lắm. \nNên Trainer-kun cũng ăn cùng em nhé?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ăn một mình thì cô đơn lắm. \nNên Trainer-kun cũng ăn cùng em nhé?"
+        },
+        {
+            "choice_data_list": [
+                "A....."
+            ],
+            "name": "Loves Only You",
+            "text": "一Chẳng phải chúng mình đã nói là sẽ đi tham quan cùng nhau sao."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Dù Trainer-kun nói với em là 'Hãy tận hưởng đi nhé'...... Nhưng nếu không phải là 'cùng nhau', thì điều đó chẳng có ý nghĩa gì cả. ......đúng không?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Dù Trainer-kun nói với em là 'Hãy tận hưởng đi nhé'...... Nhưng nếu không phải là 'cùng nhau', thì điều đó chẳng có ý nghĩa gì cả. ......đúng không?"
+        },
+        {
+            "choice_data_list": [
+                "Xin lỗi em là anh vẫn chưa đủ tốt..",
+                "Xin lỗi em là anh vẫn chưa đủ tốt.."
+            ],
+            "name": "Độc thoại",
+            "text": "Để hỗ trợ cho cô ấy. Tôi đã nghĩ là phải chuẩn bị thật hoàn hảo và cố gắng hết mình, thế nhưng...... không ngờ điều đó lại khiến cô ấy phải bận lòng cho tôi."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thôi mà, không có chuyện đó đâu."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe. Em ấy, lúc này đang cảm thấy hạnh phúc hơn bao giờ hết."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Anh lúc nào cũng dốc hết sức mình.\n......Chăm sóc cho em, từng chút một."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Anh lúc nào cũng dốc hết sức mình.\n......Chăm sóc cho em, từng chút một."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Điều đó thật ấm áp biết bao......\nKhiến em cảm thấy rằng, à, mọi chuyện rồi sẽ ổn thôi——"
+        },
+        {
+            "choice_data_list": [
+                "......Ừm, tất nhiên rồi",
+                "......Ừm, tất nhiên rồi"
+            ],
+            "name": "Loves Only You",
+            "text": "Này...... Nhất định chúng mình phải cùng nhau chứng kiến nhé.\nTại đỉnh cao của BC——\nMột khung cảnh ngập tràn tình yêu."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Trước mắt thì cứ vậy đi đã! Hôm nay chúng mình phải cùng nhau đi tham quan đó nha! Đầu tiên là phải ăn kem chung này cái đã ♪"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Vừa dạo bước qua những con phố ở Del Mar, cây kem mà hai đứa cùng ăn có vị thật ngọt...... và mang một hương vị khiến lòng tôi nhẹ nhõm đến kỳ lạ."
+        }
+    ],
+    "title": "Tình Yêu Dần Lớn"
 }

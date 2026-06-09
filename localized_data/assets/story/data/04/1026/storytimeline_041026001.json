@@ -12,12 +12,12 @@
             "text": "I spot a lone horse girl standing motionless \nas I walk through the downtown area."
         },
         {
-            "name": "???",
-            "text": "My device's GPS function also displays an error. \nReturning error code 404.",
             "choice_data_list": [
                 "Is everything okay?",
                 "Is everything okay?"
-            ]
+            ],
+            "name": "???",
+            "text": "My device's GPS function also displays an error. \nReturning error code 404."
         },
         {
             "name": "Mihono Bourbon",
@@ -36,42 +36,42 @@
             "text": "Furthermore, my device is now giving me an error \nmaking it impossible to use the navigation software."
         },
         {
-            "text": "I'm not familiar with the store, but I should be able \nto look it up on my phone for her.",
             "choice_data_list": [
                 "I'll see if I can find it."
-            ]
+            ],
+            "text": "I'm not familiar with the store, but I should be able \nto look it up on my phone for her."
         },
         {
             "name": "Mihono Bourbon",
             "text": "Much obliged."
         },
         {
-            "text": "It didn't take long before I found it. \nIt says it's about 42 meters from here. \nIn fact, looking closely in the distance, I think I see it.",
             "choice_data_list": [
                 "<size=40>It's just a little further along the street.</size>",
                 "<size=40>It's just a little further along the street.</size>"
-            ]
+            ],
+            "text": "It didn't take long before I found it. \nIt says it's about 42 meters from here. \nIn fact, looking closely in the distance, I think I see it."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Excuse me but... How far is 'a little?'",
             "choice_data_list": [
                 "Um... What do you mean?"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Excuse me but... How far is 'a little?'"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I need you to tell me the exact distance of 'a little'.",
             "choice_data_list": [
                 "It's about forty-ish meters?"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "I need you to tell me the exact distance of 'a little'."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Forty...ish?",
             "choice_data_list": [
                 "Um... it's 42 meters ahead."
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Forty...ish?"
         },
         {
             "name": "Mihono Bourbon",
@@ -86,11 +86,11 @@
             "text": "I once again offer you my thanks for your help."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Commencing operation: Moving 42 meters ahead.",
             "choice_data_list": [
                 "(She's a strange one...)"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Commencing operation: Moving 42 meters ahead."
         },
         {
             "text": "I kept her in sight just in case, and she did indeed reach \nthe store. She stopped right in front of it and entered the door."
@@ -138,35 +138,35 @@
             "text": "*huff huff* Hngh!"
         },
         {
-            "text": "She easily takes first place by a landslide.",
             "choice_data_list": [
                 "(Damn, she's talented!)",
                 "(Damn, she's talented!)"
-            ]
+            ],
+            "text": "She easily takes first place by a landslide."
         },
         {
             "text": "When I met her downtown the other day, I never \nimagined she'd be so fast. Her ability stole my heart."
         },
         {
-            "name": "Rookie Trainer",
-            "text": "She looks very promising! \nI've got to get her before anyone else!",
             "choice_data_list": [
                 "(Right, I've gotta hurry too!)",
                 "(Right, I've gotta hurry too!)"
-            ]
+            ],
+            "name": "Rookie Trainer",
+            "text": "She looks very promising! \nI've got to get her before anyone else!"
         },
         {
-            "name": "Experienced Trainer",
-            "text": "It's no use. It seems she already has a trainer.",
             "choice_data_list": [
                 "What?!"
-            ]
+            ],
+            "name": "Experienced Trainer",
+            "text": "It's no use. It seems she already has a trainer."
         },
         {
-            "text": "And indeed, when I finally reached her, \nshe was talking to another trainer.",
             "choice_data_list": [
                 "(A-Am I too late...?)"
-            ]
+            ],
+            "text": "And indeed, when I finally reached her, \nshe was talking to another trainer."
         },
         {
             "name": "Rookie Trainer",
@@ -183,11 +183,11 @@
             "text": "It's evening and time to head home. I take a stroll \naround the school grounds when suddenly..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "*huff huff*",
             "choice_data_list": [
                 "(It's her!)"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "*huff huff*"
         },
         {
             "text": "I spot Mihono Bourbon, who I suspect \nis doing some training by herself."
@@ -197,10 +197,10 @@
             "text": "*huff huff* 1800 meters reached. 1200 meters remaining. \nTime elapsed: 2:04. Severely behind target pace."
         },
         {
-            "text": "Is she timing herself? And, wait... \nDid I hear that right?",
             "choice_data_list": [
                 "(...3000 meters?!)"
-            ]
+            ],
+            "text": "Is she timing herself? And, wait... \nDid I hear that right?"
         },
         {
             "text": "Normally you shouldn't let a horse girl \nrun this distance right after her debut. \nHer body isn't ready for it yet."
@@ -214,11 +214,11 @@
             "text": "*pant pant*"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Ugh...",
             "choice_data_list": [
                 "Wha—!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Ugh..."
         },
         {
             "text": "She just fell over! \nI hurry towards her."

@@ -139,12 +139,12 @@
             "text": "<i>Pant, pant, pant―.</i> No… I can't let this happen…! \nI just need to build up my stamina a bit more!"
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "I don't ever want to think about that again…!",
             "choice_data_list": [
                 "Hey, are you…",
                 "Hey, are you…"
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "I don't ever want to think about that again…!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -159,11 +159,11 @@
             "text": "…Excuse me, but could you please leave? \nI'm currently training in private."
         },
         {
-            "name": "Daiwa Scarlet",
-            "text": "I'm terribly busy… knocking my disappointing \nand weak self into shape.",
             "choice_data_list": [
                 "2nd place is worth being proud of, though…?"
-            ]
+            ],
+            "name": "Daiwa Scarlet",
+            "text": "I'm terribly busy… knocking my disappointing \nand weak self into shape."
         },
         {
             "name": "Daiwa Scarlet",

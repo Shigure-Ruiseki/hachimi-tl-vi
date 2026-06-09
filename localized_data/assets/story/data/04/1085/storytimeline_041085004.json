@@ -32,19 +32,19 @@
             "text": "The result of that is the current Daiichi Ruby. \nA noble run, that is the result of what she wish."
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "hah, hah… ha～",
             "choice_data_list": [
                 "good work"
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "hah, hah… ha～"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "…Yes, good work.",
             "choice_data_list": [
                 "The trainer selection test, it's almost over.",
                 "The trainer selection test is almost over."
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "…Yes, good work."
         },
         {
             "name": "Daiichi Ruby",
@@ -58,10 +58,10 @@
             "text": "Just like this, I learn a lot from Daiichi Ruby \neven if I'm the one who is supposed to give her guidance."
         },
         {
-            "text": "There are other trainers who did not give up and \nremained in the selection test. The probability \nof being selected are too low.",
             "choice_data_list": [
                 "Thank you for everything!"
-            ]
+            ],
+            "text": "There are other trainers who did not give up and \nremained in the selection test. The probability \nof being selected are too low."
         },
         {
             "name": "Daiichi Ruby",
@@ -87,27 +87,27 @@
             "text": "The letter arrived a week later."
         },
         {
-            "text": "“Thank you very much for participating in the \ntrainer selection test. The selection result is―\"",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "text": "“Thank you very much for participating in the \ntrainer selection test. The selection result is―\""
         },
         {
             "text": "With the letter in hand, I hurriedly left the trainer room."
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "Hah… haa～…",
             "choice_data_list": [
                 "Daiichi Ruby!"
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "Hah… haa～…"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "… From that look, \nit look like you received the letter.",
             "choice_data_list": [
                 "This result is…"
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "… From that look, \nit look like you received the letter."
         },
         {
             "name": "Daiichi Ruby",
@@ -118,10 +118,10 @@
             "text": "Now then."
         },
         {
-            "text": "I hurriedly stopped Daiichi Ruby, who was about \nto start running again.",
             "choice_data_list": [
                 "This pass is……"
-            ]
+            ],
+            "text": "I hurriedly stopped Daiichi Ruby, who was about \nto start running again."
         },
         {
             "text": "It seems that the \"passed'' in the letter \nwasn't a mistake. But why? My test result is not that good…"
@@ -145,18 +145,18 @@
             "text": "But no matter the reason, I manage to \nbecome her trainer. Let's think positively! \nAnd when I lift my face…"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "You did a great job staying until the end. \nWell done.",
             "choice_data_list": [
                 "――――"
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "You did a great job staying until the end. \nWell done."
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "In order to fulfill your duty…… \nI hope that you too will not neglect your studies.",
             "choice_data_list": [
                 "…………"
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "In order to fulfill your duty…… \nI hope that you too will not neglect your studies."
         },
         {
             "text": "……After being dazed for a while, I returned to \nmy senses. Did she just praise me? As I savor \nthat feeling of joy―"

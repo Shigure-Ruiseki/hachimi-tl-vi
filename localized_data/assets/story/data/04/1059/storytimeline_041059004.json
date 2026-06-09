@@ -5,20 +5,20 @@
             "text": "One day―― On the door of the trainer's office, \nthere was a reserved knock on the door."
         },
         {
-            "name": "Mejiro Dober",
-            "text": "………………",
             "choice_data_list": [
                 "I'm glad you came, Dober",
                 "Of course, Dober"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "………………"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Well…… have you…… changed your mind? \nDo you…… still plan to support me?",
             "choice_data_list": [
                 "I'm glad you came, Dober",
                 "Of course, Dober"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "Well…… have you…… changed your mind? \nDo you…… still plan to support me?"
         },
         {
             "name": "Mejiro Dober",
@@ -37,11 +37,11 @@
             "text": "Please…… Train me. So I can win."
         },
         {
-            "name": "Mejiro Dober",
-            "text": "The next mock race…… I want to win it, for Trainer, \nbecause it's probably my last chance……",
             "choice_data_list": [
                 "Together, we'll win for sure"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "The next mock race…… I want to win it, for Trainer, \nbecause it's probably my last chance……"
         },
         {
             "name": "Mejiro Dober",
@@ -58,11 +58,11 @@
             "text": "And like that―― Together with Mejiro Dober, the harsh training \nfor the upcoming mock race began."
         },
         {
-            "text": "Originally, she was someone that possessed an amazing potential. \nWhile she had that, her abilities themselves were still \nprogressing favorably every day, but――",
             "choice_data_list": [
                 "That was a good time, Dober",
                 "That was a good time, Dober"
-            ]
+            ],
+            "text": "Originally, she was someone that possessed an amazing potential. \nWhile she had that, her abilities themselves were still \nprogressing favorably every day, but――"
         },
         {
             "name": "Mejiro Dober",
@@ -85,10 +85,10 @@
             "text": "――I'm going to run 1 more lap. Time it, please."
         },
         {
-            "text": "As if saying that to keep up appearances, she dashed off. It's \ntrue, that she's carrying a deep-rooted mental problem.",
             "choice_data_list": [
                 "Even if it's small, there has to be something……"
-            ]
+            ],
+            "text": "As if saying that to keep up appearances, she dashed off. It's \ntrue, that she's carrying a deep-rooted mental problem."
         },
         {
             "text": "While thinking that, I once again returned to watching her run. \nAt that moment…… I came to realize something."
@@ -98,50 +98,50 @@
             "text": "Haa, haa, haa―!!"
         },
         {
-            "text": "It was not only something related to the talk just now. Even \nduring these days of training while, as the sub-trainer, I've \nbeen watching over her, this whole time she's――",
             "choice_data_list": [
                 "(Never looked at the spectator's seats, has she?)"
-            ]
+            ],
+            "text": "It was not only something related to the talk just now. Even \nduring these days of training while, as the sub-trainer, I've \nbeen watching over her, this whole time she's――"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……Isn't that how it usually is? While running, \nyou're supposed to focus on the race, right?",
             "choice_data_list": [
                 "I think you're too focused on 『Not Looking』"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "……Isn't that how it usually is? While running, \nyou're supposed to focus on the race, right?"
         },
         {
             "text": "Rather, by 『Not Looking』, by focusing so much on that, it seems \nto be the cause of her stiffness while running."
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……That's……",
             "choice_data_list": [
                 "……About the next race, before the start",
                 "……About the next race, before the start"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "……That's……"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Before the start…… what?",
             "choice_data_list": [
                 "Just for a second, look at the spectators"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "Before the start…… what?"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Ha?! I-I can't……! Because, I――",
             "choice_data_list": [
                 "From there, I'll be watching you",
                 "From there, I'll be watching you"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "Ha?! I-I can't……! Because, I――"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "But……!",
             "choice_data_list": [
                 "I'll be watching the 『Strong』 Dober"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "But……!"
         },
         {
             "name": "Mejiro Dober",
@@ -183,12 +183,12 @@
             "text": "(Trainer…… she's definitely, come to watch, hasn't she? ……I want \nto win. I want to win, I want to win, today for sure……!)"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "(But…… I can't, again, my heartbeat…… it's too noisy……!)",
             "choice_data_list": [
                 "Dober! Over here!",
                 "Dober! Over here!"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "(But…… I can't, again, my heartbeat…… it's too noisy……!)"
         },
         {
             "name": "Mejiro Dober",
@@ -199,12 +199,12 @@
             "text": "(Ah…… I looked…… at the spectator seats……)"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "(They're…… over there――!)",
             "choice_data_list": [
                 "Dober! You'll be fine, you're strong!",
                 "Dober! You'll be fine, you're strong!"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "(They're…… over there――!)"
         },
         {
             "name": "Mejiro Dober",
@@ -271,11 +271,11 @@
             "text": "……Ah, that's a lie, there's one more thing. Bell-chan, \nwhat do you plan to do from now on?"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Well, I――",
             "choice_data_list": [
                 "(……!)"
-            ]
+            ],
+            "name": "Mejiro Dober",
+            "text": "Well, I――"
         },
         {
             "name": "Mejiro Dober",

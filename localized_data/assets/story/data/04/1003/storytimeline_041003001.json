@@ -5,11 +5,11 @@
             "text": "The day before the Selection Race was to be \nheld I decided to go for a walk in a nearby park."
         },
         {
-            "name": "Tokai Teio",
-            "text": "Woah woah woah! \nMove! Move outta the way!!",
             "choice_data_list": [
                 "!?"
-            ]
+            ],
+            "name": "Tokai Teio",
+            "text": "Woah woah woah! \nMove! Move outta the way!!"
         },
         {
             "name": "Tokai Teio",
@@ -47,12 +47,12 @@
             "text": "Oh, that's right… Hey you! Sorry \nfor scaring you like that."
         },
         {
-            "name": "Tokai Teio",
-            "text": "I couldn't hit the brakes and ended up jumping \nover you! You're not hurt anywhere, are you?",
             "choice_data_list": [
                 "More importantly, are you okay? That landing must've…",
                 "More importantly, are you okay? That landing must've…"
-            ]
+            ],
+            "name": "Tokai Teio",
+            "text": "I couldn't hit the brakes and ended up jumping \nover you! You're not hurt anywhere, are you?"
         },
         {
             "name": "Tokai Teio",
@@ -114,11 +114,11 @@
             "text": "You looked amazing out there!!"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Aha, thanks! But hey, of course I of all people \nwas able to do it!!",
             "choice_data_list": [
                 "You're an amazing racer!"
-            ]
+            ],
+            "name": "Tokai Teio",
+            "text": "Aha, thanks! But hey, of course I of all people \nwas able to do it!!"
         },
         {
             "name": "Tokai Teio",
@@ -129,12 +129,12 @@
             "text": "Ah, I get it! You're a trainer, aren't you!? Now \nthat I take a closer look, you've got a badge \nand everything!!"
         },
         {
-            "name": "Tokai Teio",
-            "text": "So the reason you're coming to talk to me is… \nYou're trying to scout me, aren't you!?",
             "choice_data_list": [
                 "I'd love to be your trainer!",
                 "I'd love to be your trainer!"
-            ]
+            ],
+            "name": "Tokai Teio",
+            "text": "So the reason you're coming to talk to me is… \nYou're trying to scout me, aren't you!?"
         },
         {
             "name": "Tokai Teio",

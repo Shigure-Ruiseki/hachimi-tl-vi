@@ -1,5 +1,4 @@
 {
-    "title": "The Hunter's Moon Holds Its Own Beauty",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -218,5 +217,6 @@
             "name": "Gold City",
             "text": "You have some documents about the Festival \nof Illustrious Equines, right? Could I take a look \nat them, if you don't mind?"
         }
-    ]
+    ],
+    "title": "The Hunter's Moon Holds Its Own Beauty"
 }

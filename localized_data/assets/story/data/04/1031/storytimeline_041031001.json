@@ -38,11 +38,11 @@
             "text": "A few days later, I was visiting a nearby \nramen place with a fellow trainer."
         },
         {
-            "name": "Trainer Colleague",
-            "text": "I heard you're having second thoughts about scouting. \nWhat, have you lost your confidence?",
             "choice_data_list": [
                 "Just realising their lives \nrest on my shoulders……"
-            ]
+            ],
+            "name": "Trainer Colleague",
+            "text": "I heard you're having second thoughts about scouting. \nWhat, have you lost your confidence?"
         },
         {
             "name": "Trainer Colleague",
@@ -53,12 +53,12 @@
             "text": "…… \n…… \"Trainers\" have it rough too, huh."
         },
         {
-            "name": "Trainer Colleague",
-            "text": "But hey, don't worry yourself sick. \nYou won't be any better off without a job.",
             "choice_data_list": [
                 "You're right.",
                 "I guess so."
-            ]
+            ],
+            "name": "Trainer Colleague",
+            "text": "But hey, don't worry yourself sick. \nYou won't be any better off without a job."
         },
         {
             "text": "There's no use in dwelling on it. Start fresh tomorrow. \nAs I tried to resolve myself to that while walking \nto the train station—"
@@ -71,11 +71,11 @@
             "text": "The waiter girl came running and handed me…… \nA familiar looking smartphone."
         },
         {
-            "name": "Ines Fujin",
-            "text": "Haah, I'm glad I caught up with you… Maaan, you should \nbe more careful with this, it's full of personal information!",
             "choice_data_list": [
                 "I- I'm sorry!"
-            ]
+            ],
+            "name": "Ines Fujin",
+            "text": "Haah, I'm glad I caught up with you… Maaan, you should \nbe more careful with this, it's full of personal information!"
         },
         {
             "name": "Ines Fujin",
@@ -85,20 +85,20 @@
             "text": "Wanting to thank her properly, I rushed after her and—"
         },
         {
-            "text": "(<i>BONK</i>)",
             "choice_data_list": [
                 "Oww!?"
-            ]
+            ],
+            "text": "(<i>BONK</i>)"
         },
         {
             "text": "Finding myself sitting on the sidewalk, \nI looked up at the utility pole that had hit me in the face."
         },
         {
-            "name": "Ines Fujin",
-            "text": "What was that sound?!",
             "choice_data_list": [
                 "Just… me facing things head on."
-            ]
+            ],
+            "name": "Ines Fujin",
+            "text": "What was that sound?!"
         },
         {
             "name": "Ines Fujin",
@@ -143,11 +143,11 @@
             "text": "So her back seemed to scream from the turf. \nWith such ferocity, I could almost hear it."
         },
         {
-            "text": "― My eyes were glued to her. I wanted to see \nher future up close, I wanted to scout her as soon \nas possible and stepped forwards. But —",
             "choice_data_list": [
                 "(Should I really scout her?)",
                 "(Should I really scout her?)"
-            ]
+            ],
+            "text": "― My eyes were glued to her. I wanted to see \nher future up close, I wanted to scout her as soon \nas possible and stepped forwards. But —"
         },
         {
             "text": "Suddenly, those words came to mind. \nThen, as if to drive home the point, the words \nand expression of that trainee followed."

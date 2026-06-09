@@ -53,11 +53,11 @@
             "text": "Lately, Suzuka's been gettin' an insane amount of attention, huh?"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Winning Majors consecutively is impressive by itself, \nbut the way she does it is also awe-inspiring.",
             "choice_data_list": [
                 "Suzuka's \"Escape\"?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Winning Majors consecutively is impressive by itself, \nbut the way she does it is also awe-inspiring."
         },
         {
             "name": "Mejiro McQueen",

@@ -8,12 +8,12 @@
             "text": "In the early hours of morning on this important day, \nI spot a lone trainee running intently on the track."
         },
         {
-            "name": "El Condor Pasa",
-            "text": "<i>Phoo…!</i> Good, one more… no, ten more laps!!",
             "choice_data_list": [
                 "Don't hurt yourself before the race, aye?",
                 "Try not to get hurt before the race, yeah?"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "<i>Phoo…!</i> Good, one more… no, ten more laps!!"
         },
         {
             "name": "El Condor Pasa",
@@ -24,11 +24,11 @@
             "text": "For I am El Condor Pasa! A trainee who will spread \nher wings through the whole world's skies one day!!"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "¡Uy! I casually started responding, but who are you!?",
             "choice_data_list": [
                 "I'm just a trainer, here for the race."
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "¡Uy! I casually started responding, but who are you!?"
         },
         {
             "name": "El Condor Pasa",
@@ -39,11 +39,11 @@
             "text": "That means… could it be, could it be… \nYou're here to scout me, are you!?"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "The Selection Race hasn't even started yet, but you've \nalready been drawn in by El's power, talent, potential!?",
             "choice_data_list": [
                 "No, uhh…"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "The Selection Race hasn't even started yet, but you've \nalready been drawn in by El's power, talent, potential!?"
         },
         {
             "name": "El Condor Pasa",
@@ -73,11 +73,11 @@
             "text": "That's why, Trainer, I want you to consider this carefully!"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "…… Ah, but I can definitely feel the passion that drove you \nto talk to me before the race♪ You deserve 1 El point for that!",
             "choice_data_list": [
                 "T-Thanks……?"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "…… Ah, but I can definitely feel the passion that drove you \nto talk to me before the race♪ You deserve 1 El point for that!"
         },
         {
             "name": "El Condor Pasa",

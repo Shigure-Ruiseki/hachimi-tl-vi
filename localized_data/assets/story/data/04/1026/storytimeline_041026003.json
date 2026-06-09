@@ -5,31 +5,31 @@
             "text": "A few weeks passed since I started helping \nMihono Bourbon train in secret."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "*huff huff*",
             "choice_data_list": [
                 "Hang on! You're almost there!",
                 "Hang on! You're almost there!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "*huff huff*"
         },
         {
             "name": "Mihono Bourbon",
             "text": "Hng!"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "*pant pant* \nThat's... a new record!",
             "choice_data_list": [
                 "Well done!",
                 "Well done!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "*pant pant* \nThat's... a new record!"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I appreciate your encouragement. \nWhen my stamina recovers, I will checkout the lactic acid \ntolerance branch... And proceed towards the slope.",
             "choice_data_list": [
                 "Let's try one more run today."
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "I appreciate your encouragement. \nWhen my stamina recovers, I will checkout the lactic acid \ntolerance branch... And proceed towards the slope."
         },
         {
             "name": "Mihono Bourbon",
@@ -40,16 +40,16 @@
             "text": "Energy recovered. Proceding to run up the slope."
         },
         {
-            "text": "So far, she has not once complained about my \ndifficult training. She acts like it's nothing.",
             "choice_data_list": [
                 "(She might actually be able to...)"
-            ]
+            ],
+            "text": "So far, she has not once complained about my \ndifficult training. She acts like it's nothing."
         },
         {
-            "text": "Before I knew it, her total determination had captured me.",
             "choice_data_list": [
                 "(You can do it, Mihono Bourbon!)"
-            ]
+            ],
+            "text": "Before I knew it, her total determination had captured me."
         },
         {
             "name": "Mihono Bourbon",
@@ -70,11 +70,11 @@
             "text": "Master, the nightly trainings were all my own decision. \nThus, this person has no relation to it."
         },
         {
-            "name": "Veteran Trainer",
-            "text": "He was with you every night, of course he's related to it! \nAt the very least, he pitied you and watched.",
             "choice_data_list": [
                 "I wasn't pitying..."
-            ]
+            ],
+            "name": "Veteran Trainer",
+            "text": "He was with you every night, of course he's related to it! \nAt the very least, he pitied you and watched."
         },
         {
             "name": "Veteran Trainer",
@@ -88,28 +88,28 @@
             "text": "Mihono Bourbon's trainer released a deep sigh \nafter hearing her stubborn response."
         },
         {
-            "name": "Veteran Trainer",
-            "text": "*sigh* Okay, you get one more chance to show you're \ncapable of it. Show me you can run run 3 kilometers, \nlike the Kikka Sho. Right now.",
             "choice_data_list": [
                 "(What is he saying?!)"
-            ]
+            ],
+            "name": "Veteran Trainer",
+            "text": "*sigh* Okay, you get one more chance to show you're \ncapable of it. Show me you can run run 3 kilometers, \nlike the Kikka Sho. Right now."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Understood.",
             "choice_data_list": [
                 "?!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Understood."
         },
         {
             "name": "Mihono Bourbon",
             "text": "I will persuade you."
         },
         {
-            "text": "She quickly heads over to the race track and starts \non the 3000 meters. To be honest, I doubt she will \nbe able to complete it with her current stamina...",
             "choice_data_list": [
                 "(Will she really make it...)"
-            ]
+            ],
+            "text": "She quickly heads over to the race track and starts \non the 3000 meters. To be honest, I doubt she will \nbe able to complete it with her current stamina..."
         },
         {
             "name": "Mihono Bourbon",
@@ -131,24 +131,24 @@
             "text": "*huff huff*"
         },
         {
-            "name": "Veteran Trainer",
-            "text": "See? Give up already. It's a waste of time to continue. \nYou're not cut out for longer race distances.",
             "choice_data_list": [
                 "(Truthfully, she isn't. But still...)"
-            ]
+            ],
+            "name": "Veteran Trainer",
+            "text": "See? Give up already. It's a waste of time to continue. \nYou're not cut out for longer race distances."
         },
         {
-            "text": "I've seen her willingness to train for the Triple Crown. \nI know how determined she is to reach it.",
             "choice_data_list": [
                 "<size=40>Why won't you let her follow her dreams?</size>"
-            ]
+            ],
+            "text": "I've seen her willingness to train for the Triple Crown. \nI know how determined she is to reach it."
         },
         {
-            "name": "Veteran Trainer",
-            "text": "<i>She</i> is the one who would suffer through her own bad \ndecision to go after something she's not cut out for. \nWhat do you not understand about that?",
             "choice_data_list": [
                 "I just..."
-            ]
+            ],
+            "name": "Veteran Trainer",
+            "text": "<i>She</i> is the one who would suffer through her own bad \ndecision to go after something she's not cut out for. \nWhat do you not understand about that?"
         },
         {
             "name": "Veteran Trainer",
@@ -189,11 +189,11 @@
             "text": "Mihono Bourbon's trainer left the race course \nwithout saying another word after that.."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...",
             "choice_data_list": [
                 "Are you okay after all that?"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "..."
         },
         {
             "name": "Mihono Bourbon",
@@ -204,40 +204,40 @@
             "text": "Even after all that nighttime training, I still \nwasn't able to complete a 3000 meter run."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "My objective for the Triple Crown is a constant. \nAnd yet, I'm starting to doubt whether it was \nthe correct choice.",
             "choice_data_list": [
                 "Of course it's the right choice!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "My objective for the Triple Crown is a constant. \nAnd yet, I'm starting to doubt whether it was \nthe correct choice."
         },
         {
             "text": "She managed to train hard every day without complaining. \nBut more importantly, she has an immense passion for it."
         },
         {
-            "text": "A burning passion to attain the Triple Crown!",
             "choice_data_list": [
                 "<size=39>I support you, no matter what others say!</size>",
                 "<size=39>I support you, no matter what others say!</size>"
-            ]
+            ],
+            "text": "A burning passion to attain the Triple Crown!"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...!",
             "choice_data_list": [
                 "I will help you fulfill your dream!",
                 "I will help you fulfill your dream!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "...!"
         },
         {
             "text": "Her eyes started to quiver a little."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "You'll help...",
             "choice_data_list": [
                 "I won't let you give up on your dream!",
                 "I won't let you give up on your dream!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "You'll help..."
         },
         {
             "name": "Mihono Bourbon",
@@ -260,11 +260,11 @@
             "text": "(They remind me of my father...)"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...",
             "choice_data_list": [
                 "...Mihono Bourbon?"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "..."
         },
         {
             "text": "I could not bear the silence and called out to her. \nShe stood there, quietly looking at me."

@@ -1,5 +1,4 @@
 {
-    "title": "A Harsh World Full of Uncertainty",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -10,42 +9,42 @@
             "text": "I see… Nakayama isn't here either. Sorry for bothering \nyou while you were in the middle of something."
         },
         {
-            "name": "Homeroom Teacher",
-            "text": "Haaah, I'm in trouble… I need to get her completed \nassignment by the end of the week so I can grade it…",
             "choice_data_list": [
                 "I-I'll help you find her!"
-            ]
+            ],
+            "name": "Homeroom Teacher",
+            "text": "Haaah, I'm in trouble… I need to get her completed \nassignment by the end of the week so I can grade it…"
         },
         {
             "name": "Nakayama's Classmate A",
             "text": "Where's Nakayama? Who knows. I've never talked to her."
         },
         {
-            "name": "Nakayama's Classmate B",
-            "text": "Nakayama's always seemed a bit unapproachable. \nY'know, I heard that he was arrested the other day.",
             "choice_data_list": [
                 "Arrested…?"
-            ]
+            ],
+            "name": "Nakayama's Classmate B",
+            "text": "Nakayama's always seemed a bit unapproachable. \nY'know, I heard that he was arrested the other day."
         },
         {
             "name": "Nakayama's Classmate B",
             "text": "Oh, yeah… while a friend of mine was on a run, she saw \nNakayama arguing with an officer…"
         },
         {
-            "name": "Rough-looking Trainee",
-            "text": "Huh? How should I know? I got no clue where she is. \nSeriously, it's all just Nakayama this, Nakayama that.",
             "choice_data_list": [
                 "Eh? Who else besides me is…?",
                 "Eh? Who else besides me is…?"
-            ]
+            ],
+            "name": "Rough-looking Trainee",
+            "text": "Huh? How should I know? I got no clue where she is. \nSeriously, it's all just Nakayama this, Nakayama that."
         },
         {
-            "name": "Rough-looking Boy",
-            "text": "The other day, some other guys came by looking for her. \nYou were one of the ones Nakayama made a fool of, weren't you?",
             "choice_data_list": [
                 "…? Can you tell me more?",
                 "…? Can you tell me more?"
-            ]
+            ],
+            "name": "Rough-looking Boy",
+            "text": "The other day, some other guys came by looking for her. \nYou were one of the ones Nakayama made a fool of, weren't you?"
         },
         {
             "name": "Rough-looking Trainee",
@@ -56,27 +55,27 @@
             "text": "Nakayama cheated during a poker game and won big. \nNow, she's being chased down by the people she cheated."
         },
         {
-            "name": "Rough-looking Trainee",
-            "text": "They're looking all over the place looking for her. \nAaah, I wonder how she'll end up.",
             "choice_data_list": [
                 "(That's weird… it can't be…)"
-            ]
+            ],
+            "name": "Rough-looking Trainee",
+            "text": "They're looking all over the place looking for her. \nAaah, I wonder how she'll end up."
         },
         {
             "text": "After that, I followed rumors to various different places, \nbut Nakayama Festa's whereabouts remained unknown."
         },
         {
-            "text": "What I got instead was plenty of unsavory gossip \nabout things Nakayama Festa would never do.",
             "choice_data_list": [
                 "Ah, Nakayama!"
-            ]
+            ],
+            "text": "What I got instead was plenty of unsavory gossip \nabout things Nakayama Festa would never do."
         },
         {
-            "name": "Nakayama Festa",
-            "text": "Hmm…? Oh, trainer? You look blue in the face.",
             "choice_data_list": [
                 "Well, actually…"
-            ]
+            ],
+            "name": "Nakayama Festa",
+            "text": "Hmm…? Oh, trainer? You look blue in the face."
         },
         {
             "text": "I told Nakayama Festa the whole story. How I'd started looking \nfor her due to the assignment, but then ——"
@@ -97,19 +96,19 @@
             "text": "…The people who are spreading that sort of crap are \nthe same ones who've lost some kind of competition \nto me. That's how much they resent and envy me."
         },
         {
-            "text": "Indeed, she seems to have many enemies in \nthe world of competition. But this is no \ntime to be intimidated. As her trainer ——",
             "choice_data_list": [
                 "If anything happens, I'll protect you.",
                 "If anything happens, I'll protect you."
-            ]
+            ],
+            "text": "Indeed, she seems to have many enemies in \nthe world of competition. But this is no \ntime to be intimidated. As her trainer ——"
         },
         {
-            "name": "Nakayama Festa",
-            "text": "Eh…? You're brash, aren't you? \nYou might get in trouble too, you know?",
             "choice_data_list": [
                 "<size=38>No matter what anyone says, I'll stand by you.</size>",
                 "<size=38>No matter what anyone says, I'll stand by you.</size>"
-            ]
+            ],
+            "name": "Nakayama Festa",
+            "text": "Eh…? You're brash, aren't you? \nYou might get in trouble too, you know?"
         },
         {
             "name": "Nakayama Festa",
@@ -134,5 +133,6 @@
         {
             "text": "I will never change my mind about Nakayama Festa. \nHowever, I still felt as if I needed to learn more about her."
         }
-    ]
+    ],
+    "title": "A Harsh World Full of Uncertainty"
 }

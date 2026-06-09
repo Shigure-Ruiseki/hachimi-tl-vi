@@ -1,5 +1,4 @@
 {
-    "title": "Purpose of Heart",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -157,5 +156,6 @@
             "name": "King Halo",
             "text": "——<i> Kyaa!?</i>"
         }
-    ]
+    ],
+    "title": "Purpose of Heart"
 }

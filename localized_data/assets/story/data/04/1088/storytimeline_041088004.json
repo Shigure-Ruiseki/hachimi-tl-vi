@@ -9,11 +9,11 @@
             "text": "――Haaa, haaa, haaa, haaa……!"
         },
         {
-            "name": "Satono Crown",
-            "text": "Yeah, I think it's taking longer for me to \nrun out of breath than when I started……! And \nthe muscles in my legs are getting stronger……",
             "choice_data_list": [
                 "Let's do one more!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "Yeah, I think it's taking longer for me to \nrun out of breath than when I started……! And \nthe muscles in my legs are getting stronger……"
         },
         {
             "name": "Satono Crown",
@@ -34,18 +34,18 @@
             "text": "With the turf like this, it might be unfortunate for Satono Crown. \nShe did grow up kind of sheltered after all……"
         },
         {
-            "name": "Experienced Trainer A",
-            "text": "And she's been really busy with her family business, \nso I'm worried she hasn't adjusted. It's unfortunate, \nbut the weather might hold her back.",
             "choice_data_list": [
                 "(No……that won't happen)"
-            ]
+            ],
+            "name": "Experienced Trainer A",
+            "text": "And she's been really busy with her family business, \nso I'm worried she hasn't adjusted. It's unfortunate, \nbut the weather might hold her back."
         },
         {
-            "name": "Satono Crown",
-            "text": "……Trainer. Do you also think my chances of winning are slim?",
             "choice_data_list": [
                 "I don't!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "……Trainer. Do you also think my chances of winning are slim?"
         },
         {
             "text": "She may not have had much time, but to my surprise, \nthrough her concentration skills, she was able to \ncomplete the training menu I created for her."
@@ -57,17 +57,17 @@
             "text": "What I fell in love with on first sight was her \nsharp acceleration under those heavy conditions. \nMost likely, Satono Crown was a \"Track Virtuoso\"……!"
         },
         {
-            "name": "Satono Crown",
-            "text": "Now that you meantion it, that could be it. Fufuu……!",
             "choice_data_list": [
                 "There are other reasons too"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "Now that you meantion it, that could be it. Fufuu……!"
         },
         {
-            "text": "It was something I understood after the days we \nspent together. Satono Crown was an Uma Musume who \nshowed her true strength when under adversity……!",
             "choice_data_list": [
                 "You're more fired up than usual!"
-            ]
+            ],
+            "text": "It was something I understood after the days we \nspent together. Satono Crown was an Uma Musume who \nshowed her true strength when under adversity……!"
         },
         {
             "name": "Satono Crown",
@@ -109,12 +109,12 @@
             "text": "It's the final straight! Those in the rear are \nstarting to push forward! They're pushing forward! \nDuramente displays a terrifying accelerationーーー!"
         },
         {
-            "name": "Satono Crown",
-            "text": "(She's fast……! Kuu……!!)",
             "choice_data_list": [
                 "――Crown! Go for it!",
                 "――Crown! Go for it!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "(She's fast……! Kuu……!!)"
         },
         {
             "name": "Satono Crown",
@@ -197,11 +197,11 @@
             "text": "I'm grateful……however, I'm sorry. \nI've already decided――"
         },
         {
-            "name": "Satono Crown",
-            "text": "On the person that's lead me to this point.",
             "choice_data_list": [
                 "……!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "On the person that's lead me to this point."
         },
         {
             "name": "Satono Crown",
@@ -212,11 +212,11 @@
             "text": "The one I can rely on is you. For the Satono family's \nlong held wish, I want to run together with you……!"
         },
         {
-            "name": "Satono Crown",
-            "text": "You'll form a real contract with me, right!?",
             "choice_data_list": [
                 "Of course!!!"
-            ]
+            ],
+            "name": "Satono Crown",
+            "text": "You'll form a real contract with me, right!?"
         },
         {
             "text": "I was overjoyed as I shook hands with Satono Crown. The rain \nclouds I saw as melancholy before, now had a silver lining."

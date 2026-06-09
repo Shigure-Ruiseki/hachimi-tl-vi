@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I want to teach Twin Turbo a way to victory. \nIn order to do that I need to somehow become her trainer.",
             "choice_data_list": [
                 "Training, are you willing to try it?",
                 "Are you willing to take the training?"
-            ]
+            ],
+            "text": "I want to teach Twin Turbo a way to victory. \nIn order to do that I need to somehow become her trainer."
         },
         {
             "name": "Twin Turbo",
@@ -17,11 +17,11 @@
             "text": "Aah, what a shame, with Turbo's talent with just \na little training you might be able to win against Teio."
         },
         {
-            "name": "Twin Turbo",
-            "text": "Against Teio!? Really!? \nThen I'll do it!",
             "choice_data_list": [
                 "(Nice Nature…!)"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Against Teio!? Really!? \nThen I'll do it!"
         },
         {
             "name": "Nice Nature",
@@ -31,11 +31,11 @@
             "text": "With a witty remark, we somehow managed to get \nstarted as a duo."
         },
         {
-            "name": "Twin Turbo",
-            "text": "So, what are we going to do for training?",
             "choice_data_list": [
                 "First of all, let's check the \"running style\""
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "So, what are we going to do for training?"
         },
         {
             "name": "Twin Turbo",
@@ -85,31 +85,31 @@
             "text": "No, don't look so proud!"
         },
         {
-            "name": "Nice Nature",
-            "text": "Trainer-san…",
             "choice_data_list": [
                 "It's like you get scared of other Horse girl……",
                 "You seem to get scared of other Horse girl……"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "Trainer-san…"
         },
         {
             "text": "Bravery is the flip side of cowardice. Even during the \nprevious mock race, there were signs that she disliked \nother horse girls. It seems that it would be difficult for \nher to be \"Pace Chaser\" or \"Late\"."
         },
         {
-            "name": "Twin Turbo",
-            "text": "I'm not scared… I just don't like it. \nWell then, Turbo will do another run.",
             "choice_data_list": [
                 "Thanks for the \"follow-up.\"",
                 "Thank you for the \"follow-up.\""
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "I'm not scared… I just don't like it. \nWell then, Turbo will do another run."
         },
         {
-            "name": "Nice Nature",
-            "text": "Trainer, do you mean you don't expect it?",
             "choice_data_list": [
                 "Yeah, because the absolute value of speed is not enough.",
                 "That's right, because the absolute value of speed is not enough"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "Trainer, do you mean you don't expect it?"
         },
         {
             "text": "This is also evident from the previous mock race. \nIn terms of lap time, the three furlongs \nwere by far the fastest."
@@ -137,11 +137,11 @@
             "text": "Hmph mmmmm… Hmph mmmm…"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Trainer, how many more times \nare we going to do this～!",
             "choice_data_list": [
                 "We are going to do this all day!"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Trainer, how many more times \nare we going to do this～!"
         },
         {
             "name": "Twin Turbo",
@@ -152,11 +152,11 @@
             "text": "Umm, you stop training, what are you doing?"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Taiyaki eating game! Do you want to play, Neicha?",
             "choice_data_list": [
                 "No, squat…"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Taiyaki eating game! Do you want to play, Neicha?"
         },
         {
             "name": "Twin Turbo",
@@ -170,11 +170,11 @@
             "text": "Haha, well, don't be so down, trainer. \nYou knew she is this way, didn't you?"
         },
         {
-            "name": "Nice Nature",
-            "text": "You see, it's like trying to get a child to eat a vegetable \nthey don't like. You have to chop them up into little \npieces and get them to eat them somehow.",
             "choice_data_list": [
                 "Wait… where is Turbo?"
-            ]
+            ],
+            "name": "Nice Nature",
+            "text": "You see, it's like trying to get a child to eat a vegetable \nthey don't like. You have to chop them up into little \npieces and get them to eat them somehow."
         },
         {
             "name": "Nice Nature",
@@ -210,11 +210,11 @@
             "text": "I felt like I saw a faint light in that figure. \nAs long as she doesn't dislike running…"
         },
         {
-            "name": "Twin Turbo",
-            "text": "Trainer, what are you talking about? \nIf it's training I'm not going to do it!",
             "choice_data_list": [
                 "Let's go on a trip, the three of us"
-            ]
+            ],
+            "name": "Twin Turbo",
+            "text": "Trainer, what are you talking about? \nIf it's training I'm not going to do it!"
         },
         {
             "name": "Turbo & Nature",

@@ -1,5 +1,4 @@
 {
-    "title": "Festival of Exhilarating Autumn",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -266,5 +265,6 @@
             "name": "Symboli Rudolf",
             "text": "A glorious occasion indeed. \nTonight, we honor the sacred Festival of Illustrious Equines ——"
         }
-    ]
+    ],
+    "title": "Festival of Exhilarating Autumn"
 }

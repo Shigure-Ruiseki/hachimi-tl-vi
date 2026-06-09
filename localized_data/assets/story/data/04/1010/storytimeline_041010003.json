@@ -2,22 +2,22 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Taiki Shuttle",
-            "text": "Heeeeeeeeeeeelp!! \nHelp Meeeeeeeeee!!",
             "choice_data_list": [
                 "?!"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "Heeeeeeeeeeeelp!! \nHelp Meeeeeeeeee!!"
         },
         {
             "name": "Taiki Shuttle",
             "text": "Oh my Trainer-san!! \nHelp Me!! Please save me!!"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "The truth is, I'm… being chased!!",
             "choice_data_list": [
                 "Chased?! By who?!"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "The truth is, I'm… being chased!!"
         },
         {
             "name": "Taiki Shuttle",
@@ -55,12 +55,12 @@
             "text": "So, hand her over!"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "No! No! Nooooooo! \nPleeeeeeeeease don't hand me over!!",
             "choice_data_list": [
                 "…rules should be followed!",
                 "…rules should be followed!"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "No! No! Nooooooo! \nPleeeeeeeeease don't hand me over!!"
         },
         {
             "text": "I pulled Taiki Shuttle out from behind me, and handed her over."
@@ -96,23 +96,23 @@
             "text": "That's a bit troubling~…"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "Ah!! Sorry, you over there!! Have you seen \nHishi Ama-senpai and Taiki-senpai around here?!",
             "choice_data_list": [
                 "If it's Taiki, she was just taken to get scolded.",
                 "If it's Taiki, she was just taken to get scolded."
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "Ah!! Sorry, you over there!! Have you seen \nHishi Ama-senpai and Taiki-senpai around here?!"
         },
         {
             "name": "El Condor Pasa",
             "text": "Ahhhhhhh! Condor's failure…! \nSo, we didn't make it in time…!"
         },
         {
-            "name": "Grass Wonder",
-            "text": "Looks like Hishi Ama-senpai has a \nmisunderstanding about Taiki-senpai, doesn't she…?",
             "choice_data_list": [
                 "A misunderstanding…?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Looks like Hishi Ama-senpai has a \nmisunderstanding about Taiki-senpai, doesn't she…?"
         },
         {
             "name": "Grass Wonder",
@@ -131,32 +131,32 @@
             "text": "It was very lively, and we were having fun but… part way \nthrough, we realized we were running out of food."
         },
         {
-            "name": "Grass Wonder",
-            "text": "Seeing that, Taiki-senpai \nsaid [I'll secretly sneak out and buy some!]…",
             "choice_data_list": [
                 "So that's the reason…",
                 "So that's the reason…"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Seeing that, Taiki-senpai \nsaid [I'll secretly sneak out and buy some!]…"
         },
         {
             "text": "That time at the Selection Race comes to mind, where her \nconcentration was broken because she realized that other Uma \nMusume was in bad shape and needed help."
         },
         {
-            "text": "There's a part of her that's a bit too spirited but, she's very \naware of the people around her, and always using her full \nstrength to help them. She must really care about her friends.",
             "choice_data_list": [
                 "(…I need to go to where Taiki is!)"
-            ]
+            ],
+            "text": "There's a part of her that's a bit too spirited but, she's very \naware of the people around her, and always using her full \nstrength to help them. She must really care about her friends."
         },
         {
             "text": "Since El Condor Pasa and Grass Wonder explained the situation to \nme, I headed in the direction that Taiki Shuttle was taken."
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "Uuu, I won't do it again… \nWait, huh…?",
             "choice_data_list": [
                 "Hishi Amazon! I have something to say",
                 "Hishi Amazon! I have something to say"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "Uuu, I won't do it again… \nWait, huh…?"
         },
         {
             "name": "Taiki Shuttle",
@@ -182,12 +182,12 @@
             "text": "W-well that's…"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Well, part way through you started going on about [The party…], \nso I figured there was something going on there.",
             "choice_data_list": [
                 "Could you try not to scold her too much…?",
                 "Could you try not to scold her too much…?"
-            ]
+            ],
+            "name": "Hishi Amazon",
+            "text": "Well, part way through you started going on about [The party…], \nso I figured there was something going on there."
         },
         {
             "name": "Hishi Amazon",
@@ -234,12 +234,12 @@
             "text": "…No, trainers are normally restricted from entering the dorms, \nso that's not gonna happen, okay?"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "Nooo! How unfair, Trainer-san…!",
             "choice_data_list": [
                 "…rules should be followed.",
                 "…rules should be followed."
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "Nooo! How unfair, Trainer-san…!"
         },
         {
             "text": "All by my lonesome self, I made my way back home…"

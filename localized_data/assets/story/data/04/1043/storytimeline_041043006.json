@@ -60,11 +60,11 @@
             "text": "Meeeeh……"
         },
         {
-            "name": "Shinko Windy",
-            "text": "……What's that? \nHe's taking the goat for a walk.",
             "choice_data_list": [
                 "A meet-and-greet maybe?"
-            ]
+            ],
+            "name": "Shinko Windy",
+            "text": "……What's that? \nHe's taking the goat for a walk."
         },
         {
             "name": "Zookeeper",
@@ -79,11 +79,11 @@
             "text": "And like this, then that, \nand then to finish it off……"
         },
         {
-            "name": "Shinko Windy",
-            "text": "Naa haa haa haa, how's that!? \nI triple braided his beard!",
             "choice_data_list": [
                 "Don't do that, Windy!"
-            ]
+            ],
+            "name": "Shinko Windy",
+            "text": "Naa haa haa haa, how's that!? \nI triple braided his beard!"
         },
         {
             "name": "Shinko Windy",
@@ -100,11 +100,11 @@
             "text": "I had a sudden thought. Can't we use Windy's creativity here? \nHer prank seemed a little short-sighted, so maybe――"
         },
         {
-            "name": "Shinko Windy",
-            "text": "Huh? What do you mean? \nHave the Goat King help with the prank……?",
             "choice_data_list": [
                 "He wants to stand out too"
-            ]
+            ],
+            "name": "Shinko Windy",
+            "text": "Huh? What do you mean? \nHave the Goat King help with the prank……?"
         },
         {
             "name": "Shinko Windy",
@@ -127,11 +127,11 @@
             "text": "Waah Haa Haa Haa!!"
         },
         {
-            "name": "Shinko Windy",
-            "text": "Goat King! All of your food has fallen in \nto the possession of me, Windy-sama!!",
             "choice_data_list": [
                 "How dastardly! As expected of Windy-sama!"
-            ]
+            ],
+            "name": "Shinko Windy",
+            "text": "Goat King! All of your food has fallen in \nto the possession of me, Windy-sama!!"
         },
         {
             "name": "Zookeeper",
@@ -202,11 +202,11 @@
             "text": "Kuuu～～～～～! \nThat felt real good, huhーー!!"
         },
         {
-            "name": "Zookeeper",
-            "text": "Really, thank you very much! \nThe Goat King was able to get more visitors, and he seemed happy!",
             "choice_data_list": [
                 "Glad we could help"
-            ]
+            ],
+            "name": "Zookeeper",
+            "text": "Really, thank you very much! \nThe Goat King was able to get more visitors, and he seemed happy!"
         },
         {
             "name": "Shinko Windy",

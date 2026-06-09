@@ -1,5 +1,4 @@
 {
-    "title": "A Special Song from on High",
     "text_block_list": [
         {
             "name": "T.M. Opera O",
@@ -54,8 +53,8 @@
             "text": "What is the theme of your song in our grand opera?\nThat essence is what's missing from these photos."
         },
         {
-            "text": "――――",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "――――"
         },
         {
             "name": "Agnes Digital",
@@ -90,12 +89,12 @@
             "text": "If we want to be Number One, then... \n――Hm?"
         },
         {
-            "text": "\"The demon wages war on the Kingdom of Ice. But the Ice King stayed strong.\"...\nWell, well, what do we have here!",
-            "name": "T.M. Opera O"
+            "name": "T.M. Opera O",
+            "text": "\"The demon wages war on the Kingdom of Ice. But the Ice King stayed strong.\"...\nWell, well, what do we have here!"
         },
         {
-            "text": "BWAAHHHH! THE REAL THING READ MY RPF!????\nasdbansd... It's so over...\n...[Announcement] End of Service for Digitan...",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": "BWAAHHHH! THE REAL THING READ MY RPF!????\nasdbansd... It's so over...\n...[Announcement] End of Service for Digitan..."
         },
         {
             "name": "Meisho Doto",
@@ -166,8 +165,8 @@
             "text": "N-need...!? But, uh... Fanfics are... something you keep under wraps... If the canon article gets involved, things get, well, uhh.....!!"
         },
         {
-            "text": ".....ggghhhaaa-I UNDERSTAND! I will gladly offer my script!\nPlease, allow me to handle the costumes and the set design and the music and everything else!\n",
-            "name": "Agnes Digital"
+            "name": "Agnes Digital",
+            "text": ".....ggghhhaaa-I UNDERSTAND! I will gladly offer my script!\nPlease, allow me to handle the costumes and the set design and the music and everything else!\n"
         },
         {
             "name": "T.M. Opera O",
@@ -197,5 +196,6 @@
             "name": "Narita Top Road",
             "text": "Huh!? Me...!?"
         }
-    ]
+    ],
+    "title": "A Special Song from on High"
 }

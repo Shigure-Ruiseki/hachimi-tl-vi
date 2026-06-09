@@ -13,12 +13,12 @@
             "text": "Holdin' our own Summer Festival, sounds awesome! \nNo choice but to do it now～!!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Right～!?",
             "choice_data_list": [
                 "You plan on doing something?",
                 "You plan on doing something?"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Right～!?"
         },
         {
             "name": "Daitaku Helios",
@@ -47,11 +47,11 @@
             "text": "Ch-chan-Heli～!?!?!?"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Ugh…… what is this, it hurts～…… and where is this～?",
             "choice_data_list": [
                 "Camp lodgings. You collapsed"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Ugh…… what is this, it hurts～…… and where is this～?"
         },
         {
             "name": "Daitaku Helios",
@@ -62,11 +62,11 @@
             "text": "Oh, what about the festival……! \nPreparations are probably―"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Uuuughhh～…… so dizzy, \nI can't move～～～……",
             "choice_data_list": [
                 "For now, you need to rest"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Uuuughhh～…… so dizzy, \nI can't move～～～……"
         },
         {
             "name": "Daitaku Helios",
@@ -85,11 +85,11 @@
             "text": "Trai-pi, I promised to help you become a party peep～!!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Goin' with the flow in a serious festival～ \nisn't that what a party peep is all about? Right?",
             "choice_data_list": [
                 "……you were keeping your promise"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Goin' with the flow in a serious festival～ \nisn't that what a party peep is all about? Right?"
         },
         {
             "text": "I didn't want her hard work to go to waste. In order to repay \nher feelings, I wanted to continue the preparations……!"
@@ -99,35 +99,35 @@
             "text": "Huh? \nTrai-pi～…… Trainer??"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Where are you going?? Heeeey!",
             "choice_data_list": [
                 "Leave it to me and rest!",
                 "Leave it to me and rest!"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Where are you going?? Heeeey!"
         },
         {
             "name": "Daitaku Helios",
             "text": "Eeeeh～!? Don't leave me behindーー! \nAgh! My head!"
         },
         {
-            "name": "Gyaru A",
-            "text": "Party trainer……! Is chan-Heli okay? \nIs the festival doomed?",
             "choice_data_list": [
                 "I'll make it happen!",
                 "I'll make it happen!"
-            ]
+            ],
+            "name": "Gyaru A",
+            "text": "Party trainer……! Is chan-Heli okay? \nIs the festival doomed?"
         },
         {
             "name": "Gyaru B",
             "text": "Ha!? Huh!? \nParty Trainer will……!?"
         },
         {
-            "name": "Veteran Trainer",
-            "text": "Oooh～, reserving the whole beach for a festival, huh…… \nI knew the students were up to something.",
             "choice_data_list": [
                 "It'll be fun. Wanna help?"
-            ]
+            ],
+            "name": "Veteran Trainer",
+            "text": "Oooh～, reserving the whole beach for a festival, huh…… \nI knew the students were up to something."
         },
         {
             "name": "Veteran Trainer",
@@ -141,11 +141,11 @@
             "text": "With the help of Daitaku Helios' friends, and my fellow trainers, \nwe managed to finish preparations. And then the next day――"
         },
         {
-            "name": "Everyone",
-            "text": "Festival, Start! FOOOOOOO～～～～～!!",
             "choice_data_list": [
                 "H-here we go, put your hands up～!"
-            ]
+            ],
+            "name": "Everyone",
+            "text": "Festival, Start! FOOOOOOO～～～～～!!"
         },
         {
             "name": "Gyaru B",
@@ -173,11 +173,11 @@
             "text": "……～～～っ！！"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Trai-pi, Trai-pi～～～!! \nLet me join in too～～～～～!!",
             "choice_data_list": [
                 "Helios!? Feeling better?"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Trai-pi, Trai-pi～～～!! \nLet me join in too～～～～～!!"
         },
         {
             "name": "Daitaku Helios",
@@ -187,48 +187,48 @@
             "text": "And so, the party with students and trainers alike, \nwent off without a hitch."
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Aw man～. From here, \nwe can barely see the fireworks, huh～!?",
             "choice_data_list": [
                 "You could have gone with them……"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Aw man～. From here, \nwe can barely see the fireworks, huh～!?"
         },
         {
             "name": "Daitaku Helios",
             "text": "I couldn't leave ya all by yourself, Trai-poyo! \nEven if it's just the sound it's still wabi&sabi, \nright? That kind of emotion, right!?"
         },
         {
-            "text": "She said all that, but judging by the way her \nears and tail flicked about, she must have been \nreally looking forward to it. In that case――",
             "choice_data_list": [
                 "Helios! Fireworks!!"
-            ]
+            ],
+            "text": "She said all that, but judging by the way her \nears and tail flicked about, she must have been \nreally looking forward to it. In that case――"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Buha! \nWhere were you hidin' those pom poms!?",
             "choice_data_list": [
                 "Found them after the festival!",
                 "Found them after the festival!"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Buha! \nWhere were you hidin' those pom poms!?"
         },
         {
             "name": "Daitaku Helios",
             "text": "Uhahahaha♪ \nTrai-pi, you're the best! Let me try!!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Fireworks! Fireworks!! Another round of wicked fireworks☆ \nHell yeah, max vibes!",
             "choice_data_list": [
                 "You know, Helios……!"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Fireworks! Fireworks!! Another round of wicked fireworks☆ \nHell yeah, max vibes!"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Hm? What's up?",
             "choice_data_list": [
                 "Am I a party peep now……!?",
                 "Am I a party peep now……!?"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "Hm? What's up?"
         },
         {
             "name": "Daitaku Helios",
@@ -243,11 +243,11 @@
             "text": "I won't lose though! Next time I'll show you! \nWell, that's just how it is. That's why～―"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "In the next race, I'll show you a god-like explosive runaway☆",
             "choice_data_list": [
                 "……! Looking forward to it!!"
-            ]
+            ],
+            "name": "Daitaku Helios",
+            "text": "In the next race, I'll show you a god-like explosive runaway☆"
         },
         {
             "text": "Honestly, there was still a lot I didn't understand about \npartying but― after coming in to contact with that passion just \nmade me want to support her more."

@@ -5,21 +5,21 @@
             "text": "One day in the evening. Passing by the river \nbank on the way home from shopping――"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "――――HA！！",
             "choice_data_list": [
                 "！？"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "――――HA！！"
         },
         {
             "text": "With an astounding sharpness, a loud voice rang out. \nSurprised, I came to a stop. Without thinking, \nI looked in the direction it came from――"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Suuu――………… \nFuuー…………。",
             "choice_data_list": [
                 "If I'm not mistaken, she's…… Yaeno Muteki……？"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "Suuu――………… \nFuuー…………。"
         },
         {
             "name": "Yaeno Muteki",
@@ -37,24 +37,24 @@
             "text": "…………Fuuu."
         },
         {
-            "text": "……before I realized it, I was captivated. She was the epitome of \nfierceness and serenity. Every part of her body moved with a \nrefined grace, the result of diligent training……",
             "choice_data_list": [
                 "(It's…… almost like a 『Dance』……)"
-            ]
+            ],
+            "text": "……before I realized it, I was captivated. She was the epitome of \nfierceness and serenity. Every part of her body moved with a \nrefined grace, the result of diligent training……"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "――Excuse me. You over there.",
             "choice_data_list": [
                 "！？ Y―yes！！"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "――Excuse me. You over there."
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Judging by the badge on your collar, I assume you are a trainer from the academy. \nDo you have some business with me?",
             "choice_data_list": [
                 "Not really…… sorry, I was just fascinated……"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "Judging by the badge on your collar, I assume you are a trainer from the academy. \nDo you have some business with me?"
         },
         {
             "name": "Yaeno Muteki",
@@ -65,11 +65,11 @@
             "text": "Even now, I'm performing these 『Kata』 to purge my idle thoughts, \nto calm the uncontrollable emotions coursing through me in \nprepartion for tomorrow's Selection Race."
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "However, even if my training has been insufficient, \ntomorrow I intend to use my full power. ……if you have the time, and find \nyourself there, it would be fortuitous.",
             "choice_data_list": [
                 "A-acknowledged……！"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "However, even if my training has been insufficient, \ntomorrow I intend to use my full power. ……if you have the time, and find \nyourself there, it would be fortuitous."
         },
         {
             "text": "Somehow, she gave off the impression of an old-timey martial \nartist with her speech and conduct, unconciously it caused me to \nstraighten up and respond in kind."
@@ -101,11 +101,11 @@
             "text": "……how brave of you. But that spirit, how long will it last? \nIf you don't wanna get hurt, you should probably \ndo what we say―― run―crazed missy."
         },
         {
-            "text": "The delinquent Uma Musume that looked like the leader started \nreleasing an intimidating aura！ ……since it's come this far I \ncan't stand here and do nothing！！",
             "choice_data_list": [
                 "You all need to stop this……！",
                 "You all need to stop this……！"
-            ]
+            ],
+            "text": "The delinquent Uma Musume that looked like the leader started \nreleasing an intimidating aura！ ……since it's come this far I \ncan't stand here and do nothing！！"
         },
         {
             "name": "Delinquent Uma Musume A",
@@ -134,24 +134,24 @@
             "text": "……Let's go. She's out of our league."
         },
         {
-            "name": "Delinquent Uma Musume A",
-            "text": "Eh, huh, Aneki！？ \nW-wait for meee～～～！！",
             "choice_data_list": [
                 "(T-they left……)"
-            ]
+            ],
+            "name": "Delinquent Uma Musume A",
+            "text": "Eh, huh, Aneki！？ \nW-wait for meee～～～！！"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……while it was for the purpose of chasing them off, \nI apologize for suddenly letting out such \na loud voice. I'm sure you were surprised.",
             "choice_data_list": [
                 "No, I'm grateful for your help"
-            ]
+            ],
+            "name": "Yaeno Muteki",
+            "text": "……while it was for the purpose of chasing them off, \nI apologize for suddenly letting out such \na loud voice. I'm sure you were surprised."
         },
         {
-            "text": "Besides, while she had enough ferocity to freeze \nthose delinquents in their tracks, seeing her \nso calmy stand there without flinching――",
             "choice_data_list": [
                 "You were really cool！"
-            ]
+            ],
+            "text": "Besides, while she had enough ferocity to freeze \nthose delinquents in their tracks, seeing her \nso calmy stand there without flinching――"
         },
         {
             "name": "Yaeno Muteki",
@@ -196,11 +196,11 @@
             "text": "――OooooooooOOOOOo！！"
         },
         {
-            "name": "Participating Uma Musume A",
-            "text": "Fufuu, she took the bait……！",
             "choice_data_list": [
                 "(Huh……！？)"
-            ]
+            ],
+            "name": "Participating Uma Musume A",
+            "text": "Fufuu, she took the bait……！"
         },
         {
             "name": "Veteran Trainer A",

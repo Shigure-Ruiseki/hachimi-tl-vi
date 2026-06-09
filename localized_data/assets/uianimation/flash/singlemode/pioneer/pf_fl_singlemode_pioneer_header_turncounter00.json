@@ -1,7 +1,4 @@
 {
-    "windows": {
-        "bundle_name": "GWFMVCOHTWM2XSGR2PSNGPD6GYZUJGNN"
-    },
     "data": {
         "motion_parameter_list": {
             "6": {
@@ -14,12 +11,12 @@
             "7": {
                 "text_param_list": {
                     "0": {
-                        "text": "Turns",
                         "scale": {
                             "x": 0.9,
                             "y": 0.9,
-                            "z": 1.0
-                        }
+                            "z": 1
+                        },
+                        "text": "Turns"
                     }
                 }
             },
@@ -52,5 +49,8 @@
                 }
             }
         }
+    },
+    "windows": {
+        "bundle_name": "GWFMVCOHTWM2XSGR2PSNGPD6GYZUJGNN"
     }
 }

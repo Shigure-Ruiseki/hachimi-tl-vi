@@ -5,19 +5,19 @@
             "text": "One day, as I was walking through \ncampus, I saw…"
         },
         {
-            "name": "Rat?",
-            "text": "Squeak, squeak! \nBakushin, Bakushin!",
             "choice_data_list": [
                 "…A rat?"
-            ]
+            ],
+            "name": "Rat?",
+            "text": "Squeak, squeak! \nBakushin, Bakushin!"
         },
         {
-            "name": "Cat?",
-            "text": "Meow, meow! \nBakushin, Bakushin!",
             "choice_data_list": [
                 "No, a cat?",
                 "No, a cat?"
-            ]
+            ],
+            "name": "Cat?",
+            "text": "Meow, meow! \nBakushin, Bakushin!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -28,11 +28,11 @@
             "text": "It's the class president!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "And, oh no――! \nThey're coming!!",
             "choice_data_list": [
                 "…Are you playing hide-and-seek?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "And, oh no――! \nThey're coming!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -43,11 +43,11 @@
             "text": "Aah!? \nThe subjects have disappeared!?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "We must search for them!! \nTrainer!",
             "choice_data_list": [
                 "Eh!?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "We must search for them!! \nTrainer!"
         },
         {
             "text": "I wasn't quite sure what was going on, but \nI was worried about her being on her own, \nso I decided to follow her…"
@@ -61,22 +61,22 @@
             "text": "This is due to the rain the day before. \nIt is my hypothesis that this is ideal for \ntraining in anticipation of poor track \nconditions."
         },
         {
-            "name": "Rice Shower",
-            "text": "But, with Rice's misfortune, something \nmight happen…",
             "color_text_info_list": [
                 "Rice"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "But, with Rice's misfortune, something \nmight happen…"
         },
         {
             "name": "Mihono Bourbon",
             "text": "Though, I seem to recall that dealing with \nirregular situations is part of your training?"
         },
         {
-            "name": "Rice Shower",
-            "text": "Ms. Bourbon… You're right, thank you.",
             "color_text_info_list": [
                 "Bourbon"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Ms. Bourbon… You're right, thank you."
         },
         {
             "name": "Mihono Bourbon",
@@ -95,11 +95,11 @@
             "text": "Hypothe… saurus?……Irregu… lar? \nA part… a part of your tuna-ing?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Perhaps, after training you are going to \na sushi restaurant!? Uuuuu, I must go there \ntoo, so I can do my research while I'm at it!!",
             "choice_data_list": [
                 "Those are your two research subjects?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Perhaps, after training you are going to \na sushi restaurant!? Uuuuu, I must go there \ntoo, so I can do my research while I'm at it!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -114,18 +114,18 @@
             "text": "It's a big project, so it was necessary to be \ncareful, and I had to keep it a secret from \neven you, Trainer. Now, then…"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Surely, you must be a telepath, Trainer! \nYou're a telepathic trainer, aren't you? \nIt's a kind of Uma, isn't it!?",
             "choice_data_list": [
                 "It's not an Uma, or a UMA.",
                 "It's not an Uma, or a UMA."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Surely, you must be a telepath, Trainer! \nYou're a telepathic trainer, aren't you? \nIt's a kind of Uma, isn't it!?"
         },
         {
-            "text": "I know what Sakura Bakushin O is \ndoing, sneaking around and spying \non the two of them, but…",
             "choice_data_list": [
                 "Why are those two your rivals?"
-            ]
+            ],
+            "text": "I know what Sakura Bakushin O is \ndoing, sneaking around and spying \non the two of them, but…"
         },
         {
             "name": "Sakura Bakushin O",
@@ -136,18 +136,18 @@
             "text": "In other words, they're naturally destined \nto showdown with me as I continue down \nthe Bakushin Road!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Ms. Rice Shower. \nShe is a small stayer, but a very good one. \nShe also looks timid, but she has a \ncompetitive spirit.",
             "color_text_info_list": [
                 "Rice Shower"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Ms. Rice Shower. \nShe is a small stayer, but a very good one. \nShe also looks timid, but she has a \ncompetitive spirit."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Ms. Mihono Bourbon. \nShe has the speed to be a sprinter and the \nstamina to keep it up.",
             "color_text_info_list": [
                 "Mihono Bourbon"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Ms. Mihono Bourbon. \nShe has the speed to be a sprinter and the \nstamina to keep it up."
         },
         {
             "name": "Sakura Bakushin O",
@@ -158,11 +158,11 @@
             "text": "After all, her speed is quite the threat. \nShe'll definitely be competing with me in \nthe early stages of the race."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "…Say, wait a minute, are you listening to \nme!? You're just staring at me with your \nmouth wide open!",
             "choice_data_list": [
                 "I just thought it was a great analysis."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "…Say, wait a minute, are you listening to \nme!? You're just staring at me with your \nmouth wide open!"
         },
         {
             "text": "Sakura Bakushin O, who always seems \nto have a tendency to act rashly, is giving \na very thoughtful and respectable analysis…"
@@ -183,11 +183,11 @@
             "text": "…Better just to keep quiet about the fact \nthat most important premise is blatantly \nincorrect. \nAh, right over there…"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Ms. Bakushin O.",
             "color_text_info_list": [
                 "Bakushin O"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Ms. Bakushin O."
         },
         {
             "name": "Sakura Bakushin O",

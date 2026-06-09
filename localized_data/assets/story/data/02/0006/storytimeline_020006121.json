@@ -139,11 +139,11 @@
             "text": "Ah, that's right, Trainer-san! I grabbed this \non the way to the trainer's room!"
         },
         {
-            "name": "Winning Ticket",
-            "text": "Here, the questionnaire for the article.",
             "choice_data_list": [
                 "Article……?"
-            ]
+            ],
+            "name": "Winning Ticket",
+            "text": "Here, the questionnaire for the article."
         },
         {
             "name": "Mejiro McQueen",
@@ -317,11 +317,11 @@
             "text": "This girl who came from Hokkaido not knowing \nright from left, more so than when we first \nmet, her gaze was diginified and strong."
         },
         {
-            "text": "She's steadily getting closer and closer to \nbeing \"Japan's #1 Uma Musume\"― when looking \nat her, I couldn't help but think that.",
             "choice_data_list": [
                 "Please win, Spe!",
                 "Please win, Spe!"
-            ]
+            ],
+            "text": "She's steadily getting closer and closer to \nbeing \"Japan's #1 Uma Musume\"― when looking \nat her, I couldn't help but think that."
         },
         {
             "name": "Special Week",

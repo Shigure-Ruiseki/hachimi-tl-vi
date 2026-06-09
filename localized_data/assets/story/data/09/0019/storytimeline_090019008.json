@@ -1,5 +1,4 @@
 {
-    "title": "The Dash",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -182,5 +181,6 @@
             "name": "All Together",
             "text": "Run on, O trainees, run on. From ages past to end of days. \nThread our memory forevermore ——"
         }
-    ]
+    ],
+    "title": "The Dash"
 }

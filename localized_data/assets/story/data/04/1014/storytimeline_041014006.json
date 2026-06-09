@@ -24,23 +24,23 @@
             "text": "Mmmm… disappointing! I need something stronger, \nwhere I can feel the power when hitting the ground…"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "Uuuuy～ How do I get you to understand…? \n<i>Haah</i>, if only Trainer was here ——",
             "choice_data_list": [
                 "You called?",
                 "You called?"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "Uuuuy～ How do I get you to understand…? \n<i>Haah</i>, if only Trainer was here ——"
         },
         {
             "name": "El Condor Pasa",
             "text": "Qué?! Th-That voice…… Trainer?!"
         },
         {
-            "text": "El Condor Pasa had been trying to buy herself running shoes, \nbut ran into trouble communicating with the store clerk.",
             "choice_data_list": [
                 "You just want shoes that suit you, yeah?",
                 "You just want shoes that suit you, yeah?"
-            ]
+            ],
+            "text": "El Condor Pasa had been trying to buy herself running shoes, \nbut ran into trouble communicating with the store clerk."
         },
         {
             "name": "El Condor Pasa",
@@ -51,11 +51,11 @@
             "text": "But, Trainer, you know what I mean, right? \n'Cause you're my trainer!"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "And you can explain it to the clerk, can't you? \nWe're an outstanding tag team after all!",
             "choice_data_list": [
                 "I'll try."
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "And you can explain it to the clerk, can't you? \nWe're an outstanding tag team after all!"
         },
         {
             "name": "El Condor Pasa",
@@ -88,12 +88,12 @@
             "text": "So saying, the place El Condor Pasa took me to \nturned out to be a fast food restaurant."
         },
         {
-            "name": "El Condor Pasa",
-            "text": "Mmm～ I can smell the juicy aroma from here… \n<i>Aaah</i>, everything looks delicious～",
             "choice_data_list": [
                 "I'm helping pick from the menu this time?",
                 "I'm helping pick from the menu this time?"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "Mmm～ I can smell the juicy aroma from here… \n<i>Aaah</i>, everything looks delicious～"
         },
         {
             "name": "El Condor Pasa",
@@ -114,11 +114,11 @@
             "text": "Is it the plate or the coating that burns crimson!? \nNo, it's the fries themselves that are on fire!!"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "Spiciness is deliciousness! Deliciousness is crimson! \nRed, hot, spicy! El's Special Fries await yoouuu!!",
             "choice_data_list": [
                 "I feel these words do not bode well…"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "Spiciness is deliciousness! Deliciousness is crimson! \nRed, hot, spicy! El's Special Fries await yoouuu!!"
         },
         {
             "name": "El Condor Pasa",
@@ -152,11 +152,11 @@
             "text": "Mama always taught me, \"This sauce is special, \nyou should only eat it with family\" ——"
         },
         {
-            "name": "El Condor Pasa",
-            "text": "—— \"It's far too dangerous a stimulus \nfor people who aren't used to it\".",
             "choice_data_list": [
                 "Y-You don't say…"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "—— \"It's far too dangerous a stimulus \nfor people who aren't used to it\"."
         },
         {
             "name": "El Condor Pasa",
@@ -175,11 +175,11 @@
             "text": "Ehehe. It's a sauce full of love! To thank you \nfor always doing your best for me."
         },
         {
-            "name": "El Condor Pasa",
-            "text": "Let's share this and build up our tolerance together! \nAfter you, Trainer…",
             "choice_data_list": [
                 "…… I humbly accept!"
-            ]
+            ],
+            "name": "El Condor Pasa",
+            "text": "Let's share this and build up our tolerance together! \nAfter you, Trainer…"
         },
         {
             "name": "El Condor Pasa",

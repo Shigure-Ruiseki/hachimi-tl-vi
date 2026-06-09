@@ -8,11 +8,11 @@
             "text": "I'm curious as to how she normally trains… \nThis thought was on my mind as I made my way \nto the location she had specified."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "<i>Heheh</i>, there you are. Let's get this training underway.",
             "choice_data_list": [
                 "Why are we in the dance studio…?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "<i>Heheh</i>, there you are. Let's get this training underway."
         },
         {
             "name": "T.M. Opera O",
@@ -41,12 +41,12 @@
             "text": "What in heavens is this training for…?"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "<i>Heh… </i>that should do it. \nRight then, share with me your impressions.",
             "choice_data_list": [
                 "Words fail me once again…",
                 "Words fail me once again…"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "<i>Heh… </i>that should do it. \nRight then, share with me your impressions."
         },
         {
             "name": "T.M. Opera O",
@@ -57,12 +57,12 @@
             "text": "Oh, so be it… Given enough time, I am certain you will come to \nappreciate my expression. On then, to the next phase of training!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "The water here looks as clean and sparkling as diamond… \nWhy, it's almost as if it is celebrating my arrival.",
             "choice_data_list": [
                 "What are you up to here?",
                 "What are you up to here?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "The water here looks as clean and sparkling as diamond… \nWhy, it's almost as if it is celebrating my arrival."
         },
         {
             "name": "T.M. Opera O",
@@ -87,12 +87,12 @@
             "text": "<i>Hah… hah… hah… </i>Our final training spot lies \njust beyond this long set of stone steps…!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Here we are!",
             "choice_data_list": [
                 "What are we <i>here</i> for……?",
                 "What are we <i>here</i> for……?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Here we are!"
         },
         {
             "name": "T.M. Opera O",
@@ -125,12 +125,12 @@
             "text": "<i>Heheh</i>, I've certainly managed some worthwhile training today."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "How was it for you? Has spending the day with me \nenlightened you on my magnificence yet?",
             "choice_data_list": [
                 "You see no need for conventional training?",
                 "You see no need for conventional training?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "How was it for you? Has spending the day with me \nenlightened you on my magnificence yet?"
         },
         {
             "name": "T.M. Opera O",
@@ -144,11 +144,11 @@
             "text": "T.M. Opera O insisted this was the case, but is she \nreally managing like that…?"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Your face expresses doubts. \nIt's quite alright, share them with me.",
             "choice_data_list": [
                 "Is a high king not in need of victories?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Your face expresses doubts. \nIt's quite alright, share them with me."
         },
         {
             "name": "T.M. Opera O",

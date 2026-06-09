@@ -1,5 +1,4 @@
 {
-    "title": "For You, A Tiara",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -286,5 +285,6 @@
             "name": "Rhein Kraft",
             "text": "……Hm? \n……『Ku-chan-senpai』?"
         }
-    ]
+    ],
+    "title": "For You, A Tiara"
 }

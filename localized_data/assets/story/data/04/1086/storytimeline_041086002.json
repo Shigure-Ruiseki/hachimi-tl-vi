@@ -17,22 +17,22 @@
             "text": "This race had a sudden opening. While discussing \nwhat to do, she just said 『What's my gate number?』…… \nI heard it was a decision from higher up."
         },
         {
-            "name": "Mr. C.B.",
-            "text": "So that's how it is……so that's why those girls are like \"that\".",
             "choice_data_list": [
                 "(Like that……?)"
-            ]
+            ],
+            "name": "Mr. C.B.",
+            "text": "So that's how it is……so that's why those girls are like \"that\"."
         },
         {
             "name": "Trainee A",
             "text": "Uuuu, why is Ramonu-san……I hadn't heard about this!"
         },
         {
-            "name": "Trainee B",
-            "text": "Just her aura is scary……just when we had the chance to run \nin front of a bunch of people……it might be impossible.",
             "choice_data_list": [
                 "(They all seemed demoralized……)"
-            ]
+            ],
+            "name": "Trainee B",
+            "text": "Just her aura is scary……just when we had the chance to run \nin front of a bunch of people……it might be impossible."
         },
         {
             "text": "It seemed like Mejiro Ramonu had an intimidating presence atop \nthe turf. If it was like this, it wouldn't be a proper race……"
@@ -76,11 +76,11 @@
             "text": "Thus, with a heavy atmosphere, the mock race \nbegan…… From beginning to end, it ended up \nbecoming a solo performance by Mejiro Ramonu……"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Huuu……!",
             "choice_data_list": [
                 "(A perfect start dash……!)"
-            ]
+            ],
+            "name": "Mejiro Ramonu",
+            "text": "Huuu……!"
         },
         {
             "text": "Mejiro Ramonu showed a beautiful example of a start dash. \nShe took a good position to wait for her chance. And then――"
@@ -101,11 +101,11 @@
             "text": "Kuuu…… reach her……! \nI don't want to lose……! Aaaahhhhhh!"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "――Aahh……perfect. Yes, this is it…… \nFufuu…… Ahahahaa……!!",
             "choice_data_list": [
                 "……!!"
-            ]
+            ],
+            "name": "Mejiro Ramonu",
+            "text": "――Aahh……perfect. Yes, this is it…… \nFufuu…… Ahahahaa……!!"
         },
         {
             "name": "Trainer A",
@@ -119,16 +119,16 @@
             "text": "The noise of the crowd sounded far away, drowned out \nby the beating of my own heart…… just like that time――"
         },
         {
-            "text": "――When Symboli Rudolf became an Undefeated Triple Crown \nUma Musume…… No, even more so than any other race before.",
             "choice_data_list": [
                 "……It has to be her"
-            ]
+            ],
+            "text": "――When Symboli Rudolf became an Undefeated Triple Crown \nUma Musume…… No, even more so than any other race before."
         },
         {
-            "text": "The first ever Triple Tiara……the only one capable of \nachieving that honor, it has to be Mejiro Ramonu……!",
             "choice_data_list": [
                 "(I need to go……!)"
-            ]
+            ],
+            "text": "The first ever Triple Tiara……the only one capable of \nachieving that honor, it has to be Mejiro Ramonu……!"
         },
         {
             "name": "Mr. C.B.",
@@ -151,18 +151,18 @@
             "text": "……they've known each other since way back, right? \nFor some reason Rudolf seems……excited?"
         },
         {
-            "text": "I followed quickly after Mejiro Ramonu after \nshe left the course and headed to the central \nplaza. She glanced at me as I ran towards her.",
             "choice_data_list": [
                 "Excuse me, I――",
                 "Excuse me, I――"
-            ]
+            ],
+            "text": "I followed quickly after Mejiro Ramonu after \nshe left the course and headed to the central \nplaza. She glanced at me as I ran towards her."
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Sure.",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Mejiro Ramonu",
+            "text": "Sure."
         },
         {
             "name": "Mejiro Ramonu",
@@ -173,10 +173,10 @@
             "text": "Will you escort me? \n――Through the Twinkle Series."
         },
         {
-            "text": "It took a few moments for her words to register. \n\"I was offered a trainer contract\"……once I \nunderstood what she was saying, there was only one answer.",
             "choice_data_list": [
                 "Of course……!"
-            ]
+            ],
+            "text": "It took a few moments for her words to register. \n\"I was offered a trainer contract\"……once I \nunderstood what she was saying, there was only one answer."
         },
         {
             "text": "And so, even though it was so sudden…… \nI had become Mejiro Ramonu's trainer."

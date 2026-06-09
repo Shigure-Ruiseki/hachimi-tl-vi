@@ -1,5 +1,4 @@
 {
-    "title": "Gathering Under Copper Leaves",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -202,5 +201,6 @@
             "name": "Everyone",
             "text": "…………"
         }
-    ]
+    ],
+    "title": "Gathering Under Copper Leaves"
 }

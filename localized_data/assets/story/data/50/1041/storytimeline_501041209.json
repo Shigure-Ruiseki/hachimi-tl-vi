@@ -24,12 +24,12 @@
             "text": "Errm, well, in this case… \n<i>Mumblemumblemumble.</i>"
         },
         {
-            "name": "Nishino Flower",
-            "text": "Um, Ms. Bakushin O's Trainer. \nWhat's the meaning of all this…?",
             "choice_data_list": [
                 "I wonder that, too…",
                 "I wonder that, too…"
-            ]
+            ],
+            "name": "Nishino Flower",
+            "text": "Um, Ms. Bakushin O's Trainer. \nWhat's the meaning of all this…?"
         },
         {
             "text": "Sakura Bakushin O suddenly ran out of the \nwaiting room and pulled Nishino Flower with \nher. I'm sure she has some sort of agenda…"
@@ -55,11 +55,11 @@
             "text": "Chief… advisor?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "What's this!? \nMy message wasn't received!?",
             "choice_data_list": [
                 "Do you mean declare victory?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "What's this!? \nMy message wasn't received!?"
         },
         {
             "name": "Sakura Bakushin O",

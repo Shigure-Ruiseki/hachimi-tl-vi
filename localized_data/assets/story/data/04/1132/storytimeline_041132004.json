@@ -1,260 +1,260 @@
 {
-  "text_block_list": [
-    {
-      "name": "Loves Only You",
-      "text": "Ừm…… Như thế này chắc là ổn rồi."
-    },
-    {
-      "choice_data_list": [
-        "<size=28>Em sẽ biết ngay thôi. Nhân tiện thì, anh muốn hỏi lại một chuyện…</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Em chuẩn bị xong rồi. Nhưng mà…… chuyện \"muốn em livestream\" nghĩa là sao ạ?"
-    },
-    {
-      "choice_data_list": [
-        "<size=28>Em nhớ fanclub của mình có bao nhiêu người đăng ký không?</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "? Gì cơ ạ?"
-    },
-    {
-      "choice_data_list": [
-        "Ừm, được rồi. Vậy chúng ta bắt đầu thôi."
-      ],
-      "name": "Loves Only You",
-      "text": "Chuyện đó…… dĩ nhiên là em nhớ chứ ạ. Tính đến ngày hôm nay là 9,927 người."
-    },
-    {
-      "text": "Sau khi xác nhận mọi thứ đã sẵn sàng, tôi gửi đi 『tín hiệu』 đã chuẩn bị trước trên điện thoại của mình."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "…Woah, tuyệt quá. Mọi người vào xem rồi kìa. Ah, ah-ah. Thế nào ạ? Mọi người có nghe rõ em nói không?"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "—『Nghe rõ lắm!』……A ha, cảm ơn mọi người nhé!"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "……Ừm. Vậy thì, em xin phép được bắt đầu đây."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Mọi người ơi～, có khỏe không nè? Love me～♡ Love you～♡ Loves Only You đây ạ～♡"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Vì em không thông báo trước nên buổi livestream này hơi đột xuất một chút, nhưng mà—— ……Ơ kìa?"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Cái gì thế này……? Cái này không phải là số lượng người xem đâu đúng không……?"
-    },
-    {
-      "choice_data_list": [
-        "<size=34>Đúng vậy đấy. Tất cả mọi người đều ở đây hết rồi.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Có thế nào đi nữa thì lượng người xem cùng lúc thế này làm sao mà——"
-    },
-    {
-      "choice_data_list": [
-        "Và――"
-      ],
-      "name": "Loves Only You",
-      "text": "…99…26 fans…"
-    },
-    {
-      "choice_data_list": [
-        "<size=40>Tính cả anh nữa…… thì vừa tròn 9,927 người.</size>",
-        "<size=40>Tính cả anh nữa…… thì vừa tròn 9,927 người.</size>"
-      ],
-      "text": "Tôi lấy điện thoại của mình ra và thao tác ngay trước mặt cô ấy."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "——…… Không thể nào. Hóa ra anh cũng là fan trong fanclub của em sao. Vậy là…… chuyện dạo gần đây anh đều biết hết, và đã chuẩn bị tất cả những thứ này."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "——…… Không thể nào. Hóa ra anh cũng là fan trong fanclub của em sao. Vậy là…… chuyện dạo gần đây anh đều biết hết, và đã chuẩn bị tất cả những thứ này."
-    },
-    {
-      "choice_data_list": [
-        "<size=32>Đối với anh, không có việc gì quan trọng hơn việc này cả.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Nhưng mà, làm sao anh có thể tập hợp được tất cả mọi người lại vậy? Rõ ràng là giờ giấc sinh hoạt của mỗi người đều khác nhau mà."
-    },
-    {
-      "text": "Dù ai cũng có việc riêng. Nhưng, Mọi người vẫn hứa sẽ cùng nhau tập hợp lại, dù chỉ là trong khoảnh khắc này mà thôi."
-    },
-    {
-      "choice_data_list": [
-        "<size=24>Bằng tâm tình của 9,927 con người, chúng tôi sẽ đưa em đến với thế giới.</size>",
-        "<size=24>Bằng tâm tình của 9,927 con người, chúng tôi sẽ đưa em đến với thế giới.</size>"
-      ],
-      "text": "Để không phải bỏ lại cô ấy một mình… Để nhắn nhủ với cô ấy rằng tất cả mọi người đều đang ở bên nhau. Tôi đưa ra cuốn sổ dày cộp — kết tinh từ chính những tâm tư ấy, rồi nhẹ nhàng cất lời."
-    },
-    {
-      "choice_data_list": [
-        "<size=26>Anh chắc chắn rằng, một khi đã sải bước, em sẽ thấy thêm nhiều điều mới.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "\"Kế hoạch 9,927\"……"
-    },
-    {
-      "choice_data_list": [
-        "<size=28>Anh hy vọng lúc đó em có thể lựa chọn con đường mà em muốn.</size>",
-        "<size=28>Anh hy vọng lúc đó em có thể lựa chọn con đường mà em muốn.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "——『Những điều mà em muốn làm, chắc chắn cũng sẽ nhiều hơn』……"
-    },
-    {
-      "choice_data_list": [
-        "<size=32>Nhưng chắc chắn, anh có thể soi sáng con đường em đi.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "—— 『Dù không thể dắt tay dẫn lối cho em』……"
-    },
-    {
-      "choice_data_list": [
-        "Em xem thử cả nửa sau nữa đi."
-      ],
-      "name": "Loves Only You",
-      "text": "Bản mô phỏng năng lực dựa trên sải bước chạy của em…… và một kế hoạch tập luyện toàn diện. Cả ăn uống, nghỉ ngơi…… chi tiết đến mức này sao……"
-    },
-    {
-      "choice_data_list": [
-        "<size=34>Nửa đó là do mọi người trong cùng nhau làm đấy.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Nửa sau……?\n—— A……"
-    },
-    {
-      "text": "Kế hoạch giao lưu với fan, lấy trọng tâm là các buổi phát sóng. Giữ nguyên phần cốt lõi, đồng thời hỗ trợ mở rộng vòng tay kết nối ấy lớn mạnh hơn nữa."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "<i>…Hehe. Cảm ơn…… cảm ơn mọi người nhiều lắm.</i>"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Em chưa từng nghĩ về nó đâu. Một con đường mà không thể bước đi cùng mọi người nữa."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Thật sự…… thật sự, thật tốt vì em đã luôn tin tưởng. Tình yêu của mọi người, em nhận được rồi."
-    },
-    {
-      "choice_data_list": [
-        "<size=26>Anh sẽ biến niềm vui đó thành sự cổ vũ, để rồi lại gửi trao lại cho em<size=24>",
-        "<size=26>Anh  sẽ biến niềm vui đó thành sự cổ vũ, để rồi lại gửi trao lại cho em<size=24>"
-      ],
-      "name": "Loves Only You",
-      "text": "Tình yêu này…… em nhất định sẽ biến nó thành một chiến thắng vang dội để đáp lại tất cả mọi người."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Hehe. Cứ như vậy, chúng ta hãy cùng nhau nuôi dưỡng tình yêu này ngày một lớn hơn nữa nhé."
-    },
-    {
-      "choice_data_list": [
-        "<size=22>Đến lúc đó, không chỉ là 9.927 người đâu, khéo phải là một triệu người luôn ấy chứ.</size>"
-      ],
-      "name": "Loves Only You",
-      "text": "Nếu tình yêu ấy có thể lan tỏa rộng hơn, chạm đến những nơi xa hơn nữa…… Thì đó sẽ là một \"tình yêu\" tuyệt vời nhất, đúng không anh?"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Không đâu ạ. Cho dù có như vậy đi nữa, con số ấy vẫn sẽ chẳng thay đổi. Bởi vì đối với em…… đó sẽ là một con số quan trọng mà em suốt đời không thể nào quên ♪"
-    },
-    {
-      "choice_data_list": [
-        "――Được thôi!",
-        "――Được thôi!"
-      ],
-      "name": "Loves Only You",
-      "text": "——Chúng ta hãy cùng lập một lời hứa nhé. Ngay tại đây, trước mặt tất cả mọi người có mặt nơi này."
-    },
-    {
-      "text": "——Vài ngày sau."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Phù……!"
-    },
-    {
-      "name": "UmaMusume chạy cùng",
-      "text": "K... Không được rồi......!\nMình không tài nào...... đuổi kịp được——!"
-    },
-    {
-      "name": "Trainer kỳ cựu",
-      "text": "Hửm……!?"
-    },
-    {
-      "name": "Uma Musume chạy cùng",
-      "text": "Rõ ràng mình nghe nói cậu ta chỉ mới có Trainer gần đây thôi mà……! Vậy mà một đứa dốc hết tất cả cho việc tập luyện như mình lại……!"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "(Cứ khắc khổ tập luyện thì sẽ trở nên mạnh mẽ hơn…… Có lẽ đó là câu trả lời đúng với người khác. Thế nhưng, mình thì khác.)"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "(Những người đón nhận \"tình yêu\" của mình, và gửi lại \"tình yêu\" ấy cho mình…… Chính vì cảm nhận được họ luôn ở bên cạnh, nên——)"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Yaaaaaa-!"
-    },
-    {
-      "choice_data_list": [
-        "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!",
-        "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!"
-      ],
-      "name": "Loves Only You",
-      "text": "Anh thấy sao, Trainer-kun? ♪"
-    },
-    {
-      "choice_data_list": [
-        "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!",
-        "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!"
-      ],
-      "name": "Loves Only You",
-      "text": "Anh thấy sao, Trainer-kun? ♪"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Ơ, hay mà. Với lại, gọi thế này…… chẳng phải nghe thân thiết hơn sao?"
-    },
-    {
-      "name": "Trainer kỳ cựu",
-      "text": "……Loves Only You. Em đã trở nên mạnh mẽ hơn nhiều so với khi tôi chiêu mộ em rồi."
-    },
-    {
-      "name": "Trainer kỳ cựu",
-      "text": "Để ta đính chính lại nhé. Có những Umamusume thực sự trở nên mạnh mẽ vì ai đó. ……Và em đã làm được điều đó, em đã chứng minh được cho tôi những gì em đã nói rồi."
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Hehe ♡ Cảm ơn. Nhưng người hiện thực hóa điều đó không phải chỉ mình em đâu—mà là 'chúng em', đó ạ ♪"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Tình yêu của mọi người đang tiếp thêm sức mạnh cho em. Nếu không phải đơn độc một mình…… em có thể trở nên mạnh mẽ hơn bao giờ hết đó ạ ♪"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Bởi vì——"
-    },
-    {
-      "name": "Loves Only You",
-      "text": "Love me～♡ Love you～♡ Vì em chính là Loves Only You mà～♡"
-    }
-  ],
-  "title": "\"Tình Yêu\" Thuở Ban Đầu"
+    "text_block_list": [
+        {
+            "name": "Loves Only You",
+            "text": "Ừm…… Như thế này chắc là ổn rồi."
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Em sẽ biết ngay thôi. Nhân tiện thì, anh muốn hỏi lại một chuyện…</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Em chuẩn bị xong rồi. Nhưng mà…… chuyện \"muốn em livestream\" nghĩa là sao ạ?"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Em nhớ fanclub của mình có bao nhiêu người đăng ký không?</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "? Gì cơ ạ?"
+        },
+        {
+            "choice_data_list": [
+                "Ừm, được rồi. Vậy chúng ta bắt đầu thôi."
+            ],
+            "name": "Loves Only You",
+            "text": "Chuyện đó…… dĩ nhiên là em nhớ chứ ạ. Tính đến ngày hôm nay là 9,927 người."
+        },
+        {
+            "text": "Sau khi xác nhận mọi thứ đã sẵn sàng, tôi gửi đi 『tín hiệu』 đã chuẩn bị trước trên điện thoại của mình."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "…Woah, tuyệt quá. Mọi người vào xem rồi kìa. Ah, ah-ah. Thế nào ạ? Mọi người có nghe rõ em nói không?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "—『Nghe rõ lắm!』……A ha, cảm ơn mọi người nhé!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Ừm. Vậy thì, em xin phép được bắt đầu đây."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mọi người ơi～, có khỏe không nè? Love me～♡ Love you～♡ Loves Only You đây ạ～♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Vì em không thông báo trước nên buổi livestream này hơi đột xuất một chút, nhưng mà—— ……Ơ kìa?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Cái gì thế này……? Cái này không phải là số lượng người xem đâu đúng không……?"
+        },
+        {
+            "choice_data_list": [
+                "<size=34>Đúng vậy đấy. Tất cả mọi người đều ở đây hết rồi.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Có thế nào đi nữa thì lượng người xem cùng lúc thế này làm sao mà——"
+        },
+        {
+            "choice_data_list": [
+                "Và――"
+            ],
+            "name": "Loves Only You",
+            "text": "…99…26 fans…"
+        },
+        {
+            "choice_data_list": [
+                "<size=40>Tính cả anh nữa…… thì vừa tròn 9,927 người.</size>",
+                "<size=40>Tính cả anh nữa…… thì vừa tròn 9,927 người.</size>"
+            ],
+            "text": "Tôi lấy điện thoại của mình ra và thao tác ngay trước mặt cô ấy."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "——…… Không thể nào. Hóa ra anh cũng là fan trong fanclub của em sao. Vậy là…… chuyện dạo gần đây anh đều biết hết, và đã chuẩn bị tất cả những thứ này."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "——…… Không thể nào. Hóa ra anh cũng là fan trong fanclub của em sao. Vậy là…… chuyện dạo gần đây anh đều biết hết, và đã chuẩn bị tất cả những thứ này."
+        },
+        {
+            "choice_data_list": [
+                "<size=32>Đối với anh, không có việc gì quan trọng hơn việc này cả.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Nhưng mà, làm sao anh có thể tập hợp được tất cả mọi người lại vậy? Rõ ràng là giờ giấc sinh hoạt của mỗi người đều khác nhau mà."
+        },
+        {
+            "text": "Dù ai cũng có việc riêng. Nhưng, Mọi người vẫn hứa sẽ cùng nhau tập hợp lại, dù chỉ là trong khoảnh khắc này mà thôi."
+        },
+        {
+            "choice_data_list": [
+                "<size=24>Bằng tâm tình của 9,927 con người, chúng tôi sẽ đưa em đến với thế giới.</size>",
+                "<size=24>Bằng tâm tình của 9,927 con người, chúng tôi sẽ đưa em đến với thế giới.</size>"
+            ],
+            "text": "Để không phải bỏ lại cô ấy một mình… Để nhắn nhủ với cô ấy rằng tất cả mọi người đều đang ở bên nhau. Tôi đưa ra cuốn sổ dày cộp — kết tinh từ chính những tâm tư ấy, rồi nhẹ nhàng cất lời."
+        },
+        {
+            "choice_data_list": [
+                "<size=26>Anh chắc chắn rằng, một khi đã sải bước, em sẽ thấy thêm nhiều điều mới.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "\"Kế hoạch 9,927\"……"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Anh hy vọng lúc đó em có thể lựa chọn con đường mà em muốn.</size>",
+                "<size=28>Anh hy vọng lúc đó em có thể lựa chọn con đường mà em muốn.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "——『Những điều mà em muốn làm, chắc chắn cũng sẽ nhiều hơn』……"
+        },
+        {
+            "choice_data_list": [
+                "<size=32>Nhưng chắc chắn, anh có thể soi sáng con đường em đi.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "—— 『Dù không thể dắt tay dẫn lối cho em』……"
+        },
+        {
+            "choice_data_list": [
+                "Em xem thử cả nửa sau nữa đi."
+            ],
+            "name": "Loves Only You",
+            "text": "Bản mô phỏng năng lực dựa trên sải bước chạy của em…… và một kế hoạch tập luyện toàn diện. Cả ăn uống, nghỉ ngơi…… chi tiết đến mức này sao……"
+        },
+        {
+            "choice_data_list": [
+                "<size=34>Nửa đó là do mọi người trong cùng nhau làm đấy.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Nửa sau……?\n—— A……"
+        },
+        {
+            "text": "Kế hoạch giao lưu với fan, lấy trọng tâm là các buổi phát sóng. Giữ nguyên phần cốt lõi, đồng thời hỗ trợ mở rộng vòng tay kết nối ấy lớn mạnh hơn nữa."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "<i>…Hehe. Cảm ơn…… cảm ơn mọi người nhiều lắm.</i>"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Em chưa từng nghĩ về nó đâu. Một con đường mà không thể bước đi cùng mọi người nữa."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thật sự…… thật sự, thật tốt vì em đã luôn tin tưởng. Tình yêu của mọi người, em nhận được rồi."
+        },
+        {
+            "choice_data_list": [
+                "<size=26>Anh sẽ biến niềm vui đó thành sự cổ vũ, để rồi lại gửi trao lại cho em<size=24>",
+                "<size=26>Anh  sẽ biến niềm vui đó thành sự cổ vũ, để rồi lại gửi trao lại cho em<size=24>"
+            ],
+            "name": "Loves Only You",
+            "text": "Tình yêu này…… em nhất định sẽ biến nó thành một chiến thắng vang dội để đáp lại tất cả mọi người."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe. Cứ như vậy, chúng ta hãy cùng nhau nuôi dưỡng tình yêu này ngày một lớn hơn nữa nhé."
+        },
+        {
+            "choice_data_list": [
+                "<size=22>Đến lúc đó, không chỉ là 9.927 người đâu, khéo phải là một triệu người luôn ấy chứ.</size>"
+            ],
+            "name": "Loves Only You",
+            "text": "Nếu tình yêu ấy có thể lan tỏa rộng hơn, chạm đến những nơi xa hơn nữa…… Thì đó sẽ là một \"tình yêu\" tuyệt vời nhất, đúng không anh?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Không đâu ạ. Cho dù có như vậy đi nữa, con số ấy vẫn sẽ chẳng thay đổi. Bởi vì đối với em…… đó sẽ là một con số quan trọng mà em suốt đời không thể nào quên ♪"
+        },
+        {
+            "choice_data_list": [
+                "――Được thôi!",
+                "――Được thôi!"
+            ],
+            "name": "Loves Only You",
+            "text": "——Chúng ta hãy cùng lập một lời hứa nhé. Ngay tại đây, trước mặt tất cả mọi người có mặt nơi này."
+        },
+        {
+            "text": "——Vài ngày sau."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Phù……!"
+        },
+        {
+            "name": "UmaMusume chạy cùng",
+            "text": "K... Không được rồi......!\nMình không tài nào...... đuổi kịp được——!"
+        },
+        {
+            "name": "Trainer kỳ cựu",
+            "text": "Hửm……!?"
+        },
+        {
+            "name": "Uma Musume chạy cùng",
+            "text": "Rõ ràng mình nghe nói cậu ta chỉ mới có Trainer gần đây thôi mà……! Vậy mà một đứa dốc hết tất cả cho việc tập luyện như mình lại……!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "(Cứ khắc khổ tập luyện thì sẽ trở nên mạnh mẽ hơn…… Có lẽ đó là câu trả lời đúng với người khác. Thế nhưng, mình thì khác.)"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "(Những người đón nhận \"tình yêu\" của mình, và gửi lại \"tình yêu\" ấy cho mình…… Chính vì cảm nhận được họ luôn ở bên cạnh, nên——)"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Yaaaaaa-!"
+        },
+        {
+            "choice_data_list": [
+                "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!",
+                "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!"
+            ],
+            "name": "Loves Only You",
+            "text": "Anh thấy sao, Trainer-kun? ♪"
+        },
+        {
+            "choice_data_list": [
+                "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!",
+                "Tuyệt vời! ……Mà bỏ qua vụ gọi 'kun' đi nhé!"
+            ],
+            "name": "Loves Only You",
+            "text": "Anh thấy sao, Trainer-kun? ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ơ, hay mà. Với lại, gọi thế này…… chẳng phải nghe thân thiết hơn sao?"
+        },
+        {
+            "name": "Trainer kỳ cựu",
+            "text": "……Loves Only You. Em đã trở nên mạnh mẽ hơn nhiều so với khi tôi chiêu mộ em rồi."
+        },
+        {
+            "name": "Trainer kỳ cựu",
+            "text": "Để ta đính chính lại nhé. Có những Umamusume thực sự trở nên mạnh mẽ vì ai đó. ……Và em đã làm được điều đó, em đã chứng minh được cho tôi những gì em đã nói rồi."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe ♡ Cảm ơn. Nhưng người hiện thực hóa điều đó không phải chỉ mình em đâu—mà là 'chúng em', đó ạ ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Tình yêu của mọi người đang tiếp thêm sức mạnh cho em. Nếu không phải đơn độc một mình…… em có thể trở nên mạnh mẽ hơn bao giờ hết đó ạ ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Bởi vì——"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Love me～♡ Love you～♡ Vì em chính là Loves Only You mà～♡"
+        }
+    ],
+    "title": "\"Tình Yêu\" Thuở Ban Đầu"
 }

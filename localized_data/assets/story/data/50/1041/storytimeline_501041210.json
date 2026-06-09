@@ -30,19 +30,19 @@
             "text": "What's this? I'm in the Senior class now, \nright? But, I'm still on the first step…?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "What, what? \nIn the first place, what is the true meaning \nof Bakushin Road――",
             "choice_data_list": [
                 "L-let's just focus on the race first!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "What, what? \nIn the first place, what is the true meaning \nof Bakushin Road――"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "But…",
             "choice_data_list": [
                 "Let's win and become the \"Strongest Miler\"!",
                 "Let's win and become the \"Strongest Miler\"!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "But…"
         },
         {
             "name": "Sakura Bakushin O",

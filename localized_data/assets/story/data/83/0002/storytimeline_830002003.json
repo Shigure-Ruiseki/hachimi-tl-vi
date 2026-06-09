@@ -1,5 +1,4 @@
 {
-    "title": "Letters → Feelings → Wait for Me,\nOkay?",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -86,5 +85,6 @@
             "name": "Silence Suzuka",
             "text": "Goodness... But, thanks."
         }
-    ]
+    ],
+    "title": "Letters → Feelings → Wait for Me,\nOkay?"
 }

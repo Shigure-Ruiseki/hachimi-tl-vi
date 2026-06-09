@@ -25,11 +25,11 @@
             "text": "Mumumu, so her opponent is Hishi Ama-san. \nShe'll be quite the foe……"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "That's true…… If it becomes battle of endurance, \nit doesn't look like she'll have a chance……",
             "choice_data_list": [
                 "A battle of endurance?"
-            ]
+            ],
+            "name": "Sakura Chiyono O",
+            "text": "That's true…… If it becomes battle of endurance, \nit doesn't look like she'll have a chance……"
         },
         {
             "name": "Sakura Chiyono O",
@@ -153,12 +153,12 @@
             "text": "Sakura Laurel was unable to finish. \nAs the rain stopped……so did Sakura Laurel……"
         },
         {
-            "name": "Sakura Laurel",
-            "text": "Fuu-, how unfortunate. This is……my limit. \nI see, with my legs like this, even finishing is……",
             "choice_data_list": [
                 "Laurel! Are you okay!?",
                 "Laurel! Are you okay!?"
-            ]
+            ],
+            "name": "Sakura Laurel",
+            "text": "Fuu-, how unfortunate. This is……my limit. \nI see, with my legs like this, even finishing is……"
         },
         {
             "name": "Sakura Laurel",
@@ -168,19 +168,19 @@
             "text": "Her running, and even her stopping, was all \nfor her dream. It seemed like Sakura Laurel \nwas weighed down by thinking about her legs."
         },
         {
-            "text": "It was finally an opportunity to run with all her might. \nJust what was the dream that she wanted to fulfill that \nwould make her hold herself back like this?",
             "choice_data_list": [
                 "Sakura Laurel, what is your dream……?",
                 "Sakura Laurel, what is your dream……?"
-            ]
+            ],
+            "text": "It was finally an opportunity to run with all her might. \nJust what was the dream that she wanted to fulfill that \nwould make her hold herself back like this?"
         },
         {
-            "name": "Sakura Laurel",
-            "text": "Eh, what's my――dream?",
             "choice_data_list": [
                 "Yeah, I really want to know",
                 "Yeah, I really want to know"
-            ]
+            ],
+            "name": "Sakura Laurel",
+            "text": "Eh, what's my――dream?"
         },
         {
             "name": "Sakura Laurel",
@@ -195,10 +195,10 @@
             "text": "――?"
         },
         {
-            "text": "The direction she was pointing――was at Narita Brian.",
             "choice_data_list": [
                 "To win against Narita Brian?"
-            ]
+            ],
+            "text": "The direction she was pointing――was at Narita Brian."
         },
         {
             "name": "Sakura Laurel",

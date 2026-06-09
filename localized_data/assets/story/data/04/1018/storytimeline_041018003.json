@@ -75,11 +75,11 @@
             "text": "But, if she continues in her student council activities and \nguiding her juniors, it's her own growth that'll be affected! So一"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Air Groove takes part in those with a clear will and purpose. No \none should be able to deprive her of that without her consent.",
             "choice_data_list": [
                 "(…That's it!)"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Air Groove takes part in those with a clear will and purpose. No \none should be able to deprive her of that without her consent."
         },
         {
             "text": "In the first place, why does Air Groove commit so much to the \nstudent council at the expense of her own time?"
@@ -96,11 +96,11 @@
             "text": "I could explain it to you myself. But that wouldn't be enough for \nyou to understand her ambitions."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "If you wish to stand from the same viewpoint as \nher. Shouldn't you see it with your own eyes?",
             "choice_data_list": [
                 "True…"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "If you wish to stand from the same viewpoint as \nher. Shouldn't you see it with your own eyes?"
         },
         {
             "name": "Symboli Rudolf",
@@ -198,22 +198,22 @@
             "text": "Her efforts have helped the entire school… And of course to me \nthe president, she's an invaluable right hand."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Now then… how was it? Was today's experience \nable to bring you closer to an answer?",
             "choice_data_list": [
                 "I'm going to think it over one more time"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "Now then… how was it? Was today's experience \nable to bring you closer to an answer?"
         },
         {
             "name": "Symboli Rudolf",
             "text": "I see. Not rushing to a conclusion is a wonderful attitude. Hm一"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "She was stressing over doing things without support, \nbut it seems that will end in melancholy.",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "She was stressing over doing things without support, \nbut it seems that will end in melancholy."
         },
         {
             "name": "Symboli Rudolf",

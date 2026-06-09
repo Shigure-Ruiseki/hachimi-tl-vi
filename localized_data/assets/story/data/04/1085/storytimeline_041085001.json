@@ -20,18 +20,18 @@
             "text": "While many emotions are voiced and mixed together, \nThe eyes are focused on a single point."
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "Hey, over here! \nIt's already started!",
             "choice_data_list": [
                 "I'm coming!"
-            ]
+            ],
+            "name": "Rookie Trainer A",
+            "text": "Hey, over here! \nIt's already started!"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "The girl my senior told me to keep an eye on… \nLook, it's that girl.",
             "choice_data_list": [
                 "She is pretty far behind……"
-            ]
+            ],
+            "name": "Rookie Trainer A",
+            "text": "The girl my senior told me to keep an eye on… \nLook, it's that girl."
         },
         {
             "name": "Rookie Trainer A",
@@ -54,11 +54,11 @@
             "text": "Ha…!!"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "What… you must be joking!?",
             "choice_data_list": [
                 "From the far outside…!"
-            ]
+            ],
+            "name": "Rookie Trainer A",
+            "text": "What… you must be joking!?"
         },
         {
             "name": "Veteran Trainer A",
@@ -85,12 +85,12 @@
             "text": "― Daiichi Ruby. This horse girl finished faster \nthan all the other horse girls who had already \nmade their debuts."
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "That was amazing…… So that's the rumored \nmember of Noble family, Daiichi Ruby. \nI guess it's starting to get serious.",
             "choice_data_list": [
                 "……I agree",
                 "……I agree"
-            ]
+            ],
+            "name": "Rookie Trainer A",
+            "text": "That was amazing…… So that's the rumored \nmember of Noble family, Daiichi Ruby. \nI guess it's starting to get serious."
         },
         {
             "text": "I wonder what kind of trainer will she get? \nMany trainers have already gathered \naround her to scout her."
@@ -107,11 +107,11 @@
             "text": "―Bring it to me."
         },
         {
-            "name": "Ruby's butler",
-            "text": "Yes, milady. We will distribute them now.",
             "choice_data_list": [
                 "……Documents?"
-            ]
+            ],
+            "name": "Ruby's butler",
+            "text": "Yes, milady. We will distribute them now."
         },
         {
             "name": "Ruby's butler",
@@ -160,10 +160,10 @@
             "text": "It was a test that none of the people gathered \nhere had ever experienced before. This means \nthat everyone start from the same position."
         },
         {
-            "text": "And if I manage to win, I can guide Daiichi \nRuby's run with my own hand.",
             "choice_data_list": [
                 "I'd like to try!"
-            ]
+            ],
+            "text": "And if I manage to win, I can guide Daiichi \nRuby's run with my own hand."
         },
         {
             "text": "Imagining yourself passing the selection test. \nyou feels like you're dreaming, and feel a little excited."
@@ -184,11 +184,11 @@
             "text": "This is self-defense practice. Shall we move in \na flowing manner? Lady Ruby has been training \nsince she was young."
         },
         {
-            "text": "As I recall, the details of the selection test said \n\"take self-defense training and acquire a certain skill\"",
             "choice_data_list": [
                 "That's what we're going to do……?",
                 "That's what we're going to do……?"
-            ]
+            ],
+            "text": "As I recall, the details of the selection test said \n\"take self-defense training and acquire a certain skill\""
         },
         {
             "name": "Daiichi Ruby",

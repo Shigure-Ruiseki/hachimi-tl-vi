@@ -8,22 +8,22 @@
             "text": "Seeing Katsuragi Ace like that, wanting to tell \nher what I had decided, I walked over to her."
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Haa, haa, haa……Kuu, haa…… \nFaster……faster, to get ahead of everyone……!",
             "choice_data_list": [
                 "Katsuragi Ace!"
-            ]
+            ],
+            "name": "Katsuragi Ace",
+            "text": "Haa, haa, haa……Kuu, haa…… \nFaster……faster, to get ahead of everyone……!"
         },
         {
             "name": "Katsuragi Ace",
             "text": "……Haa……huh? \nTrainer-san? Haa……mornin', what's up?"
         },
         {
-            "text": "Feeling a tightening in my chest, I look straight \nat Katsuragi Ace. And then I take a deep breath――",
             "choice_data_list": [
                 "I came to scout you",
                 "I came to scout you"
-            ]
+            ],
+            "text": "Feeling a tightening in my chest, I look straight \nat Katsuragi Ace. And then I take a deep breath――"
         },
         {
             "name": "Katsuragi Ace",
@@ -33,10 +33,10 @@
             "text": "I tell Katsuragi Ace about what I've \nbeen feeling these past few days."
         },
         {
-            "text": "I couldn't take my eyes off her as she straight-forwardly \nchased her dream. But more than that, for Katsuragi \nAce who speaks of her dreams with pride――",
             "choice_data_list": [
                 "I want to support you with all I have"
-            ]
+            ],
+            "text": "I couldn't take my eyes off her as she straight-forwardly \nchased her dream. But more than that, for Katsuragi \nAce who speaks of her dreams with pride――"
         },
         {
             "name": "Katsuragi Ace",
@@ -84,10 +84,10 @@
             "text": "――Could it be that she ran so recklessly, \nto burn away everything, including her anxiety?"
         },
         {
-            "text": "『That's obvious』『I won't break here』 those words \nwere probably also a way to encourage herself too.",
             "choice_data_list": [
                 "I want to fulfill your dream"
-            ]
+            ],
+            "text": "『That's obvious』『I won't break here』 those words \nwere probably also a way to encourage herself too."
         },
         {
             "name": "Katsuragi Ace",
@@ -111,11 +111,11 @@
             "text": "And finally……the day of the mock race arrived."
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Trainer-san, you're really nervous aren't you!? \nI do feel bad for laughing though……haha, you're shaking.",
             "choice_data_list": [
                 "I-I'm fine……everything's okay……!"
-            ]
+            ],
+            "name": "Katsuragi Ace",
+            "text": "Trainer-san, you're really nervous aren't you!? \nI do feel bad for laughing though……haha, you're shaking."
         },
         {
             "name": "Katsuragi Ace",
@@ -126,10 +126,10 @@
             "text": "Right, I'm heading out! \nMake sure you take a good look, Trainer-san!"
         },
         {
-            "text": "In today's mock race, there would be a lot of Uma Musume with high \nexpectations. There's no way I wouldn't be nervous. However……!",
             "choice_data_list": [
                 "Do your best, Katsuragi Ace!"
-            ]
+            ],
+            "text": "In today's mock race, there would be a lot of Uma Musume with high \nexpectations. There's no way I wouldn't be nervous. However……!"
         },
         {
             "name": "Caster",
@@ -164,11 +164,11 @@
             "text": "Destroying all obstacles and common sense…… \nI'll stand in front……of all those that they admire!!"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "――The Ace is me!!",
             "choice_data_list": [
                 "Go, Katsuragi Ace!!"
-            ]
+            ],
+            "name": "Katsuragi Ace",
+            "text": "――The Ace is me!!"
         },
         {
             "name": "Katsuragi Ace",
@@ -187,10 +187,10 @@
             "text": "Hahaa! We showed 'em! Don't you think!?"
         },
         {
-            "text": "Katsuragi Ace was laughing impishly. \nHer sweat told the story of just how fierce it was.",
             "choice_data_list": [
                 "It's because of Katsuragi Ace's strength……"
-            ]
+            ],
+            "text": "Katsuragi Ace was laughing impishly. \nHer sweat told the story of just how fierce it was."
         },
         {
             "name": "Katsuragi Ace",
@@ -201,22 +201,22 @@
             "text": "Which means……with both of our powers combined, \nthere isn't a dream we can't fulfill! Ain't that right!?"
         },
         {
-            "text": "……Saying that, she laughed again. \nI guess that means she's accepted me as a trainer.",
             "choice_data_list": [
                 "There's no way we can't fulfill them!"
-            ]
+            ],
+            "text": "……Saying that, she laughed again. \nI guess that means she's accepted me as a trainer."
         },
         {
             "name": "Katsuragi Ace",
             "text": "Yeah! You got that right!!"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Hey, Trainer-san. I will become the Uma Musume world's Ace, \nwithout a doubt. ……What's your dream?",
             "choice_data_list": [
                 "To lead you there!",
                 "To lead you there!"
-            ]
+            ],
+            "name": "Katsuragi Ace",
+            "text": "Hey, Trainer-san. I will become the Uma Musume world's Ace, \nwithout a doubt. ……What's your dream?"
         },
         {
             "name": "Katsuragi Ace",

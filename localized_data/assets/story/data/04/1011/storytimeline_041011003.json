@@ -38,12 +38,12 @@
             "text": "Oh? Well, you're……"
         },
         {
-            "name": "Grass Wonder",
-            "text": "Are you, perhaps, wanting to talk about scouting?",
             "choice_data_list": [
                 "You don't plan on accepting though?",
                 "You don't plan on accepting though?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Are you, perhaps, wanting to talk about scouting?"
         },
         {
             "name": "Grass Wonder",
@@ -54,12 +54,12 @@
             "text": "Um, but please don't misunderstand, okay? \nIt's not that I'm uneasy about Trainer-san."
         },
         {
-            "name": "Grass Wonder",
-            "text": "I suppose you could say this is a personal problem.",
             "choice_data_list": [
                 "A personal problem?",
                 "A personal problem?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "I suppose you could say this is a personal problem."
         },
         {
             "name": "Grass Wonder",

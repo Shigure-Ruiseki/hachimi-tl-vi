@@ -13,12 +13,12 @@
             "text": "Even if it was to recover fatigue from the previous race, \nthe training felt so light that it was a little unsatisfying～."
         },
         {
-            "name": "Grass Wonder",
-            "text": "Today, again, it ended before the sun had set……",
             "choice_data_list": [
                 "Let's prioritize rest for now",
                 "Let's prioritize rest for now"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Today, again, it ended before the sun had set……"
         },
         {
             "name": "Grass Wonder",
@@ -40,12 +40,12 @@
             "text": "Oh, what could that possibly be about……?"
         },
         {
-            "name": "Grass Wonder",
-            "text": "Trainer-san, I have returned～.",
             "choice_data_list": [
                 "Why did they call you?",
                 "Why did they call you?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Trainer-san, I have returned～."
         },
         {
             "name": "Grass Wonder",
@@ -56,12 +56,12 @@
             "text": "For all those girls who dream of the Twinkle Series, \nto think they'd be watching me race, it's quite the honor♪"
         },
         {
-            "name": "Grass Wonder",
-            "text": "Then we should get to training…… Oh, Trainer-san, \nyou've been staring at me for a while, is something wrong?",
             "choice_data_list": [
                 "Don't push yourself too hard, ok?",
                 "Don't push yourself too hard, ok?"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Then we should get to training…… Oh, Trainer-san, \nyou've been staring at me for a while, is something wrong?"
         },
         {
             "name": "Grass Wonder",
@@ -115,11 +115,11 @@
             "text": "Onee～chan looks so kind, \nbut she's almost like a \"monster\"～! Amaaaaazing～!"
         },
         {
-            "name": "Grass Wonder",
-            "text": "Fufuu, a \"monster\", is it? I'm honored♪",
             "choice_data_list": [
                 "(Monster, huh……)"
-            ]
+            ],
+            "name": "Grass Wonder",
+            "text": "Fufuu, a \"monster\", is it? I'm honored♪"
         },
         {
             "name": "Grass Wonder",

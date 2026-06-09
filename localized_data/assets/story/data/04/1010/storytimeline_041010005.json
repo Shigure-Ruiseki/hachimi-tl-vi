@@ -20,11 +20,11 @@
             "text": "Don't tell me that, in the middle of this downpour, she wants to \nrun. She'd probably catch a cold-"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "Let's make a teru teru bozu!!",
             "choice_data_list": [
                 "Eh, a teru teru bozu?"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "Let's make a teru teru bozu!!"
         },
         {
             "name": "Taiki Shuttle",
@@ -43,12 +43,12 @@
             "text": "If it's super big, then it's power will be just as big! \nEven a hurricane would clear up in an instant!"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "So that's why, Trainer-san! \nPlease let me have that curtain!",
             "choice_data_list": [
                 "Making it out of a curtain?!",
                 "Making it out of a curtain?!"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "So that's why, Trainer-san! \nPlease let me have that curtain!"
         },
         {
             "name": "Taiki Shuttle",
@@ -59,10 +59,10 @@
             "text": "And with that, everyone will show me their happy smiles. \nAlright, let's get started!"
         },
         {
-            "text": "It's hard to refuse Taiki Shuttle's feelings when she's \nthinking about her friends. But, at this rate the \ncurtains will become a teru teru bozu…!",
             "choice_data_list": [
                 "L-let's use a bigger cloth!"
-            ]
+            ],
+            "text": "It's hard to refuse Taiki Shuttle's feelings when she's \nthinking about her friends. But, at this rate the \ncurtains will become a teru teru bozu…!"
         },
         {
             "name": "Taiki Shuttle",
@@ -75,11 +75,11 @@
             "text": "And then-"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "Alright, now we just need to hang it by the window. \nTrainer-san, cheer up!",
             "choice_data_list": [
                 "H-heavy…!"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "Alright, now we just need to hang it by the window. \nTrainer-san, cheer up!"
         },
         {
             "name": "Taiki Shuttle",
@@ -111,11 +111,11 @@
             "text": "Taiki Shuttle was excitedly gazing outside. \n…I won't tell her about the weather report."
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "It's completely become a beautiful day for training! \nIf it's like this, I can run using my full power!",
             "choice_data_list": [
                 "Then, let's get to it-"
-            ]
+            ],
+            "name": "Taiki Shuttle",
+            "text": "It's completely become a beautiful day for training! \nIf it's like this, I can run using my full power!"
         },
         {
             "name": "Taiki Shuttle",

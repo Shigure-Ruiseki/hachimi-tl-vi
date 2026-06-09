@@ -28,11 +28,11 @@
             "text": "Ah…!!"
         },
         {
-            "text": "Just when I thought I saw Mejiro Mcqueen staggering \nfor a moment, she collapsed onto the ground!",
             "choice_data_list": [
                 "McQueen! Are you okay?!",
                 "McQueen! Are you okay?!"
-            ]
+            ],
+            "text": "Just when I thought I saw Mejiro Mcqueen staggering \nfor a moment, she collapsed onto the ground!"
         },
         {
             "text": "Examination revealed that she had minor anemia."
@@ -41,11 +41,11 @@
             "text": "The doctor said it could be due to a nutritional deficiency. \nPerhaps she is not eating properly……?"
         },
         {
-            "name": "Mejiro Ryan",
-            "text": "McQueen! I heard you fell down, are you oka―",
             "choice_data_list": [
                 "Shh!"
-            ]
+            ],
+            "name": "Mejiro Ryan",
+            "text": "McQueen! I heard you fell down, are you oka―"
         },
         {
             "name": "Mejiro Ryan",
@@ -56,12 +56,12 @@
             "text": "Um… hello. My name is Mejiro Ryan."
         },
         {
-            "name": "Mejiro Ryan",
-            "text": "Are you McQueen's trainer?",
             "choice_data_list": [
                 "I'm not officially in charge yet, though.",
                 "I'm not officially in charge yet, though."
-            ]
+            ],
+            "name": "Mejiro Ryan",
+            "text": "Are you McQueen's trainer?"
         },
         {
             "name": "Mejiro Ryan",
@@ -79,12 +79,12 @@
             "text": "Anemia due to nutritional deficiencies, I see…"
         },
         {
-            "name": "Mejiro Ryan",
-            "text": "I did have a feeling that she was pushing herself too hard \nbecause of the upcoming Selection Race… I should have \nspoken to her earlier…",
             "choice_data_list": [
                 "You've been worried about McQueen \nall this time, haven't you?",
                 "You've been worried about McQueen \nall this time, haven't you?"
-            ]
+            ],
+            "name": "Mejiro Ryan",
+            "text": "I did have a feeling that she was pushing herself too hard \nbecause of the upcoming Selection Race… I should have \nspoken to her earlier…"
         },
         {
             "name": "Mejiro Ryan",
@@ -140,12 +140,12 @@
             "text": "(Grrrrmble…)"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Ah…!?",
             "choice_data_list": [
                 "Have you been eating properly…?",
                 "Have you been eating properly…?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Ah…!?"
         },
         {
             "name": "Mejiro McQueen",
@@ -156,12 +156,12 @@
             "text": "However, considering the Selection Race is coming up, \nI had implemented some minor dietary restrictions…"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I only collapsed because I wasn't ready! I simply haven't \nbeen training hard enough every day!",
             "choice_data_list": [
                 "Could I see your meal plan?",
                 "Could I see your meal plan?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "I only collapsed because I wasn't ready! I simply haven't \nbeen training hard enough every day!"
         },
         {
             "name": "Mejiro McQueen",
@@ -174,12 +174,12 @@
             "text": "Certainly, she is getting the minimum required nutrients, \nbut is this really enough? It's possible this is why she is \nstruggling with mustering strength into her legs…"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "… How did you find the menu plan? \nI do believe there's nothing wrong with it…",
             "choice_data_list": [
                 "Isn't this meal plan a little too restrictive?",
                 "Isn't this meal plan a little too restrictive?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "… How did you find the menu plan? \nI do believe there's nothing wrong with it…"
         },
         {
             "name": "Mejiro McQueen",
@@ -190,11 +190,11 @@
             "text": "Since you're so concerned about it, it \nwould be insincere of me to hide it…"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Okay, I will tell you. There is a reason… for that limitation.",
             "choice_data_list": [
                 "What's the reason?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Okay, I will tell you. There is a reason… for that limitation."
         },
         {
             "name": "Mejiro McQueen",

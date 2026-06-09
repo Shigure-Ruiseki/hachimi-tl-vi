@@ -66,10 +66,10 @@
             "text": "Miles are the best. In other words, since I've never lost in \nthat kind of race……that means I'm the best of the best!"
         },
         {
-            "text": "Gran Alegria was speaking enthusiastically. She was influenced by \nher own mother, but it seemed that passion for Miles was real.",
             "choice_data_list": [
                 "So that's why a Mile Queen?"
-            ]
+            ],
+            "text": "Gran Alegria was speaking enthusiastically. She was influenced by \nher own mother, but it seemed that passion for Miles was real."
         },
         {
             "name": "Gran Alegria",
@@ -145,11 +145,11 @@
             "text": "Try finding one yourself. In the truest sense, one who will \nchase that dream together with you. That kind of trainer."
         },
         {
-            "name": "Gran Alegria",
-            "text": "And that's how he turned me down.",
             "choice_data_list": [
                 "In the truest sense, together with you……"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "And that's how he turned me down."
         },
         {
             "name": "Gran Alegria",

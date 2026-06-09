@@ -5,11 +5,11 @@
             "text": "I signed a contract with Hokko Tarumae and spent days \ntraining for a mock race."
         },
         {
-            "name": "Hokko Tarumae",
-            "text": "Instantaneous power, startup and stamina enhancement…… \nYes, it is indeed what I need now.",
             "choice_data_list": [
                 "Train hard and we will win!"
-            ]
+            ],
+            "name": "Hokko Tarumae",
+            "text": "Instantaneous power, startup and stamina enhancement…… \nYes, it is indeed what I need now."
         },
         {
             "name": "Hokko Tarumae",

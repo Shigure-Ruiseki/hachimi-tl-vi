@@ -16,12 +16,12 @@
             "text": "She's still struggling with her dietary restriction it seems. \nI wish I could help her somehow, but―"
         },
         {
-            "name": "Gold Ship",
-            "text": "That girl… she's <i>still</i> doing the whole restriction thing! \nBeing able to resist all those irresistibly sugary treats right \nin front of her, I'm truly amazed by her display of willpower～",
             "choice_data_list": [
                 "Does McQueen have a sweet tooth?",
                 "Does McQueen have a sweet tooth?"
-            ]
+            ],
+            "name": "Gold Ship",
+            "text": "That girl… she's <i>still</i> doing the whole restriction thing! \nBeing able to resist all those irresistibly sugary treats right \nin front of her, I'm truly amazed by her display of willpower～"
         },
         {
             "name": "Gold Ship",
@@ -46,11 +46,11 @@
             "text": "After returning to my room that day, I spent \nsome time researching meal menus…"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Oh? You are… You came to visit again, I see.",
             "choice_data_list": [
                 "Can I ask you to look at this?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Oh? You are… You came to visit again, I see."
         },
         {
             "name": "Mejiro McQueen",
@@ -69,12 +69,12 @@
             "text": "And especially, this thing… it's sweets, isn't it?!"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "There are sweets included in this meal plan…?! \nW-would it be okay for me to eat some?!",
             "choice_data_list": [
                 "That will give you more energy \nand let you run with all your might.",
                 "That will give you more energy \nand let you run with all your might."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "There are sweets included in this meal plan…?! \nW-would it be okay for me to eat some?!"
         },
         {
             "name": "Mejiro McQueen",
@@ -89,11 +89,11 @@
             "text": "Would it be okay if I borrow this menu plan for a while?"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "And then after that… yes. Would you consider coming \nto oversee my training again in a week?",
             "choice_data_list": [
                 "Of course!"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "And then after that… yes. Would you consider coming \nto oversee my training again in a week?"
         },
         {
             "name": "Mejiro McQueen",
@@ -133,12 +133,12 @@
             "text": "… Phew!"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Trainer, what did you think of that?",
             "choice_data_list": [
                 "That was great running!",
                 "That was great running!"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Trainer, what did you think of that?"
         },
         {
             "name": "Mejiro McQueen",
@@ -161,11 +161,11 @@
             "text": "Thanks to that, I can even have sweets… \nHaha, I still have plenty of energy left to run!"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "… Anyhow, I hope you have come to \nrecognize my true running ability.",
             "choice_data_list": [
                 "Of course!"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "… Anyhow, I hope you have come to \nrecognize my true running ability."
         },
         {
             "name": "Mejiro McQueen",
@@ -180,11 +180,11 @@
             "text": "If you take charge of me, that you must realize that you will \nalso be assuming the role of a trainer for the Mejiro family."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "What do you think? Do you possess that determination?",
             "choice_data_list": [
                 "Yes!!"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "What do you think? Do you possess that determination?"
         },
         {
             "name": "Mejiro McQueen",

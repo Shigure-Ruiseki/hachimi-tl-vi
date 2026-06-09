@@ -9,11 +9,11 @@
             "text": "......"
         },
         {
-            "text": "I found Mihono Bourbon standing motionless \nin front of the arcade inside the mall.",
             "choice_data_list": [
                 "What are you up to, Bourbon?",
                 "What are you up to, Bourbon?"
-            ]
+            ],
+            "text": "I found Mihono Bourbon standing motionless \nin front of the arcade inside the mall."
         },
         {
             "name": "Mihono Bourbon",
@@ -34,10 +34,10 @@
             "text": "I appreciate your help with my observation."
         },
         {
-            "text": "I decided to help her out by playing the games for her, \nso she could observe in peace.",
             "choice_data_list": [
                 "Let's just enjoy ourselves today!"
-            ]
+            ],
+            "text": "I decided to help her out by playing the games for her, \nso she could observe in peace."
         },
         {
             "name": "Mihono Bourbon",
@@ -77,12 +77,12 @@
             "text": "Yet, I couldn't call it a day without having <i>her</i> \ntry at least one game."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "You want me to use the claw machine with you? \nSadly, I will not touch it. It might break if I do.",
             "choice_data_list": [
                 "<i>I</i> will use the buttons.",
                 "<i>I</i> will use the buttons."
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "You want me to use the claw machine with you? \nSadly, I will not touch it. It might break if I do."
         },
         {
             "text": "I told her to look at the claw from the side of the \nmachine and give me instructions. She gave me \nan understanding nod."
@@ -145,10 +145,10 @@
             "text": "But I'm certain that there is a 70% chance \nof success, were we to try again..."
         },
         {
-            "text": "I'm surprised she wants to keep going. \nMaybe she's more into it than I thought.",
             "choice_data_list": [
                 "Sure, let's try one more time!"
-            ]
+            ],
+            "text": "I'm surprised she wants to keep going. \nMaybe she's more into it than I thought."
         },
         {
             "name": "Mihono Bourbon",
@@ -180,11 +180,11 @@
             "text": "Thank you for your help today. Experiencing the arcade \nfirst-hand has taught me a lot and resulted in some \nvaluable insights."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "The feeling of excitement in my chest, and how my \nfacial muscles relaxed on their own... I added these \nsensations to the topic of 'small talk' in my database.",
             "choice_data_list": [
                 "I'm glad you enjoyed yourself."
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "The feeling of excitement in my chest, and how my \nfacial muscles relaxed on their own... I added these \nsensations to the topic of 'small talk' in my database."
         },
         {
             "name": "Mihono Bourbon",
@@ -198,17 +198,17 @@
             "text": "That's what 'fun' is..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I do not understand how using the claw machine \ncaused these feelings of 'fun' when it was \nvery counterproductive.",
             "choice_data_list": [
                 "<size=40>You call it counterproductive...</size>"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "I do not understand how using the claw machine \ncaused these feelings of 'fun' when it was \nvery counterproductive."
         },
         {
-            "text": "I had to choose my words in such a way \nthat she would understand.",
             "choice_data_list": [
                 "<size=36>The goal of using the machine is to have fun.</size>"
-            ]
+            ],
+            "text": "I had to choose my words in such a way \nthat she would understand."
         },
         {
             "name": "Mihono Bourbon",

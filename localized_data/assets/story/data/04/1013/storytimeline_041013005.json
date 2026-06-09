@@ -8,24 +8,24 @@
             "text": "I saw Mejiro Mcqueen studying in the cafeteria at a late hour."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Substitute in this formula to calculate… and then… I see.",
             "choice_data_list": [
                 "You're still studying at this time?",
                 "You're still studying at this time?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Substitute in this formula to calculate… and then… I see."
         },
         {
             "name": "Mejiro McQueen",
             "text": "Ah, Trainer. Yes, that's right. Just a little \nreview to prepare for tomorrow's quiz."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "But there were some difficult parts, \nand it took longer than I expected.",
             "choice_data_list": [
                 "In that case, should we reduce \ntraining time tomorrow?",
                 "In that case, should we reduce \ntraining time tomorrow?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "But there were some difficult parts, \nand it took longer than I expected."
         },
         {
             "name": "Mejiro McQueen",
@@ -46,11 +46,11 @@
             "text": "…………"
         },
         {
-            "text": "Perhaps due to exhaustion from last night's study, Mejiro \nMcqueen looked sleepy during the meeting after training.",
             "choice_data_list": [
                 "…… Are you awake?",
                 "…… Are you awake?"
-            ]
+            ],
+            "text": "Perhaps due to exhaustion from last night's study, Mejiro \nMcqueen looked sleepy during the meeting after training."
         },
         {
             "name": "Mejiro McQueen",
@@ -68,12 +68,12 @@
             "text": "Given the situation, it might be a good idea to go over this again. \nThinking that, I began to review the training once more, but―"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…………",
             "choice_data_list": [
                 "Just as I thought, you're sleeping, right…?",
                 "Just as I thought, you're sleeping, right…?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "…………"
         },
         {
             "name": "Mejiro McQueen",
@@ -84,19 +84,19 @@
             "text": "I-I swear I'm not sleeping! You must be mistaken, Trainer."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "So, please go ahead and continue. \nI will make sure to pay attention.",
             "choice_data_list": [
                 "Let's call it a day."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "So, please go ahead and continue. \nI will make sure to pay attention."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Huh…? But the meeting should still be in progress―",
             "choice_data_list": [
                 "I don't want you to push yourself too \nhard and collapse like you did before.",
                 "I don't want you to push yourself too \nhard and collapse like you did before."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Huh…? But the meeting should still be in progress―"
         },
         {
             "name": "Mejiro McQueen",
@@ -111,12 +111,12 @@
             "text": "I don't want to cause you any more trouble, so let's call it a day."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I appreciate your concern, Trainer.",
             "choice_data_list": [
                 "Please make sure to get a proper night's sleep.",
                 "Please make sure to get a proper night's sleep."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "I appreciate your concern, Trainer."
         },
         {
             "name": "Mejiro McQueen",

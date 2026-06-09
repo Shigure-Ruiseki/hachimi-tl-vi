@@ -1,5 +1,4 @@
 {
-    "title": "Spiralling Uncertainty",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -250,5 +249,6 @@
             "name": "Win Variation",
             "text": "However… I'm sure you've done the same before."
         }
-    ]
+    ],
+    "title": "Spiralling Uncertainty"
 }

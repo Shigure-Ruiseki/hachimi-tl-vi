@@ -22,12 +22,12 @@
             "text": "T.M. Opera O was frolicking among the waves by herself."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "<i>Haa… haa…</i> My dear trainer, how are you \nfinding my graceful steps?",
             "choice_data_list": [
                 "Very energetic indeed.",
                 "Very energetic indeed."
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "<i>Haa… haa…</i> My dear trainer, how are you \nfinding my graceful steps?"
         },
         {
             "name": "T.M. Opera O",
@@ -64,10 +64,10 @@
             "text": "—— No matter what she takes on, T.M. Opera O \nalways faces it earnestly, with all she has."
         },
         {
-            "text": "Needless to say, when a trainee exhibits such resolute will, \nto diligently press on until her goals are met, it is her trainer's \nduty to support her every step of the way.",
             "choice_data_list": [
                 "Let's go get some stellar training in!"
-            ]
+            ],
+            "text": "Needless to say, when a trainee exhibits such resolute will, \nto diligently press on until her goals are met, it is her trainer's \nduty to support her every step of the way."
         },
         {
             "name": "T.M. Opera O",
@@ -77,23 +77,23 @@
             "text": "After training that day ——"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Oh there you are, my dear trainer.",
             "choice_data_list": [
                 "Is something wrong?",
                 "Is something wrong?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Oh there you are, my dear trainer."
         },
         {
             "name": "T.M. Opera O",
             "text": "Oh nothing, I simply want to request advice on a few topics."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "First of all, regarding tomorrow's regimen… \nWe can meet up at 4 in the morning ——",
             "choice_data_list": [
                 "That's way too early!"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "First of all, regarding tomorrow's regimen… \nWe can meet up at 4 in the morning ——"
         },
         {
             "name": "T.M. Opera O",
@@ -108,24 +108,24 @@
             "text": "Hmm… after meeting up then, yours truly will gently enter \nthe sea while running a hand through her hair."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Floating through the waters like a fish among anemones, \na beautiful synchronized dance ——",
             "choice_data_list": [
                 "Careful, those things can be poisonous.",
                 "Careful, those things can be poisonous."
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Floating through the waters like a fish among anemones, \na beautiful synchronized dance ——"
         },
         {
             "name": "T.M. Opera O",
             "text": "Oh, is that so? Then yours truly will take great care \nso as to not let her limbs, pale and slender as icefish, \ncome into contact with the anemones."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "And after rising from the seas again, she shall join the splashing \nof the waves in song! With a voice to charm midsummer's sirens!",
             "choice_data_list": [
                 "You intend on singing too!?",
                 "You intend on singing too!?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "And after rising from the seas again, she shall join the splashing \nof the waves in song! With a voice to charm midsummer's sirens!"
         },
         {
             "name": "T.M. Opera O",
@@ -136,11 +136,11 @@
             "text": "My dear beachgoing audience will be moved to tears, and surely \nsend a thunderous applause my way. Ah, true perfection…!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "<i>Haa-ha-ha-ha!</i> Great joy awaits us tomorrow, my dear trainer! \nThis my cue to depart! Until we meet again, at training!",
             "choice_data_list": [
                 "What about the advice you wanted…?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "<i>Haa-ha-ha-ha!</i> Great joy awaits us tomorrow, my dear trainer! \nThis my cue to depart! Until we meet again, at training!"
         },
         {
             "name": "T.M. Opera O",
@@ -159,24 +159,24 @@
             "text": "Simply your honest opinion as I have come to expect, unbiased, \nwithout judgement, never rejecting my own ideas."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "I have no need to question it further. There were no flaws \nin my judgement. I can continue without fear.",
             "choice_data_list": [
                 "Is that what's been on your mind?",
                 "Is that what's been on your mind?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "I have no need to question it further. There were no flaws \nin my judgement. I can continue without fear."
         },
         {
             "name": "T.M. Opera O",
             "text": "<i>Hm-hm</i>, why wouldn't it be? Even yours truly has moments \nof uncertainty, contemplating the virtue of her actions."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Of course, as a trainee on the path to become the Centurial \nHigh King, it does not become yours truly to display this side \nto simply anyone.",
             "choice_data_list": [
                 "You're so strong.",
                 "You're so strong."
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Of course, as a trainee on the path to become the Centurial \nHigh King, it does not become yours truly to display this side \nto simply anyone."
         },
         {
             "name": "T.M. Opera O",
@@ -191,11 +191,11 @@
             "text": "Oh, one more thing before I forget, my dear trainer."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Should yours truly ever seek a dialogue regarding \nher future again… will you be her partner once more?",
             "choice_data_list": [
                 "With pleasure!"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Should yours truly ever seek a dialogue regarding \nher future again… will you be her partner once more?"
         },
         {
             "name": "T.M. Opera O",
@@ -225,11 +225,11 @@
             "text": "Ahaha, isn't it? I'm pretty envious of her confidence though."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Hahah, no trainee on this beach shines brighter! \nDon't you think, my dear trainer?",
             "choice_data_list": [
                 "The one and only T.M. Opera O!"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Hahah, no trainee on this beach shines brighter! \nDon't you think, my dear trainer?"
         },
         {
             "name": "T.M. Opera O",

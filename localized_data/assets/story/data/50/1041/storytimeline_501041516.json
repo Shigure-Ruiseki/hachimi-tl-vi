@@ -9,12 +9,12 @@
             "text": "――Even if it is candy! \nYou must BakuBaku, and Bakushin!"
         },
         {
-            "name": "Inari One",
-            "text": "No, no, eating with sophistication is what \n\"harmony\" is all about, ain't it?",
             "choice_data_list": [
                 "What's going on?",
                 "What's going on?"
-            ]
+            ],
+            "name": "Inari One",
+            "text": "No, no, eating with sophistication is what \n\"harmony\" is all about, ain't it?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -37,19 +37,19 @@
             "text": "Waitaminute! Those tea cakes go suuper \nwell with hot tea. Savoring them slowly is \nthe best way to be chic!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Chic or Bakushin! Of course, Trainer is on \nTeam Bakushin, are you not!?",
             "choice_data_list": [
                 "Take your time and savor each one.",
                 "Eat a bunch, Team Bakushin!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Chic or Bakushin! Of course, Trainer is on \nTeam Bakushin, are you not!?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Th, that's…!? \nYou won't Bakushin with me, you say!?",
             "choice_data_list": [
                 "Rather, put all your Bakushin into one of them, or \nsomething."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Th, that's…!? \nYou won't Bakushin with me, you say!?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -91,11 +91,11 @@
             "text": "Big bowl…! Yes, yes, that's right! \nBakushin is amazing!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Ms. Inari, Trainer! \nLet us enjoy Bakushin together!",
             "choice_data_list": [
                 "… Eh, together?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Ms. Inari, Trainer! \nLet us enjoy Bakushin together!"
         },
         {
             "name": "Inari One",

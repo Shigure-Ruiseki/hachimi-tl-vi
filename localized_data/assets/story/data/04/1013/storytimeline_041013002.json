@@ -13,24 +13,24 @@
             "text": "This is not good. I can't muster strength into my legs… \nThis is the same unpleasant feeling as yesterday."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…… Whew.",
             "choice_data_list": [
                 "Is your stomach feeling unwell?",
                 "Is your stomach feeling unwell?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "…… Whew."
         },
         {
             "name": "Mejiro McQueen",
             "text": "Eh?!"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "You are… \nExcuse me, who are you?",
             "choice_data_list": [
                 "Nice to meet you, I'm a new trainer.",
                 "Nice to meet you, I'm a new trainer."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "You are… \nExcuse me, who are you?"
         },
         {
             "name": "Mejiro McQueen",
@@ -49,11 +49,11 @@
             "text": "In the recent Selection Race, I displayed a pathetic performance \nthat brought disgrace to the Mejiro name."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Given this, why do you…?",
             "choice_data_list": [
                 "I was drawn to the strength of your spirit."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Given this, why do you…?"
         },
         {
             "name": "Mejiro McQueen",
@@ -72,11 +72,11 @@
             "text": "However, whether you decide to be my trainer or not, \nI would like to request that you make your decision after \nobserving my performance."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "As a trainee from the Mejiro bloodline, I \nhave ambitious goals that I must achieve.",
             "choice_data_list": [
                 "Goals?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "As a trainee from the Mejiro bloodline, I \nhave ambitious goals that I must achieve."
         },
         {
             "name": "Mejiro McQueen",
@@ -95,12 +95,12 @@
             "text": "Therefore, please finalize your decision \nafter judging my running performance."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Should you believe you will be able to raise me to \nbecome a trainee worthy of the Mejiro name.",
             "choice_data_list": [
                 "You must be very proud of the Mejiro name.",
                 "You must be very proud of the Mejiro name."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "Should you believe you will be able to raise me to \nbecome a trainee worthy of the Mejiro name."
         },
         {
             "name": "Mejiro McQueen",
@@ -119,12 +119,12 @@
             "text": "Therefore, I want to fulfill my role as \na Mejiro trainee by securing victory."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "For that reason, I humbly request that you make your \ndecision after judging my running performance.",
             "choice_data_list": [
                 "Okay, I will.",
                 "Okay, I will."
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "For that reason, I humbly request that you make your \ndecision after judging my running performance."
         },
         {
             "name": "Mejiro McQueen",
@@ -162,23 +162,23 @@
             "text": "However…"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "<i>Huff… huff… </i> \nWhat did you think of my training?",
             "choice_data_list": [
                 "Do you have difficulty getting \nstrength into your legs?",
                 "Do you have difficulty getting \nstrength into your legs?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "<i>Huff… huff… </i> \nWhat did you think of my training?"
         },
         {
             "name": "Mejiro McQueen",
             "text": "<i>Hehh</i>? \nOh… um, well, that is—"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "… <i>Uuugh</i>.",
             "choice_data_list": [
                 "As I thought, your stomach isn't feeling well?"
-            ]
+            ],
+            "name": "Mejiro McQueen",
+            "text": "… <i>Uuugh</i>."
         },
         {
             "name": "Mejiro McQueen",

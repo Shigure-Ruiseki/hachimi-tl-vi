@@ -29,12 +29,12 @@
             "text": "See you later… Yes, yeeeah. See you."
         },
         {
-            "name": "Maruzensky",
-            "text": "… Pheeeeeew～～～～～.",
             "choice_data_list": [
                 "That's a long sigh.",
                 "That's a long sigh."
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "… Pheeeeeew～～～～～."
         },
         {
             "name": "Maruzensky",
@@ -57,12 +57,12 @@
             "text": "You have good taste, though—. It's such a beautiful day, \neating on the rooftop sure sounds great."
         },
         {
-            "name": "Maruzensky",
-            "text": "I'm sure it's very refreshing… Hmm.",
             "choice_data_list": [
                 "Phone not leaving you too happy?",
                 "Phone having you feel a little down?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "I'm sure it's very refreshing… Hmm."
         },
         {
             "name": "Maruzensky",
@@ -77,12 +77,12 @@
             "text": "Bless them, they still keep in touch with me after I moved to \nTracen Academy. They're all such good kids."
         },
         {
-            "name": "Maruzensky",
-            "text": "I wouldn't have thought of coming to the \nschool if they hadn't talked to me about it in the first place…",
             "choice_data_list": [
                 "Is that so?",
                 "Is that so?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "I wouldn't have thought of coming to the \nschool if they hadn't talked to me about it in the first place…"
         },
         {
             "name": "Maruzensky",
@@ -101,11 +101,11 @@
             "text": "And then the kids around me had high hopes… \nTelling me they \"wanted to see more of me running and winning\"."
         },
         {
-            "name": "Maruzensky",
-            "text": "So as their senior, how could I not respond?",
             "choice_data_list": [
                 "So that's how you ended up at Tracen Academy…"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "So as their senior, how could I not respond?"
         },
         {
             "name": "Maruzensky",
@@ -132,12 +132,12 @@
             "text": "Have a good daaay! Don't push yourself too hard～!"
         },
         {
-            "name": "Maruzensky",
-            "text": "… Heheh, how cute.",
             "choice_data_list": [
                 "You're very popular with the juniors here, too.",
                 "You're really popular with the juniors here, too."
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "… Heheh, how cute."
         },
         {
             "name": "Maruzensky",
@@ -152,12 +152,12 @@
             "text": "She took her to see the Twinkle series together, and apparently \nshe really enjoyed it. It healed her fright quickly, she said."
         },
         {
-            "name": "Maruzensky",
-            "text": "So, she's working hard at this school to show \nher sister more fun sights.",
             "choice_data_list": [
                 "That's a nice goal.",
                 "That's a wonderful goal."
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "So, she's working hard at this school to show \nher sister more fun sights."
         },
         {
             "name": "Maruzensky",
@@ -176,11 +176,11 @@
             "text": "Hey, what's your dream? Tell me about it!"
         },
         {
-            "name": "Maruzensky",
-            "text": "As a trainer at the world-famous Tracen Academy, \nI guess you'd like to train G1 trainees? Or \nare you aiming for the world stage～?",
             "choice_data_list": [
                 "I'd certainly be proud to be in charge of such a girl."
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "As a trainer at the world-famous Tracen Academy, \nI guess you'd like to train G1 trainees? Or \nare you aiming for the world stage～?"
         },
         {
             "name": "Maruzensky",
@@ -191,11 +191,11 @@
             "text": "Especially the people who work as trainers here \nare all very talented. It's not surprising that \nthey're all hungry for success."
         },
         {
-            "name": "Maruzensky",
-            "text": "… I wish I could reciprocate those feelings.",
             "choice_data_list": [
                 "I don't think you need to force it."
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "… I wish I could reciprocate those feelings."
         },
         {
             "name": "Maruzensky",
@@ -230,20 +230,20 @@
             "text": "Right now, I'm facing a new type of trainer who doesn't \ngreedily speak about \"Chasing the big prizes\" and \"Victories\", \nand it has me really excited."
         },
         {
-            "name": "Maruzensky",
-            "text": "And, now, do you think this situation… \nmake you want to say anything to me?",
             "choice_data_list": [
                 "Would you allow me to work with you?",
                 "Would you mind joining me?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "And, now, do you think this situation… \nmake you want to say anything to me?"
         },
         {
-            "name": "Maruzensky",
-            "text": "And, now, given this situation… don't \nyou want to say anything to me?",
             "choice_data_list": [
                 "Would you allow me to work with you?",
                 "Would you mind joining me?"
-            ]
+            ],
+            "name": "Maruzensky",
+            "text": "And, now, given this situation… don't \nyou want to say anything to me?"
         },
         {
             "name": "Maruzensky",

@@ -27,32 +27,32 @@
             "text": "It's already past when we usually meet up for training \nand Curren Chan still isn't here. She also hasn't \nupdated her Umastagram in over an hour."
         },
         {
-            "text": "Eh? Curren-san didn't show up for training? \nWait, don't tell me… did those girls from earlier…",
             "choice_data_list": [
                 "Did something happen?",
                 "Did something happen?"
-            ]
+            ],
+            "text": "Eh? Curren-san didn't show up for training? \nWait, don't tell me… did those girls from earlier…"
         },
         {
-            "text": "Well you see, a little while ago some upper class \nstudents were talking to her. Something seemed \noff about the whole situation though…",
             "choice_data_list": [
                 "Eh!?"
-            ]
+            ],
+            "text": "Well you see, a little while ago some upper class \nstudents were talking to her. Something seemed \noff about the whole situation though…"
         },
         {
-            "text": "I was worried something might happen to her so I offered to come \nalong, but she said everything would be fine. I felt like I \nshouldn't press the matter so I let her go without another word…",
             "choice_data_list": [
                 "Thanks for letting me know!"
-            ]
+            ],
+            "text": "I was worried something might happen to her so I offered to come \nalong, but she said everything would be fine. I felt like I \nshouldn't press the matter so I let her go without another word…"
         },
         {
             "text": "Trainer-san!? Curren-san is probably behind the main school \nbuilding…! So please, go help her!"
         },
         {
-            "text": "I rushed out, heading to where Curren Chan might be. \nI found her behind the main school building, \nsurrounded by multiple upper class students…!",
             "choice_data_list": [
                 "Curren!!"
-            ]
+            ],
+            "text": "I rushed out, heading to where Curren Chan might be. \nI found her behind the main school building, \nsurrounded by multiple upper class students…!"
         },
         {
             "name": "Curren Chan",
@@ -67,11 +67,11 @@
             "text": "Ah! Don't tell me, has training already started!? \nAhh, I'm so sorry!"
         },
         {
-            "name": "Curren Chan",
-            "text": "Will you ever forgive me…?",
             "choice_data_list": [
                 "That's not the reason I'm here…"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "Will you ever forgive me…?"
         },
         {
             "name": "Senior Trainees",
@@ -86,22 +86,22 @@
             "text": "Isn't that right? Senpai ♪"
         },
         {
-            "name": "Senior Trainees",
-            "text": "Cute Curren Chan!",
             "choice_data_list": [
                 "!?"
-            ]
+            ],
+            "name": "Senior Trainees",
+            "text": "Cute Curren Chan!"
         },
         {
             "name": "Curren Chan",
             "text": "Ehehe, I'm so glad I was able to bond with my Senpais! \nPlease continue to support me from here on out ☆"
         },
         {
-            "name": "Senior Trainees",
-            "text": "Cute Curren Chan!",
             "choice_data_list": [
                 "!?!?!?"
-            ]
+            ],
+            "name": "Senior Trainees",
+            "text": "Cute Curren Chan!"
         },
         {
             "name": "Curren Chan",
@@ -112,39 +112,39 @@
             "text": "Anyway, see you all later ♪"
         },
         {
-            "name": "Curren Chan",
-            "text": "I'm gonna go get changed. \nOnee-chan, I'll meet you at the racecourse!",
             "choice_data_list": [
                 "So what was that all about…?"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "I'm gonna go get changed. \nOnee-chan, I'll meet you at the racecourse!"
         },
         {
-            "name": "Curren Chan",
-            "text": "I'm gonna go get changed. \nOnee-chan, I'll meet you at the racecourse!",
             "choice_data_list": [
                 "So what was that all about…?"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "I'm gonna go get changed. \nOnee-chan, I'll meet you at the racecourse!"
         },
         {
             "name": "Curren Chan",
             "text": "Ehh…? It was nothing much, you know?"
         },
         {
-            "name": "Curren Chan",
-            "text": "At first they didn't seem to like me very much. \nSo, after our little \"chat\" they \nunderstood just how cute I really am ♪",
             "choice_data_list": [
                 "Little \"chat?\""
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "At first they didn't seem to like me very much. \nSo, after our little \"chat\" they \nunderstood just how cute I really am ♪"
         },
         {
             "name": "Curren Chan",
             "text": "Yup. It seemed like there was a little bit of a misunderstanding \nbetween us, but I took care of it! They immediately fell in love \nwith me while we were chatting ♪"
         },
         {
-            "text": "I'm kinda interested in their secret \"chat\" but \nthere's something more important that I wanted to say…",
             "choice_data_list": [
                 "I wish you didn't go alone."
-            ]
+            ],
+            "text": "I'm kinda interested in their secret \"chat\" but \nthere's something more important that I wanted to say…"
         },
         {
             "text": "While you may have been able to solve the problem this time, what \nif you hadn't? That is always a possibility, so I explained to \nher that she didn't have to do everything by herself: that she \ncould rely on those around her."
@@ -154,11 +154,11 @@
             "text": "Hehehe, you don't have to worry. \nI'm used to these kinds of things you know? \nAfter all, cute girls always stand out."
         },
         {
-            "name": "Curren Chan",
-            "text": "Plus I wouldn't want to get those other girls involved \nin these kinds of things. It'll be easier to deal \nwith them if it's just me as well.",
             "choice_data_list": [
                 "But…"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "Plus I wouldn't want to get those other girls involved \nin these kinds of things. It'll be easier to deal \nwith them if it's just me as well."
         },
         {
             "name": "Curren Chan",
@@ -169,18 +169,18 @@
             "text": "Onee-chan… When these kinds of things happen I solve \nthem in a cute manner. I'm happy that you were so \nworried about me, but during times like these there's \nonly one thing for you to say, right?"
         },
         {
-            "name": "Curren Chan",
-            "text": "Yup, there's only one thing that I want to hear from you. \nYou know what it is, don't you, Onee-chan…?",
             "choice_data_list": [
                 "Curren, you're the cutest girl in the universe…"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "Yup, there's only one thing that I want to hear from you. \nYou know what it is, don't you, Onee-chan…?"
         },
         {
-            "name": "Curren Chan",
-            "text": "Yup, there's only one thing that I want to hear from you. \nYou know what it is, don't you, Onee-chan…?",
             "choice_data_list": [
                 "Curren, you're the cutest girl in the universe…"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "Yup, there's only one thing that I want to hear from you. \nYou know what it is, don't you, Onee-chan…?"
         },
         {
             "name": "Curren Chan",

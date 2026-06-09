@@ -1,36 +1,35 @@
 {
-    "title": "Towards Hope",
     "no_wrap": true,
     "text_block_list": [
         {
             "text": "The day before the 『Queen Elizabeth Cup』. It was early morning, but it \nwas still going to be awhile until we headed to the Kyoto Racecourse."
         },
         {
-            "text": "(I'm already wide awake though…… \nThere's still a lot of time until I need to meet up with the team——)",
             "choice_data_list": [
                 "Guess I'll go for a walk"
-            ]
+            ],
+            "text": "(I'm already wide awake though…… \nThere's still a lot of time until I need to meet up with the team——)"
         },
         {
-            "text": "(I'm already wide awake though…… \nThere's still a lot of time until I need to meet up with the team——)",
             "choice_data_list": [
                 "Guess I'll go for a walk"
-            ]
+            ],
+            "text": "(I'm already wide awake though…… \nThere's still a lot of time until I need to meet up with the team——)"
         },
         {
-            "name": "King Halo",
-            "text": "! ……Ah——",
             "choice_data_list": [
                 "Oh? King, you're early……"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "! ……Ah——"
         },
         {
-            "name": "King Halo",
-            "text": "! I-it's because you're such a blockhead! Well……I thought \nyou'd have trouble sleeping so I came to check up on you!",
             "choice_data_list": [
                 "Ahaha……you guessed right",
                 "Ahaha……you guessed right"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "! I-it's because you're such a blockhead! Well……I thought \nyou'd have trouble sleeping so I came to check up on you!"
         },
         {
             "name": "King Halo",
@@ -41,12 +40,12 @@
             "text": "Which is why……This King will accompany \nyou on your walk for a bit. Be grateful."
         },
         {
-            "name": "King Halo",
-            "text": "……We wanted to show her, didn't we? \nTomorrow's race……to Kraft-san.",
             "choice_data_list": [
                 "……We did.",
                 "……We did."
-            ]
+            ],
+            "name": "King Halo",
+            "text": "……We wanted to show her, didn't we? \nTomorrow's race……to Kraft-san."
         },
         {
             "name": "King Halo",
@@ -57,22 +56,22 @@
             "text": "But……Kraft-san still won't wake up…………"
         },
         {
-            "text": "……Right, Kraft still hasn't regained consciousness.",
             "choice_data_list": [
                 "But, it will reach her"
-            ]
+            ],
+            "text": "……Right, Kraft still hasn't regained consciousness."
         },
         {
-            "text": "……Right, Kraft still hasn't regained consciousness.",
             "choice_data_list": [
                 "But, it will reach her"
-            ]
+            ],
+            "text": "……Right, Kraft still hasn't regained consciousness."
         },
         {
-            "text": "That's just the kind of run Pandora will show us. \nIf it's Fusaichi Pandora, then definitely——",
             "choice_data_list": [
                 "She'll become that hope"
-            ]
+            ],
+            "text": "That's just the kind of run Pandora will show us. \nIf it's Fusaichi Pandora, then definitely——"
         },
         {
             "name": "King Halo",
@@ -134,11 +133,11 @@
             "text": "(That line connecting to a girl——running on the turf)"
         },
         {
-            "name": "Fusaichi Pandora",
-            "text": "……I guess it wasn't something like fate. Probably.",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Fusaichi Pandora",
+            "text": "……I guess it wasn't something like fate. Probably."
         },
         {
             "name": "Fusaichi Pandora",
@@ -177,12 +176,12 @@
             "text": "Alright!! Well, guess I should get going."
         },
         {
-            "name": "Fusaichi Pandora",
-            "text": "I'm heading out. ……And I'll go win!",
             "choice_data_list": [
                 "We'll be waiting for you at the goal!",
                 "We'll be waiting for you at the goal!"
-            ]
+            ],
+            "name": "Fusaichi Pandora",
+            "text": "I'm heading out. ……And I'll go win!"
         },
         {
             "name": "Fusaichi Pandora",
@@ -272,5 +271,6 @@
             "name": "Fusaichi Pandora",
             "text": "A genius, you know?"
         }
-    ]
+    ],
+    "title": "Towards Hope"
 }

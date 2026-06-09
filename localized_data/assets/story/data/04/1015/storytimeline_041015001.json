@@ -35,11 +35,11 @@
             "text": "Alas… perchance training occupies their minds, \nbut not a soul has passed by."
         },
         {
-            "text": "This peculiar, even eccentric, trainee stood in the \ndeserted central plaza, conversing with herself.",
             "choice_data_list": [
                 "(… What in heavens is going on with her?)",
                 "(… What in heavens is going on with her?)"
-            ]
+            ],
+            "text": "This peculiar, even eccentric, trainee stood in the \ndeserted central plaza, conversing with herself."
         },
         {
             "name": "T.M. Opera O",
@@ -61,20 +61,20 @@
             "text": "Screenplay by yours truly! Direction by yours truly! \nStarring — in lead role — yours truly! An operatic tour \nde force, played by a most extravagant cast."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Waste no further time, take your place on that bench over there. \n…… <i>Ahem</i>, let us begin ——",
             "choice_data_list": [
                 "J-Just a moment now!",
                 "J-Just a moment now!"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Waste no further time, take your place on that bench over there. \n…… <i>Ahem</i>, let us begin ——"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "—— Hm? What bothers you?",
             "choice_data_list": [
                 "Why are you performing an opera…?",
                 "Why are you performing an opera…?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "—— Hm? What bothers you?"
         },
         {
             "name": "T.M. Opera O",
@@ -85,19 +85,19 @@
             "text": "In three days, I will appear in a \"Selection Race\", \nyou understand? This is a significant event with an \nimpact across the whole academy."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Creating further excitement for the race is precisely why \nI am performing my opera, as it's eve celebration!",
             "choice_data_list": [
                 "I thought the eve is on the day before…?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Creating further excitement for the race is precisely why \nI am performing my opera, as it's eve celebration!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Oh dear, what a curious thing you state. \nWhoever decreed that eve celebrations \nshould take place the day before?",
             "choice_data_list": [
                 "I also want to point out the sun in the sky…",
                 "I also want to point out the sun in the sky…"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Oh dear, what a curious thing you state. \nWhoever decreed that eve celebrations \nshould take place the day before?"
         },
         {
             "name": "T.M. Opera O",
@@ -112,11 +112,11 @@
             "text": "For I am a king among kings! In other words, \none might call me the \"Centurial High King\"!!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "To a high king, time of month or day are but trifling matters. \n…… <i>Heh</i>, has comprehension set in yet?",
             "choice_data_list": [
                 "I am at loss for words……"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "To a high king, time of month or day are but trifling matters. \n…… <i>Heh</i>, has comprehension set in yet?"
         },
         {
             "name": "T.M. Opera O",
@@ -131,11 +131,11 @@
             "text": "Feast your eyes on a splendiferous \nperformance by yours—— <i>Hm</i>?"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "…… Hold a moment. Could not that be a trainer's badge \nI see pinned upon your figure?",
             "choice_data_list": [
                 "That's right……"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "…… Hold a moment. Could not that be a trainer's badge \nI see pinned upon your figure?"
         },
         {
             "name": "T.M. Opera O",
@@ -150,11 +150,11 @@
             "text": "What would this be but fate! You, having been enchanted by \nmy opera, make for the perfect candidate!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Please step forth and grasp my hand! \nDon't be shy now!!",
             "choice_data_list": [
                 "Quite something to spring on me…!"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Please step forth and grasp my hand! \nDon't be shy now!!"
         },
         {
             "name": "T.M. Opera O",

@@ -15,10 +15,10 @@
             "text": "……I see, for the sake of improvement?"
         },
         {
-            "text": "I thought she would be appalled by the \nnumber of book, but that didn't happen. \nIt look like she is looking for a book too.",
             "choice_data_list": [
                 "What are Ruby looking for?"
-            ]
+            ],
+            "text": "I thought she would be appalled by the \nnumber of book, but that didn't happen. \nIt look like she is looking for a book too."
         },
         {
             "name": "Daiichi Ruby",
@@ -40,22 +40,22 @@
             "text": "It is a great way to quickly access expert opinions, \nthe explanations and supplements are substantial, \nit's very informative."
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "Trainer-san also seems to have purchased art \nhistory books. If you are interested, you may \nfind these catalogs helpful―",
             "choice_data_list": [
                 "I'll take it!!"
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "Trainer-san also seems to have purchased art \nhistory books. If you are interested, you may \nfind these catalogs helpful―"
         },
         {
             "name": "Daiichi Ruby",
             "text": "…It's not my intention to point it out but, \nI see that you have already purchased quite a few books."
         },
         {
-            "text": "It's true that I already pick up a lot of thing. \nThe expense will be considerable. But this is also for study ……",
             "choice_data_list": [
                 "Because I want to try my best to match you",
                 "Because I want to try my best to match you"
-            ]
+            ],
+            "text": "It's true that I already pick up a lot of thing. \nThe expense will be considerable. But this is also for study ……"
         },
         {
             "name": "Daiichi Ruby",
@@ -95,18 +95,18 @@
             "text": "Even after leaving the exhibition I can still feel the excitement. \nThanks to Daiichi Ruby's explanation, I feel I was able to \nappreciate the paintings more deeply."
         },
         {
-            "text": "Although I felt tired because we spent so much \ntime on each point, but I was able to spend a \nday filled with a sense of fulfillment.",
             "choice_data_list": [
                 "It was very informative!"
-            ]
+            ],
+            "text": "Although I felt tired because we spent so much \ntime on each point, but I was able to spend a \nday filled with a sense of fulfillment."
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "Is that so?",
             "choice_data_list": [
                 "And I'm glad I found out who your favorite painter is.",
                 "And I'm glad I found out who your favorite painter is."
-            ]
+            ],
+            "name": "Daiichi Ruby",
+            "text": "Is that so?"
         },
         {
             "text": "Daiichi Ruby lives on a minute-by-minute schedule. \nShe too spend her free time free time enjoying \nthings she likes."
@@ -127,10 +127,10 @@
             "text": "I hope it will be a good conversation piece. \nBecause there are people who have a deep knowledge of art."
         },
         {
-            "text": "Daiichi Ruby was enthusiastically taking notes \nduring the viewing. That's why I thought that \nthis is her favorite artist―",
             "choice_data_list": [
                 "All of that for just a single meeting?"
-            ]
+            ],
+            "text": "Daiichi Ruby was enthusiastically taking notes \nduring the viewing. That's why I thought that \nthis is her favorite artist―"
         },
         {
             "name": "Daiichi Ruby",

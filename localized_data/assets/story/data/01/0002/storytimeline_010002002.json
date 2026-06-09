@@ -6,19 +6,19 @@
             "text": "First, let's go meet the trainee who we \nwill be working with!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "The trainee you are in charge of is called \na trainable trainee.",
             "color_text_info_list": [
                 "trainable trainee"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "The trainee you are in charge of is called \na trainable trainee."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Please note you can't train a trainee until \nyou have obtained her training version.",
             "color_text_info_list": [
                 "obtained her training version",
                 "can't train a trainee"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "Please note you can't train a trainee until \nyou have obtained her training version."
         },
         {
             "name": "Tazuna Hayakawa",

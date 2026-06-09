@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I ended up not being able to \nspeak to Admire Vega after the race.",
             "choice_data_list": [
                 "<i>I can't just leave her alone!</i>"
-            ]
+            ],
+            "text": "I ended up not being able to \nspeak to Admire Vega after the race."
         },
         {
-            "text": "I don't know what's driving her to race, nor what's causing \nher to worry so much, or what kind of baggage she has. But…",
             "choice_data_list": [
                 "If I don't try to find out, \nthings will never get going."
-            ]
+            ],
+            "text": "I don't know what's driving her to race, nor what's causing \nher to worry so much, or what kind of baggage she has. But…"
         },
         {
             "text": "But first I needed to find her, so I began walking around the \ncampus looking for her. That's when I saw the girl she raced with \nthe other day, Meisho Doto."
@@ -21,11 +21,11 @@
             "text": "Ah, are you asking me if I've seen Ayabe-san…? \nUmm, err…! If I had to say whether I saw her \nor not, I-I'd have to say that I have, but…"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Haa Ha Ha Ha! If we were ephemeral stars, we may reach \nthat far away summit! Yet to reach that impenetrable \npeak, one would need to devote thy body!",
             "choice_data_list": [
                 "Are you saying she's in the mountains…?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Haa Ha Ha Ha! If we were ephemeral stars, we may reach \nthat far away summit! Yet to reach that impenetrable \npeak, one would need to devote thy body!"
         },
         {
             "name": "T.M. Opera O",
@@ -40,11 +40,11 @@
             "text": "A-Ayabe-san is very stoic and trains at a super high level… \nAnd I know this time is no different, but…"
         },
         {
-            "name": "Meisho Doto",
-            "text": "It is very d-dangerous…! I think the path \nmight be too treacherous for a human…!",
             "choice_data_list": [
                 "Thank you for worrying about \nme, but I want to do this."
-            ]
+            ],
+            "name": "Meisho Doto",
+            "text": "It is very d-dangerous…! I think the path \nmight be too treacherous for a human…!"
         },
         {
             "name": "T.M. Opera O",
@@ -55,10 +55,10 @@
             "text": "Worry not, Doto. The chimes of fate are already \nringing in her brain. Attempting to stop her would be futile."
         },
         {
-            "text": "While laughing loudly, she told me \nmore about where Admire Vega had gone.",
             "choice_data_list": [
                 "You're a life-saver! See you both soon!"
-            ]
+            ],
+            "text": "While laughing loudly, she told me \nmore about where Admire Vega had gone."
         },
         {
             "name": "Meisho Doto",
@@ -73,40 +73,40 @@
             "text": "Some lean against the door. Some knock on the door. And some \nsimply kick the door down… so this will be perfectly fine!"
         },
         {
-            "name": "Admire Vega",
-            "text": "You came to talk to me…?",
             "choice_data_list": [
                 "Yeah!",
                 "Yeah!"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "You came to talk to me…?"
         },
         {
             "name": "Admire Vega",
             "text": "Well I have nothing to say to you. \nNor do I plan on being scouted by you. Bye."
         },
         {
-            "text": "She quickly left me in the dust, but… I came \nhere filled with resolve. I can't simply return now!",
             "choice_data_list": [
                 "<i>Let's go…!</i>",
                 "<i>Let's go…!</i>"
-            ]
+            ],
+            "text": "She quickly left me in the dust, but… I came \nhere filled with resolve. I can't simply return now!"
         },
         {
             "text": "However…"
         },
         {
-            "name": "Admire Vega",
-            "text": "Hah… haa… haa…",
             "choice_data_list": [
                 "<i>*Wheeze…!*</i>"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "Hah… haa… haa…"
         },
         {
-            "name": "Admire Vega",
-            "text": "Hah… haa… haa…",
             "choice_data_list": [
                 "<i>*Wheeze…!*</i>"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "Hah… haa… haa…"
         },
         {
             "text": "As Meisho Doto had warned me, the path was incredibly steep \nand the gap between Admire Vega and I was only widening…!"
@@ -115,10 +115,10 @@
             "text": "Moreover…"
         },
         {
-            "text": "I was starting to lose sight of her as the sun was setting, \nbut I continued to desperately run along the steep path.",
             "choice_data_list": [
                 "I can't even see my fe- Uwaah!"
-            ]
+            ],
+            "text": "I was starting to lose sight of her as the sun was setting, \nbut I continued to desperately run along the steep path."
         },
         {
             "text": "(*rustle* *rustle*)"
@@ -133,19 +133,19 @@
             "text": "A sea of stars so vast that I could almost dive into…"
         },
         {
-            "name": "Admire Vega",
-            "text": "Are you hurt anywhere…?",
             "choice_data_list": [
                 "Huh… Admire Vega!?"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "Are you hurt anywhere…?"
         },
         {
-            "name": "Admire Vega",
-            "text": "I'm asking the questions here. Are you hurt?",
             "choice_data_list": [
                 "I'm fine. Did you save me…?",
                 "I'm fine. Did you save me…?"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "I'm asking the questions here. Are you hurt?"
         },
         {
             "name": "Admire Vega",
@@ -163,19 +163,19 @@
             "text": "I had such a poor showing at the Selection Race. I know nothing \nabout you, and aside from that race you know nothing about me."
         },
         {
-            "name": "Admire Vega",
-            "text": "So why?",
             "choice_data_list": [
                 "I'm not sure. But…"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "So why?"
         },
         {
-            "name": "Admire Vega",
-            "text": "But…?",
             "choice_data_list": [
                 "I didn't want to leave you alone any longer.",
                 "I didn't want to leave you alone any longer."
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "But…?"
         },
         {
             "name": "Admire Vega",
@@ -190,11 +190,11 @@
             "text": "Racing and winning are my burdens to bear, \nno one else's. After all, she… my sister…"
         },
         {
-            "name": "Admire Vega",
-            "text": "Died in my place.",
             "choice_data_list": [
                 "!!!!!"
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "Died in my place."
         },
         {
             "name": "Admire Vega",
@@ -204,33 +204,33 @@
             "text": "If only a little, she confided in me some of the burdens that she \ncarries. \"I'll carry all of these burdens myself.\" I'm sure \nthat's what she's thinking."
         },
         {
-            "text": "Even so…",
             "choice_data_list": [
                 "I can't leave you to do this alone!",
                 "I can't leave you to do this alone!"
-            ]
+            ],
+            "text": "Even so…"
         },
         {
-            "text": "My legs are so heavy and my stamina has already \nreached its limits. Even so, since I could still see her…",
             "choice_data_list": [
                 "Hey, won't you let me be your trainer?",
                 "Hey, won't you let me be your trainer?"
-            ]
+            ],
+            "text": "My legs are so heavy and my stamina has already \nreached its limits. Even so, since I could still see her…"
         },
         {
-            "name": "Admire Vega",
-            "text": "You're chasing after me again and suddenly saying that…?",
             "choice_data_list": [
                 "If you want to go forward alone, that's fine.",
                 "If you want to go forward alone, that's fine."
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "You're chasing after me again and suddenly saying that…?"
         },
         {
-            "name": "Admire Vega",
-            "text": "Eh?",
             "choice_data_list": [
                 "But I will selfishly continue \nto follow you, and selfishly support you."
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "Eh?"
         },
         {
             "name": "Admire Vega",
@@ -269,11 +269,11 @@
             "text": "A careless dream where a cute girl whose face I did not \nknow and I… ran through a sea of stars together…"
         },
         {
-            "text": "The following day there was a hesitant knock on the door \nto my office. As I opened the door, in came… Admire Vega!",
             "choice_data_list": [
                 "You came to talk about being scouted?",
                 "You came to talk about being scouted?"
-            ]
+            ],
+            "text": "The following day there was a hesitant knock on the door \nto my office. As I opened the door, in came… Admire Vega!"
         },
         {
             "name": "Admire Vega",
@@ -284,12 +284,12 @@
             "text": "And if I had to choose…"
         },
         {
-            "name": "Admire Vega",
-            "text": "I would choose you.",
             "choice_data_list": [
                 "Thank you. I look \nforward to working with you.",
                 "Thank you. I look \nforward to working with you."
-            ]
+            ],
+            "name": "Admire Vega",
+            "text": "I would choose you."
         },
         {
             "text": "Thus my days with Admire Vega had finally begun."

@@ -1,5 +1,4 @@
 {
-    "title": "One Must Protect The Weak",
     "text_block_list": [
         {
             "text": "That morning, I had to come in to work a bit early. By the station, I saw a group of primary school kids, on their way to school. While I took in the adorable sight――"
@@ -17,11 +16,11 @@
             "text": "Good. All of you, please stop for a moment. \nBefore you cross, make sure to look right, then left..."
         },
         {
-            "name": "Tracen Student",
-            "text": "――Good. It seems the street is all clear. Now cross!",
             "choice_data_list": [
                 "(Is she a volunteer crossing guard?)"
-            ]
+            ],
+            "name": "Tracen Student",
+            "text": "――Good. It seems the street is all clear. Now cross!"
         },
         {
             "text": "It wasn't often you saw a Tracen student working before classes. Though the kids seemed a bit scared of how strict she was being..."
@@ -42,8 +41,8 @@
             "text": "Ngh, that motorbike...!\n――Look out!!"
         },
         {
-            "text": "――Tch, look where you're going, slowpoke!",
-            "name": "Recklessly Driving Biker"
+            "name": "Recklessly Driving Biker",
+            "text": "――Tch, look where you're going, slowpoke!"
         },
         {
             "text": "The Tracen student just barely managed to protect the kid from harm. Disaster averted... But the biker already had his hand on the clutch, ready to flee the scene."
@@ -107,8 +106,8 @@
             "text": "Off you go! Take care!\n...Heh."
         },
         {
-            "text": "――! \nThat's the last of the students I'm helping at this crosswalk.\nMission accomplished.",
-            "name": "Tracen Student"
+            "name": "Tracen Student",
+            "text": "――! \nThat's the last of the students I'm helping at this crosswalk.\nMission accomplished."
         },
         {
             "name": "Fenomeno",
@@ -141,12 +140,12 @@
             "text": "And above all else... It's my duty to make sure the children of this city stay safe!"
         },
         {
-            "name": "Fenomono",
-            "text": "――Oh, I got caught up in the conversation.\nMy apologies for keeping you.",
             "choice_data_list": [
                 "It's fine. What about you, though?",
                 "No problem. Though what about you?"
-            ]
+            ],
+            "name": "Fenomono",
+            "text": "――Oh, I got caught up in the conversation.\nMy apologies for keeping you."
         },
         {
             "name": "Fenomeno",
@@ -156,8 +155,8 @@
             "text": "I watched as she ran off in a hurry.\n――But..."
         },
         {
-            "text": "Ngh... The signal...!!",
-            "name": "Fenomeno"
+            "name": "Fenomeno",
+            "text": "Ngh... The signal...!!"
         },
         {
             "text": "The crossing sign was still flashing, and wasn't even red yet. But that was all it took to stop her dead in her tracks. \n...Her honest, by-the-book attitude put a smile on my face."
@@ -170,8 +169,8 @@
             "text": "You there. You've been looking back and forth a bit suspiciously... Do you mind if I ask a few questions? \nWhat are you doing here? State your name, year, and class."
         },
         {
-            "text": "Eek... Uh, nothing! It's nothing, really...!",
-            "name": "Suspicious Student"
+            "name": "Suspicious Student",
+            "text": "Eek... Uh, nothing! It's nothing, really...!"
         },
         {
             "name": "Fenomeno",
@@ -214,11 +213,11 @@
             "text": "...It seems people find me menacing.\nIf you weren't here, I doubt she would tell me what was wrong, let alone let me help her."
         },
         {
-            "text": "Just like this morning...\nIt seems you're always lending me a hand.",
-            "name": "Fenomeno",
             "choice_data_list": [
                 "It's no big deal."
-            ]
+            ],
+            "name": "Fenomeno",
+            "text": "Just like this morning...\nIt seems you're always lending me a hand."
         },
         {
             "text": "The reason she could save the kid and find that lost item was because she was just and kind. All I did was offer a little help."
@@ -232,11 +231,11 @@
             "text": "――I aim to be a hero, you see.\nThat's why I work hard at my duties, day by day."
         },
         {
-            "name": "Fenomeno",
-            "text": "――Oh. It seems I've kept you again.\nPlease, accept my apologies!",
             "choice_data_list": [
                 "Only natural to help folks in trouble."
-            ]
+            ],
+            "name": "Fenomeno",
+            "text": "――Oh. It seems I've kept you again.\nPlease, accept my apologies!"
         },
         {
             "text": "So don't worry about me.\nTelling her that, I made my exit."
@@ -249,5 +248,6 @@
             "name": "Fenomeno",
             "text": "――What a paragon."
         }
-    ]
+    ],
+    "title": "One Must Protect The Weak"
 }

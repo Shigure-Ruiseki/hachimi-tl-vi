@@ -6,25 +6,25 @@
             "text": "Be sure to enter your Veteran\nUmamusume in many races!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "In Daily Races, you can earn monies and\nSupport Points, among other things.",
             "color_text_info_list": [
                 "Daily Races"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "In Daily Races, you can earn monies and\nSupport Points, among other things."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "You can only run in these races a set\nnumber of times per day, so make sure\nto enter every day.",
             "color_text_info_list": [
                 "You can only run in these races a set number of times per day"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "You can only run in these races a set\nnumber of times per day, so make sure\nto enter every day."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Allow me to explain Team Trials, where\nyou can create and compete with a team\nof Veteran Umamusume.",
             "color_text_info_list": [
                 "Team Trials"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "Allow me to explain Team Trials, where\nyou can create and compete with a team\nof Veteran Umamusume."
         }
     ]
 }

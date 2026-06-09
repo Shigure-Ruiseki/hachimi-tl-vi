@@ -26,22 +26,22 @@
             "text": "\"Japan Uma Musume Training Center Academy\"! \nI want to go there too…!"
         },
         {
-            "name": "Fine Motion",
-            "text": "(Dissatisfied…)",
             "choice_data_list": [
                 "Fine!!"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "(Dissatisfied…)"
         },
         {
             "name": "Fine Motion",
             "text": "Wa, you're! Um, what's wrong? \n…you've got a scary look on your face."
         },
         {
-            "text": "Since then, I've been thinking. About the burden of her duty, \nabout my resolve to bear some of that burden. But still-",
             "choice_data_list": [
                 "I really want to hear your thoughts ",
                 "I really want to hear your thoughts "
-            ]
+            ],
+            "text": "Since then, I've been thinking. About the burden of her duty, \nabout my resolve to bear some of that burden. But still-"
         },
         {
             "name": "Fine Motion",
@@ -64,21 +64,21 @@
             "text": "You see? I wasn't born for the sake of running."
         },
         {
-            "text": "Every single word she spoke of while smiling, \nwas extremely heavy. …But, even so.",
             "choice_data_list": [
                 "Not your \"Reason\", I want to hear your \"Feelings\""
-            ]
+            ],
+            "text": "Every single word she spoke of while smiling, \nwas extremely heavy. …But, even so."
         },
         {
             "name": "Fine Motion",
             "text": "!"
         },
         {
-            "text": "Royalty. Her duty. Her responsibility. \nThe reason she spoke of, it's all correct. But, even so-!",
             "choice_data_list": [
                 "Those aren't reasons to give up your dream",
                 "Those aren't reasons to give up your dream"
-            ]
+            ],
+            "text": "Royalty. Her duty. Her responsibility. \nThe reason she spoke of, it's all correct. But, even so-!"
         },
         {
             "name": "Fine Motion",
@@ -99,23 +99,23 @@
             "text": "The hell d'you say?…a mock race against Fine?"
         },
         {
-            "name": "Air Shakur",
-            "text": "Is your memory 0 bytes? Don't make me say it again, bastard. \nDidn't I tell you not to half-heartedly stick your nose in!",
             "choice_data_list": [
                 "I am resolved.",
                 "I am resolved."
-            ]
+            ],
+            "name": "Air Shakur",
+            "text": "Is your memory 0 bytes? Don't make me say it again, bastard. \nDidn't I tell you not to half-heartedly stick your nose in!"
         },
         {
             "name": "Air Shakur",
             "text": "…Aaah?"
         },
         {
-            "name": "SP Commander",
-            "text": "You shouldn't speak so lightly, Trainer-sama.",
             "choice_data_list": [
                 "!!"
-            ]
+            ],
+            "name": "SP Commander",
+            "text": "You shouldn't speak so lightly, Trainer-sama."
         },
         {
             "name": "Air Shakur",
@@ -126,19 +126,19 @@
             "text": "Excuse me, but you don't seem to understand the \nseriousness of the situation. This will expose \na noble person to unnecessary danger."
         },
         {
-            "name": "SP Commander",
-            "text": "-Even you yourself, may lose everything.",
             "choice_data_list": [
                 "Like I said, I am resolved."
-            ]
+            ],
+            "name": "SP Commander",
+            "text": "-Even you yourself, may lose everything."
         },
         {
-            "name": "SP Commander",
-            "text": "…No, you clearly do not understand! \nAs someone who's duty is to protect Her Highness, I must firmly-",
             "choice_data_list": [
                 "Supporting their dreams with everything I have is my job!",
                 "Supporting their dreams with everything I have is my job!"
-            ]
+            ],
+            "name": "SP Commander",
+            "text": "…No, you clearly do not understand! \nAs someone who's duty is to protect Her Highness, I must firmly-"
         },
         {
             "name": "SP Commander",
@@ -149,11 +149,11 @@
             "text": "Tch… whatever, this is annoying."
         },
         {
-            "name": "Air Shakur",
-            "text": "And? When are we doing this mock race?",
             "choice_data_list": [
                 "Shakur…!"
-            ]
+            ],
+            "name": "Air Shakur",
+            "text": "And? When are we doing this mock race?"
         },
         {
             "name": "Fine Motion",
@@ -239,11 +239,11 @@
             "text": "-Heh. It's my win."
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufuu…yeah. It's extremely frustrating!",
             "choice_data_list": [
                 "…Fine."
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Fufuu…yeah. It's extremely frustrating!"
         },
         {
             "name": "Fine Motion",

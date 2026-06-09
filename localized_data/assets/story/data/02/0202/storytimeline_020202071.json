@@ -81,11 +81,11 @@
             "text": "Hey! Hey! C'mon you 3, more intensely! \nKraft, Cesario, seems like you're still feeling timid!"
         },
         {
-            "name": "Daring Heart",
-            "text": "This is my chance! I can keep on going! \nTrainer, what's my score?",
             "choice_data_list": [
                 "Heart & Messiah Team, +3!"
-            ]
+            ],
+            "name": "Daring Heart",
+            "text": "This is my chance! I can keep on going! \nTrainer, what's my score?"
         },
         {
             "name": "Daring Heart",
@@ -96,11 +96,11 @@
             "text": "T-this and that are two different…… But…… \nHmph! Maybe something like this?"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Wawaa, I need to work harder! \nPose, pose……so something like, this!",
             "choice_data_list": [
                 "Team <Ascella>, +1"
-            ]
+            ],
+            "name": "Rhein Kraft",
+            "text": "Wawaa, I need to work harder! \nPose, pose……so something like, this!"
         },
         {
             "name": "Rhein Kraft",
@@ -111,18 +111,18 @@
             "text": "Right, right, judging should be fair. Messiah, this is \nour chance! Rack up those points! Now, finish it off!"
         },
         {
-            "name": "Air Messiah",
-            "text": "L-like this……? \nI'm better at group dancing, but poses are……",
             "choice_data_list": [
                 "Heart & Messiah Team, no points"
-            ]
+            ],
+            "name": "Air Messiah",
+            "text": "L-like this……? \nI'm better at group dancing, but poses are……"
         },
         {
-            "name": "Daring Heart",
-            "text": "Oh no! If it's like that, then I'll! \nYaaah!",
             "choice_data_list": [
                 "Heart & Messiah Team, +3"
-            ]
+            ],
+            "name": "Daring Heart",
+            "text": "Oh no! If it's like that, then I'll! \nYaaah!"
         },
         {
             "text": "The dance battle ended up becoming Daring Heart's one-man show. \nLike this, she was probably going to carry her team……"
@@ -163,11 +163,11 @@
             "text": "My name is King! A champion stronger than anyone! With a \nbright future, I'm an Uma Musume that will sing and dance forever!"
         },
         {
-            "name": "King Halo",
-            "text": "Alright, Trainer, what's my score? \nDon't just stand there gaping, score it properly!",
             "choice_data_list": [
                 "Team <Ascella>, +5……"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Alright, Trainer, what's my score? \nDon't just stand there gaping, score it properly!"
         },
         {
             "name": "Daring Heart",

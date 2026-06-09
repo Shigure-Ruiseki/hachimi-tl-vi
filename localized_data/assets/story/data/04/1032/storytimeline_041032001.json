@@ -2,21 +2,21 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "My head hurts...",
             "choice_data_list": [
                 "(Huh? Where the hell am I...?)",
                 "(Huh? Where the hell am I...?)"
-            ]
+            ],
+            "text": "My head hurts..."
         },
         {
             "text": "I slowly awaken from the dark state that surrounded me when—"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "...Oh, have you woken up?",
             "choice_data_list": [
                 "A-Agnes Tachyon...?"
-            ]
+            ],
+            "name": "Agnes Tachyon",
+            "text": "...Oh, have you woken up?"
         },
         {
             "text": "Agnes Tachyon is a horse girl with tremendous ability. \nEven a rookie trainer like myself has heard of her. \nBut to think that she'd actually stand before me..."
@@ -37,11 +37,11 @@
             "text": "Now then, you're probably wondering how you \nended up in this situation. Remember anything?"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "By the way, I was the one who brought you over here. Therefore, \nwhat you need to remember is \"how\" and \"why\" you blacked out.",
             "choice_data_list": [
                 "Umm..."
-            ]
+            ],
+            "name": "Agnes Tachyon",
+            "text": "By the way, I was the one who brought you over here. Therefore, \nwhat you need to remember is \"how\" and \"why\" you blacked out."
         },
         {
             "text": "I somehow managed to wrap my throbbing head around this. \nIf I recall correctly, I was walking down the hallway when..."
@@ -103,12 +103,12 @@
             "text": "I'm not going to let you get awayyyy! \nBakushin bakushiiiin!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Ah! Trainer over there! \nDon't let Tachyon-san get awayyyy!",
             "choice_data_list": [
                 "(M-Me...?!)",
                 "(M-Me...?!)"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Ah! Trainer over there! \nDon't let Tachyon-san get awayyyy!"
         },
         {
             "name": "Agnes Tachyon",
@@ -122,29 +122,29 @@
             "text": "...Hmm, it seems you have recovered some of your memories."
         },
         {
-            "text": "After regaining memory, I realize that the girl in front of me is \nthe one responsible for filling a whole classroom with smoke...",
             "choice_data_list": [
                 "Why would you do that...?"
-            ]
+            ],
+            "text": "After regaining memory, I realize that the girl in front of me is \nthe one responsible for filling a whole classroom with smoke..."
         },
         {
             "name": "Agnes Tachyon",
             "text": "What a strange question to ask. \nThere's no other answer to this than \"it's part of my research\"!"
         },
         {
-            "text": "When Agnes Tachyon said \"research,\" \na mysterious sparkle appeared in her eyes.",
             "choice_data_list": [
                 "(I have a bad feeling about this...)"
-            ]
+            ],
+            "text": "When Agnes Tachyon said \"research,\" \na mysterious sparkle appeared in her eyes."
         },
         {
             "text": "It's best to not get involved with her. \nI was about to stand up when I realized—"
         },
         {
-            "text": "*creak*",
             "choice_data_list": [
                 "Huh?! I can't move?!"
-            ]
+            ],
+            "text": "*creak*"
         },
         {
             "text": "I got tied to the chair without noticing...!"
@@ -158,18 +158,18 @@
             "text": "Nevertheless, I shall kindly advise you to \nkeep an eye on your surroundings at all times."
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult male test subject.",
             "choice_data_list": [
                 "T-Test subject...?!"
-            ]
+            ],
+            "name": "Agnes Tachyon",
+            "text": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult male test subject."
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult female test subject.",
             "choice_data_list": [
                 "T-Test subject...?!"
-            ]
+            ],
+            "name": "Agnes Tachyon",
+            "text": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult female test subject."
         },
         {
             "name": "Agnes Tachyon",
@@ -184,22 +184,22 @@
             "text": "Despite all of that— Hahaha! \nA total newcomer who has never heard of the rumors about me \nmanifested right in front of my eyes! What are the chances?"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "And so, little guinea pig—I mean, Rookie Trainer.",
             "choice_data_list": [
                 "Did you just call me a guinea pig?!"
-            ]
+            ],
+            "name": "Agnes Tachyon",
+            "text": "And so, little guinea pig—I mean, Rookie Trainer."
         },
         {
             "name": "Agnes Tachyon",
             "text": "A fully grown adult mustn't worry about such trivial matters!"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "That aside, I'll be giving you a— Actually, since you're \nbig and strong, I'll be giving you three pills to take.",
             "choice_data_list": [
                 "What are these pills for...?"
-            ]
+            ],
+            "name": "Agnes Tachyon",
+            "text": "That aside, I'll be giving you a— Actually, since you're \nbig and strong, I'll be giving you three pills to take."
         },
         {
             "name": "Agnes Tachyon",

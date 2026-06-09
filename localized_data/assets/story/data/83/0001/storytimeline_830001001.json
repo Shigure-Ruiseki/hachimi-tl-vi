@@ -1,5 +1,4 @@
 {
-    "title": "Dance in Cleats!",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -137,5 +136,6 @@
         {
             "text": "President! Okay, I will!"
         }
-    ]
+    ],
+    "title": "Dance in Cleats!"
 }

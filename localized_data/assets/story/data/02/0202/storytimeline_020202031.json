@@ -14,12 +14,12 @@
             "text": "To run one step farther!"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "Follow me, Cesario!",
             "choice_data_list": [
                 "Cesario, give it your all!",
                 "Cesario, give it your all!"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "Follow me, Cesario!"
         },
         {
             "name": "Cesario",

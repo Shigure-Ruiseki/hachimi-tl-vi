@@ -2,10 +2,10 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "A day off. While wandering around the shopping \ndistrict, I suddenly smelled something nice. A \nsweets shop. Seems like it's freshly baked cookies.",
             "choice_data_list": [
                 "The color is nice and it looks good!"
-            ]
+            ],
+            "text": "A day off. While wandering around the shopping \ndistrict, I suddenly smelled something nice. A \nsweets shop. Seems like it's freshly baked cookies."
         },
         {
             "name": "Sweets Store Clerk",
@@ -37,10 +37,10 @@
             "text": "That's right! Trainer, let's go search for Marvelous together! \nWe'll go search the world for a new Marvelous☆★☆"
         },
         {
-            "text": "Searching for Marvelous, huh. It sounds interesting. \nThat brilliant world that she sees――I want to get \na feel for that \"Marvelous\" world.",
             "choice_data_list": [
                 "I'll take you up on that offer"
-            ]
+            ],
+            "text": "Searching for Marvelous, huh. It sounds interesting. \nThat brilliant world that she sees――I want to get \na feel for that \"Marvelous\" world."
         },
         {
             "name": "Marvelous Sunday",
@@ -73,11 +73,11 @@
             "text": "Girly, you really do get it, huh……!"
         },
         {
-            "name": "Old Man A",
-            "text": "It's all about that trunk! It took 20 years to get like that! \nI used a wire to arrange it in to that shape.",
             "choice_data_list": [
                 "20 years! That's alot of time and effort!"
-            ]
+            ],
+            "name": "Old Man A",
+            "text": "It's all about that trunk! It took 20 years to get like that! \nI used a wire to arrange it in to that shape."
         },
         {
             "name": "Marvelous Sunday",
@@ -137,12 +137,12 @@
             "text": "Ah, Onee-chan, I found you! \nAnd you're underneath there, aren't you!?"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Marvelous☆ You found us already~! \nYou're really good at hide and seek, huh!",
             "choice_data_list": [
                 "Hide and seek genius!",
                 "Hide and seek genius!"
-            ]
+            ],
+            "name": "Marvelous Sunday",
+            "text": "Marvelous☆ You found us already~! \nYou're really good at hide and seek, huh!"
         },
         {
             "name": "Girl A",
@@ -169,11 +169,11 @@
             "text": "I won't either! See you!"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "To think you'd make so many friends in just one day! \nYou really are Maaaaaarvelous☆",
             "choice_data_list": [
                 "A genius at making friends too?"
-            ]
+            ],
+            "name": "Marvelous Sunday",
+            "text": "To think you'd make so many friends in just one day! \nYou really are Maaaaaarvelous☆"
         },
         {
             "name": "Girl A",
@@ -188,11 +188,11 @@
             "text": "Haaa~~~! It was all sparkly, lucky, and happy! \nAs I thought, the world is overflowing with Marvelous☆"
         },
         {
-            "text": "She was the one that was Marvelous. Because \nshe was there, her surroundings would naturally \nshine. Today's events reaffirmed that.",
             "choice_data_list": [
                 "I think it's because of you",
                 "I think it's because of you"
-            ]
+            ],
+            "text": "She was the one that was Marvelous. Because \nshe was there, her surroundings would naturally \nshine. Today's events reaffirmed that."
         },
         {
             "name": "Marvelous Sunday",
@@ -215,12 +215,12 @@
             "text": "That's why today, was even more Marvelous! \nThe first time I've seen such a shiny, sparkly Marvelous☆★☆"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "I could feel that the world was overflowing with Marvelous―― \nYeah, it was really Marvelous☆ Ahahaa!!",
             "choice_data_list": [
                 "I'm Marvelous?",
                 "I'm Marvelous?"
-            ]
+            ],
+            "name": "Marvelous Sunday",
+            "text": "I could feel that the world was overflowing with Marvelous―― \nYeah, it was really Marvelous☆ Ahahaa!!"
         },
         {
             "name": "Marvelous Sunday",

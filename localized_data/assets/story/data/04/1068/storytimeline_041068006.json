@@ -5,11 +5,11 @@
             "text": "In addition to early morning training, \nKitasan Black was diligent in training even during her free time."
         },
         {
-            "name": "Kitasan Black",
-            "text": "Haa, haa… Not yet! \nTrainer-san, please let me continue like this!",
             "choice_data_list": [
                 "It's about time to take a break"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Haa, haa… Not yet! \nTrainer-san, please let me continue like this!"
         },
         {
             "name": "Kitasan Black",
@@ -26,20 +26,20 @@
             "text": "[I don't want to waste Trainer-san's time]"
         },
         {
-            "text": "…Perhaps, the training menu I put together for Kitasan Black \nmade her feel a sense of impatience from me.",
             "choice_data_list": [
                 "(I can't let things continue like this…)"
-            ]
+            ],
+            "text": "…Perhaps, the training menu I put together for Kitasan Black \nmade her feel a sense of impatience from me."
         },
         {
             "text": "I don't want her to feel rushed. I want Kitasan Black to run \nwith peace of mind, in a way that she feels is her own-"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Eh? Tomorrow, we're going to… look at the autumn leaves? I \nthought we were going to be training, but that seems so sudden…",
             "choice_data_list": [
                 "I thought it'd be a good change of pace"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Eh? Tomorrow, we're going to… look at the autumn leaves? I \nthought we were going to be training, but that seems so sudden…"
         },
         {
             "name": "Kitasan Black",
@@ -85,12 +85,12 @@
             "text": "I had my friend draw me a map but, \nI'm not too familiar with this area…"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Just a second. Since this is the station, um… \nah, it's a little complicated. It's a little far so, I'll-",
             "choice_data_list": [
                 "We'll guide you",
                 "We'll guide you"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Just a second. Since this is the station, um… \nah, it's a little complicated. It's a little far so, I'll-"
         },
         {
             "name": "Kitasan Black",
@@ -117,18 +117,18 @@
             "text": "Oh, sorry for startling you. I wanted to get \nsome souvenirs for my grandson, and ended up buying too much…"
         },
         {
-            "name": "Kitasan Black",
-            "text": "You want to put that on the overhead storage, right? \nIn that case, leave it to-",
             "choice_data_list": [
                 "And up it goes!"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "You want to put that on the overhead storage, right? \nIn that case, leave it to-"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Ah…",
             "choice_data_list": [
                 "Let me know when it's your stop"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Ah…"
         },
         {
             "name": "Elder Man",
@@ -158,18 +158,18 @@
             "text": "Looks like the autumn leaves were a good choice. But, keeping up \nwith the ever lively Kitasan Black's pace, was quite hard-"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Aaaah, you're sweating alot… \nA-are you okay, Trainer-san?",
             "choice_data_list": [
                 "I'll be fine after a short rest"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Aaaah, you're sweating alot… \nA-are you okay, Trainer-san?"
         },
         {
-            "name": "Kitasan Black",
-            "text": "… \n…I'm sorry!",
             "choice_data_list": [
                 "? For what?"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "… \n…I'm sorry!"
         },
         {
             "name": "Kitasan Black",
@@ -180,10 +180,10 @@
             "text": "On top of that, on the way here… well, helping people… \neven Trainer-san ended up helping me out."
         },
         {
-            "text": "Since she was helping people nearby, I was helping as \nmuch as possible without getting in the way. Besides-",
             "choice_data_list": [
                 "I was glad I could help you"
-            ]
+            ],
+            "text": "Since she was helping people nearby, I was helping as \nmuch as possible without getting in the way. Besides-"
         },
         {
             "name": "Kitasan Black",
@@ -194,22 +194,22 @@
             "text": "…Wait, that's not it! No, well, \non the other hand, that made me very happy too!"
         },
         {
-            "name": "Kitasan Black",
-            "text": "But, it's just that I wanted Trainer-san to rest too, \nyou're probably fatigued from our normal days too, so-",
             "choice_data_list": [
                 "Guess I need to build up some stamina…"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "But, it's just that I wanted Trainer-san to rest too, \nyou're probably fatigued from our normal days too, so-"
         },
         {
             "name": "Kitasan Black",
             "text": "Kuuuuuuu! You have plenty, you're fine…!"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Everyday, you're helping out with my training, \nand when I go running off campus, you're there on a bike…!",
             "choice_data_list": [
                 "It's normal for a trainer"
-            ]
+            ],
+            "name": "Kitasan Black",
+            "text": "Everyday, you're helping out with my training, \nand when I go running off campus, you're there on a bike…!"
         },
         {
             "name": "Kitasan Black",

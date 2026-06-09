@@ -14,11 +14,11 @@
             "text": "Excellent! Then I have but one thing to say."
         },
         {
-            "name": "Director Akikawa",
-            "text": "Believe in the strength of your horse girl,\nand grasp victory together!",
             "choice_data_list": [
                 "Yes…!"
-            ]
+            ],
+            "name": "Director Akikawa",
+            "text": "Believe in the strength of your horse girl,\nand grasp victory together!"
         },
         {
             "text": "The gate to the finals of the\nURA Finals is finally open!"

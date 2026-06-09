@@ -5,10 +5,10 @@
             "text": "It'd been a while since I'd officially became a trainer at \nTracen Academy. And today―"
         },
         {
-            "text": "(gorogorogorogorogoro…!!)",
             "choice_data_list": [
                 "My… my stomach… hurts!!"
-            ]
+            ],
+            "text": "(gorogorogorogorogoro…!!)"
         },
         {
             "text": "I was in an awful state, and ended up \nstumbling my way in to the hospital."
@@ -126,29 +126,29 @@
             "text": "Because of that, even though she's trying to get started, she's \nhad to withdraw from several Selection Races, and has had to \ntake many days off from training―"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "As a result, she's never been scouted and has yet to debut. \nAnd the evaluations of other trainers… hasn't been too positive either.",
             "choice_data_list": [
                 "Is that so…"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "As a result, she's never been scouted and has yet to debut. \nAnd the evaluations of other trainers… hasn't been too positive either."
         },
         {
             "name": "Tazuna Hayakawa",
             "text": "I… believe she's someone with talent. \nShe's an Uma Musume from the famous Mejiro \nfamily, so she definitely has the potential."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "It's just that her body is a bit fragile… On top of that, there's \nher older sister as well.",
             "choice_data_list": [
                 "'Older sister'?"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "It's just that her body is a bit fragile… On top of that, there's \nher older sister as well."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Even as a new trainer, I'm sure you're familiar with the name. \nOne of the Mejiro family's most prominent — Mejiro Ramone.",
             "choice_data_list": [
                 "…!"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "Even as a new trainer, I'm sure you're familiar with the name. \nOne of the Mejiro family's most prominent — Mejiro Ramone."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -159,22 +159,22 @@
             "text": "On top of that, being the first one to ever earn the 'Triple Tiara'."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "There's no shortage of anecdotes, about the glory of the \noutstanding and strong older sister… and Ardan being \novershadowed, but still chasing after her.",
             "choice_data_list": [
                 "I see…"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "There's no shortage of anecdotes, about the glory of the \noutstanding and strong older sister… and Ardan being \novershadowed, but still chasing after her."
         },
         {
             "name": "Tazuna Hayakawa",
             "text": "Ardan herself, is truly doing her utmost but…"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "<i>At this rate, next time will probably be the last-</i>",
             "choice_data_list": [
                 "Ehh?"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "<i>At this rate, next time will probably be the last-</i>"
         },
         {
             "name": "Tazuna Hayakawa",

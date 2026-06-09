@@ -6,10 +6,10 @@
             "text": "Would you like to go to tonight's \nfireworks festival with me?"
         },
         {
-            "text": "It was early afternoon in the middle of our summer \ntraining camp, when Mihono Bourbon came up to me \nand asked that question.",
             "choice_data_list": [
                 "O-Of course!"
-            ]
+            ],
+            "text": "It was early afternoon in the middle of our summer \ntraining camp, when Mihono Bourbon came up to me \nand asked that question."
         },
         {
             "text": "I was surprised by her sudden request. That's a first! \nI immediately took her up on her offer without a second \nthought. And so..."
@@ -23,25 +23,25 @@
             "text": "What would you like to do? There is shooting, die cutting, \ngoldfish scooping, yo-yo fishing, ring tossing, a lottery, \nstring pulling, box punching and melon splitting."
         },
         {
-            "text": "Inviting me out and doing so much research \nbeforehand... The usually reserved Mihono Bourbon \nis exploding with enthusiasm today.",
             "choice_data_list": [
                 "You sure love festivals.",
                 "You sure love festivals."
-            ]
+            ],
+            "text": "Inviting me out and doing so much research \nbeforehand... The usually reserved Mihono Bourbon \nis exploding with enthusiasm today."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Incorrect. 'Love' is not it. Neither is 'hate.' My feelings \ntoward festivals can be quantified as 'normal.'",
             "choice_data_list": [
                 "Why are you so enthusiastic, then?"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "Incorrect. 'Love' is not it. Neither is 'hate.' My feelings \ntoward festivals can be quantified as 'normal.'"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...... \nI am merely increasing the time interacting with you \nby spending 'a fun time' with you, Master.",
             "choice_data_list": [
                 "Huh?"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "...... \nI am merely increasing the time interacting with you \nby spending 'a fun time' with you, Master."
         },
         {
             "name": "Mihono Bourbon",
@@ -52,10 +52,10 @@
             "text": "But... Perhaps my understanding was wrong."
         },
         {
-            "text": "I'm surprised to hear her speak less formal. \nFrom the corner of my eye, I spotted the head of \na bunny plush sticking out of her pocket.",
             "choice_data_list": [
                 "Hey, is that..."
-            ]
+            ],
+            "text": "I'm surprised to hear her speak less formal. \nFrom the corner of my eye, I spotted the head of \na bunny plush sticking out of her pocket."
         },
         {
             "text": "It was the bunny we won at the arcade the other day."
@@ -69,11 +69,11 @@
             "text": "It helps my motivation stay up during training and \nstudying. I never expected it to have such an effect..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "So I was thinking... That maybe the 'fun' you helped \nme experience back then really <i>does</i> have meaning...",
             "choice_data_list": [
                 "...!"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "So I was thinking... That maybe the 'fun' you helped \nme experience back then really <i>does</i> have meaning..."
         },
         {
             "name": "Mihono Bourbon",
@@ -84,10 +84,10 @@
             "text": "Were perhaps supposed to be... \nInterpreted a little... softer than that."
         },
         {
-            "text": "I'm speechless at her personal growth. She combined her \nexperiences like a puzzle to reach the conclusion on her \nown, even if things didn't always work out right away.",
             "choice_data_list": [
                 "Let's make today unforgettable!"
-            ]
+            ],
+            "text": "I'm speechless at her personal growth. She combined her \nexperiences like a puzzle to reach the conclusion on her \nown, even if things didn't always work out right away."
         },
         {
             "text": "I pulled myself together and take the flustered \nMihono Bourbon towards the crowded festival."
@@ -100,18 +100,18 @@
             "text": "*bang*"
         },
         {
-            "name": "Shooting Gallery",
-            "text": "Wow, you got it! \nYou're a natural, my man!",
             "choice_data_list": [
                 "Only thanks to her instructions."
-            ]
+            ],
+            "name": "Shooting Gallery",
+            "text": "Wow, you got it! \nYou're a natural, my man!"
         },
         {
-            "name": "Shooting Gallery",
-            "text": "Wow, you got it! \nYou're a natural, m'lady!",
             "choice_data_list": [
                 "Only thanks to her instructions."
-            ]
+            ],
+            "name": "Shooting Gallery",
+            "text": "Wow, you got it! \nYou're a natural, m'lady!"
         },
         {
             "name": "Shooting Gallery",
@@ -171,17 +171,17 @@
             "text": "The little horse girl seemed in shock after \nhearing those words come from Bourbon."
         },
         {
-            "text": "Mihono Bourbon has come a long way. She finally \nunderstands what it's like to 'have fun' with others. \n...Wait a minute.",
             "choice_data_list": [
                 "Go play with her."
-            ]
+            ],
+            "text": "Mihono Bourbon has come a long way. She finally \nunderstands what it's like to 'have fun' with others. \n...Wait a minute."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "But...",
             "choice_data_list": [
                 "I'm sure it'll be 'fun!'"
-            ]
+            ],
+            "name": "Mihono Bourbon",
+            "text": "But..."
         },
         {
             "name": "Mihono Bourbon",

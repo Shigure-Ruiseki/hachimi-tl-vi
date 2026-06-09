@@ -1,5 +1,4 @@
 {
-    "title": "Letters → Feelings → ?",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -98,5 +97,6 @@
             "name": "Monologue",
             "text": "Despite being rejected, Taiki Shuttle\nfollows Silence Suzuka around for the\nrest of the day, trying to make her smile\nagain."
         }
-    ]
+    ],
+    "title": "Letters → Feelings → ?"
 }

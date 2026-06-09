@@ -9,11 +9,11 @@
             "text": "On a day off, I was heading out to go shopping \nwhen I bumped in to Smart Falcon."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Trainer-san, are you heading out too? \nYou see, Falco's heading out to go gather some 『Input』♪",
             "choice_data_list": [
                 "What kind of input?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Trainer-san, are you heading out too? \nYou see, Falco's heading out to go gather some 『Input』♪"
         },
         {
             "name": "Smart Falcon",
@@ -28,10 +28,10 @@
             "text": "That's why Falco has to do some studying! \nWith a full tank, full steam ahead, until the very end!"
         },
         {
-            "text": "……for some reason, I'm really worried.",
             "choice_data_list": [
                 "Can I help out?"
-            ]
+            ],
+            "text": "……for some reason, I'm really worried."
         },
         {
             "name": "Smart Falcon",
@@ -41,12 +41,12 @@
             "text": "First, we went to the movies and saw a musical."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Ughh…… that last scene was so good. \nTo think that the bartender was actually a descendant of Mozart……",
             "choice_data_list": [
                 "The singing and dancing was good too",
                 "The singing and dancing was good too"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Ughh…… that last scene was so good. \nTo think that the bartender was actually a descendant of Mozart……"
         },
         {
             "name": "Smart Falcon",
@@ -56,12 +56,12 @@
             "text": "Next we visited a popular theme park to see a parade."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Waaah! Look at that character! \nEven though they're so round, they can still move so sharply!",
             "choice_data_list": [
                 "The movements of a pro",
                 "The movements of a pro"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Waaah! Look at that character! \nEven though they're so round, they can still move so sharply!"
         },
         {
             "name": "Smart Falcon",
@@ -79,11 +79,11 @@
             "text": "Hyaaaa～! It's a rap battle……! It's the first time I've seen one \nin person…… i-it's really imposing!!"
         },
         {
-            "name": "Smart Falcon",
-            "text": "It's like the clashing of two personas, wouldn't \nyou say!? For an Umadol, a persona is a must \nbut, I don't think mine is as striking……",
             "choice_data_list": [
                 "You don't need to be like a rapper"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "It's like the clashing of two personas, wouldn't \nyou say!? For an Umadol, a persona is a must \nbut, I don't think mine is as striking……"
         },
         {
             "name": "Smart Falcon",
@@ -100,11 +100,11 @@
             "text": "When we passed by the station, we could hear the sound of intense \ndrumming. But there weren't any drums in sight, just an \nempty-handed performer."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Waaah!? An air drummer!!",
             "choice_data_list": [
                 "Air drummer……!?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Waaah!? An air drummer!!"
         },
         {
             "name": "Smart Falcon",
@@ -145,19 +145,19 @@
             "text": "No, I haven't……! I haven't become a traveling monk yet……! \nIsn't that right, Trainer-san……!?"
         },
         {
-            "text": "She had a desperate look on her face and her eyes seemed empty. \nJust like someone who had lost their way.",
             "choice_data_list": [
                 "You're wrong, snap out of it!",
                 "You're wrong, snap out of it!"
-            ]
+            ],
+            "text": "She had a desperate look on her face and her eyes seemed empty. \nJust like someone who had lost their way."
         },
         {
-            "name": "Smart Falcon",
-            "text": "―Hyaauu!?",
             "choice_data_list": [
                 "What do you want to become?",
                 "What do you want to become?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "―Hyaauu!?"
         },
         {
             "name": "Smart Falcon",
@@ -172,23 +172,23 @@
             "text": "……that's right. What Falco wants to be isn't \na traveling monk, a rapper, or an air drummer."
         },
         {
-            "name": "Smart Falcon",
-            "text": "What I want to be…… is an Umadol.",
             "choice_data_list": [
                 "Input is just used as a reference",
                 "Input is just used as a reference"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "What I want to be…… is an Umadol."
         },
         {
             "name": "Smart Falcon",
             "text": "……Thank you, Trainer-san. \nI almost forgot the most important thing."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Ehehe, it was a good thing you came with me. \nIf you hadn't, I'd probably be so confused right now.",
             "choice_data_list": [
                 "What impressed you the most?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Ehehe, it was a good thing you came with me. \nIf you hadn't, I'd probably be so confused right now."
         },
         {
             "name": "Smart Falcon",
@@ -203,11 +203,11 @@
             "text": "But everyone was so dignified, doing their best \nto follow their own path. That's why…… ah!"
         },
         {
-            "name": "Smart Falcon",
-            "text": "―Right! The thing that left the biggest impression \nwas the sparkle in their eyes!",
             "choice_data_list": [
                 "What do you mean?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "―Right! The thing that left the biggest impression \nwas the sparkle in their eyes!"
         },
         {
             "name": "Smart Falcon",

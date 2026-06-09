@@ -24,12 +24,12 @@
             "text": "Come to think of it, she was supposed to go to the summer \nfestival as part of her student council activities…"
         },
         {
-            "name": "Air Groove",
-            "text": "There are plenty of students who aren't used to the \nsudden change in environment outside of school. It's \nfor their safety, I have to get going.",
             "choice_data_list": [
                 "I'll come with you",
                 "I'll come with you"
-            ]
+            ],
+            "name": "Air Groove",
+            "text": "There are plenty of students who aren't used to the \nsudden change in environment outside of school. It's \nfor their safety, I have to get going."
         },
         {
             "name": "Air Groove",
@@ -40,11 +40,11 @@
             "text": "If you understand that much. Then come."
         },
         {
-            "name": "Air Groove",
-            "text": "Cotton candy, takoyaki, candy carrots… Good grief, the temptation \nfor students in training is too strong.",
             "choice_data_list": [
                 "I'll treat you!"
-            ]
+            ],
+            "name": "Air Groove",
+            "text": "Cotton candy, takoyaki, candy carrots… Good grief, the temptation \nfor students in training is too strong."
         },
         {
             "name": "Air Groove",
@@ -70,11 +70,11 @@
             "text": "How persistent."
         },
         {
-            "text": "The situation getting on Air Groove's nerves worried me and \nwithout realizing it, I took a step forward.",
             "choice_data_list": [
                 "I'll handle this…!",
                 "I'll handle this…!"
-            ]
+            ],
+            "text": "The situation getting on Air Groove's nerves worried me and \nwithout realizing it, I took a step forward."
         },
         {
             "name": "Air Groove",
@@ -145,12 +145,12 @@
             "text": "From the hill grounds, I could see the night view \nof the city. Away from the crowd of the summer festival, \nonly the sounds of fireworks echoed."
         },
         {
-            "name": "Air Groove",
-            "text": "That flower too, finally bloomed thanks to the efforts of those \naround it. It's truly something to learn from.",
             "choice_data_list": [
                 "If it's you, I think even fireworks will bloom",
                 "If it's you, I think even fireworks will bloom"
-            ]
+            ],
+            "name": "Air Groove",
+            "text": "That flower too, finally bloomed thanks to the efforts of those \naround it. It's truly something to learn from."
         },
         {
             "name": "Air Groove",
@@ -161,11 +161,11 @@
             "text": "Ah… but even so一they're beautiful."
         },
         {
-            "text": "Air Groove narrows her eyes after saying that. \nThe colors of the fireworks reflecting in her eyes.",
             "choice_data_list": [
                 "Yeah, they are",
                 "Yeah, they are"
-            ]
+            ],
+            "text": "Air Groove narrows her eyes after saying that. \nThe colors of the fireworks reflecting in her eyes."
         },
         {
             "name": "Air Groove",
@@ -187,10 +187,10 @@
             "text": "Ah…"
         },
         {
-            "text": "Air Groove fell, probably by getting \nherself caught in the stone steps.",
             "choice_data_list": [
                 "Are you okay?"
-            ]
+            ],
+            "text": "Air Groove fell, probably by getting \nherself caught in the stone steps."
         },
         {
             "name": "Air Groove",
@@ -201,33 +201,33 @@
             "text": "No, actually."
         },
         {
-            "name": "Air Groove",
-            "text": "Do you think you could carry me?",
             "choice_data_list": [
                 "Of course!"
-            ]
+            ],
+            "name": "Air Groove",
+            "text": "Do you think you could carry me?"
         },
         {
             "text": "I kneeled in front of her and picked \nher up from the heel she fell on."
         },
         {
-            "name": "Air Groove",
-            "text": "……Hey.",
             "choice_data_list": [
                 "Hm?"
-            ]
+            ],
+            "name": "Air Groove",
+            "text": "……Hey."
         },
         {
             "name": "Air Groove",
             "text": "Just stay as you are, and answer me this,"
         },
         {
-            "name": "Air Groove",
-            "text": "In your eyes, just how is my figure reflected?",
             "choice_data_list": [
                 "You are the ideal \"Empress\"",
                 "You are the ideal \"Empress\""
-            ]
+            ],
+            "name": "Air Groove",
+            "text": "In your eyes, just how is my figure reflected?"
         },
         {
             "name": "Air Groove",

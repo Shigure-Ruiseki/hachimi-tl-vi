@@ -1,5 +1,4 @@
 {
-    "title": "Visions Admired",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -234,5 +233,6 @@
             "name": "All Together",
             "text": "Whooo!!"
         }
-    ]
+    ],
+    "title": "Visions Admired"
 }

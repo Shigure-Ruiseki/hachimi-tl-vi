@@ -5,20 +5,20 @@
             "text": "Gold City runs on the turf with her golden hair glistening under \nthe sunset. Her expression shows that she is serious."
         },
         {
-            "name": "Gold City",
-            "text": "Goal…! Heh, heh, heh…! T-Time! What is my time…!?",
             "choice_data_list": [
                 "Congratulations, it’s a record break.",
                 "Congratulations, it’s a record break."
-            ]
+            ],
+            "name": "Gold City",
+            "text": "Goal…! Heh, heh, heh…! T-Time! What is my time…!?"
         },
         {
-            "name": "Gold City",
-            "text": "For real!?…ahaha, it’s for real. I can do it…!",
             "choice_data_list": [
                 "That’s great, Gold City!",
                 "That’s great, Gold City!"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "For real!?…ahaha, it’s for real. I can do it…!"
         },
         {
             "name": "Gold City",
@@ -29,18 +29,18 @@
             "text": "Hey, Trainer. You’re sometimes too much, annoying, lacks \ndelicacy, and sometimes really irritating…"
         },
         {
-            "name": "Gold City",
-            "text": "But your profession as a trainer might be really suitable for \nyou. It’s what's called a vocation.",
             "choice_data_list": [
                 "Thank you"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "But your profession as a trainer might be really suitable for \nyou. It’s what's called a vocation."
         },
         {
-            "name": "Gold City",
-            "text": "Well, won’t be in trouble if you don’t feel like \nit!? I didn’t completely acknowledge you.",
             "choice_data_list": [
                 "I’ll do my best to keep you from abandoning me"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "Well, won’t be in trouble if you don’t feel like \nit!? I didn’t completely acknowledge you."
         },
         {
             "name": "Gold City",
@@ -122,27 +122,27 @@
             "text": "Gold City, stood then in silence. She seemed to \nbe thinking about it with a serious face."
         },
         {
-            "name": "Gold City",
-            "text": "…Hey, Trainer. You were convinced that I \nwas a Horse Girl who could run, right?",
             "choice_data_list": [
                 "Oh, yeah",
                 "Oh, yeah"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "…Hey, Trainer. You were convinced that I \nwas a Horse Girl who could run, right?"
         },
         {
-            "name": "Gold City",
-            "text": "I’m not just a beautiful doll. A woman who can win \non the turf… that’s what you believe, right?",
             "choice_data_list": [
                 "Of course!"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "I’m not just a beautiful doll. A woman who can win \non the turf… that’s what you believe, right?"
         },
         {
-            "name": "Gold City",
-            "text": "I see… ahaha… I decided. I’ve decided. \nI should have done it earlier.",
             "choice_data_list": [
                 "…What are you talking about?",
                 "…What are you talking about?"
-            ]
+            ],
+            "name": "Gold City",
+            "text": "I see… ahaha… I decided. I’ve decided. \nI should have done it earlier."
         },
         {
             "name": "Gold City",

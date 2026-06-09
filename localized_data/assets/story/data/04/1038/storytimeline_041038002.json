@@ -56,11 +56,11 @@
             "text": "Onee-chan! Listen to this ☆"
         },
         {
-            "name": "Curren Chan",
-            "text": "You see! I just signed up for the Grand Prix!",
             "choice_data_list": [
                 "Whaa!?"
-            ]
+            ],
+            "name": "Curren Chan",
+            "text": "You see! I just signed up for the Grand Prix!"
         },
         {
             "name": "Curren Chan",
@@ -75,10 +75,10 @@
             "text": "Onee-chan, I hope you'll cheer your heart out for me ♪ \nThat way I'll be able to give it my all!"
         },
         {
-            "text": "While I'm glad to see she's feeling motivated, \nfocusing on training for the Grand Prix \nmight make her neglect her normal training…",
             "choice_data_list": [
                 "What about your usual training…?"
-            ]
+            ],
+            "text": "While I'm glad to see she's feeling motivated, \nfocusing on training for the Grand Prix \nmight make her neglect her normal training…"
         },
         {
             "name": "Curren Chan",
@@ -89,11 +89,11 @@
             "text": "After all, it'll help me show \neveryone just how cute Curren is ♪"
         },
         {
-            "text": "Is she really only doing this for attention…? \nI feel like I still know nothing about who she really is.",
             "choice_data_list": [
                 "You'll do anything to enter, huh?",
                 "You'll do anything to enter, huh?"
-            ]
+            ],
+            "text": "Is she really only doing this for attention…? \nI feel like I still know nothing about who she really is."
         },
         {
             "name": "Curren Chan",
@@ -206,10 +206,10 @@
             "text": "Curren… Curren, I wish I \ndidn't have to see you like this…"
         },
         {
-            "text": "Perhaps the disappointment of her fans had reached her \nbecause Curren Chan stood there, slumped, at the finish line…",
             "choice_data_list": [
                 "Are you okay…?"
-            ]
+            ],
+            "text": "Perhaps the disappointment of her fans had reached her \nbecause Curren Chan stood there, slumped, at the finish line…"
         },
         {
             "name": "Curren Chan",

@@ -2,27 +2,27 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Rice Shower",
-            "text": "………………",
             "choice_data_list": [
                 "Ah, Rice, you're here already.",
                 "Ah, Rice, you're here already."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "………………"
         },
         {
-            "name": "Rice Shower",
-            "text": "Oh, big broth— I mean, Trainer! G-Good morning!",
             "choice_data_list": [
                 "What were you reading?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Oh, big broth— I mean, Trainer! G-Good morning!"
         },
         {
-            "name": "Rice Shower",
-            "text": "Oh, big sis— I mean, Trainer! G-Good morning!",
             "choice_data_list": [
                 "What were you reading?",
                 "What were you reading?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Oh, big sis— I mean, Trainer! G-Good morning!"
         },
         {
             "name": "Rice Shower",
@@ -45,19 +45,19 @@
             "text": "Before long, the blue rose, too, began to see \nits own existence as meaningless and slowly \nwithered under the weight of its misfortune…"
         },
         {
-            "name": "Rice Shower",
-            "text": "Ah, but you see, the story doesn't end there! \nBefore the blue rose wilts completely, a big \nbrotherly figure appears.",
             "choice_data_list": [
                 "A big brotherly figure?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Ah, but you see, the story doesn't end there! \nBefore the blue rose wilts completely, a big \nbrotherly figure appears."
         },
         {
-            "name": "Rice Shower",
-            "text": "Ah, but you see, the story doesn't end there! \nBefore the blue rose wilts completely, a big \nsisterly figure appears.",
             "choice_data_list": [
                 "A big brotherly figure?",
                 "A big sisterly figure?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Ah, but you see, the story doesn't end there! \nBefore the blue rose wilts completely, a big \nsisterly figure appears."
         },
         {
             "name": "Rice Shower",
@@ -80,19 +80,19 @@
             "text": "And thus, the wilting blue rose found new life in a fresh pot. \nWith daily tender nurture and encouragement from the kind, \nbig-sisterly woman, it had bloomed into a stunning flower."
         },
         {
-            "name": "Rice Shower",
-            "text": "Perched gracefully on the windowsill, the blue rose found new \nmeaning in life. Its vibrant hues extended a warm welcome \nto every passerby, filling them with joy and delight.",
             "choice_data_list": [
                 "That's a really nice story."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Perched gracefully on the windowsill, the blue rose found new \nmeaning in life. Its vibrant hues extended a warm welcome \nto every passerby, filling them with joy and delight."
         },
         {
-            "name": "Rice Shower",
-            "text": "Perched gracefully on the windowsill, the blue rose found new \nmeaning in life. Its vibrant hues extended a warm welcome \nto every passerby, filling them with joy and delight.",
             "choice_data_list": [
                 "That's a really nice story.",
                 "That's a really nice story."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Perched gracefully on the windowsill, the blue rose found new \nmeaning in life. Its vibrant hues extended a warm welcome \nto every passerby, filling them with joy and delight."
         },
         {
             "name": "Rice Shower",
@@ -127,12 +127,12 @@
             "text": "That's when I thought to myself… \nI want to be like that, too."
         },
         {
-            "name": "Rice Shower",
-            "text": "I didn't want to be a good-for-nothing who only \nbrings misfortune, but the kind of trainee who \ncan make everyone happy.",
             "choice_data_list": [
                 "I believe that you can pull it off.",
                 "I believe that you can pull it off."
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "I didn't want to be a good-for-nothing who only \nbrings misfortune, but the kind of trainee who \ncan make everyone happy."
         },
         {
             "name": "Rice Shower",
@@ -149,24 +149,24 @@
             "text": "Until eventually, the time had come…!"
         },
         {
-            "name": "Rice Shower",
-            "text": "Trainer, you said you had something important to say…?",
             "choice_data_list": [
                 "I've settled on your debut race!",
                 "I've settled on your debut race!"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Trainer, you said you had something important to say…?"
         },
         {
             "name": "Rice Shower",
             "text": "D-Debut race?!"
         },
         {
-            "name": "Rice Shower",
-            "text": "Then… that means Rice will be racing soon……",
             "choice_data_list": [
                 "…… Think you're up to it?",
                 "…… Think you're up to it?"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Then… that means Rice will be racing soon……"
         },
         {
             "name": "Rice Shower",
@@ -185,11 +185,11 @@
             "text": "Ah, this… this is a special spell my mother taught me. \nShe told me that if I say these words, I'll have the power \nto do anything!"
         },
         {
-            "name": "Rice Shower",
-            "text": "Would you like to try it with me, Trainer?",
             "choice_data_list": [
                 "We can do it, yeah～!!"
-            ]
+            ],
+            "name": "Rice Shower",
+            "text": "Would you like to try it with me, Trainer?"
         },
         {
             "name": "Rice Shower",
@@ -206,22 +206,22 @@
             "text": "…… At least, that's what I had thought."
         },
         {
-            "text": "On the day of the debut race ——",
             "choice_data_list": [
                 "(… Rice hasn't arrived yet?!)"
-            ]
+            ],
+            "text": "On the day of the debut race ——"
         },
         {
             "name": "Haru Urara",
             "text": "Ah! There you are～! ! \nHey, hey, aren't you Rice's trainer?"
         },
         {
-            "name": "Haru Urara",
-            "text": "Alrighty! Let's head over to the Miho dooorms～!!",
             "choice_data_list": [
                 "Hold on a minute! What's going on?!",
                 "Hold on a minute! What's going on?!"
-            ]
+            ],
+            "name": "Haru Urara",
+            "text": "Alrighty! Let's head over to the Miho dooorms～!!"
         },
         {
             "name": "Haru Urara",
@@ -240,11 +240,11 @@
             "text": "I heard a teeny tiny voice whispering \"… Trainer\" to herself!"
         },
         {
-            "name": "Haru Urara",
-            "text": "So I was thinking, maybe Rice wants you \nto find her and be like, \"I found you～!\"",
             "choice_data_list": [
                 "(…… Rice!)"
-            ]
+            ],
+            "name": "Haru Urara",
+            "text": "So I was thinking, maybe Rice wants you \nto find her and be like, \"I found you～!\""
         },
         {
             "name": "Haru Urara",
@@ -279,11 +279,11 @@
             "text": "Huh!? Urara…? What are you doing here…?!"
         },
         {
-            "name": "Haru Urara",
-            "text": "Hey umm, see? I brought your trainer \nalong, just like you wanted～!",
             "choice_data_list": [
                 "Rice, I want to talk to you."
-            ]
+            ],
+            "name": "Haru Urara",
+            "text": "Hey umm, see? I brought your trainer \nalong, just like you wanted～!"
         },
         {
             "name": "Rice Shower",

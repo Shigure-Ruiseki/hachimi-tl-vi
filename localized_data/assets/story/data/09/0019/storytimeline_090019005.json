@@ -1,5 +1,4 @@
 {
-    "title": "The Search",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -222,5 +221,6 @@
             "name": "Mejiro Ardan",
             "text": "Let's give it our best together. The answers we seek \nare surely somewhere in here."
         }
-    ]
+    ],
+    "title": "The Search"
 }

@@ -10,11 +10,11 @@
             "text": "Neo Universe wants to be recognized. \nHow will you――\"Interact\" with 『Me』?"
         },
         {
-            "text": "I'm not even sure what it is I want to do. \nBut, at the very least, I wanted Neo Universe to understand me.",
             "choice_data_list": [
                 "Who are you, and what do you want to do?",
                 "Who are you, and what do you want to do?"
-            ]
+            ],
+            "text": "I'm not even sure what it is I want to do. \nBut, at the very least, I wanted Neo Universe to understand me."
         },
         {
             "text": "If I didn't know at least that much, then I \ncouldn't help her. Even if she wouldn't reveal her \ntrue identity, I wanted to at least know her goal."
@@ -31,11 +31,11 @@
             "text": "……It seemed like there was something she wanted to do, but I had \nno clue what she meant. Was it difficult to put in to words?"
         },
         {
-            "name": "Neo Universe",
-            "text": "First, I'd like to――\"Converse\" with you.",
             "choice_data_list": [
                 "……Got it."
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "First, I'd like to――\"Converse\" with you."
         },
         {
             "text": "At the very least, I understood those words. \nNeo Universe was seeking an interaction between us."
@@ -44,10 +44,10 @@
             "text": "Which meant……we would have to understand each \nother. I decided to take her to see places she \nprobably had never seen outside of school."
         },
         {
-            "text": "First, to a Ramen shop.",
             "choice_data_list": [
                 "This is Tonkotsu Ramen"
-            ]
+            ],
+            "text": "First, to a Ramen shop."
         },
         {
             "name": "Neo Universe",
@@ -61,24 +61,24 @@
             "text": "It seemed like the concept of food was something she was \nfamiliar with. After starting with the basics, next was……"
         },
         {
-            "name": "Neo Universe",
-            "text": "This is……a \"Sanctuary\"?",
             "choice_data_list": [
                 "Right, it's a zoo",
                 "Right, it's a zoo"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "This is……a \"Sanctuary\"?"
         },
         {
             "name": "Neo Universe",
             "text": "A place to observe――various creatures――"
         },
         {
-            "name": "Neo Universe",
-            "text": "When seeing 『Cute』, Neo Universe \nfeels bliss……In other words, 『Excited』.",
             "choice_data_list": [
                 "You like animals, huh?",
                 "You like animals, huh?"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "When seeing 『Cute』, Neo Universe \nfeels bliss……In other words, 『Excited』."
         },
         {
             "name": "Neo Universe",
@@ -88,22 +88,22 @@
             "text": "Seems like we were gradually beginning to understand each other. \nShe was even able to show me something like a slight smile."
         },
         {
-            "name": "Neo Universe",
-            "text": "Today……『Fun』 was experienced.",
             "choice_data_list": [
                 "Yeah, me too",
                 "Yeah, me too"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "Today……『Fun』 was experienced."
         },
         {
             "text": "I was able to make more progress than I expected. \nHer words have become easier to understand, so now……"
         },
         {
-            "text": "Maybe I could get a clearer answer about \nwhat she was, and what she wanted to do.",
             "choice_data_list": [
                 "Neo Universe, um……you……",
                 "Neo Universe, um……you……"
-            ]
+            ],
+            "text": "Maybe I could get a clearer answer about \nwhat she was, and what she wanted to do."
         },
         {
             "name": "???",
@@ -121,29 +121,29 @@
             "text": "Zenno……Rob Roy……"
         },
         {
-            "name": "Neo Universe",
-            "text": "I'm \"Familiar\"……with that existence. \nI'm indebted to you, it seems.",
             "choice_data_list": [
                 "You know Neo Universe?",
                 "You know Neo Universe?"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "I'm \"Familiar\"……with that existence. \nI'm indebted to you, it seems."
         },
         {
             "name": "Zenno Rob Roy",
             "text": "Yes, of course! \nAfter all, Uni-san is……"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "A student at Tracen Academy, after all!",
             "choice_data_list": [
                 "A student……at Tracen?"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "A student at Tracen Academy, after all!"
         },
         {
-            "text": "I finally got my first bit of information about \nthis mysterious girl in front of me. Neo Universe \nwas an Uma Musume from Tracen Academy……",
             "choice_data_list": [
                 "I've never seen her wearing the uniform……"
-            ]
+            ],
+            "text": "I finally got my first bit of information about \nthis mysterious girl in front of me. Neo Universe \nwas an Uma Musume from Tracen Academy……"
         },
         {
             "name": "Neo Universe",
@@ -157,10 +157,10 @@
             "text": "Seeing her like that, I was convinced. In the end, \nNeo Universe was just an ordinary Tracen Academy student……"
         },
         {
-            "text": "No, she wasn't ordinary. Her behavior was too eccentric for that. \nJust what kind of Uma Musume was she?",
             "choice_data_list": [
                 "Rob Roy, do you know anything about her?"
-            ]
+            ],
+            "text": "No, she wasn't ordinary. Her behavior was too eccentric for that. \nJust what kind of Uma Musume was she?"
         },
         {
             "name": "Zenno Rob Roy",
@@ -203,19 +203,19 @@
             "text": "That day――that encounter on the roof. If she hadn't come \nfrom the sky, just how did she get on the locked roof?"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Trainer-san, is something wrong?",
             "choice_data_list": [
                 "There was one thing I was curious about……",
                 "There was one thing I was curious about……"
-            ]
+            ],
+            "name": "Zenno Rob Roy",
+            "text": "Trainer-san, is something wrong?"
         },
         {
-            "text": "But maybe this topic was……better to \ndiscuss in private between the two of us.",
             "choice_data_list": [
                 "Neo Universe, can you come with me?",
                 "Neo Universe, can you come with me?"
-            ]
+            ],
+            "text": "But maybe this topic was……better to \ndiscuss in private between the two of us."
         },
         {
             "text": "After parting ways with Zenno Rob Roy, \nthe two of us headed towards a particular place."
@@ -224,32 +224,32 @@
             "text": "――The roof at night. \nThe place I had made first contact with Neo Universe."
         },
         {
-            "text": "That day, how did Neo Universe get on to the roof?",
             "choice_data_list": [
                 "The door should have been locked……"
-            ]
+            ],
+            "text": "That day, how did Neo Universe get on to the roof?"
         },
         {
             "name": "Neo Universe",
             "text": "……………………"
         },
         {
-            "name": "Neo Universe",
-            "text": "……\"MUTX\".",
             "choice_data_list": [
                 "……?"
-            ]
+            ],
+            "name": "Neo Universe",
+            "text": "……\"MUTX\"."
         },
         {
             "name": "Neo Universe",
             "text": "……it was \"MUTX\". \nNeo Universe's……first……"
         },
         {
-            "text": "Another fragmented word. But I was somehow able to \nfigure it out. Perhaps, on that day, Neo Universe was……",
             "choice_data_list": [
                 "Were you……here with someone else?",
                 "Were you……here with someone else?"
-            ]
+            ],
+            "text": "Another fragmented word. But I was somehow able to \nfigure it out. Perhaps, on that day, Neo Universe was……"
         },
         {
             "name": "Neo Universe",

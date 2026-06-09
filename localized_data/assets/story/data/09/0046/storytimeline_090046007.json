@@ -1,5 +1,4 @@
 {
-    "title": "A Surprise for You Too",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -222,5 +221,6 @@
             "name": "Crown & Cheval",
             "text": "……<i>Hehehe</i>."
         }
-    ]
+    ],
+    "title": "A Surprise for You Too"
 }

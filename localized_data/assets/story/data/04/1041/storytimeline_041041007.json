@@ -25,11 +25,11 @@
             "text": "Why wouldn't they? But I'm more of a candy plum kinda girl. \nYou know, the bite sized ones? They're so cute!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "… Hmm, a festival? \nYou mean there's a festival tonight?!",
             "choice_data_list": [
                 "Guess we'll check it out after training."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "… Hmm, a festival? \nYou mean there's a festival tonight?!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -57,35 +57,35 @@
             "text": "Indeed, the festival would likely be even more crowded. \nI'm suddenly getting worried about losing Sakura Bakushin O……"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Thank you for waiting, trainer! I'm ready to go! \nLet's head straight for the festival then!",
             "choice_data_list": [
                 "Just promise me something."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Thank you for waiting, trainer! I'm ready to go! \nLet's head straight for the festival then!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Yessir, what do I promise?",
             "choice_data_list": [
                 "Be careful and don't get separated, alright?",
                 "Be careful and don't get separated, alright?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Yessir, what do I promise?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "But of course! \nAs class president, I was intending to do just that!",
             "choice_data_list": [
                 "Should we do get separated, check your phone.",
                 "Should we do get separated, check your phone."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "But of course! \nAs class president, I was intending to do just that!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Ooh, \"keep in touch\", as they say!! \nVery well, know you can rely on the class president!!",
             "choice_data_list": [
                 "… You do have a phone, right?",
                 "… You do have a phone, right?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Ooh, \"keep in touch\", as they say!! \nVery well, know you can rely on the class president!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -115,19 +115,19 @@
             "text": "I'm starting to reeaaally look forward to this!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "No time like the present! Let's go check out all the stalls! \nReady? Gooo—",
             "choice_data_list": [
                 "Hold it…!!",
                 "Hold up…!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "No time like the present! Let's go check out all the stalls! \nReady? Gooo—"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "—Bakushiiiiiiin!!!!",
             "choice_data_list": [
                 "Don't just run off!!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "—Bakushiiiiiiin!!!!"
         },
         {
             "text": "I quickly reached for her, but it was too late. \nSakura Bakushin O disappeared full speed into the crowd……"
@@ -158,23 +158,23 @@
             "text": "Traaaiineeeer, where are youuuuu!!!?? \nMy phone's screen has gone black!!!"
         },
         {
-            "text": "Her phone screen is black, she says… \nAnd mine hasn't made a peep. So…",
             "choice_data_list": [
                 "Turn the thing on!!",
                 "Turn the thing on!!"
-            ]
+            ],
+            "text": "Her phone screen is black, she says… \nAnd mine hasn't made a peep. So…"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Howha!? Come to think of it, the power is…… hmmmhhmhm!? \nTrainer! How nice to hear you!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I'm so grateful you came to me!! \nI was afraid I'd never see you again!",
             "choice_data_list": [
                 "At least you tried to contact me…",
                 "At least you tried to contact me…"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "I'm so grateful you came to me!! \nI was afraid I'd never see you again!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -189,11 +189,11 @@
             "text": "And I know your words are always correct and righteous, trainer!!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Indeed, they are just like me!!",
             "choice_data_list": [
                 "I'm glad I found you."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Indeed, they are just like me!!"
         },
         {
             "name": "Sakura Bakushin O",

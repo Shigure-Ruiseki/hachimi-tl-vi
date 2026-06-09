@@ -1,5 +1,4 @@
 {
-    "title": "Autumn's Advent",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -191,5 +190,6 @@
             "name": "All Together",
             "text": "We look forward to receiving your teachings!!"
         }
-    ]
+    ],
+    "title": "Autumn's Advent"
 }

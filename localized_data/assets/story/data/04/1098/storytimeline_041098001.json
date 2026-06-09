@@ -69,12 +69,12 @@
             "text": "Ah, you over there. \nYou're a trainer……right?"
         },
         {
-            "name": "Copano Rickey",
-            "text": "How about it? How about trying out \"Feng Shui\" with me? \nYou're interested right, right? Right?",
             "choice_data_list": [
                 "No, well…… I'm good.",
                 "No, well…… I'm good."
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "How about it? How about trying out \"Feng Shui\" with me? \nYou're interested right, right? Right?"
         },
         {
             "name": "Copano Rickey",
@@ -100,12 +100,12 @@
             "text": "That sense of pressure when you're sleeping, the 『Horizontal \nPressure』, and the perceived 『Lack of Wealth』 are alleviated. \nEven if it's unconsciously, see!?"
         },
         {
-            "name": "Copano Rickey",
-            "text": "How was it? Amazing right? After listening to me you \nwant to learn more! You want to expand your horizons, right?",
             "choice_data_list": [
                 "No, I don't particularly feel that way……",
                 "No, I don't particularly feel that way……"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "How was it? Amazing right? After listening to me you \nwant to learn more! You want to expand your horizons, right?"
         },
         {
             "name": "Copano Rickey",
@@ -116,11 +116,11 @@
             "text": "Hmmmm, was it still hard to understand……? \nHow can I express the splendor of Feng Shui even more simply……?"
         },
         {
-            "text": "……it's not that her explanation was bad. It's just, no matter how \nI thought about it, it didn't feel like something I should \nfrivolously believe in.",
             "choice_data_list": [
                 "I'm heading off. Do your best out there",
                 "I'm heading off. Do your best out there"
-            ]
+            ],
+            "text": "……it's not that her explanation was bad. It's just, no matter how \nI thought about it, it didn't feel like something I should \nfrivolously believe in."
         },
         {
             "name": "Copano Rickey",
@@ -144,12 +144,12 @@
             "text": "-And then, the next day."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Aha, I knew you'd come and take a look! You pretended \nnot to be interested but, really, you were super \ninterested in Feng Shui, right?",
             "choice_data_list": [
                 "No, that's not really……",
                 "No, that's not really……"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Aha, I knew you'd come and take a look! You pretended \nnot to be interested but, really, you were super \ninterested in Feng Shui, right?"
         },
         {
             "text": "Regardless of whether or not Copano Rickey was participating in \nthe Selection Race, it was an important event. There were a lot \nof other Uma Musume I wanted to get a look at too."
@@ -169,12 +169,12 @@
             "text": "I don't really understand Feng Shui, but when she's this \nenergetic, she might leave surprisingly good results. It was \npleasant watching over her―"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Eh, wait a minute……! \nThe energies around the training ground……",
             "choice_data_list": [
                 "What's wrong?",
                 "What's wrong?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "Eh, wait a minute……! \nThe energies around the training ground……"
         },
         {
             "name": "Copano Rickey",
@@ -185,11 +185,11 @@
             "text": "Is that which is stirring, something visible to \nthe eye in the realm of the physical? Or is it……something \ninvisible to the eye in the spiritual?"
         },
         {
-            "name": "Copano Rickey",
-            "text": "In any case! In the next race, it seems like something might \nhappen. If left alone it could be something awful.",
             "choice_data_list": [
                 "Isn't it just your imagination……?"
-            ]
+            ],
+            "name": "Copano Rickey",
+            "text": "In any case! In the next race, it seems like something might \nhappen. If left alone it could be something awful."
         },
         {
             "name": "Copano Rickey",

@@ -1,5 +1,4 @@
 {
-    "title": "In the Depths of Autumn",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -167,5 +166,6 @@
             "name": "Symboli Rudolf",
             "text": "Expect great things, Director. We promise to make \nthis year's festival more thrilling than ever!"
         }
-    ]
+    ],
+    "title": "In the Depths of Autumn"
 }

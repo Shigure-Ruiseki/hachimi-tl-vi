@@ -8,12 +8,12 @@
             "text": "It was an important race for Uma Musume to display their strength \nand get scouted. On my way home―I met her."
         },
         {
-            "name": "Smart Falcon",
-            "text": "――……～～♪",
             "choice_data_list": [
                 "(Is she……holding a Live show?)",
                 "(Is she……holding a Live show?)"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "――……～～♪"
         },
         {
             "text": "There were no costumes, microphones, or even an audience. Nobody \nwould think she was in the middle of a Live. But still――"
@@ -30,11 +30,11 @@
             "text": "……♪"
         },
         {
-            "text": "I didn't stop because I was tired, I stopped because I was \nfascinated. When I saw her smile, I was filled with renewed vigor.",
             "choice_data_list": [
                 "(……I can still keep going)",
                 "(……I can still keep going)"
-            ]
+            ],
+            "text": "I didn't stop because I was tired, I stopped because I was \nfascinated. When I saw her smile, I was filled with renewed vigor."
         },
         {
             "text": "Unfortunately, I couldn't stay until the end. To thank her for \ngiving me energy, I gave her a hearty round of applause."
@@ -43,18 +43,18 @@
             "text": "And so, on the day of the Selection Race, I was in top condition. \nI headed to school in high spirits――"
         },
         {
-            "name": "Smart Falcon",
-            "text": "……throat, good. Air Mic, check. Fliers, check. \nOkay, prepartions complete☆",
             "choice_data_list": [
                 "(Huh? That girl……)"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "……throat, good. Air Mic, check. Fliers, check. \nOkay, prepartions complete☆"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Everyone～, sorry for the wait☆ \nWith a Smart Dash in to your Heart♪ It's Smart Falcon☆",
             "choice_data_list": [
                 "！？"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Everyone～, sorry for the wait☆ \nWith a Smart Dash in to your Heart♪ It's Smart Falcon☆"
         },
         {
             "name": "Smart Falcon",
@@ -65,22 +65,22 @@
             "text": "Wait, aaaaaaaahhhh～～!! \nYou're the one from yesterday……!"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Yesterday's Falco Fan Club Member #1-san!!",
             "choice_data_list": [
                 "！？！？"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Yesterday's Falco Fan Club Member #1-san!!"
         },
         {
             "name": "Smart Falcon",
             "text": "What an amaaaa～zing coincidence☆ \nI wanted to talk with you!"
         },
         {
-            "name": "Smart Falcon",
-            "text": "But, you ended up leaving part way through. It was kind of lonely \nthat you didn't watch until the end but～, thanks for the applause☆",
             "choice_data_list": [
                 "Wai-wait a minute―"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "But, you ended up leaving part way through. It was kind of lonely \nthat you didn't watch until the end but～, thanks for the applause☆"
         },
         {
             "name": "Teacher",
@@ -99,11 +99,11 @@
             "text": "Ummm～mm, thank you for becoming such a big fan☆ \nBut, getting mad is NG in Falco's book☆"
         },
         {
-            "name": "Smart Falcon",
-            "text": "So with that――it's time to escape♪ \nAlright, you come with me too!",
             "choice_data_list": [
                 "Eh！？"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "So with that――it's time to escape♪ \nAlright, you come with me too!"
         },
         {
             "text": "And after getting swept up in the moment, I ended up \nchasing after, not knowing what was going on……!"
@@ -113,22 +113,22 @@
             "text": "Ah!? \nWait right theeeeeeere!!"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Huuuuuu～. \nNow that we've come this far, we should be safe☆",
             "choice_data_list": [
                 "Haa, haa……"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Huuuuuu～. \nNow that we've come this far, we should be safe☆"
         },
         {
             "name": "Smart Falcon",
             "text": "So exhausted☆ ……are you okay? \nThanks for coming with me♪"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Alright, from the top again, it's intro time! \nI'm the Umadol, Smart Falcon! Call me Falco, okay♪?",
             "choice_data_list": [
                 "Uma……dol?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Alright, from the top again, it's intro time! \nI'm the Umadol, Smart Falcon! Call me Falco, okay♪?"
         },
         {
             "name": "Smart Falcon",
@@ -151,11 +151,11 @@
             "text": "Huh!? \nHuuuuuuuuuh!?"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Um, could it be that you're…… \nperhaps you might be moonlighting? As a Trainer?",
             "choice_data_list": [
                 "I guess so……"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Um, could it be that you're…… \nperhaps you might be moonlighting? As a Trainer?"
         },
         {
             "name": "Smart Falcon",
@@ -166,58 +166,58 @@
             "text": "No waaay! \nSeems like everything's finally starting to come up Falco!"
         },
         {
-            "name": "Smart Falcon",
-            "text": "To think that Fan #1 would be a Trainer, \nwhat an amaaaa～zingly dramatic development☆ Very Umadol-like～☆",
             "choice_data_list": [
                 "Huh!?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "To think that Fan #1 would be a Trainer, \nwhat an amaaaa～zingly dramatic development☆ Very Umadol-like～☆"
         },
         {
-            "name": "Smart Falcon",
-            "text": "So then, Trainer-san, why don't we hurry up and sign a contract!?",
             "choice_data_list": [
                 "W-wait!"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "So then, Trainer-san, why don't we hurry up and sign a contract!?"
         },
         {
             "name": "Smart Falcon",
             "text": "Ah～ don't worry! I have a contract and other important stuff with \nme! So I can be ready to be scouted at any time, I normally carry \nthem around with me☆"
         },
         {
-            "text": "At this rate I'd be strong-armed in to a contract \nwith her……! I can't just enter in to a contract \nwithout knowing anything about her!",
             "choice_data_list": [
                 "At least let me watch you run first!"
-            ]
+            ],
+            "text": "At this rate I'd be strong-armed in to a contract \nwith her……! I can't just enter in to a contract \nwithout knowing anything about her!"
         },
         {
             "name": "Smart Falcon",
             "text": "Gulpity."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Ummmm～, by run do you mean～…… \num, you mean like in today's Selection Race, right～……?",
             "choice_data_list": [
                 "Are you entering?",
                 "Are you entering?"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Ummmm～, by run do you mean～…… \num, you mean like in today's Selection Race, right～……?"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Ah～…… yeah, well, you could say that……",
             "choice_data_list": [
                 "Then I want to see that first"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Ah～…… yeah, well, you could say that……"
         },
         {
             "name": "Smart Falcon",
             "text": "Uu…… I guess just being forceful wasn't enough……"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Uh～～～～………… Shi-!! \nShi-Shine☆!",
             "choice_data_list": [
                 "！？"
-            ]
+            ],
+            "name": "Smart Falcon",
+            "text": "Uh～～～～………… Shi-!! \nShi-Shine☆!"
         },
         {
             "name": "Smart Falcon",

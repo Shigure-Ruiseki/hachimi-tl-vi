@@ -1,73 +1,73 @@
 {
-  "assets_dir": "assets",
-  "auto_adjust_story_clip_length": true,
-  "character_note_top_gallery_button": {
-    "font_size": 38,
-    "line_spacing": 0.6,
-    "text": "Career Event\n     Gallery"
-  },
-  "character_note_top_talk_gallery_button": {
-    "font_size": 44,
-    "line_spacing": 0.55,
-    "text": "     Chat\n   Gallery"
-  },
-  "character_system_text_dict": "character_system_text_dict.json",
-  "extra_asset_bundle": {
-    "android": "includes_android",
-    "windows": "includes_win"
-  },
-  "hashed_dict": "hashed_dict.json",
-  "line_width_multiplier": 1.9,
-  "localize_dict": "localize_dict.json",
-  "month_text_format": "$(half) $(month)",
-  "months": [
-    "Jan.",
-    "Feb.",
-    "Mar.",
-    "Apr.",
-    "May.",
-    "Jun.",
-    "Jul.",
-    "Aug.",
-    "Sep.",
-    "Oct.",
-    "Nov.",
-    "Dec."
-  ],
-  "news_url": "https://hachimi.leadrdrk.com/PakaNews/",
-  "now_loading_comic_title_ellipsis": true,
-  "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
-  "ordinal_types": [
-    "$st",
-    "$nd",
-    "$rd",
-    "$th"
-  ],
-  "plural_form": "n == 1 ? 0 : 1",
-  "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
-  "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
-  "remove_ruby": true,
-  "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
-  "skill_formatting": {
-    "desc_length": 18,
-    "name_length": 16,
-    "name_short_lines": 2,
-    "name_short_mult": 0.75,
-    "name_sp_mult": 0.7
-  },
-  "story_line_count_offset": 1,
-  "systext_cue_lines": {
-    "training": 3
-  },
-  "text_data_dict": "text_data_dict.json",
-  "text_frame_font_size_multiplier": 0.96,
-  "text_frame_line_spacing_multiplier": 0.72,
-  "use_text_wrapper": true,
-  "wrapper_penalties": {
-    "hyphen_penalty": 0,
-    "nline_penalty": 18,
-    "overflow_penalty": 9,
-    "short_last_line_fraction": 4,
-    "short_last_line_penalty": 18
-  }
+    "assets_dir": "assets",
+    "auto_adjust_story_clip_length": true,
+    "character_note_top_gallery_button": {
+        "font_size": 38,
+        "line_spacing": 0.6,
+        "text": "Career Event\n     Gallery"
+    },
+    "character_note_top_talk_gallery_button": {
+        "font_size": 44,
+        "line_spacing": 0.55,
+        "text": "     Chat\n   Gallery"
+    },
+    "character_system_text_dict": "character_system_text_dict.json",
+    "extra_asset_bundle": {
+        "android": "includes_android",
+        "windows": "includes_win"
+    },
+    "hashed_dict": "hashed_dict.json",
+    "line_width_multiplier": 1.9,
+    "localize_dict": "localize_dict.json",
+    "month_text_format": "$(half) $(month)",
+    "months": [
+        "Jan.",
+        "Feb.",
+        "Mar.",
+        "Apr.",
+        "May.",
+        "Jun.",
+        "Jul.",
+        "Aug.",
+        "Sep.",
+        "Oct.",
+        "Nov.",
+        "Dec."
+    ],
+    "news_url": "https://hachimi.leadrdrk.com/PakaNews/",
+    "now_loading_comic_title_ellipsis": true,
+    "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
+    "ordinal_types": [
+        "$st",
+        "$nd",
+        "$rd",
+        "$th"
+    ],
+    "plural_form": "n == 1 ? 0 : 1",
+    "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
+    "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
+    "remove_ruby": true,
+    "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
+    "skill_formatting": {
+        "desc_length": 18,
+        "name_length": 16,
+        "name_short_lines": 2,
+        "name_short_mult": 0.75,
+        "name_sp_mult": 0.7
+    },
+    "story_line_count_offset": 1,
+    "systext_cue_lines": {
+        "training": 3
+    },
+    "text_data_dict": "text_data_dict.json",
+    "text_frame_font_size_multiplier": 0.96,
+    "text_frame_line_spacing_multiplier": 0.72,
+    "use_text_wrapper": true,
+    "wrapper_penalties": {
+        "hyphen_penalty": 0,
+        "nline_penalty": 18,
+        "overflow_penalty": 9,
+        "short_last_line_fraction": 4,
+        "short_last_line_penalty": 18
+    }
 }

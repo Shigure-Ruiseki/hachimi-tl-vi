@@ -1,5 +1,4 @@
 {
-    "title": "Unbroken",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -178,5 +177,6 @@
             "name": "King Halo",
             "text": "…………"
         }
-    ]
+    ],
+    "title": "Unbroken"
 }

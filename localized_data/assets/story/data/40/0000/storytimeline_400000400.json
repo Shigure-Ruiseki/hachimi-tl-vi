@@ -2,22 +2,22 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I got some advice from Tazuna Hayakawa\nwhen I started my days with my\nchosen horse girl.",
             "color_text_info_list": [
                 "Tazuna Hayakawa"
-            ]
+            ],
+            "text": "I got some advice from Tazuna Hayakawa\nwhen I started my days with my\nchosen horse girl."
         },
         {
-            "text": "The first 3 years after your \ndebut in the Twinkle Series are\na very important time.",
             "color_text_info_list": [
                 "3 years"
-            ]
+            ],
+            "text": "The first 3 years after your \ndebut in the Twinkle Series are\na very important time."
         },
         {
-            "text": "Once again, I was fired up for\nthe upcoming \"Make Debut\".",
             "color_text_info_list": [
                 "Make Debut"
-            ]
+            ],
+            "text": "Once again, I was fired up for\nthe upcoming \"Make Debut\"."
         }
     ]
 }

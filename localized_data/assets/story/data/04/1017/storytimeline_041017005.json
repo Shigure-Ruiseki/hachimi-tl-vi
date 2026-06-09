@@ -33,11 +33,11 @@
             "text": "Every time I witness their dedication, it gives me renewed \ndetermination. As the Student Council President of Tracen \nAcademy, as someone who wishes to see them happy…"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "… I, too, must dedicate myself.",
             "choice_data_list": [
                 "And to that end, you can't afford defeat."
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "… I, too, must dedicate myself."
         },
         {
             "name": "Symboli Rudolf",
@@ -115,11 +115,11 @@
             "text": "But jumping to conclusions and scaring them \nlike that was a mistake. My inexperience really \nshowed, I must admit… how embarrassing."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "I want to build a closer relationship with the students, \nbut I understand it won't happen overnight.",
             "choice_data_list": [
                 "We can work at it together."
-            ]
+            ],
+            "name": "Symboli Rudolf",
+            "text": "I want to build a closer relationship with the students, \nbut I understand it won't happen overnight."
         },
         {
             "name": "Symboli Rudolf",

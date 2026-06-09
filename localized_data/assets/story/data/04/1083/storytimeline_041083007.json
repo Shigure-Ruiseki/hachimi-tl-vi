@@ -5,12 +5,12 @@
             "text": "Tonight, I'd be attending a party together with Symboli Kris S. \nIt was a party held at the same time as the Summer Training camp――"
         },
         {
-            "name": "Receptionist",
-            "text": "Welcome to the 『Racing Promotional Exchange』. \nSymboli Kris S-sama and one guest. Please, come aboard.",
             "choice_data_list": [
                 "Looking forward to the conversations",
                 "Looking forward to the conversations"
-            ]
+            ],
+            "name": "Receptionist",
+            "text": "Welcome to the 『Racing Promotional Exchange』. \nSymboli Kris S-sama and one guest. Please, come aboard."
         },
         {
             "name": "Symboli Kris S",
@@ -31,11 +31,11 @@
             "text": "Understood. \n……Please enjoy."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――Trainer. ……Here.",
             "choice_data_list": [
                 "Thanks"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "――Trainer. ……Here."
         },
         {
             "text": "She took the initiative and acted as escort. \nMaybe she's used to these kinds of places――"
@@ -68,10 +68,10 @@
             "text": "Symboli Kris S was approached by attendees one after the other. \nI decided to watch over her while she mingled for now."
         },
         {
-            "text": "――The number of people approaching her had finally died down. \nAfter all that talking, she probably wanted something to drink.",
             "choice_data_list": [
                 "Want to take a break?"
-            ]
+            ],
+            "text": "――The number of people approaching her had finally died down. \nAfter all that talking, she probably wanted something to drink."
         },
         {
             "name": "Symboli Kris S",
@@ -85,11 +85,11 @@
             "text": "Symboli Kris S grabbed my hand and took me to the cafe area. \nMost of the attendees were on the deck, so there were few people."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――If it's here…… we can sit down.",
             "choice_data_list": [
                 "Thanks"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "――If it's here…… we can sit down."
         },
         {
             "name": "Symboli Kris S",
@@ -99,30 +99,30 @@
             "text": "The summer sky that was visible from the ship was expansive, \nclear, and brilliant. That brilliance was just like――"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "? ……――What's――so funny?",
             "choice_data_list": [
                 "I'm glad the party seemed fun"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "? ……――What's――so funny?"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "―――――Seemed fun……?",
             "choice_data_list": [
                 "Your eyes were shining like these stars"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "―――――Seemed fun……?"
         },
         {
             "name": "Symboli Kris S",
             "text": "――…………"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――The party today…… is an important place. \nA place necessary――to fulfill my mission.",
             "choice_data_list": [
                 "But that's not the only thing, right?",
                 "But that's not the only thing, right?"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "――The party today…… is an important place. \nA place necessary――to fulfill my mission."
         },
         {
             "text": "I had come to understand her. She wasn't defined \nby just her mission…… She could find purpose and \nenjoyment in her own way. At that time too――"
@@ -141,10 +141,10 @@
             "text": "Unsold goods――She was glad we had found their \npurpose. You could read her emotions just by \nnoticing the slight changes in her demeanor."
         },
         {
-            "text": "Particularly today, she seemed to be in high spirits. \nShe was proactive and had listened intently to \neach attendee that had spoken to her――",
             "choice_data_list": [
                 "It seemed like you were having fun"
-            ]
+            ],
+            "text": "Particularly today, she seemed to be in high spirits. \nShe was proactive and had listened intently to \neach attendee that had spoken to her――"
         },
         {
             "name": "Symboli Kris S",
@@ -159,12 +159,12 @@
             "text": "I need to figure out…… how to use that―― \ninformation in the future."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "So that next time―― I know what to ask――",
             "choice_data_list": [
                 "Yeah. It's exciting, huh?",
                 "Yeah. It's exciting, huh?"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "So that next time―― I know what to ask――"
         },
         {
             "name": "Symboli Kris S",
@@ -179,11 +179,11 @@
             "text": "So I was………… thrilled?――"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "You're………… amazing, huh?",
             "choice_data_list": [
                 "Eh?"
-            ]
+            ],
+            "name": "Symboli Kris S",
+            "text": "You're………… amazing, huh?"
         },
         {
             "name": "Symboli Kris S",
@@ -216,21 +216,21 @@
             "text": "But… \n――……Why is it? …………how do you know……?"
         },
         {
-            "text": "Symboli Kris S tilted her head slightly. \nSeeing that slightly child-like expression, I couldn't help it――",
             "choice_data_list": [
                 "You see, I can read minds"
-            ]
+            ],
+            "text": "Symboli Kris S tilted her head slightly. \nSeeing that slightly child-like expression, I couldn't help it――"
         },
         {
             "name": "Symboli Kris S",
             "text": "――――……Hmmm. \n……that's―― amazing, huh."
         },
         {
-            "text": "The corners of her mouth raised slightly…… \nIt seems like she realized I was joking.",
             "choice_data_list": [
                 "I can tell just by watching you",
                 "I can tell just by watching you"
-            ]
+            ],
+            "text": "The corners of her mouth raised slightly…… \nIt seems like she realized I was joking."
         },
         {
             "text": "Communicating without words. What she's feeling, \nwhat she desires, what stirs her heart――"

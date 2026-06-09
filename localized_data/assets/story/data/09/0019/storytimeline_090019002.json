@@ -1,5 +1,4 @@
 {
-    "title": "The Gathering",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -189,5 +188,6 @@
             "name": "Inari One",
             "text": "Heheh, if we're startin' out like this, I don' wanna go thinkin' \nabout what's in store for us later. This camp gon' be a riot…!"
         }
-    ]
+    ],
+    "title": "The Gathering"
 }

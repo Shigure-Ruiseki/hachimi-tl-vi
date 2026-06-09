@@ -143,11 +143,11 @@
             "text": "I don't really know what the wind is like, but I know how \nyou feel! But of course, the one who will win at the end \nwill be this invincible Teio-sama!"
         },
         {
-            "text": "Looking at Zephyr with a determined expression― \nOur eyes met.",
             "choice_data_list": [
                 "I see you found your rival",
                 "I see you found your rival"
-            ]
+            ],
+            "text": "Looking at Zephyr with a determined expression― \nOur eyes met."
         },
         {
             "name": "Yamanin Zephyr",
@@ -162,11 +162,11 @@
             "text": "I'm a mile runner, and our field is different in the first place. \nIsn't it normal for a trainer to think matching me with her \nis like catching the wind with bare hands?"
         },
         {
-            "text": "There was certainly a wall of distance aptitude. The two with \ndifferent aptitudes may never run in the same field. But…",
             "choice_data_list": [
                 "Because it looked like you didn't give up on the challenge.",
                 "Because it looked like you didn't give up on the challenge."
-            ]
+            ],
+            "text": "There was certainly a wall of distance aptitude. The two with \ndifferent aptitudes may never run in the same field. But…"
         },
         {
             "name": "Yamanin Zephyr",

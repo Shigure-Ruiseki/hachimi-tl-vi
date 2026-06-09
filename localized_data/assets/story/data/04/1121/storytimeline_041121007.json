@@ -55,12 +55,12 @@
             "text": "As predicted by the forecast, the rain stopped by nightfall. \nHowever, it would be difficult to play at night so instead——"
         },
         {
-            "name": "Academy Staff",
-            "text": "Everyone participating in the Test of Courage～ \nThe entrance is right this way～!",
             "choice_data_list": [
                 "Looks like it's started. Let's go!",
                 "Looks like it's started. Let's go!"
-            ]
+            ],
+            "name": "Academy Staff",
+            "text": "Everyone participating in the Test of Courage～ \nThe entrance is right this way～!"
         },
         {
             "name": "Durandal",
@@ -82,11 +82,11 @@
             "text": "——My lord. Visibility is quite poor \nand I'm sure you're feeling anxious."
         },
         {
-            "name": "Durandal",
-            "text": "But worry not. No matter what danger approaches, \nthis Durandal will dispel it without fail!",
             "choice_data_list": [
                 "The staff is here, it'll be fine"
-            ]
+            ],
+            "name": "Durandal",
+            "text": "But worry not. No matter what danger approaches, \nthis Durandal will dispel it without fail!"
         },
         {
             "name": "Durandal",
@@ -101,11 +101,11 @@
             "text": "……Pardon me. \nIt seems like that was just the wind."
         },
         {
-            "text": "It seemed kind of strange that she was so tense. \nThen I noticed that her hands were shaking.",
             "choice_data_list": [
                 "(Maybe……she's afraid of the dark?)",
                 "(Maybe……she's afraid of the dark?)"
-            ]
+            ],
+            "text": "It seemed kind of strange that she was so tense. \nThen I noticed that her hands were shaking."
         },
         {
             "text": "Normally, Durandal had a dignified presence but, \nit wouldn't be strange if she had fears just like anyone else."
@@ -114,30 +114,30 @@
             "text": "She probably couldn't say it out loud though. \nHer knightly pride wouldn't allow it. In that case——"
         },
         {
-            "name": "Durandal",
-            "text": "……It'll be fine. There's nothing to be afraid of. I'm a knight. \nMore courageous than anyone, stronger than anyone——",
             "choice_data_list": [
                 "And faster than anyone!!"
-            ]
+            ],
+            "name": "Durandal",
+            "text": "……It'll be fine. There's nothing to be afraid of. I'm a knight. \nMore courageous than anyone, stronger than anyone——"
         },
         {
             "name": "Durandal",
             "text": "……Eh…………?"
         },
         {
-            "text": "I must have surprised her, but I didn't let it stop me from \ncalling out to her. What I needed to do was just to cheer her up.",
             "choice_data_list": [
                 "There's nobody that can beat you!",
                 "There's nobody that can beat you!"
-            ]
+            ],
+            "text": "I must have surprised her, but I didn't let it stop me from \ncalling out to her. What I needed to do was just to cheer her up."
         },
         {
-            "name": "Durandal",
-            "text": "……Trainer-dono……",
             "choice_data_list": [
                 "With you here, there's nothing to fear!",
                 "With you here, there's nothing to fear!"
-            ]
+            ],
+            "name": "Durandal",
+            "text": "……Trainer-dono……"
         },
         {
             "name": "Durandal",
@@ -156,20 +156,20 @@
             "text": "Hold on tight. \n——Haaaaaaaaa!!!!"
         },
         {
-            "name": "Durandal",
-            "text": "Haaa, haaa, haaa——",
             "choice_data_list": [
                 "Amazing! We made it here so fast!",
                 "Amazing! We made it here so fast!"
-            ]
+            ],
+            "name": "Durandal",
+            "text": "Haaa, haaa, haaa——"
         },
         {
-            "name": "Durandal",
-            "text": "Of course…… \nWith my 『Holy Sword』 something like that forest is——",
             "choice_data_list": [
                 "Now we just need to reach the cave!",
                 "Now we just need to reach the cave!"
-            ]
+            ],
+            "name": "Durandal",
+            "text": "Of course…… \nWith my 『Holy Sword』 something like that forest is——"
         },
         {
             "name": "Durandal",
@@ -179,10 +179,10 @@
             "text": "As soon as I said that, Durandal's eyes wavered for \na moment. But, the Test of Courage wasn't complete \nuntil we grabbed the charm from the cave ahead."
         },
         {
-            "text": "It would be darker than the forest and more difficult \nto run in. Up to this point, I'd respected her wishes——",
             "choice_data_list": [
                 "(Maybe it would be better to stop……?)"
-            ]
+            ],
+            "text": "It would be darker than the forest and more difficult \nto run in. Up to this point, I'd respected her wishes——"
         },
         {
             "name": "Durandal",
@@ -197,10 +197,10 @@
             "text": "However, up ahead it's darker, and harder to see your foothold. \nFor your safety, please grant me the honor of leading you."
         },
         {
-            "text": "I'm sure what she meant was 『I want to hold your hand because \nit's scary』. Seeing her expression made me feel a little guilty.",
             "choice_data_list": [
                 "(I wish she could just rely on me. But——)"
-            ]
+            ],
+            "text": "I'm sure what she meant was 『I want to hold your hand because \nit's scary』. Seeing her expression made me feel a little guilty."
         },
         {
             "name": "Formative Trainer",
@@ -211,11 +211,11 @@
             "text": "Trainers are the supporting pillars to an Uma Musume's dream. \nNever forget that you are their \"Steadfast Guide\"."
         },
         {
-            "text": "Her dream was to become a proud and steadfast knight. \nWhich means, there's no reason to act like she isn't already one.",
             "choice_data_list": [
                 "Thanks, I'll rely on you",
                 "Thanks, I'll rely on you"
-            ]
+            ],
+            "text": "Her dream was to become a proud and steadfast knight. \nWhich means, there's no reason to act like she isn't already one."
         },
         {
             "text": "(Squeeze……)"
@@ -225,11 +225,11 @@
             "text": "Ah…………"
         },
         {
-            "name": "Durandal",
-            "text": "……Thank you, my lord. \nI won't let go of this hand.",
             "choice_data_list": [
                 "Got it, let's go together……!"
-            ]
+            ],
+            "name": "Durandal",
+            "text": "……Thank you, my lord. \nI won't let go of this hand."
         },
         {
             "text": "In the end, it took us a long time to reach the \ngoal. We only ended up receiving a participation \ntrophy for the 『Test of Courage Competition』——"

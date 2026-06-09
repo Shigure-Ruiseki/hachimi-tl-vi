@@ -21,12 +21,12 @@
             "text": "Don't be silly. If you push yourself now, \nyou may never be able to run again."
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "A calm doesn't mean that the wind stops, but that it \ndisappears… If I can't become the wind in the race, then I…!",
             "choice_data_list": [
                 "Calm down, Zephyr",
                 "Calm down, Zephyr"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "A calm doesn't mean that the wind stops, but that it \ndisappears… If I can't become the wind in the race, then I…!"
         },
         {
             "text": "I proposed to Zephyr, who showed a dangerously strong will, \nto move to a sanatorium away from the school."
@@ -35,28 +35,28 @@
             "text": "She once said that feeling the wind blowing calms her down. \nA sanatorium surrounded by nature should the place she needs \nto be in right now."
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "Right now, there must be many Uma Musume competing \nto reach the wind at the racetrack… But what am I doing…?",
             "choice_data_list": [
                 "Zephyr, it's a waste"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "Right now, there must be many Uma Musume competing \nto reach the wind at the racetrack… But what am I doing…?"
         },
         {
             "text": "It's a waste to worry about something happening far away, \nwhen we're in a place with such a beautiful view."
         },
         {
-            "name": "Wild Bird",
-            "text": "*chirp *chirp *chirp",
             "choice_data_list": [
                 "Look, even the bird wants you to take care of yourself"
-            ]
+            ],
+            "name": "Wild Bird",
+            "text": "*chirp *chirp *chirp"
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "That's Mr. Necktie's voice.",
             "choice_data_list": [
                 "Mr. Necktie's… voice?"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "That's Mr. Necktie's voice."
         },
         {
             "name": "Yamanin Zephyr",
@@ -73,11 +73,11 @@
             "text": "It's good that she was able to turn her attention \nto her surroundings. Maybe she'll calm down \nif she visited more places."
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "Ah… what a nice breeze. \nIt feels like the wind in my heart.",
             "choice_data_list": [
                 "Have you calmed down a bit?"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "Ah… what a nice breeze. \nIt feels like the wind in my heart."
         },
         {
             "name": "Yamanin Zephyr",
@@ -115,12 +115,12 @@
             "text": "(Waaaaaaaaaa!)"
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "By chance, when I was watching a race… I saw the wind. \nThe run that embodies the wind.",
             "choice_data_list": [
                 "Was it, the Uma Musume you admire?",
                 "Was it, the Uma Musume you admire?"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "By chance, when I was watching a race… I saw the wind. \nThe run that embodies the wind."
         },
         {
             "name": "Yamanin Zephyr",
@@ -135,11 +135,11 @@
             "text": "I've never said this to anyone before… It just came out of \nmy mouth while talking to you… I wonder why?"
         },
         {
-            "text": "I feel like I gained a bit of trust from her. \nIf so―",
             "choice_data_list": [
                 "Please allow me to aid you in your recovery",
                 "Please allow me to aid you in your recovery"
-            ]
+            ],
+            "text": "I feel like I gained a bit of trust from her. \nIf so―"
         },
         {
             "name": "Yamanin Zephyr",
@@ -181,31 +181,31 @@
             "text": "Oh my, Mr. Matcha is a dumpling as usual. \nIt looks like everyone is lined up to get \nblown away by a gust of wind. Fufu…"
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "Trainer. I finished the menu.",
             "choice_data_list": [
                 "Ok, that's it for today.",
                 "Ok, that's it for today."
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "Trainer. I finished the menu."
         },
         {
             "text": "Everything is going well so far. \nShe should be able to resume training at the course soon."
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "Umm… Thank you…",
             "choice_data_list": [
                 "…? Why's that?",
                 "…? Why's that?"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "Umm… Thank you…"
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "I can feel that I'm recovering fast. I had a hard time \ntrying to recover without any help in the past so…",
             "choice_data_list": [
                 "That's what trainers are there for",
                 "That's what trainers are there for"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "I can feel that I'm recovering fast. I had a hard time \ntrying to recover without any help in the past so…"
         },
         {
             "name": "Yamanin Zephyr",
@@ -236,22 +236,22 @@
             "text": "Zephyr has a pure heart. Her strong will, \nwill surely make her wish come true."
         },
         {
-            "text": "However, a wish that is too pure is also a double-edged sword. \nWhat she needs right now is…",
             "choice_data_list": [
                 "Can I be your trainer!?",
                 "Can I be your trainer!?"
-            ]
+            ],
+            "text": "However, a wish that is too pure is also a double-edged sword. \nWhat she needs right now is…"
         },
         {
             "name": "Yamanin Zephyr",
             "text": "Such a breeze… \nBut… thank you"
         },
         {
-            "name": "Yamanin Zephyr",
-            "text": "If I had a trainer in charge, \nI think it would be someone like you…",
             "choice_data_list": [
                 "Then―!"
-            ]
+            ],
+            "name": "Yamanin Zephyr",
+            "text": "If I had a trainer in charge, \nI think it would be someone like you…"
         },
         {
             "name": "Yamanin Zephyr",

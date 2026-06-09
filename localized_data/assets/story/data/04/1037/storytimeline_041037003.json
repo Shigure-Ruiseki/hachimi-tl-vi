@@ -30,41 +30,41 @@
             "text": "<i>Do you understand, Flash? \nOur ——</i>"
         },
         {
-            "name": "Eishin Flash",
-            "text": "……? \nWhere am I…?",
             "choice_data_list": [
                 "Ah, you're awake."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "……? \nWhere am I…?"
         },
         {
-            "name": "Eishin Flash",
-            "text": "……I'm sorry, could you explain what happened? \nWhy am I lying in the infirmary?",
             "choice_data_list": [
                 "You got a bit lightheaded and collapsed."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "……I'm sorry, could you explain what happened? \nWhy am I lying in the infirmary?"
         },
         {
             "name": "Eishin Flash",
             "text": "……I see. It looks like I was more exhausted than I anticipated."
         },
         {
-            "name": "Eishin Flash",
-            "text": "But if it wasn't anything serious, then this won't prevent me \nfrom entering the Selection Race tomorrow. Isn't that right?",
             "choice_data_list": [
                 "That's right… but ——",
                 "That's true… but ——"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "But if it wasn't anything serious, then this won't prevent me \nfrom entering the Selection Race tomorrow. Isn't that right?"
         },
         {
             "name": "Eishin Flash",
             "text": "I know. In this condition, I won't be able to put forth my best \nperformance… That's what you want to get at, isn't it?"
         },
         {
-            "name": "Eishin Flash",
-            "text": "Even so, I absolutely can not miss tomorrow's race. \nTomorrow is… my only chance.",
             "choice_data_list": [
                 "Why are you pushing yourself so hard…"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "Even so, I absolutely can not miss tomorrow's race. \nTomorrow is… my only chance."
         },
         {
             "name": "Eishin Flash",
@@ -75,11 +75,11 @@
             "text": "So I asked them for just a day of their time in return. \nAnd true to their promise, they freed up space in their \nbusy schedule for me."
         },
         {
-            "name": "Eishin Flash",
-            "text": "That's why I have to keep my own promise… and show \nthem a result worthy of a <i>Meister</i>'s commitment.",
             "choice_data_list": [
                 "Meister?"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "That's why I have to keep my own promise… and show \nthem a result worthy of a <i>Meister</i>'s commitment."
         },
         {
             "name": "Eishin Flash",
@@ -128,10 +128,10 @@
             "text": "There is nothing wrong with wanting desperately to improve. \nShe is only lacking the flexibility to adapt to the situation."
         },
         {
-            "text": "But it is indeed late. Now that I better understand how \nshe feels, I know I won't be able to stop her from entering \nthe race. So what I should tell her instead is ——",
             "choice_data_list": [
                 "<size=38>Your feelings will show through, I'm certain.</size>"
-            ]
+            ],
+            "text": "But it is indeed late. Now that I better understand how \nshe feels, I know I won't be able to stop her from entering \nthe race. So what I should tell her instead is ——"
         },
         {
             "name": "Eishin Flash",
@@ -142,44 +142,44 @@
             "text": "Taking pride in my efforts, my feelings… It's all so ambiguous. \nIt seems you and I have very different ways of thinking."
         },
         {
-            "name": "Eishin Flash",
-            "text": "That reminds me, I still haven't thanked you. \nYou were the one who carried me here… isn't that right?",
             "choice_data_list": [
                 "Yeah.",
                 "Yeah."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "That reminds me, I still haven't thanked you. \nYou were the one who carried me here… isn't that right?"
         },
         {
-            "name": "Eishin Flash",
-            "text": "……Umm, I've been wondering for a while… \nWhat makes you so concerned with me?",
             "choice_data_list": [
                 "…I guess I just couldn't leave you be?"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "……Umm, I've been wondering for a while… \nWhat makes you so concerned with me?"
         },
         {
-            "name": "Eishin Flash",
-            "text": "…………Huh?",
             "choice_data_list": [
                 "<size=30>You seemed so sincere and a little offbeat, it made me worry.</size>"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "…………Huh?"
         },
         {
             "name": "Eishin Flash",
             "text": "……Offbeat…?"
         },
         {
-            "name": "Eishin Flash",
-            "text": "That is the first time anyone has said that… \nEven considering this latest development, \nI don't see how that describes me…",
             "choice_data_list": [
                 "<size=34>You stand out plenty from others's perspective.</size>"
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "That is the first time anyone has said that… \nEven considering this latest development, \nI don't see how that describes me…"
         },
         {
-            "name": "Eishin Flash",
-            "text": "………",
             "choice_data_list": [
                 "Anyway, get plenty of rest today."
-            ]
+            ],
+            "name": "Eishin Flash",
+            "text": "………"
         },
         {
             "name": "Eishin Flash",

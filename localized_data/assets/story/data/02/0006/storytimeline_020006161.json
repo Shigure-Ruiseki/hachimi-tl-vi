@@ -232,11 +232,11 @@
             "text": "The 『Takarazuka Kinen』 is considered the climax of the first half \nof the year in the Twinkle Series."
         },
         {
-            "text": "You've put in the efforts to get results thus far. After this, \nthe 『Prix de l'Arc de Triomphe』, is waiting for you too――",
             "choice_data_list": [
                 "Let's win this race!",
                 "Let's win this race!"
-            ]
+            ],
+            "text": "You've put in the efforts to get results thus far. After this, \nthe 『Prix de l'Arc de Triomphe』, is waiting for you too――"
         },
         {
             "name": "Special Week",

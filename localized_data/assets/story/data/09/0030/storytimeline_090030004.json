@@ -1,5 +1,4 @@
 {
-    "title": "The Path They Tread",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -186,5 +185,6 @@
             "name": "Haru Urara",
             "text": "You're welcome!! Let me have a bite! \nI'll share some of mine with you too!"
         }
-    ]
+    ],
+    "title": "The Path They Tread"
 }

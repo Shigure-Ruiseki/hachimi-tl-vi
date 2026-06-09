@@ -5,19 +5,19 @@
             "text": "A few days after signing the contract to officially be \nin charge of Mejiro Palmer, a mock race was held. \nMejiro Palmer's performance, however ——"
         },
         {
-            "name": "Mejiro Palmer",
-            "text": "<i>Haa, haa, haa… ugh…!</i>",
             "choice_data_list": [
                 "(Her running looks tense again!?)"
-            ]
+            ],
+            "name": "Mejiro Palmer",
+            "text": "<i>Haa, haa, haa… ugh…!</i>"
         },
         {
-            "name": "Mejiro Palmer",
-            "text": "Ah… that didn't go too well. Sorry!! \nEven though you're putting so much effort into training me.",
             "choice_data_list": [
                 "<size=32>Struggling to find that feeling from the Freestyle Race?</size>",
                 "<size=32>Struggling to find that feeling from the Freestyle Race?</size>"
-            ]
+            ],
+            "name": "Mejiro Palmer",
+            "text": "Ah… that didn't go too well. Sorry!! \nEven though you're putting so much effort into training me."
         },
         {
             "name": "Mejiro Palmer",
@@ -35,10 +35,10 @@
             "text": "… But hey, watch me. After all, I'm a Mejiro trainee as well. \nIf I don't show my resolve here, it'd disgrace our great name, \nisn't that right?"
         },
         {
-            "text": "Beneath her cheerful façade, she embodied \na strong sense of earnestness and responsibility. \nAs a result of that ——",
             "choice_data_list": [
                 "<size=38>(Perhaps she can't escape her Mejiro name.)</size>"
-            ]
+            ],
+            "text": "Beneath her cheerful façade, she embodied \na strong sense of earnestness and responsibility. \nAs a result of that ——"
         },
         {
             "name": "Mejiro Palmer",

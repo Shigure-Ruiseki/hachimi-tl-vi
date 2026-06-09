@@ -10,12 +10,12 @@
             "text": "Just now, I was watching a mock race \nat the track down there. Maya can't race myself so-."
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "Must be nice to race～ I wish Maya could race too. \nBut―",
             "choice_data_list": [
                 "You really don't want to train?",
                 "Do you really not want to train?"
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "Must be nice to race～ I wish Maya could race too. \nBut―"
         },
         {
             "name": "Mayano Top Gun",
@@ -55,11 +55,11 @@
             "text": "But no matter how hard I try, \nit's just too boring. I think to myself, \n'This is pointless'."
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "I guess I'm not good enough because I'm not like…… everyone else. \nMaybe Maya can't become a sparkling Uma Musume after all……?",
             "choice_data_list": [
                 "That's not true!"
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "I guess I'm not good enough because I'm not like…… everyone else. \nMaybe Maya can't become a sparkling Uma Musume after all……?"
         },
         {
             "name": "Mayano Top Gun",
@@ -74,22 +74,22 @@
             "text": "Hmmm………"
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "……Hey, uhm. \nDo you also want Maya to train too?",
             "choice_data_list": [
                 "Yes."
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "……Hey, uhm. \nDo you also want Maya to train too?"
         },
         {
             "name": "Mayano Top Gun",
             "text": "Hmmm…… I see."
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "……Okay? If you listen to Maya, \nI'll listen to you and train!",
             "choice_data_list": [
                 "What do you mean?"
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "……Okay? If you listen to Maya, \nI'll listen to you and train!"
         },
         {
             "name": "Mayano Top Gun",
@@ -165,12 +165,12 @@
             "text": "Ah～ that was fun!!"
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "You're amazing, by the way! You might be the first person ever other \nthan Mabe-chan to follow Maya through all the way to the end!",
             "choice_data_list": [
                 "I thought I was going to collapse halfway through……",
                 "I thought I was going to collapse halfway through……"
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "You're amazing, by the way! You might be the first person ever other \nthan Mabe-chan to follow Maya through all the way to the end!"
         },
         {
             "name": "Mayano Top Gun",
@@ -181,23 +181,23 @@
             "text": "……Hey-uhmm. Why are you being so nice to me? \nWhy did you go on a date with Maya?"
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "Is it because, \nMaya promised to train if you did what I asked?",
             "choice_data_list": [
                 "Not exactly."
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "Is it because, \nMaya promised to train if you did what I asked?"
         },
         {
             "name": "Mayano Top Gun",
             "text": "No? What do you mean? You didn't go on a date with me \nbecause you wanted me to train?"
         },
         {
-            "name": "Mayano Top Gun",
-            "text": "If not, why did you come?",
             "choice_data_list": [
                 "I don't want you to give up on your dreams.",
                 "I don't want you to give up on your dreams."
-            ]
+            ],
+            "name": "Mayano Top Gun",
+            "text": "If not, why did you come?"
         },
         {
             "name": "Mayano Top Gun",

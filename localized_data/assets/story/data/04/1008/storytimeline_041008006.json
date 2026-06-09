@@ -5,22 +5,22 @@
             "text": "It's a holiday. As I walk in front of the dorm…"
         },
         {
-            "name": "Vodka",
-            "text": "Hey, trainer, what are you doing?",
             "choice_data_list": [
                 "A walk. Where's vodka?"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Hey, trainer, what are you doing?"
         },
         {
             "name": "Vodka",
             "text": "Of course I'm wandering around. I've got a lot \nof free time on my hands."
         },
         {
-            "name": "Vodka",
-            "text": "That's right! At times like these, I have to get \nexcited. It's a motorcycle!",
             "choice_data_list": [
                 "Touring?"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "That's right! At times like these, I have to get \nexcited. It's a motorcycle!"
         },
         {
             "name": "Vodka",
@@ -39,11 +39,11 @@
             "text": "An idiot tank. And an elite streamlined form…! \nThe moment I get on top of it and light the \nengine, I'll… become a gale!"
         },
         {
-            "name": "Vodka",
-            "text": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
             "choice_data_list": [
                 "………"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
         },
         {
             "name": "Vodka",
@@ -54,11 +54,11 @@
             "text": "Dad loves motorcycles, so she used to let me \nride behind her."
         },
         {
-            "name": "Vodka",
-            "text": "Well, I can't buy it. It's just as easy as \nconquering Derby…",
             "choice_data_list": [
                 "Let's buy it to commemorate our conquest."
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Well, I can't buy it. It's just as easy as \nconquering Derby…"
         },
         {
             "name": "Vodka",
@@ -81,12 +81,12 @@
             "text": "We're going all the way to the beach! There's no \nbike, so use these legs!"
         },
         {
-            "name": "Vodka",
-            "text": "Uoryaaaaaaa!",
             "choice_data_list": [
                 "Oh, hey!",
                 "Ah, wait!"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Uoryaaaaaaa!"
         },
         {
             "text": "Vodka runs off at full speed. I desperately \nchase after her. …In a taxi."
@@ -100,12 +100,12 @@
             "text": "Sweaty skin and sea breeze……I can't get enough \nof it. This is exactly what it means to be cool……"
         },
         {
-            "name": "Vodka",
-            "text": "………",
             "choice_data_list": [
                 "What's wrong?",
                 "What's going on?"
-            ]
+            ],
+            "name": "Vodka",
+            "text": "………"
         },
         {
             "name": "Vodka",
@@ -139,12 +139,12 @@
             "text": "But Mom's the different type! She's \nalways slapping Dad on the butt, \nrunning around the house, and…"
         },
         {
-            "name": "Vodka",
-            "text": "Even when I ran on my own two feet, I was as \nfast as a motorcycle! On-road or off-road. After \nall, I'm a good girl.",
             "choice_data_list": [
                 "That's amazing.",
                 "That's amazing."
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Even when I ran on my own two feet, I was as \nfast as a motorcycle! On-road or off-road. After \nall, I'm a good girl."
         },
         {
             "name": "Vodka",
@@ -155,11 +155,11 @@
             "text": "On the other hand, I can't really say that I \nwant to be like a strong mom…"
         },
         {
-            "name": "Vodka",
-            "text": "Hey, is my way of life wrong? Is it weird that I \nwant to be cool first?",
             "choice_data_list": [
                 "It's not strange."
-            ]
+            ],
+            "name": "Vodka",
+            "text": "Hey, is my way of life wrong? Is it weird that I \nwant to be cool first?"
         },
         {
             "name": "Vodka",
@@ -181,12 +181,12 @@
             "text": "She didn't take me out to play. But…"
         },
         {
-            "name": "Vodka",
-            "text": "She always took me wherever I wanted to go. \nWhenever I said I wanted to go.",
             "choice_data_list": [
                 "You're loved.",
                 "You're loved."
-            ]
+            ],
+            "name": "Vodka",
+            "text": "She always took me wherever I wanted to go. \nWhenever I said I wanted to go."
         },
         {
             "name": "Vodka",

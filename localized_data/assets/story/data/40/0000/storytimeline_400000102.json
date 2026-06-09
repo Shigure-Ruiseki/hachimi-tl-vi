@@ -6,11 +6,11 @@
             "text": "The semifinals are about to begin! \nI can feel everyone's drive from here."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Trainer… are you ready?",
             "choice_data_list": [
                 "I believe in victory."
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer… are you ready?"
         },
         {
             "name": "Tazuna Hayakawa",

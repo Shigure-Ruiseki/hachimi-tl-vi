@@ -24,11 +24,11 @@
             "text": "Ha… Good grief. \nA phone call at a time like this—"
         },
         {
-            "name": "King Halo",
-            "text": "EH, AAAH!? W-WHO ARE YOU?! \nDON'T TELL ME A SUSPICIOUS PERSON?!",
             "choice_data_list": [
                 "Nonono!"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "EH, AAAH!? W-WHO ARE YOU?! \nDON'T TELL ME A SUSPICIOUS PERSON?!"
         },
         {
             "text": "I explained I was a new trainer \nto clear up the misunderstanding."
@@ -42,12 +42,12 @@
             "text": "…Hey, what's with that confused expression. \n…Don’t tell me, you don’t actually appreciate this!?"
         },
         {
-            "name": "King Halo",
-            "text": "Well then you… \nHow dare you not know of me!?",
             "choice_data_list": [
                 "I-I'm sorry…?",
                 "I-I'm sorry…?"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Well then you… \nHow dare you not know of me!?"
         },
         {
             "name": "King Halo",
@@ -128,23 +128,23 @@
             "text": "…Hey you, stop staring into space! \nWhere's the applause, huh!? The applause!"
         },
         {
-            "name": "King Halo",
-            "text": "The great King went out of her way to introduce \nherself just for you! Applaud while weeping in tears!",
             "choice_data_list": [
                 "That was a self-introduction…?",
                 "That was a self-introduction…?"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "The great King went out of her way to introduce \nherself just for you! Applaud while weeping in tears!"
         },
         {
             "name": "King Halo",
             "text": "Yes, that's right. I conveyed it well didn't I? \nThat the elegant, noble, and pretty King is the \nvery meaning of first-class horse girl."
         },
         {
-            "name": "King Halo",
-            "text": "Now you along with the rest of the school, understand the \nsplendor of King's glory, intellect, and expectations don't you?",
             "choice_data_list": [
                 "Um…"
-            ]
+            ],
+            "name": "King Halo",
+            "text": "Now you along with the rest of the school, understand the \nsplendor of King's glory, intellect, and expectations don't you?"
         },
         {
             "name": "King Halo",

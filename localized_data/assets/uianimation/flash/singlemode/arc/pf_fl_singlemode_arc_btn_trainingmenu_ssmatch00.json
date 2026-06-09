@@ -1,7 +1,4 @@
 {
-    "windows": {
-        "bundle_name": "UPXGC6YFRZERFIM7U2CNIJK3CMP2UUTG"
-    },
     "android": {
         "bundle_name": "PFHWGIY3WSQG4VCI6QT224SWUXKTPQS4"
     },
@@ -11,66 +8,69 @@
                 "text_param_list": {
                     "0": {
                         "position_offset": {
-                            "x": 16.0,
-                            "y": 0.0,
-                            "z": 0.0
+                            "x": 16,
+                            "y": 0,
+                            "z": 0
                         },
                         "scale": {
                             "x": 1.16,
                             "y": 1.16,
-                            "z": 1.0
+                            "z": 1
                         }
                     },
                     "1": {
                         "position_offset": {
-                            "x": 16.0,
-                            "y": 0.0,
-                            "z": 0.0
+                            "x": 16,
+                            "y": 0,
+                            "z": 0
                         },
                         "scale": {
                             "x": 1.16,
                             "y": 1.16,
-                            "z": 1.0
+                            "z": 1
                         }
                     },
                     "2": {
                         "position_offset": {
-                            "x": 16.0,
-                            "y": 0.0,
-                            "z": 0.0
+                            "x": 16,
+                            "y": 0,
+                            "z": 0
                         },
                         "scale": {
                             "x": 1.16,
                             "y": 1.16,
-                            "z": 1.0
+                            "z": 1
                         }
                     },
                     "3": {
                         "position_offset": {
-                            "x": 16.0,
-                            "y": 0.0,
-                            "z": 0.0
+                            "x": 16,
+                            "y": 0,
+                            "z": 0
                         },
                         "scale": {
                             "x": 1.16,
                             "y": 1.16,
-                            "z": 1.0
+                            "z": 1
                         }
                     },
                     "4": {
                         "position_offset": {
-                            "x": 16.0,
-                            "y": 0.0,
-                            "z": 0.0
+                            "x": 16,
+                            "y": 0,
+                            "z": 0
                         },
                         "scale": {
                             "x": 1.16,
                             "y": 1.16,
-                            "z": 1.0
+                            "z": 1
                         }
                     }
                 }
             }
         }
+    },
+    "windows": {
+        "bundle_name": "UPXGC6YFRZERFIM7U2CNIJK3CMP2UUTG"
     }
 }

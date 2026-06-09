@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Director Akikawa",
-            "text": "Mostly finished!",
             "choice_data_list": [
                 "Thank you very much, Chairman…!"
-            ]
+            ],
+            "name": "Director Akikawa",
+            "text": "Mostly finished!"
         },
         {
             "name": "Director Akikawa",
@@ -91,12 +91,12 @@
             "text": "1, 2, 1,2… there. To fully convince my father, \nwe definitely need results, don't we?"
         },
         {
-            "name": "Fine Motion",
-            "text": "We definitely need to prove it with results… a run befitting of \nthe family's reputation and the pride it bears.",
             "choice_data_list": [
                 "…aren't you a little too enthusiastic?",
                 "…aren't you a little too enthusiastic?"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "We definitely need to prove it with results… a run befitting of \nthe family's reputation and the pride it bears."
         },
         {
             "name": "Fine Motion",
@@ -107,12 +107,12 @@
             "text": "After all…I get to run!!"
         },
         {
-            "name": "Fine Motion",
-            "text": "All right, Trainer! Can I trouble you to train me to the best of \nyour abilities until the Selection race?",
             "choice_data_list": [
                 "Yeah, leave it to me!",
                 "Yeah, leave it to me!"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "All right, Trainer! Can I trouble you to train me to the best of \nyour abilities until the Selection race?"
         },
         {
             "text": "And so, in preparation for the race, Fine Motion \nearnestly spent day after day training."
@@ -121,22 +121,22 @@
             "text": "And then-"
         },
         {
-            "name": "Fine Motion",
-            "text": "Suuu…Huu!",
             "choice_data_list": [
                 "Go have fun out there, Fine"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Suuu…Huu!"
         },
         {
             "name": "Fine Motion",
             "text": "-Yeah! I'll be off!"
         },
         {
-            "name": "SP Commander",
-            "text": "Trainer-sama, I have finished setting it up. \nPlease head over to that computer terminal.",
             "choice_data_list": [
                 "Understood"
-            ]
+            ],
+            "name": "SP Commander",
+            "text": "Trainer-sama, I have finished setting it up. \nPlease head over to that computer terminal."
         },
         {
             "text": "With her Father watching over her from behind the screen, \nfinally, Fine Motion's race was about to begin!"
@@ -145,11 +145,11 @@
             "text": "(WHOOOOOOOOOOA…!)"
         },
         {
-            "name": "Fine's Father",
-            "text": "\"…so you're the trainer, that discovered Fine's true feelings?\"",
             "choice_data_list": [
                 "Y-Yes!"
-            ]
+            ],
+            "name": "Fine's Father",
+            "text": "\"…so you're the trainer, that discovered Fine's true feelings?\""
         },
         {
             "name": "Fine's Father",
@@ -192,12 +192,12 @@
             "text": "…it can't be true."
         },
         {
-            "name": "Fine Motion",
-            "text": "It can't be true, it can't be true! \nTo think father would give her permission!",
             "choice_data_list": [
                 "You did it, Fine!",
                 "You did it, Fine!"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "It can't be true, it can't be true! \nTo think father would give her permission!"
         },
         {
             "name": "Fine Motion",
@@ -208,11 +208,11 @@
             "text": "Ahem. Well then, this time too-"
         },
         {
-            "name": "Fine Motion",
-            "text": "Will you escort me? Trainer!",
             "choice_data_list": [
                 "As you wish, Your Highness"
-            ]
+            ],
+            "name": "Fine Motion",
+            "text": "Will you escort me? Trainer!"
         },
         {
             "text": "And thus, I became in charge of Fine Motion. And for now- \nWe headed to that Ramen shop where she got that coupon."

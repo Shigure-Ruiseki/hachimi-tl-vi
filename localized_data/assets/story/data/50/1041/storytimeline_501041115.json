@@ -39,12 +39,12 @@
             "text": "You've come to the right place! I'm getting \na ton of compliments right now!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Well, I am brilliant, so it's only natural! \nTrainer, come join us!",
             "choice_data_list": [
                 "What was she complimenting you on?",
                 "What was she complimenting you on?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Well, I am brilliant, so it's only natural! \nTrainer, come join us!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -86,20 +86,20 @@
             "text": "Let me take a look at that magazine \nstraightaway――"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Eh!? \nWhere is everyone!?",
             "choice_data_list": [
                 "They left.",
                 "They left."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Eh!? \nWhere is everyone!?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I see! \nThen, I must go and look for the magazine!",
             "choice_data_list": [
                 "It's in the Trainers' office.",
                 "It's in the Trainers' office."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "I see! \nThen, I must go and look for the magazine!"
         },
         {
             "text": "I told Sakura Bakushin O that I was looking \nfor her just to talk about it."
@@ -120,11 +120,11 @@
             "text": "Hmmmmm…!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "What's all this! \nThis is… In the name of class president, \nI must object!",
             "choice_data_list": [
                 "There's some pretty good stuff in there."
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "What's all this! \nThis is… In the name of class president, \nI must object!"
         },
         {
             "text": "Big journalists voted on the most popular \nUma Musume. If you look at the comments \non her, they're all rave reviews, but…"
@@ -138,11 +138,11 @@
             "text": "To begin with! Why did they put me in the \n\"short distance\" category?!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Saying I'm the \"Sprint Favourite\" and so \non… Those media folk are short-sighted! \nNo, blind!",
             "choice_data_list": [
                 "(I guess the pun wasn't intentional.)"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "Saying I'm the \"Sprint Favourite\" and so \non… Those media folk are short-sighted! \nNo, blind!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -167,18 +167,18 @@
             "text": "As much as I'd love to let her win the \nClassic, at this point I can't see her \ngetting results outside of sprints."
         },
         {
-            "text": "…I've got to convince Sakura Bakushin O \nto do whatever it takes!",
             "choice_data_list": [
                 "I have an idea."
-            ]
+            ],
+            "text": "…I've got to convince Sakura Bakushin O \nto do whatever it takes!"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "What is it!!",
             "choice_data_list": [
                 "Why don't we take a look at the results of the \nSpring Stakes?",
                 "Why don't we take a look at the results of the \nSpring Stakes?"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "What is it!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -198,18 +198,18 @@
             "text": "Does that mean that there is a possibility \nthat… I won't run the Classic this year!?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "That's going to be a big pileup on \nBakushin Road, isn't it!?",
             "choice_data_list": [
                 "We have to go through thick and thin to reach our goal!!"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "That's going to be a big pileup on \nBakushin Road, isn't it!?"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "!?",
             "choice_data_list": [
                 "All for the future of the Arima Kinen…"
-            ]
+            ],
+            "name": "Sakura Bakushin O",
+            "text": "!?"
         },
         {
             "name": "Sakura Bakushin O",

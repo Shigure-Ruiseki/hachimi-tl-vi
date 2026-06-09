@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "This place is called the paddock.\nRunners appear here before the race to\nexcite their adoring fans!",
             "color_text_info_list": [
                 "paddock"
-            ]
+            ],
+            "name": "Tazuna Hayakawa",
+            "text": "This place is called the paddock.\nRunners appear here before the race to\nexcite their adoring fans!"
         },
         {
             "name": "Director Akikawa",

@@ -5,10 +5,10 @@
             "text": "――The last day of summer training camp. There were \nno problems and everything ended without issue."
         },
         {
-            "text": "……Right, just like usual. \nWithout once showing my depressed face.",
             "choice_data_list": [
                 "My wallet……"
-            ]
+            ],
+            "text": "……Right, just like usual. \nWithout once showing my depressed face."
         },
         {
             "text": "Back on that day, when I helped someone in a back alley…… \nmost likely, that person was a pickpocket."
@@ -17,32 +17,32 @@
             "text": "The day after, I went back to that same alley but nobody \nwas there. I wasn't really worried about the money, but I \njust really wanted to get back what was in the wallet――"
         },
         {
-            "name": "Dream Journey",
-            "text": "That was quite the big sigh……is something wrong? \nOr perhaps, is there something troubling you……?",
             "choice_data_list": [
                 "J-Journey"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "That was quite the big sigh……is something wrong? \nOr perhaps, is there something troubling you……?"
         },
         {
             "name": "Dream Journey",
             "text": "Good work during the training camp. \nBut that sigh……it's not because you're exhausted, right?"
         },
         {
-            "name": "Dream Journey",
-            "text": "If there's a reason for your gloominess, \nwould you mind telling me? I want to help you.",
             "choice_data_list": [
                 "Well, that's……"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "If there's a reason for your gloominess, \nwould you mind telling me? I want to help you."
         },
         {
             "text": "……There was no way I could tell her 『My wallet was taken』. \nHow could I get through this without worrying her――?"
         },
         {
-            "name": "Dream Journey",
-            "text": "『I don't have anyone to go to the festival with』 huh…… \nthat was unexpected. Trainer-san, I would have thought \nyou would have a number of friends.",
             "choice_data_list": [
                 "Ahaha……"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "『I don't have anyone to go to the festival with』 huh…… \nthat was unexpected. Trainer-san, I would have thought \nyou would have a number of friends."
         },
         {
             "text": "I felt kind of pathetic…… \nit felt wrong to deceive her like that."
@@ -56,28 +56,28 @@
             "text": "A shooting gallery, lottery……Oh, there's also some unusual \nthings too. Is that a stall? ……No, maybe an attraction?"
         },
         {
-            "name": "Dream Journey",
-            "text": "『Mountain Labyrinth』…… Enter the maze in the \nmountains, and the first one to the goal wins, it says.",
             "choice_data_list": [
                 "Sounds fun, doesn't it?",
                 "Sounds fun, doesn't it?"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "『Mountain Labyrinth』…… Enter the maze in the \nmountains, and the first one to the goal wins, it says."
         },
         {
             "name": "Dream Journey",
             "text": "You're right. It's a bit small, but just being in the \nmountains should add to the thrill. ……Let's go take a look."
         },
         {
-            "text": "Since Dream Journey was going to be tagging along, \nthen we should enjoy it to the fullest.",
             "choice_data_list": [
                 "Since we have the chance……"
-            ]
+            ],
+            "text": "Since Dream Journey was going to be tagging along, \nthen we should enjoy it to the fullest."
         },
         {
-            "text": "If we're playing just to win, it might be fun for Dream Journey. \nWith that in mind, I made a suggestion. For whoever loses――",
             "choice_data_list": [
                 "The loser has to listen to one request"
-            ]
+            ],
+            "text": "If we're playing just to win, it might be fun for Dream Journey. \nWith that in mind, I made a suggestion. For whoever loses――"
         },
         {
             "name": "Dream Journey",
@@ -136,26 +136,26 @@
             "text": "Flies tend to swarm all over it, don't they?"
         },
         {
-            "text": "(Rustle……)",
             "choice_data_list": [
                 "Is that the goal……!?"
-            ]
+            ],
+            "text": "(Rustle……)"
         },
         {
             "name": "Dream Journey",
             "text": "…………"
         },
         {
-            "text": "Although I hit several dead ends, I finally reached \nthe goal. There was no one around. Does that mean――",
             "choice_data_list": [
                 "Did I win……?"
-            ]
+            ],
+            "text": "Although I hit several dead ends, I finally reached \nthe goal. There was no one around. Does that mean――"
         },
         {
-            "text": "As I was about to reach the goal, I stopped. \n……Was Dream Journey okay?",
             "choice_data_list": [
                 "……Maybe I'll wait a bit"
-            ]
+            ],
+            "text": "As I was about to reach the goal, I stopped. \n……Was Dream Journey okay?"
         },
         {
             "text": "Although the path was well maintained, it was still \nin the mountains. I didn't want to leave her behind――"
@@ -169,11 +169,11 @@
             "text": "I was a few steps too slow……how unfortunate. As the loser, \nI suppose I'll have to listen to the request of the winner."
         },
         {
-            "text": "I breathed a sigh of a relief at the sight of Dream Journey.",
             "choice_data_list": [
                 "I haven't made it yet, so it's a tie",
                 "I haven't made it yet, so it's a tie"
-            ]
+            ],
+            "text": "I breathed a sigh of a relief at the sight of Dream Journey."
         },
         {
             "name": "Dream Journey",
@@ -192,10 +192,10 @@
             "text": "Trainer-san, there was something I wanted to give you. \nI couldn't find the right timing until today."
         },
         {
-            "text": "The thing that Dream Journey gave me――it was――",
             "choice_data_list": [
                 "My……My wallet!?"
-            ]
+            ],
+            "text": "The thing that Dream Journey gave me――it was――"
         },
         {
             "name": "Dream Journey",
@@ -209,20 +209,20 @@
             "text": "……I was surprised. I didn't remember the exact amount \nthat was in it, but it seemed to all be there. Besides, \nthe thing I wanted most was still there――"
         },
         {
-            "name": "Dream Journey",
-            "text": "Oh. That's……isn't that part of the plan that I wrote up? \nYou put that in your wallet?",
             "choice_data_list": [
                 "Just one page though"
-            ]
+            ],
+            "name": "Dream Journey",
+            "text": "Oh. That's……isn't that part of the plan that I wrote up? \nYou put that in your wallet?"
         },
         {
             "text": "So that I could go to become a partner she could trust. So I \nwouldn't forget my original purpose, and never stop trying."
         },
         {
-            "text": "The proof of my resolve to be Dream Journey's trainer…… \nWould it be an exaggeration to call it that?",
             "choice_data_list": [
                 "Well, it's more like a charm though"
-            ]
+            ],
+            "text": "The proof of my resolve to be Dream Journey's trainer…… \nWould it be an exaggeration to call it that?"
         },
         {
             "name": "Dream Journey",
@@ -247,10 +247,10 @@
             "text": "……the stars are bright. It's quite a nice evening."
         },
         {
-            "text": "And her words 『Don't change』 could mean 『Remain \neasy to handle』, but no matter what her true \nintentions were behind those words――",
             "choice_data_list": [
                 "Thank you, Journey"
-            ]
+            ],
+            "text": "And her words 『Don't change』 could mean 『Remain \neasy to handle』, but no matter what her true \nintentions were behind those words――"
         },
         {
             "text": "It was probably naive, but I thought our current \nrelationship probably wasn't a bad one. At least until \nthe day comes where we can truly trust each other."

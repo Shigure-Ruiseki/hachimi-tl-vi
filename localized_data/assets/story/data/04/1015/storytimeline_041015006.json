@@ -16,11 +16,11 @@
             "text": "This is a trainee's light, one destined to become the Centurial \nHigh King!! My dear luminescent peer shining down upon \nthe world, allow yourself to revel at its resplendent glow!!"
         },
         {
-            "text": "T.M. Opera O stood on the riverbank, sounding even more \nbuoyant than usual.",
             "choice_data_list": [
                 "What are you up to?",
                 "What are you up to?"
-            ]
+            ],
+            "text": "T.M. Opera O stood on the riverbank, sounding even more \nbuoyant than usual."
         },
         {
             "name": "T.M. Opera O",
@@ -48,12 +48,12 @@
             "text": "… a rain cloud moved itself between her and her starry partner."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Phew, our great battle will remain in all of our memories. \nTrainer, my dear, please applaud my stellar opponent.",
             "choice_data_list": [
                 "Has your battle ended…?",
                 "Has your battle ended…?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Phew, our great battle will remain in all of our memories. \nTrainer, my dear, please applaud my stellar opponent."
         },
         {
             "name": "T.M. Opera O",
@@ -67,11 +67,11 @@
             "text": "… The moon would not be gracing the sky for a while \nand if anything, the forecast predicted a rainy night."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "Ah, are there no worthy rivals left for me? \nMy dear trainer, have you knowledge of any?",
             "choice_data_list": [
                 "Umm…"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "Ah, are there no worthy rivals left for me? \nMy dear trainer, have you knowledge of any?"
         },
         {
             "name": "T.M. Opera O",
@@ -85,10 +85,10 @@
             "text": "…… She does actually come across somewhat lonely."
         },
         {
-            "text": "Is there nothing I can do as her trainer? She mentioned \nonly she could match herself… then perhaps ——",
             "choice_data_list": [
                 "You could try competing with yourself…?"
-            ]
+            ],
+            "text": "Is there nothing I can do as her trainer? She mentioned \nonly she could match herself… then perhaps ——"
         },
         {
             "name": "T.M. Opera O",
@@ -129,12 +129,12 @@
             "text": "Please answer me, my dear reflection!"
         },
         {
-            "name": "T.M. Opera O",
-            "text": "…………",
             "choice_data_list": [
                 "…… Not answering, is she?",
                 "…… Not answering, is she?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "…………"
         },
         {
             "name": "T.M. Opera O",
@@ -197,22 +197,22 @@
             "text": "…… <i>Gah</i>, I had no idea my reflection would be so gorgeous. \nAh, however will I overcome this barrier, how many years \nof dedication will it take……"
         },
         {
-            "text": "T.M. Opera O laid motionless where she had flopped down. \nFrom the looks of it, she is taking the loss to herself harshly.",
             "choice_data_list": [
                 "…… You can do it, Opera O",
                 "…… You can do it, Opera O"
-            ]
+            ],
+            "text": "T.M. Opera O laid motionless where she had flopped down. \nFrom the looks of it, she is taking the loss to herself harshly."
         },
         {
             "name": "T.M. Opera O",
             "text": "Definitely. My dictionary does not include \"losing streak\". \nNext time, I will undoubtedly know the glory of victory."
         },
         {
-            "name": "T.M. Opera O",
-            "text": "I must say however, my dear trainer, you are truly astonishing. \nAt this moment I hold nothing but the highest respect for you.",
             "choice_data_list": [
                 "Why is that……?"
-            ]
+            ],
+            "name": "T.M. Opera O",
+            "text": "I must say however, my dear trainer, you are truly astonishing. \nAt this moment I hold nothing but the highest respect for you."
         },
         {
             "name": "T.M. Opera O",
