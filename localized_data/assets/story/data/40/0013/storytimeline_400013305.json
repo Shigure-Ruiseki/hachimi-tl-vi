@@ -10,7 +10,7 @@
                 "Ừm, cứ chơi vui vẻ trước đã nhé!"
             ],
             "name": "Loves Only You",
-            "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ. Mong chờ quá đi♪"
+            "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ. Mong chờ quá đi ♪"
         },
         {
             "choice_data_list": [
@@ -18,7 +18,7 @@
                 "Ừm, cứ chơi vui vẻ trước đã nhé!"
             ],
             "name": "Loves Only You",
-            "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ.  Mong chờ quá đi♪"
+            "text": "Hôm nay Trainer-kun sẽ dẫn em đi tham quan đúng không nhỉ.  Mong chờ quá đi ♪"
         },
         {
             "choice_data_list": [
@@ -91,9 +91,7 @@
             "text": "Trên menu có cả bảng thành phần nữa...... Quả nhiên chọn quán này là chuẩn bài rồi. Mình sẽ dựa vào cả thực đơn ở đây để lên kế hoạch ăn uống cho năm tới......"
         },
         {
-            "choice_data_list": [
-                "Ừm, đúng vậy thật――"
-            ],
+            "choice_data_list": ["Ừm, đúng vậy thật――"],
             "name": "Loves Only You",
             "text": "Náo nhiệt quá anh nhỉ. Có bao nhiêu là khách du lịch giống như chúng mình luôn này!"
         },
@@ -106,23 +104,17 @@
             "text": "Để không rơi vào những tình huống ngoài dự kiến vào năm tới, mình phải ghi nhớ thật kỹ tình trạng đông đúc ở khu vực xung quanh mới được—......."
         },
         {
-            "choice_data_list": [
-                "Ơ kìa? Cái... gì cơ——"
-            ],
+            "choice_data_list": ["Ơ kìa? Cái... gì cơ——"],
             "name": "Loves Only You",
             "text": "Trainer-kun, Aaaa～～～"
         },
         {
-            "choice_data_list": [
-                "Ơ kìa? Cái... gì cơ——"
-            ],
+            "choice_data_list": ["Ơ kìa? Cái... gì cơ——"],
             "name": "Loves Only You",
             "text": "Trainer-kun, Aaaa～～～"
         },
         {
-            "choice_data_list": [
-                "Ưm, lạnh... nhưng ngon quá...?"
-            ],
+            "choice_data_list": ["Ưm, lạnh... nhưng ngon quá...?"],
             "name": "Độc thoại",
             "text": "（Umm）"
         },
@@ -143,9 +135,7 @@
             "text": "Ăn một mình thì cô đơn lắm. \nNên Trainer-kun cũng ăn cùng em nhé?"
         },
         {
-            "choice_data_list": [
-                "A....."
-            ],
+            "choice_data_list": ["A....."],
             "name": "Loves Only You",
             "text": "一Chẳng phải chúng mình đã nói là sẽ đi tham quan cùng nhau sao."
         },
@@ -171,7 +161,7 @@
         },
         {
             "name": "Loves Only You",
-            "text": "Hehe. Em ấy, lúc này đang cảm thấy hạnh phúc luôn hạnh phúc hơn bao giờ hết."
+            "text": "Hehe. Em ấy, lúc này đang cảm thấy hạnh phúc hơn bao giờ hết."
         },
         {
             "name": "Loves Only You",
@@ -195,7 +185,7 @@
         },
         {
             "name": "Loves Only You",
-            "text": "......Trước mắt thì cứ vậy đi đã! Hôm nay chúng mình phải cùng nhau đi tham quan đó nha! Đầu tiên là phải ăn kem chung này cái đã♪"
+            "text": "......Trước mắt thì cứ vậy đi đã! Hôm nay chúng mình phải cùng nhau đi tham quan đó nha! Đầu tiên là phải ăn kem chung này cái đã ♪"
         },
         {
             "name": "Độc thoại",
