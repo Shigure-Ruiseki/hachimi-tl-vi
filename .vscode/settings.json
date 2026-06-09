@@ -1,16 +1,17 @@
 {
     "zokuzoku.enabled": true,
     "files.autoSave": "onFocusChange",
-    "editor.formatOnSave": true,
 
+    "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
 
     "editor.codeActionsOnSave": {
         "source.fixAll.sortJSON": "always"
     },
 
-    "cSpell.language": "en,vi"
+    "cSpell.language": "en,vi",
+    "cSpell.words": [
+        "hachimi",
+        "storytimeline"
+    ]
 }

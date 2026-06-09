@@ -1,0 +1,72 @@
+{
+    "base_url": "https://raw.githubusercontent.com/Shigure-Ruiseki/hachimi-tl-vi/release/localized_data",
+    "files": [
+        {
+            "hash": "b39640fc9ac9d9f88d2201222079a4d71cfbf8ebaa9751c79b40ef638d708837",
+            "path": "assets/story/data/04/1132/storytimeline_041132001.json",
+            "size": 12782
+        },
+        {
+            "hash": "57a59c78ed496beed35e518793151a2465651bf69f0f7773c204b24325c3bb41",
+            "path": "assets/story/data/04/1132/storytimeline_041132002.json",
+            "size": 11626
+        },
+        {
+            "hash": "040a317d1467e5e306ec8898c1ffc690fde66d7a32494e60db2f423b0aac0235",
+            "path": "assets/story/data/04/1132/storytimeline_041132003.json",
+            "size": 15879
+        },
+        {
+            "hash": "8a12a77f7bd2c9ae5fabb0894999b42b3e1fbd88260b473eb655690bfcdcb4a8",
+            "path": "assets/story/data/04/1132/storytimeline_041132004.json",
+            "size": 13088
+        },
+        {
+            "hash": "2c024521f6d3f2618ae5d04f4ebd8e2248d491a704c5f89b699262676395a8d6",
+            "path": "assets/story/data/04/1132/storytimeline_041132005.json",
+            "size": 8203
+        },
+        {
+            "hash": "1e6755a0e965de07a463613d5fa3f789cb54f108586107a2c2ffc25ae149d4b9",
+            "path": "assets/story/data/04/1132/storytimeline_041132006.json",
+            "size": 15980
+        },
+        {
+            "hash": "542a43d51ef07534d142135f8541b82df16abf0d031683bb56adf78faa62e9d5",
+            "path": "assets/story/data/04/1132/storytimeline_041132007.json",
+            "size": 12696
+        },
+        {
+            "hash": "1338b23c3e4a923de865fff7e69ff3d7b33ab120262bb91a6d2c2144630a49d5",
+            "path": "assets/story/data/40/0013/storytimeline_400013305.json",
+            "size": 10281
+        },
+        {
+            "hash": "1c59f0dda3fd9340964c65c09297bee5d94ae2ea2f7279bafa9c067f2d4527a7",
+            "path": "config.json",
+            "size": 2159
+        },
+        {
+            "hash": "7ba9e37536e62d5705c4d1707540c46539a50b50f0a6c1da8b5215576c4edfea",
+            "path": "includes_android",
+            "size": 2161182
+        },
+        {
+            "hash": "da6125f0f17e5372ab7c03b5763b44fec78424dcbfc01154ab30b853129487fe",
+            "path": "includes_win",
+            "size": 2163337
+        },
+        {
+            "hash": "af5626eccaec0f31200aeab9c9403fc2ce1e3cf764550e041ad2062783b1ba6d",
+            "path": "localize_dict.json",
+            "size": 102
+        },
+        {
+            "hash": "7656ea35712ed205c058565d11c1fc19b4054dbb0c513394b37c3dc74438f2d6",
+            "path": "text_data_dict.json",
+            "size": 547
+        }
+    ],
+    "zip_dir": "hachimi-tl-vi-release/localized_data",
+    "zip_url": "https://codeload.github.com/Shigure-Ruiseki/hachimi-tl-vi/zip/refs/heads/release"
+}
