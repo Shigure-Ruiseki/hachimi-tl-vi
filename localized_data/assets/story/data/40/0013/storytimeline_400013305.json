@@ -91,7 +91,9 @@
             "text": "Trên menu có cả bảng thành phần nữa...... Quả nhiên chọn quán này là chuẩn bài rồi. Mình sẽ dựa vào cả thực đơn ở đây để lên kế hoạch ăn uống cho năm tới......"
         },
         {
-            "choice_data_list": ["Ừm, đúng vậy thật――"],
+            "choice_data_list": [
+                "Ừm, đúng vậy thật――"
+            ],
             "name": "Loves Only You",
             "text": "Náo nhiệt quá anh nhỉ. Có bao nhiêu là khách du lịch giống như chúng mình luôn này!"
         },
@@ -104,17 +106,23 @@
             "text": "Để không rơi vào những tình huống ngoài dự kiến vào năm tới, mình phải ghi nhớ thật kỹ tình trạng đông đúc ở khu vực xung quanh mới được—......."
         },
         {
-            "choice_data_list": ["Ơ kìa? Cái... gì cơ——"],
+            "choice_data_list": [
+                "Ơ kìa? Cái... gì cơ——"
+            ],
             "name": "Loves Only You",
             "text": "Trainer-kun, Aaaa～～～"
         },
         {
-            "choice_data_list": ["Ơ kìa? Cái... gì cơ——"],
+            "choice_data_list": [
+                "Ơ kìa? Cái... gì cơ——"
+            ],
             "name": "Loves Only You",
             "text": "Trainer-kun, Aaaa～～～"
         },
         {
-            "choice_data_list": ["Ưm, lạnh... nhưng ngon quá...?"],
+            "choice_data_list": [
+                "Ưm, lạnh... nhưng ngon quá...?"
+            ],
             "name": "Độc thoại",
             "text": "（Umm）"
         },
@@ -135,7 +143,9 @@
             "text": "Ăn một mình thì cô đơn lắm. \nNên Trainer-kun cũng ăn cùng em nhé?"
         },
         {
-            "choice_data_list": ["A....."],
+            "choice_data_list": [
+                "A....."
+            ],
             "name": "Loves Only You",
             "text": "一Chẳng phải chúng mình đã nói là sẽ đi tham quan cùng nhau sao."
         },
