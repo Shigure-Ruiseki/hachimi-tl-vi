@@ -1,0 +1,338 @@
+{
+    "title": "Giáng sinh",
+    "text_block_list": [
+        {
+            "text": "……Giáng sinh năm nay cũng sắp đến rồi."
+        },
+        {
+            "text": "Nếu như mọi năm, vào đúng ngày này, \nLoves Only You sẽ có một buổi livestream \ntiệc Giáng sinh trực tuyến cùng với các\nfan trong cộng đồng, thế nhưng――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Tadaaa ♪ Anh thấy sao?",
+            "choice_data_list": [
+                "Ồ……! Hợp với em lắm……!"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thật không～! ?\nNhư vậy thì lại càng khó nghĩ hơn mất～♪"
+        },
+        {
+            "name": "Nhân viên cửa hàng",
+            "text": "Quý khách cứ thoải mái thử thêm ạ!\nVì bộ nào trông cũng rất hợp với quý\nkhách, nên phía chúng tôi cũng đang\nthấy hào hứng lắm ạ……!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe ♪ Chị khéo nói quá ♡\nVậy thì hôm nay em sẽ bung hết sức mình luôn♪"
+        },
+        {
+            "name": "Nhân viên cửa hàng",
+            "text": "Nếu được, vị khách đi cùng đây cũng thử đồ xem thế nào ạ?"
+        },
+        {
+            "name": "Nhân viên cửa hàng",
+            "text": "Hai bạn rất đẹp đôi khi đứng cạnh nhau, tôi nghĩ sẽ rất hữu ích để tham khảo cho việc mua đồ đôi đấy ạ……!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Chuẩn luôn!\nTrainer-kun, thay đồ đi, thay đồ đi mà!\nEm cũng muốn ngắm anh mặc thử nhiều\nbộ khác nhau nữa!",
+            "choice_data_list": [
+                "Đ-Được rồi, anh biết rồi mà!"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Chuẩn luôn!\nTrainer-kun, thay đồ đi, thay đồ đi mà!\nEm cũng muốn ngắm anh mặc thử nhiều\nbộ khác nhau nữa!",
+            "choice_data_list": [
+                "Đ-Được rồi, anh biết rồi mà!"
+            ]
+        },
+        {
+            "text": "……Về lý do tại sao ngày hôm nay tôi lại cùng với Loves Only You đi chọn trang phục trang trọng như thế này, chuyện phải quay ngược thời gian về trước đó một chút――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――Vé tham dự buổi tiệc mừng công sau giải 『Japan Cup』 từ mọi người á?",
+            "choice_data_list": [
+                "<size=36>Ừ, mọi người bảo hai đứa mình cứ đi cùng nhau đi.</size>",
+                "<size=36>Ừ, mọi người bảo hai đứa mình cứ đi cùng nhau đi.</size>"
+            ]
+        },
+        {
+            "text": "Tấm vé bất ngờ được gửi đến dưới danh nghĩa『Toàn thể fanclub』, vé mời tham dự một chuyến du thuyền ăn tối sang trọng được tổ chức vào đêm Giáng sinh."
+        },
+        {
+            "text": "Khi tìm hiểu, tôi mới biết tỷ lệ chọi tấm vé này cao đến mức không tưởng. Cứ nghĩ đến việc mọi người đã phải vất vả biết bao nhiêu để sở hữu được nó, đôi tay tôi lại bất giác run lên……."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Tuyệt quá……!\nNghe giống như một buổi tiệc ngập tràn tình yêu luôn!",
+            "choice_data_list": [
+                "<size=38>Có điều, ở đó có quy định về trang phục nữa...</size>"
+            ]
+        },
+        {
+            "text": "Kèm theo tấm vé còn có cả một phiếu thuê trang phục được chuẩn bị vô cùng chu đáo. Xem ra đây là lời nhắn nhủ rằng hãy dùng nó để chọn quần áo cho ngày hôm đó."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "........................ Ra là vậy.\nNói cách khác, buổi hẹn hò Giáng sinh của chúng mình đã bắt đầu ngay từ lúc này rồi đúng không nè!",
+            "choice_data_list": [
+                "Ơ, hả...?"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Đi thôi nào, Trainer-kun!\nChúng mình phải đi tìm bộ trang phục ngập tràn tình yêu nhất mới được!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Đi thôi nào, Trainer-kun!\nChúng mình phải đi tìm bộ trang phục ngập tràn tình yêu nhất mới được!"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "――Câu chuyện là thế đấy, và thế là hai đứa tôi đã cùng nhau thử đi thử lại không biết bao nhiêu là bộ rồi."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Trainer-kun, nhìn nè nhìn nè!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Trainer-kun, nhìn nè nhìn nè!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thấy sao nè?\nTrông em có vẻ rất giỏi hộ tống đúng không?",
+            "choice_data_list": [
+                "Em mặc cũng hợp hết á……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ. Ngược lại thì Trainer-kun cái gì cũng khen quá lời hết hà!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ. Ngược lại thì Trainer-kun cái gì cũng khen quá lời hết hà!"
+        },
+        {
+            "name": "Nhân viên cửa hàng",
+            "text": "Hehe……\nQuý khách trông thật là thân thiết với nhau quá ạ"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "……Cứ như vậy, hai đứa tôi vừa vui vẻ bên nhau vừa cùng tìm kiếm trang phục cho ngày hôm đó――"
+        },
+        {
+            "text": "――Và rồi, Giáng sinh cuối cùng cũng đã đến."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――Oa, ngoài bữa tối chính ra họ còn chuẩn bị cả một quầy buffet riêng nữa kìa!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Đã vậy còn có cả dàn nhạc giao hưởng biểu diễn trực tiếp nữa chứ, sang trọng và tuyệt vời ghê♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Nè, Trainer-kun.\nVẫn còn thời gian trước giờ ăn mà, hay là mình vừa ngắm biển đi――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Nè, Trainer-kun.\nVẫn còn thời gian trước giờ ăn mà, hay là mình vừa ngắm biển đi――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "...............Trainer-kun? Anh sao thế?",
+            "choice_data_list": [
+                "À không, chỉ là anh thấy em đẹp quá thôi..."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "...............Trainer-kun? Anh sao thế?",
+            "choice_data_list": [
+                "À không, chỉ là anh thấy em đẹp quá thôi..."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ～, sao tự nhiên anh lại nói thế vào lúc này? Hôm thử đồ em chẳng phải cho anh xem rồi còn gì!",
+            "choice_data_list": [
+                "À, đ-đúng vậy ha. Anh xin lỗi...",
+                "À, đ-đúng vậy ha. Anh xin lỗi..."
+            ]
+        },
+        {
+            "text": "Biết là thế, nhưng đó thực sự là những lời từ đáy lòng khi tôi ngắm nhìn dáng vẻ của Loves Only You đang tỏa sáng giữa không gian lộng lẫy này――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": ".......Trainer-kun trông cũng tuyệt lắm đó ♡",
+            "choice_data_list": [
+                "C-Cảm ơn em……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": ".......Trainer-kun trông cũng tuyệt lắm đó ♡",
+            "choice_data_list": [
+                "C-Cảm ơn em……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe ♪\nAnh ngượng ngùng trông đáng yêu ghê ♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "............Em muốn ra phía boong tàu ngắm cảnh đêm một chút."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Anh dẫn em đi nhé?",
+            "choice_data_list": [
+                "……Đ-Được chứ."
+            ]
+        },
+        {
+            "text": "...Và thế là, đêm đó, tôi đã trải qua một Giáng sinh đáng nhớ cùng Loves Only You."
+        },
+        {
+            "text": "Cứ thế, tôi và Loves Only You cùng nhau ngắm nhìn cảnh sắc thành phố về đêm, rồi dạo quanh boong tàu để giết thời gian chờ tới giờ ăn――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――Bữa ăn lúc nãy tuyệt vời thật......!\nMón chính ngon đến mức chắc đêm nay\nem mơ thấy nó luôn quá......!",
+            "choice_data_list": [
+                "Ừm, món đó ngon thật……!",
+                "Ừm, món đó ngon thật……!"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Nhất định phải cảm ơn mọi người. Lúc livestream em phải kể thật chi tiết cho mọi người nghe luôn......!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hôm nay thực sự là một khoảng thời gian đẹp như mơ vậy――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "…………――――",
+            "choice_data_list": [
+                "……Loves?"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "............Này, Trainer-kun."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "............Này, Trainer-kun."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Chúng ta ấy, từ bây giờ sẽ lại cùng nhau chinh phục thế giới đúng không?",
+            "choice_data_list": [
+                "Ừm, đúng vậy.",
+                "Ừm, đúng vậy."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Trước lúc đó……\nEm nghĩ chúng ta nên quyết định sẵn chuyện này thì tốt hơn."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Là tư thế tạo dáng thương hiệu ấy ạ.",
+            "choice_data_list": [
+                "……Hả?"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Anh thử nghĩ xem.\nChúng ta bước ra đấu trường thế giới, giành chiến thắng vang dội, rồi các phóng viên ùa tới tấp nập……!",
+            "choice_data_list": [
+                "Ừ, ừm..."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Giữa tiếng đèn flash nháy lên liên tục, người ta sẽ hỏi kiểu như: 『Xin cô hãy nhắn nhủ đôi lời đến fan tại Nhật Bản lúc này!』 ấy.",
+            "choice_data_list": [
+                "Hửm……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ngay lúc đó, hai đứa mình liền phối hợp tạo dáng một cái xoẹt, lên hình chẳng phải sẽ cực kỳ ăn ảnh và tràn ngập tình yêu sao?",
+            "choice_data_list": [
+                "Ra, ra là vậy……?"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Và, chính vì lý do đó!\nBây giờ chúng ta cùng luyện tập thử tạo dáng thương hiệu nhé?",
+            "choice_data_list": [
+                "Tại sao?!"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mấy chuyện nhỏ nhặt đó đừng bận tâm mà♪\nXem nào, hay là hai đứa mình dùng câu chào lúc livestream em vẫn hay làm, rồi cùng nhau tạo hình trái tim xem sao?"
+        },
+        {
+            "text": "Dù đang hoàn toàn bị choáng ngợp trước sự dồn dập và chủ động của Loves, nhưng tôi cũng không thể nỡ lòng nào từ chối lời thỉnh cầu của cô ấy――",
+            "choice_data_list": [
+                "Được rồi, trước mắt cứ thử một lần……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, em cảm ơn anh nhé♪\nVậy thì em sẽ nói là 『Love me♡』, sau đó Trainer-kun hãy tiếp lời bằng 『Love you♡』 nha."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, em cảm ơn anh nhé♪\nVậy thì em sẽ nói là 『Love me♡』, sau đó Trainer-kun hãy tiếp lời bằng 『Love you♡』 nha."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Và cuối cùng, hai đứa mình sẽ cùng nói 『Loves Only You♡』 rồi tạo hình trái tim!\nThấy sao ạ? Nghe ngập tràn tình yêu đúng không!",
+            "choice_data_list": [
+                "Ngại, ngại chết mết...!",
+                "Ngại, ngại chết mết...!"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Không sao, không sao đâu mà!\nCứ làm thử đi, anh sẽ quen ngay thôi♪\nNào, chúng ta bắt đầu ngay thôi nhé♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "............................Y-yêu em chứ? (L-Love me...?)",
+            "choice_data_list": [
+                "Ơ――"
+            ]
+        },
+        {
+            "text": "Lần này cô ấy nói hơi khác so với những gì cô ấy thường nói trên livestream."
+        },
+        {
+            "name": "Loves Only You",
+            "text": ".......Đến lượt Trainer-kun rồi đó ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": ".......Đến lượt Trainer-kun rồi đó ♪"
+        }
+    ]
+}
