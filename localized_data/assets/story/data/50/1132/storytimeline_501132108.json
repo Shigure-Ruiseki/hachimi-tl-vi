@@ -1,0 +1,179 @@
+{
+    "title": "Fan Fest",
+    "text_block_list": [
+        {
+            "name": "Độc thoại",
+            "text": "......Năm nay cũng vậy, thời điểm diễn ra 『Fan Fest』 thường niên của Học viện Trasen đang đến gần."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Như mọi năm, học viện sẽ mở cửa tự do, chào đón đông đảo người hâm mộ đến tham gia và tổ chức các hoạt động lễ hội thể thao với quy mô lớn, thế nhưng――"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Năm nay, do các biện pháp phòng chống dịch, phía học viện đã chính thức thông báo rằng sự kiện sẽ lần đầu tiên được tổ chức trực tuyến......"
+        },
+        {
+            "name": "Bình luận",
+            "text": "『Sắp đến Fest rồi』『Muốn gặp mặt quá～』\n『Ai ngờ lại trực tuyến..』『Buồn ghê ;;』\n『Tầm này đành chịu thôi』『Khó thật～』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Đúng là vậy nhỉ.\nThật tiếc vì lại mất đi cơ hội để gặp mọi người trực tiếp. Nhưng mà――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thấy mọi người mong chờ như thế này làm em cũng tràn đầy quyết tâm luôn ấy♪ Hôm đó em sẽ cố gắng hết sức, nên nhớ cổ vũ cho em qua buổi stream nha♡"
+        },
+        {
+            "name": "Bình luận",
+            "text": "『Hóng quá đi』『Ủng hộ hết mình luôn!』『Đặt gạch hóng từ giờ』『Lên dây cót tinh thần thôi!』『Sẽ canh xem trực tiếp luôn～』『Mong chờ quá đi~!』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "(Hì hì. Trông mọi người vui chưa kìa♪ Dù có dịch bệnh đi chăng nữa, xem ra fanclub vẫn không sao cả nhỉ)"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "À, nhắc mới nhớ, Takano Dofu-san và những người khác năm nào cũng đi dự Fan Fest đúng không! Không biết năm nay họ có xem livestream không nữa?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "............Ủa? Hôm nay Takano Dofu-san không xem nhỉ. Em cứ cảm giác là giờ này lúc nào bác ấy cũng ở đây cơ mà――"
+        },
+        {
+            "name": "Bình luận",
+            "text": "『Nhắc mới nhớ không thấy thật nhỉ』\n『Lạ ghê』『Thấy trên tiểu sử là tạm nghỉ một thời gian』『Chắc do thời buổi dịch bệnh rồi』『Có ai biết gì không～』"
+        },
+        {
+            "name": "Bình luận",
+            "text": "『Hôm trước tôi nghe bảo quán của ông ấy đang điêu đứng vì dịch bệnh khiến khách khứa giảm mạnh. Chắc một thời gian nữa mới quay lại được』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Đúng, vậy nhỉ.\nBây giờ ai cũng…… gặp khó khăn……――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "............Dù có hơi đột ngột một chút, nhưng em thực sự mong mọi người trước hết hãy tự chăm sóc bản thân, và luôn đặt sức khỏe lên hàng đầu nhé."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Bởi vì niềm hạnh phúc lớn nhất của em là được thấy mọi người luôn khỏe mạnh và vui vẻ mà ♪"
+        },
+        {
+            "name": "Bình luận",
+            "text": "『Yêu sự dịu dàng này quá』『Loves-chan cũng vậy nhé!』『Bệnh truyền nhiễm chết tiệt』『Sức khỏe là trên hết!』『Thế giới khắc nghiệt quá』『Tôi chịu đựng được～』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "…………――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Trainer-kun.\nTrong buổi livestream nãy, em nhận ra một điều này――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Trainer-kun.\nTrong buổi livestream nãy, em nhận ra một điều này――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Có vẻ như ảnh hưởng của bệnh truyền nhiễm đã tác động đến mọi người trong cộng đồng rồi......"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Chẳng hạn như có những fan cũ vốn luôn vào xem livestream giờ lại không thấy nữa...... Còn những người đang ở đây thì dường như ai cũng gặp khó khăn ở một khía cạnh nào đó――",
+            "choice_data_list": [
+                "<size=38>……Anh cũng vậy, anh cũng cảm nhận chút đó.</size>",
+                "<size=38>……Anh cũng vậy, anh cũng cảm nhận chút đó.</size>"
+            ]
+        },
+        {
+            "name": "3-Day Type Girl",
+            "text": "『Mà thật sự luôn, công việc của tôi đi tong rồi. Các sự kiện lên lịch đều bị hủy sạch bách. Cả nhân viên tại hiện trường lẫn cấp trên đều đang rất bối rối ấy～……』"
+        },
+        {
+            "name": "HW@OP",
+            "text": "『Ở nước ngoài thật sự cũng đang hỗn loạn đủ đường. Không biết cái tình trạng này còn kéo dài đến bao giờ nữa đây trời～……』"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Ngay cả trong những tương tác gần đây với các thành viên cộng đồng, số người than phiền về những thay đổi trong cuộc sống do bệnh truyền nhiễm gây ra đang tăng lên."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tình trạng đó dường như cũng đang bắt đầu ảnh hưởng đến cả những thứ như tỷ lệ người truy cập vào livestream của Loves Only You......"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Quả nhiên đúng là như vậy nhỉ."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "――Nếu vậy thì lần này, đến lượt em cổ vũ cho mọi người rồi!!",
+            "choice_data_list": [
+                "Hả……?"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Đúng là vậy mà? Ở Dubai, em đã được mọi người cổ vũ rất rất nhiều luôn đó ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Lúc cuộc đua bị hủy bỏ, em đã nghĩ chắc là mọi người đều đang rất thất vọng và buồn."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thế nên em mới nghĩ 『Mình phải cổ vũ mọi người thôi』,『Phải cho mọi người thấy mình đang làm rất tốt để mọi người yên tâm』――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Nhưng ngược lại…… em lại được mọi người cổ vũ. Mọi người đã dành cho em rất nhiều lời nói ấm áp……!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Tiếp theo sẽ là lượt của em. Nếu mọi người đang phải đau khổ, em muốn cổ vũ cho trái tim mọi người dù chỉ là một chút……!",
+            "choice_data_list": [
+                "Loves……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Vì vậy nên em đang hừng hực khí thế cho Fan Fest này. Với tư cách là một streamer, em nhất định sẽ khiến cho việc tổ chức trực tuyến này thành công rực rỡ cho mà xem!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Và để cho mọi người, ngay lúc này, có thể vui vẻ và phấn chấn lên dù chỉ một chút thôi……!"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "……Và cứ như thế, Loves Only You hướng về Fan Fest với một trái tim tràn đầy nhiệt huyết――"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "――Và rồi, ngày hôm đó cũng đã đến."
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……Dù đã biết trước rồi, nhưng khi thực sự không có một bóng người thế này…… cô đơn thật đấy."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Họ đã tái tạo lại bầu không khí của những năm trước, nhưng... thật buồn khi không có fan ở đây..."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Cả hai cậu đừng làm vẻ mặt như thế nữa, hãy cười lên nhiều hơn đi nào ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "......Tớ hiểu rất rõ cảm giác cô đơn đó mà. Nhưng điều đó chắc chắn cũng giống với tất cả những fan không thể đến đây ngày hôm nay thôi."
+        }
+    ]
+}
