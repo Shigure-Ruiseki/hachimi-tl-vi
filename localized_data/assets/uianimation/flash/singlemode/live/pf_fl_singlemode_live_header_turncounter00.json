@@ -1,6 +1,6 @@
 {
-    "android": {
-        "bundle_name": "QOIIQDJFJRR6OHOCUJ6SJFW7LFI6PBVW"
+    "windows": {
+        "bundle_name": "TU6V3LNFA6E7H2SEGT7TEAWWZLNNBLOG"
     },
     "data": {
         "motion_parameter_list": {
@@ -57,12 +57,12 @@
             "16": {
                 "text_param_list": {
                     "0": {
+                        "text": "turn(s)",
                         "position_offset": {
                             "x": -1.975,
                             "y": 0,
                             "z": 0
-                        },
-                        "text": "turn(s)"
+                        }
                     }
                 }
             },
@@ -74,8 +74,5 @@
                 }
             }
         }
-    },
-    "windows": {
-        "bundle_name": "TU6V3LNFA6E7H2SEGT7TEAWWZLNNBLOG"
     }
 }
