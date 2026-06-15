@@ -1,0 +1,252 @@
+{
+    "title": "Sẻ Chia Cùng Alchemilla Mollis",
+    "text_block_list": [
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(——Danh sách tên của trainer... à, thấy rồi.\n...Hả? Là một trainer mới sao? ——À, nhưng mà)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Trước đây, anh ấy đã từng làm trợ lý trainer nhỉ.\nRa vậy... có phải vì thế mà nên ảnh mới hiểu rõ cảm xúc của bọn mình đến thế không?)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(......Công việc của trợ lý trainer là hỗ trợ đội.\nVậy, anh ấy cũng có nhiều cơ hội tiếp xúc với các Uma Musume)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Thành tích quá khứ là... ...trống ư? Số Uma Musume từng huấn luyện là... ...không có)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Nếu là trợ lý trainer, thì lại thành ra như vậy nhỉ......"
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "A～～～, chân mình không trụ nổi đến cuối nữa rồi.......\nCho em hỏi, chỗ nào đã chưa tốt vậy ạ?",
+            "choice_data_list": [
+                "<size=28>Do hướng đạp chân làm trọng tâm của em hơi chệch một chút.</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(——Ra là vậy. Dù có nhìn kỹ mình cũng hoàn toàn không nhận ra.\nVậy mà ảnh lại có thể đưa ra phân tích và đối sách một cách trôi chảy như thế——)"
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Nghĩa là... như thế này!? ——Ồ, cảm giác lực đẩy khác hẳn luôn!\nHehe, với cách này thì chắc là em có thể phá kỷ lục thời gian rồi!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Chị ấy, người lúc đầu tưởng chừng như bị cái bóng của thất bại đè bẹp—— Giờ đây, đang tràn đầy tự tin và mỉm cười.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Anh ấy quả là một huấn luyện viên rất xuất sắc.\nNhưng mà...... lại không hề thể hiện trong bảng đánh giá——"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Ngày diễn ra \"Fukushima Kinen\"——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——......ư, thắng rồi! A, tốt quá rồi——!\nÀ, Trainer-san, anh vừa lọt vào ống kính một chút kìa. Hehe, trông ảnh có vẻ vui lắm."
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Ở cự ly 2000m mình không đạt được kết quả tốt, nên lần này mình cũng đã rất lo lắng không biết sẽ ra sao, nhưng nhờ có Trainer <username> mà mình đã giành chiến thắng!"
+        },
+        {
+            "name": "Trainer tiền bối",
+            "text": "Vâng, tôi đã xem qua livestream. Tôi nghĩ chiến thắng này là xứng đáng! Có lẽ do chuỗi thất bại trong một khoảng thời gian trước đó mà cô ấy đã hình thành tâm lý tự ti, nhưng mà——"
+        },
+        {
+            "name": "Trainer tiền bối",
+            "text": "Trainer <username> đã dẫn dắt cô ấy!\nNếu không phải là cậu ấy thì tôi đã không thể tin tưởng giao phó được. Tôi xin cảm ơn từ tận đáy lòng!"
+        },
+        {
+            "name": "Trainer tiền bối",
+            "text": "Trainer <username> đã dẫn dắt cô ấy!\nNếu không phải là cậu ấy thì tôi đã không thể tin tưởng giao phó được. Tôi xin cảm ơn từ tận đáy lòng!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Đến cả Trainer tiền bối mà cũng tin tưởng ảnh đến mức này——\nQuả nhiên, anh ấy thực sự là một huấn luyện viên vô cùng xuất sắc."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Không biết báo đã đến chưa nhỉ?)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Có rồi.\nBài viết về『Fukushima Kinen』hôm qua là——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Không thể nào......."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Không hề có một dòng nào nhắc đến trainer cả.......\nTrong khi cô ấy và cả trainer tiền bối đều đã nhắc đến anh ấy trong phần bình luận mà——)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Những fan đã theo dõi cuộc đua cảm thấy thế nào——?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Cũng giống như báo thôi...... Không được nhắc đến nhiều lắm. Dù biết là không thể làm gì khác được, nhưng những đóng góp ấy lại bị che khuất sau cái bóng của các trainer iền bối......)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Mặc dù anh ấy là một trainer tuyệt vời..."
+        },
+        {
+            "name": "Giảng viên",
+            "text": "——Mọi người, xong 3 hiệp rồi nhé. Sau khi nghỉ giải lao, chúng ta sẽ đo thời gian! Vì có cả các trainer đến để quan sát tuyển trạch nữa, nên mọi người cùng cố gắng nhé!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Trainer đến để tuyển trạch.......——à)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer. ——Anh đến để tham quan ạ?",
+            "choice_data_list": [
+                "<size=34>À ừ. Anh đến để quan sát tuyển trạch thôi. ——……</size>",
+                "<size=34>À ừ. Anh đến để quan sát tuyển trạch thôi. ——……</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Ah, ừm...... ——Á, trên mặt em có dính gì sao ạ?",
+            "choice_data_list": [
+                "<size=30>Không có gì đâu…… Anh chỉ thấy em khỏe mạnh là tốt rồi.</size>",
+                "<size=30>Không có gì đâu…… Anh chỉ thấy em khỏe mạnh là tốt rồi.</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng, em ổn ạ. Em đã quyết định là sẽ suy nghĩ về cuộc đua một cách bình tĩnh mà không vội vàng rồi. ——Cảm ơn anh đã quan tâm ạ."
+        },
+        {
+            "name": "Umamusume thuộc một đội",
+            "text": "Trợ lý Tra... không, Trainer!\nÀ, anh đang bận à. ......Có vẻ anh đang bận thật, thôi vậy.",
+            "choice_data_list": [
+                "<size=26>Khoan đã, anh vẫn có thể dành thời gian để lắng nghe em tâm sự mà.</size>"
+            ]
+        },
+        {
+            "name": "Umamusume thuộc một đội",
+            "text": "Thật á!? Vậy thì sau khi tập xong, cho em xin chút thời gian nhé! Xin lỗi vì đã làm phiền anh, lát gặp lại nhé!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Có phải là người từ đội cũ của anh không ạ?\nHehe, anh được mọi người quý mến thật đấy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Mình hiểu được cảm giác đó. Vì anh ấy là một huấn luyện viên nhân hậu mà—— Chắc chắn là anh ấy sẽ lắng nghe và thấu hiểu cho đối phương thôi)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Có rất nhiều Uma Musume ngưỡng mộ ảnh. Việc trainer có nhận được nhiều bó hoa hơn nữa cũng là chuyện bình thường thôi)"
+        },
+        {
+            "name": "Trợ lý Trainer",
+            "text": "(Aaaa, chết rồi! Mình quên mất việc đăng ký thi đấu có hạn chót vào hôm nay rồi!! Đúng lúc Trainer đang đi công tác thế này! Nhưng mà, việc huấn luyện...)",
+            "choice_data_list": [
+                "<size=38>Việc huấn luyện, để tôi trông chừng giúp cho?</size>",
+                "<size=38>Việc huấn luyện, để tôi trông chừng giúp cho?</size>"
+            ]
+        },
+        {
+            "name": "Trợ lý Trainer",
+            "text": "Thật... thật chứ...? V-vậy thì... xin phép cho tôi được nhận lòng tốt của anh... Đây là thực đơn tập luyện hôm nay ạ! Xin lỗi vì đã làm phiền, nhờ anh giúp cho!",
+            "choice_data_list": [
+                "<size=40>Không cần phải vội đâu, cứ từ từ làm là được.</size>",
+                "<size=40>Không cần phải vội đâu, cứ từ từ làm là được.</size>"
+            ]
+        },
+        {
+            "name": "Trainer đội khác",
+            "text": "<username>, cậu ôm đồm quá nhiều việc rồi phải không? Chẳng phải cậu cũng nên tìm một Uma Musume cho riêng mình phụ trách hay sao?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Hình như đó là... Trainer của đội mà anh ấy từng thuộc trong thời gian còn làm trợ lý trainer...)",
+            "choice_data_list": [
+                "<size=34>Nhưng mà, người gặp khó khăn là các Uma Musume.</size>"
+            ]
+        },
+        {
+            "name": "Trainer đội khác",
+            "text": "Tôi hiểu điều đó, nhưng cậu cũng phải suy nghĩ cho sự nghiệp của chính mình nữa chứ.",
+            "choice_data_list": [
+                "<size=30>Em biết nhưng em luôn đặt các Uma Musume lên hàng đầu</size>",
+                "<size=30>Em biết nhưng em luôn đặt các Uma Musume lên hàng đầu</size>"
+            ]
+        },
+        {
+            "name": "Trainer đội khác",
+            "text": "......Đặt các Uma Musume lên hàng đầu sao——",
+            "choice_data_list": [
+                "<size=32>Vâng. Đó chính là điều đầu tiên mà em đã được anh dạy.</size>"
+            ]
+        },
+        {
+            "name": "Trainer đội khác",
+            "text": "À... à, đúng rồi nhỉ. Hồi cậu mới vào đội, tôi đã từng mắng cậu rất nghiêm khắc. Rằng hãy luôn ưu tiên các Uma Musume lên hàng đầu."
+        },
+        {
+            "name": "Trainer đội khác",
+            "text": "Ra là vậy... Hèn chi cậu lúc nào cũng hành động vì lợi ích của các Uma Musume......",
+            "choice_data_list": [
+                "<size=32>Em muốn trở thành trainer không khiến anh phải tự hào.</size>"
+            ]
+        },
+        {
+            "name": "Trainer đội khác",
+            "text": "......Cậu nói vậy thì... tôi còn biết nói gì hơn được nữa đây."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(A... — thật là một người ấm áp. Chỉ một lòng một dạ nghĩ cho các Uma Musume mà thôi—)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Thế nên—anh ấy mới không bỏ lỡ cả những thay đổi nhỏ nhặt nhất của mình. Nhẹ nhàng, lặng lẽ—như những đóa hoa—luôn ở bên cạnh trái tim mình)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Luôn trân trọng khao khát được chạy của mình như một báu vật. ......Không có trainer nào dịu dàng đến thế cả)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Thế mà, tại sao chứ...... vẻ rực rỡ ấy, lại bị chôn vùi đi. Tại sao không thể tán dương sự tuyệt vời đó cơ chứ?)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Dẫu rằng—bó hoa vàng rực kia mới là thứ xứng đáng dành cho anh.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(......Những bó hoa. Những chiến thắng——chỉ có Uma Musume mới có thể mang đến. ——chỉ có Uma Musume, mới có thể mang đến.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(............Nếu vậy thì......——phải là mình!)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "――Trainer!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ưm...!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Liệu... anh có thể trở thành trainer của em được không......!"
+        }
+    ]
+}
