@@ -775,8 +775,8 @@
         },
         {
             "path": "assets/atlas/campaign/campaign.json",
-            "hash": "d8afb46661bb4771ea58ccec5c698588f9f7b64425aef9faa7b0e2938717a247",
-            "size": 167
+            "hash": "fe459cd96acce25a74e98c6965785bb85ffbf753437f88670ae04d7b4436e3ee",
+            "size": 85
         },
         {
             "path": "assets/atlas/challengematch/challengematch.diff.png",
@@ -785,8 +785,8 @@
         },
         {
             "path": "assets/atlas/challengematch/challengematch.json",
-            "hash": "b432fad67b8626fbe0f966a743b26a77674ff993bc4c4169c6071adf4bfdc618",
-            "size": 167
+            "hash": "f5aba9915bbc8ebd1dc445f83d451306efbee6962de5651b0bd91b8f466e7335",
+            "size": 85
         },
         {
             "path": "assets/atlas/championsmeeting/championsmeeting.diff.png",
@@ -795,8 +795,8 @@
         },
         {
             "path": "assets/atlas/championsmeeting/championsmeeting.json",
-            "hash": "a383819f9adb3107d2457da8653945f4cf27da8a1f66365b8bf0462de139ed51",
-            "size": 167
+            "hash": "ba1e414cf9bcaa228a5d65c16aa0235428047ca6b93b2dae8e115fa282be64ac",
+            "size": 85
         },
         {
             "path": "assets/atlas/common/common.diff.png",
@@ -805,8 +805,8 @@
         },
         {
             "path": "assets/atlas/common/common.json",
-            "hash": "3de00d53b8e470bde24490a1a2ff4101b9700fd13bf7c1eed28ed58c7af1eaf2",
-            "size": 167
+            "hash": "88e41c119213426d27be3ad7ed94c90d579d67e28afaf9959791a996a6e2bf6c",
+            "size": 85
         },
         {
             "path": "assets/atlas/factorresearch/factorresearch.diff.png",
@@ -815,8 +815,8 @@
         },
         {
             "path": "assets/atlas/factorresearch/factorresearch.json",
-            "hash": "46101ee2c368fddcd5da322be9f54dce1df683f335e34e487d6a531ae7013c66",
-            "size": 167
+            "hash": "41ca8393d04362e5e8be14975e2703d2e47da28a15e190debc3b8a187e204eb6",
+            "size": 85
         },
         {
             "path": "assets/atlas/gacha/gacha.diff.png",
@@ -825,8 +825,8 @@
         },
         {
             "path": "assets/atlas/gacha/gacha.json",
-            "hash": "c599131afbb95bf5f19e116abd22218c607fe3a980a3fe1c65eb365cc5d39576",
-            "size": 167
+            "hash": "b43aa3216e787f5ebdc60446ba335da4280f70d516f8a9601754ce57b964d7ce",
+            "size": 85
         },
         {
             "path": "assets/atlas/heroes/heroes.diff.png",
@@ -835,8 +835,8 @@
         },
         {
             "path": "assets/atlas/heroes/heroes.json",
-            "hash": "f6b92ef2ca338601ecf7b20092bb1439f62b73fbfc46c5c347f17ac7ca88febf",
-            "size": 167
+            "hash": "8953acf57ccc814f8cf8758118bacab726e71b0bb7fc1686357cf1137026b142",
+            "size": 85
         },
         {
             "path": "assets/atlas/home/home.diff.png",
@@ -845,8 +845,8 @@
         },
         {
             "path": "assets/atlas/home/home.json",
-            "hash": "aa687d751479ae4a6dcc709299a5b144422acad606c80d7159cee9102f1b9b0f",
-            "size": 167
+            "hash": "23ffaeff103addcd14839c50e90bff1da1e1da76140baa6941a289f88492d5d4",
+            "size": 85
         },
         {
             "path": "assets/atlas/mission/mission.diff.png",
@@ -855,8 +855,8 @@
         },
         {
             "path": "assets/atlas/mission/mission.json",
-            "hash": "e830da529c72e116ca333847a20b47018105dc34c53ec3652a7abd59cc22c56b",
-            "size": 167
+            "hash": "f91d1d32467806ffc16baecd631ad405aa0390e41a947cad17a0ac531102306d",
+            "size": 85
         },
         {
             "path": "assets/atlas/photostudio/photostudio.diff.png",
@@ -865,8 +865,8 @@
         },
         {
             "path": "assets/atlas/photostudio/photostudio.json",
-            "hash": "82aea2d35dc50b0d5aca423e200295aeaa773912375404bfa7036f135a1c2fb5",
-            "size": 167
+            "hash": "e74d25fd284aaac317cf5e70ab850bffa06d2031e541d57c3beb3a4c8c77dec1",
+            "size": 85
         },
         {
             "path": "assets/atlas/practicerace/practicerace.diff.png",
@@ -875,8 +875,8 @@
         },
         {
             "path": "assets/atlas/practicerace/practicerace.json",
-            "hash": "9f4478fff057ba1329ef91b253f1a623a420bed2b3a49a8a2aec624b15ed89cf",
-            "size": 167
+            "hash": "b5981febe80f6464fb7a46f384107c04275f4ce23b6545da5a8c5512032ada0a",
+            "size": 85
         },
         {
             "path": "assets/atlas/race/race.diff.png",
@@ -885,8 +885,8 @@
         },
         {
             "path": "assets/atlas/race/race.json",
-            "hash": "ba57a61d16f1bb6db82a975b213e395a8fccb955bba17a325bdf7e3d5bee223b",
-            "size": 167
+            "hash": "301ebd7d0b7f072086e9ac26c873ca160c03f198c0d61319a17f5a30c1046f93",
+            "size": 85
         },
         {
             "path": "assets/atlas/racecommon/racecommon.diff.png",
@@ -895,13 +895,13 @@
         },
         {
             "path": "assets/atlas/racecommon/racecommon.json",
-            "hash": "f0ccdf50cbffb99d4af51d5f416c9e770de2f1eda31730c72778f8c5b4e7a109",
-            "size": 167
+            "hash": "fa681f5af337c18d975474d6d10e97d22b49a80ed97607f7b26abacfc604b6e0",
+            "size": 85
         },
         {
             "path": "assets/atlas/raceorder/raceorder.json",
-            "hash": "eace8daab9a14cc510a44956940550bbdb75975374fd22946267678211023ae2",
-            "size": 167
+            "hash": "7bfec24617d3ddbe319d18caf0c06996ee0e910d8f17f8184521621dc982f925",
+            "size": 85
         },
         {
             "path": "assets/atlas/raceorder/raceorder.png",
@@ -915,8 +915,8 @@
         },
         {
             "path": "assets/atlas/roommatch/roommatch.json",
-            "hash": "2e8fba7b96feda3093ce248b914b24cfd72b142e304015f06334e8c6c184cebc",
-            "size": 167
+            "hash": "1c9840a3ddb39ac5273f0832beca9ca01a18127dffcff64d79468a852473b4e0",
+            "size": 85
         },
         {
             "path": "assets/atlas/schedulebook/schedulebook.diff.png",
@@ -925,8 +925,8 @@
         },
         {
             "path": "assets/atlas/schedulebook/schedulebook.json",
-            "hash": "5805abcbc629586bd1a332def885eae6d8f146fa6c717e0320ae2c078c1104bf",
-            "size": 167
+            "hash": "c3dbde52089261e50583d0a336cbf5ce52c57b06e1201f3c4db4b31709f37614",
+            "size": 85
         },
         {
             "path": "assets/atlas/single/single.diff.png",
@@ -935,8 +935,8 @@
         },
         {
             "path": "assets/atlas/single/single.json",
-            "hash": "eb5c6557009db6a0988e316594431010dd8f5680071229032b7b3aea80ef0995",
-            "size": 167
+            "hash": "94626152e3b15bfeacdc447594c4daa162f1656f5a1ba2f66221103fc5fd3cd2",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.diff.png",
@@ -945,13 +945,18 @@
         },
         {
             "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.json",
-            "hash": "c74d7a66f754d8253640a1d9fc1a3a511d3b862de21a299e3c7fc6a0aa8c38ad",
-            "size": 167
+            "hash": "8201ba9372b7a562c3f28433fd904afa73ae33074e350cc829fd71d78d0f1e4f",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariobreeders/singlemodescenariobreeders.diff.png",
             "hash": "07abde10ad7daab9d2bac2d2184449488059c6d60ee3f3295da2ef1403e26f88",
             "size": 59955
+        },
+        {
+            "path": "assets/atlas/singlemodescenariobreeders/singlemodescenariobreeders.json",
+            "hash": "16feaa3a71132b3ff0facbcf26f808be4400bd688e178d6a35a071b71371b545",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.diff.png",
@@ -960,8 +965,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.json",
-            "hash": "cc3a8d472e9208930d025ad2c5d8ad39d579b3533d392ac38612801715d69520",
-            "size": 167
+            "hash": "9baadd3dd82ae54bac6658efc8b99a21199c615ea9d5ed7305626d2d0d7477c0",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariofree/singlemodescenariofree.diff.png",
@@ -970,8 +975,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariofree/singlemodescenariofree.json",
-            "hash": "56dc756ea1b8dcf80320c6b3dc5030ddae0a0c1e2414add87a788a7f8af3ab4a",
-            "size": 167
+            "hash": "7d0c7e8a1559b256c41537e744913df83a263ce2894e7cdca44f97911d14c929",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.diff.png",
@@ -980,8 +985,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.json",
-            "hash": "a5937b29ae7a0a21ecb13631c787e30970aa92cad633d9cb2c9539258346f86e",
-            "size": 167
+            "hash": "c2eb0f3cb9c24a1ce80230e8f62f696cc8d5982c249bd3b002cffe746e34ccb4",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.diff.png",
@@ -990,8 +995,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.json",
-            "hash": "e25f94063c8615f61ce93a44a0de8fd7dabef0b3ea95a668809d048fa69046a4",
-            "size": 167
+            "hash": "8d2bc9a05776c413178b38cd074be5c5315304953f33022260dbe9799a0de187",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.diff.png",
@@ -1000,8 +1005,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.json",
-            "hash": "868b63bbcba40ab6980408e4350d71b88de5c425bfa7552f5e9c4335e31faa3c",
-            "size": 167
+            "hash": "48fbc9cb7af4344fd4830d01a39f6daf5abaa0772aa3225db32a741f02ae44ed",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
@@ -1010,8 +1015,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.json",
-            "hash": "7c56ee30cc46bec1ea3e703dd0da94a72b15340d0cd4a2bc09f0d9bfe2855a91",
-            "size": 167
+            "hash": "191a6384d96224984be3c24059df3aa255edba2a28ddf03abc5680a54dbf2679",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.diff.png",
@@ -1020,8 +1025,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.json",
-            "hash": "c7eaaefd1558eaeef9d2d35b99fb2e1977cbe8af4338625a8ac6b77c177c4aa4",
-            "size": 167
+            "hash": "a89be1da1e431dd3333ed3fd93807e635ddb8303aa2a297a6ec3e4c8c6dfbdab",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
@@ -1030,8 +1035,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.json",
-            "hash": "6249686660379d4d6f8e3ee256e4ee64c90eecff566fc6ae2554c5f53f2eb363",
-            "size": 167
+            "hash": "7d566da59ceb8fee3f9b24b40a6f3b9ad42012d085855d51a5327ee5989e225e",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.diff.png",
@@ -1040,8 +1045,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.json",
-            "hash": "3ca89ce3b9cc065d3541a1bb187e81728aa9a6abfe53d3e2404cd77b1431cb38",
-            "size": 167
+            "hash": "e26aa60f27d24ac2943948d515baa9f0842a8bd07d59e17a14b284de0c75e8d4",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.diff.png",
@@ -1050,8 +1055,8 @@
         },
         {
             "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.json",
-            "hash": "43ec93e17ac6fc231154101c966d002944fc40481cb216124ef8572b4a2f2fe8",
-            "size": 167
+            "hash": "9484111404112e760f0890a22512bd4b52d08e4413ef7c338f87cb2f228d2054",
+            "size": 85
         },
         {
             "path": "assets/atlas/singleresult/singleresult.diff.png",
@@ -1060,8 +1065,8 @@
         },
         {
             "path": "assets/atlas/singleresult/singleresult.json",
-            "hash": "45545cdc1cb354ebe09d8a8cce99d4aa83012a870cf07fd19f43ff2bd065ab41",
-            "size": 167
+            "hash": "366fb10a675abb4e8a3aaad4fa9c9c607fb14a68c49dded26a397b78ad11b8f3",
+            "size": 85
         },
         {
             "path": "assets/atlas/singlestart/singlestart.diff.png",
@@ -1070,8 +1075,8 @@
         },
         {
             "path": "assets/atlas/singlestart/singlestart.json",
-            "hash": "dc680a56ecd9ff64ebfd0766c31be445e7f73e509ad855ca635d3a5062f7d80f",
-            "size": 167
+            "hash": "6a2ff3359b9b2819421de7a1ed24332603d52a15d2139bd8ec4f5438e92ca257",
+            "size": 85
         },
         {
             "path": "assets/atlas/storyevent/storyevent.diff.png",
@@ -1080,8 +1085,8 @@
         },
         {
             "path": "assets/atlas/storyevent/storyevent.json",
-            "hash": "6c973b0bd89f87609be380b4df19932e0eaad9746bd355ae7343aa2e37cb5a47",
-            "size": 167
+            "hash": "fc863e7a9ee259466dcf3e85be1b9f9680d60b5bd5d34055086f09ffe2f6f9ee",
+            "size": 85
         },
         {
             "path": "assets/atlas/teambuilding/teambuilding.diff.png",
@@ -1090,8 +1095,8 @@
         },
         {
             "path": "assets/atlas/teambuilding/teambuilding.json",
-            "hash": "d700388ce7b200f8b4989fd0a202e1929c3b055d9451f13df57cc2abe9db0907",
-            "size": 167
+            "hash": "856b3b31942dc14823cb5100b758c481b6bf8befb5176d4cf3f04bd4ff46521c",
+            "size": 85
         },
         {
             "path": "assets/atlas/teamstadium/teamstadium.diff.png",
@@ -1100,8 +1105,8 @@
         },
         {
             "path": "assets/atlas/teamstadium/teamstadium.json",
-            "hash": "28beb86f1e32b90a2c78e282044989ac55ee9ee494eefafc19e10374f7ca1fbc",
-            "size": 167
+            "hash": "397e7a20baf8e9fccda1daed531367494f60ee6911d0d17782ac694d472f8387",
+            "size": 85
         },
         {
             "path": "assets/atlas/trainingreport/trainingreport.diff.png",
@@ -1110,8 +1115,8 @@
         },
         {
             "path": "assets/atlas/trainingreport/trainingreport.json",
-            "hash": "5f8e8a4c44bd5dd1ccccbb538b198bbf4357087748a5860328776478e6e74d91",
-            "size": 167
+            "hash": "68b9e8eb6c7fadffb920a15319f743fcc2a47d0b0b098697c3e0387a242df9e6",
+            "size": 85
         },
         {
             "path": "assets/atlas/transferevent/transferevent.diff.png",
@@ -1120,8 +1125,8 @@
         },
         {
             "path": "assets/atlas/transferevent/transferevent.json",
-            "hash": "c46b092fcfe15c45dab779868f1b12a89ba39fc6f9b1c3f086d8f2d46d2c7ccc",
-            "size": 167
+            "hash": "589b27a60b97db11d3f30aa086b912aafb70cc1c22e37b6c3421a2cdf6357370",
+            "size": 85
         },
         {
             "path": "assets/atlas/umamusume/umamusume.diff.png",
@@ -1130,8 +1135,8 @@
         },
         {
             "path": "assets/atlas/umamusume/umamusume.json",
-            "hash": "448c56298db2509b5bf9a2fb4d2cbb24d3e0e7c9e9217d6fbeb7a4dd505906ed",
-            "size": 167
+            "hash": "e2c1407b98941d816874d4182b21e8d14fa42d4f58b6d7182e4a385f5369ca2a",
+            "size": 85
         },
         {
             "path": "assets/atlas/walking/walking.diff.png",
@@ -1140,8 +1145,8 @@
         },
         {
             "path": "assets/atlas/walking/walking.json",
-            "hash": "f13a54e4caee79eb17097a85dfe36c7d141631a67f3bcbcff2c21e55111951fb",
-            "size": 167
+            "hash": "1d4cafe47fd91f65305d78b61397b09171c50b575dc26a138fedb02571794eb5",
+            "size": 85
         },
         {
             "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
@@ -21354,39 +21359,139 @@
             "size": 684
         },
         {
+            "path": "assets/uianimation/flash/challengematch/pf_fl_challengematch_racestart00.json",
+            "hash": "b561d75cb99205bae4ba5ae9c40b21dfa0247bf825618efaf5ab3c158da85798",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/challengematch/pf_fl_challengematch_result_factor00.json",
+            "hash": "0704433e86083164219c6f51ab357695ba3b40294466dc53ddedd98e822dd89f",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/challengematch/pf_fl_challengematch_top_gaugemax00.json",
+            "hash": "dc4776caf5ab6b659652af1449eb578fbb020e69b61001ed062dd83a81aa0298",
+            "size": 85
+        },
+        {
             "path": "assets/uianimation/flash/champions/pf_fl_champions_result_finalranking00.json",
-            "hash": "35dc83487988c4f3070f027524acddb15b156cc4ea44d4db4ff471930bb20ae0",
-            "size": 167
+            "hash": "d9d168a32c9c487185019453729ba5c71fd31310d55ac97781040cd2b1d5aa4d",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/chara/prefab/pf_fl_chara_txt_hint_lvup00.json",
-            "hash": "a4cb0233d4158aa87bb9459861b35042e66e38708f0761a85cfca965fbf5e43d",
-            "size": 167
+            "hash": "fd41ee43f92c0b14d8c2e83fb0653d954ad57c2af1dbbc6093fe6ed2d478e839",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/common/pf_fl_cmn_badge00.json",
-            "hash": "4e61a32b581ecdd1fe6294baa91f46a97503021322abb9c780b2eec901ed46b5",
-            "size": 167
+            "hash": "6df6bdffd7f85cddd48d5b9d6908d8c246f2650ad90aaa47b9e0a9fe635d5d5e",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/common/pf_fl_cmn_txt_event_reward00.json",
+            "hash": "b584452ba70c26ff5bb208a1c2a2aaa43e43c382304e87d573d1480ec166ac0f",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/factorresearch/pf_fl_factorresearch_gauge00.json",
-            "hash": "977c220f42165c10beee20ca79f77315dc39ae8f4032452db609d7b9932ed058",
-            "size": 167
+            "hash": "500c06436fb4bc361c6aead81f67e2e47a7510a641c5307a6a221a12f9fe74f8",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/factorresearch/pf_fl_factorresearch_reward_txt_title00.json",
+            "hash": "5ccb0935a060bb9f55a88fda68ad217f80dd025c6e3d6d2d06c153ebddad6d1a",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/footer/pf_fl_footer_landscape_btn00.json",
+            "hash": "ee175a54e56334d7069d1d48b13142dd10242024389f2bc3f0737a5861aad24c",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/gacha/pf_fl_gacha_card_limit_break00.json",
+            "hash": "746812f0d6c9320da3197ea309ba0b5bde0a70ad42d65716dff8f1f19ca76f3d",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/gacha/pf_fl_gacha_chara_piece00.json",
+            "hash": "96753c7199c9a1274ca9d29aa45ba0bbaf872d792a030b6eeae6374a1858e71d",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/heroes/pf_fl_heroes_btn_get_heroskill00.json",
+            "hash": "4049369f56b21987181629f1dc0d0c7b50b252a486818975f10a01cf16ef1a33",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/heroes/pf_fl_heroes_get_heroskill00.json",
+            "hash": "44577ba5a907d3925ba8c35a1496fd43a4a64d5cd7f2821f5043083ba8faf227",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/heroes/pf_fl_heroes_matching_comp00.json",
+            "hash": "fb2ed32f70eb1cbe9c16b76e87306706e9ab5036c07730baff1ea396e141448c",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/heroes/pf_fl_heroes_raceresult_gaugemax00.json",
+            "hash": "e31b0e44ef808b55e1e4fe8cb40af95b2007474c99db1531c061476b9b9bdfe2",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/heroes/pf_fl_heroes_raceresult_raceend_pt00.json",
+            "hash": "7193ad6ec2529162bb7ccadbd0cec7187ad61e475f2268d2bd198b5cdd235aa4",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/heroes/pf_fl_heroes_txt_racereward00.json",
+            "hash": "bdb9b40fa13d9f697b74ee023de6e0f7e3f4c52b1fa3fa652638c86bd15955d7",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/loginbonus/pf_fl_login_normal_title00.json",
-            "hash": "91b47e2b3922042f384a3f58ccdce90ceec6d47fc6e48d1a1d7c84b431f7487e",
-            "size": 167
+            "hash": "632de41d53eb707565bb7782097fcbfb441b9d7235633da16098a1806cba2360",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/minigame/mng_0001/pf_fl_mng_credit00.json",
+            "hash": "68a791a0453877715a7bb7c50d34c40441718f65740be5c8edcdeff433ec819a",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/minigame/mng_0001/pf_fl_mng_dialog_get00.json",
+            "hash": "06fc7a9d37b2caf41344bbfc02d10827f4694a22a62c4207e4ccad25cd3ac83b",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/outgame/pf_fl_trainingreport_reward00.json",
-            "hash": "cce31db2e3834373e613f5d7824128ffedb72852b7d8eea1967c62d78650d783",
-            "size": 167
+            "hash": "82156109e1843277c3f284e5a1ecf8752a603cf85d5a26fe40e7c99f69922b82",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/outgame/prefab/pf_fl_contactcard_photolibrary_icon00.json",
+            "hash": "1de1aa124088f40860dd4d60b77bc5212a686b7fefc5728263a7420eff94242f",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/race/raceresult/prefab/pf_fl_race_result_rank00.json",
-            "hash": "9edc4b1e040638a77de74369aec84d16148d301d74e98809bd58d21021b8eb5c",
-            "size": 167
+            "hash": "6f7d3b5c709c94fd5db2a147f0a3d30eca2e15ff5b09299aeb99f03e4be99f24",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/race/racetitle/prefab/pf_fl_race_rt_04_00.json",
+            "hash": "e45a897a39f7834e2fe80b5d459525dcfee17c6035817aa94add8871bf177bc4",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/race/racetitle/prefab/pf_fl_race_rt_06_00.json",
+            "hash": "8acf84b6da5e86244182dabf766f431f2547250c7fbc6834a05a506a1dca55e9",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/ratingrace/pf_fl_ratingrace_result_rank00.json",
+            "hash": "f0475fc3243e3a12f8340f338cf25aad019cdf25cc862cd33a67fd271663a0c9",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/schedulebook/pf_fl_schedulebook_txt_progress00.json",
@@ -21395,18 +21500,28 @@
         },
         {
             "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_btn_trainingmenu_ssmatch00.json",
-            "hash": "9a852e27c56f183fdb35c2b146a96084dfa7b60d6ed858e545e33f33795d6bb6",
-            "size": 2341
+            "hash": "e0a9a55a698a25b7c4b27f335fcfbe5a5c5bb2293bc55a8e87054c9ccb2bb2aa",
+            "size": 2299
         },
         {
             "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_header_turncounter00.json",
-            "hash": "d653761e1e2b1af13b280dffefc79f2824b06ab340247ca7bd0c76805461dd80",
-            "size": 2160
+            "hash": "32a750e91a07e62373b13d807d05671db6dad914b4f1075c34b442ed9e38dd64",
+            "size": 2078
         },
         {
             "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_speech_bubble00.json",
-            "hash": "8734708c301d24206ac0e0e9dd8ec2effb3dc6672a398aeefc1882d399f7f09d",
-            "size": 167
+            "hash": "256e81c036b9fdafba900defcece0b25c6cc849312bdbfa116973fa7ddc255f5",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_btn_teamsptraining00.json",
+            "hash": "f67e6c71d055aea52829709f76cfb54d0de9c5e124d9a9a1ff2d80ccb807af79",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_btn_trainingmenu00.json",
+            "hash": "a322721d24ce6770959b35a4cb95a0746473b9912f0c8583ff1a8a6b43dee8c8",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_header_turncounter00.json",
@@ -21414,209 +21529,239 @@
             "size": 1242
         },
         {
+            "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teammeeting_graph00.json",
+            "hash": "ea64131cc274360529725258dfa93b39d7b1a2612e4f250e8868c0b1981e1ba9",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_teamtask_progress00.json",
+            "hash": "01e9b9d574bb4a5bb0e8b7bd212d74731474540c203db76c7e07d2718c9e4645",
+            "size": 85
+        },
+        {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_badge_garden_reinforcement00.json",
-            "hash": "23dcd7ed436d8e9ec1d58a251d9ead69b1aedd6364c05126b16087d5319f2493",
-            "size": 167
+            "hash": "3d4814dcb7dd9fa1552d14e79940fd6ba0cf31300a3eddea8189bb860588d59e",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_btn_recommend_dish00.json",
-            "hash": "9bbb23fd6e3bcce3b95cc12c089ca73ca8b8587a26cfa1ed64e13f9c109129ca",
-            "size": 167
+            "hash": "caf1f9f36917e3df963b982f0cf6300510d84699d8c8dadc8cef248f968283ff",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_btn_trainingmenu00.json",
-            "hash": "5a8b2ffb37217fe6fbb38e0f145757d3dbc6bc4d3afa957a9628cee7eb9d01b3",
-            "size": 167
+            "hash": "141e8ec2dcb1de4dc74e80045dc7ec817dcb1cc6599307e46fb910b4cab03908",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_care_harvestup00.json",
-            "hash": "bf1e736f2155440d35da597ea92f9c86b9772dff3472d7f5f84d54fa0d2d2973",
-            "size": 167
+            "hash": "1b58e6503fb61948e027f6b28dca7416a8a0cf0e808a9030cadd04f368495092",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_care_title00.json",
-            "hash": "48f5817c06a516a4e914742921366c0dcf52bb476276ef8de4a21c7ab4f20870",
-            "size": 167
+            "hash": "382df6707aa84e2897cbd4ebb2382393ed57c2b5e046d6a274a2cbc9bfcbabb3",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_event_dish_add00.json",
-            "hash": "88e5660728db59b9108eef215010367c2767d39e90e91463410498448ed6461a",
-            "size": 167
+            "hash": "c4a0d782ed8d67d135660d256918c7901f25669aad3c9403c29b7c3c70d7c181",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_event_dish_efficacy_up00.json",
-            "hash": "4fcb168cd88cf19b6dedeac3c908df5752b75788a5e2f808d08de11b4016b780",
-            "size": 167
+            "hash": "529c7a1011da073f507447a625979f590abea008e314230a38133f9889d55fc8",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_event_join00.json",
-            "hash": "c47a5ba9d9a87d78bd1317146f8f13b04429fc6604989e073f214b1592693c0b",
-            "size": 167
+            "hash": "29b62eaba61dabb7f230533d743e2969f6743604ea598120f05780fea240f32d",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_event_uptrainingeffect00.json",
-            "hash": "b119645e99868f028e9655b37d766d8d1390f73657b8fd32432bbf3bce77850c",
-            "size": 167
+            "hash": "63732ebe05db0060b528c1f112daad273b9029c9858890fab9067042fa029041",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_event_vegetables_lv_maxup00.json",
-            "hash": "2c5dbd353105855fd5db31d9927609e0e3669a0efb130cbd9a50079c15d8804b",
-            "size": 167
+            "hash": "f0c3156fc164319902c529afb48c7b5fbb1501f61254ded60a3612b0798c28e7",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_header_turncounter00.json",
-            "hash": "6845570b86e9faf8937d8b016bb2ff01dd8cab842b98e8bbd047debce4d72271",
-            "size": 2274
+            "hash": "3a1057f0bb8c530122eb2843fbdf2d3c70862a3a9110597351fac876199464f1",
+            "size": 2192
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_premonition00.json",
-            "hash": "b942b2c9d48866d198c76befc6b2145ab234eb350c1b2eb1c86cc989f7b9dbde",
-            "size": 167
+            "hash": "2aefaf6afb30a36c3c1370553b34b325ba6c95826e18424d8b4ca50df6667e33",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_ptup00.json",
-            "hash": "22aef5156b238fc43c5cd4a1ce3b10f0f93d7714d8089087ed8b711ebc2d8f52",
-            "size": 167
+            "hash": "fe1ad310a6f8ccc4515072140ba2db78f1404492c783bed488cecbaf30927a3d",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_training_multiple00.json",
-            "hash": "1e33545cec4064e5c17e51286aea7b4026f4dfcaa1248f636de9fa3fe88089c0",
-            "size": 167
+            "hash": "44d12d18006f654b2b3438cb732e4e684332c0e7d71ef0d2552d581678b08452",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_txt_manzoku00.json",
-            "hash": "1244333b0ace363e4e5c1d2d2e3ffca27e01efa8663a77aa68ebe4d5ecb47b88",
-            "size": 167
+            "hash": "df2364adc7c4a036e8f485cd64619644d142bb08ac055b4cfad903749417c5a1",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_txt_success00.json",
-            "hash": "12101ea71cb62c5b1bb736c8e8ee71adfff68f3f01a1b999f1cb0bfa757f5e09",
-            "size": 167
+            "hash": "1983be8057c9b58dbb590058d96c992ce18f216c823fcf1ca1f8958cc6cde88b",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/free/pf_fl_singlemode_free_header_turncounter00.json",
-            "hash": "f600bd350b1176e4a8271bfde1c84d2594abeaa0649118e8dbdb6f276279ad98",
-            "size": 763
+            "hash": "f0d0afcac999d8514924791932a180a6f84e34791721e328e6bfc6d5545c951f",
+            "size": 681
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_enter_masterly01.json",
+            "hash": "d765c483b30ed91f69149b6b0a2797da14e37d87317c1a72a726a0f29b23d06c",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_enter_masterly02.json",
+            "hash": "c9526df7d98a4f5cc26628c8d5bc391c41e7f61a3e8f7a726a27514c7ca76647",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_event_legendappear00.json",
+            "hash": "dfedbc370451667ace94f297144a660d6aa7f166d0752caeebf3c0f3aa32d347",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_header_turncounter00.json",
+            "hash": "125bc8285f45cb037e8b9fc898a1b1700a2b2cb52e19b6e43b8e8f7b7e16e3f7",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_btn_trainingmenu00.json",
-            "hash": "ba3395ac915201576ee78c02b29bf340cdb2ba64b365df1dd2099db814a53be2",
-            "size": 167
+            "hash": "8e1832ca501a6a48865a9f7325e5d36f2c639e6e82f01fda012814422b6b523d",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_header_turncounter00.json",
-            "hash": "5ebfde6aaa8339128245744db782afd38e337acf18a16a70f5e7c3a918f6f166",
-            "size": 2158
+            "hash": "3b000f174eed8ab50a1976e842db943224aeab7c5e15fead5cf2e24c3efc9edf",
+            "size": 2076
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_btn_overdrive00.json",
-            "hash": "e8bdab3e440864115cfae0b9f9c49c252772426751f9be41364184d636bba3b9",
-            "size": 167
+            "hash": "7798ffc65b8018abbed77db07e56fa8b88fee8038eb43f193a18433bfc98f906",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_btn_trainingmenu00.json",
-            "hash": "a8665d6d638898b3ee684b69c6a1ed83afe8c8f3aecde0ab47606391b0704b7d",
-            "size": 167
+            "hash": "5dfeed49d8b3982cb6bfa519a69476f1fad64d41431f313f44aa036f10afe46c",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_event_join00.json",
-            "hash": "b69944f9773d2c2a0fe8bc11f3488e3831d9c87d3fdcb76cd8513ed02fe79abc",
-            "size": 167
+            "hash": "9d453a29c572783fe05e9771d8c92ea27765a4a7a3592cdcd0320fecbed5158e",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_event_uptrainingeffect00.json",
-            "hash": "ddaa9a6ba38af0df7dd36109c304f8bb91dfc5311cac230a23625d108f7dd7ee",
-            "size": 167
+            "hash": "16f9b6c1070b6fe892a018433bdc4de0bb51a3ac28702da931401c7a21f5c784",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_hpgauge00.json",
-            "hash": "634b58822eb663056c94ea30b9f62d8cac0682d220c1678dd45ea763f6a56c12",
-            "size": 167
+            "hash": "9a1f5930649433b66e05cd3e28610634b420556b6782b1cdea1ec8ca738b6068",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_turncounter00.json",
-            "hash": "f0ddb5080aef3b62a8a13988885f8f6ab70e8dd578f07e72f4772878aa45b5e1",
-            "size": 2161
+            "hash": "fef825e2b32f96247b560fe920fa75074455be552cee1dc6e9ddb707e097eba5",
+            "size": 2079
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_overdrive_recovery00.json",
-            "hash": "ecd377e5916e954b2dab8f900a1944eea78d3ca0d9b8783a97cba0facfae464a",
-            "size": 167
+            "hash": "da358fc7ff26df1e89497419ee3858011515489cb62499fc09e41cf6d18b4ff9",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_overdrive_text00.json",
-            "hash": "53f5931d8ef4c820ba8f524b358081e5d29928f553976f663f5249710a07e0b1",
-            "size": 167
+            "hash": "e57f73bc2dc2a912a878b20c23ddc31acebe5af4cb4c0a2f2728ca1658a79aff",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_remind_turn00.json",
-            "hash": "7030c3b5b4379960fe68c16cdb4d8d1aca86a14eebd45695fe5dbd2040043681",
-            "size": 167
+            "hash": "6bcd762493787187bc6be46345bcdc515f6f67eac04dd1097219b1f012eade0e",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_research_lv_maxup00.json",
-            "hash": "ef9938440855a42b3906a6b53b1190e3033574d102d9f9bfceaaa7ce1b376621",
-            "size": 167
+            "hash": "8d86d796527763eb9b268ace2e2bbd99a78e02d4fb33d413f529d5590d1ce76d",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_research_progress00.json",
-            "hash": "3b2a8f0a1b066778f19e4777a55314e63178bc09b0cbe7d60dfbccf24c64b801",
-            "size": 167
+            "hash": "a92e85af23fb8aafa8822f7c00ca47d4c3ee9cf7c6cda9b79588dd7786cc6b0f",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_research_progress_text00.json",
-            "hash": "0007aa2138f731ef72ad87a054d86117b20fe32def237a825fdbe4c34fabe913",
-            "size": 167
+            "hash": "80389933b8bb5f49eff98342fdaefcbd0c3a8955a7dc91607cd94cbac32800da",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_sp_overdrive_activation00.json",
-            "hash": "983af69bb08ab5702641f0212d380fe79a26f4ede8eda29d2a14a5b1cbbcfcef",
-            "size": 167
+            "hash": "fe88c48463d784983f1be628eca0ab5ceead36a68565eac72509b2aac4fa0264",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_sp_overdrive_btn00.json",
-            "hash": "6a042630e7bfb74bd42c153653b5590470e2a8e9a03145b18c54344c2698e0c4",
-            "size": 167
+            "hash": "90466b48a9b28d047f694912c7c27de7e81899940ca3844d5b90a35dceda3d6c",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_sp_overdrive_continuation00.json",
-            "hash": "4bb9e4f1c1f742431bece31d55bf4f21eda51c3f089449778d4f208e868971a5",
-            "size": 167
+            "hash": "f1220bb8784220f31a9208df0a3614dec5983e9fa2e66c5f7bd1795f24162e90",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_target_research_level00.json",
-            "hash": "32b9d4191bdff12f4dcf840e130011f5c490ab785ce88d1cb61cddae51574351",
-            "size": 167
+            "hash": "0d8d9e2557f0bb4fc4ca381018bac4cf7caeb63131f73030d1907394bf80e26c",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_trainingmenu_base00.json",
-            "hash": "6a6aa285fa2d35bee990f5049c0b428a44da7632fd9b3412df183e8d7bf8f607",
-            "size": 167
+            "hash": "db32e2d3f1d4342e1c2dce0d4d2f4face63e4788cea03e16f696880e75f47d44",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_tuning_text00.json",
-            "hash": "26424f8b992b079c5c0cc71fe9c650c2648586dc7b0f810792e2aaad68240e69",
-            "size": 167
+            "hash": "b427dc08902c1b024eaf7ceee20347f3a7870a4b3a08fd82537066a07b4fe558",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_tuning_transition00.json",
-            "hash": "5f051f47e5ad4143ddd027d7beb85cbf051a81f2ca879253b710caf4a8b22309",
-            "size": 167
+            "hash": "f51e6e9463fa446cf534e780c7a0651b33b020c81a576e62031d52d6a3b377d7",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_txt_upgraderesult00.json",
-            "hash": "9bb7320b0f17b38056393c1ce34ced24edee464e4aba5e5f8fc4dc5428c42522",
-            "size": 167
+            "hash": "90c60c5530d15e2d116803a5cb6c4934fd58ad4a5278ab882377c9943eecb73b",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_upgradeexam_btn00.json",
-            "hash": "c0dce8698e33a52914071150a0b71fa364b85c3255b1a921691c4049c12f34e5",
-            "size": 167
+            "hash": "91c5cc49fc189e37e3e45a7b4e8b90e0f54969068c3c2cd217aff90f7af8d5cb",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_upgradeexam_start00.json",
-            "hash": "ad8b425659c1a94e33977217fb843d2ae7361b0cb15c2764b707a035f1c21a71",
-            "size": 167
+            "hash": "e9f7971fa66c6d2f749c793e865b24f5c03fc24946feb3d1c79b93753ca4d61b",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_turncounter00.json",
@@ -21635,148 +21780,198 @@
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
-            "hash": "294e96c49f1c0a4ae434bea50fd0c6fe40ac5aaa8453dd9ac0acd022430c3906",
-            "size": 167
+            "hash": "6a251bfe63f9f03d7bb0f1af5063ab8d1bdcabf633daceb1475634ba2b65df4c",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_btn_factor_succession00.json",
-            "hash": "fca69a2286615b4dca794a949c54be61a627536d05127e581f24022e48b770b8",
-            "size": 167
+            "hash": "6f7b2ab5a700fac042822c81d1867acae317c09d9e0f56a68b6526d45793ed3f",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_btn_trainingmenu00.json",
-            "hash": "9591a6243819e8c539f6e2e6dede33aa98397340ec13da5bb028756b65cadf69",
-            "size": 167
+            "hash": "8652883ffa24893ecdfc7dc367a6e221d854bc2658388ef8117e09ee0cee9e00",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_btn_trainingmenu01.json",
-            "hash": "95f990ab162ba9a40bd6e3cb422fdb65084eaf6200ce760045906c91a7091d32",
-            "size": 167
+            "hash": "643068f864db5402ab70deccf845ee2550e9f67475827b491a8b15a91a833ed5",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_activecondition00.json",
-            "hash": "5c3c201594148750d285abe09d1c9431be5c9b7a3694eaa817d39392c28376c1",
-            "size": 167
+            "hash": "4edf6bc8fe88db5542166fa2cb85323932c93a697625d0641a1d40dd07d90137",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_apptraining00.json",
-            "hash": "712ca32c72a87408c0dc4991222276f26a6c4ea8f444c92cf541481f649c468e",
-            "size": 167
+            "hash": "2d1c09697a15c458013d949a275334562e598c60b5dd8907ba893e2e53a6d9f0",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_dncondition00.json",
-            "hash": "6c205f74be8d924fd9b33a206aaf3e9686ea536912b75fa452e51897aaf6475f",
-            "size": 167
+            "hash": "3705cefe43da8626731f8c429c7f6a1fbce7dab14435eda41155bc504d959ec6",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_racebonus00.json",
+            "hash": "07aada82a51132b72962d85c1f125c749476834b28499e91ba592b2b0d316394",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_resolvecondition00.json",
-            "hash": "0857d98fb861dbe66523db2d852d811746d38482fa5561fddb6faa089d325609",
-            "size": 167
+            "hash": "c867001dcbd6edf21a8f2ae1539172cf1f8e8af23c13a903ff7672f2d9e970ac",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_succession00.json",
-            "hash": "ab10aeeebbf4696213e97eb9bb4032c6ad7fba8483a8be55c48bf351ed3547f2",
-            "size": 167
+            "hash": "ce9e7b730b65c8044dc49edb6a9e0557433936fff98db80fe03777514a585cda",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_target00.json",
+            "hash": "cb04a0f84376a5d5f2edccc781f81a43be6ea7bfe1cf731472b8834da7f05031",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upcondition00.json",
-            "hash": "ddbdefc4082ece98d8b51eb87bbe891409b6e907e55ab0fbfc4dcd76fc4a2c97",
-            "size": 167
+            "hash": "150162621177047aeb237f4a6d4bef190778f553012acd459bf03de88a5f4c31",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upevent00.json",
-            "hash": "2332c6457f5c05f82549ef88849c75d8b9a67aa00ff7ce7a1ad91f0c099a1018",
-            "size": 167
+            "hash": "bd8285b8b47ad74280d8abb23f7d0d971fa57d8de372cc90094c36d0a44240a2",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_uphint00.json",
-            "hash": "a00c1edbeef92ec656e3796e2176fbe300ac56da5bc82785e28231a60224aa8d",
-            "size": 167
+            "hash": "f6267e4e244bd510687f398e53ea946e171961f635b0fd8331f25a6485edc485",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_eventbonus_upskilllv00.json",
-            "hash": "46a8765a58a72332c17105e51da87e17776cb5e792be5be67a156cc51a31881a",
-            "size": 167
+            "hash": "aa2d1fe5b99b8f95a7a0e9fa41b346f6b5594f97b5d00f3ba4a09a5dee718d33",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_extrarace_result00.json",
-            "hash": "2e94058170955db00030c673a59f3edef05ea93ebc4b8ca84ad0bdfdb053c150",
-            "size": 167
+            "hash": "902bc8cf9aedb37b8ea1d142d2923670a3f2ef4bde47a2470bd55a9f17fd57de",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_hpgauge00.json",
-            "hash": "10aa8951582350f15be170958b5e43d625e9e2e3d7b6dd4bf4a8ef3e1145e772",
-            "size": 167
+            "hash": "b927f10303b7ca18d526059c2c3c5e4e93ebfa63b446a39e9cbb90616308232d",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_turncounter00.json",
-            "hash": "7aeae56ab43de24061ec6dc394b3392483117e0c963290d350f38a5eba159c93",
-            "size": 763
+            "hash": "8e0244219a7b2d4d4c0c6bb922d874c26d438061b32476c6956495315f4e69aa",
+            "size": 681
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_hint00.json",
-            "hash": "f8340ea232d8a3362a12221c3e42575219883d3ee6bb93fa9bc9128b55d8ac97",
-            "size": 167
+            "hash": "5b00acde581cfbf115c7f7bf54decd625e0562910741f60080ea856858279652",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_icon_motivation00.json",
-            "hash": "4bba149a5c2982a96dee62804d4e90c8deb1c09ac4803bf381065dbc6f501c99",
-            "size": 167
+            "hash": "5ed9117c5b6360d71f612fdac184c5c8b4afbff8bdec9a93e68802e0ca38e66f",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_next_target00.json",
-            "hash": "655756b10ada9147f355b2c396e1ba4593c27e2a0dd43072f7d9c3f4303a0226",
-            "size": 167
+            "hash": "9831c2662a2dbc8bd400a6915e04f3e03b57ebf8d779be3cd2367b22b90c0cc4",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_sectionstart01.json",
-            "hash": "2b28178f30057304080bbac13eb6a3a8842bbb164ad4d2aa557d4482abb7311d",
-            "size": 167
+            "hash": "0bd8dd05a2db440ac7a7a53d3ac452fd6bf2b1cab0b0b8b74d76b9e036d195ba",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_single_target_achieve00.json",
-            "hash": "8f5437dfafc2856b4d3d59b23c819c8bbf61751497f696a92b2c57f60b4cda75",
-            "size": 167
+            "hash": "468d3e842bc449fd1255245d5176c67f7b3805749b554ed1cf3d51593847ce04",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_skillupgrade_skillname00.json",
-            "hash": "b77cce9d603a1ed4af842ca18176b1ce8a40480ed6e6bfcd623359e360e1c12c",
-            "size": 167
+            "hash": "51bc85e48a2ed9be26d347ecba3fc9fd95dafbe82f162182e43e8bbbf613b530",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_start_succession00.json",
-            "hash": "0b81789f7900cef4c17ac170affb0bb3a159c0f127ed0cd7fafbdd52f13ed7b1",
-            "size": 167
+            "hash": "5d15982e01e3f8d28c6df46cfa196772dee9071e2c65260988e37451ad2e5362",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_start_tagtraining00.json",
-            "hash": "dc96002847c6fe7ac941c29d86ff9b36b81159afa93abec17b28ee40909c864b",
-            "size": 167
+            "hash": "b4c06729f3c6f07a4084aafa0d517aec8a5d40bb3d54cfd60b067a2e5cb98bcd",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_title_getreward00.json",
-            "hash": "07030c6496a0e48d8fbb071c3cabbe01205c53769d4982d5e32747cd805f958e",
-            "size": 167
+            "hash": "05dad18aef3567fbad86883f17aa39d2db42256af40db93e18c78a056b6b069e",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_auto_training00.json",
+            "hash": "9bb3e9603e771cf885e2801d6b0043bd45814d43b8c2db3c109410fe9d141580",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_factor_succession00.json",
-            "hash": "8a5eb336357e0ce914102e8f1b4f80f18a1d2f33ac5149b590f2daa9433b6430",
-            "size": 167
+            "hash": "c5c90ed84f99f6a8dcfb671c7474bc14ad8f8db4b18078d988de3992255ccf17",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_tagtrainingresult00.json",
-            "hash": "e8d06c7d562187396e4898f3ec3a5390c9b3ecc397e9075ef3505de7ef206d79",
-            "size": 167
+            "hash": "a6fe19fb8b51ed28df8defa87d2f1565209f4e685ebae78de277dc80ab74c16a",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_txt_trainingresult00.json",
-            "hash": "b9421f84b66a200bb71ada07e3fd383880c3f7b0944b9ecc483d207961a182d5",
-            "size": 167
+            "hash": "c5d6ebd625da72610f4103f68435b2c3ef9f9d6a662c2b3f84a803d62fbbf47e",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_evaluate_decide00.json",
+            "hash": "77a9f6f794d649a30636385be901f4a3eabee674f1c66d4e759d949eda1ae17e",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu01.json",
+            "hash": "f2238d230df48ac09cff1ad8cbeff232109437e24c3b1ebcb611a50027f05eb7",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu_shima00.json",
-            "hash": "f437f13e0b02eddf62908eba038fa33a0242a52cae9063df8299d902724629cc",
-            "size": 693
+            "hash": "1ae8d4bc7e8c156eea06fa844872d54191479a4b1ac78810b92f3fb9b38737e4",
+            "size": 699
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_construction_progress00.json",
+            "hash": "6f58b0729785b8a2ef584182a941246858b0da451bcc150fe1b5a91e99ed90bf",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_evaluate_start00.json",
+            "hash": "e0d676c0eaff1f366754c26b2c30a465965a834cedf45e5dd59d2782fce6a6ea",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_evaluate_start01.json",
+            "hash": "f84a7de2a7ebf90ea529c96f34df9d80994b3a5c822c09926d6465d43df205c9",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_event_join00.json",
+            "hash": "413a51cd70e47bd58f0157152903a8a2cd0cdc24a06ccc52ce41474b1a2acbad",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_gauge_shimatraining00.json",
+            "hash": "d384ee51288a8e42fb20df6d2a3e6322b8369bec793a1f9efc04273c0f4d69d8",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
@@ -21784,74 +21979,154 @@
             "size": 1427
         },
         {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_complete00.json",
+            "hash": "e6af95692111df73af14304fa2fe6d627209cc18a17f3029fe49f1be151b4a54",
+            "size": 85
+        },
+        {
             "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_complete01.json",
-            "hash": "c5b6c29b85737a5cdd64f050aad701750f7b8f8eef2ce827dbc24e3635227bf8",
-            "size": 371
+            "hash": "5c199e9ed2ed5a589b58fc63ac9b8e644d265a13c96f716377e5229d17f06c97",
+            "size": 373
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_hint00.json",
+            "hash": "d969c91952ad41bcfbbdae52f49abdfe0c882eb54459c7b55edba69303d31031",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_transition_logo00.json",
+            "hash": "fde5523a00a3d79cd20caa619ec02fe51eeeeaa3910f1a233f0cbb5a5517c70a",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_transition_logo01.json",
+            "hash": "73aff38ecb056814b7aaed1e29455a3ae189842cc68a82a8647b34fcdc5af92d",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_notice_window00.json",
+            "hash": "2c629906347c8b4f6a36768e7b0e2e5710ed6d4bef73d62c72a02f92e36ea0c7",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_planning_island00.json",
+            "hash": "b6f7359489507c3ea9d18d4b40cd41cc4628899804951715fdd1435f4ae95b89",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_remind_turn00.json",
+            "hash": "f1835ee859935a6ba1a224e0537c2b6bb27b13a9f32f71bfe56d9b5a0166f8f2",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_shimatraining_acquire00.json",
+            "hash": "ade945f84673c054b5fb53de3fbf89c3ec0517328b0a987862e2fe37e1cae289",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_shimatraining_period00.json",
+            "hash": "92896a631397ab0a98ee76b3dc0b1f11d592d58641c8fb54051f961490c8e641",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_shimatraining_split00.json",
+            "hash": "b18b82e8107a86cdadaf69c78ad43b970a3278a30756c9bc01f81aa7b9f482e6",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_start_tagtraining00.json",
+            "hash": "5e0fb1957a51d3aa216865c520b27ee5e1e1ac077b2dc6ace4d4cc48e3426ff2",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_training_facility_upgrade00.json",
+            "hash": "c26ec917a98f42d19a301bb5368c27b1d05cc80c6a5e02f96d45180d5aa4db1c",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_trainingmenu_base00.json",
+            "hash": "28c111cd99a6283bd245e466b43bc6441d6b26fcd572ec4de644b1264e861474",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_txt_shimatraining00.json",
+            "hash": "3a0d24194f9812aced3115cfc3e94e0689a8f0ff2f2294ebc4833d4900a334e1",
+            "size": 85
+        },
+        {
+            "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_txt_tagtrainingresult00.json",
+            "hash": "dc2cdbf8adab91c99a8eade2a0f19c4a086feec8ab1658f88620ab1e69cf66c0",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_btn_trainingmenu00.json",
-            "hash": "6b3fe88eaf21826084a660a5836c92181253cef38fd3de7deeb44f9521ec801e",
-            "size": 167
+            "hash": "511e5dc1c98c8435920a3dd9cdfd3480f0551874f9089f4d58b89f2a5cacf8bf",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_competition_gauge00.json",
-            "hash": "b2d1bae0d6ba439a1376cc37fbabbc0be44061a2033b3c33e35f40924d01b7c8",
-            "size": 167
+            "hash": "2cef6716fda191baf64f7f7d95b609448c4b1e403ba2c9a914fffd73f3572820",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_competition_telop00.json",
-            "hash": "362729c12455d2e857d4e35bf29476cbdde51d503c270bca2cbe19f50d3a7471",
-            "size": 167
+            "hash": "6e8a70a66b82c92b2522216e03511e30cc9e421096ddcef87c3fc677d00f2b79",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_event_advice00.json",
-            "hash": "d9633f0a52784a86763ea903c4b8e0a87a0f93d12362a25dfba3791d62c748f5",
-            "size": 167
+            "hash": "d9d908c8fae7066f9181620ce08315b60f221f2b8c95998a995f31d081a5ed9f",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_event_stance_rankup00.json",
-            "hash": "5cc0c59948aa30941523ddd8ef98e423fae4d9d906f684a713e602fd0643a2d9",
-            "size": 167
+            "hash": "0a19eb113ae507623cd5362f4c46d91cba34458ad8251fe1da2111371e41443e",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_header_turncounter00.json",
-            "hash": "e1001b29311f462b48b64042a58420d96b7bec10d01ea14cb715f38c4ec409c2",
-            "size": 2162
+            "hash": "0976a1430621b64b8df76dc2047326a512c1370bb26683eb75fb19b8365a3611",
+            "size": 2080
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_remind_turn00.json",
-            "hash": "cd2b9785272bd3be0a2590043e9da4e3ad8b56ae13eb3247a0cfd652671a6de3",
-            "size": 167
+            "hash": "9d5b85fe891a531fb691ed6b1a643ce93fa3e106e94ede126a1b3fcb9431c68c",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_trainingmenu_base00.json",
-            "hash": "56a3c4fe405b63f15fab60aad052e681bcfd70a60072542db72ee3f545db9b95",
-            "size": 167
+            "hash": "d42af6178ad742bc122b6018632f5f516b73717b2241747699796b396ff3cde6",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_txt_heatup00.json",
-            "hash": "b77eba81bf1242ab2c53fdc2b5c5c137e3ad0e8983d490d8f399319af1a8baa7",
-            "size": 167
+            "hash": "c45348c1e3947afd67bf220dcae047c62f6ca8be5ba27df8f4ece81fa5069187",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/teamrace/pf_fl_singlemode_teamrace_btn_trainingmenu00.json",
-            "hash": "31168f9400d8a27e76c1483487001c4ede26961a2faa4c66df214c8bea7046d1",
-            "size": 167
+            "hash": "f8402c8f4d992f8e40f56b472828a11fd383c19c6f54c3c48ea2f93ca352dd6a",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/teamrace/pf_fl_singlemode_teamrace_header_turncounter00.json",
-            "hash": "48a0b59d31a097a3132bacbbc384b27af3f483de0ea88c81618811716ddd8a5d",
-            "size": 2160
+            "hash": "5d6bc50d0aefbb9542154b2b81b90dfd91e763c3a5646259d6d16a1cb855e058",
+            "size": 2078
         },
         {
             "path": "assets/uianimation/flash/singlemode/venus/pf_fl_singlemode_venus_btn_trainingmenu00.json",
-            "hash": "55b788f482f3de01df8847c063d7cbee010c8d4a0f1d93c007904ad8da72d93a",
-            "size": 167
+            "hash": "be896f3c57e8ff5d687becbd823205f38b168b652614d79dfd67e3d90142c639",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flash/singlemode/venus/pf_fl_singlemode_venus_header_turncounter00.json",
-            "hash": "f59a4ed7fd3331ab8b02868d06f01fcfa757e42d7abdab177639f9aecd729246",
-            "size": 2970
+            "hash": "b0418f100eb87ecf8a367d3eeb4491fe63aafe05af85502222d50973283c3cc8",
+            "size": 2914
+        },
+        {
+            "path": "assets/uianimation/flash/teamstadium/pf_fl_team_icon_winconfirm00.json",
+            "hash": "99cce1cc27b56ef5f2f57b646067ca8680f5745f3793405dbd55f3aa4bf7cffa",
+            "size": 85
         },
         {
             "path": "assets/uianimation/flashcombine/action/campaign/valentine/fa_cnp_valentine_messagecard00.json",
@@ -21875,8 +22150,8 @@
         },
         {
             "path": "assets/uianimation/flashcombine/action/singlemode/pioneer/fa_singlemode_pioneer_badge_shimatraining00.json",
-            "hash": "fe04e26821df1877c7d554eca91ed7731af8fb7ba125e710d09f53d4e1d35b06",
-            "size": 482
+            "hash": "dca5674ae45898541c8fe982ff5b93a0ba3e1dfc4974825919b52b5537513fa3",
+            "size": 400
         },
         {
             "path": "character_system_text_dict.json",
@@ -21885,8 +22160,8 @@
         },
         {
             "path": "config.json",
-            "hash": "53cad1714c5f59b948daaa8b4b01e14f4593ae4df4604856ab56b5fb70f00064",
-            "size": 2086
+            "hash": "e22ceec094ae286e9eb971c14b2945d292e6aa259d044b6db3eaa62b6027aa92",
+            "size": 2120
         },
         {
             "path": "hashed_dict.json",
@@ -21902,6 +22177,11 @@
             "path": "includes_win",
             "hash": "da6125f0f17e5372ab7c03b5763b44fec78424dcbfc01154ab30b853129487fe",
             "size": 2163337
+        },
+        {
+            "path": "info.json",
+            "hash": "eb080bf6e9e06a3c66db99a8b92873002b62de5f792e14161b6c20fe8fad4295",
+            "size": 1159
         },
         {
             "path": "localize_dict.json",
