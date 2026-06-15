@@ -1,0 +1,240 @@
+{
+    "text_block_list": [
+        {
+            "name": "Trainer tiền bối",
+            "text": "Cậu dạo này có đang rảnh tay không? Có thể giúp tôi chăm sóc cho một cô bé trong đội từ giờ cho đến giải 『Fukushima Kinen』 được không?"
+        },
+        {
+            "name": "Trainer tiền bối",
+            "text": "Tôi phải tập trung hướng dẫn cho mấy đứa dự định tham gia trận đua tổ chức tại Tokyo cùng ngày hôm đó, nên việc đi theo tháp tùng chuyến này cũng khó nữa."
+        },
+        {
+            "name": "Trainer tiền bối",
+            "text": "『Fukushima Kinen』 là một giải xếp hạng với cự ly 2000m. Con bé đang bị chuỗi thua liên tiếp ở cự ly 2000m này, nên tôi muốn sớm tìm cách xoay chuyển tình thế――"
+        },
+        {
+            "choice_data_list": [
+                "Được chứ, anh cứ giao cho em."
+            ],
+            "name": "Trainer tiền bối",
+            "text": "Cảm ơn cậu nhé! Ngại quá, rõ ràng cậu cũng đang phải chuẩn bị cho việc tuyển trạch nữa mà."
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Ưu tiên hàng đầu cho các Uma Musume là điều đương nhiên mà!</size>"
+            ],
+            "name": "Trainer tiền bối",
+            "text": "Haha, đúng vậy. Chỉ có cậu thì tôi mới có thể yên tâm giao phó được. Trăm sự nhờ cậu đấy nhé!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Đại diện hướng dẫn sao. Giữa các huấn luyện viên với nhau cũng có những trường hợp như vậy nhỉ)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Giải đấu theo từng hạng mục sắp tới...... cậu đã quyết định hạng mục tham gia chưa? Mình thì...... đang phân vân giữa 1600m hay 1800m đây......."
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Tớ đương nhiên là chọn Mile rồi! Đây là cơ hội lớn nửa năm mới có một lần để được chạy cùng các tiền bối đã debut đấy! Tớ thực sự muốn so tài với Taiki-senpai đấy!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Cuộc thi theo hạng mục... mình nên làm gì đây. Liệu có nên bỏ cuộc không, chứ cứ vừa chạy vừa mông lung thế này thì...)"
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Hộc, hộc... Thành tích ở chặng cuối tệ quá đi mất... Để chạy được cự ly 2000m, mình phải tăng cường thêm rèn luyện sức bền mới được."
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Trông cũng không đến nỗi, thôi thì cứ tăng lên một chút xem sao.</size>"
+            ],
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Vâng, trăm sự nhờ anh ạ! Trainer của em cũng bảo là không có vấn đề gì đâu... nhưng mà em cứ bị bận tâm mãi thôi."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Cậu ấy... trông nhẹ nhõm hẳn. Rõ ràng lúc nãy nhìn còn lo lắng vậy mà... Là nhờ cách ứng xử của Trainer sao... ?)"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Bouquet-chan! Có chuyện gì thế? Vừa tập mà nhìn chỗ khác là dễ chấn thương lắm đấy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "A... Mình xin lỗi. Đúng vậy nhỉ... Để mình đi nghỉ một lát."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "............ Phù. Mình làm ảnh hưởng đến mọi người mất rồi. Phải tập trung lại thôi――"
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Em đã chạy xong 6 lượt biến tốc rồi ạ!\nMà... cho em hỏi câu này hơi muộn một chút, liệu có kịp chuẩn bị cho giải đấu chính thức không anh?"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Không sao đâu. Nhưng mà, em đang cảm thấy lo lắng ở đâu vậy?</size>"
+            ],
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Tại vì... sức bền đâu phải là thứ ngày một ngày hai mà có được đâu ạ. Bây giờ mới bắt đầu tập trung vào nó thì liệu có kịp không ạ..."
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Thế thì ta chạy cặp rồi chỉnh lại cách phân phối tốc độ luôn nhé.</size>"
+            ],
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "! Vâng...! Nếu vẫn còn cách để cải thiện thì... nhờ anh chỉ bảo hết cho em ạ!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Oa, thay đổi đến không nhận ra luôn kìa―― Nếu được ai đó thấu hiểu và chia sẻ bất an như thế, thì bản thân cũng có thể... trở nên tích cực hơn nhỉ. Hehe)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "..... Mình cũng vậy thôi. ―― Quay lại luyện tập nào."
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "―― Phù."
+        },
+        {
+            "choice_data_list": [
+                "<size=26>Anh phiền chút có được không? Anh có việc này cần em giúp một tay.</size>",
+                "<size=26>Anh phiền chút có được không? Anh có việc này cần em giúp một tay.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Hả!? Là... em ạ?"
+        },
+        {
+            "choice_data_list": [
+                "<size=30>Ừ đúng rồi. Anh muốn nhờ em chạy cặp cùng được không?</size>",
+                "<size=30>Ừ đúng rồi. Anh muốn nhờ em chạy cặp cùng được không?</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng, em sẽ cố gắng hết sức để hỗ trợ!\nVậy thì―― em nên chạy như thế nào ạ?"
+        },
+        {
+            "choice_data_list": [
+                "<size=36>Em cứ chạy như bình thường mọi khi là được rồi.</size>",
+                "<size=36>Em cứ chạy như bình thường mọi khi là được rồi.</size>"
+            ],
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Lúc nãy anh bảo là để chỉnh lại cách phân phối tốc độ đúng không ạ? Bouquet-san chạy tốt nhất ở những cự ly dài một chút đúng không?"
+        },
+        {
+            "choice_data_list": [
+                "<size=26>Đúng vậy. Chạy cùng em ấy sẽ giúp em học cách phân phối tốc độ đấy.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "(―― Cậu ấy chọn chiến thuật bám sau chờ thời cơ nhỉ. Nhờ vậy mà―― mình cũng dễ chạy hơn hẳn.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "―― Sắp tới khúc cua thứ 4 rồi. Giờ là lúc bứt tốc!"
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "! Ra là vậy, là chỗ này! Aaaaaaaaah!"
+        },
+        {
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Tuyệt quá, đến tận cuối cùng mình vẫn bứt tốc đuổi theo rất tốt! Nhưng mà thời gian chạy hình như cũng không thay đổi mấy nhỉ?"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Ừm, vấn đề lớn nhất nằm ở cách phân phối tốc độ của em đấy.</size>"
+            ],
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "Ra là vậy ạ. Tìm ra được nguyên nhân làm em nhẹ cả người!\nBouquet-san, lần sau ta lại chạy cặp cùng nữa được không!?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng, em rất sẵn lòng ạ.\nBản thân em―― cũng thực sự rất muốn lại được chạy cùng chị một lần nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Cảnh vật lướt qua. Làn gió mơn man trên đôi má―― cảm giác thực sự rất dễ chịu.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "A―― Trainer-san. Hôm nay anh đã vất vả rồi."
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Em cũng vất vả rồi. Hôm nay cảm ơn em vì đã chạy cặp cùng nhé.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Chính em mới là người phải cảm ơn vì đã rủ em chứ ạ.\nLâu rồi―― em mới lại cảm nhận được niềm vui khi chạy thế này."
+        },
+        {
+            "choice_data_list": [
+                "<size=26>Ha ha, đúng là với Uma Musume thì không gì bằng được chạy nhỉ.</size>",
+                "<size=26>Ha ha, đúng là với Uma Musume thì không gì bằng được chạy nhỉ.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, đúng là vậy nhỉ. ―― Bước chạy của em có thể giúp ích được cho người khác, và có thể tạo nên một sự \"hòa hợp\"…… em thực sự rất vui."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em……――\nChính vì bị cuốn hút bởi vẻ đẹp của sự \"hòa hợp\", nên em mới bắt đầu tham gia các cuộc đua."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng, em lại không giỏi cạnh tranh. Ngay cả khi chạy, em cũng không thể bứt lên phía trước―― mà chỉ toàn làm đảo lộn sự hòa hợp ấy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Dù biết vậy, nhưng em vẫn không thể thay đổi được―― Chính em sẽ là người phá vỡ nó. Sự hòa hợp…… và cả ánh hào quang của mọi người."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "<i>―― Em nghĩ, có lẽ mình nên từ bỏ việc chạy thì hơn.\nNhưng mà――…… nhưng mà――</i>"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Em cứ trăn trở đến khi bản thân thấy nhẹ lòng đi, không sao đâu.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "<i>……Tiếp tục chạy với một thứ cảm xúc như thế này――\nLiệu em có đang tôn trọng mọi người không……?</i>"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "<i>Đối với những người luôn cháy hết mình vì chiến thắng...\nBước chạy của em―― chẳng thể coi là chân thành được…….</i>"
+        },
+        {
+            "choice_data_list": [
+                "<size=30>Nhưng em vẫn muốn chạy, nên mới trăn trở như thế này.</size>",
+                "<size=30>Nhưng em vẫn muốn chạy, nên mới trăn trở như thế này.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "――...Vâng.\nDù biết làm vậy là không chân thành, nhưng em……――"
+        },
+        {
+            "choice_data_list": [
+                "<size=34>Em cứ trân trọng ý muốn của bản thân là được mà.</size>",
+                "<size=34>Em cứ trân trọng ý muốn của bản thân là được mà.</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "――……Như vậy…… được ạ……?"
+        },
+        {
+            "choice_data_list": [
+                "<size=28>Vì đây là cuộc đời của riêng em mà. Hãy cứ suy nghĩ thật kỹ nhé</size>",
+                "<size=28>Vì đây là cuộc đời của riêng em mà. Hãy cứ suy nghĩ thật kỹ nhé</size>"
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer……――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng…… em sẽ suy nghĩ.\nCho đến khi những trăn trở này―― hoàn toàn tan biến mới thôi"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "（――Trainer lúc nào cũng luôn ở bên cạnh, sẻ chia cùng mình……\nNhững lời anh ấy nói, tại sao lại ấm áp thế cơ chứ……？）"
+        }
+    ],
+    "title": "Thoang Thoảng Sắc Hương Tựa Hoa Trà"
+}
