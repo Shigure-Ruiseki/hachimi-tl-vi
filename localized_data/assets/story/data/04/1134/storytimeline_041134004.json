@@ -1,0 +1,217 @@
+{
+    "title": "Kết Bó Gloriosa Cùng Nắng Mai",
+    "text_block_list": [
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ưm...!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Liệu... anh có thể trở thành trainer của em được không......!"
+        },
+        {
+            "text": "——Mọi chuyện xảy ra thật bất ngờ.\nTôi chưa từng nằm mơ thấy viễn cảnh cô ấy lại mong muốn ký kết hợp đồng với mình."
+        },
+        {
+            "text": "Cô bé Curren Bouquetd'or này luôn cắm hoa trong phòng nghỉ của trainer. Là một Uma Musume có tính cách dịu dàng và điềm đạm."
+        },
+        {
+            "text": "Thế nhưng, chính sự dịu dàng đó lại không phù hợp với những cuộc tranh đua—— đó là đánh giá của các trainer khác, và điều đó khiến tôi lo lắng."
+        },
+        {
+            "text": "Vì có lúc cô ấy dường như đã phân vân không biết có nên từ bỏ việc chạy hay không, nên tôi đã đinh ninh rằng cô ấy sẽ không sớm debut.",
+            "choice_data_list": [
+                "<size=32>À này, ý em là đang cân nhắc việc debut phải không?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng......! Em sẽ debut. Em sẽ hướng tới chiến thắng—— và em sẽ chạy hết mình......!",
+            "choice_data_list": [
+                "<size=26>Em không cần cố quá sức đâu?...... Với em đã hết phân vân rồi sao?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Wa——, e...... em không thể nói là mình tự tin được. Nhưng mà......——em không còn do dự nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Em có điều muốn hoàn thành. Để làm được điều đó, em buộc phải chiến thắng...... vì vậy, em sẽ chạy——!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "......Anh có thể đến xem cuộc thi đấu cá nhân không ạ? Để xem liệu em có thực sự có quyết tâm chiến thắng hay không——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em muốn anh...... là người chứng kiến khoảnh khắc đó......!"
+        },
+        {
+            "text": "......Cô ấy và tôi là hai kiểu người khá giống nhau. Mỗi khi nghĩ rằng mình có thể sẽ không bù đắp được những thứ cô ấy còn thiếu, tôi lại cảm thấy do dự."
+        },
+        {
+            "text": "Thế nhưng—— đôi mắt màu cánh hoa của cô ấy đang rung động. Nắm đấm siết chặt cũng đang khẽ run lên."
+        },
+        {
+            "text": "Tôi cảm nhận được sự nghiêm túc từ cách cô ấy cố gắng hết sức để lấy hết can đảm nói ra điều đó. ——Chắc chắn rằng, tâm trí cô ấy đã có sự thay đổi.",
+            "choice_data_list": [
+                "Anh hiểu rồi. Anh nhất định sẽ đến xem."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng——! Em sẽ cố gắng hết mình......!"
+        },
+        {
+            "text": "——Giải thi đấu cá nhân.\nCurren Bouquetd'or sẽ xuất phát ở cự ly 1600m trên sân cỏ. Tại đó——"
+        },
+        {
+            "name": "Khán giả A",
+            "text": "Đến rồi, đến rồi, Almond Eye kìa! Trong số những Uma Musume ra mắt năm nay, cô ấy thực sự nổi bật hơn hẳn!"
+        },
+        {
+            "name": "Khán giả B",
+            "text": "Ai-chan ơi! Bọn tớ đang mong chờ cú nước rút của cậu lắm đấy nhé——!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Tiếng reo hò thật kinh khủng...... Mọi người, đều đến đây để xem Ai-san mà. Đối đầu với một Ai-san đang được chú ý đến nhường này......, nhưng mà—!)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Xin lỗi…… ạ, Ai-san! Cuộc đua ngày hôm nay, mong được chỉ giáo nhiều hơn……!"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Ừ, mong được cậu chỉ giáo nhé. Tớ sẽ không thua bất kỳ ai đâu!\nKể cả đối thủ có là Bouquet-chan đi chăng nữa!"
+        },
+        {
+            "text": "—Trận đua diễn ra với tình thế Almond Eye bị xuất phát chậm, trong khi Curren Bouquetd'or đã chiếm được một vị trí thuận lợi trong nhóm bám đuổi phía trên."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Ưư—! Nhưng mà, mình vẫn có thể lội ngược dòng được!\nPhân định thắng thua chỉ thực sự bắt đầu khi bước vào chặng cuối thoio!"
+        },
+        {
+            "text": "Nếu cứ tiếp tục thế này, Curren Bouquetd'or hoàn toàn có cơ hội chiến thắng. Thế nhưng, ở đoạn đường thẳng cuối cùng——"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Nào, lên thôi! Haaaaaaa...!!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ư……!"
+        },
+        {
+            "text": "Curren Bouquetd'or chùn bước như thể bị khuất phục trước đà lao lên mạnh mẽ.\nCô nhăn mặt đầy đau đớn, y như mọi khi."
+        },
+        {
+            "text": "(……Ý chí thật đáng kinh ngạc—— Mình suýt chút nữa là bị hào quang của Ai-san đè bẹp rồi. Nhưng mà——)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Để có thể nắm lấy đôi tay của anh ấy—— mình phải cho họ thấy, quyết tâm của bản thân mới được!)"
+        },
+        {
+            "text": "Cô ấy sẽ bám trụ đến cùng. Nếu là sự chấp niệm với chiến thắng, cô sẽ vượt qua bất kỳ ai, vượt qua cả Almond Eye!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chiến thắng đầu tiên—— để dẫn lối tới bó hoa của vinh quang!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yaaaaaaa————!!"
+        },
+        {
+            "text": "――Một tia sáng sắc lẹm bỗng chốc bắn ra từ đôi mắt ấy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hộc, hộc…… Mình đã không thể thắng được……—— Riêng cuộc đua này, mình thực sự rất muốn thắng vậy mà……—— ư, ư hức……"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "……Bouquet-chan.\nCách chạy của cậu ngày hôm nay, khác hẳn so với trước."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "(Có thể thay đổi đến mức này cơ mà. Cậu chắc chắn sẽ còn mạnh mẽ hơn nữa! Vậy nên lần tới, chúng ta lại đấu với nhau nhé. Tại Twinkle Series!)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Trainer. Em xin lỗi...... Anh đã dõi theo em như vậy, thế mà em lại để thua mất.",
+            "choice_data_list": [
+                "Không đâu. Em đã chạy rất tốt mà."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—— Em đã muốn giành chiến thắng để anh thấy sự quyết tâm của mình, vậy mà...\nEm tiếc lắm……",
+            "choice_data_list": [
+                "<size=30>Ra là em đã có thể nghĩ rằng mình muốn chiến thắng rồi nhỉ.</size>",
+                "<size=30>Ra là em đã có thể nghĩ rằng mình muốn chiến thắng rồi nhỉ.</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Tất cả là nhờ có anh đấy ạ. ……Giữa lúc em đang phiền muộn không biết có nên tiếp tục chạy nữa hay không, anh đã luôn ở bên cạnh để chia sẻ và thấu hiểu em."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Không chỉ đối với riêng em, mà với bất kỳ Uma Musume nào—— anh cũng đều dành trọn vẹn cả thời gian, năng lực và tất cả mọi thứ của bản thân mà không hề tiếc nuối."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trên đời này, sẽ không có một người trainer nào tuyệt vời như thế này đâu ạ. Em muốn chứng minh sự tuyệt vời đó cho mọi người thấy. ——Bằng chính bước chạy của mình."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Dù hiện tại, em vẫn là một đứa chưa thể dâng tặng cho anh dẫu chỉ là một đóa hoa chiến thắng. Nhưng nếu là ở bên anh—— em tin là mình sẽ làm được."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Và rồi, kết lại những chiến thắng thành một bó hoa đong đầy cả hai bàn tay này."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Em muốn gửi tặng đến anh, một bó hoa sáng ngời ánh hoàng kim."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vì vậy, xin anh hãy——\nTrở thành trainer của em nhé......!"
+        },
+        {
+            "text": "……Đôi mắt ngấn lệ của cô ấy đang khẽ rung động. Thế nhưng, dù đang bị bủa vây bởi nỗi bất an, đôi mắt ấy vẫn đang thẳng tiến nhìn chằm chằm về phía tôi.",
+            "choice_data_list": [
+                "<size=36>(Đây chắc chắn là sự dũng cảm đầu tiên của cô ấy)</size>"
+            ]
+        },
+        {
+            "text": "Nếu bỏ lỡ cơ hội này, tài năng của cô ấy có lẽ sẽ kết thúc mà chẳng bao giờ được phát huy.\nVà hơn hết, trên tất cả mọi thứ——",
+            "choice_data_list": [
+                "——Chính tôi cũng vậy, đối với em...",
+                "——Chính tôi cũng vậy, đối với em..."
+            ]
+        },
+        {
+            "text": "Dẫu cho có phải thay đổi cả chính mình, cô ấy vẫn quyết tâm muốn cùng tôi đương đầu với thử thách—— tôi thực sự muốn đáp lại điều đó.",
+            "choice_data_list": [
+                "<size=28>Anh sẽ cố gắng để trở thành người trainer tuyệt vời nhất của em!</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——! ……Trainer……!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Vâng ạ.\nTừ nay về sau mong được anh chỉ giáo nhiều hơn nữa ạ——!"
+        },
+        {
+            "text": "Cô ấy khẽ mỉm cười dịu dàng. Nhẹ nhàng, tựa như một đóa hoa nở rộ. ——Tôi tự hứa với lòng mình, nhất định sẽ khiến cho nụ cười này được nở hoa một cách thật rực rỡ và xinh đẹp."
+        }
+    ]
+}

@@ -1,5 +1,4 @@
 {
-    "title": "Sẻ Chia Cùng Alchemilla Mollis",
     "text_block_list": [
         {
             "name": "Curren Bouquetd'or",
@@ -22,11 +21,11 @@
             "text": "——Nếu là trợ lý trainer, thì lại thành ra như vậy nhỉ......"
         },
         {
-            "name": "Uma Musume tóc ngắn hạt dẻ",
-            "text": "A～～～, chân mình không trụ nổi đến cuối nữa rồi.......\nCho em hỏi, chỗ nào đã chưa tốt vậy ạ?",
             "choice_data_list": [
                 "<size=28>Do hướng đạp chân làm trọng tâm của em hơi chệch một chút.</size>"
-            ]
+            ],
+            "name": "Uma Musume tóc ngắn hạt dẻ",
+            "text": "A～～～, chân mình không trụ nổi đến cuối nữa rồi.......\nCho em hỏi, chỗ nào đã chưa tốt vậy ạ?"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -109,31 +108,31 @@
             "text": "(Trainer đến để tuyển trạch.......——à)"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Trainer. ——Anh đến để tham quan ạ?",
             "choice_data_list": [
                 "<size=34>À ừ. Anh đến để quan sát tuyển trạch thôi. ——……</size>",
                 "<size=34>À ừ. Anh đến để quan sát tuyển trạch thôi. ——……</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer. ——Anh đến để tham quan ạ?"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "——Ah, ừm...... ——Á, trên mặt em có dính gì sao ạ?",
             "choice_data_list": [
                 "<size=30>Không có gì đâu…… Anh chỉ thấy em khỏe mạnh là tốt rồi.</size>",
                 "<size=30>Không có gì đâu…… Anh chỉ thấy em khỏe mạnh là tốt rồi.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "——Ah, ừm...... ——Á, trên mặt em có dính gì sao ạ?"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Vâng, em ổn ạ. Em đã quyết định là sẽ suy nghĩ về cuộc đua một cách bình tĩnh mà không vội vàng rồi. ——Cảm ơn anh đã quan tâm ạ."
         },
         {
-            "name": "Umamusume thuộc một đội",
-            "text": "Trợ lý Tra... không, Trainer!\nÀ, anh đang bận à. ......Có vẻ anh đang bận thật, thôi vậy.",
             "choice_data_list": [
                 "<size=26>Khoan đã, anh vẫn có thể dành thời gian để lắng nghe em tâm sự mà.</size>"
-            ]
+            ],
+            "name": "Umamusume thuộc một đội",
+            "text": "Trợ lý Tra... không, Trainer!\nÀ, anh đang bận à. ......Có vẻ anh đang bận thật, thôi vậy."
         },
         {
             "name": "Umamusume thuộc một đội",
@@ -152,57 +151,57 @@
             "text": "(Có rất nhiều Uma Musume ngưỡng mộ ảnh. Việc trainer có nhận được nhiều bó hoa hơn nữa cũng là chuyện bình thường thôi)"
         },
         {
-            "name": "Trợ lý Trainer",
-            "text": "(Aaaa, chết rồi! Mình quên mất việc đăng ký thi đấu có hạn chót vào hôm nay rồi!! Đúng lúc Trainer đang đi công tác thế này! Nhưng mà, việc huấn luyện...)",
             "choice_data_list": [
                 "<size=38>Việc huấn luyện, để tôi trông chừng giúp cho?</size>",
                 "<size=38>Việc huấn luyện, để tôi trông chừng giúp cho?</size>"
-            ]
+            ],
+            "name": "Trợ lý Trainer",
+            "text": "(Aaaa, chết rồi! Mình quên mất việc đăng ký thi đấu có hạn chót vào hôm nay rồi!! Đúng lúc Trainer đang đi công tác thế này! Nhưng mà, việc huấn luyện...)"
         },
         {
-            "name": "Trợ lý Trainer",
-            "text": "Thật... thật chứ...? V-vậy thì... xin phép cho tôi được nhận lòng tốt của anh... Đây là thực đơn tập luyện hôm nay ạ! Xin lỗi vì đã làm phiền, nhờ anh giúp cho!",
             "choice_data_list": [
                 "<size=40>Không cần phải vội đâu, cứ từ từ làm là được.</size>",
                 "<size=40>Không cần phải vội đâu, cứ từ từ làm là được.</size>"
-            ]
+            ],
+            "name": "Trợ lý Trainer",
+            "text": "Thật... thật chứ...? V-vậy thì... xin phép cho tôi được nhận lòng tốt của anh... Đây là thực đơn tập luyện hôm nay ạ! Xin lỗi vì đã làm phiền, nhờ anh giúp cho!"
         },
         {
             "name": "Trainer đội khác",
             "text": "<username>, cậu ôm đồm quá nhiều việc rồi phải không? Chẳng phải cậu cũng nên tìm một Uma Musume cho riêng mình phụ trách hay sao?"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "(—Hình như đó là... Trainer của đội mà anh ấy từng thuộc trong thời gian còn làm trợ lý trainer...)",
             "choice_data_list": [
                 "<size=34>Nhưng mà, người gặp khó khăn là các Uma Musume.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "(—Hình như đó là... Trainer của đội mà anh ấy từng thuộc trong thời gian còn làm trợ lý trainer...)"
         },
         {
-            "name": "Trainer đội khác",
-            "text": "Tôi hiểu điều đó, nhưng cậu cũng phải suy nghĩ cho sự nghiệp của chính mình nữa chứ.",
             "choice_data_list": [
                 "<size=30>Em biết nhưng em luôn đặt các Uma Musume lên hàng đầu</size>",
                 "<size=30>Em biết nhưng em luôn đặt các Uma Musume lên hàng đầu</size>"
-            ]
+            ],
+            "name": "Trainer đội khác",
+            "text": "Tôi hiểu điều đó, nhưng cậu cũng phải suy nghĩ cho sự nghiệp của chính mình nữa chứ."
         },
         {
-            "name": "Trainer đội khác",
-            "text": "......Đặt các Uma Musume lên hàng đầu sao——",
             "choice_data_list": [
                 "<size=32>Vâng. Đó chính là điều đầu tiên mà em đã được anh dạy.</size>"
-            ]
+            ],
+            "name": "Trainer đội khác",
+            "text": "......Đặt các Uma Musume lên hàng đầu sao——"
         },
         {
             "name": "Trainer đội khác",
             "text": "À... à, đúng rồi nhỉ. Hồi cậu mới vào đội, tôi đã từng mắng cậu rất nghiêm khắc. Rằng hãy luôn ưu tiên các Uma Musume lên hàng đầu."
         },
         {
-            "name": "Trainer đội khác",
-            "text": "Ra là vậy... Hèn chi cậu lúc nào cũng hành động vì lợi ích của các Uma Musume......",
             "choice_data_list": [
                 "<size=32>Em muốn trở thành trainer không khiến anh phải tự hào.</size>"
-            ]
+            ],
+            "name": "Trainer đội khác",
+            "text": "Ra là vậy... Hèn chi cậu lúc nào cũng hành động vì lợi ích của các Uma Musume......"
         },
         {
             "name": "Trainer đội khác",
@@ -248,5 +247,6 @@
             "name": "Curren Bouquetd'or",
             "text": "Liệu... anh có thể trở thành trainer của em được không......!"
         }
-    ]
+    ],
+    "title": "Sẻ Chia Cùng Alchemilla Mollis"
 }
