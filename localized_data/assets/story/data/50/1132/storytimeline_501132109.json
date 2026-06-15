@@ -55,8 +55,8 @@
             "name": "Loves Only You",
             "text": "――Vé tham dự buổi tiệc mừng công sau giải 『Japan Cup』 từ mọi người á?",
             "choice_data_list": [
-                "<size=36>Ừ, mọi người bảo hai đứa mình cứ đi cùng nhau đi.</size>",
-                "<size=36>Ừ, mọi người bảo hai đứa mình cứ đi cùng nhau đi.</size>"
+                "<size=34>Ừ, mọi người bảo hai đứa mình cứ đi cùng nhau đi.</size>",
+                "<size=34>Ừ, mọi người bảo hai đứa mình cứ đi cùng nhau đi.</size>"
             ]
         },
         {
@@ -69,7 +69,7 @@
             "name": "Loves Only You",
             "text": "Tuyệt quá……!\nNghe giống như một buổi tiệc ngập tràn tình yêu luôn!",
             "choice_data_list": [
-                "<size=38>Có điều, ở đó có quy định về trang phục nữa...</size>"
+                "<size=36>Có điều, ở đó có quy định về trang phục nữa...</size>"
             ]
         },
         {
@@ -148,14 +148,14 @@
             "name": "Loves Only You",
             "text": "...............Trainer-kun? Anh sao thế?",
             "choice_data_list": [
-                "À không, chỉ là anh thấy em đẹp quá thôi..."
+                "<size=40>À không, chỉ là anh thấy em đẹp quá thôi...</size>"
             ]
         },
         {
             "name": "Loves Only You",
             "text": "...............Trainer-kun? Anh sao thế?",
             "choice_data_list": [
-                "À không, chỉ là anh thấy em đẹp quá thôi..."
+                "<size=40>À không, chỉ là anh thấy em đẹp quá thôi...</size>"
             ]
         },
         {
@@ -249,7 +249,10 @@
         },
         {
             "name": "Loves Only You",
-            "text": "Trước lúc đó……\nEm nghĩ chúng ta nên quyết định sẵn chuyện này thì tốt hơn."
+            "text": "Trước lúc đó……\nEm nghĩ chúng ta nên quyết định sẵn chuyện này thì tốt hơn.",
+            "choice_data_list": [
+                "Quyết định…… cái gì cơ?"
+            ]
         },
         {
             "name": "Loves Only You",
@@ -308,8 +311,8 @@
             "name": "Loves Only You",
             "text": "Và cuối cùng, hai đứa mình sẽ cùng nói 『Loves Only You♡』 rồi tạo hình trái tim!\nThấy sao ạ? Nghe ngập tràn tình yêu đúng không!",
             "choice_data_list": [
-                "Ngại, ngại chết mết...!",
-                "Ngại, ngại chết mết...!"
+                "Ngại, ngại chết mất...!",
+                "Ngại, ngại chết mất...!"
             ]
         },
         {
