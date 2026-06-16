@@ -196,11 +196,18 @@
         },
         {
             "name": "Curren Bouquetd'or",
-            "text": "Vậy thì…… chúng ta đổi với nhau rồi cùng uống nhé."
+            "text": "Vậy thì…… chúng ta đổi với nhau rồi cùng uống nhé.",
+            "choice_data_list": [
+                ".....Haha, được chứ.",
+                ".....Haha, được chứ."
+            ]
         },
         {
             "name": "Nhân viên quầy vé",
-            "text": "Xin lỗi vì đã để hai bạn chờ lâu! Việc kiểm tra đã hoàn tất rồi, hai bạn có thể vào cổng tham quan rồi ạ."
+            "text": "Xin lỗi vì đã để hai bạn chờ lâu! Việc kiểm tra đã hoàn tất rồi, hai bạn có thể vào cổng tham quan rồi ạ.",
+            "choice_data_list": [
+                "Ah, đã đến giờ rồi?"
+            ]
         },
         {
             "name": "Curren Bouquetd'or",
