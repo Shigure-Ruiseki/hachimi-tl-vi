@@ -1,0 +1,199 @@
+{
+    "title": "Lặng lẽ dõi theo nhành hoa oải hương",
+    "text_block_list": [
+        {
+            "name": "Độc thoại",
+            "text": "Một buổi sáng sớm nọ, khi đang trên đường hướng về phòng trainer, tôi tình cờ bắt gặp Curren Bouquetd'or đang ôm một bưu kiện nhỏ và lẩm bẩm điều gì đó."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ừm—— Nước cũng đã ráo hẳn rồi.\nCòn lại thì……——",
+            "choice_data_list": [
+                "<size=36>Chào buổi sáng, Bouquet. Em đang làm gì thế?</size>",
+                "<size=36>Chào buổi sáng, Bouquet. Em đang làm gì thế?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "A—— Em chào buổi sáng ạ.\nEm đang tính dùng hoa khô để làm—— một chút hoa khô thơm (potpourri) ạ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nó giống như một loại sáp thơm làm từ hoa vậy ạ—— mùi\nhương của nó rất là dễ chịu. Chỉ cần nhỏ thêm vài giọt tinh\ndầu rồi xếp vào lọ là hoàn thành rồi ạ.",
+            "choice_data_list": [
+                "<size=32>Mùi hương của hoa sao. Dễ chịu mà anh cũng thích nữa.</size>",
+                "<size=32>Mùi hương của hoa sao. Dễ chịu mà anh cũng thích nữa.</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ôi…… Vậy thì anh đã đến vườn hoa của học viện chưa ạ?\nThời điểm này đang có rất nhiều hoa nở rộ—— và mùi hương thì tuyệt vời lắm đấy ạ.",
+            "choice_data_list": [
+                "Vậy sao! Nghe làm anh thấy tò mò quá."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Nếu được thì—— bây giờ anh có muốn cùng đi không ạ?\nVì em cũng đang—— chuẩn bị ra đó để chăm sóc hoa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chậu cây bên này là hoa nhài ạ.\nĐây là loài hoa đang vào độ nở rộ—— với đặc trưng là một mùi hương rất ngọt ngào.",
+            "choice_data_list": [
+                "Đúng thật này, thơm quá……"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe—— Một mùi hương thật dễ chịu, đúng không anh?\nNó cũng rất được ưa chuộng để làm tinh dầu hay nước hoa đấy ạ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hoa tulip vì có màu sắc rực rỡ và rất bắt mắt—— nên cũng thường xuyên được dùng trong cắm hoa nghệ thuật đấy ạ.",
+            "choice_data_list": [
+                "<size=34>Hoa nào cũng đẹp thật... Ngắm hoài không chán luôn.</size>",
+                "<size=34>Hoa nào cũng đẹp thật... Ngắm hoài không chán luôn.</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe—— Em cảm ơn anh ạ.\nEm cũng vậy, mỗi khi ngắm nhìn những bông hoa này là trong lòng lại thấy ấm áp lạ kỳ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em nghĩ những bông hoa—— luôn có một sức mạnh có thể chữa lành tâm hồn. Dù là khi chúng đang nở rộ—— hay khi đã trở thành những bó hoa, và cả hoa khô thơm nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Thông qua những điều đó——\nNếu tâm trạng của mọi người có thể trở nên vui tươi, nhẹ nhàng hơn dù chỉ một chút—— thì em cũng thấy hạnh phúc lắm rồi.",
+            "choice_data_list": [
+                "<size=32>(Mọi người sao... Đúng là phong cách của Bouquet mà)</size>",
+                "<size=32>(Mọi người sao... Đúng là phong cách của Bouquet mà)</size>"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "……Có lẽ những bông hoa nơi đây đang đong đầy lòng trắc ẩn và sự dịu dàng mà cô ấy dành cho mọi người. Khi tôi nhìn quanh một lần nữa——",
+            "choice_data_list": [
+                "<size=38>A... Cái này là mầm non mới đúng không nhỉ?</size>"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Bên trong chậu cây ngập tràn ánh nắng——\nVài chiếc mầm nhỏ đang hé đầu nhô lên khỏi mặt đất."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Đó là—— hoa thược dược đấy ạ.\nCủ giống em trồng đợt trước—— vừa mới nảy mầm hôm nọ xong.",
+            "choice_data_list": [
+                "Ra là vậy, mong là sẽ nở thật đẹp.",
+                "Ra là vậy, mong là sẽ nở thật đẹp."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em cảm ơn anh ạ. Vì đây là quà sinh nhật tặng mẹ—— nên em đang mong chờ lắm luôn."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vì hoa nở vào mùa thu nên sẽ còn mất chút thời gian nữa—— nhưng em tin chắc rằng, nó sẽ trở thành một bó hoa tuyệt đẹp.",
+            "choice_data_list": [
+                "Mùa thu sao... Nghe còn xa quá nhỉ.",
+                "Mùa thu sao... Nghe còn xa quá nhỉ."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng ạ—— Nhưng mà, việc dõi theo chúng lớn lên từng ngày lại rất vui. Như là tưới nước, hay nhổ cỏ dại chẳng hạn."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hơn nữa—— việc chờ đợi chính là bước chuẩn bị để đón nhận niềm vui mà.",
+            "choice_data_list": [
+                "――！"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nảy mầm, kết nụ, rồi hoa nở. Việc trồng một bông hoa—— chính là một chuỗi những sự chờ đợi liên tiếp."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng mà—— chính vì đã tự tay chăm sóc và kiên nhẫn đợi chờ—— nên em tin rằng, niềm vui khi hoa nở cũng sẽ lớn lao hơn rất nhiều."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hơn nữa—— việc tưởng tượng ra nụ cười của người nhận hoa... cũng là một niềm vui trong suốt quãng thời gian chờ đợi đấy ạ."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Có lẽ việc trồng hoa đã khiến cô ấy quen với sự chờ đợi. Tuy vậy, liệu việc phải liên tục chăm sóc suốt một thời gian dài như thế có quá vất vả hay không?",
+            "choice_data_list": [
+                "<size=32>Nếu được…… anh giúp em một tay chăm sóc hoa nhé?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Dạ……?",
+            "choice_data_list": [
+                "<size=30>Tuy chỉ là tay mơ, nhưng anh tự hỏi mình giúp được không.</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Em cảm ơn anh rất nhiều ạ.\nĐược anh quan tâm chu đáo như vậy—— em vui lắm."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng mà—— em ổn mà. Em vốn thích chăm sóc hoa sẵn rồi, nếu anh cứ để bụng vậy là—— Ơ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Dạ, nếu được—— lần sau anh lại ghé qua đây có được không ạ?\nVì em nghĩ những bông hoa này…… cũng sẽ vui hơn nếu có người đến ngắm nhìn.",
+            "choice_data_list": [
+                "<size=36>Ra là vậy…… Anh hiểu rồi! Lần sau anh lại tới nhé.</size>"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "……Nếu tôi cứ nài nỉ mãi thì có lẽ sẽ gây phiền toái cho cô ấy mất. Sau đó, tôi đứng ngắm hoa thêm một lát rồi quay trở lại với công việc."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Vài ngày sau…… chợt muốn ngắm những bông hoa, tôi lại rảo bước hướng về phía mảnh vườn một lần nữa. Thế rồi——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Đất thì—— ừm, không bị khô.\nChuyện tưới nước chắc là ổn rồi——",
+            "choice_data_list": [
+                "（A…… là Bouquet kìa）"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Bạn Thược Dược ơi…… xin chào nhé.\nBạn đã đâm chồi thật khỏe mạnh rồi—— mình vui lắm."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Cầu mong những bông hoa tươi đẹp đẹp sẽ nở rộ.\nTừ giờ chúng mình hãy cùng nhau cố gắng nhé",
+            "choice_data_list": [
+                "（……Quả nhiên là vậy……）"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Cô ấy đang chờ đợi những bông hoa nở.\nVới một tấm lòng dịu dàng hơn bất cứ ai, một cách đầy âm thầm và tận tụy."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Chính vì vậy—— tôi cảm thấy một kẻ tay mơ như mình không nên can thiệp vào công việc trồng hoa của cô ấy một cách vô ý tứ.",
+            "choice_data_list": [
+                "<size=38>（Hãy cứ lặng lẽ dõi theo và ủng hộ cô ấy vậy）</size>"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Dù tôi không thể trực tiếp giúp đỡ, chắc chắn vẫn có điều gì đó tôi có thể làm. Nghĩ vậy, tôi đứng từ xa quan sát cô ấy ngắm nhìn những bông hoa."
+        }
+    ]
+}
