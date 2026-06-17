@@ -1,5 +1,4 @@
 {
-    "title": "Ending (Normal)",
     "text_block_list": [
         {
             "name": "Độc thoại",
@@ -53,11 +52,11 @@
             "text": "Cuối cùng cũng đến lúc rồi nhỉ, Love-chan......!『Breeders' Cup』, hãy cháy hết mình với 200 dặm mà cố gắng lên nha!"
         },
         {
-            "name": "Gran Alegria",
-            "text": "Thế nên,『Mile Championship』 kết thúc, tụi mình cùng tổ chức tiệc mừng nhé! Hứa đó nha!",
             "color_text_info_list": [
                 "Mile Championship"
-            ]
+            ],
+            "name": "Gran Alegria",
+            "text": "Thế nên,『Mile Championship』 kết thúc, tụi mình cùng tổ chức tiệc mừng nhé! Hứa đó nha!"
         },
         {
             "name": "Loves Only You",
@@ -97,7 +96,7 @@
         },
         {
             "name": "Loves Only You",
-            "text": "Ai-san! Lara-san!\nHai người cũng đến đây sao……!?"
+            "text": "Chị Ai! Chị Lara!\nHai người cũng đến đây sao……!?"
         },
         {
             "name": "Lucky Lilac",
@@ -105,7 +104,7 @@
         },
         {
             "name": "Almond Eye",
-            "text": "Lara-san nói đúng đấy.\nDù khác thế hệ, nhưng chúng ta đều là những UmaMusume đã cùng nhau sải bước chung một thời đại mà!"
+            "text": "Lara nói đúng đấy.\nDù khác thế hệ, nhưng chúng ta đều là những UmaMusume đã cùng nhau sải bước chung một thời đại mà!"
         },
         {
             "name": "Lucky Lilac",
@@ -136,25 +135,25 @@
             "text": "Vì vậy, chị hãy cứ chờ đi nhé♪"
         },
         {
-            "name": "Loves Only You",
-            "text": "Trainer-kun, bắt anh phải chờ rồi nhé ♪",
             "choice_data_list": [
                 "<size=40>Em đã nói chuyện với mọi người xong chưa?</size>"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "Trainer-kun, bắt anh phải chờ rồi nhé ♪"
         },
         {
-            "name": "Loves Only You",
-            "text": "Trainer-kun, bắt anh phải chờ rồi nhé ♪",
             "choice_data_list": [
                 "<size=40>Em đã nói chuyện với mọi người xong chưa?</size>"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "Trainer-kun, bắt anh phải chờ rồi nhé ♪"
         },
         {
-            "name": "Loves Only You",
-            "text": "Dạ rồi, chuẩn chỉ luôn ạ♪ Còn phía anh thì sao?",
             "choice_data_list": [
                 "<size=40>Bên anh cũng chuẩn bị đầy đủ, nhìn xem――</size>"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "Dạ rồi, chuẩn chỉ luôn ạ♪ Còn phía anh thì sao?"
         },
         {
             "name": "3-Day Type Girl",
@@ -165,11 +164,11 @@
             "text": "Oa, tuyệt vời quá đi ạ!! Em nhất định sẽ giành chức vô địch về, nên là mọi người nhớ chuẩn bị sẵn tiệc ăn mừng đi nhé ♡"
         },
         {
-            "name": "Nekketsu-sensei",
-            "text": "Trông cậy cả vào việc làm cầu nối đó nhé! Hãy cho chúng tôi được chứng kiến một chiến thắng đầu tiên trong lịch sử đi nào!!",
             "choice_data_list": [
                 "Cứ giao cho tôi!"
-            ]
+            ],
+            "name": "Nekketsu-sensei",
+            "text": "Trông cậy cả vào việc làm cầu nối đó nhé! Hãy cho chúng tôi được chứng kiến một chiến thắng đầu tiên trong lịch sử đi nào!!"
         },
         {
             "name": "Fan trược tiếp",
@@ -180,23 +179,23 @@
             "text": "Cảm ơn mọi người nhiều lắm! Vậy thì, tụi em đi đây ạ!!"
         },
         {
-            "name": "Loves Only You",
-            "text": "……Giờ thì chỉ còn việc lên máy bay nữa thôi.",
             "choice_data_list": [
                 "Ừ nhỉ...",
                 "Ừ nhỉ..."
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "……Giờ thì chỉ còn việc lên máy bay nữa thôi."
         },
         {
             "name": "Loves Only You",
             "text": "……Mà công nhận, được mọi người tiễn thế này, rồi hai đứa mình lại cùng nhau hướng về tương lai, cảm giác giống như là――"
         },
         {
-            "name": "Loves Only You",
-            "text": "................................thế nhỉ.",
             "choice_data_list": [
                 "？Ơ, em vừa nói gì thế？"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "................................thế nhỉ."
         },
         {
             "name": "Loves Only You",
@@ -214,5 +213,6 @@
             "name": "Độc thoại",
             "text": "Minh chứng cho tình yêu giữa tôi và cô ấy―― vẫn chưa dừng lại ở đây."
         }
-    ]
+    ],
+    "title": "Ending (Normal)"
 }
