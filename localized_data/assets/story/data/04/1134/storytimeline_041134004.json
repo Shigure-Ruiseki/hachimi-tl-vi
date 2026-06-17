@@ -1,5 +1,4 @@
 {
-    "title": "Kết Bó Gloriosa Cùng Nắng Mai",
     "text_block_list": [
         {
             "name": "Curren Bouquetd'or",
@@ -19,17 +18,17 @@
             "text": "Thế nhưng, chính sự dịu dàng đó lại không phù hợp với những cuộc tranh đua—— đó là đánh giá của các trainer khác, và điều đó khiến tôi lo lắng."
         },
         {
-            "text": "Vì có lúc cô ấy dường như đã phân vân không biết có nên từ bỏ việc chạy hay không, nên tôi đã đinh ninh rằng cô ấy sẽ không sớm debut.",
             "choice_data_list": [
                 "<size=32>À này, ý em là đang cân nhắc việc debut phải không?</size>"
-            ]
+            ],
+            "text": "Vì có lúc cô ấy dường như đã phân vân không biết có nên từ bỏ việc chạy hay không, nên tôi đã đinh ninh rằng cô ấy sẽ không sớm debut."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Vâng......! Em sẽ debut. Em sẽ hướng tới chiến thắng—— và em sẽ chạy hết mình......!",
             "choice_data_list": [
                 "<size=26>Em không cần cố quá sức đâu?...... Với em đã hết phân vân rồi sao?</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng......! Em sẽ debut. Em sẽ hướng tới chiến thắng—— và em sẽ chạy hết mình......!"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -54,10 +53,10 @@
             "text": "Thế nhưng—— đôi mắt màu cánh hoa của cô ấy đang rung động. Nắm đấm siết chặt cũng đang khẽ run lên."
         },
         {
-            "text": "Tôi cảm nhận được sự nghiêm túc từ cách cô ấy cố gắng hết sức để lấy hết can đảm nói ra điều đó. ——Chắc chắn rằng, tâm trí cô ấy đã có sự thay đổi.",
             "choice_data_list": [
                 "Anh hiểu rồi. Anh nhất định sẽ đến xem."
-            ]
+            ],
+            "text": "Tôi cảm nhận được sự nghiêm túc từ cách cô ấy cố gắng hết sức để lấy hết can đảm nói ra điều đó. ——Chắc chắn rằng, tâm trí cô ấy đã có sự thay đổi."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -141,19 +140,19 @@
             "text": "(Có thể thay đổi đến mức này cơ mà. Cậu chắc chắn sẽ còn mạnh mẽ hơn nữa! Vậy nên lần tới, chúng ta lại đấu với nhau nhé. Tại Twinkle Series!)"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "——Trainer. Em xin lỗi...... Anh đã dõi theo em như vậy, thế mà em lại để thua mất.",
             "choice_data_list": [
                 "Không đâu. Em đã chạy rất tốt mà."
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "——Trainer. Em xin lỗi...... Anh đã dõi theo em như vậy, thế mà em lại để thua mất."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "—— Em đã muốn giành chiến thắng để anh thấy sự quyết tâm của mình, vậy mà...\nEm tiếc lắm……",
             "choice_data_list": [
                 "<size=30>Ra là em đã có thể nghĩ rằng mình muốn chiến thắng rồi nhỉ.</size>",
                 "<size=30>Ra là em đã có thể nghĩ rằng mình muốn chiến thắng rồi nhỉ.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "—— Em đã muốn giành chiến thắng để anh thấy sự quyết tâm của mình, vậy mà...\nEm tiếc lắm……"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -184,23 +183,23 @@
             "text": "Vì vậy, xin anh hãy——\nTrở thành trainer của em nhé......!"
         },
         {
-            "text": "……Đôi mắt ngấn lệ của cô ấy đang khẽ rung động. Thế nhưng, dù đang bị bủa vây bởi nỗi bất an, đôi mắt ấy vẫn đang thẳng tiến nhìn chằm chằm về phía tôi.",
             "choice_data_list": [
                 "<size=36>(Đây chắc chắn là sự dũng cảm đầu tiên của cô ấy)</size>"
-            ]
+            ],
+            "text": "……Đôi mắt ngấn lệ của cô ấy đang khẽ rung động. Thế nhưng, dù đang bị bủa vây bởi nỗi bất an, đôi mắt ấy vẫn đang thẳng tiến nhìn chằm chằm về phía tôi."
         },
         {
-            "text": "Nếu bỏ lỡ cơ hội này, tài năng của cô ấy có lẽ sẽ kết thúc mà chẳng bao giờ được phát huy.\nVà hơn hết, trên tất cả mọi thứ——",
             "choice_data_list": [
                 "——Chính tôi cũng vậy, đối với em...",
                 "——Chính tôi cũng vậy, đối với em..."
-            ]
+            ],
+            "text": "Nếu bỏ lỡ cơ hội này, tài năng của cô ấy có lẽ sẽ kết thúc mà chẳng bao giờ được phát huy.\nVà hơn hết, trên tất cả mọi thứ——"
         },
         {
-            "text": "Dẫu cho có phải thay đổi cả chính mình, cô ấy vẫn quyết tâm muốn cùng tôi đương đầu với thử thách—— tôi thực sự muốn đáp lại điều đó.",
             "choice_data_list": [
                 "<size=28>Anh sẽ cố gắng để trở thành người trainer tuyệt vời nhất của em!</size>"
-            ]
+            ],
+            "text": "Dẫu cho có phải thay đổi cả chính mình, cô ấy vẫn quyết tâm muốn cùng tôi đương đầu với thử thách—— tôi thực sự muốn đáp lại điều đó."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -213,5 +212,6 @@
         {
             "text": "Cô ấy khẽ mỉm cười dịu dàng. Nhẹ nhàng, tựa như một đóa hoa nở rộ. ——Tôi tự hứa với lòng mình, nhất định sẽ khiến cho nụ cười này được nở hoa một cách thật rực rỡ và xinh đẹp."
         }
-    ]
+    ],
+    "title": "Kết Bó Gloriosa Cùng Nắng Mai"
 }

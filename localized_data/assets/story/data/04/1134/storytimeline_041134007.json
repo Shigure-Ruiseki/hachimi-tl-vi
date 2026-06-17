@@ -1,30 +1,29 @@
 {
-    "title": "Nhành Phong Lữ Hồng Đơm Hoa",
     "text_block_list": [
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Trainer, việc thu gom khăn tay phơi bên ngoài―― đã làm xong rồi ạ.",
             "choice_data_list": [
                 "<size=34>Cảm ơn em, mấy cái đó cứ cất vào tủ bếp giúp anh……</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer, việc thu gom khăn tay phơi bên ngoài―― đã làm xong rồi ạ."
         },
         {
             "name": "Độc thoại",
             "text": "Trước thềm chuyến tập huấn mùa hè. Chúng tôi đã đến trại tập huấn sớm hơn các Uma Musume khác để phụ giúp công tác chuẩn bị."
         },
         {
-            "name": "Nhân viên trại tập huấn",
-            "text": "Có Trainer giúp đỡ thì tốt quá rồi! Không ngờ năm nay anh vẫn đến để phụ một tay thế này.",
             "choice_data_list": [
                 "<size=34>Không có gì đâu, đây là do tự nguyện muốn làm thôi</size>"
-            ]
+            ],
+            "name": "Nhân viên trại tập huấn",
+            "text": "Có Trainer giúp đỡ thì tốt quá rồi! Không ngờ năm nay anh vẫn đến để phụ một tay thế này."
         },
         {
-            "name": "Nhân viên trại tập huấn",
-            "text": "Vậy nên chúng tôi mới biết ơn lắm đấy! Hơn nữa còn không ngờ ngay cả Uma Musume mà anh đảm nhận cũng cất công đến tận đây…… Thực sự đã làm phiền hai người quá rồi.",
             "choice_data_list": [
                 "<size=30>Vừa nghe tôi qua là em ấy đã chủ động đi theo hỗ trợ đấy.</size>"
-            ]
+            ],
+            "name": "Nhân viên trại tập huấn",
+            "text": "Vậy nên chúng tôi mới biết ơn lắm đấy! Hơn nữa còn không ngờ ngay cả Uma Musume mà anh đảm nhận cũng cất công đến tận đây…… Thực sự đã làm phiền hai người quá rồi."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -35,11 +34,11 @@
             "text": "Ồ……! Không hổ danh là Uma Musume do Trainer dẫn dắt. Hôm nay trông cậy vào hai người nhé."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "……Được rồi, bọc vỏ gối xong rồi…… Trainer, cái gối này là cái cuối cùng rồi ạ.",
             "choice_data_list": [
                 "<size=36>Vất vả cho em rồi, có em giúp anh khỏe hẵng.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "……Được rồi, bọc vỏ gối xong rồi…… Trainer, cái gối này là cái cuối cùng rồi ạ."
         },
         {
             "name": "Độc thoại",
@@ -50,23 +49,23 @@
             "text": "Nghe nói các bạn cùng lớp của em cũng tham gia chuyến tập huấn này đông lắm. Từ ngày mai――chắc là sẽ nhộn nhịp lắm đây ạ."
         },
         {
-            "name": "Độc thoại",
-            "text": "Nhưng…… hiện tại, nơi đây không một bóng người. Chỉ có giọng nói của em ấy khẽ vang lên dịu dàng…… và ngoài cửa sổ, những rặng cây đang khẽ đung đưa.",
             "choice_data_list": [
                 "<size=36>Nơi này lúc còn vắng vẻ trông cũng tuyệt thật.</size>",
                 "<size=36>Nơi này lúc còn vắng vẻ trông cũng tuyệt thật.</size>"
-            ]
+            ],
+            "name": "Độc thoại",
+            "text": "Nhưng…… hiện tại, nơi đây không một bóng người. Chỉ có giọng nói của em ấy khẽ vang lên dịu dàng…… và ngoài cửa sổ, những rặng cây đang khẽ đung đưa."
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "――Dạ vâng. Cảm giác của chiếu tatami lẫn những tia nắng sớm dịu nhẹ thế này――đều làm cho tâm hồn em thấy bình yên đến lạ."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Trước đây――một mình Trainer làm hết đống việc này luôn ạ? Với số lượng thế này thì chắc phải mất khối thời gian luôn ấy chứ.",
             "choice_data_list": [
                 "<size=26>Anh phụ với mấy cô chú ở trại tập huấn làm cả ngày trời mới xong đấy.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Trước đây――một mình Trainer làm hết đống việc này luôn ạ? Với số lượng thế này thì chắc phải mất khối thời gian luôn ấy chứ."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -77,19 +76,19 @@
             "text": "Việc này――là do anh tự nguyện làm đúng không? Cái đó…… sao anh lại có thể làm đến mức như vậy?"
         },
         {
-            "name": "Độc thoại",
-            "text": "Đúng là công việc phụ giúp này vốn dĩ nằm ngoài phạm vi nhiệm vụ của một Trainer. Thế nhưng…… những gì trong tầm tay, tôi đều muốn cố gắng thực hiện dù chỉ là một chút.",
             "choice_data_list": [
                 "<size=26>Vì anh muốn cho các em một chuyến tập huấn mùa hè tuyệt vời nhất.</size>"
-            ]
+            ],
+            "name": "Độc thoại",
+            "text": "Đúng là công việc phụ giúp này vốn dĩ nằm ngoài phạm vi nhiệm vụ của một Trainer. Thế nhưng…… những gì trong tầm tay, tôi đều muốn cố gắng thực hiện dù chỉ là một chút."
         },
         {
-            "name": "Độc thoại",
-            "text": "Trong suốt chuyến tập huấn, các bài tập sẽ trở nên cực kỳ khắc nghiệt. Chính vì vậy, tôi muốn các Uma Musume ít nhất cũng phải có được một khoảng thời gian sinh hoạt thật thoải mái.",
             "choice_data_list": [
                 "<size=24>Dĩ nhiên là anh cũng muốn Bouquet có được một mùa hè tuyệt vời nhất rồi!</size>",
                 "<size=24>Dĩ nhiên là anh cũng muốn Bouquet có được một mùa hè tuyệt vời nhất rồi!</size>"
-            ]
+            ],
+            "name": "Độc thoại",
+            "text": "Trong suốt chuyến tập huấn, các bài tập sẽ trở nên cực kỳ khắc nghiệt. Chính vì vậy, tôi muốn các Uma Musume ít nhất cũng phải có được một khoảng thời gian sinh hoạt thật thoải mái."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -100,11 +99,11 @@
             "text": "…………Dạ vâng. \nCảm ơn anh nhiều lắm――Trainer"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "――…………Hehe",
             "choice_data_list": [
                 "――Bouquet?"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "――…………Hehe"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -119,58 +118,58 @@
             "text": "……Dù sao thì――việc chuẩn bị gối cũng đã xong xuôi rồi, tiếp theo em nên phụ giúp anh việc gì nữa vậy――"
         },
         {
-            "name": "Staff của trại tập huấn",
-            "text": "Trainer, Bouquet-san, hai người vất vả rồi. Nhờ hai người mà mọi công tác chuẩn bị đã xong rồi!",
             "choice_data_list": [
                 "<size=38>！――Năm nay mọi người làm nhanh thật đấy ạ.</size>"
-            ]
+            ],
+            "name": "Staff của trại tập huấn",
+            "text": "Trainer, Bouquet-san, hai người vất vả rồi. Nhờ hai người mà mọi công tác chuẩn bị đã xong rồi!"
         },
         {
             "name": "Staff của trại tập huấn",
             "text": "Vâng, cũng là nhờ có cả Bouquet-san nhiệt tình phụ giúp nữa đấy. Thực sự, cảm ơn hai người rất nhiều."
         },
         {
-            "name": "Staff của trại tập huấn",
-            "text": "Để đền đáp, xin hãy để tụi tôi đãi hai người một bữa tối nhé. Đến giờ cơm tôi sẽ gọi hai người.",
             "choice_data_list": [
                 "Nếu được thì để tôi phụ một tay nhé?"
-            ]
+            ],
+            "name": "Staff của trại tập huấn",
+            "text": "Để đền đáp, xin hãy để tụi tôi đãi hai người một bữa tối nhé. Đến giờ cơm tôi sẽ gọi hai người."
         },
         {
             "name": "Staff của trại tập huấn",
             "text": "Không không, từ ngày mai hai người chắc sẽ bận rộn lắm đấy. Hôm nay cứ thong thả nghỉ ngơi đi. Vậy nhé!"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "A…………",
             "choice_data_list": [
                 "……Tự dưng lại có thời gian rảnh rồi nhỉ",
                 "……Tự dưng lại có thời gian rảnh rồi nhỉ"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "A…………"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "……――Hehe.\nĐúng là vậy thật."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Nếu vậy thì……―― mình ra ngoài đi dạo một chút không anh? Trời cũng sắp tối rồi, chắc là bên ngoài mát hơn rồi đó ạ……",
             "choice_data_list": [
                 "Ý kiến hay đấy, chúng ta đi thôi",
                 "Ý kiến hay đấy, chúng ta đi thôi"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Nếu vậy thì……―― mình ra ngoài đi dạo một chút không anh? Trời cũng sắp tối rồi, chắc là bên ngoài mát hơn rồi đó ạ……"
         },
         {
             "name": "Độc thoại",
             "text": "Cứ như thế, trong lúc chờ đợi bữa tối chuẩn bị xong, tôi và cô ấy quyết định cùng nhau đi dạo quanh bờ cát bãi biển gần đó."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Hoàng hôn đẹp quá anh nhỉ. Ánh mặt trời phản chiếu trên những con sóng―― cứ lấp la lấp lánh, tỏa sáng rực rỡ.",
             "choice_data_list": [
                 "Ừm, đúng vậy thật. Bình yên đến lạ",
                 "Ừm, đúng vậy thật. Bình yên đến lạ"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Hoàng hôn đẹp quá anh nhỉ. Ánh mặt trời phản chiếu trên những con sóng―― cứ lấp la lấp lánh, tỏa sáng rực rỡ."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -181,19 +180,19 @@
             "text": "Làn gió biển dịu nhẹ khẽ ôm trọn lấy cả hai chúng tôi. Mặt biển nhuộm sắc vàng kim dưới ánh tà dương, cứ thế từng đợt sóng vỗ vào bờ rồi lại cuốn ra xa, lặp đi lặp lại không ngừng."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "……Không hiểu sao, dạo gần đây―― cứ mỗi nơi chúng ta đến,\nem lại có cảm giác như em và anh... đang cùng nhau chờ đợi một điều gì đó vậy.",
             "choice_data_list": [
                 "<size=40>Cám ơn em vì hôm nay lại đi cùng anh nhé.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "……Không hiểu sao, dạo gần đây―― cứ mỗi nơi chúng ta đến,\nem lại có cảm giác như em và anh... đang cùng nhau chờ đợi một điều gì đó vậy."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Dạ vâng―― những khoảng thời gian chờ đợi như thế này, em thích lắm. Một khoảng thời gian thật êm đềm―― và ấm áp.",
             "choice_data_list": [
                 "Anh cũng vậy, cảm thấy thật dễ chịu biết bao",
                 "Anh cũng vậy, cảm thấy thật dễ chịu biết bao"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Dạ vâng―― những khoảng thời gian chờ đợi như thế này, em thích lắm. Một khoảng thời gian thật êm đềm―― và ấm áp."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -208,11 +207,11 @@
             "text": "Nhưng vì trong lúc chờ đợi, em được tự tay vun vén, được dốc lòng chăm chút…… rồi tưởng tượng về khoảnh khắc hoa nở rộ, điều đó vui lắm ạ. Với lại――"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "……Em có cảm giác rằng, mình sẽ được cùng Trainer sẻ chia niềm hạnh phúc đó",
             "choice_data_list": [
                 "――！"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "……Em có cảm giác rằng, mình sẽ được cùng Trainer sẻ chia niềm hạnh phúc đó"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -223,22 +222,22 @@
             "text": "Em chắc chắn―― rằng nó không chỉ đơn thuần là về hoa đâu, mà cả những chuyện của một tương lai xa, xa hơn thế nữa"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Mỗi khi nghĩ về điều đó, lòng em lại cảm thấy―― ngập tràn một sự ấm áp vô bờ",
             "choice_data_list": [
                 "Bouquet....."
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Mỗi khi nghĩ về điều đó, lòng em lại cảm thấy―― ngập tràn một sự ấm áp vô bờ"
         },
         {
             "name": "Độc thoại",
             "text": "Ngay khoảnh khắc ấy, một luồng gió bỗng chốc thổi mạnh qua……\nVà ở không xa phía trước, tôi có thể nhìn thấy những hạt cát đang bay tung lên. Và rồi――"
         },
         {
-            "name": "Độc thoại",
-            "text": "Giữa bãi cát mịn, có một thứ gì đó khẽ phản chiếu ánh hoàng hôn, lóe lên một tia sáng lấp lánh.",
             "choice_data_list": [
                 "A…… đây là――?"
-            ]
+            ],
+            "name": "Độc thoại",
+            "text": "Giữa bãi cát mịn, có một thứ gì đó khẽ phản chiếu ánh hoàng hôn, lóe lên một tia sáng lấp lánh."
         },
         {
             "name": "Độc thoại",
@@ -249,24 +248,24 @@
             "text": "Đây là... một vỏ sò, nhỉ.\nTrông cứ như... một cánh hoa anh đào vậy―― Đáng yêu quá."
         },
         {
-            "name": " Curren Bouquetd'or ",
-            "text": "Nếu gió không thổi―― Thì có lẽ, nó đã mãi bị vùi lấp trong cát rồi. ",
             "choice_data_list": [
                 "<size=30>Có lẽ vậy... Và chúng ta cũng chẳng bao giờ tìm thấy nó.</size>",
                 "<size=30>Có lẽ vậy... Và chúng ta cũng chẳng bao giờ tìm thấy nó.</size>"
-            ]
+            ],
+            "name": " Curren Bouquetd'or ",
+            "text": "Nếu gió không thổi―― Thì có lẽ, nó đã mãi bị vùi lấp trong cát rồi. "
         },
         {
             "name": "Curren Bouquetd'or ",
             "text": "Nếu vậy thì...... đứa trẻ này―― nhất định là ngay lúc này, đã nở rộ rồi nhỉ."
         },
         {
-            "name": "Độc thoại",
-            "text": "Một cánh hoa lạc giữa bãi cát dài. Bầu trời rực sắc hoàng hôn và mặt biển nhuộm ánh vàng.\nVà rồi―― là nụ cười dịu dàng của Curren Bouquetdore.",
             "choice_data_list": [
                 "Đẹp... thật",
                 "Đẹp... thật"
-            ]
+            ],
+            "name": "Độc thoại",
+            "text": "Một cánh hoa lạc giữa bãi cát dài. Bầu trời rực sắc hoàng hôn và mặt biển nhuộm ánh vàng.\nVà rồi―― là nụ cười dịu dàng của Curren Bouquetdore."
         },
         {
             "name": "Curren Bouquetd'or ",
@@ -281,31 +280,31 @@
             "text": "Dù hiện tại, em vẫn chẳng thể hình dung ra nó sẽ có hình dáng thế nào. Có lẽ cũng sẽ mất rất nhiều thời gian nữa, thế nhưng――"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Em tin rằng, đóa hoa được ngắm nhìn cùng anh…… chắc chắn sẽ là đóa hoa tuyệt đẹp nhất.",
             "choice_data_list": [
                 "……Ừm, chắc chắn rồi",
                 "……Ừm, chắc chắn rồi"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Em tin rằng, đóa hoa được ngắm nhìn cùng anh…… chắc chắn sẽ là đóa hoa tuyệt đẹp nhất."
         },
         {
             "name": "Độc thoại",
             "text": "Và nếu như một tương lai như thế thực sự tồn tại――\nThì người cho em thấy khoảnh khắc hoa nở rộ, chẳng thể là ai khác mà chính là trác nhiệm của tôi."
         },
         {
-            "name": "Độc thoại",
-            "text": "Nhặt một chiếc vỏ sò lấp lánh giữa bãi cát, tôi đưa thẳng về phía cô ấy.",
             "choice_data_list": [
                 "Anh hứa với em, Bouquet"
-            ]
+            ],
+            "name": "Độc thoại",
+            "text": "Nhặt một chiếc vỏ sò lấp lánh giữa bãi cát, tôi đưa thẳng về phía cô ấy."
         },
         {
-            "name": "Curren Bouquetdore",
-            "text": "Trainer.....?",
             "choice_data_list": [
                 "<size=34>Anh nhất định... sẽ cùng em khiến cho tương lai nở rộ.</size>",
                 "<size=34>Anh nhất định... sẽ cùng em khiến cho tương lai nở rộ.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetdore",
+            "text": "Trainer.....?"
         },
         {
             "name": "Curren Bouquetdore",
@@ -319,5 +318,6 @@
             "name": "Curren Bouquetdore",
             "text": "Cho đến lúc hoa nở rộ―― hai ta sẽ mãi bên nhau."
         }
-    ]
+    ],
+    "title": "Nhành Phong Lữ Hồng Đơm Hoa"
 }

@@ -1,5 +1,4 @@
 {
-    "title": "Fan Fest",
     "text_block_list": [
         {
             "name": "Độc thoại",
@@ -86,12 +85,12 @@
             "text": "......Có vẻ như ảnh hưởng của bệnh truyền nhiễm đã tác động đến mọi người trong cộng đồng rồi......"
         },
         {
-            "name": "Loves Only You",
-            "text": "Chẳng hạn như có những fan cũ vốn luôn vào xem livestream giờ lại không thấy nữa...... Còn những người đang ở đây thì dường như ai cũng gặp khó khăn ở một khía cạnh nào đó――",
             "choice_data_list": [
                 "<size=38>……Anh cũng vậy, anh cũng cảm nhận chút đó.</size>",
                 "<size=38>……Anh cũng vậy, anh cũng cảm nhận chút đó.</size>"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "Chẳng hạn như có những fan cũ vốn luôn vào xem livestream giờ lại không thấy nữa...... Còn những người đang ở đây thì dường như ai cũng gặp khó khăn ở một khía cạnh nào đó――"
         },
         {
             "name": "3-Day Type Girl",
@@ -114,11 +113,11 @@
             "text": "......Quả nhiên đúng là như vậy nhỉ."
         },
         {
-            "name": "Loves Only You",
-            "text": "――Nếu vậy thì lần này, đến lượt em cổ vũ cho mọi người rồi!!",
             "choice_data_list": [
                 "Hả……?"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "――Nếu vậy thì lần này, đến lượt em cổ vũ cho mọi người rồi!!"
         },
         {
             "name": "Loves Only You",
@@ -137,11 +136,11 @@
             "text": "Nhưng ngược lại…… em lại được mọi người cổ vũ. Mọi người đã dành cho em rất nhiều lời nói ấm áp……!"
         },
         {
-            "name": "Loves Only You",
-            "text": "Tiếp theo sẽ là lượt của em. Nếu mọi người đang phải đau khổ, em muốn cổ vũ cho trái tim mọi người dù chỉ là một chút……!",
             "choice_data_list": [
                 "Loves……"
-            ]
+            ],
+            "name": "Loves Only You",
+            "text": "Tiếp theo sẽ là lượt của em. Nếu mọi người đang phải đau khổ, em muốn cổ vũ cho trái tim mọi người dù chỉ là một chút……!"
         },
         {
             "name": "Loves Only You",
@@ -175,5 +174,6 @@
             "name": "Loves Only You",
             "text": "......Tớ hiểu rất rõ cảm giác cô đơn đó mà. Nhưng điều đó chắc chắn cũng giống với tất cả những fan không thể đến đây ngày hôm nay thôi."
         }
-    ]
+    ],
+    "title": "Fan Fest"
 }

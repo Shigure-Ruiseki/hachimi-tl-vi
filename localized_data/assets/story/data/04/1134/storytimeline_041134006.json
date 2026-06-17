@@ -1,52 +1,51 @@
 {
-    "title": "Dạ Yến Thảo Khẽ Hé Nở",
     "text_block_list": [
         {
-            "text": "Curren Bouquetd'or đang một mình chăm sóc những bông hoa. \nDù chỉ có thể lặng lẽ dõi theo, nhưng với tư cách là trainer của cô ấy――",
             "choice_data_list": [
                 "<size=30>Bản thân mù tịt về hoa mãi thế này thì không ổn chút nào...</size>",
                 "<size=30>Bản thân mù tịt về hoa mãi thế này thì không ổn chút nào...</size>"
-            ]
+            ],
+            "text": "Curren Bouquetd'or đang một mình chăm sóc những bông hoa. \nDù chỉ có thể lặng lẽ dõi theo, nhưng với tư cách là trainer của cô ấy――"
         },
         {
             "text": "Nghĩ vậy, hôm nay tôi hướng thẳng về phía vườn bách thảo với đủ loại hoa ở thị trấn bên cạnh. Vừa đặt chân đến trạm xe buýt gần nhất, thì――"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "――Ơ, Trainer?\nAnh có việc gì ở đây sao ạ?",
             "choice_data_list": [
                 "<size=30>Bouquet... Em cũng đang trên đường đến vườn bách thảo à?</size>",
                 "<size=30>Bouquet... Em cũng đang trên đường đến vườn bách thảo à?</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "――Ơ, Trainer?\nAnh có việc gì ở đây sao ạ?"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Ồ――Trainer cũng đến đó sao ạ?\nThật là――trùng hợp quá nhỉ."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Nhưng――hình như lịch trình xe buýt đã bị đổi tạm thời, nên có vẻ chúng ta sẽ phải chờ khá lâu đấy ạ.",
             "choice_data_list": [
                 "Ơ, vậy sao em……"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng――hình như lịch trình xe buýt đã bị đổi tạm thời, nên có vẻ chúng ta sẽ phải chờ khá lâu đấy ạ."
         },
         {
-            "text": "Toàn là những chuyện ngoài dự tính... nhưng thế này cũng là một cái duyên nhỉ. Hơn nữa, nếu được ngắm hoa cùng Bouquet, chắc chắn mình sẽ học hỏi được thêm rất nhiều điều.",
             "choice_data_list": [
                 "<size=34>Nếu không phiền thì... anh chờ xe buýt với em nhé?</size>"
-            ]
+            ],
+            "text": "Toàn là những chuyện ngoài dự tính... nhưng thế này cũng là một cái duyên nhỉ. Hơn nữa, nếu được ngắm hoa cùng Bouquet, chắc chắn mình sẽ học hỏi được thêm rất nhiều điều."
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Vâng――tất nhiên là được rồi ạ.\nHiếm khi có cơ hội thế này, hai chúng mình trò chuyện cùng nhau chút nhé."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Nghe nói ở đó có một cánh đồng hoa rất đẹp nên từ lâu em đã luôn tò mò rồi…… Nhưng nơi đó khá xa học viện, nên đây là lần đầu tiên em đến đấy ạ.",
             "choice_data_list": [
                 "<size=30>Anh dạo gần đây cũng bắt đầu thích thú với hoa.</size>",
                 "<size=30>Anh dạo gần đây cũng bắt đầu thích thú với hoa.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Nghe nói ở đó có một cánh đồng hoa rất đẹp nên từ lâu em đã luôn tò mò rồi…… Nhưng nơi đó khá xa học viện, nên đây là lần đầu tiên em đến đấy ạ."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -56,85 +55,85 @@
             "text": "(Bíp! Bíp!...)"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "A... Ở đằng kia có chim bói cá kìa anh.\nMàu xanh ngọc bích đẹp thật... trông đáng yêu quá.",
             "choice_data_list": [
                 "Ừ nhỉ…… Cứ muốn ngắm nhìn mãi thôi.",
                 "Ừ nhỉ…… Cứ muốn ngắm nhìn mãi thôi."
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "A... Ở đằng kia có chim bói cá kìa anh.\nMàu xanh ngọc bích đẹp thật... trông đáng yêu quá."
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "——!\n……Dạ, vậy thì nếu được——"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Em nghĩ nhất định anh cũng sẽ thích hoa Nemophila (hoa mắt xanh) cho mà xem. Nó cũng là một loài hoa nhỏ nhắn, mang sắc xanh xinh đẹp giống y như chim bói cá đấy ạ——!",
             "choice_data_list": [
                 "Ơ……?"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Em nghĩ nhất định anh cũng sẽ thích hoa Nemophila (hoa mắt xanh) cho mà xem. Nó cũng là một loài hoa nhỏ nhắn, mang sắc xanh xinh đẹp giống y như chim bói cá đấy ạ——!"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Á………….\n……E-Em xin lỗi ạ. Tại em nghe anh bảo là dạo này bắt đầu có hứng thú với hoa, nên em mới——"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Vì muốn anh biết thêm thật nhiều về hoa, nên em lỡ quá đà mất rồi…………Có chút…… gượng ép quá rồi đúng không ạ?",
             "choice_data_list": [
                 "<size=28>Không, không đâu, em giúp anh nhiều lắm đấy chứ! Cảm ơn em!</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Vì muốn anh biết thêm thật nhiều về hoa, nên em lỡ quá đà mất rồi…………Có chút…… gượng ép quá rồi đúng không ạ?"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "V-Vậy ạ? May quá…… Thế thì——\nKhi nào đến nơi, em muốn cùng anh đi tìm hoa Nemophila."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "——Vào mùa này thì hoa hồng chắc cũng đang nở đẹp lắm.\nRồi cả hoa đỗ quyên Satuki với hoa oải hương nữa—— Ơ kìa?",
             "choice_data_list": [
                 "Ơ, xe buýt đến rồi?!"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "——Vào mùa này thì hoa hồng chắc cũng đang nở đẹp lắm.\nRồi cả hoa đỗ quyên Satuki với hoa oải hương nữa—— Ơ kìa?"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Đến sớm hơn em nghĩ……\nXin lỗi nhé, hình như nãy giờ cứ toàn là một mình em nói thôi.",
             "choice_data_list": [
                 "<size=34>Không đâu, nhờ em mà anh lại hào hứng hoa hơn đấy!</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Đến sớm hơn em nghĩ……\nXin lỗi nhé, hình như nãy giờ cứ toàn là một mình em nói thôi."
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Vâng—— Em cũng đang mong chờ lắm ạ.\n——Vậy thì, chúng ta lên xe buýt thôi nhỉ?"
         },
         {
-            "text": "Cứ thế, sau một chuyến xe buýt dập dềnh, chúng tôi cũng đến được quầy soát vé của vườn bách thảo, thế nhưng……",
             "choice_data_list": [
                 "Hả, hôm nay không thể vào được à?!"
-            ]
+            ],
+            "text": "Cứ thế, sau một chuyến xe buýt dập dềnh, chúng tôi cũng đến được quầy soát vé của vườn bách thảo, thế nhưng……"
         },
         {
             "name": "Nhân viên quầy vé",
             "text": "Thật lòng xin lỗi quý khách, do công tác kiểm tra hệ thống chiếu sáng kéo dài hơn dự kiến…… Nên chắc phải tầm một tiếng nữa mới có thể mở cửa đón khách được ạ……."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Trainer…… Mình tính sao giờ ạ?\nEm thì đợi bao lâu cũng được, nhưng mà——",
             "choice_data_list": [
                 "<size=40>Nếu Bouquet thấy ổn thì tụi mình cứ đợi thôi.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer…… Mình tính sao giờ ạ?\nEm thì đợi bao lâu cũng được, nhưng mà——"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "A—— Vậy, để em đi lấy hướng dẫn tham quan. Tụi mình qua chiếc ghế băng đằng kia ngồi đọc trong lúc đợi nha."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Phần lớn các vườn bách thảo đều sẽ trồng thay đổi hoa theo từng mùa đấy ạ. Ở đây có ghi là: 『Quý khách có thể trải nghiệm sự thay đổi của thiên nhiên thông qua các loài hoa』 này——",
             "choice_data_list": [
                 "<size=26>Ra là vậy…… Thế này thì dù có đến bao nhiêu lần cũng không chán.</size>",
                 "<size=26>Ra là vậy…… Thế này thì dù có đến bao nhiêu lần cũng không chán.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Phần lớn các vườn bách thảo đều sẽ trồng thay đổi hoa theo từng mùa đấy ạ. Ở đây có ghi là: 『Quý khách có thể trải nghiệm sự thay đổi của thiên nhiên thông qua các loài hoa』 này——"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -149,42 +148,42 @@
             "text": "Và ngay cả trong mùa đông—— vẫn có những loài hoa âm thầm nở đầy kiêu hãnh. Mỗi khi ngắm nhìn hoa trà hay hoa anh thảo, trái tim em—— dường như cũng thấy ấm áp hơn hẳn."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Chu kỳ các mùa tuy dài—— nhưng trong đó, ẩn chứa biết bao niềm vui nho nhỏ, anh nhỉ.",
             "choice_data_list": [
                 "Ừm, đúng vậy thật……",
                 "Ừm, đúng vậy thật……"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Chu kỳ các mùa tuy dài—— nhưng trong đó, ẩn chứa biết bao niềm vui nho nhỏ, anh nhỉ."
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "――A."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Xin lỗi…… Trainer, anh có thấy nóng không ạ?\nEm cứ nói mãi nãy giờ, để em đi mua chút nước cho anh nhé——",
             "choice_data_list": [
                 "A, nếu vậy thì——"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Xin lỗi…… Trainer, anh có thấy nóng không ạ?\nEm cứ nói mãi nãy giờ, để em đi mua chút nước cho anh nhé——"
         },
         {
             "text": "Tôi lấy chai nước đã mua ở quầy vé từ trong túi ra.\nKhi tôi đưa nó cho cô ấy vì nghĩ rằng chắc hẳn cô ấy cũng đang khát, thì——"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Cái này, lúc nãy ở quầy vé—— ơ?",
             "choice_data_list": [
                 "Ơ... Bouquet cũng mua nước à?",
                 "Ơ... Bouquet cũng mua nước à?"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Cái này, lúc nãy ở quầy vé—— ơ?"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "A... em chỉ là, em cứ lo không biết Trainer có cảm thấy nóng hay không thôi ạ……",
             "choice_data_list": [
                 "<size=30>Còn anh thì, anh nghĩ là Bouquet chắc đang khát nước nên...</size>",
                 "<size=30>Còn anh thì, anh nghĩ là Bouquet chắc đang khát nước nên...</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "A... em chỉ là, em cứ lo không biết Trainer có cảm thấy nóng hay không thôi ạ……"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -195,19 +194,19 @@
             "text": "………………Hehe"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Vậy thì…… chúng ta đổi với nhau rồi cùng uống nhé.",
             "choice_data_list": [
                 ".....Haha, được chứ.",
                 ".....Haha, được chứ."
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Vậy thì…… chúng ta đổi với nhau rồi cùng uống nhé."
         },
         {
-            "name": "Nhân viên quầy vé",
-            "text": "Xin lỗi vì đã để hai bạn chờ lâu! Việc kiểm tra đã hoàn tất rồi, hai bạn có thể vào cổng tham quan rồi ạ.",
             "choice_data_list": [
                 "Ah, đã đến giờ rồi?"
-            ]
+            ],
+            "name": "Nhân viên quầy vé",
+            "text": "Xin lỗi vì đã để hai bạn chờ lâu! Việc kiểm tra đã hoàn tất rồi, hai bạn có thể vào cổng tham quan rồi ạ."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -218,39 +217,39 @@
             "text": "Tuyệt thật……!\nTất cả những bông hoa kia―― trông thật rực rỡ……!"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Những bông hoa màu vàng kia, có phải là hoa đồng tiền không nhỉ……? Ở phía trong kia, em còn thấy cả hoa anh túc đỏ nữa kìa――!",
             "choice_data_list": [
                 "Thật... tuyệt vời...!",
                 "Thật... tuyệt vời...!"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Những bông hoa màu vàng kia, có phải là hoa đồng tiền không nhỉ……? Ở phía trong kia, em còn thấy cả hoa anh túc đỏ nữa kìa――!"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "À―― đúng rồi, hoa mắt xanh (Nemophila)!\nTrainer, chúng ta đi tìm nó đi……!",
             "choice_data_list": [
                 "Ừm, đi thôi nào!",
                 "Ừm, đi thôi nào!"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "À―― đúng rồi, hoa mắt xanh (Nemophila)!\nTrainer, chúng ta đi tìm nó đi……!"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Oa―― đây rồi, Trainer!\nAnh nhìn kìa, những bông hoa nhỏ xíu nhiều ơi là nhiều―― trông đáng yêu quá.",
             "choice_data_list": [
                 "Dễ thương thật!",
                 "Dễ thương thật!"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Oa―― đây rồi, Trainer!\nAnh nhìn kìa, những bông hoa nhỏ xíu nhiều ơi là nhiều―― trông đáng yêu quá."
         },
         {
             "text": "Sau đó, chúng tôi tiếp tục dạo bước trong hoa viên, được xoa dịu bởi những loài hoa tuyệt đẹp…… Có cảm giác như tôi đã phần nào thấu hiểu được cảm xúc của cô ấy khi thưởng hoa."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Trời đã bắt đầu tối rồi nhỉ.\nMới lúc nãy vẫn còn nắng gắt vậy mà――",
             "choice_data_list": [
                 "<size=32>Cũng tại vì hôm nay có bao nhiêu là chuyện xảy ra mà.</size>",
                 "<size=32>Cũng tại vì hôm nay có bao nhiêu là chuyện xảy ra mà.</size>"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Trời đã bắt đầu tối rồi nhỉ.\nMới lúc nãy vẫn còn nắng gắt vậy mà――"
         },
         {
             "name": "Curren Bouquetd'or",
@@ -261,23 +260,23 @@
             "text": "Nhưng mà―― em lại chẳng cảm thấy mệt chút nào."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Thật sự…………chẳng cảm thấy mệt chút nào hết.",
             "choice_data_list": [
                 "――！"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Thật sự…………chẳng cảm thấy mệt chút nào hết."
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Được trò chuyện cùng với Trainer\nThì khung cảnh quanh đây lại càng trở nên sống động hơn trong tâm trí em. Và còn nữa――"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Cả những gì em tưởng tượng―― đều bị nơi này vượt xa mất rồi.",
             "choice_data_list": [
                 "……Lần sau chúng ta lại đến nữa nhé!",
                 "……Lần sau chúng ta lại đến nữa nhé!"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Cả những gì em tưởng tượng―― đều bị nơi này vượt xa mất rồi."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -295,23 +294,23 @@
             "text": "……Ưm, Trainer."
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "Nếu được―― chúng ta lại trò chuyện với nhau tiếp nhé?",
             "choice_data_list": [
                 "――！"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "Nếu được―― chúng ta lại trò chuyện với nhau tiếp nhé?"
         },
         {
             "name": "Curren Bouquetd'or",
             "text": "Lúc về―― xin hãy cho em được nghe câu chuyện của Trainer nhé. Về hoa mà anh thấy thích sau hôm nay. Và cả――"
         },
         {
-            "name": "Curren Bouquetd'or",
-            "text": "……Mà không phải là chuyện về hoa, thì cũng được ạ.",
             "choice_data_list": [
                 "Bouquet…… À, dĩ nhiên rồi!",
                 "Bouquet…… À, dĩ nhiên rồi!"
-            ]
+            ],
+            "name": "Curren Bouquetd'or",
+            "text": "……Mà không phải là chuyện về hoa, thì cũng được ạ."
         },
         {
             "name": "Curren Bouquetd'or",
@@ -327,5 +326,6 @@
         {
             "text": "——Ánh hoàng hôn mà hai người cùng ngước nhìn, không hiểu sao, dường như lại đẹp hơn mọi khi."
         }
-    ]
+    ],
+    "title": "Dạ Yến Thảo Khẽ Hé Nở"
 }
