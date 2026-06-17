@@ -156,6 +156,7 @@
             ]
         },
         {
+            "name": "3-Day Type Girl",
             "text": "Loves-chan! Nhìn này, băng rôn cổ vũ nè!『Breeders' Cup』 cố lên nhé! Mọi người đều đang dốc lòng cổ vũ cho em đó!"
         },
         {
@@ -176,6 +177,41 @@
         {
             "name": "Loves Only You",
             "text": "Cảm ơn mọi người nhiều lắm! Vậy thì, tụi em đi đây ạ!!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Giờ thì chỉ còn việc lên máy bay nữa thôi.",
+            "choice_data_list": [
+                "Ừ nhỉ...",
+                "Ừ nhỉ..."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Mà công nhận, được mọi người tiễn thế này, rồi hai đứa mình lại cùng nhau hướng về tương lai, cảm giác giống như là――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "................................thế nhỉ.",
+            "choice_data_list": [
+                "？Ơ, em vừa nói gì thế？"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe♪ Không có gì đâu ạ♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Nào, chúng ta đi thôi!"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Nắm lấy bàn tay đang đưa ra ấy, tôi cùng cô ấy bay đến chiến trường đang chờ đợi phía trước."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Minh chứng cho tình yêu giữa tôi và cô ấy―― vẫn chưa dừng lại ở đây."
         }
     ]
 }
