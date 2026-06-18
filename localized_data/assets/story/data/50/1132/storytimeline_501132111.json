@@ -69,7 +69,10 @@
         },
         {
             "name": "Loves Only You",
-            "text": "Love me ♡"
+            "text": "Love me ♡",
+            "choice_data_list": [
+                "Love you!"
+            ]
         },
         {
             "name": "Loves Only You",
