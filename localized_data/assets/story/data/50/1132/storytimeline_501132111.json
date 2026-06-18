@@ -1,4 +1,5 @@
 {
+    "title": "Chỉ Anh Mà Thôi",
     "text_block_list": [
         {
             "name": "Độc thoại",
@@ -21,14 +22,14 @@
             "text": "――Loves Only You is fifth just in behind the leaders!"
         },
         {
-            "text": "『Lên luônnnー!!』『Loves-chan cố lên!』『Vị trí đẹp!!』『Tăng tốc khúc này nè!!』『Mọi người đều dõi theo em!!』\n『Bứt phá đi Loves』『Gửi trọn tình yêu!!\""
+            "text": "『Lên luônnnー!!』『Loves-chan cố lên!』『Vị trí đẹp!!』『Tăng tốc khúc này nè!!』『Mọi người đều dõi theo em!!』\n『Bứt phá đi Loves』『Gửi trọn tình yêu!』"
         },
         {
+            "name": "Loves Only You",
+            "text": "(Không sao đâu. Em có thể cảm nhận được. Chúng ta được gắn kết với nhau... vượt qua muôn trùng biển khơi, cùng với mọi người――)",
             "choice_data_list": [
                 "LOVES ƠIIII!!! TIẾN LÊNNNNNーー!!!"
-            ],
-            "name": "Loves Only You",
-            "text": "(Không sao đâu. Em có thể cảm nhận được. Chúng ta được gắn kết với nhau... vượt qua muôn trùng biển khơi, cùng với mọi người――)"
+            ]
         },
         {
             "name": "Loves Only You",
@@ -107,22 +108,22 @@
             "text": "Thử thách vươn ra thế giới của Loves Only You đã đi đến một cột mốc tạm dừng, trả lại khoảng thời gian tĩnh lặng trôi qua êm đềm."
         },
         {
+            "name": "Độc thoại",
+            "text": "Loves Only You đang trong một kỳ nghỉ khá dài. Giữa lúc đó, khi tôi đang một mình suy tính kế hoạch cho thử thách tiếp theo của cô ấy thì――",
             "choice_data_list": [
                 "(Là thông báo livestream của Loves)"
-            ],
-            "name": "Độc thoại",
-            "text": "Loves Only You đang trong một kỳ nghỉ khá dài. Giữa lúc đó, khi tôi đang một mình suy tính kế hoạch cho thử thách tiếp theo của cô ấy thì――"
+            ]
         },
         {
             "name": "Độc thoại",
             "text": "Chắc hẳn một khoảng thời gian ấm áp bên các thành viên cộng đồng lại sắp bắt đầu rồi. Tôi thầm nghĩ như vậy và mở buổi phát sóng lên thì――"
         },
         {
+            "name": "Loves Only You",
+            "text": "…………Hì hì. Anh đến ngay lập tức luôn nhỉ, anh Bridge",
             "choice_data_list": [
                 "(Huh...?)"
-            ],
-            "name": "Loves Only You",
-            "text": "…………Hì hì. Anh đến ngay lập tức luôn nhỉ, anh Bridge"
+            ]
         },
         {
             "name": "Độc thoại",
@@ -133,11 +134,11 @@
             "text": "……Xin lỗi vì đã làm anh giật mình nhé. Em đã nhờ mọi người giúp một tay đó."
         },
         {
+            "name": "Loves Only You",
+            "text": "Chỉ là em muốn nhắn gửi điều này đến anh Bridge theo cách này thôi.",
             "choice_data_list": [
                 "Loves..."
-            ],
-            "name": "Loves Only You",
-            "text": "Chỉ là em muốn nhắn gửi điều này đến anh Bridge theo cách này thôi."
+            ]
         },
         {
             "name": "Loves Only You",
@@ -184,11 +185,11 @@
             "text": "Em sẽ đợi anh, Trainer-kun."
         },
         {
+            "name": "Độc thoại",
+            "text": "Livestream của Loves Only You kết thúc ngay tại đó. Ngay sau đó, một thông báo bất ngờ hiện lên từ kênh liên lạc chung của nhóm cộng đồng.",
             "choice_data_list": [
                 "（Đây là... dữ liệu vị trí sao...?!）"
-            ],
-            "name": "Độc thoại",
-            "text": "Livestream của Loves Only You kết thúc ngay tại đó. Ngay sau đó, một thông báo bất ngờ hiện lên từ kênh liên lạc chung của nhóm cộng đồng."
+            ]
         },
         {
             "name": "Commumem",
@@ -219,11 +220,11 @@
             "text": "Chỉ với duy nhất một khao khát cháy bỏng trong tim, rằng tôi muốn gặp Loves Only You――"
         },
         {
+            "name": "Loves Only You",
+            "text": "――――",
             "choice_data_list": [
                 "Loves!!!"
-            ],
-            "name": "Loves Only You",
-            "text": "――――"
+            ]
         },
         {
             "name": "Loves Only You",
@@ -234,12 +235,12 @@
             "text": "……Cảm ơn anh vì đã đến, Trainer-kun."
         },
         {
+            "name": "Loves Only You",
+            "text": "Những lời sâu thẳm trong lòng mà em thực sự muốn nói…… ―――Anh có muốn nghe không?",
             "choice_data_list": [
                 "……Ừ, anh nghe đây",
                 "……Ừ, anh nghe đây"
-            ],
-            "name": "Loves Only You",
-            "text": "Những lời sâu thẳm trong lòng mà em thực sự muốn nói…… ―――Anh có muốn nghe không?"
+            ]
         },
         {
             "name": "Loves Only You",
@@ -270,18 +271,18 @@
             "text": "Người có thể thấu cảm được giá trị thiêng liêng của mối liên kết và tình yêu này, để rồi cùng em vun đắp nó…… trên đời này chỉ có một mà thôi――"
         },
         {
+            "name": "Loves Only You",
+            "text": "……Rằng người đó, ngoài Trainer-kun ra thì chẳng thể là ai khác.",
             "choice_data_list": [
                 "……！"
-            ],
-            "name": "Loves Only You",
-            "text": "……Rằng người đó, ngoài Trainer-kun ra thì chẳng thể là ai khác."
+            ]
         },
         {
+            "name": "Loves Only You",
+            "text": "……Rằng người đó, ngoài Trainer-kun ra thì chẳng thể là ai khác.",
             "choice_data_list": [
                 "……！"
-            ],
-            "name": "Loves Only You",
-            "text": "……Rằng người đó, ngoài Trainer-kun ra thì chẳng thể là ai khác."
+            ]
         },
         {
             "name": "Loves Only You",
@@ -300,19 +301,19 @@
             "text": "Nên………… từ nay, và mãi mãi về sau………… em muốn là Uma Musume duy nhất của anh……――"
         },
         {
+            "name": "Loves Only You",
+            "text": "―――Hãy để em mãi là người duy nhất yêu anh (Loves Only You), có được không?",
             "choice_data_list": [
                 "…………"
-            ],
-            "name": "Loves Only You",
-            "text": "―――Hãy để em mãi là người duy nhất yêu anh (Loves Only You), có được không?"
+            ]
         },
         {
+            "name": "Độc thoại",
+            "text": "……Tôi đưa tay về phía Loves Only You. Giống như đang tạo nên một nửa của hình trái tim vậy.",
             "choice_data_list": [
                 "Từ nay và mãi mãi về sau, em sẽ là người yêu duy nhất của anh (Loves Only You).",
                 "Từ nay và mãi mãi về sau, em sẽ là người yêu duy nhất của anh (Loves Only You)."
-            ],
-            "name": "Độc thoại",
-            "text": "……Tôi đưa tay về phía Loves Only You. Giống như đang tạo nên một nửa của hình trái tim vậy."
+            ]
         },
         {
             "name": "Loves Only You",
@@ -338,6 +339,5 @@
             "name": "Độc thoại",
             "text": "――――Đó là tình yêu duy nhất trên đời, thứ mà chỉ riêng bản thân tôi được chứng kiến."
         }
-    ],
-    "title": "Chỉ Anh Mà Thôi"
+    ]
 }
