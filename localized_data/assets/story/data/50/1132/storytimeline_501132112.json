@@ -1,0 +1,278 @@
+{
+    "title": "Suối Nước Nóng",
+    "text_block_list": [
+        {
+            "name": "Độc thoại",
+            "text": "Khoảng thời gian 3 năm bên cạnh\nLoves Only You đã tạm thời khép lại.\nVà rồi vào một ngày ――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Tụi mình sắp được đi du lịch\nsuối nước nóng rồi, hào hứng ghê～♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Sẵn dịp đi chơi thế này, hay là mình thử\nlivestream mấy thứ ngày thường không\nlàm được đi ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, mong là mọi người cũng sẽ\nthấy vui khi xem～♡ Nào là bánh\nbao này, ngâm chân này, rồi còn gì\nnữa nhỉ, còn gì nữa ta――",
+            "choice_data_list": [
+                "(Mọi người……)"
+            ]
+        },
+        {
+            "name": "Nekketsu-sensei",
+            "text": "『Việc cậu âm thầm thu thập thông tin\nmà không cho cô ấy biết thế này……\nCậu đang giấu gì đúng không?』",
+            "choice_data_list": [
+                "『Ừm, Chuyện là...』"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Cô ấy hào hứng muốn livestream cả khi đi chơi, nhưng tôi lại muốn cô ấy được nghỉ ngơi. Tôi liền tâm sự với sensei rằng mình đang băn khoăn không biết tính sao."
+        },
+        {
+            "name": "Commumen",
+            "text": "『……Nếu thế thì dễ quá còn gì?』\n『Đúng thế…… Quá rõ ràng luôn\n『Chuyện này dễ mà?』",
+            "choice_data_list": [
+                "『……？』"
+            ]
+        },
+        {
+            "name": "HW@OP",
+            "text": "『Hãy khiến cô ấy vui đến mức quên luôn cả việc livestream đi là được!!』",
+            "choice_data_list": [
+                "『！？』"
+            ]
+        },
+        {
+            "name": "Commumen",
+            "text": "『Chuyện hỗ trợ cứ để tụi này lo!』\n『Gửi địa điểm đi chơi qua đây. Bọn này sẽ tra cứu thông tin cho』"
+        },
+        {
+            "name": "Commumen",
+            "text": "『Nào, lên đồ thôi anh em!! Chúng ta phải giúp cô ấy tận hưởng trọn vẹn chuyến du lịch suối nước nóng này!!』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Trainer-kun? Trainer-ku～n?\nNày, anh có đang nghe không thế～～??",
+            "choice_data_list": [
+                "À, anh xin lỗi. Tại anh đang mải nghĩ đến lúc đi suối nước nóng quá ấy mà……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Trainer-kun? Trainer-ku～n?\nNày, anh có đang nghe không thế～～??",
+            "choice_data_list": [
+                "À, anh xin lỗi. Tại anh đang mải nghĩ đến lúc đi suối nước nóng quá ấy mà……"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe♪ Chuẩn luôn ạ! Em cũng háo hức\nlắm luôn♡ Tụi mình cùng nhau tận hưởng\nchuyến du lịch suối nước nóng này nhé♪",
+            "choice_data_list": [
+                "<size=34>(Phải rồi, mình muốn cô ấy tận hưởng trọn vẹn....!)</size>",
+                "<size=34>(Phải rồi, mình muốn cô ấy tận hưởng trọn vẹn....!)</size>"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Sau đó, tôi đã cùng mọi người hợp lực\nchuẩn bị mọi thứ cho chuyến đi suối\nnước nóng một cách hoàn hảo nhất.\nVà rồi, ngày khởi hành cũng đã đến――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mmmmmm～～～♪\nĐúng là cái mùi không khí đặc trưng\ncủa khu suối nước nóng rồi～♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Thế thì, chuẩn bị livestream thôi――",
+            "choice_data_list": [
+                "<size=38>Trước mắt, ăn thử bánh bao xem thế nào nhé?</size>"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ừm, ý hay đó♪\nEm có tìm trước một quán này rồi～!\nNhưng, chỗ đó nổi tiếng lắm nên chắc――"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Nghĩ vậy, chúng tôi liền ghé qua quán\nbánh bao nổi tiếng đó. Nhưng quán lại\nkhông đông như chúng tôi nghĩ."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ủa, sao vậy ta? Thấy trên mạng mọi người\nnói là quán này đông khách xếp hàng dữ\nlắm mà! Sao giờ lại vắng thế……?",
+            "choice_data_list": [
+                "(Đúng y như những gì mọi người nói……!)"
+            ]
+        },
+        {
+            "name": "Nekketsu-sensei",
+            "text": "Quán đó là tiệm nổi tiếng nên xếp hàng\nđông lắm. Cơ mà, quán mở cửa từ 10 giờ,\ncòn xe buýt du lịch thì phải tầm 11 giờ\nmới tới. Nói cách khác――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Vậy là tầm giờ này vừa lúc quán vắng\nkhách nhỉ♪ Hehe, may quá đi mất♡"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Cứ như thế, cả hai tiếp tục theo lộ trình\ntham quan suối nước nóng trọn vẹn mà\ntôi và mọi người đã cùng nhau tính toán――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ồ, ra là vào buổi trưa thì khu ngâm chân cũng vắng vẻ……! Nào, đi chung với em đi～!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Ủa, ở đây có cả đền thờ cho ngành giải trí luôn nè! Phải vào cầu nguyện thật chu đáo mới được♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hehe, công nhận là mấy lúc vui vẻ thời gian trôi qua nhanh thật nhỉ."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Chơi vui quá nên giờ em mệt lử rồi nè. Mình mau mau vào ngâm bồn suối nước nóng thôi anh ♪"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tắm..."
+        },
+        {
+            "name": "Commumem",
+            "text": "『Mượt mà đấy, thế là tốt rồi』\n『Biết ngay cổ sẽ khoái cái đền mà!』\n『Nhớ chưa bồ tèo? Lát nữa là phải đi khu trò chơi điện tử đó nha!』",
+            "choice_data_list": [
+                "『Cứ giao cho tôi!』"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Trainer-kun! Ở đây có bóng bàn nè!\nLàm một trận không anh?",
+            "choice_data_list": [
+                "<size=40>Mà này, ở tầng 1 có khu trò chơi điện tử đấy?</size>"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Trainer-kun! Ở đây có bóng bàn nè!\nLàm một trận không anh?",
+            "choice_data_list": [
+                "<size=40>Mà này, ở tầng 1 có khu trò chơi điện tử đấy?</size>"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Khu trò chơi điện tử á? ……Á, chẳng lẽ là!?",
+            "choice_data_list": [
+                "<size=32>Thay vì bóng bàn, làm vài ván game đối kháng thì sao?</size>"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Chơi luôn! Hehe～♪ \nEm sẽ không nương tay đâu đó nha～!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Phù～, mệt quá rồi～\nTrainer-kun đúng là chả chịu thua ai bao giờ luôn～",
+            "choice_data_list": [
+                "Thì tại anh là Trainer của em mà.",
+                "Thì tại anh là Trainer của em mà."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Phù～, mệt quá rồi～\nTrainer-kun đúng là chả chịu thua ai bao giờ luôn～",
+            "choice_data_list": [
+                "Thì tại anh là Trainer của em mà.",
+                "Thì tại anh là Trainer của em mà."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Haha, nghe cũng có lý nhỉ♪"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Vả lại em còn thử được đủ loại combo nữa,\nnói chung là em cũng vui lắm luôn～♡"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Nào, vậy thì đến giờ đi ngủ rồi đó!\nGiờ cũng đâu còn chuyện gì làm nữa——"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "…………A, a, aa."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Á á á á á～～～～!?"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "L-Livestream! Buổi live của em～～っ!?"
+        },
+        {
+            "text": "L-L-Làm sao đây, làm sao đây～～～っ！？ \nEm quên mất rồi～……!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Khoan, khoan đã, máy thì ở trong cặp rồi—— \nTrước tiên phải xin lỗi đúng không?\nHay là nên đăng bài thông báo trước ta?",
+            "choice_data_list": [
+                "<size=30>Bình tĩnh nào. Không cần phải lo lắng đâu. Thật ra thì——</size>"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mọi người... đều vì em mà làm vậy sao?",
+            "choice_data_list": [
+                "<size=30>Mọi người đã lên đủ thứ kế hoạch chỉ vì ngày hôm nay đấy.</size>",
+                "<size=30>Mọi người đã lên đủ thứ kế hoạch chỉ vì ngày hôm nay đấy.</size>"
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Aaa――――"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "May quá đi～～～～～!!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ～! Anh thật là tình luôn á～! \nLàm người ta cuống hết cả cuồng\nlên đây này～～～!!",
+            "choice_data_list": [
+                "Anh xin lỗi, anh xin lỗi mà."
+            ]
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Hưm～～……!"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "……Hèn chi mà đi đâu em cũng gặp toàn chuyện vui thôi."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Haizz, vậy là mọi người đánh lạc mất rồi.\nLàm em quên luôn cả chuyện livestream."
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Mồ, đã thế này thì em chịu thua vậy!\nHôm nay em xin nhận hết tấm lòng của mọi người nha ♡"
+        },
+        {
+            "name": "Commumem",
+            "text": "『Không thấy Brigde-san liên lạc gì hết』\n『Vậy có nghĩa là~♪』『Thành công rồi!』\n『Tuyệt!!』『Ăn mừng thôi nào～!』\n『Chuẩn! Hai người——』"
+        },
+        {
+            "name": "Commumem",
+            "text": "『Tận hưởng chuyến đi thật vui nhaaaa!』"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Cảm ơn mọi người nhiều nha ♡"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Và như thế, một khoảnh khắc ngọt\nngào trôi qua, khắc sâu thêm sợi tình\ncảm không gì đánh đổi được giữa tôi\nvà Loves Only You……"
+        }
+    ]
+}
