@@ -85,7 +85,6 @@ jobs:
             - name: Format index file
               run:
                   |
-                  # Tái sử dụng file .prettierrc vừa lấy từ repo trước khi xóa sạch
                   if [ -f ".prettierrc" ]; then
                       prettier --write index.json
                   fi
