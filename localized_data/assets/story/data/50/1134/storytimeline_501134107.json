@@ -1,3 +1,217 @@
 {
-    "title": "Valentine's Day"
+    "title": "Valentine's Day",
+    "text_block_list": [
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Torena-san, lối này ạ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Đẹp thật Hoa păng-xê rồi hoa viola――\nnhững bông hoa mùa đông đang đua nhau nở rộ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng mà, ánh nắng bây giờ nhìn đã lấp lánh sắc xuân rồi――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chính tại nơi này, em đã luôn muốn trao nó cho anh."
+        },
+        {
+            "text": "……Happy Valentine.\nEm đã tự tay gói lại để dành tặng riêng cho anh đó."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tôi nhận lấy gói quà được bọc đẹp đẽ cùng với bó hoa khô đính kèm.",
+            "choice_data_list": [
+                "Cảm ơn em……!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Không có gì đâu ạ.\nEm mong là anh thích nó."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……―― Cả giải \n『Sweet Pea Stakes』 lẫn 『Tenno Sho (Spring)』, em cứ luôn tự ý đưa ra quyết định đột ngột rồi làm anh phải kinh ngạc suốt――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Có lẽ em đã quá dựa dẫm vào anh rồi."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Cảm ơn anh vì từ trước đến nay luôn ở bên em."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Phù――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Anh ấy trong rất vui. Hôm nay mình\nlàm tốt rồi――nhất định là thế)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……―― Hehe. Tốt quá rồi――"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ồ! Nhìn vẻ mặt đó kìa, thành công rồi nhỉ?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Cậu vất vả rồi nha ♡ Bouquet-chan đã cố gắng hết sức mình mà. Tất cả là vì ngày hôm nay đó! Hi hi, tò mò quá nên tớ lỡ chạy đến xem mất tiêu rồi."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ơ kìa――Curren Chan. Cảm ơn cậu đã cất công đến tận đây từ ký túc xá Ritto nhé."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Bạn cũng đã cho tớ rất nhiều lời khuyên nữa."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Thế á? Tớ nhớ là mình chỉ mới gợi ý mấy cái ý tưởng, tình huống thôi mà?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Cậu đã dành ra bao nhiêu ngày để tập làm bánh này kia nữa mà――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(―― Không được rồi. Trông nó cứ bị mất cân đối sao ấy nhỉ)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Lần tới mình sẽ thử bớt kem đi một chút xem sao)"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Rồi cậu còn đi hết cửa hàng này đến cửa hàng khác chỉ để chọn giấy gói với ruy băng nữa chứ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "『Nếu cân nhắc đến sự hài hòa với bánh ngọt, thì màu xanh da trời, xanh coban…… Không, hay là màu xanh navy nhỉ』"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "『Cả giấy nến nữa, nếu chọn màu tông xoẹt tông với bao bì bên ngoài thì chắc chắn sẽ đẹp lắm』"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "『À, Curren Chan. Ta qua cửa hàng lưu niệm bên kia một chút nữa được không?』"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Cả hoa khô này nữa, cậu cũng tự tay làm để chuẩn bị cho dịp Valentine đúng không nè?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ừm, đúng vậy đó. Vì tớ muốn một bó hoa có phong cách thật hợp với bánh mà."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hehe, cậu đúng là tỉ mỉ và cẩn thận từng li từng tí một luôn ấy. Lúc đó cứ như cậu đang nâng niu một đóa hoa quý giá vậy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Thì đúng vậy mà――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nếu món quà là hoa chính, thì giấy gói, ruy băng là hoa đệm, còn không gian và lời nói chính là những nhành hoa hoa tạo nét."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trong nghệ thuật cắm hoa, những bông hoa làm nền để tôn vinh hoa chính là điều tất yếu, không thể thiếu."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chính sắc màu dệt nên từ sự hòa hợp đó―― sẽ làm thay đổi đáng kể sự lung linh của những kỷ niệm mà."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Thực lòng tớ…… dù thế nào đi nữa, vẫn muốn gửi đến anh ấy một điều đặc biệt nhất."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Một điều tuyệt vời nhất, một điều chắc chắn sẽ khắc sâu mãi trong tâm trí."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "……―― \nHehe, ra là vậy."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "（――♪）"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Torena-san……? "
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ể～! Vừa mới nhắc xong luôn kìa!? \nCó chuyện gì thế, chuyện gì thế!?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(『Cảm ơn em vì món bánh ngọt tuyệt vời ngày hôm nay nhé. Anh đã rất vui, và bánh cũng ngon lắm.』)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(『Ngày mai chúng ta lại cùng cố gắng nhé. Hướng tới mục tiêu giành lấy chiếc Khiên Mùa Xuân độc nhất vô nhị』)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…… Hehe. Trả lời đáng yêu ghê."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Vâng, em là Bouquet đây ạ――\n …… Torena-san đó ạ?",
+            "choice_data_list": [
+                "Tự dưng gọi cho em thế này, xin lỗi nhé."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Dạ không sao đâu―― \nMà, có chuyện gì vậy ạ?"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Thực ra, có khi chuyện này anh nên để đến ngày mai rồi nói mới đúng."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Thế nhưng, món quà mà mình nhận được ngày hôm nay lại―― đẹp đến mức khiến trái tim phải lay động."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Những chiếc macaron trắng đi kèm với hoa ăn được màu xanh dương―― Cách kết hợp\ngiữa lớp bao bì tinh xảo cùng hoa khô mang đầy tính nghệ thuật."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Chẳng biết em ấy đã dành ra bao nhiêu tâm tư và thời gian để chuẩn bị món quà này nữa.",
+            "choice_data_list": [
+                "Cảm ơn em vì món quà tuyệt vời này."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "――Không đâu ạ"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Công sức gì chứ―― Bởi vì khi nhận ra, em đã hoàn toàn chìm đắm vào nó mất rồi)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Chỉ là em luôn tự hỏi, phải tô điểm nó như thế nào thì mới có thể lưu lại trong tâm trí của anh mà thôi…)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chỉ cần anh thấy vui khi nhận nó, thì với em đó đã là niềm hạnh phúc lớn nhất rồi."
+        }
+    ]
 }
