@@ -800,12 +800,12 @@
         },
         {
             "path": "assets/atlas/common/common.diff.png",
-            "hash": "bebd9bc12fdf5339dada7a16004173c9373fd12f981404e90e3a1d009733b1fb",
-            "size": 431596
+            "hash": "a1d46c6d5e52840a59a49fc10d9796b0e52c54b5965144f99d0e8214c87c45b3",
+            "size": 392968
         },
         {
             "path": "assets/atlas/common/common.json",
-            "hash": "88e41c119213426d27be3ad7ed94c90d579d67e28afaf9959791a996a6e2bf6c",
+            "hash": "9e51ec740230569c5333db55a3f277da38526f753723719da34341cb858c4249",
             "size": 85
         },
         {
@@ -840,12 +840,12 @@
         },
         {
             "path": "assets/atlas/home/home.diff.png",
-            "hash": "4b4bc060dc0f51e93766766d9c010ac231d85d18b1000a4d3effce3eafaaa2bc",
-            "size": 378859
+            "hash": "28657ce7b6d0e63b61091210518b049502d08bc41846321ef7e5c29512be16b4",
+            "size": 167043
         },
         {
             "path": "assets/atlas/home/home.json",
-            "hash": "23ffaeff103addcd14839c50e90bff1da1e1da76140baa6941a289f88492d5d4",
+            "hash": "a6d7af3eb2f86f32a621a83095ef459babf76ce82c213e66792921db7a29879b",
             "size": 85
         },
         {
@@ -1060,12 +1060,12 @@
         },
         {
             "path": "assets/atlas/singleresult/singleresult.diff.png",
-            "hash": "a752a1b60204e2ad3e5dab297fd09f3638ca35b107c838b6d1efe72f13b77998",
-            "size": 98618
+            "hash": "29d6b2d3af1a65bc47aa9e22bbf927ce1bf39ae436a13a9cd993621fac380b5a",
+            "size": 89702
         },
         {
             "path": "assets/atlas/singleresult/singleresult.json",
-            "hash": "366fb10a675abb4e8a3aaad4fa9c9c607fb14a68c49dded26a397b78ad11b8f3",
+            "hash": "7e03cad08137d124c08bfef180fdbfd556fe155f08dd49061f2f517702a7a5a5",
             "size": 85
         },
         {
@@ -22230,8 +22230,8 @@
         },
         {
             "path": "localize_dict.json",
-            "hash": "3deeaae08dc7d5364e15ac073320adcc2e3c69be613437b6a1e9470caed5e45d",
-            "size": 452197
+            "hash": "e73302b562ff4663b34983a5993657c29f050a2a35b3da57bdd2ebb610b8f929",
+            "size": 465068
         },
         {
             "path": "race_jikkyo_comment_dict.json",
