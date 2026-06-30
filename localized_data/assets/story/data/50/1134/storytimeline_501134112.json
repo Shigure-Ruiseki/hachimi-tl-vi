@@ -1,0 +1,276 @@
+{
+    "text_block_list": [
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ấm thật——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, cảnh ở đây đẹp thật. \nTorena-san"
+        },
+        {
+            "text": "Một ngày nọ, khi giải Twinkle Series đã kết thúc. Hôm đó, chúng tôi đã dùng tấm vé trúng thưởng lúc trước để cùng nhau đi suối nước nóng."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chân của em đã ấm hẳn lên rồi. Tiếp theo thì—— Anh có muốn đi đâu đó không ạ?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chúng ta vẫn còn rất nhiều thời gian mà.\nMình có thể đi đâu đó đi ạ.",
+            "choice_data_list": [
+                "Để xem nào...",
+                "Để xem nào..."
+            ]
+        },
+        {
+            "text": "——Thực ra. Trước chuyến đi này, tôi đã hạ quyết tâm về một chuyện."
+        },
+        {
+            "text": "Tôi muốn một lần nữa chúc mừng Curren Bouquetd'or người đã tỏa sáng rực rỡ tại『Japan Cup』ngày hôm đó.",
+            "choice_data_list": [
+                "（Nhưng mà……）"
+            ]
+        },
+        {
+            "text": "Càng nghĩ, tôi lại càng không thể quyết định được quà chúc mừng như thế nào mới xứng đáng với em ấy."
+        },
+        {
+            "text": "Dù chuẩn bị sẵn một chiếc khăn tay mang theo, nhưng tôi cứ cảm giác để chúc mừng em ấy, thì món quà này dường như quá bình thường——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——?\nCó chuyện gì sao ạ?",
+            "choice_data_list": [
+                "À, xin lỗi."
+            ]
+        },
+        {
+            "text": "Dù sao, bây giờ đang là chuyến du lịch quan trọng của hai đứa mà",
+            "choice_data_list": [
+                "Trước tiên, mình đi ngắm hoa nhé?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "！\nHehe. Vâng, em rất sẵn lòng!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……—— Mà."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Người ta chăm sóc chúng tỉ mỉ thật.\nCả hoa lẫn lá đều có sắc màu rực rỡ và tươi tắn.",
+            "choice_data_list": [
+                "Nhìn cái là nhận ra ngay nhỉ"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, dù sao thì—— việc chăm sóc hoa,\nbình thường em cũng tự mình làm mà."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Là cho các đồng nghiệp của anh sao ạ?\nMọi người thân thiết với nhau quá——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hay là em cũng tặng món gì đó cho mọi người nhỉ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……A. Chiếc hoa cài áo này.\nTrông có vẻ hợp với Ai-san lắm đấy ạ.\nCòn bông hoa này thì cho Curren Chan——",
+            "choice_data_list": [
+                "Chắn mọi người sẽ thích lắm",
+                "Chắn mọi người sẽ thích lắm"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, cảm ơn anh.\nNếu được như vậy thì tốt quá."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Ơ kìa, đằng kia cũng có nữa kìa.\nHình như là khuyên tai làm hoa khô thì phải, tuyệt thật."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hẹn gặp lại anh lát nữa nhé."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……A.\nMùi này—— liệu có phải là hương hoa không nhỉ."
+        },
+        {
+            "name": "Bà chủ nhà trọ",
+            "text": "Haha. Tại nhà trọ này, bên cạnh việc ngắm hoa tự nhiên từ bồn tắm lộ thiên, chúng tôi còn trang trí những hoa theo mùa trong phòng tắm nữa đấy."
+        },
+        {
+            "name": "Bà chủ nhà trọ",
+            "text": "Hôm nay còn có cả bồn tắm hoa hồng nữa đấy. Xin quý khách cứ thong thả tận hưởng nhé."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chà——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Cảm giác như tụi mình vừa đến vào ngày cực kỳ xa xỉ ấy nhỉ."
+        },
+        {
+            "text": "Tắm...."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Tầm nhìn từ bồn tắm lộ thiên tuyệt thật.\nDòng suối thì xanh biếc, xung quanh hoa dại nở rộ khắp nơi——",
+            "choice_data_list": [
+                "(Chắc em ấy cũng đang tận hưởng)"
+            ]
+        },
+        {
+            "text": "Đúng là may mắn hết chỗ mới trúng được cái vé đi suối nước nóng này—— Ủa, tự nhiên mắt tôi va phải cái bản đồ hướng dẫn của nhà trọ.",
+            "choice_data_list": [
+                "<size=36>(Thứ làm em ấy vui, thì chắc chắn là hoa rồi)</size>"
+            ]
+        },
+        {
+            "text": "Kể cả là khăn tay, nếu là em ấy thì chắc chắn vẫn sẽ vui vẻ nhận lấy thôi, nhưng mà——",
+            "choice_data_list": [
+                "Xin lỗi, cho tôi hỏi một chút..."
+            ]
+        },
+        {
+            "name": "Bà chủ nhà trọ",
+            "text": "Dạ, có chuyện gì thế ạ——?"
+        },
+        {
+            "text": "Nếu là ở nơi này thì có vẻ mình vẫn có thể làm thêm được chút gì đó nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Là chỗ này sao ạ? \nPhía sau nhà trọ—— có thứ anh muốn cho em xem sao?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Woa――!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Không ngờ ở đây lại có cả một vườn hoa như thế này."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Bất ngờ ghê. \nSao anh biết hay vậy?",
+            "choice_data_list": [
+                "Anh được bà chủ chỉ cho đấy.",
+                "Anh được bà chủ chỉ cho đấy."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ra là vậy. \n——Em chẳng biết gì luôn á, không biết có phải mới làm gần đây không nữa.",
+            "choice_data_list": [
+                "Anh có thứ muốn tặng cho em",
+                "Anh có thứ muốn tặng cho em"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Muốn tặng cho em——?",
+            "choice_data_list": [
+                "Em nhắm mắt lại một chút được không?",
+                "Em nhắm mắt lại một chút được không?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……? V-Vâng, em biết rồi ạ."
+        },
+        {
+            "text": "——Tôi nhẹ nhàng đặt chiếc vòng hoa tự tay mình đan trong lúc chờ cô ấy tắm suối nước nóng lên đầu cô ấy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——? Vậy…… giờ em mở mắt được chưa anh?",
+            "choice_data_list": [
+                "Ừm",
+                "Ừm"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Cảm giác lành lạnh, hơi nằng nặng này—— \nlà một chiếc vòng hoa đúng không anh?",
+            "choice_data_list": [
+                "Anh muốn chúc mừng em",
+                "Anh muốn chúc mừng em"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chúc mừng—— em sao?"
+        },
+        {
+            "text": "——Curren Bouquetdour đã chạy hết mình suốt 3 năm qua, một cách tuyệt vời theo cách của riêng cô ấy."
+        },
+        {
+            "text": "Biến sự dịu dàng thành vũ khí, cùng với một quyết tâm kiên định. Chính hành trình ấy đã dệt nên một 『Japan Cup』 đầy cảm xúc của ngày hôm đó."
+        },
+        {
+            "text": "Chính vì vậy nên——"
+        },
+        {
+            "text": "Luôn đặt Uma Musume lên làm ưu tiên tối thượng. Lúc nào cũng vậy, phải đặt họ lên hàng đầu."
+        },
+        {
+            "text": "Tôi cảm giác như chiếc vòng hoa vàng rực rỡ ấy cũng đang dệt chung cả nguyện ước bấy lâu nay chưa từng thay đổi trong trái tim này."
+        },
+        {
+            "text": "Ý niệm đó đã sưởi ấm tâm hồn tôi biết bao.",
+            "choice_data_list": [
+                "Cảm ơn em"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Không đâu ạ. ……Không đâu.\nChính em mới là người phải nói câu đó chứ.",
+            "choice_data_list": [
+                "Em là——",
+                "Em là——"
+            ]
+        },
+        {
+            "text": "Em là mặt trời của anh——"
+        },
+        {
+            "text": "……Ánh hoàng hôn lấp lánh chiếu rọi lên mái tóc của cô ấy."
+        },
+        {
+            "text": "Nếu cứ tiếp tục nói thêm những lời sến sẩm này nữa, có lẽ sẽ chỉ làm cô ấy khó xử mà thôi.",
+            "choice_data_list": [
+                "——Và hơn bất kỳ ai hết, em chính là người xứng đáng với chiếc vương miện này nhất.",
+                "——Và hơn bất kỳ ai hết, em chính là người xứng đáng với chiếc vương miện này nhất."
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nếu như không được gặp anh, em đã chẳng thể giành được chiến thắng."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nếu chỉ có một mình…… em sẽ không bao giờ có được ý chí kiên cường này."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Hehe.\nKể từ khi chúng ta gặp nhau đến giờ, em cứ khóc suốt thôi nhỉ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em cảm ơn anh vì tất cả."
+        }
+    ]
+}
