@@ -1,0 +1,226 @@
+{
+    "title": "Một sắc hoa... chẳng thể phai nhòa.",
+    "text_block_list": [
+        {
+            "name": "Độc thoại",
+            "text": "Tôi đã cùng Curren Bouquetd'or chạy qua suốt 3 năm thanh xuân đầy bão táp."
+        },
+        {
+            "name": "Race Fan A",
+            "text": "— Ai cũng biết cậu nổi tiếng qua các giải 『Tenno Sho (Xuân)』 hay 『Japan Cup』, nhưng cá nhân tôi lại cực kỳ ấn tượng với màn trình diễn từ thời Classic!"
+        },
+        {
+            "name": "Race Fan B",
+            "text": "Chuẩn luôn! Với cả tôi cũng thích phim trình tài liệu về cậu và Torena nữa. Xem một mạch hết luôn ấy chứ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, em cảm ơn ạ. Nghe cứ thấy ngại sao ấy nhỉ."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Sự tỏa sáng của Curren Bouquetd'or đã khắc sâu vào tâm trí mọi người, và cô ấy đã trở thành một Uma Musume nhận được muôn vàn yêu thương."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Và rồi, ánh đèn sân khấu ấy——"
+        },
+        {
+            "name": "Nhiếp ảnh gia",
+            "text": "<username>Torena！\nThả lỏng cơ mặt một chút nào——hoàn hảo!"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "...đã soi sáng cho cả một người làm Torena như tôi.",
+            "choice_data_list": [
+                "Em xin lỗi ạ, mãi mà em vẫn chưa quen được..."
+            ]
+        },
+        {
+            "name": "Nhiếp ảnh gia",
+            "text": "Không đâu, so với lần trước thì tốt hơn nhiều rồi ấy chứ! Mà dạo này chắc hai người bận rộn lắm đúng không?",
+            "choice_data_list": [
+                "Iya～a……"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Hết phỏng vấn tạp chí lại đến xuất hiện trên truyền thông. Rồi thì làm bình luận viên, tham gia các buổi trò chuyện phỏng vấn——"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Kể từ sau 『Tenno Sho (Spring)』, các lời mời xuất hiện từ vô số phương tiện truyền thông đổ về dồn dập hết cả lên."
+        },
+        {
+            "name": "Phát thanh viên",
+            "text": "Sau đây, xin trân trọng kính mời lên sân khấu — Torena phụ trách của Curren Bouquetd'or, Torena <username>!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "— Chà, xem ai đang căng thẳng kìa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng mà, ——hehe. Tiếng vỗ tay lớn thật đấy......"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Việc tên tuổi được biết đến rộng rãi, dù ít dù nhiều, cũng sẽ mở đường cho sự nghiệp sau này của tôi với tư cách là một Torena"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Dù đã cố gắng chỉ nhận các lời mời trong phạm vi và không quá sức, nhưng...... dù có trôi qua bao lâu đi nữa, tôi vẫn chẳng thể quen được."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Vừa lết cái thân xác rã rời này đi, tôi vừa quay trở lại phòng Torena để giải quyết nốt đống việc còn tồn đọng, thì thấy——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "— Mừng anh đã về.",
+            "choice_data_list": [
+                "Bouquet!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em nghĩ chắc là anh đang mệt lắm. Nên em mang chút đồ ăn nhẹ đến cho anh đó.",
+            "choice_data_list": [
+                "A—— Cảm ơn em!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Anh vẫn còn việc phải làm nữa sao ạ?\nAnh cũng nhớ nghỉ ngơi nhé."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tôi nhận lấy miếng bánh với sự biết ơn. Bánh taiyaki vẫn còn ấm, vị ngọt lịm tan vào cơ thể đang rã rời.",
+            "choice_data_list": [
+                "Ngon quá......!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, vậy ạ? May quá."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Dù đã nửa đêm rồi mà cô ấy vẫn cất công mang đồ ăn đến cho tôi—— Sự biết ơn dành cho cô ấy cứ thế trào dâng trong tôi.",
+            "choice_data_list": [
+                "Vì em luôn bênh cạnh anh đấy",
+                "Vì em luôn bênh cạnh anh đấy"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Một kẻ từng bị nói là chỉ biết trốn trong bóng tối như tôi, giờ đây lại được trao cho bó hoa hoàng kim, và nhận được sự chú ý hơn bao giờ hết."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Và trên hết—— điều quan trọng nhất với tư cách là một Torena."
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tôi đã có thể hiểu được ý nghĩa thực sự về sự gắn kết giữa một Uma Musume và một Torena, chính nhờ việc đồng hành cùng cô ấy trên mỗi bước đi.",
+            "choice_data_list": [
+                "Cảm ơn vì đã đến bên anh, Bouquet"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……――"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, không đâu, không có đâu ạ—— \nChính em mới là người phải cảm ơn chứ."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Em thì—— được kết thành một bó hoa hoàng kim. Chỉ bấy nhiêu thôi, em đã thấy vô cùng mãn nguyện rồi."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Thế nhưng hôm nay, khi đứng từ bên cánh gà nhìn bóng hình của anh, em đã cảm nhận được một điều."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trong tương lai, anh nhất định sẽ tiến xa và vĩ đại hơn nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Bó hoa hoàng kim mà em đã trao anh, nhất định từ nay về sau, sẽ có thêm từng bông, từng bông hoa nữa—— điểm xuyết vào."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Đó có thể là em, và cũng có thể là một ai đó khác."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Dù thế nào đi nữa, nhất định——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "......——Nhất định. Tương lai của anh sẽ trở nên vô cùng tuyệt vời."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Còn gì hạnh phúc hơn thế nữa chứ?\n",
+            "choice_data_list": [
+                "Bouquet……"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tại sao cô ấy lúc nào cũng chỉ nghĩ cho tôi cơ chứ?"
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Tại sao, cô ấy lại chẳng do dự khi đặt bản thân mình sang một bên như thế——",
+            "choice_data_list": [
+                "Anh muốn em được hạnh phúc",
+                "Anh muốn em được hạnh phúc"
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "Ở ngay chính giữa tương lai tràn ngập sắc màu và ánh sáng dịu êm ấy, tôi muốn chính cô ấy mới là người đang mỉm cười",
+            "choice_data_list": [
+                "Đó mới là tâm nguyện lớn nhất của anh.",
+                "Đó mới là tâm nguyện lớn nhất của anh."
+            ]
+        },
+        {
+            "name": "Độc thoại",
+            "text": "——Hóa ra... anh nghĩ thế thật sao. Được nghe anh nói câu đó... em vui lắm......"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhất định em sẽ bước đến tương lai đó.\nChỉ cần đó là điều anh mong ước."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng lần này—— anh cho em ích kỷ được không?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Mong sao bó hoa này, một ngày nào đó—— sẽ trở nên lớn lao, lớn lao hơn nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Dù cho màu sắc, hương thơm, hay thậm chí là hình dáng này—— có thay đổi thành một thứ hoàn toàn khác đi chăng nữa."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Xin anh, cho mãi về sau. Trong lòng anh, Bouquet vẫn sẽ luôn vẹn nguyên như hình dáng của hôm nay."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Chỉ là một góc nhỏ trong tim anh thôi cũng được——"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Nhưng xin anh đừng quên em."
+        }
+    ]
+}
