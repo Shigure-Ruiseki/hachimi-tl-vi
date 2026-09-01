@@ -63,8 +63,8 @@
             "name": "Mẹ của Buena",
             "text": "――Nào, chào hỏi người ta đi con. Đây là anh <username> mới chuyển đến nhà bên cạnh đấy. Hai đứa cố gắng hòa thuận với nhau nhé.",
             "choice_data_list": [
-                "Ừm... r-rất vui được gặp, Buena-chan.",
-                "Ừm... r-rất vui được gặp, Buena-chan."
+                "Ừm...r-rất vui được gặp, Buena-chan",
+                "Ừm...r-rất vui được gặp, Buena-chan"
             ]
         },
         {
@@ -88,14 +88,14 @@
         },
         {
             "name": "Buena khi còn nhỏ",
-            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng được onii-chan rồi nè! Thấy sao……!?",
+            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng đượcn\\onii-chan rồi nè! Thấy sao……!?",
             "choice_data_list": [
                 "Không, không, không! Không sao đâu—thật đấy, không sao đâu!"
             ]
         },
         {
             "name": "Buena khi còn nhỏ",
-            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng được onii-chan rồi nè! Thấy sao……!?",
+            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng đượcn\\onii-chan rồi nè! Thấy sao……!?",
             "choice_data_list": [
                 "Không, không, không! Không sao đâu—thật đấy, không sao đâu!"
             ]
