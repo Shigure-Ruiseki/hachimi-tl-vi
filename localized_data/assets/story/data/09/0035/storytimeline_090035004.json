@@ -62,11 +62,11 @@
             "text": "The safer option would be to ignore this trap and observe their \nmovements… However, if we want to shake up this situation… \nWe can make an all or nothing gamble!"
         },
         {
-            "name": "[Ha Clan] Trainee A",
+            "name": "[Ha Clan] Horsegirl A",
             "text": "Hey, Hayahide! Why haven't we launched an offensive \non the I clan yet? We have such a large force!"
         },
         {
-            "name": "[Ha Clan] Trainee A",
+            "name": "[Ha Clan] Horsegirl A",
             "text": "Even if we shouldn't make light of their members, \nwe can easily overwhelm them with our numbers… \n<i>Ah!</i>"
         },
         {
@@ -74,11 +74,11 @@
             "text": "<i>Kah-kah-kha-ka～!</i> Rejoice! You lot were so \nsluggish and convoluted, we decided to come \nstraight to ya ourselves!"
         },
         {
-            "name": "[Ha Clan] Trainee A",
+            "name": "[Ha Clan] Horsegirl A",
             "text": "E-Everyone, form up! It's an enemy attaaaack!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "No Reason leads the I clan into battle against \nBiwa Hayahide's Ha clan! A determined assault! \nBut can they handle this difference in numbers～!?"
         },
         {
@@ -86,11 +86,11 @@
             "text": "'Tis indeed the question. Let me respond that… \n<i>Hyeeeeeh～～～!</i> It's impossible! Retreat～～!!"
         },
         {
-            "name": "[Ha Clan] Trainee A",
+            "name": "[Ha Clan] Horsegirl A",
             "text": "<i>That was it!?</i> Chase after 'em! \nDon't stop us this time, Hayahide! \nTake 'em all doooown～!"
         },
         {
-            "name": "[Ha Clan] Trainee A",
+            "name": "[Ha Clan] Horsegirl A",
             "text": "We got 'em now! Surround 'em and… wha! They…!"
         },
         {
@@ -98,7 +98,7 @@
             "text": "<i>Fuhuhu～n</i>♪ This bridge is narrow, so one at a time please～!"
         },
         {
-            "name": "[Ha Clan] Trainee A",
+            "name": "[Ha Clan] Horsegirl A",
             "text": "W-What is this!? Dang, it's hard to advance…! \nHey, don't push! Stop, stop…!"
         },
         {
@@ -106,7 +106,7 @@
             "text": "<i>Deyaaaaah—! </i>"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Yaeno Muteki's I clan has lead their enemies to a suspension \nbridge, utilizing the resulting disorientation to eliminate them! \nThey're not letting the Ha clan make use of their numbers～!"
         },
         {
@@ -118,7 +118,7 @@
             "text": "Come again!? Thou'rt asking the impossible! However… a point \nthou dost make! You lot, hurry and follow Taishin and Creek \nin searching for their banner!"
         },
         {
-            "name": "[I Clan] Trainee B",
+            "name": "[I Clan] Horsegirl B",
             "text": "No Reason! I knew it, you're so strong! So cool…! \n<i>Aaaah～</i> Thank you… we'll go help the search!"
         },
         {
@@ -202,7 +202,7 @@
             "text": "Now! <i>Hyaaaa——!!</i>"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "W-What just～!? It's the I clan's ninja, Super Creek! \nShe scores a magnificent hit on the Ha clan's banner \nwith a shuriken to achieve victoryyyyy—!"
         },
         {

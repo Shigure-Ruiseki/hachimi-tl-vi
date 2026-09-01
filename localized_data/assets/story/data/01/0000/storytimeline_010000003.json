@@ -2,74 +2,74 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after watching the race with\nTazuna..."
+            "text": "The day after I watched \nthe race with Tazuna—"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Once again… Welcome, Trainer-san! \nThis is the Japan Horsegirl \nTraining Center Academy.",
             "color_text_info_list": [
-                "Japan Trainee  Training Center Academy"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Hello again, Trainer! Welcome to the\nJapan Umamusume Training Center\nAcademy!"
+                "Japan Horsegirl \nTraining Center Academy"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "This is the finest Umamusume training\nestablishment in Japan, home to\ncountless students who dream of the\nracing world!"
+            "name": "Hayakawa Tazuna",
+            "text": "This is Japan's premier horsegirl training \norganization, where girls who dream of \nentering the world of racing gather!"
         },
         {
-            "choice_data_list": [
-                "?!"
-            ],
             "name": "???",
-            "text": "WELL MET!"
+            "text": "WELCOME!!!",
+            "choice_data_list": [
+                "!?"
+            ]
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Hey, Principal Akikawa…! \nDon't scare us like that!",
             "color_text_info_list": [
                 "Akikawa"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Goodness, Director Akikawa! You scared\nus!"
+            ]
         },
         {
-            "name": "Director Akikawa",
-            "text": "Apologies! Seeing such a promising new\ntrainer just gets me so excited!"
+            "name": "Chairwoman Akikawa",
+            "text": "My apologies! I was distracted by the sight \nof a promising trainer!!"
         },
         {
+            "name": "Chairwoman Akikawa",
+            "text": "Once again, I am the principal of \nthis school, Akikawa! It is nice \nto meet you, New Trainer-kun!",
             "color_text_info_list": [
                 "Akikawa"
-            ],
-            "name": "Director Akikawa",
-            "text": "Introductions! I am Akikawa, the director\nof this academy! I look forward to your\nendeavors, newcomer!"
+            ]
         },
         {
-            "name": "Director Akikawa",
-            "text": "But first... Please! Tell us about yourself!"
+            "name": "Chairwoman Akikawa",
+            "text": "First off… Come on! Tell \nme more about yourself!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "Welcome!\nTrainer\n<username>,\nfrom here on, you are a part of Tracen\nAcademy!"
+            "name": "Chairwoman Akikawa",
+            "text": "Welcome! Trainer <username>, you're now a \nmember of Tracen Academy!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "High hopes! I expect you'll give your all\ntogether with your trainees to make their\ndreams come true!"
+            "name": "Chairwoman Akikawa",
+            "text": "Your expectations!! Please use your \nskills to make your horsegirls' \ndreams come true, together!"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "What the horsegirls at this academy aspire to \nis… their greatest stage as runners; the \nTwinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "The goal of our academy's students is to\nparticipate in the highly renowned\nTwinkle Series."
+            ]
         },
         {
-            "name": "Director Akikawa",
-            "text": "So I want you, Trainer, to teach, guide,\nand support your trainees through and\nthrough!"
+            "name": "Chairwoman Akikawa",
+            "text": "It's your job as trainer to help \nyour horsegirl. To teach her! To \nguide her! To support her!"
         },
         {
-            "name": "Director Akikawa",
-            "text": "That's all! I hope that you will work\ndiligently to bring honor to the trainer\nbadge you wear on your chest!"
+            "name": "Chairwoman Akikawa",
+            "text": "And more! Endeavor to live up \nto that trainer badge on your chest!!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Well then, let's set off for the\nintroduction course,\nTrainer <username>!"
+            "name": "Hayakawa Tazuna",
+            "text": "Well then, without further ado… let's get to \ntraining, Trainer <username>!"
         }
     ]
 }

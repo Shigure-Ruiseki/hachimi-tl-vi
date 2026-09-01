@@ -2,15 +2,15 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Racing's finest are gathered here for the 3 000-meter turf G2 Hanshin \nDaishoten."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Everyone's excited for the face-off between Racers of the Year Narita \nBrian and Mayano Top Gun!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The extraordinary crowd at the Hanshin Racecourse is waiting with \nbated breath to see the amazing finish to come!"
         },
         {
@@ -83,16 +83,16 @@
             "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories in the biggest races…"
         },
         {
+            "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you.",
             "choice_data_list": [
                 "So go for it, Brian!"
-            ],
-            "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you."
+            ]
         },
         {
+            "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you.",
             "choice_data_list": [
                 "So go for it, Brian!"
-            ],
-            "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you."
+            ]
         },
         {
             "name": "Narita Brian",

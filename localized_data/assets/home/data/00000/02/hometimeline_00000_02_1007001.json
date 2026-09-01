@@ -1,5 +1,4 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Gold Ship",
@@ -7,7 +6,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Trainee Athletics through Physics.</i> \nI thought it might prove useful to my training."
+            "text": "<i>Horsegirl Athletics through Physics.</i> \nI thought it might prove useful to my training."
         },
         {
             "name": "Gold Ship",
@@ -19,7 +18,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, the book I'm reading is called \n<i>Trainee Athletics through Physics.</i> \nIt's—"
+            "text": "No, the book I'm reading is called \n<i>Horsegirl Athletics through Physics.</i> \nIt's—"
         },
         {
             "name": "Gold Ship",
@@ -31,7 +30,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, like I said, it's called <i>Trainee Athletics \nthrough Physics!</i>"
+            "text": "No, like I said, it's called <i>Horsegirl Athletics \nthrough Physics!</i>"
         },
         {
             "name": "Gold Ship",
@@ -41,5 +40,6 @@
             "name": "Mejiro McQueen",
             "text": "Oooh, that does it!! Are you trying \nto have a conversation or not?!"
         }
-    ]
+    ],
+    "no_wrap": true
 }

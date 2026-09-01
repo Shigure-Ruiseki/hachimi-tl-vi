@@ -2,19 +2,19 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "We're here at the Arima Kinen, the final race of this year's Twinkle \nSeries, and the star of the show is the Triple Crown champion, Narita \nBrian!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "We didn't get our wish to see her take on her sister, Biwa Hayahide, \nbut she's ready to race for the two of them!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "However, it's also her first mix-up with racers in the senior year!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Against these top-class veterans, can she win her fifth G1 race and \nbecome a Five Crown champion?"
         },
         {
@@ -69,11 +69,11 @@
             "text": "I hope you're ready to have some fun!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The racers are waiting in the gate."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Will the Triple Crown champion, Narita Brian, win? Or will another \nracer finally stop her? Get ready to find out as the Arima Kinen… \nbegins!"
         }
     ]

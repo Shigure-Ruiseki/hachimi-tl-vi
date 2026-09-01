@@ -1,5 +1,4 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Narita Brian",
@@ -23,7 +22,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Do you know how many trainees here \nhave insane appetites? I'll cook up those \nveggies in a jiffy!"
+            "text": "Do you know how many horsegirls here \nhave insane appetites? I'll cook up those \nveggies in a jiffy!"
         },
         {
             "name": "Narita Brian",
@@ -41,5 +40,6 @@
             "name": "Narita Brian",
             "text": "Urgh…"
         }
-    ]
+    ],
+    "no_wrap": true
 }

@@ -1,5 +1,4 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Agnes Digital",
@@ -35,7 +34,7 @@
         },
         {
             "name": "Agnes Digital",
-            "text": "Your dark, shiny ears and your tail were\nshining a glorious light! And you looked like\na great scholar holding your book! How could\nanyone miss such a splendid trainee?!"
+            "text": "Your dark, shiny ears and your tail were\nshining a glorious light! And you looked like\na great scholar holding your book! How could\nanyone miss such a splendid horsegirl?!"
         },
         {
             "name": "Zenno Rob Roy",
@@ -45,5 +44,6 @@
             "name": "Zenno Rob Roy",
             "text": "You flatter me! Hehe♪ \"The wise scholar\nof light\" sounds like a heroic tale…!"
         }
-    ]
+    ],
+    "no_wrap": true
 }

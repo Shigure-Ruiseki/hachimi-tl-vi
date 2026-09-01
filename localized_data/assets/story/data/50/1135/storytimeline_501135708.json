@@ -1,4 +1,5 @@
 {
+    "title": "Victory!",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -14,22 +15,22 @@
             "text": "Cutting through the wind and gaining the \nlead… no matter how many times I experience \nthis, something starts welling up within my \nchest every time."
         },
         {
+            "name": "Stay Gold",
+            "text": "I was able to see a great scenery. \nHow about you?",
             "choice_data_list": [
                 "<i>Ahh</i>, you showed me the greatest view!",
                 "Yeah, you showed me the greatest view!",
                 "I want to see an even greater scenery"
-            ],
-            "name": "Stay Gold",
-            "text": "I was able to see a great scenery. \nHow about you?"
+            ]
         },
         {
+            "name": "Stay Gold",
+            "text": "I was able to see a great scenery. \nHow about you?",
             "choice_data_list": [
                 "<i>Ahh</i>, you showed me the greatest view!",
                 "Yeah, you showed me the greatest view!",
                 "I want to see an even greater scenery"
-            ],
-            "name": "Stay Gold",
-            "text": "I was able to see a great scenery. \nHow about you?"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -59,6 +60,5 @@
             "name": "Stay Gold",
             "text": "Let's go somewhere even further… \nto witness an endless scenery."
         }
-    ],
-    "title": "Victory!"
+    ]
 }

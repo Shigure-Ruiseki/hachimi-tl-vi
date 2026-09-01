@@ -1,9 +1,8 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Oguri Cap",
-            "text": "This school is filled with nothing but \nthe best of the best trainees…"
+            "text": "This school is filled with nothing but \nthe best of the best horsegirls…"
         },
         {
             "name": "Oguri Cap",
@@ -17,5 +16,6 @@
             "name": "Oguri Cap",
             "text": "Watch me, Trainer. I swear… I will win!"
         }
-    ]
+    ],
+    "no_wrap": true
 }

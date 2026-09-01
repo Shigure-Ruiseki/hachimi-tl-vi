@@ -5,10 +5,10 @@
             "text": "It'd been a while since I'd officially became a trainer at \nTracen Academy. And today―"
         },
         {
+            "text": "(gorogorogorogorogoro…!!)",
             "choice_data_list": [
                 "My… my stomach… hurts!!"
-            ],
-            "text": "(gorogorogorogorogoro…!!)"
+            ]
         },
         {
             "text": "I was in an awful state, and ended up \nstumbling my way in to the hospital."
@@ -75,15 +75,15 @@
             "text": "At the very least, once we return to the dorms let me make \nyou some tea. I just happen to have some because a \nvisitor brought some―"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Huh?… That senpai, she was admitted \nto the hospital <i>again</i>?"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Ah- if I remember correctly, before the previous \nSelection Race she was injured or wasn't feeling \ntoo good and had to withdraw right beforehand."
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "Right before getting started she had to withdraw? \nAnd she's done it several times? …Eh? Isn't that bad? \nNormally, you'd be in a panic, right?"
         },
         {
@@ -111,77 +111,77 @@
             "text": "Alright, Chiyono O. Before we get too cold, \nlet's return to the dorms."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Aaah… Mejiro Ardan is it? \nLet's see…"
         },
         {
             "text": "For some reason it was bothering me, so I asked Tazuna about her. \nWhen I did―"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "…It's just as you heard, she's someone that is rather frail and \ngets injured easily. Ever since she's enrolled, she's been \nadmitted to the hospital several times."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Because of that, even though she's trying to get started, she's \nhad to withdraw from several Selection Races, and has had to \ntake many days off from training―"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "As a result, she's never been scouted and has yet to debut. \nAnd the evaluations of other trainers… hasn't been too positive either.",
             "choice_data_list": [
                 "Is that so…"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "As a result, she's never been scouted and has yet to debut. \nAnd the evaluations of other trainers… hasn't been too positive either."
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "I… believe she's someone with talent. \nShe's an Uma Musume from the famous Mejiro \nfamily, so she definitely has the potential."
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "It's just that her body is a bit fragile… On top of that, there's \nher older sister as well.",
             "choice_data_list": [
                 "'Older sister'?"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "It's just that her body is a bit fragile… On top of that, there's \nher older sister as well."
+            ]
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Even as a new trainer, I'm sure you're familiar with the name. \nOne of the Mejiro family's most prominent — Mejiro Ramone.",
             "choice_data_list": [
                 "…!"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Even as a new trainer, I'm sure you're familiar with the name. \nOne of the Mejiro family's most prominent — Mejiro Ramone."
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Winning her debut race with a 20-length margin, and during her \njunior-year recording several times approaching that of the \n'Super Car' Maruzensky."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "On top of that, being the first one to ever earn the 'Triple Tiara'."
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "There's no shortage of anecdotes, about the glory of the \noutstanding and strong older sister… and Ardan being \novershadowed, but still chasing after her.",
             "choice_data_list": [
                 "I see…"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "There's no shortage of anecdotes, about the glory of the \noutstanding and strong older sister… and Ardan being \novershadowed, but still chasing after her."
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Ardan herself, is truly doing her utmost but…"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "<i>At this rate, next time will probably be the last-</i>",
             "choice_data_list": [
                 "Ehh?"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "<i>At this rate, next time will probably be the last-</i>"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Ah, no! I'm sorry, this is just my speculation. Um―"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "…But if she's caught your interest, please try \napproaching Ardan, Trainer!"
         },
         {

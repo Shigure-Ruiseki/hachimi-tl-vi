@@ -1,4 +1,5 @@
 {
+    "title": "Ready for a Challenge",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -6,11 +7,11 @@
             "text": "I can hear the cheers from here even \nthough the race hasn't even started."
         },
         {
+            "name": "Stay Gold",
+            "text": "…Or perhaps, do these cheering \nsounds stem from my memories? \nWhat do you think?",
             "choice_data_list": [
                 "Could be… either?"
-            ],
-            "name": "Stay Gold",
-            "text": "…Or perhaps, do these cheering \nsounds stem from my memories? \nWhat do you think?"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -24,6 +25,5 @@
             "name": "Stay Gold",
             "text": "I'll be going off to confirm it."
         }
-    ],
-    "title": "Ready for a Challenge"
+    ]
 }

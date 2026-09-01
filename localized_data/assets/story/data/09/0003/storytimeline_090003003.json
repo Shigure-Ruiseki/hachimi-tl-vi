@@ -1,4 +1,5 @@
 {
+    "title": "A Strange Bunch",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -194,12 +195,11 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "A-A goddess?! Tracen Academy really is incredible. \nThe trainees here are literally out of this world…!"
+            "text": "A-A goddess?! Tracen Academy really is incredible. \nThe horsegirls here are literally out of this world…!"
         },
         {
             "name": "???",
             "text": "Hmm… What should I do?"
         }
-    ],
-    "title": "A Strange Bunch"
+    ]
 }

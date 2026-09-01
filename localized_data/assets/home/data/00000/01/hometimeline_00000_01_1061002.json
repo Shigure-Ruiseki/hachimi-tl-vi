@@ -1,9 +1,8 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "King Halo",
-            "text": "Hm? What's this… \"Trending! \nThe Best of the Best Trainees.\""
+            "text": "Hm? What's this… \"Trending! \nThe Best of the Best Horsegirls.\""
         },
         {
             "name": "King Halo",
@@ -17,5 +16,6 @@
             "name": "King Halo",
             "text": "I must already be listed in their Hall of Fame♪ \nThis magazine certainly has great taste!"
         }
-    ]
+    ],
+    "no_wrap": true
 }

@@ -1,4 +1,5 @@
 {
+    "title": "Toward Our Dreams",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -149,11 +150,11 @@
             "text": "Nope, and I don't have any money on me either! \nWe'll just have to make a run for it!! C'mooon!"
         },
         {
-            "name": "Trainee's Journal",
+            "name": "Horsegirl's Journal",
             "text": "\"I messed up again today. \nWhy does this always happen to me? <i>Sigh…</i>\""
         },
         {
-            "name": "Trainee's Journal",
+            "name": "Horsegirl's Journal",
             "text": "\"But it's okay! I'll have another chance with my next race. \nI'll push myself harder and <i>definitely</i> win the next one!\""
         },
         {
@@ -199,6 +200,5 @@
             "name": "???",
             "text": "<i>WAAAAAH!!</i>"
         }
-    ],
-    "title": "Toward Our Dreams"
+    ]
 }

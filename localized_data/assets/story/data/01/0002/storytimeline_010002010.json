@@ -2,15 +2,15 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Let's choose a second Legac\nUmamusume!"
+            "name": "Hayakawa Tazuna",
+            "text": "Now, let's choose the second \nsuccessor horsegirl."
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Until you get used to it, you can also use \nthe convenient \"auto\" organization method.",
             "color_text_info_list": [
-                "Auto-Select"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Until you're more familiar with the\nprocess, please try using the\nAuto-Select feature."
+                "auto"
+            ]
         }
     ]
 }

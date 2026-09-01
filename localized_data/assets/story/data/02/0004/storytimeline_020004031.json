@@ -43,11 +43,11 @@
             "text": "She's in the middle of a five-win streak, with two of them being G1 \nraces. That momentum has taken her straight to the Japanese Derby."
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "When the big day comes, I have no doubt she'll be the favorite.",
             "choice_data_list": [
                 "…Is there something wrong with that?"
-            ],
-            "name": "Mejiro McQueen",
-            "text": "When the big day comes, I have no doubt she'll be the favorite."
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -58,7 +58,7 @@
             "text": "How will she face the pressure of being the favorite in such an \nimportant race? It'll be the moment of truth for her."
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Let me do one more sprint on the ramped track!"
         },
         {
@@ -70,7 +70,7 @@
             "text": "The Japanese Derby is 2 400 meters. We've gotta get the ideal pace \ninto your muscle memory!"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "All right, understood!"
         },
         {
@@ -128,11 +128,11 @@
             "text": "Post eight-seventeen… The farthest from the inside rail, with the most \nground to cover. Luck isn't on Brian's side."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's finally the day of the Tokyo Yushun — the Japanese Derby!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Will the standout favorite Narita Brian take the win? Or will it be one \nof her many rivals who've pushed so far to make it here?"
         },
         {
@@ -140,7 +140,7 @@
             "text": "You're in perfect shape! Believe in yourself and run with all you've \ngot!"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Okay! When I'm out there, I'll remember all the training I did!"
         },
         {
@@ -148,7 +148,7 @@
             "text": "A good start is key! Take all the advantages that inside post has to \noffer!"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Thank you so much for training me! I'll definitely bring back first place \nfor you!"
         },
         {
@@ -194,15 +194,15 @@
             "text": "Ready or not, the Derby gates open, and I'm reminded once again…"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "They're at the last corner, and Narita Brian's sweeping in from far \noutside! Just like that, she's taken the lead!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "She blasts ahead — that's it! Brian wins it!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian has her second crown! With an unbelievable five-length \nlead, the Satsuki Sho winner has claimed another amazing victory!"
         },
         {
@@ -216,12 +216,12 @@
             "text": "Hey, rockstar! You tore up the competition!"
         },
         {
+            "name": "Winning Ticket",
+            "text": "Whooooa! That was better than anyone could have hoped for! \nAnother Derby legend is born <i>TODAAAY</i>!",
             "choice_data_list": [
                 "You just keep on raising the bar, Brian!",
                 "You just keep on raising the bar, Brian!"
-            ],
-            "name": "Winning Ticket",
-            "text": "Whooooa! That was better than anyone could have hoped for! \nAnother Derby legend is born <i>TODAAAY</i>!"
+            ]
         },
         {
             "name": "Narita Brian",

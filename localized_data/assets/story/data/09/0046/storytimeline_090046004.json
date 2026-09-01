@@ -1,4 +1,5 @@
 {
+    "title": "Outbreak of Emotions",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -183,7 +184,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "A certain trainee named Cheval Grand's \nsmile, that one day at a major race…"
+            "text": "A certain horsegirl named Cheval Grand's \nsmile, that one day at a major race…"
         },
         {
             "name": "Satono Crown",
@@ -209,6 +210,5 @@
             "name": "Satono Crown",
             "text": "Yes. Since I found it in yesterday's shoot, I'm setting \nthings right. The path to taking \"the best PR photos\"!"
         }
-    ],
-    "title": "Outbreak of Emotions"
+    ]
 }

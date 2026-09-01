@@ -2,58 +2,58 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day at the Tokyo Racecourse..."
+            "text": "A certain day in a certain month \nat the Tokyo Racecourse"
         },
         {
             "name": "???",
-            "text": "Hey, new trainer! Over here!"
+            "text": "New Trainer-san!! I'm over here～!"
         },
         {
             "name": "???",
-            "text": "Tokyo Racecourse is as lively as ever! Do\nbe careful that you don't accidentally\nget separated."
+            "text": "The race track is busy today～! \nBe sure not to get lost."
         },
         {
             "name": "???",
-            "text": "Now then, allow me to introduce myself."
+            "text": "Well then, let me introduce myself."
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "I'm Tazuna Hayakawa, and I'm the secretary \nto the president of Tracen Academy, and \nalso in charge of information!",
             "choice_data_list": [
-                "Thank you for bringing me on board."
+                "I look forward to working with you."
             ],
             "color_text_info_list": [
-                "★★★",
+                "Tracen Academy",
                 "Hayakawa",
                 "Tazuna"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "I'm Tazuna Hayakawa, secretary to the\ndirector, and I'll be your tour guide\ntoday!"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Of course. ♪ I'm honored to be able to\nmeet a new trainer with as bright a\nfuture as yours!"
+            "name": "Hayakawa Tazuna",
+            "text": "Yes ♪ It's an honor to meet a promising \nnew trainer like you!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "In any case, we should get on with the\nacademy tour. But, before that..."
+            "name": "Hayakawa Tazuna",
+            "text": "So let's get started with the school guide."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "A race is about to begin. Let's take a\nlook!"
+            "name": "Hayakawa Tazuna",
+            "text": "First of all, please take a look, \nthe race is about to begin!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Can you hear the thunderous cheers\nfrom the crowd?"
+            "name": "Hayakawa Tazuna",
+            "text": "Look… can you hear it, those loud cheers!"
         },
         {
-            "text": "Wooooo!"
+            "text": "(Ahhhhhhhh!!!)"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "People from all around the world adore\nUmamusume racing!"
+            "name": "Hayakawa Tazuna",
+            "text": "A race where horsegirls compete, which \npeople all over the world love…"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "And with the fanfare, the curtains are\nraised on this stage where you and your\ntrainee will aim to achieve your dreams!"
+            "name": "Hayakawa Tazuna",
+            "text": "It's the fanfare of the opening race, \nthe stage of your dreams, where you \nand your horsegirls will be going!"
         }
     ]
 }

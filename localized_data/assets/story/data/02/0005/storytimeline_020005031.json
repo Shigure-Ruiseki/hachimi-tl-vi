@@ -59,11 +59,11 @@
             "text": "Um… to join a team it's necessary to be scouted first. \nJoining the team because you want to is…"
         },
         {
+            "name": "Special Week",
+            "text": "Uwaaaah! Scouted! Just like a celebrity! \nI'll do my best so I can be scouted!",
             "choice_data_list": [
                 "You're, how do I say this, very energetic"
-            ],
-            "name": "Special Week",
-            "text": "Uwaaaah! Scouted! Just like a celebrity! \nI'll do my best so I can be scouted!"
+            ]
         },
         {
             "name": "Silence Suzuka",
@@ -111,11 +111,11 @@
             "text": "That may be the case… \nBut it seems like Special Week-san already has a dream in mind."
         },
         {
+            "name": "Silence Suzuka",
+            "text": "A dream to run in the Twinkle Series, \nand become \"Japan's #1 Uma Musume\".",
             "choice_data_list": [
                 "\"Japan's #1 Uma Musume\"…?"
-            ],
-            "name": "Silence Suzuka",
-            "text": "A dream to run in the Twinkle Series, \nand become \"Japan's #1 Uma Musume\"."
+            ]
         },
         {
             "name": "Silence Suzuka",
@@ -136,7 +136,7 @@
             "text": "… I…"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Selection Race, 3rd Round. \nThe participating Uma Musume have settled in to their gates."
         },
         {
@@ -144,11 +144,11 @@
             "text": "Ah… the race is starting."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Number 6, Special Week! To make up for her late start, \nshe enters a Long Spurt from the third corner!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "She's catching up! \nAnd now she's taking the lead!"
         },
         {
@@ -165,7 +165,7 @@
             "text": "With the way Special Week is running, after moving \nto Tokyo to chase her dreams, she might really be \nable to realize her dreams… however-"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "…Wait!? What's wrong with Special Week?! Special Week stopped \nand is just standing there. What's she waving at?!"
         },
         {
@@ -173,7 +173,7 @@
             "text": "I did it, Suzuka-san! \nI got first place!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Oh no! It seems like she's mistaken where the goal was! \nIn the meantime, everyone is passing Special Week!"
         },
         {

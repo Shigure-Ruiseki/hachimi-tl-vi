@@ -51,11 +51,11 @@
             "text": "Which means that if you're able to give her a new target, she may run \nlike she once did."
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "In other words… I'd best hurry and get changed.",
             "choice_data_list": [
                 "Wait, what? You're going to run?"
-            ],
-            "name": "Mejiro McQueen",
-            "text": "In other words… I'd best hurry and get changed."
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -113,15 +113,15 @@
             "text": "Hweh?!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "We'll help out too!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Ooh, then how about we take turns setting the pace?"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Okay! Let's do this!"
         },
         {
@@ -161,11 +161,11 @@
             "text": "As long as you're there, and the team's there, we can have fun \nanywhere. Just seeing the others smile makes me smile too."
         },
         {
+            "name": "Rice Shower",
+            "text": "And I want to make them smile today. So I'm going to give this race \nmy all.",
             "choice_data_list": [
                 "You've got this."
-            ],
-            "name": "Rice Shower",
-            "text": "And I want to make them smile today. So I'm going to give this race \nmy all."
+            ]
         },
         {
             "name": "Rice Shower",
@@ -175,18 +175,18 @@
             "text": "She looks so tiny compared to the expanse of turf, but she makes it \nhers."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Here's Rice Shower! She makes her move! She's pushed up into the \nlead!"
         },
         {
             "text": "Even when her will to win seemed faint, she refused to give up, and \njust kept running."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Rice Shower isn't giving up the lead! She's desperately holding on! \nAnd now… she's done it!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Rice Shower returns to the winner's circle in the spring Tenno Sho!"
         },
         {
@@ -213,7 +213,7 @@
             "text": "Huh? Wh-Wha—?!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The cheers are deafening! The entire stadium is lavishing Rice Shower \nwith praise!"
         },
         {

@@ -1,32 +1,33 @@
 {
+    "title": "A New Wind Blows",
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Child Trainee A",
+            "name": "Child Horsegirl A",
             "text": "Do you mean it? Like… really, really mean it?"
         },
         {
-            "name": "Child Trainee B",
+            "name": "Child Horsegirl B",
             "text": "Haha! You bet! Wanna pinky swear on it?"
         },
         {
-            "name": "Child Trainee A",
+            "name": "Child Horsegirl A",
             "text": "Pinky swear…? What's that?"
         },
         {
-            "name": "Child Trainee B",
+            "name": "Child Horsegirl B",
             "text": "Oh, you don't know? Well, you see… we put our \nlittle fingers together like this…"
         },
         {
-            "name": "Child Trainee B",
+            "name": "Child Horsegirl B",
             "text": "Then you gotta say, \"Cross my heart and hope to die\". \nIt's like a magic spell to make sure we keep our promise! Got it?"
         },
         {
-            "name": "Child Trainee A",
+            "name": "Child Horsegirl A",
             "text": "A magic spell… I got it! Okay… one, two, three!"
         },
         {
-            "name": "Trainee Children",
+            "name": "Horsegirl Children",
             "text": "Cross my heart and hope to die. Together forever, you and I!"
         },
         {
@@ -154,14 +155,14 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "(And so, the race begins. The other trainees are all fast, \nbut Teio and McQueen are in a league of their own!)"
+            "text": "(And so, the race begins. The other horsegirls are all fast, \nbut Teio and McQueen are in a league of their own!)"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Our racers are approaching the final stretch as Mejiro McQueen \nmaintains a sizeable lead! What a show of power!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "But what's this? Tokai Teio is hot on her heels! Tokai Teio is \nclosing the distance! She's just two… no, one length away!"
         },
         {
@@ -203,6 +204,5 @@
         {
             "text": "Brand New Friends"
         }
-    ],
-    "title": "A New Wind Blows"
+    ]
 }

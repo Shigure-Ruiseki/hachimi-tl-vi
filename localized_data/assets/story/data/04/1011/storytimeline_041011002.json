@@ -8,12 +8,12 @@
             "text": "For Tracen Academy, it was one of the most important \nevents. And today, that event was happening! Immediately \nwhen I arrived at the course―"
         },
         {
+            "name": "Grass Wonder",
+            "text": "Oh? Are you, perhaps…… \nthat lost trainer that I met the other day!?",
             "choice_data_list": [
                 "That was a little embarrassing……",
                 "That was a little embarrassing……"
-            ],
-            "name": "Grass Wonder",
-            "text": "Oh? Are you, perhaps…… \nthat lost trainer that I met the other day!?"
+            ]
         },
         {
             "name": "Grass Wonder",
@@ -143,11 +143,11 @@
             "text": "Haa, haa, haa, haa……!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "With 200m remaining, Grass Wonder is in the lead! \nBut…… she's being chased!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Will Grass Wonder be able to stay ahead!? \nAnd the way this battle ends is――!!"
         },
         {

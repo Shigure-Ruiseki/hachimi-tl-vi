@@ -12,35 +12,35 @@
             "text": "…I know that at Tracen Academy, \nstudents often leave school."
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "But, I believed that…! That I would be \nwith my entire class the whole time, \ngrowing together, working hard together, \nand graduating together!",
             "choice_data_list": [
                 "I see…"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "But, I believed that…! That I would be \nwith my entire class the whole time, \ngrowing together, working hard together, \nand graduating together!"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Even so, the day to say goodbye \nwill come."
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "As class president, I'd like to do something \nfor her in the time we have left, but――",
             "choice_data_list": [
                 "Why don't you give her a present?"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "As class president, I'd like to do something \nfor her in the time we have left, but――"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Ohh! \nThat's a superb idea!"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "If this gift has to be a parting one, I want \nto make it something that stays in one's \nheart forever! \nHmhmhm, what should it be…!",
             "choice_data_list": [
                 "A fun run.",
                 "A straightforward song.",
                 "An encouraging cheer."
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "If this gift has to be a parting one, I want \nto make it something that stays in one's \nheart forever! \nHmhmhm, what should it be…!"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
@@ -69,18 +69,18 @@
             "text": "Thank you very much! \nI'll invite her out tomorrow A.S.A.P.!"
         },
         {
+            "text": "The next day, I saw Sakura Bakushin O and \nher freckle-faced classmate on the field.",
             "choice_data_list": [
                 "Good to see the sun is shining!",
                 "Good to see the sun is shining!"
-            ],
-            "text": "The next day, I saw Sakura Bakushin O and \nher freckle-faced classmate on the field."
+            ]
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Indeed! It's a beautiful blue sky with \nnot a single cloud to be found――ideal \nconditions for Bakushin-ing!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "This feels a little nostalgic, huh～. \nIt feels like a long time ago that we \nboth trained together!"
         },
         {
@@ -92,12 +92,12 @@
             "text": "No need to go easy on me! \nLet's clash, without holding \nanything back!"
         },
         {
+            "name": "Freckled Horsegirl",
+            "text": "Of course! \nI'm not gonna lose, Baku-chan!",
             "choice_data_list": [
                 "Go on, you two!",
                 "Go on, you two!"
-            ],
-            "name": "Freckled Trainee",
-            "text": "Of course! \nI'm not gonna lose, Baku-chan!"
+            ]
         },
         {
             "name": "Both",
@@ -114,15 +114,15 @@
             "text": "Hah, haa… \nThat was a Nice Bakushin you did!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Baku-chan did, too. \nThat was a really fun run we did together!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "…You know, I'm really grateful \nto Baku-chan and Trainer."
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "It's because of you two that I feel so \nrefreshed!"
         },
         {
@@ -134,11 +134,11 @@
             "text": "As class president, I was just doing what \nI was supposed to do!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Hmmm… That's it?"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "But I thought I was making good friends \nwith Baku-chan, wasn't I?"
         },
         {
@@ -146,7 +146,7 @@
             "text": "N, no!! Of course, it's because you're my \ndear friend, too!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Fufu, thanks.♪ \nWill you continue to be my friend, from now \non?"
         },
         {
@@ -180,13 +180,13 @@
             "text": "Let's create the absolute best song with \neveryone from class, and give her a live \nperformance she'll never forget!"
         },
         {
+            "text": "And a day later. \nThe gymnasium was rented out for the \nconcert.",
             "choice_data_list": [
                 "Here, the lead singer goes in the middle."
-            ],
-            "text": "And a day later. \nThe gymnasium was rented out for the \nconcert."
+            ]
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "O, okay! Are you sure about this? \nI can't believe you're doing this live for me―"
         },
         {
@@ -217,10 +217,10 @@
             "text": "…Even if, we're apart."
         },
         {
+            "text": "Sakura Bakushin O choked on her \nwords and looked away.",
             "choice_data_list": [
                 "Bakushin O…"
-            ],
-            "text": "Sakura Bakushin O choked on her \nwords and looked away."
+            ]
         },
         {
             "name": "Sakura Bakushin O",
@@ -247,11 +247,11 @@
             "text": "\"Goodbye? No, no, that's not right♪ \nThis is advancing to the future, moving \nforward's…～♪\""
         },
         {
+            "name": "Classmates",
+            "text": "\"Bakushin! Bakushin!\"",
             "choice_data_list": [
                 "\"Bakushin! Bakushin!\""
-            ],
-            "name": "Classmates",
-            "text": "\"Bakushin! Bakushin!\""
+            ]
         },
         {
             "text": "Sakura Bakushin O managed to pull it off, \nand the concert went off without a hitch."
@@ -261,15 +261,15 @@
             "text": "Uuugh, I apologize for the shameful scene \nI showed you earlier."
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "You've got nothing to be sorry for! Thank \nyou, for putting on such a wonderful show \nfor me."
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "…I'll keep running, even after I leave the \nacademy."
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Because this farewell is \"moving forward \nto the future's Bakushin,\" right?"
         },
         {
@@ -305,14 +305,14 @@
             "text": "And then, on the day to say goodbye――"
         },
         {
+            "name": "Freckled Horsegirl",
+            "text": "Thanks for coming to see me off, \neveryone! \nEven Baku-chan's Trainer.",
             "choice_data_list": [
                 "Take care out there."
-            ],
-            "name": "Freckled Trainee",
-            "text": "Thanks for coming to see me off, \neveryone! \nEven Baku-chan's Trainer."
+            ]
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "I will! \nThe same goes for Trainer and Baku-chan, \ntoo."
         },
         {
@@ -320,7 +320,7 @@
             "text": "…The truth is, being in the same class for \nthe rest of our lives, and to graduate \ntogether, we can't… Uuuugh!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Baku-chan…"
         },
         {
@@ -343,14 +343,14 @@
             "text": "Sakura Bakushin O and her classmates \ngave a warm cheer of encouragement to \ntheir departing friend."
         },
         {
+            "name": "Freckled Horsegirl",
+            "text": "Thank you. I'm sad to leave you all, but \nI'll do my best out there!",
             "choice_data_list": [
                 "It's a summoning call…"
-            ],
-            "name": "Freckled Trainee",
-            "text": "Thank you. I'm sad to leave you all, but \nI'll do my best out there!"
+            ]
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Sorry, I have to go. \nTake care, everyone…!"
         },
         {
@@ -361,7 +361,7 @@
             "text": "――W, wait, please!! \nJust one more word…!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "Huh?"
         },
         {
@@ -369,11 +369,11 @@
             "text": "I may be far away, but I'm still your class \npresident! \nBecause that's the only thing that will \nnever change…!!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "…Yeah!"
         },
         {
-            "name": "Freckled Trainee",
+            "name": "Freckled Horsegirl",
             "text": "I'm so glad that I'm in the same class \nas―I'm so glad that Baku-chan's the \nclass president!!"
         },
         {

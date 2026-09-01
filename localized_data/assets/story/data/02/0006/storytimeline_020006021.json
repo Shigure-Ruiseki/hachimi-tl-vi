@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "From the inside it's Special Week! From the inside \nit's Special Week! Extending her lead from 3 \nto 4 lengths, now she cross the goal!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "As her first victory in a Major, the \n[Kisaragi Sho] has been conquered!"
         },
         {
@@ -137,10 +137,10 @@
             "text": "While saying it would be difficult, Mejiro McQueen looked like \nshe was having fun talking about it."
         },
         {
+            "text": "She probably also believes in it. That Team Sirius' \nSpecial Week could fulfill her dream.",
             "choice_data_list": [
                 "I'll definitely show you we can do it"
-            ],
-            "text": "She probably also believes in it. That Team Sirius' \nSpecial Week could fulfill her dream."
+            ]
         },
         {
             "name": "Mejiro McQueen",

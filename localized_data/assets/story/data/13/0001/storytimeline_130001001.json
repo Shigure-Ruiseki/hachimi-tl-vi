@@ -1,4 +1,5 @@
 {
+    "title": "Opening",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -59,11 +60,11 @@
         },
         {
             "name": "Copano Rickey",
-            "text": "That's exactly the time for Rickey ☆ Lucky ☆ Trainee Power!"
+            "text": "That's exactly the time for Rickey ☆ Lucky ☆ Horsegirl Power!"
         },
         {
             "name": "Copano Rickey",
-            "text": "Let's go help them out! Nothing can stop the combined \npower of trainees and feng shui☆"
+            "text": "Let's go help them out! Nothing can stop the combined \npower of horsegirls and feng shui☆"
         },
         {
             "name": "Hokko Tarumae",
@@ -93,6 +94,5 @@
             "name": "Everyone",
             "text": "Yeaaah!!"
         }
-    ],
-    "title": "Opening"
+    ]
 }

@@ -30,12 +30,12 @@
             "text": "The fleeing Mayano Top Gun bumped into \nme, so I held her in a hurry."
         },
         {
+            "name": "Mayano Top Gun",
+            "text": "Awawawa, sorry-! Are you okay!?",
             "choice_data_list": [
                 "I'm fine. Are you ok?",
                 "I'm fine. Are you ok?"
-            ],
-            "name": "Mayano Top Gun",
-            "text": "Awawawa, sorry-! Are you okay!?"
+            ]
         },
         {
             "name": "Mayano Top Gun",
@@ -46,11 +46,11 @@
             "text": "Ehehe. You're so sweet! Are you a new \ntrainer? You can call Maya, Mayano Top Gun―"
         },
         {
+            "name": "Selection Race Official A",
+            "text": "Oh, just in time! Trainer! Can you keep an \neye on her so she doesn't go off to the track \nwithout permission again? I'm counting on you!",
             "choice_data_list": [
                 "Yes, I'll make sure."
-            ],
-            "name": "Selection Race Official A",
-            "text": "Oh, just in time! Trainer! Can you keep an \neye on her so she doesn't go off to the track \nwithout permission again? I'm counting on you!"
+            ]
         },
         {
             "name": "Mayano Top Gun",
@@ -76,7 +76,7 @@
             "text": "Despite the earlier argument, it seems that she \ndid not make it to the race. The Selection Race started \nwithout Mayano Top Gun……"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "―And, they're off! All Uma Umusume \nare running! We have Narita Brian grabbing everyone's attention, \nwhat kind of race will she show us today!?"
         },
         {
@@ -84,7 +84,7 @@
             "text": "…… I'm gonna shred you all."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Amazing positioning! Narita Brian \nis now in the leading pack!"
         },
         {
@@ -116,7 +116,7 @@
             "text": "Is it coincidence? \nOr……"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian, she's running fast! \nShe's weaving her way \nthrough the pack and pushing forward!"
         },
         {
@@ -163,12 +163,12 @@
             "text": "If it had been Mayano Top Gun, \nthen maybe―"
         },
         {
+            "name": "Mayano Top Gun",
+            "text": "Ughh, must feel nice to run! \nMaya also wanted to race～.",
             "choice_data_list": [
                 "What are you……?",
                 "What are you……?"
-            ],
-            "name": "Mayano Top Gun",
-            "text": "Ughh, must feel nice to run! \nMaya also wanted to race～."
+            ]
         },
         {
             "name": "Mayano Top Gun",

@@ -1,4 +1,5 @@
 {
+    "title": "The Spotlight is on Our Era",
     "text_block_list": [
         {
             "name": "Narita Top Road",
@@ -136,8 +137,8 @@
             "text": "I wish to begin a grand undertaking together!"
         },
         {
-            "name": "Topro and Ayabe",
-            "text": "Undertaking...?"
+            "text": "Undertaking...?",
+            "name": "Topro and Ayabe"
         },
         {
             "name": "T.M. Opera O",
@@ -187,6 +188,5 @@
             "name": "Agnes Digital",
             "text": "...I-I'll watch over them from a distance... That way I won't get in their way. I'll bleach away my aura so they don't notice me...!"
         }
-    ],
-    "title": "The Spotlight is on Our Era"
+    ]
 }

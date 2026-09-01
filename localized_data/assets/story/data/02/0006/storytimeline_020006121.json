@@ -125,7 +125,7 @@
             "text": "Yeah, do your best……!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "We'll be cheering you on, so \ngo out there and win～!"
         },
         {
@@ -139,11 +139,11 @@
             "text": "Ah, that's right, Trainer-san! I grabbed this \non the way to the trainer's room!"
         },
         {
+            "name": "Winning Ticket",
+            "text": "Here, the questionnaire for the article.",
             "choice_data_list": [
                 "Article……?"
-            ],
-            "name": "Winning Ticket",
-            "text": "Here, the questionnaire for the article."
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -201,11 +201,11 @@
             "text": "Uwooooo～nn! I was glad I got to \nsee that [Spring Tenno Sho]～!!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Me too, after seeing that race I was so \nmoved, I joined the team!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Who would have thought that McQueen-san was \nthe only member of the team, but since then \nthe team has grown～"
         },
         {
@@ -317,11 +317,11 @@
             "text": "This girl who came from Hokkaido not knowing \nright from left, more so than when we first \nmet, her gaze was diginified and strong."
         },
         {
+            "text": "She's steadily getting closer and closer to \nbeing \"Japan's #1 Uma Musume\"― when looking \nat her, I couldn't help but think that.",
             "choice_data_list": [
                 "Please win, Spe!",
                 "Please win, Spe!"
-            ],
-            "text": "She's steadily getting closer and closer to \nbeing \"Japan's #1 Uma Musume\"― when looking \nat her, I couldn't help but think that."
+            ]
         },
         {
             "name": "Special Week",

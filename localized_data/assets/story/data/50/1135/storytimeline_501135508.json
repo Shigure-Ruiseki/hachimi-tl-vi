@@ -1,15 +1,16 @@
 {
+    "title": "Race Fatigue",
     "no_wrap": true,
     "text_block_list": [
         {
             "text": "I was watching some race footage with \nStay Gold, but as the girl closed her \neyes to ponder……"
         },
         {
+            "name": "Stay Gold",
+            "text": "<i>Suuuu………… \nSuuuu…………</i>",
             "choice_data_list": [
                 "Eh, she fell asleep…?"
-            ],
-            "name": "Stay Gold",
-            "text": "<i>Suuuu………… \nSuuuu…………</i>"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -22,6 +23,5 @@
         {
             "text": "She seemed quite sleepy and was most \nlikely tired. I should reassess her race \nschedule."
         }
-    ],
-    "title": "Race Fatigue"
+    ]
 }

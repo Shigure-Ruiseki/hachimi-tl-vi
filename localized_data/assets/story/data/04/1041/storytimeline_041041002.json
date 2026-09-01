@@ -2,15 +2,15 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It's the day of the Selection Race, where the trainers scout out \nthe abilities of the trainees and form partnerships. \nI had just arrived at the grounds and as I looked around—"
+            "text": "It's the day of the Selection Race, where the trainers scout out \nthe abilities of the horsegirls and form partnerships. \nI had just arrived at the grounds and as I looked around—"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "Hey, hey, hey! You're the trainer from the other day!! \nI'm so glad you're here!!",
             "choice_data_list": [
                 "How's it going?",
                 "How's it going?"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "Hey, hey, hey! You're the trainer from the other day!! \nI'm so glad you're here!!"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
@@ -40,7 +40,7 @@
             "text": "Here I go!! Bakushin bakushin!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Sakura Bakushin O makes a quick start!! \nShe's pulling away from the rest of the field!!"
         },
         {
@@ -48,14 +48,14 @@
             "text": "I'm not done yet! \nBakushin bakushin bakushiiiiin!!!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Bakushin O leads! Bakushin O leads!! \nWhat fearsome acceleration! She's got lightning in her legs!"
         },
         {
+            "text": "(Woooooaaaaaaah!!)",
             "choice_data_list": [
                 "…!"
-            ],
-            "text": "(Woooooaaaaaaah!!)"
+            ]
         },
         {
             "text": "The race had barely started, and the audience already erupted. \nBut her performance was so amazing that my mind had already just \naccepted this bizarre scene."
@@ -76,15 +76,15 @@
             "text": "…It wasn't long before excited voices surrounded me."
         },
         {
-            "name": "Caster",
-            "text": "They've reached the fourth corner! \nEach trainee is waiting for the right moment to strike—"
+            "name": "Commentator",
+            "text": "They've reached the fourth corner! \nEach horsegirl is waiting for the right moment to strike—"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Bakushin… Bakushiiiin…"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "S-Sakura Bakushin O is dropping back!? \nWhere has her momentum gone!?"
         },
         {
@@ -99,24 +99,24 @@
             "text": "Soon, Sakura Bakushin O slipped down the rankings and \neventually finished in 12th place…"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "Gahh, 12th place…! \nThe disappointment…!",
             "choice_data_list": [
                 "Your start was great, too bad.",
                 "You started great, it's a shame."
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "Gahh, 12th place…! \nThe disappointment…!"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
             "text": "No… everyone was fast this time!"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "Honestly acknowledging competitors is \nwhat makes a class president!! \nWah, so noble, I could be a princess!!",
             "choice_data_list": [
                 "You say yourself…",
                 "You say yourself…"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "Honestly acknowledging competitors is \nwhat makes a class president!! \nWah, so noble, I could be a princess!!"
+            ]
         },
         {
             "name": "Experienced Trainer A",
@@ -170,34 +170,34 @@
             "text": "Speaking of — you've been standing there watching me \nfor a while now! Don't you have something to say to me!?"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "Or… were you planning to recruit me as a \"sprinter\" too?",
             "choice_data_list": [
                 "Uhh…"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "Or… were you planning to recruit me as a \"sprinter\" too?"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
             "text": "If you can't resolutely give me a \"NO\", then — as much as it \npains me — I must decline!"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "I'm sorry! I juuuust can't seem to \nlimit myself to short distances!",
             "choice_data_list": [
                 "Why are you so particular about that?",
                 "Why are you so particular about this?"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "I'm sorry! I juuuust can't seem to \nlimit myself to short distances!"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
             "text": "That's because I am the class president!!!!"
         },
         {
+            "name": "Sakura Bakushin O",
+            "text": "Here's a question for you! Name a G1 race \nthat is not a sprint race. Go on!",
             "choice_data_list": [
                 "Japan Derby, Tenno Sho, Arima Kinen…"
-            ],
-            "name": "Sakura Bakushin O",
-            "text": "Here's a question for you! Name a G1 race \nthat is not a sprint race. Go on!"
+            ]
         },
         {
             "name": "Sakura Bakushin O",
@@ -217,7 +217,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What do you think of when you hear the \nphrase \"exemplary trainee\"?"
+            "text": "What do you think of when you hear the \nphrase \"exemplary horsegirl\"?"
         },
         {
             "name": "Sakura Bakushin O",

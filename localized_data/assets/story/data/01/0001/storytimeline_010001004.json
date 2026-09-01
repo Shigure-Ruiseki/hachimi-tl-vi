@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Director Akikawa",
-            "text": "Splendid! You reached your goal! Well\ndone! Bravo!"
+            "name": "Chairwoman Akikawa",
+            "text": "Splendid!! You've completed your goal!! \nApplause!! Applause!!!!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "The goals that you're after will differ\ndepending on the Umamusume."
+            "name": "Hayakawa Tazuna",
+            "text": "Depending on the horsegirl you're training, \ntheir goals will be different."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Please help your trainees reach their\ngoals during their Careers!"
+            "name": "Hayakawa Tazuna",
+            "text": "When you're training, please train your horse \ngirl with the aim of achieving her goals!"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The one to claim the glory of the Derby Uma Musume, is Special \nWeek! A loud cheer rings out from the crowd!"
         },
         {
@@ -89,11 +89,11 @@
             "text": "On your [Derby] victory, congratulations…!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Spe-san, your intensity \nwas completely different from the usual!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Yeah… yeah… \non that last stretch, you were really coooool～…!"
         },
         {
@@ -156,10 +156,10 @@
             "text": "Among those considered the \"Golden Generation\", the one to \nobtain the title of \"Derby Uma Musume\" was Special Week."
         },
         {
+            "text": "It was almost as if that title, had come to symbolize the \nstrength of her feelings in regards to her dream.",
             "choice_data_list": [
                 "From now on, we'll keep on running!"
-            ],
-            "text": "It was almost as if that title, had come to symbolize the \nstrength of her feelings in regards to her dream."
+            ]
         },
         {
             "name": "Special Week",

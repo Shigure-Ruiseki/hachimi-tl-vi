@@ -1,4 +1,5 @@
 {
+    "title": "All Refreshed",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -10,11 +11,11 @@
             "text": "I'm gonna leave it on the windowsill."
         },
         {
+            "name": "Stay Gold",
+            "text": "Oh, what's up? You say your room is \nbustling with all sorts of tchotchkes \nnow?",
             "choice_data_list": [
                 "It's all thanks to you"
-            ],
-            "name": "Stay Gold",
-            "text": "Oh, what's up? You say your room is \nbustling with all sorts of tchotchkes \nnow?"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -23,6 +24,5 @@
         {
             "text": "After Stay Gold popped the bear \non the windowsill, we chatted on \nabout her trip."
         }
-    ],
-    "title": "All Refreshed"
+    ]
 }

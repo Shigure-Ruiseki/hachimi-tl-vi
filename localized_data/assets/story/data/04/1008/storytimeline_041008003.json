@@ -5,20 +5,20 @@
             "text": "Just a little longer until the \nmain event of the event――"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Did you hear? It looks like a lot \nof girls declined just because Bryan-senpai \nwas in the 10th group…"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "I heard, I heard! That group was the only ones \nin the GI class. I'm so glad I declined…"
         },
         {
+            "name": "Vodka",
+            "text": "…Hmm, so that's what happened.",
             "choice_data_list": [
                 "…Are you okay?",
                 "…Are you okay?"
-            ],
-            "name": "Vodka",
-            "text": "…Hmm, so that's what happened."
+            ]
         },
         {
             "name": "Vodka",
@@ -41,11 +41,11 @@
             "text": "Even in the event race, the teachers and \ntrainers were watching closely, so I could \nunderstand what they were saying."
         },
         {
+            "name": "Vodka",
+            "text": "But I'm not going to withdraw.",
             "choice_data_list": [
                 "Resigning from the position?"
-            ],
-            "name": "Vodka",
-            "text": "But I'm not going to withdraw."
+            ]
         },
         {
             "name": "Vodka",
@@ -69,11 +69,11 @@
             "text": "(Waaaaaaah!!)"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Please listen to this cheer! The star of the \n10th race, 2000 meters of grass, is just as \nexcited as the GI race!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's a fearsome 'monster', Naritabrian!!"
         },
         {
@@ -134,7 +134,7 @@
             "text": "All right…!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Vodka stepped forward here! She dodged the group \nwith supple acceleration!!"
         },
         {
@@ -160,7 +160,7 @@
             "text": "…I'll decide!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "She's here, Naritablyan! She's here, she's here, \nshe's here, she's here, she's here, she's here, \nshe's here, she's here!"
         },
         {
@@ -168,7 +168,7 @@
             "text": "Damn iiiiiiit!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Vodka's going to pick up speed, too! But is the \ngap going to be tough?! She's headed by \nNaritabrian, and she's only five to six!"
         },
         {
@@ -180,7 +180,7 @@
             "text": "I can't……I can't keep up……"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Naritabrian, goooooooh!! You showed me a \nmagnificent run worthy of being overwhelming!!"
         },
         {
@@ -191,19 +191,19 @@
             "text": "That was a pretty reckless challenge."
         },
         {
+            "name": "Veteran Trainer A",
+            "text": "Yes. If she had chosen the right stage, she \nwould have been the star.",
             "choice_data_list": [
                 "Hey, if you insult her already――",
                 "If you insult her a little…"
-            ],
-            "name": "Veteran Trainer A",
-            "text": "Yes. If she had chosen the right stage, she \nwould have been the star."
+            ]
         },
         {
+            "name": "Vodka",
+            "text": "Hey now, what's with that scary \nlook on your face, trainer?",
             "choice_data_list": [
                 "Vodka…"
-            ],
-            "name": "Vodka",
-            "text": "Hey now, what's with that scary \nlook on your face, trainer?"
+            ]
         },
         {
             "name": "Vodka",

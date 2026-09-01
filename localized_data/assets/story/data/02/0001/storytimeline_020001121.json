@@ -108,15 +108,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Have I… really become such a trainee in the eyes of others?"
+            "text": "Have I… really become such a horsegirl in the eyes of others?"
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "Am I really their ace? Am I inspiring everyone to chase their dreams?",
             "choice_data_list": [
                 "Of course you are.",
                 "Of course you are."
-            ],
-            "name": "Mejiro McQueen",
-            "text": "Am I really their ace? Am I inspiring everyone to chase their dreams?"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -182,11 +182,11 @@
             "text": "You go, McQueen!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "I'm always, always going to believe in you!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Let's go, ace!"
         },
         {
@@ -194,7 +194,7 @@
             "text": "You know, that was pretty cool, McQueen."
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Let's keep running together for as long as we can!"
         },
         {
@@ -216,11 +216,11 @@
             "text": "Phew…"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Aahhh… I'm getting all nervous!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Yeah, why does it feel like this when it's not even our race?"
         },
         {
@@ -232,11 +232,11 @@
             "text": "And that is exactly what is going to propel me forward today."
         },
         {
+            "name": "Gold Ship",
+            "text": "Get out there and snatch that Grand Prix Horsegirl title, \nMcQueen!",
             "choice_data_list": [
                 "Good luck, McQueen."
-            ],
-            "name": "Gold Ship",
-            "text": "Get out there and snatch that Grand Prix Trainee title, \nMcQueen!"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -249,7 +249,7 @@
             "text": "One year ago, Oguri Cap made a miracle happen at the Arima Kinen. \nAnd today, we stand ready to make our mark at the very same race."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Welcome to the year's final major bout, the Arima Kinen! The race is \nabout to start!"
         }
     ]

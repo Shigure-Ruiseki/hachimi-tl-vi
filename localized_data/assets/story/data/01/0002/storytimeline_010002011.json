@@ -2,23 +2,23 @@
     "no_wrap": true,
     "text_block_list": [
         {
+            "name": "Hayakawa Tazuna",
+            "text": "For inheritance, their “compatibility” is \ndetermined by the relationship between \nthe trained horsegirl and her successors.",
             "color_text_info_list": [
-                "affinity"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "The two selected Legacy Umamusume\nand your Trainee Umamusume have an\naffinity level determined by their\nrelationship."
+                "compatibility"
+            ]
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "If they have good compatibility, \nyou're a little more likely to have \ngood things happen to them!",
             "color_text_info_list": [
-                "something nice",
-                "a little more likely"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "It's said that if they share a good\naffinity, it becomes a little more likely\nfor something nice to happen."
+                "you're a little more likely to have",
+                "good things"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "This might be good to remember when\nyou're making arrangements in the\nfuture. ♪"
+            "name": "Hayakawa Tazuna",
+            "text": "You may want to keep this in mind as a \nreference for future combinations! ♪"
         }
     ]
 }

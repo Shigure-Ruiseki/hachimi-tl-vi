@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's Rice Shower! Rice Shower did not back down! An excellent finish \nin first!"
         },
         {
@@ -18,7 +18,7 @@
             "text": "And before long, the day of the Tenno Sho arrives."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In bracket two, post three, it's the sable stayer who denied Mihono \nBourbon her Triple Crown — Rice Shower!"
         },
         {
@@ -35,7 +35,7 @@
             "text": "Meanwhile, the crowd favorite is, of course…"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In bracket eight, post fourteen, today's favorite with a third straight \nspring Tenno Sho on the line, it's the queen herself — Mejiro \nMcQueen!"
         },
         {
@@ -89,10 +89,10 @@
             "text": "I <i>will</i> be the first to cross that finish line."
         },
         {
+            "text": "I can't detect a single trace of hesitation in her eyes. She means every \nword.",
             "choice_data_list": [
                 "Well, you can add my hopes in there as well."
-            ],
-            "text": "I can't detect a single trace of hesitation in her eyes. She means every \nword."
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -106,10 +106,10 @@
             "text": "Oh, Trainer…"
         },
         {
-            "text": "Nervous? The trick is to write \"trainee\" on your palm and swallow \nthe word three times."
+            "text": "Nervous? The trick is to write \"horsegirl\" on your palm and swallow \nthe word three times."
         },
         {
-            "text": "Nervous? The trick is to write \"trainee\" on your palm and swallow \nthe word three times."
+            "text": "Nervous? The trick is to write \"horsegirl\" on your palm and swallow \nthe word three times."
         },
         {
             "name": "Rice Shower",
@@ -158,19 +158,19 @@
             "text": "There's a… \"sight\" she wants me to see?"
         },
         {
+            "name": "Rice Shower",
+            "text": "…Okay. I'll see it for myself.",
             "choice_data_list": [
                 "Now go get that win!",
                 "Now go get that win!"
-            ],
-            "name": "Rice Shower",
-            "text": "…Okay. I'll see it for myself."
+            ]
         },
         {
             "name": "Rice Shower",
             "text": "Mm. I will, Trainer."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "They're lining up in the gate. The spring Tenno Sho — who will the \nglory go to?"
         },
         {
@@ -186,7 +186,7 @@
             "text": "(Well I'll be… Wasn't expecting to feel so much pressure from Rice.)"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Oh, and here's the favorite, three-time hopeful Mejiro McQueen \nshowing hesitation before the gate."
         },
         {
@@ -198,11 +198,11 @@
             "text": "…"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "There we go, Mejiro McQueen is in the gate."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The spring Tenno Sho. Glory is 3 200 meters away. And… they're off!"
         }
     ]

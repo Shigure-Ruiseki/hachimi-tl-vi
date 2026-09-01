@@ -1,4 +1,5 @@
 {
+    "title": "The Camaraderie",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -98,7 +99,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "So then we've this <i>Verse of Solace</i> thing. \nOne of us gotta read an emotional scripture offering \npraise 'n solace for ancient trainees' wishes."
+            "text": "So then we've this <i>Verse of Solace</i> thing. \nOne of us gotta read an emotional scripture offering \npraise 'n solace for ancient horsegirls' wishes."
         },
         {
             "name": "Oguri Cap",
@@ -212,6 +213,5 @@
             "name": "Tamamo Cross",
             "text": "…… Say, an idea jus' hit me! \nListen up, friends ——"
         }
-    ],
-    "title": "The Camaraderie"
+    ]
 }

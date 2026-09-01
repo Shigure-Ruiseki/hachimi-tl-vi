@@ -35,7 +35,7 @@
         },
         {
             "name": "Student B",
-            "text": "Seriously, we're no trainees, but I bet we could win against you!"
+            "text": "Seriously, we're no horsegirls, but I bet we could win against you!"
         },
         {
             "name": "Student A",
@@ -112,29 +112,29 @@
             "text": "Winning Ticket is entering the final stage of her training. Today, I'm \nhaving her do runs outside the academy."
         },
         {
+            "name": "Winning Ticket",
+            "text": "I'm so full of energy! Let's get this extra training going!",
             "choice_data_list": [
                 "That's the spirit! Keep it up until the race!"
-            ],
-            "name": "Winning Ticket",
-            "text": "I'm so full of energy! Let's get this extra training going!"
+            ]
         },
         {
             "name": "Winning Ticket",
             "text": "Yeah! All riiight! Time to get fired UP!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Ah, it's Winning Ticket and her trainer. I take it you're about to start \ntraining."
         },
         {
             "text": "Sure are. Why, what's up?"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Well, you see, a group of reporters have gathered in front of the \nacademy."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "I'm thinking of asking them to leave so they don't interfere with \ntraining. There are only a few days left until the Satsuki Sho, after all."
         },
         {
@@ -145,7 +145,7 @@
             "text": "Oh, let me talk to them! No way could Iet down any fans or reporters!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Oh? But your training…"
         },
         {
@@ -153,12 +153,12 @@
             "text": "It's fine! I'm not trying to skip it or anything. I'm still gonna do exactly \nas we planned!"
         },
         {
+            "name": "Winning Ticket",
+            "text": "So! Looks like I'll be at it until curfew! You'll stick with me the whole \ntime, right?",
             "choice_data_list": [
                 "Yeah, you've got it.",
                 "Yeah, you've got it."
-            ],
-            "name": "Winning Ticket",
-            "text": "So! Looks like I'll be at it until curfew! You'll stick with me the whole \ntime, right?"
+            ]
         },
         {
             "name": "Winning Ticket",
@@ -255,12 +255,12 @@
             "text": "We've trained hard for this though. You're in tip-top shape. All that's \nleft is to race up a storm and take the crown!"
         },
         {
+            "name": "Winning Ticket",
+            "text": "Taishin and Hayahide will be with me too! So I'll be able to go all out!",
             "choice_data_list": [
                 "You've got this!",
                 "You've got this!"
-            ],
-            "name": "Winning Ticket",
-            "text": "Taishin and Hayahide will be with me too! So I'll be able to go all out!"
+            ]
         },
         {
             "name": "Winning Ticket",
@@ -303,14 +303,14 @@
             "text": "Yeah! I don't intend to lose either!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Expectations are high for the favorite racer entering now — BNW \nmember, Winning Ticket!"
         },
         {
             "text": "Winning Ticket gives a big wave to her fans in the stands as she \nheads for the starting gate."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The runners are entering the gate! The first race of the Classics, the \nSatsuki Sho… begins!"
         }
     ]

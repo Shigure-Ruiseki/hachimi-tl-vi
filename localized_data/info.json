@@ -1,5 +1,5 @@
 {
-    "name": "UmaTL Shiruge Ruiseki fork",
+    "name": "UmaTL",
     "description": "The first and main translation patch feeding multiple Uma projects, continued for Hachimi. Original translation of all game parts supplemented by community contributions and global imports. Combining natural English localization with a Japanese-first approach and a focus on retaining lore.",
     "homepage": "https://umatl.noccu.art",
     "links": [
@@ -25,7 +25,7 @@
         ]
     ],
     "language": "en",
-    "changelog_url": "https://raw.githubusercontent.com/Shiruge-Ruiseki/hachimi-tl-en/main/changelog.md",
+    "changelog_url": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/main/changelog.md",
     "maintainer": "noccu",
     "contributors": "https://github.com/UmaTL/hachimi-tl-en/wiki/Translation-Progress"
 }

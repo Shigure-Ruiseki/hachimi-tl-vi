@@ -5,19 +5,19 @@
             "text": "Brian's whirlwind of a record, Triple Crown and beyond, continues \ninto the new year."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "They've passed the final corner into the last stretch! Narita Brian has \nalready taken the lead!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "She's blasted ahead! Brian's lead is only growing now!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "She's unchallenged — no one can catch up to her six — no, seven-length \nlead! And that's the finish!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "There was never any doubt! Narita Brian's won the Hanshin Daishoten!"
         },
         {
@@ -173,11 +173,11 @@
             "text": "I'll do my best to make sure she's ready to perform at her peak."
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "Oh!",
             "choice_data_list": [
                 "What's wrong?"
-            ],
-            "name": "Mejiro McQueen",
-            "text": "Oh!"
+            ]
         },
         {
             "name": "Mejiro McQueen",

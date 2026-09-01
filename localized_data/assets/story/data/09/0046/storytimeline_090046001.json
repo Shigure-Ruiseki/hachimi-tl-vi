@@ -1,4 +1,5 @@
 {
+    "title": "Welcome to the Satono Resort",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -230,6 +231,5 @@
             "name": "Cheval Grand",
             "text": "Like this! \n……….Eh?"
         }
-    ],
-    "title": "Welcome to the Satono Resort"
+    ]
 }

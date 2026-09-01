@@ -25,7 +25,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Even the whippersnappers know 'er. Ey, Star Trainee?"
+            "text": "Even the whippersnappers know 'er. Ey, Star Horsegirl?"
         },
         {
             "name": "Mejiro McQueen",
@@ -68,14 +68,14 @@
             "text": "Would you <i>please</i> make up your mind?"
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "Good morning, everyone.",
             "choice_data_list": [
                 "Morning, McQueen."
-            ],
-            "name": "Mejiro McQueen",
-            "text": "Good morning, everyone."
+            ]
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "McQueen, good news! It looks like there are a ton more people \nasking to transfer into our team!"
         },
         {
@@ -83,15 +83,15 @@
             "text": "My, the applications haven't stopped since the Kyoto Daishoten."
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "It's all thanks to your efforts, McQueen."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "It would be super amazing if you could also win the autumn Tenno \nSho. Imagine winning both spring and fall!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "The number of new applicants would be through the roof!"
         },
         {
@@ -108,11 +108,11 @@
             "text": "It's been a while since Team Sirius has had this much attention. \nProbably not since the heyday of the last trainer."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Oh, we are <i>so</i> back."
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "You've got my front-row cheers!"
         },
         {
@@ -168,11 +168,11 @@
             "text": "I'm still feeling pretty good, so I'll be taking another lap."
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Oh, then I'm going to go for another one, too."
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Me too! If McQueen can still do it, so can we!"
         },
         {
@@ -180,11 +180,11 @@
             "text": "Hm? Please don't force yourselves…"
         },
         {
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "Nah, it's fine! Seeing you run gives us the power!",
             "choice_data_list": [
                 "All right, just a bit more."
-            ],
-            "name": "Trainee with Straight-cut Bangs",
-            "text": "Nah, it's fine! Seeing you run gives us the power!"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -205,14 +205,14 @@
             "text": "She very much is the heart and soul of Team Sirius."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Trainer!"
         },
         {
             "text": "Tazuna! You need me?"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "There's something I'd like to discuss with you concerning McQueen."
         }
     ]

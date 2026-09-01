@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
+            "text": "On this day, a meeting was being held to discuss improvements \non how to fully utilize the training course, but――",
             "choice_data_list": [
                 "Thank you for today……!"
-            ],
-            "text": "On this day, a meeting was being held to discuss improvements \non how to fully utilize the training course, but――"
+            ]
         },
         {
+            "text": "I had presented a proposal, but it was rejected. \nA different trainer's proposal would be considered instead.",
             "choice_data_list": [
                 "Haa……"
-            ],
-            "text": "I had presented a proposal, but it was rejected. \nA different trainer's proposal would be considered instead."
+            ]
         },
         {
             "text": "………… \n……At a time like this, what would she say?"
@@ -29,10 +29,10 @@
             "text": "Put it all together, and it's very Marvelous☆ \nWith the new proposal, the proposal after it will be even better★"
         },
         {
+            "text": "……She'd probably say something like that. I can't stay down \nforever. I'll work harder so next time they'll choose mine.",
             "choice_data_list": [
                 "(Yeah, we'll do this marvelously!)"
-            ],
-            "text": "……She'd probably say something like that. I can't stay down \nforever. I'll work harder so next time they'll choose mine."
+            ]
         },
         {
             "text": "What a wonderful word."
@@ -41,18 +41,18 @@
             "text": "Just thinking about that word makes me feel bright and positive. \nIt kind of makes you want to just say it out loud――!"
         },
         {
+            "name": "???",
+            "text": "Marvelous☆★☆",
             "choice_data_list": [
                 "!?!? T-this voice――"
-            ],
-            "name": "???",
-            "text": "Marvelous☆★☆"
+            ]
         },
         {
             "name": "Marvelous Sunday",
             "text": "Congratulations! You passed! \nHow very Marvelous★"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "No, it's not. It true that I avoided failing but…… \nMy score is better than before but it's still below average……"
         },
         {
@@ -60,7 +60,7 @@
             "text": "No! That's not true!"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "E-eeh!? W-where is this……!?"
         },
         {
@@ -84,7 +84,7 @@
             "text": "That's why――"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Huh……just now, what was that……?"
         },
         {
@@ -92,42 +92,42 @@
             "text": "This result was Marvelous☆ \nYou need to be more and more happy about this Marvelous★"
         },
         {
+            "name": "Horsegirl A",
+            "text": "……you're right. \nMy score has gone up, hasn't it……?",
             "choice_data_list": [
                 "Try believing in yourself more!"
-            ],
-            "name": "Trainee A",
-            "text": "……you're right. \nMy score has gone up, hasn't it……?"
+            ]
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Ah, you're Marvelous-san's……!"
         },
         {
+            "name": "Horsegirl A",
+            "text": "……Believe in myself……\nYeah, I……was able to increase my score all by myself.",
             "choice_data_list": [
                 "Yeah! Next time you'll do better!",
                 "Yeah! Next time you'll do better!"
-            ],
-            "name": "Trainee A",
-            "text": "……Believe in myself……\nYeah, I……was able to increase my score all by myself."
+            ]
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Right……yeah! \nI'm starting to feel a little more confident in myself!"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "I'll be able to do my best for the next test too! \nBoth of you, thank you very much!"
         },
         {
             "text": "After saying that, she left with a smile on her face."
         },
         {
+            "name": "Marvelous Sunday",
+            "text": "Ahahaa! She had a nice smile on her face, huh! \nHer and Trainer too! Very happy smiles, Marvelous☆",
             "choice_data_list": [
                 "Me too?",
                 "Me too?"
-            ],
-            "name": "Marvelous Sunday",
-            "text": "Ahahaa! She had a nice smile on her face, huh! \nHer and Trainer too! Very happy smiles, Marvelous☆"
+            ]
         },
         {
             "name": "Marvelous Sunday",

@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "The race is from the 1st swimmer to the 2nd runner. The retirees \nmove to the kitchen to work on the mission!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "An unadjusted powdered sports drink was prepared for the mission. \nIngredients and some cooking sprinkles must be added to this, \nand it must be delivered to the 3rd runner!"
         },
         {
@@ -26,7 +26,7 @@
             "text": "Wow～, there are so many various ingredients! I wonder which ones \nI should mix♪ Prunes, cinnamon… what is that?"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Admire Vega, finished making her drink and is headed towards the \n3rd runner! Satono Diamond is following!"
         },
         {
@@ -34,7 +34,7 @@
             "text": "Um, um, Well… after that… If I manage to add yogurt with this \npudding, then it should be okay! And finally, take a look!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "At the 2nd relay station, the 3rd runners will start to standby. \nWe will soon see the leading Admire Vega!"
         },
         {
@@ -54,7 +54,7 @@
             "text": "Ah… I won't let you! Haaaaaa!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Admire Vega and Satono Diamond spurt together! They push the \nfollow-up at once! As it is, baton touch to the 3rd runner!!"
         },
         {
@@ -62,7 +62,7 @@
             "text": "Bakushin, Bakushin―!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Sakura Bakushin O, is riding her bicycle at a rapid \nacceleration!! She's going to catch up with Meisho Doto!"
         },
         {
@@ -74,15 +74,15 @@
             "text": "It's okay!! Leave it to me! Only a little left, fight!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "In the 3rd section they're approaching the mountain in the \nmiddle leg. The route splits into 3 here. Do you choose the \nshorter route over a steep mountain slopeー"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Or the long riverbed route around the mountain? Or compromise on \nthe 3rd route? The leader, Meisho Doto, has chosen the latter and \ncontinues along the in-between hill route."
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Meisho Doto, got off her bike and took off her helmet. She seems \nto be drinking the drink she received from the 2nd runner!"
         },
         {
@@ -117,7 +117,7 @@
             "text": "Sob, my bike… Ahhh!? The chain is out of \nit… this is, this is broken… Sob～!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Sakura Bakushin O has choses the riverbed route around the \nmountain. Even though she is not good at long distances, she \nstill chose the longest course!"
         },
         {
@@ -153,11 +153,11 @@
             "text": "But, I have to go… Top Road-san is waiting for me…! \nUntil the end… Until the end… I have to～!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Who will be the first player to appear at the 3rd relay station \nwhere the anchor is waiting? The cheers are getting closer and \ncloser! And the one in the lead isー"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Sakura Bakushin O, unbelievable It's Sakura Bakushin O-san!! From \nthe rear, Mejiro Ryan and Meisho Doto are chasing!!"
         },
         {
@@ -209,7 +209,7 @@
             "text": "Doto-chan! It's okay! You're almost there!!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "On the lead is Sakura Bakushin O, and now she baton touched to \nKitasan Black while keeping the lead!!"
         }
     ]

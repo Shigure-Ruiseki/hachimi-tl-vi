@@ -1,4 +1,5 @@
 {
+    "title": "poco a poco : Harmonize our voices?",
     "text_block_list": [
         {
             "name": "Hishi Miracle",
@@ -201,8 +202,8 @@
             "text": "(The songstress for but one night, with her liege watching over her —— ME! Ahh, on this evening, your knight shall sing for you a song of admiration!)"
         },
         {
-            "name": "Durandal",
-            "text": "Laaaa～♪ \nLalalaaaaa～♪"
+            "text": "Laaaa～♪ \nLalalaaaaa～♪",
+            "name": "Durandal"
         },
         {
             "name": "K.S. Miracle",
@@ -220,6 +221,5 @@
             "name": "Hishi Miracle",
             "text": "Kei-chan's… she's pretty awesome, huh?"
         }
-    ],
-    "title": "poco a poco : Harmonize our voices?"
+    ]
 }

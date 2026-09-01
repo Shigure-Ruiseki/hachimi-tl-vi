@@ -2,28 +2,28 @@
     "no_wrap": true,
     "text_block_list": [
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Horsegirls each have their own aptitudes \nfor <i>distances</i> and <i>track types</i>.",
             "color_text_info_list": [
                 "distances",
-                "tracks"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Every Umamusume excels in particular\ndistances and tracks."
+                "track types"
+            ]
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Make sure you pay attention to that \nwhen creating your teams!",
             "color_text_info_list": [
-                "form teams based on the",
-                "aptitudes of your racers"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "The trick is to form teams based on the\naptitudes of your racers!"
+                "pay attention",
+                "creating your teams"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Also note that, as you go, adding more\nhighly skilled Veteran Umamusume to\nyour team will raise your Team Rank."
+            "name": "Hayakawa Tazuna",
+            "text": "Also, as you field stronger and stronger \nhorsegirls, your team rank will increase."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Let's continue training strong runners to\nraise your Team Rank higher and higher!\nIt's a great way to show your ability. ♪"
+            "name": "Hayakawa Tazuna",
+            "text": "Raise strong girls, and raise your team rank \nto the highest tiers! That's where you get to \nshow off your skills isn't it, trainer♪"
         }
     ]
 }

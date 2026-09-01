@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
+            "name": "Nice Nature",
+            "text": "Ugh… I don't need this. They're all here, look…",
             "choice_data_list": [
                 "Huh? Who is?"
-            ],
-            "name": "Nice Nature",
-            "text": "Ugh… I don't need this. They're all here, look…"
+            ]
         },
         {
             "name": "Nice Nature",
@@ -17,12 +17,12 @@
             "text": "And who's that they're sat next to? All the local \nfolks from the neighborhood here! And they're \nall getting on like a house on fire!"
         },
         {
+            "name": "Nice Nature",
+            "text": "Getting all excited over little old me… I tell you, it's like \nsome kind of family reunion up there!",
             "choice_data_list": [
                 "So instead of two fan clubs, now you've got one big one!",
                 "So instead of two fan clubs, now you've got one big one!"
-            ],
-            "name": "Nice Nature",
-            "text": "Getting all excited over little old me… I tell you, it's like \nsome kind of family reunion up there!"
+            ]
         },
         {
             "name": "Nice Nature",
@@ -46,7 +46,7 @@
             "text": "Ha, hah, ha, haa…!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "They're rounding the first corner now and it's Nice Nature in 4th \nposition, but all eyes are on Tokai Teio, a length behind in 5th…"
         },
         {
@@ -62,7 +62,7 @@
             "text": "Heh. See ya later!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And Tokai Teio makes her move, she \npowers to the front of the pack…!"
         },
         {
@@ -78,11 +78,11 @@
             "text": "Gaaah…!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Nice nature breaks away from the group and takes off in pursuit \nas they round the last corner!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's still Tokai Teio, Tokai Teio leads with Nice Nature in 3rd, \nshe's giving it everything to try and bridge the gap…"
         },
         {
@@ -90,11 +90,11 @@
             "text": "Hah, ha, hah…! Aaaaaaaghh!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Tokai Teio leads by 2 lengths… 2½… 3 lengths now and she is HOME!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's another commanding victory for Tokai Teio!"
         },
         {
@@ -164,12 +164,12 @@
             "text": "I don't… what is…"
         },
         {
+            "name": "Nice Nature",
+            "text": "What are they talking about? \"Inspiration\"? \nMe? But… but I didn't…",
             "choice_data_list": [
                 "You're a hero to a lot of people, you know.",
                 "You're a hero to a lot of people, you know."
-            ],
-            "name": "Nice Nature",
-            "text": "What are they talking about? \"Inspiration\"? \nMe? But… but I didn't…"
+            ]
         },
         {
             "name": "Nice Nature",
@@ -204,29 +204,29 @@
             "text": "But… but… but come on…!"
         },
         {
+            "name": "Nice Nature",
+            "text": "I don't want this to be all there is!",
             "choice_data_list": [
                 "Yeah. I know, right?"
-            ],
-            "name": "Nice Nature",
-            "text": "I don't want this to be all there is!"
+            ]
         },
         {
             "name": "Nice Nature",
             "text": "Those people support me… they cheer for me, \nthey look to me for inspriation. Me!!!"
         },
         {
+            "name": "Nice Nature",
+            "text": "So I have to do it for them. I have to give them what they want \nto see. I have to shine… I have to win!",
             "choice_data_list": [
                 "I've been waiting to hear you say that."
-            ],
-            "name": "Nice Nature",
-            "text": "So I have to do it for them. I have to give them what they want \nto see. I have to shine… I have to win!"
+            ]
         },
         {
+            "name": "Nice Nature",
+            "text": "Trainer-san…",
             "choice_data_list": [
                 "From now on, we're racing for 1st place."
-            ],
-            "name": "Nice Nature",
-            "text": "Trainer-san…"
+            ]
         },
         {
             "name": "Nice Nature",
@@ -241,11 +241,11 @@
             "text": "Sorry for not giving you a straight \"yes\". I guess… I'm not brave \nenough to say that sort of thing out loud just yet."
         },
         {
+            "name": "Nice Nature",
+            "text": "But… umm… you know. If you say you \nwant to… like… go for it, then…",
             "choice_data_list": [
                 "Let's go for it. Together!"
-            ],
-            "name": "Nice Nature",
-            "text": "But… umm… you know. If you say you \nwant to… like… go for it, then…"
+            ]
         },
         {
             "name": "Nice Nature",

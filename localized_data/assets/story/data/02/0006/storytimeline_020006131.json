@@ -17,19 +17,19 @@
             "text": "And then――"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Bathed in sunlight, the Kyoto race course！ \nAiming for the glory of the trophy, 12 Uma Musume have gathered！"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "As expected, the center of attention \nis last year's champion, Mejiro Bright！"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And then we have the challengers from the \"Golden \nGeneration\", the Kikka Sho Uma Musume Seiun Sky, \nand the Derby Uma Musume Special Week!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In this three-way battle, what result awaits us, \nas the crowded stands gaze on with bated breath！？"
         },
         {
@@ -72,26 +72,26 @@
             "text": "We'll cheer you on lots too……！"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Do your best, Special Week-san！"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "We believe you'll be the one to cross the goal first！"
         },
         {
+            "text": "Your form during training was the best so far, \nall that's left is to have confidence in yourself, \nthe results will definitely follow.",
             "choice_data_list": [
                 "Show us you can take that trophy！",
                 "Show us you can take that trophy！"
-            ],
-            "text": "Your form during training was the best so far, \nall that's left is to have confidence in yourself, \nthe results will definitely follow."
+            ]
         },
         {
+            "text": "Your form during training was the best so far, \nall that's left is to have confidence in yourself, \nthe results will definitely follow.",
             "choice_data_list": [
                 "Show us you can take that trophy！",
                 "Show us you can take that trophy！"
-            ],
-            "text": "Your form during training was the best so far, \nall that's left is to have confidence in yourself, \nthe results will definitely follow."
+            ]
         },
         {
             "name": "Special Week",
@@ -150,15 +150,15 @@
             "text": "Well then, let's get going."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Now, for these 12 excellent contestants, \nthe curtain rises on this long 3200m battle！"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Will it be last year's champion who crosses the \ngoal first?! Or will it be one from the \"Golden \nGeneration\" that split the Classic crown?!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The Uma Musume have settled in their gates. \nThe 『Spring Tenno Sho』 now ―― Begins！"
         }
     ]

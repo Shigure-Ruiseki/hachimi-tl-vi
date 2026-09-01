@@ -20,7 +20,7 @@
             "text": "(<i>Waaaaaaaaaaah!</i>)"
         },
         {
-            "text": "The trackside excitement lingered after the racing trainees \nhad left. Most animated among the spectating crowd was—"
+            "text": "The trackside excitement lingered after the racing horsegirls \nhad left. Most animated among the spectating crowd was—"
         },
         {
             "name": "Ines Fujin",
@@ -43,7 +43,7 @@
             "text": "Heck yeah! I'm in!"
         },
         {
-            "name": "Spectating Trainee",
+            "name": "Spectating Horsegirl",
             "text": "Ueh, what the?! This a 2400m race, yeah?! \nHow are they gonna run that at this pace…!?"
         },
         {
@@ -87,10 +87,10 @@
             "text": "Heh… as ever, her usual sisterly energy \njust disappears when she's racing."
         },
         {
+            "text": "My pulse was racing too. I couldn't get the sight \nof her running — an animalistic figure with no \nrestraint on the turf — out of my mind.",
             "choice_data_list": [
                 "(She's a whole different beast in a race.)"
-            ],
-            "text": "My pulse was racing too. I couldn't get the sight \nof her running — an animalistic figure with no \nrestraint on the turf — out of my mind."
+            ]
         },
         {
             "name": "Mejiro Ryan",
@@ -104,12 +104,12 @@
             "text": "Oh, you're the phone person from the other day! \nI knew you were a trainer at Tracen Academy!"
         },
         {
+            "name": "Ines Fujin",
+            "text": "You've been gazing at me for a while, right? \nCan I help you?",
             "choice_data_list": [
                 "Oh, uhhh… I see you like racing.",
                 "Oh, uhhh… I see you like racing."
-            ],
-            "name": "Ines Fujin",
-            "text": "You've been gazing at me for a while, right? \nCan I help you?"
+            ]
         },
         {
             "name": "Ines Fujin",
@@ -124,11 +124,11 @@
             "text": "And when I'm out at the front, it's like my whole body tingles, \nI feel so good… it's just amazingly wonderful!"
         },
         {
+            "name": "Ines Fujin",
+            "text": "That feeling…… \nYou'd understand if you were a horsegirl, I'm sure.",
             "choice_data_list": [
                 "I think I get it just looking."
-            ],
-            "name": "Ines Fujin",
-            "text": "That feeling…… \nYou'd understand if you were a trainee, I'm sure."
+            ]
         },
         {
             "name": "Ines Fujin",
@@ -152,18 +152,18 @@
             "text": "You'd like to know me better…… I see."
         },
         {
+            "name": "Ines Fujin",
+            "text": "Then…… why don't you become my temporary trainer!",
             "choice_data_list": [
                 "Huh?!"
-            ],
-            "name": "Ines Fujin",
-            "text": "Then…… why don't you become my temporary trainer!"
+            ]
         },
         {
             "name": "Ines Fujin",
             "text": "Now, now, hear me out. I don't think it's a bad deal to you. \n… Actually, I'm gonna be running at the next Race Meet."
         },
         {
-            "text": "The Semiannual Race Meet is an in-academy event in which \ntrainees choose the races they enter themselves, \nto allow them to probe their own skills and abilities."
+            "text": "The Semiannual Race Meet is an in-academy event in which \nhorsegirls choose the races they enter themselves, \nto allow them to probe their own skills and abilities."
         },
         {
             "name": "Ines Fujin",
@@ -174,11 +174,11 @@
             "text": "But training on my own just isn't efficient enough. \nI've been thinking I'd really like to have a specialist \nto guide me. And for you —"
         },
         {
+            "name": "Ines Fujin",
+            "text": "You don't have the confidence to be a \"trainer\"— \nthe confidence to lead and be responsible for \nsomebody yet, do you?",
             "choice_data_list": [
                 "How did you―!?"
-            ],
-            "name": "Ines Fujin",
-            "text": "You don't have the confidence to be a \"trainer\"— \nthe confidence to lead and be responsible for \nsomebody yet, do you?"
+            ]
         },
         {
             "name": "Ines Fujin",

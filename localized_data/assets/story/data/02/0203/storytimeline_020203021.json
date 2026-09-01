@@ -1,4 +1,5 @@
 {
+    "title": "There's No Way, Don't Wanna!",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -178,7 +179,7 @@
             "text": "……Why?"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "——The 『Oka Sho』, the number 2 favorite, Fusaichi Pandora, \ntakes a surprising 14th! The result is an utter defeat……!"
         },
         {
@@ -321,6 +322,5 @@
             "name": "Fusaichi Pandora",
             "text": "Whoa!?"
         }
-    ],
-    "title": "There's No Way, Don't Wanna!"
+    ]
 }

@@ -77,11 +77,11 @@
             "text": "『Soon, the race will begin here at the Tokyo Race Course. \nIt's unfortunate that the sky is cloudy, but the crowd \nis still filled with tremendous excitement!』"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "『That's because, for the Classic class, this is the race to \ndecide the \"Generation's Fastest\". Where runners from the \ntriple crown, tiara, and short distance rotations gather――』"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "『To decide who stands at the pinnacle in \nterms of speed. I'm really looking forward \nto just what kind of speed they'll show us!』"
         },
         {
@@ -89,7 +89,7 @@
             "text": "『Furthermore, this time, the Oka Sho Uma Musume, Rhein Kraft, \nis participating. She's getting quite a bit of attention!』"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "『This is the first time in history the Oka \nSho Uma Musume has participated in the NHK \nMile C. What kind of run will she show us?』"
         },
         {
@@ -97,12 +97,12 @@
             "text": "『Will she win against this group of young competitors, proud of \ntheir speed, and achieve this unorthodox double crown for the \nfirst time in history? Now, the NHK Mile C will soon begin!』"
         },
         {
+            "name": "Rhein Kraft",
+            "text": "Fuu-…………",
             "choice_data_list": [
                 "……Kraft. You got this, right?",
                 "……Kraft. You got this, right?"
-            ],
-            "name": "Rhein Kraft",
-            "text": "Fuu-…………"
+            ]
         },
         {
             "name": "Rhein Kraft",
@@ -113,12 +113,12 @@
             "text": "For each of the girls participating, I've done a lot \nof investigating and analyzing. No matter what situations \narise, I think I can stay calm and handle them."
         },
         {
+            "name": "Rhein Kraft",
+            "text": "Get out front at the start, take control of the pace, and \npush through with power. I know how I should be running!",
             "choice_data_list": [
                 "Alright. ……then, go get 'em!",
                 "Alright. ……then, go get 'em!"
-            ],
-            "name": "Rhein Kraft",
-            "text": "Get out front at the start, take control of the pace, and \npush through with power. I know how I should be running!"
+            ]
         },
         {
             "name": "Rhein Kraft",

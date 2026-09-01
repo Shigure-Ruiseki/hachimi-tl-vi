@@ -1,8 +1,9 @@
 {
+    "title": "A Surprise for You Too",
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Mysterious Sunglassed Trainees",
+            "name": "Mysterious Sunglassed Horsegirls",
             "text": "Heave-ho, heave-ho!"
         },
         {
@@ -10,15 +11,15 @@
             "text": "I can't see anything! \n<i>Argh</i>, just what are you girls up to!?"
         },
         {
-            "name": "Mysterious Sunglassed Trainee 1",
+            "name": "Mysterious Sunglassed Horsegirl 1",
             "text": "She… She knows it's us, Vivlos!"
         },
         {
-            "name": "Mysterious Sunglassed Trainee 2",
+            "name": "Mysterious Sunglassed Horsegirl 2",
             "text": "Huuuh～? That's strange… \nI heard this would totally work though☆"
         },
         {
-            "name": "Mysterious Sunglassed Trainee 3",
+            "name": "Mysterious Sunglassed Horsegirl 3",
             "text": "W-Well, since we've already come this far, \nlet's just push through to the end!"
         },
         {
@@ -221,6 +222,5 @@
             "name": "Crown & Cheval",
             "text": "……<i>Hehehe</i>."
         }
-    ],
-    "title": "A Surprise for You Too"
+    ]
 }

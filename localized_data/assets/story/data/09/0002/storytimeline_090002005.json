@@ -1,4 +1,5 @@
 {
+    "title": "Vs Her Lordship",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -23,7 +24,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "Trainee Skill: Pace Chaser Up!"
+            "text": "Horsegirl Skill: Pace Up!"
         },
         {
             "name": "Director Akikawa",
@@ -35,7 +36,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Whoa, that Pace Chaser Up skill was super effective!"
+            "text": "Whoa, that Pace Up skill was super effective!"
         },
         {
             "name": "Horse Lord Golshi",
@@ -95,7 +96,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "Magic power isn't something innate to trainees. \nIf we were meant to defeat the Horse Lord, perhaps \nit wouldn't be through a spell…"
+            "text": "Magic power isn't something innate to horsegirls. \nIf we were meant to defeat the Horse Lord, perhaps \nit wouldn't be through a spell…"
         },
         {
             "name": "El Condor Pasa",
@@ -139,7 +140,7 @@
         },
         {
             "name": "Horse Lord Golshi",
-            "text": "Well, if cards aren't cutting it for you, \nlet's settle this like true trainees."
+            "text": "Well, if cards aren't cutting it for you, \nlet's settle this like true horsegirls."
         },
         {
             "name": "Horse Lord Golshi",
@@ -185,6 +186,5 @@
             "name": "Grass Wonder",
             "text": "We're about to run in a fantasy race… where blades \nwill clash and spells will soar!"
         }
-    ],
-    "title": "Vs Her Lordship"
+    ]
 }

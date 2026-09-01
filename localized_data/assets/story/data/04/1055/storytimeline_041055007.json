@@ -9,15 +9,15 @@
             "text": "And with that in mind, we were doing well during \nthis year's summer training camp. However――"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Haa, training camp is fine but……out in the countryside, \nthere aren't too many places to have fun, huh……"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "You said it~, I can't help but think……that it might \nbe a bit more fun if there were some shops at least~."
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "Signal's weak too, so I'm really bored……"
         },
         {
@@ -37,7 +37,7 @@
             "text": "If it's now, then you might be able to see some tropical \nfish depending on the tides☆ Being able to just float \naround and find pretty fish is Marvelous too★"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Oooh~, so there are tropical fish, huh~?! \nI kind of want to see them~!"
         },
         {
@@ -53,7 +53,7 @@
             "text": "Rumor has it, that this river has a king! \nIf we were able to see it, it'd be very Marvelous!"
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "A king!? If we got a picture of it, \nI bet it'd create quite a buzz!"
         },
         {
@@ -61,7 +61,7 @@
             "text": "See! Marvelous is everywhere all around us☆"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Oooh~, so there was all that nearby. I had no idea. During \nour next break, let's go take a look! Thanks, Marvelous-san!"
         },
         {
@@ -72,18 +72,18 @@
             "text": "As usual, Marvelous Sunday's positive attitude \nwas wonderful. It only took a moment to change \nthe other students' outlook to a positive one."
         },
         {
+            "text": "However, since we're at Summer Training Camp, I wonder if we \ncould find something more special――no, Marvelous, to enjoy.",
             "choice_data_list": [
                 "……I should try to find something too",
                 "……I should try to find something too"
-            ],
-            "text": "However, since we're at Summer Training Camp, I wonder if we \ncould find something more special――no, Marvelous, to enjoy."
+            ]
         },
         {
+            "name": "Marvelous Sunday",
+            "text": "Is something wrong? Your eyebrows are all scrunched up. \nWorried about something?",
             "choice_data_list": [
                 "I'm fine. Nothing to worry about!"
-            ],
-            "name": "Marvelous Sunday",
-            "text": "Is something wrong? Your eyebrows are all scrunched up. \nWorried about something?"
+            ]
         },
         {
             "name": "Marvelous Sunday",
@@ -102,12 +102,12 @@
             "text": "I was sure Marvelous Sunday and the others would \nbe overjoyed! I needed to relay this information \nASAP so we could make preparations to go!"
         },
         {
+            "name": "Marvelous Sunday",
+            "text": "Waaiii~! Welcome back☆★☆ \nEveryone here's ready to go, Trainer!",
             "choice_data_list": [
                 "E-eeh!? How did you know……?",
                 "E-eeh!? How did you know……?"
-            ],
-            "name": "Marvelous Sunday",
-            "text": "Waaiii~! Welcome back☆★☆ \nEveryone here's ready to go, Trainer!"
+            ]
         },
         {
             "name": "Marvelous Sunday",
@@ -132,10 +132,10 @@
             "text": "『If I hadn't done that, what would you have done……?』"
         },
         {
+            "text": "I'm sure the old me would have asked something like that. \nBut weirdly, those weren't the words that came out. Instead――",
             "choice_data_list": [
                 "Thanks!"
-            ],
-            "text": "I'm sure the old me would have asked something like that. \nBut weirdly, those weren't the words that came out. Instead――"
+            ]
         },
         {
             "name": "Marvelous Sunday",
@@ -145,7 +145,7 @@
             "text": "And so we all head to the next town, \nwaiting on the footpath for the festival floats to come."
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Ah……I think I hear something. \nI wonder if they're here now?"
         },
         {
@@ -153,21 +153,21 @@
             "text": "Waashoi! Waashoi!!"
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "Ahahahaa! This is great! It's flashier than I imagined! \nThis'll cause a buzz~!!"
         },
         {
+            "name": "Marvelous Sunday",
+            "text": "It will! It's Marvelous! \nMarvelous☆ Marvelous★",
             "choice_data_list": [
                 "Marvelous☆ Marvelous★"
-            ],
-            "name": "Marvelous Sunday",
-            "text": "It will! It's Marvelous! \nMarvelous☆ Marvelous★"
+            ]
         },
         {
             "text": "After that, we followed the floats in high spirits, \neventually arriving at the Summer Festival venue."
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "To think the floats would be that heavy! They let me \ntry pulling it but, doing it by myself was pretty hard~."
         },
         {
@@ -175,7 +175,7 @@
             "text": "Being able to move it by yourself is Marvelous☆ \nLet's see if they'll let us all pull it together afterwards!"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "After this, sounds like they're going to do something \nwith fireworks on them! Hand-held fireworks! I guess \nthey're fireworks you carry in your hands or something~!"
         },
         {
@@ -183,7 +183,7 @@
             "text": "Ooooh~ so there's fireworks like that! Being able to \nhold them in your hands, it sounds very Marvelous☆"
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "Ah, sounds like it's starting soon! \nLet's all go take a look!"
         },
         {
@@ -191,11 +191,11 @@
             "text": "Ahahahahaa! Everyone's Marvelous, huh☆ \nMore than usual, much much more, a happy Marvelous★"
         },
         {
+            "name": "Marvelous Sunday",
+            "text": "As I thought, rather than with just one person, with two――",
             "choice_data_list": [
                 "With two of us it's better――"
-            ],
-            "name": "Marvelous Sunday",
-            "text": "As I thought, rather than with just one person, with two――"
+            ]
         },
         {
             "name": "Marvelous Sunday",

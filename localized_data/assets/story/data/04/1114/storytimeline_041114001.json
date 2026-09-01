@@ -1,0 +1,278 @@
+{
+    "text_block_list": [
+        {
+            "text": "Dừng bước trước cổng trường, tôi khẽ chạm vào chiếc phù hiệu còn mới nguyên trên cổ áo.",
+            "choice_data_list": [
+                "...Được rồi"
+            ]
+        },
+        {
+            "text": "Lồng ngực khẽ run... Cuối cùng, từ ngày hôm nay, cuộc sống với tư cách là một Trainer Uma Musume tại Học viện Tracen chính thức bắt đầu.",
+            "choice_data_list": [
+                "Đi thôi……!"
+            ]
+        },
+        {
+            "text": "Mục tiêu... tôi vốn đã xác định từ lâu. ――Phải, từ rất lâu trước đây, nó đã luôn ở đó rồi."
+        },
+        {
+            "text": "Tôi phải chạy hết sức mình. ――Đến nơi chúng ta đã hứa\nPhải đến bên cô ấy."
+        },
+        {
+            "text": "Và――……",
+            "choice_data_list": [
+                "...Xin lỗi vì đã để em phải chờ"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――！"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "............Fufu.\nAnh không sao chứ? Mặt anh đỏ lên rồi kìa."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Nhưng mà... để đến mức như vậy...\nHẳn là anh đã hết sức chạy thật nhanh đến đây, đúng không."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Cảm ơn anh. Em đã luôn chờ đợi anh đấy.\n―― 『Torena-san』 !",
+            "choice_data_list": [
+                "……A！",
+                "……Um！"
+            ]
+        },
+        {
+            "text": "Khuôn mặt em ấy đã trưởng thành hơn xưa nhiều. Nhưng, nét rực rỡ trong trẻo ấy — thứ ánh sáng từng bao lần làm trái tim tôi rung động — từ quá khứ cho đến tận bây giờ, vẫn chẳng hề thay đổi."
+        },
+        {
+            "text": "Đó là lúc tôi gặp cô ấy lần đầu—Buena Vista.\nChuyện xảy ra vào thời cả cô ấy và tôi đều còn rất trẻ."
+        },
+        {
+            "name": "Mẹ của Buena",
+            "text": "――Nào, chào hỏi người ta đi con. Đây là <username> mới chuyển đến nhà bên cạnh đấy. Hai đứa cố gắng hòa thuận với nhau nhé.",
+            "choice_data_list": [
+                "Ừm... r-rất vui được gặp cậu, Buena-chan.",
+                "Ừm... r-rất vui được gặp cậu, Buena-chan."
+            ]
+        },
+        {
+            "name": "Mẹ của Buena",
+            "text": "――Nào, chào hỏi người ta đi con. Đây là <username> mới chuyển đến nhà bên cạnh đấy. Hai đứa cố gắng hòa thuận với nhau nhé.",
+            "choice_data_list": [
+                "Ừm... r-rất vui được gặp cậu, Buena-chan.",
+                "Ừm... r-rất vui được gặp cậu, Buena-chan."
+            ]
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "......Onii-chan......?\nƯm...... là Buu-chan ạ.......Rất vui được gặp anh?"
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "......Onii-chan......?\nƯm...... là Buu-chan ạ.......Rất vui được gặp anh?"
+        },
+        {
+            "text": "Ký ức chợt ùa về. Bàn tay nhỏ nhắn ấy rụt rè đưa ra, và khi tôi ngập ngừng nắm lấy, chiếc đuôi mềm mại phía sau em khẽ ngoắc một cái đầy thẹn thùng."
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Hức, ưng ư……! Đau lắm đúng không, khó chịu lắm đúng không…… Con cứ ho liên tục…… còn bị sốt nữa…… ưng ư……!",
+            "choice_data_list": [
+                "Em ổn mà... nên đừng khóc, Buena",
+                "Em ổn mà... nên đừng khóc, Buena"
+            ]
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng được anh trai rồi nè! Thấy sao……!?",
+            "choice_data_list": [
+                "Không, không, không! Không sao đâu—thật đấy, không sao đâu!"
+            ]
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng được anh trai rồi nè! Thấy sao……!?",
+            "choice_data_list": [
+                "Không, không, không! Không sao đâu—thật đấy, không sao đâu!"
+            ]
+        },
+        {
+            "text": "Tôi nhớ. Trước một cô bé vẫn cố chấp không chịu bỏ cuộc như thế, tôi lại thấy mình bị cuốn hút bởi sự nhạy cảm――thậm chí là quá đỗi phong phú—nơi cô ấy."
+        },
+        {
+            "text": "……Tôi nhớ. Đó là một ngày, sau khi Buena Vista đã theo học tại câu lạc bộ tập chạy dành cho các Uma Musume nhỏ được một thời gian."
+        },
+        {
+            "name": "Torena CLB",
+            "text": "Được rồi, nào các em! Chúng ta bắt đầu lượt chạy mô phỏng thôi～。Tất cả đã sẵn sàng chưa? Thế thì, chuẩn bị…… Xuất phát!!"
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "*Bịch!* ...Hyaaaah!!",
+            "choice_data_list": [
+                "……！"
+            ]
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "He he…… Ứp, vẫn chưa hết đâuuu!!\nYaaaaaaahーーーー!"
+        },
+        {
+            "text": "Lần đầu tiên tôi tận mắt chứng kiến cô ấy dốc sức chạy. Một bước chạy lại khiến trái tim tôi dội lên mãnh liệt đến sâu thẳm lòng tôi――"
+        },
+        {
+            "text": "……kết cục là đêm hôm ấy, tôi vì trằn trọc và háo hức mà chẳng thể nào chợp mắt nổi.",
+            "choice_data_list": [
+                "（Và rồi――）"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Hả, anh chọn học ở Học viện Đào tạo Huấn luyện viên thật sao!? Đã vậy lại còn là hệ Trung ương nữa……!?",
+            "choice_data_list": [
+                "Ừm... Thực ra anh đã suy nghĩ về chuyện đó từ lâu rồi.",
+                "Ừm... Thực ra anh đã suy nghĩ về chuyện đó từ lâu rồi."
+            ]
+        },
+        {
+            "text": "『Kể từ lần đầu tiên nhìn thấy em chạy, thật ra anh vẫn luôn nghĩ 』. Nói tới đó, tôi hạ quyết tâm, vỗ vào ngực mình trước mặt em.『Anh muốn――』",
+            "choice_data_list": [
+                "―Một ngày nào đó, anh muốn trở thành torena của riêng em!",
+                "―Một ngày nào đó, anh muốn trở thành torena của riêng em!"
+            ]
+        },
+        {
+            "text": "『Kể từ lần đầu tiên nhìn thấy em chạy, thật ra anh vẫn luôn nghĩ 』. Nói tới đó, tôi hạ quyết tâm, vỗ vào ngực mình trước mặt em.『Anh muốn――』",
+            "choice_data_list": [
+                "―Một ngày nào đó, anh muốn trở thành torena của riêng em!",
+                "―Một ngày nào đó, anh muốn trở thành torena của riêng em!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……!! Lời, lời đó nghĩa là――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……~~, ――Bắt đền anh luôn đó. Anh thừa biết em là đứa hay khóc nhè mà. Tự nhiên nói ra mấy lời đó…… là ăn gian rồi đấy nhé."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Nhưng mà…… cảm ơn anh.\nEm cũng sẽ cố gắng hết sức. ……Nhất định em sẽ thi đỗ vào Học viện Tracen cho anh xem!"
+        },
+        {
+            "text": "Lời hứa ngây ngô khi ấy, tưởng như chỉ bộc phát trong phút bốc đồng. Vậy mà nó lại rực sáng hơn bao giờ hết…… kể từ ngày hôm ấy."
+        },
+        {
+            "text": "Rồi Buena Vista đã thuận lợi trở thành học viên của Tracen…… Còn về tôi, đó là một ngày mùa thu khi đang đâm đầu vào học ngày đêm để chuẩn bị cho kỳ thi giấy phép Huấn luyện viên."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ừm…… anh thấy thế nào? Cái bùa may mắn đó ấy."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So với hồi làm bùa cổ vũ anh thi vào học viện đào tạo, em thấy lần này mình làm khéo hơn một chút rồi đấy~ ……Kiểu vậy đó. hehe",
+            "choice_data_list": [
+                "― Ừ, em làm đẹp lắm. Cảm ơn nha",
+                "― Ừ, em làm đẹp lắm. Cảm ơn nha"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Không có gì đâu. ……Khoan đã, em phải ra khán đài ngay mới được! Dù sao thì cũng phải chọn một chỗ dễ quan sát nhất chứ.",
+            "choice_data_list": [
+                "― Đúng vậy. Xem thi đấu thực tế cũng là cơ hội học hỏi quý giá mà.",
+                "― Đúng vậy. Xem thi đấu thực tế cũng là cơ hội học hỏi quý giá mà."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Vâng! Hôm nay chúng ta sẽ cùng nhau ôn bài đấy!\nAnh đã chọn được Umamusume đáng chú ý nhất ở Japan Cup lần này chưa? Còn em thì――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Chắc chắn phải là Special Week-san rồi!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Taaaaaaaaaaaa――!!"
+        },
+        {
+            "name": "Bình luận viên",
+            "text": "Là Special Week, chính là Special Week!!\nSpecial Week đã vươn lên dẫn đầu rồi!!"
+        },
+        {
+            "name": "Bình luận viên",
+            "text": "Các Umamusume khác đang dốc sức đuổi theo, nhưng không kịp mất rồi, là Special Week!! Số 13, Special Week, cán đích―― ở vị trí dẫn đầu!!"
+        },
+        {
+            "name": "Bình luận viên",
+            "text": "Special Week \"Độc Tày Nhật Bổn\"!! Đánh bại cả Umamusume vô địch Prix de l'Arc de Triomphe, cô ấy đã hiên ngang! Hiên ngang giành chiến thắng tại Japan Cup!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "………………っ！！"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "（Tuyệt…… Tuyệt quá, tuyệt vời quá đi mất!!\nDáng chạy ấy, sức chấn động ấy, tiếng reo hò ấy…… thật là――）",
+            "choice_data_list": [
+                "―Là…… một khung cảnh tuyệt vời――"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……! ――Ừm.\nỪm, ừm……!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Một cảnh tượng ngoạn mục……!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "...Anh biết không? Chắc chắn, một ngày nào đó chúng ta sẽ...!",
+            "choice_data_list": [
+                "― Ừm. Hai chúng ta…… cũng sẽ như thế!!",
+                "― Ừm. Hai chúng ta…… cũng sẽ như thế!!"
+            ]
+        },
+        {
+            "text": "『Một ngày nào đó, nhất định chúng ta sẽ chạm tới cảnh tượng này』"
+        },
+        {
+            "text": "Lời hứa năm ấy, cứ thế―― đã trở thành ước mơ vô giá của cả hai chúng tôi.",
+            "choice_data_list": [
+                "（Và rồi―― đi được tới tận đây）",
+                "（Và rồi―― đi được tới tận đây）"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Vậy thì, một lần nữa……\n……Anh có thể cho em nghe lại lần nữa được không?",
+            "choice_data_list": [
+                "― Ừ. Buena, hãy cùng anh――",
+                "― Ừ. Buena, hãy cùng anh――"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Vâng!",
+            "choice_data_list": [
+                "Lập 『hợp đồng tạm thời』 nhé?",
+                "Lập 『hợp đồng tạm thời』 nhé?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A, ……――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": ".........Hả?"
+        }
+    ]
+}

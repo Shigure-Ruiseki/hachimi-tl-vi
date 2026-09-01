@@ -18,15 +18,15 @@
             "text": "How about you don't mess with anybody for once?!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "It'll feel lonely with you gone…"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Yeah… You're our ace…"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "McQueen, come back soon, okay?"
         },
         {
@@ -64,7 +64,7 @@
             "text": "A few months later, Rice Shower begins to struggle once again."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In front is Biwa Hayahide! And Biwa Hayahide is first across the finish \nline! The bane of McQueen, Rice Shower, comes in fifth!"
         },
         {
@@ -102,10 +102,10 @@
             "text": "But her results in every race since haven't showed that."
         },
         {
+            "text": "Maybe it's still the booing getting to her, even if she doesn't realize \nit.",
             "choice_data_list": [
                 "Do you want to step away from racing for a bit?"
-            ],
-            "text": "Maybe it's still the booing getting to her, even if she doesn't realize \nit."
+            ]
         },
         {
             "name": "Rice Shower",
@@ -127,7 +127,7 @@
             "text": "But there's no end in sight for her slump."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And next we have Rice Shower, who's been on a losing streak. Will \nshe return to form in this race?"
         },
         {
@@ -147,19 +147,19 @@
             "text": "Fair. Takes a lot to not give up after losing so much…"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Rice Shower finishes in sixth!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Where is Rice Shower who once stood in Mihono Bourbon and \nMejiro McQueen's way?!"
         },
         {
+            "name": "Rice Shower",
+            "text": "…<i>Sigh.</i>",
             "choice_data_list": [
                 "Good job out there."
-            ],
-            "name": "Rice Shower",
-            "text": "…<i>Sigh.</i>"
+            ]
         },
         {
             "name": "Rice Shower",
@@ -170,10 +170,10 @@
             "text": "Heheh… Couldn't win today either."
         },
         {
+            "text": "She forces a smile, but she's already welling up…",
             "choice_data_list": [
                 "It's okay to cry."
-            ],
-            "text": "She forces a smile, but she's already welling up…"
+            ]
         },
         {
             "name": "Rice Shower",

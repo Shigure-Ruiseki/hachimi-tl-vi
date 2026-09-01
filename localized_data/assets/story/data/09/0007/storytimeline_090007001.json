@@ -1,4 +1,5 @@
 {
+    "title": "In the Depths of Autumn",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -11,20 +12,20 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "<i>Mikoshi</i> weave through the streets to the rhythm of festival \ndrums. Beautiful dances are offered to the three goddesses, \nwhile trainee archers dispel misfortune with their arrows."
+            "text": "<i>Mikoshi</i> weave through the streets to the rhythm of festival \ndrums. Beautiful dances are offered to the three goddesses, \nwhile horsegirl archers dispel misfortune with their arrows."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "This is a festival by the trainees, for the trainees, \nand of the trainees ——"
+            "text": "This is a festival by the horsegirls, for the horsegirls, \nand of the horsegirls ——"
         },
         {},
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "The Festival of Illustrious Equines is just around the corner～! \nI'm <i>not</i> missing out on the traditional grilled carrots this year! \nGotta hit those stalls early!"
         },
         {
-            "name": "Trainee B",
-            "text": "I'm super excited for all the performances by the different \ntrainee communities. I wonder what Tracen Academy is \nresponsible for this year…?"
+            "name": "Horsegirl B",
+            "text": "I'm super excited for all the performances by the different \nhorsegirl communities. I wonder what Tracen Academy is \nresponsible for this year…?"
         },
         {
             "name": "Symboli Rudolf",
@@ -51,11 +52,11 @@
             "text": "Following her, our second dancer — Curren Chan. \nLastly, our third and final dancer ——"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Hey, hey, can we leave early for the Festival?! \nI'm dying to get a good spot for the Votive Dance!!"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "City as a dancer is gonna be mesmerizing, isn't she～? \nAnd Curren's stage presence is always on point ——"
         },
         {
@@ -166,6 +167,5 @@
             "name": "Symboli Rudolf",
             "text": "Expect great things, Director. We promise to make \nthis year's festival more thrilling than ever!"
         }
-    ],
-    "title": "In the Depths of Autumn"
+    ]
 }

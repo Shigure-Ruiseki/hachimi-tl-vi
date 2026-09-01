@@ -9,7 +9,7 @@
             "text": "The 『Mile Championship』! \nRhein Kraft comes in 3rd! 3rd place!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It wasn't a bad run. It's her first run against Senior class \nopponents, but I think she was able to display her power."
         },
         {
@@ -21,7 +21,7 @@
             "text": "Whoa, what's happened to Rhein Kraft? Placing 4th as the favorite! \nSince it's a G2, I thought she'd be able to run more freely."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Normally, I'd think she'd be able to put \nup more of a fight……I wonder what's wrong."
         },
         {
@@ -74,12 +74,12 @@
             "text": "If you follow this, then you'll definitely get back \non your feet. Kraft-san, let's keep motivated. Okay?"
         },
         {
+            "name": "Rhein Kraft",
+            "text": "Uu, ugh, Uuuu……",
             "choice_data_list": [
                 "What's wrong, Kraft!?",
                 "What's wrong, Kraft!?"
-            ],
-            "name": "Rhein Kraft",
-            "text": "Uu, ugh, Uuuu……"
+            ]
         },
         {
             "name": "Rhein Kraft",

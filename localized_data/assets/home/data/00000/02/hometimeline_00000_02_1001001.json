@@ -1,13 +1,12 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Special Week",
-            "text": "There are so many trainees here… \nIt still feels weird to me."
+            "text": "There are so many horsegirls here… \nIt still feels weird to me."
         },
         {
             "name": "Silence Suzuka",
-            "text": "You were the only trainee living \nin your hometown, right?"
+            "text": "You were the only horsegirl living \nin your hometown, right?"
         },
         {
             "name": "Special Week",
@@ -33,5 +32,6 @@
             "name": "Silence Suzuka",
             "text": "Okay, I can't wait."
         }
-    ]
+    ],
+    "no_wrap": true
 }

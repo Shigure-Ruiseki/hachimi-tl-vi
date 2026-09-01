@@ -1,4 +1,5 @@
 {
+    "title": "This Meeting is the Greatest Blessing",
     "text_block_list": [
         {
             "name": "T.M. Opera O",
@@ -185,8 +186,8 @@
             "text": "...O-okay, then, Ice King and King of Darkness! And, Sun King too! Time to start our meeting. Let's fill our glasses and have a good time."
         },
         {
-            "name": "Admire Vega",
-            "text": "Hang on. How is this fair? Your role speaks the way you normally do."
+            "text": "Hang on. How is this fair? Your role speaks the way you normally do.",
+            "name": "Admire Vega"
         },
         {
             "name": "T.M. Opera O",
@@ -232,6 +233,5 @@
             "name": "T.M. Opera O",
             "text": "Aha, ahahahaha! You're doing marvelously, my dear kings!"
         }
-    ],
-    "title": "This Meeting is the Greatest Blessing"
+    ]
 }

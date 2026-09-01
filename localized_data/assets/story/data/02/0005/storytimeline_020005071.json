@@ -50,7 +50,7 @@
             "text": "Yeah! But first I need to win my Debut race, don't I? \nSuzuka-san, please teach me more and more about running!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In an instant she surges forward! Special Week takes the lead! \nSpecial Week is starting to pull away!"
         },
         {
@@ -58,7 +58,7 @@
             "text": "C'moooooon! Goooooo! Knock 'em dead!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Special Week reaches the goal first! \nShe marks her Debut race with a victory!"
         },
         {
@@ -191,29 +191,29 @@
             "text": "Yeah, I'll show you I can answer to those cheers."
         },
         {
+            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might.",
             "choice_data_list": [
                 "Go and get a good look at that \"scenery\"!",
                 "Go and get a good look at that \"scenery\"!"
-            ],
-            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might."
+            ]
         },
         {
+            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might.",
             "choice_data_list": [
                 "Go and get a good look at that \"scenery\"!",
                 "Go and get a good look at that \"scenery\"!"
-            ],
-            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might."
+            ]
         },
         {
             "name": "Silence Suzuka",
             "text": "Understood! Trainer-san, I'll make \nsure you see that \"scenery\" too!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Silence Suzuka settles in to her gate in the outermost frame."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "1800m to the goal, which Uma Musume will reach the \ngoal first? Prepartions complete - Start!!"
         }
     ]

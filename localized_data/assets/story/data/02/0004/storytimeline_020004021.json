@@ -16,12 +16,12 @@
             "text": "Gaaah… This's haaard!"
         },
         {
+            "name": "Gold Ship",
+            "text": "Good run, you two! Keep it up! You'll be ready for the next race in no \ntime!",
             "choice_data_list": [
                 "You should be running too…",
                 "You should be running too…"
-            ],
-            "name": "Gold Ship",
-            "text": "Good run, you two! Keep it up! You'll be ready for the next race in no \ntime!"
+            ]
         },
         {
             "name": "Gold Ship",
@@ -60,11 +60,11 @@
             "text": "It's not bad running at first glance, but something isn't quite in sync."
         },
         {
+            "name": "Winning Ticket",
+            "text": "That's Hayahide's little sister, Narita Brian.",
             "choice_data_list": [
                 "Hayahide's sister?"
-            ],
-            "name": "Winning Ticket",
-            "text": "That's Hayahide's little sister, Narita Brian."
+            ]
         },
         {
             "name": "Winning Ticket",
@@ -115,11 +115,11 @@
             "text": "While I'm still pondering that, Brian's race begins."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And Narita Brian finishes five lengths behind first! Did she lose all her \nenergy before the last sprint?!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "With two Twinkle Series wins under her belt, it's hard to believe her \nresult today!"
         },
         {
@@ -127,14 +127,14 @@
             "text": "That was a great run! I'd love to have you on our team!"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "Y-Yes! I'd love to join!"
         },
         {
-            "text": "Seeing the other trainers approaching trainees, I head over to \nthe racer who caught my interest."
+            "text": "Seeing the other trainers approaching horsegirls, I head over to \nthe racer who caught my interest."
         },
         {
-            "text": "Seeing the other trainers approaching trainees, I head over to \nthe racer who caught my interest."
+            "text": "Seeing the other trainers approaching horsegirls, I head over to \nthe racer who caught my interest."
         },
         {
             "name": "Narita Brian",
@@ -201,7 +201,7 @@
             "text": "Huh? Wh-What's up with that run?!"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Wow… And she keeps getting faster!"
         },
         {
@@ -233,11 +233,11 @@
             "text": "If you don't mind me asking, why'd you leave your team? Your trainer \nmust've been proud that you racked up two wins."
         },
         {
+            "name": "Narita Brian",
+            "text": "Because I want to run more.",
             "choice_data_list": [
                 "More?"
-            ],
-            "name": "Narita Brian",
-            "text": "Because I want to run more."
+            ]
         },
         {
             "name": "Narita Brian",
@@ -281,18 +281,18 @@
             "text": "What's that supposed to mean?"
         },
         {
+            "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…",
             "choice_data_list": [
                 "Would you like to race on my team?",
                 "Would you like to race on my team?"
-            ],
-            "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…"
+            ]
         },
         {
+            "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…",
             "choice_data_list": [
                 "Would you like to race on my team?",
                 "Would you like to race on my team?"
-            ],
-            "text": "Rather than hold back your desire to run, I think it'd be better to \nchannel it through more races. So…"
+            ]
         },
         {
             "name": "Narita Brian",

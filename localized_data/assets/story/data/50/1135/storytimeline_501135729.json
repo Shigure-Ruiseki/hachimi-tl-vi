@@ -1,12 +1,13 @@
 {
+    "title": "Claw Machine: Failure…",
     "no_wrap": true,
     "text_block_list": [
         {
+            "name": "Stay Gold",
+            "text": "<i>Mmm,</i> thank you, for doing your best.",
             "choice_data_list": [
                 "To think I couldn't even get one…!"
-            ],
-            "name": "Stay Gold",
-            "text": "<i>Mmm,</i> thank you, for doing your best."
+            ]
         },
         {
             "name": "Stay Gold",
@@ -23,6 +24,5 @@
         {
             "text": "It was an unfortunate result……"
         }
-    ],
-    "title": "Claw Machine: Failure…"
+    ]
 }

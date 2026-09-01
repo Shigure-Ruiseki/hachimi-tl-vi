@@ -1,4 +1,5 @@
 {
+    "title": "Defeat",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -6,12 +7,12 @@
             "text": "<i>Hmm…</i> I went ahead and lost."
         },
         {
+            "name": "Stay Gold",
+            "text": "I couldn't run as well as I thought I could. \nIf only I tried harder out there…",
             "choice_data_list": [
                 "There are days like this",
                 "Let's stay focused…!"
-            ],
-            "name": "Stay Gold",
-            "text": "I couldn't run as well as I thought I could. \nIf only I tried harder out there…"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -41,6 +42,5 @@
             "name": "Stay Gold",
             "text": "You're gonna have to be strict on me. \nI'll surmount any headwind that blows \nmy way."
         }
-    ],
-    "title": "Defeat"
+    ]
 }

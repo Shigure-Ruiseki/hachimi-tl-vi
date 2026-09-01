@@ -8,7 +8,7 @@
             "text": "This was no different at Tracen Academy ——"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "First place goes to Symboli Rudolf! She is in a class of \nher own, effortlessly leaving her competitors in the dust! \nThis looks like a strong statement from Symboli Rudolf!"
         },
         {
@@ -16,7 +16,7 @@
             "text": "<i>Phuh… </i>It seems I've comfortably secured victory."
         },
         {
-            "text": "The Selection Race serves as the stage where promising \ntrainees aiming to make their debut showcase their \nabilities before the trainers present ——"
+            "text": "The Selection Race serves as the stage where promising \nhorsegirls aiming to make their debut showcase their \nabilities before the trainers present ——"
         },
         {
             "text": "Symboli Rudolf had clinched the top spot, leaving a \nsubstantial gap between her and the runner-up."
@@ -50,7 +50,7 @@
         },
         {
             "name": "Rookie Trainer A",
-            "text": "Eugh, impressive speech, but… with a trainee of her caliber…"
+            "text": "Eugh, impressive speech, but… with a horsegirl of her caliber…"
         },
         {
             "name": "Rookie Trainer B",
@@ -70,11 +70,11 @@
             "text": "Alright… I should get going!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's Symboli Rudolf entering the final straight! \nHer speed's increased even further! She's extending \nthe gap to the competition with ease!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "No one can catch up! This is a dominant display that makes \nyou believe the Triple Crown isn't beyond reach——!!"
         },
         {
@@ -95,12 +95,12 @@
             "text": "A trainer, personally paying a visit to the contender of a \nSelection Race… Can I take it that you are here to scout me?"
         },
         {
+            "name": "Symboli Rudolf",
+            "text": "In which case, allow me to ask you one thing. \n…… With what purpose have you come to see me?",
             "choice_data_list": [
                 "I wanted to see more of your running.",
                 "I wanted to see more of your running."
-            ],
-            "name": "Symboli Rudolf",
-            "text": "In which case, allow me to ask you one thing. \n…… With what purpose have you come to see me?"
+            ]
         },
         {
             "name": "Symboli Rudolf",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "To stand at the top, acknowledged by everyone, \nacting as a guide to every trainee — that is \nthe mission I have imposed upon myself."
+            "text": "To stand at the top, acknowledged by everyone, \nacting as a guide to every horsegirl — that is \nthe mission I have imposed upon myself."
         },
         {
             "name": "Symboli Rudolf",

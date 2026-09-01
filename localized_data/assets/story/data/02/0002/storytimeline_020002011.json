@@ -35,7 +35,7 @@
             "text": "Practice with Team Sirius is getting more and more heated."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Yes! Another personal best!"
         },
         {
@@ -56,8 +56,8 @@
             "text": "Damn, McQueen, I dunno how you do it. Practically ran a marathon, \nbut your pace and form are still impeccable."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
-            "text": "I bet there's not a trainee alive who could beat her in a \nlong-distance race."
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "I bet there's not a horsegirl alive who could beat her in a \nlong-distance race."
         },
         {
             "text": "She's not wrong. You'd be hard pressed to find a stayer who could go \ntoe-to-toe with McQueen."
@@ -123,16 +123,16 @@
             "text": "And she does it again! Look at you, setting record times left and right!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Wow! Just, wow!"
         },
         {
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "That's our Tenno Sho champion! That's our ace! Isn't that right, \nTrainer?",
             "choice_data_list": [
                 "Yep. Our team superstar.",
                 "Yep. Our team superstar."
-            ],
-            "name": "Trainee with Straight-cut Bangs",
-            "text": "That's our Tenno Sho champion! That's our ace! Isn't that right, \nTrainer?"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -209,11 +209,11 @@
             "text": "Expressions grow serious as the others realize what I'm getting at."
         },
         {
+            "text": "The race is a special one for any runner. A once-in-a-lifetime chance \nto stand at the top.",
             "choice_data_list": [
                 "Your next stop will be the Japanese Derby!",
                 "Your next stop will be the Japanese Derby!"
-            ],
-            "text": "The race is a special one for any runner. A once-in-a-lifetime chance \nto stand at the top."
+            ]
         },
         {
             "name": "Rice Shower",

@@ -1,8 +1,9 @@
 {
+    "title": "In Footsteps Follow",
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Spectating Trainees",
+            "name": "Spectating Horsegirls",
             "text": "Wow, it's starting…! What was it, \"Shirabyōshi\"? \nSounds kinda cool～!"
         },
         {
@@ -118,19 +119,19 @@
             "text": "<i>Proud and noble spirits, swaying gracefully, swayed by flame. \nRage throughout heaven and earth, burn bright, lead us to \nprosperity. I am chronicler of tale, I am successor of legacy.</i>"
         },
         {
-            "name": "Spectator Trainee A",
+            "name": "Spectator Horsegirl A",
             "text": "—— That \"Votive Stage Play\" was incredible. It really fired \nme up… makes me want to see my role model again."
         },
         {
-            "name": "Spectator Trainee B",
+            "name": "Spectator Horsegirl B",
             "text": "Ah, the one who inspired you to come to Tracen Academy～? \nHaha, I can relate to that."
         },
         {
-            "name": "Spectator Trainee C",
+            "name": "Spectator Horsegirl C",
             "text": "—— Umm! I'm definitely going to win the next race. \nThe same one you won before… so, please come watch."
         },
         {
-            "name": "Spectator Trainee D",
+            "name": "Spectator Horsegirl D",
             "text": "…… For sure, I'm looking forward to it."
         },
         {
@@ -248,6 +249,5 @@
             "name": "Kawakami Princess",
             "text": "Ehehe… I'll treasure this ribbon filled with \nMadam King's feelings… forever……!"
         }
-    ],
-    "title": "In Footsteps Follow"
+    ]
 }

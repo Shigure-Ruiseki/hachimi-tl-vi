@@ -21,7 +21,7 @@
             "text": "<i>Hoh hoh</i>, the race is only tomorrow but it feels \nlike a lot of eyes are already watching, huh? \nThough, that fires <i>me</i> up as well!"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "Ma'am……"
         },
         {
@@ -29,7 +29,7 @@
             "text": "Oh! …You here to watch Brian too?"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "…… She really is monstrous, you know? \n… Are you really going to go toe-to-toe with her?"
         },
         {
@@ -37,7 +37,7 @@
             "text": "For sure. And I better see you in the stands, too! \nI'll show ya a race to remember!"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "…… Why are you so concerned with someone like me, ma'am…?"
         },
         {
@@ -58,23 +58,23 @@
             "text": "Our training came to an end here, as the next day \nhad arrived and it was time for the race ——"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "We're moving on to the final group of today's Selection Race! \nEveryone's eyes will no doubt be on Narita Brian, whose \nincredible natural talents have attracted plenty of attention!"
         },
         {
-            "name": "Caster",
-            "text": "All trainees are in their gates, as we wait for the start… \nSelection Race number 11, 2000m on turf… and off they go!!"
+            "name": "Commentator",
+            "text": "All horsegirls are in their gates, as we wait for the start… \nSelection Race number 11, 2000m on turf… and off they go!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian drops from fourth to fifth as the leader runs \nout far in front! She's staying calm back there!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In 7th we find Hishi Amazon, keeping close tabs \non Narita Brian as we complete a full lap!!"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "Amazon, ma'am……"
         },
         {
@@ -88,11 +88,11 @@
             "text": "I'll break free…!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian! Narita Brian takes the lead! Three lengths, \nfour lengths, Brian is taking off on her own!!"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "……!"
         },
         {
@@ -100,7 +100,7 @@
             "text": "Hah… Not on my watch! I'm coming for yoouuuu!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Hishi Amazon chases her from the outside!! \nHer stride is powerful! She's closing in on Brian!!"
         },
         {
@@ -108,7 +108,7 @@
             "text": "Knew someone would come… but…!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Further acceleration from Narita Brian!! Her speed is fearsome! \nShe's trying to lose Hishi Amazon ——"
         },
         {
@@ -120,11 +120,11 @@
             "text": "……!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "But she won't go!! Hishi Amazon matches her speed up!! \nAn intense battle is unfolding on the final straight!!"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "…… Ma'am!!"
         },
         {
@@ -150,19 +150,19 @@
             "text": "<i>Aaagh</i>, flippin' heck, I lost!! \nBut, well ——"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "<i>Ubwuehgwubweeeeeeh</i>…… Ma'aaaaam…!! \nThat wahs… That waszh zo… so inspiriiiiing……!!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Hey now, hey, trainees don't go crying like that. Look at you… \nSo, whatcha think, still feel like dropping out?"
+            "text": "Hey now, hey, horsegirls don't go crying like that. Look at you… \nSo, whatcha think, still feel like dropping out?"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "I wouldn't even think about it, forget I ever said anything!! \nI've never felt more motivated! Even if I have to go back \nto basics, I'm gonna train my ass off!!"
         },
         {
-            "name": "Miho Dorm Trainee",
+            "name": "Miho Dorm Horsegirl",
             "text": "And I'll be… Someday, I'll be strong enough \nto take you on one-to-one, ma'am!!"
         },
         {
@@ -186,12 +186,12 @@
             "text": "Hishi Amazon! I was thoroughly impressed by your strength \nand fighting spirit! Would you like to come train under me!?"
         },
         {
+            "name": "Hishi Amazon",
+            "text": "Ohh, I'm sorry, but in regards to that… I've already \nfound my partner. Right, Trainer?",
             "choice_data_list": [
                 "Who, me?! Are you sure…?!",
                 "Who, me?! Are you sure…?!"
-            ],
-            "name": "Hishi Amazon",
-            "text": "Ohh, I'm sorry, but in regards to that… I've already \nfound my partner. Right, Trainer?"
+            ]
         },
         {
             "name": "Hishi Amazon",
@@ -202,12 +202,12 @@
             "text": "You better let me have a bunch more intense battles, Trainer! \n… Hmm, <i>Trainer</i> does sound a bit stuffy."
         },
         {
+            "name": "Hishi Amazon",
+            "text": "I know, how about I call ya <i>Big T </i>instead?",
             "choice_data_list": [
                 "Am I a rapper now? Or your bodyguard…?",
                 "Am I a rapper now? Or your bodyguard…?"
-            ],
-            "name": "Hishi Amazon",
-            "text": "I know, how about I call ya <i>Big T </i>instead?"
+            ]
         },
         {
             "name": "Hishi Amazon",

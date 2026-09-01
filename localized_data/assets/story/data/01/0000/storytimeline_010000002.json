@@ -2,43 +2,43 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "What an excellent race! My heart is\naflutter!"
+            "name": "Hayakawa Tazuna",
+            "text": "That was a great race…! \nI got really heated up!!"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Now that the race is over… \nit's time for the Winning Live!",
             "color_text_info_list": [
-                "winning concert"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "And now, with the race over, it's time for\nthe winning concert!"
+                "Winning Live"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "The winning concert is where fans and\nthe runners they support share in the\ndelight of victory."
+            "name": "Hayakawa Tazuna",
+            "text": "The Winning Live… it's a place where \nthe victorious horsegirls and their \ncheering fans can share their joy!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Every racer strives to stand front and\ncenter on stage, a spot reserved for the\nfirst-place winner."
+            "name": "Hayakawa Tazuna",
+            "text": "The center, where only the first place winner \ncan stand, is the goal everyone strives for."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Some of the songs sung here can only be\nperformed after winning certain\nimportant races or achieving other grand\naccomplishments."
+            "name": "Hayakawa Tazuna",
+            "text": "There are songs that can only be sung \nif you win a special race, or if you \nmake a great achievement."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "So it's a very moving experience for\nperformers and audience alike."
+            "name": "Hayakawa Tazuna",
+            "text": "The emotions you see are deeply moving."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "In addition, those who watch the concert\noften go on to become fans of the\nUmamusume who performed."
+            "name": "Hayakawa Tazuna",
+            "text": "Plus, there's many people who become \nfans of the horsegirls after watching \ntheir live performances."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "The winning concert is a key component\nto an Umamusume's career!"
+            "name": "Hayakawa Tazuna",
+            "text": "The Winning Live is an indispensable element \nfor the horsegirls!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Well then, let's go to the stage and see\ntheir wonderful performance!"
+            "name": "Hayakawa Tazuna",
+            "text": "Now, then… let's go see the shining horse \ngirls on stage!"
         }
     ]
 }

@@ -6,11 +6,11 @@
             "text": "…"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Oh, she's back!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "McQueen, great work out there!"
         },
         {
@@ -18,12 +18,12 @@
             "text": "You've all come back to meet me? I'm touched."
         },
         {
+            "name": "Gold Ship",
+            "text": "Second place — you were so close! 'Twas a great race!",
             "choice_data_list": [
                 "Everyone out there today was in absolute top \nform.",
                 "Everyone out there today was in absolute top \nform."
-            ],
-            "name": "Gold Ship",
-            "text": "Second place — you were so close! 'Twas a great race!"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -45,7 +45,7 @@
             "text": "Every race is a learning experience. Also…"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Also?"
         },
         {
@@ -57,7 +57,7 @@
             "text": "I was able to convert all of your expectations into power."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Give it your all at the next one too, McQueen!"
         },
         {
@@ -65,11 +65,11 @@
             "text": "Yes, of course."
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Lookin' forward to it, ace!"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "I already know that it's going to be a fabulous race!"
         },
         {
@@ -96,7 +96,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Have you ever dined together with so many hungry trainees at \nonce?"
+            "text": "Have you ever dined together with so many hungry horsegirls at \nonce?"
         },
         {
             "text": "Um…"
@@ -136,7 +136,7 @@
             "text": "It's time, everyone."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "You can do it, ace!♪"
         },
         {
@@ -148,7 +148,7 @@
             "text": "Oh! Is that true?!"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "You shouldn't have said that. How will she concentrate now?!"
         },
         {
@@ -156,7 +156,7 @@
             "text": "I mean, I thought that would get her fired up. Did it backfire?"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Hey, ace! Get your mind back on the course!"
         },
         {
@@ -179,11 +179,11 @@
             "text": "But I know that in the end, you'll cross that finish line first!"
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "Hehe… Yes, I should think so. With all of your support as my tailwind, \nI feel ready to soar any distance!",
             "choice_data_list": [
                 "We're expecting great things, ace!"
-            ],
-            "name": "Mejiro McQueen",
-            "text": "Hehe… Yes, I should think so. With all of your support as my tailwind, \nI feel ready to soar any distance!"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -193,26 +193,26 @@
             "text": "Wooooo!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Mejiro McQueen! Mejiro McQueen! She extends her lead to three \nlengths!"
         },
         {
-            "name": "Caster",
-            "text": "Mejiro McQueen crosses the finish! She is the first trainee in \nhistory to ever achieve two consecutive victories at the spring Tenno \nSho!"
+            "name": "Commentator",
+            "text": "Mejiro McQueen crosses the finish! She is the first horsegirl in \nhistory to ever achieve two consecutive victories at the spring Tenno \nSho!"
         },
         {
             "text": "Wooooo!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Congratulations, McQueen!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "<i>Sob…</i> I can't believe it!"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Our ace is just the best…"
         },
         {

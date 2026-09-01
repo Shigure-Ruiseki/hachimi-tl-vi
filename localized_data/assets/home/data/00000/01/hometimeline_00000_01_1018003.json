@@ -1,5 +1,4 @@
 {
-    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Air Groove",
@@ -19,7 +18,8 @@
         },
         {
             "name": "Air Groove",
-            "text": "If I said it's similar to training trainees, \nyou'd understand, wouldn't you…?"
+            "text": "If I said it's similar to training horsegirls, \nyou'd understand, wouldn't you…?"
         }
-    ]
+    ],
+    "no_wrap": true
 }

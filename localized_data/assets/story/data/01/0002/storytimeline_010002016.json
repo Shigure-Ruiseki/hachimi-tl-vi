@@ -2,20 +2,20 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Here you can manage your Veteran\nUmamusume, the racers who've\ncompleted a Career playthrough. You\ncan also strengthen Trainee Umamusume\nand your Support Cards."
+            "name": "Hayakawa Tazuna",
+            "text": "Here you can strenghten your horsegirls \nand support cards, as well as manage \nyour finished \"Hall of Fame\" horsegirls \nafter training."
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Strengthening your Trainee Umamusume\nand Support Cards will set you up to\ngain better results in your Career\nplaythroughs!"
+            "name": "Hayakawa Tazuna",
+            "text": "Strenghtening your horsegirls or support \ncards before training with them will lead to \nbetter results!"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Also, you can obtain the materials \nrequired mostly from races.",
             "color_text_info_list": [
-                "Materials used for strengthening are",
-                "mainly acquired by racing"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Materials used for strengthening are\nmainly acquired by racing."
+                "obtain the materials",
+                "from races"
+            ]
         }
     ]
 }

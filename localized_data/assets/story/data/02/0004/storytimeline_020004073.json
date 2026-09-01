@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "A legend was born today! Not even those in the senior year can match \nher!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian has become a Five Crown champion!"
         },
         {
@@ -39,7 +39,7 @@
             "text": "The amount of media coverage is unbelievable…"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Pardon me! The calls from journalists won't stop — they want to speak \nwith Narita Brian…"
         },
         {

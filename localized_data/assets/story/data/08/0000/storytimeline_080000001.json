@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
+            "text": "—— This is Tracen Academy.",
             "color_text_info_list": [
                 "Tracen Academy"
-            ],
-            "text": "—— This is Tracen Academy."
+            ]
         },
         {
+            "text": "Many promising young horsegirls \ngather here, dreaming of running \nin the prestigious Twinkle Series…",
             "color_text_info_list": [
                 "Twinkle Series"
-            ],
-            "text": "Many promising young trainees \ngather here, dreaming of running \nin the prestigious Twinkle Series…"
+            ]
         },
         {
             "text": "They spend their days studying together, \ntraining their bodies and minds…"
@@ -28,15 +28,15 @@
             "text": "This cannot go oooon!!!!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Wh-What's the matter, Director?"
         },
         {
+            "name": "Director Akikawa",
+            "text": "Tazuna! As director of Tracen Academy, \nI love horsegirls with all my heart…",
             "color_text_info_list": [
                 "Tazuna"
-            ],
-            "name": "Director Akikawa",
-            "text": "Tazuna! As director of Tracen Academy, \nI love trainees with all my heart…"
+            ]
         },
         {
             "name": "Director Akikawa",
@@ -47,14 +47,14 @@
             "text": "Which! Is! Why!"
         },
         {
+            "name": "Director Akikawa",
+            "text": "Proposal! I will organize an \nentirely new racing event!!",
             "color_text_info_list": [
                 "new racing event"
-            ],
-            "name": "Director Akikawa",
-            "text": "Proposal! I will organize an \nentirely new racing event!!"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "What!? A… A new racing event…!?"
         },
         {
@@ -62,26 +62,26 @@
             "text": "Affirmation!! A set of races in addition \nto the beloved Twinkle Series!"
         },
         {
+            "name": "Director Akikawa",
+            "text": "Including all distances, all courses! \nA racing event unlike any other!!",
             "color_text_info_list": [
                 "all distances",
                 "all courses"
-            ],
-            "name": "Director Akikawa",
-            "text": "Including all distances, all courses! \nA racing event unlike any other!!"
+            ]
         },
         {
             "name": "Director Akikawa",
             "text": "I will call it…"
         },
         {
+            "name": "Director Akikawa",
+            "text": "The URA Finale!",
             "color_text_info_list": [
                 "URA Finale"
-            ],
-            "name": "Director Akikawa",
-            "text": "The URA Finale!"
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "URA… Finale…!!"
         },
         {
@@ -93,18 +93,18 @@
             "text": "Haste!! We must schedule a press \nconference to let everybody know!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Director…!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "—— Understood. I'll make the arrangements!"
         },
         {
             "text": "…Thus, a new racing event, \nthe URA Finale, was born."
         },
         {
-            "text": "This event, created as a stage on which \nall trainees could shine…"
+            "text": "This event, created as a stage on which \nall horsegirls could shine…"
         },
         {
             "text": "…Would also be the trigger to your \nvery own story with your trainee!"

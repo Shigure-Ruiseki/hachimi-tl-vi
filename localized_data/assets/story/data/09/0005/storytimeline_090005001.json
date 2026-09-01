@@ -1,4 +1,5 @@
 {
+    "title": "Feeling Awful",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -14,7 +15,7 @@
             "text": "One month ago, during a practice race at the academy…"
         },
         {
-            "name": "Honest Trainee",
+            "name": "Honest Horsegirl",
             "text": "Scarlet and Spe came in dead last?!"
         },
         {
@@ -202,6 +203,5 @@
             "name": "Special Week",
             "text": "Wait! I-Is it actually possible to do any training here?!"
         }
-    ],
-    "title": "Feeling Awful"
+    ]
 }

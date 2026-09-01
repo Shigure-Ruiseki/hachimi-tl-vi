@@ -1,12 +1,13 @@
 {
+    "title": "Festival of Exhilarating Autumn",
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Mikoshi Trainee",
+            "name": "Mikoshi Horsegirl",
             "text": "<i>Mikoshi</i> coming through! Chant with us, people! \nLet's hear you loud and lively!"
         },
         {
-            "name": "Mikoshi Trainees",
+            "name": "Mikoshi Horsegirls",
             "text": "Here we go, <i>Heave-ho! Heave</i>!! \nAgain, <i>Heave-ho! Heave</i>!!"
         },
         {
@@ -126,23 +127,23 @@
             "text": "(But guess who else is on stage? Take a good look♪)"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "…… Amazing, aren't they? City, Curren, …Yukino. \nThey're so confident, so beautiful… so elegant."
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Yeah… You know, watching our seniors' Kikka Sho and such \nmade me wonder if I could ever keep up, but ——"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Now I feel inspired. Yeah… I'm ready to give it my all too."
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "Wow, there really aren't any targets here! All of them \nare set up on the sacred mountain…! They were serious \nabout returning to tradition?!"
         },
         {
-            "name": "Trainee D",
+            "name": "Horsegirl D",
             "text": "President Rudolf and Vice President Brian are both formidable… \nand actually kind of intimidating, but this is so thrilling…!!"
         },
         {
@@ -207,14 +208,14 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Your pure trainee instinct, your fiery spirit… I need that, Brian."
+            "text": "Your pure horsegirl instinct, your fiery spirit… I need that, Brian."
         },
         {
-            "name": "Yabusame Announcer Trainee",
+            "name": "Yabusame Announcer Horsegirl",
             "text": "—— The fires are lit, and the <i>Yabusame</i> is starting!"
         },
         {
-            "name": "Yabusame Announcer Trainee",
+            "name": "Yabusame Announcer Horsegirl",
             "text": "Ready… Set………… \n—— GO!!"
         },
         {
@@ -230,12 +231,12 @@
             "text": "(And seeing you like that makes me ——)"
         },
         {
-            "name": "Trainee C",
+            "name": "Horsegirl C",
             "text": "What the heck… Incredible. \n… I'm shaking……!!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "(Your unconcealed instinct, your unbound energy! \nIt's stirring the soul of every trainee…!!)"
+            "text": "(Your unconcealed instinct, your unbound energy! \nIt's stirring the soul of every horsegirl…!!)"
         },
         {
             "name": "Symboli Rudolf",
@@ -246,11 +247,11 @@
             "text": "Face me, \"Beast\"! ……<i>Haaaaaaaaaaaa!!</i>"
         },
         {
-            "name": "Trainee A",
+            "name": "Horsegirl A",
             "text": "<i>Sigh</i>… The Festival went by in a flash. It was so vibrant this \nyear, making it all the more bittersweet to see it end ——"
         },
         {
-            "name": "Trainee B",
+            "name": "Horsegirl B",
             "text": "Yeah… The Votive Dance by City's group and \nthe student council duo's <i>Yabusame</i> were both \nreally inspiring…… This'll be a memory to cherish."
         },
         {
@@ -259,12 +260,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "May all trainees remain hale and hearty. \nMay their paths be graced with a glorious future."
+            "text": "May all horsegirls remain hale and hearty. \nMay their paths be graced with a glorious future."
         },
         {
             "name": "Symboli Rudolf",
             "text": "A glorious occasion indeed. \nTonight, we honor the sacred Festival of Illustrious Equines ——"
         }
-    ],
-    "title": "Festival of Exhilarating Autumn"
+    ]
 }

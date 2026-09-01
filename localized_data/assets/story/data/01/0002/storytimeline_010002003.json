@@ -2,19 +2,19 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Wow, you met some amazing\nUmamusume! But before we go off to\nstart training..."
+            "name": "Hayakawa Tazuna",
+            "text": "You've met some wonderful horsegirls! \nBefore we get to training, look at this!"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "I will also be explaining \nthe support card gacha.",
             "color_text_info_list": [
                 "support card"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "Allow me to explain Support Card\nscouting."
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Let's switch over to the relevant Scout!"
+            "name": "Hayakawa Tazuna",
+            "text": "Let's switch over to the support gacha!"
         }
     ]
 }

@@ -1,4 +1,5 @@
 {
+    "title": "Plan: None",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -79,7 +80,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "The claims might be a little exaggerated… but you can \ncompete in classic resort activities with trainee athletes \nfrom all eras and regions. For example ——"
+            "text": "The claims might be a little exaggerated… but you can \ncompete in classic resort activities with horsegirl athletes \nfrom all eras and regions. For example ——"
         },
         {
             "name": "Duramente",
@@ -181,6 +182,5 @@
             "name": "Satono Crown",
             "text": "…<i>Hehe</i>. Yes. You, as you are now, \nreally are the best photo model."
         }
-    ],
-    "title": "Plan: None"
+    ]
 }

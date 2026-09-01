@@ -2,20 +2,20 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Now, we'll choose some Support Cards\nto assist you and your trainee during her\nCareer!"
+            "name": "Hayakawa Tazuna",
+            "text": "Next, let's organize support cards that will \nhelp you train your horsegirl!"
         },
         {
-            "name": "Tazuna Hayakawa",
-            "text": "Each card comes with various benefits,\nsuch as the Support Card character\nappearing in your playthrough and\nproviding skills for your trainee to\nacquire."
+            "name": "Hayakawa Tazuna",
+            "text": "Each card has its own effects, such as the \nappearance of the characters in the support \ncard during training or giving you skills!"
         },
         {
+            "name": "Hayakawa Tazuna",
+            "text": "Please keep in mind you can't use \nsupport cards of the same horsegirl \nthat you're training!",
             "color_text_info_list": [
-                "the same Umamusume that you selected to train",
-                "you can't choose a Support Card depicting"
-            ],
-            "name": "Tazuna Hayakawa",
-            "text": "With that said, you can't choose a\nSupport Card depicting the same\nUmamusume that you selected to train.\nPlease keep that in mind!"
+                "can't use",
+                "same horsegirl"
+            ]
         }
     ]
 }

@@ -101,19 +101,19 @@
             "text": "…Me too, together with Trainer-san and everyone on the team, \nI did my best, I don't want to lose…!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Seiun Sky is in the lead! Seiun Sky is taking the front! She's \nstruggling to pull away from King Halo who is desperately \nchasing in a battle for 3rd!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And from the outside comes Special Week! \nSpecial Week is coming up behind with incredible speed!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "2 lengths, 1, now she's even, and she's passed! \nSpecial Week takes the lead and crosses the goal!!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "2nd place is Seiun Sky, 3rd place is King Halo! As expected, \nthese 3 contenders gave us a show at [Yayoi Sho]!"
         },
         {
@@ -188,11 +188,11 @@
             "text": "Rather than letting the victory go to her head, she seemed to be \npreparing herself. Perhaps this was proof that she truly was part \nof the \"Golden Generation\"."
         },
         {
+            "text": "Alright, let's revise the training menu then. Once \nagain, Spe's last stretch surprised me so, I want \nto continue to improve that strong point.",
             "choice_data_list": [
                 "Spe, we'll definitely win the [Satsuki Sho] too!",
                 "Spe, we'll definitely win the [Satsuki Sho] too!"
-            ],
-            "text": "Alright, let's revise the training menu then. Once \nagain, Spe's last stretch surprised me so, I want \nto continue to improve that strong point."
+            ]
         },
         {
             "name": "Special Week",

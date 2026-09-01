@@ -8,11 +8,11 @@
             "text": "As far as the media's concerned, she's practically already won the \nTriple Crown."
         },
         {
-            "name": "Trendy Trainee A",
+            "name": "Trendy Horsegirl A",
             "text": "Mihono Bourbon! Please, shake my hand!"
         },
         {
-            "name": "Trendy Trainee B",
+            "name": "Trendy Horsegirl B",
             "text": "I'd give anything for your autograph!"
         },
         {
@@ -141,7 +141,7 @@
             "text": "Hweh?! You're not supposed to tell people that!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "Is it just me, or is <i>everybody</i> talking about Bourbon?"
         },
         {
@@ -159,10 +159,10 @@
             "text": "Though Rice lost to Bourbon yet again in her most recent race, it was \ncloser than in the Derby."
         },
         {
+            "text": "Plus, her ambition is now fully focused on winning against her rival.",
             "choice_data_list": [
                 "The Kikuka Sho is all yours!"
-            ],
-            "text": "Plus, her ambition is now fully focused on winning against her rival."
+            ]
         },
         {
             "name": "Rice Shower",
@@ -195,11 +195,11 @@
             "text": "That's easily over 3 000 kilometers!"
         },
         {
+            "name": "Rice Shower",
+            "text": "Trainer, I'll do my best.",
             "choice_data_list": [
                 "Make us proud, Rice."
-            ],
-            "name": "Rice Shower",
-            "text": "Trainer, I'll do my best."
+            ]
         },
         {
             "text": "Even as expectations for her rival pile high, Rice Shower's fighting \nspirit burns all the brighter."

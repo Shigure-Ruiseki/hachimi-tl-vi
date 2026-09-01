@@ -201,11 +201,11 @@
             "text": "Trainer-san!! Please help me with \nmy training for the [Derby]!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "This year, this day has finally arrived! \nThe all-important [Tokyo Yuushun - The Japan Derby]!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "From those known as the Golden Generation, \njust which Uma Musume will take hold of the ultimate glory!?"
         },
         {
@@ -243,12 +243,12 @@
             "text": "The promise with my Moms about becoming \"Japan's \n#1\"… and for the sake of catching up to the \none I admire, I'll run with everything I have!"
         },
         {
+            "name": "Silence Suzuka",
+            "text": "Spe-chan's run, we'll be watching closely.",
             "choice_data_list": [
                 "Go do your best!",
                 "Go do your best!"
-            ],
-            "name": "Silence Suzuka",
-            "text": "Spe-chan's run, we'll be watching closely."
+            ]
         },
         {
             "name": "Special Week",
@@ -287,11 +287,11 @@
             "text": "Yeah…!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "From the Classic grade, 18 Uma Musume are \nsettling in to the gates for this grand stage!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "2400m ahead, there will be glory for only 1! \n[Tokyo Yuushun - The Japan Derby] ― Starts now!!"
         }
     ]

@@ -1,4 +1,5 @@
 {
+    "title": "Because I know you more than anyone else",
     "text_block_list": [
         {
             "name": "Narita Top Road",
@@ -232,6 +233,5 @@
             "name": "Admire Vega",
             "text": "...I will."
         }
-    ],
-    "title": "Because I know you more than anyone else"
+    ]
 }

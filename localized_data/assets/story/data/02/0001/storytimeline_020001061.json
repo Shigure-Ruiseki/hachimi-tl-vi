@@ -8,11 +8,11 @@
             "text": "Our little team of one has grown at last."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "From the very first moment I saw your elegance in motion, I knew that \nI just HAD to join!"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "<i>Sniff…</i> Your victory… So stunning… I was, <i>sniff…</i> so mooooved!"
         },
         {
@@ -20,7 +20,7 @@
             "text": "I-I'm flattered."
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "I want to give it my all and chase my dreams just like you did!"
         },
         {
@@ -45,7 +45,7 @@
             "text": "Six furlongs in a neat eighty seconds. No complaints here!"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "Wooow! So this is what it means to be a Tenno Sho champion!"
         },
         {
@@ -71,7 +71,7 @@
             "text": "Still, we aren't in the clear yet. Let's keep pushing forward, as a team!"
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "McQueen, can you teach me about good running form?"
         },
         {
@@ -79,7 +79,7 @@
             "text": "Of course, I wouldn't mind at all."
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "McQueen! How can I leave the gate as deftly as you do?"
         },
         {
@@ -103,11 +103,11 @@
             "text": "Duh, it's me. Yo, McQueen!"
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "G-Gold Ship…",
             "choice_data_list": [
                 "An acquaintance of yours?"
-            ],
-            "name": "Mejiro McQueen",
-            "text": "G-Gold Ship…"
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -205,11 +205,11 @@
             "text": "Huh?!"
         },
         {
+            "text": "McQueen's efforts have caught the eyes of many far and wide. And \nthanks to that…",
             "choice_data_list": [
                 "The team won't be disbanded!",
                 "The team won't be disbanded!"
-            ],
-            "text": "McQueen's efforts have caught the eyes of many far and wide. And \nthanks to that…"
+            ]
         },
         {
             "name": "Gold Ship",

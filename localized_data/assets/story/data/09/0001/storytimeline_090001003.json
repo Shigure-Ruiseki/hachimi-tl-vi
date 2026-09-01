@@ -1,4 +1,5 @@
 {
+    "title": "Welcome to Tracen Academy!",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -27,7 +28,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Likewise. As you already know, Tracen Academy is \nthe country's greatest learning facility for trainees\nlonging to enter the racing world."
+            "text": "Likewise. As you already know, Tracen Academy is \nthe country's greatest learning facility for horsegirls\nlonging to enter the racing world."
         },
         {
             "name": "Symboli Rudolf",
@@ -119,7 +120,7 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "First up is the school's gym. All the devices were built to be \nused by us trainees, so going full throttle is totally okay!♪"
+            "text": "First up is the school's gym. All the devices were built to be \nused by us horsegirls, so going full throttle is totally okay!♪"
         },
         {
             "name": "Tokai Teio",
@@ -177,15 +178,15 @@
             "text": "(<i>Wooooo!!</i>)"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Rounding the fourth corner is number three, Antagonist! \nBut number seven, Ribbon March, holds on! \nLook at her persevere!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And here comes number ten, Ay Tanri, from the outside! \nShe's pulling to the front with incredible speed!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "200 meters to go! They're neck and neck for the lead! \nIt's a close one! They're running side by side, right up \nto the finish line!"
         },
         {
@@ -223,6 +224,5 @@
             "name": "Special Week",
             "text": "Mom, Mama, now that I'm here at Tracen Academy in Tokyo, \nI'm gonna give it everything I've got!"
         }
-    ],
-    "title": "Welcome to Tracen Academy!"
+    ]
 }

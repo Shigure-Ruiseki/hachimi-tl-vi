@@ -9,11 +9,11 @@
             "text": "It’s okay… I did my training properly. I can \ndefinitely win. I’ll win. With my legs…"
         },
         {
+            "text": "I saw that Gold City was scheduled to run. She \nwas encouraging herself and seemed nervous…",
             "choice_data_list": [
                 "Are you okay?",
                 "Are you okay?"
-            ],
-            "text": "I saw that Gold City was scheduled to run. She \nwas encouraging herself and seemed nervous…"
+            ]
         },
         {
             "name": "Gold City",
@@ -61,7 +61,7 @@
             "text": "After the such a commotion, the race startedー"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Gold City, can’t rise from behind! Last 400m! Is this too tough!?"
         },
         {
@@ -69,7 +69,7 @@
             "text": "Heh… heh… don’t screw around…! I am! I can still go…! "
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "ーGoal!!"
         },
         {

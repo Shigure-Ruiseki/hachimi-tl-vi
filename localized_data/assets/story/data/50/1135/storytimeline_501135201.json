@@ -1,4 +1,5 @@
 {
+    "title": "Before the Satsuki Sho",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -41,12 +42,12 @@
             "text": "All we can do now is watch over Stego's \nfirst act in the Classics, and hope that \nno misfortune befalls her."
         },
         {
+            "name": "Stay Gold",
+            "text": "…………",
             "choice_data_list": [
                 "Are you alright?",
                 "You alright?"
-            ],
-            "name": "Stay Gold",
-            "text": "…………"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -65,11 +66,11 @@
             "text": "<i>Hahah…</i> Been a while since I got chills \nlike this…!"
         },
         {
+            "text": "Seeing Stay Gold's electrifying anticipation \ntowards today's Satsuki Sho made my \nheart skip a few beats.",
             "choice_data_list": [
                 "Show everyone what you're made of",
                 "Show everyone what you're made of"
-            ],
-            "text": "Seeing Stay Gold's electrifying anticipation \ntowards today's Satsuki Sho made my \nheart skip a few beats."
+            ]
         },
         {
             "name": "Stay Gold",
@@ -88,7 +89,7 @@
             "text": "If I were to use your words, this race is \nthe departing flight for your journey \nahead. Is it not fair for me to come \nsee my fellow training partner off?"
         },
         {
-            "name": "$(scale 55)Elegant Chestnut-Haired Trainee",
+            "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
             "text": "Miss Stego, all the best for your race…! \nI may have only been in your shadows, \nbut I will be praying for your victory…!"
         },
         {
@@ -108,11 +109,11 @@
             "text": "Be sure to watch me guys, I'm going \nto put everything I got into this."
         },
         {
+            "name": "Stay Gold",
+            "text": "Alright. I guess it's about time I get going.",
             "choice_data_list": [
                 "May you have a good Satsuki Sho!"
-            ],
-            "name": "Stay Gold",
-            "text": "Alright. I guess it's about time I get going."
+            ]
         },
         {
             "name": "Stay Gold",
@@ -151,7 +152,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "On my honor as a trainee of the Meijiro \nfamily, I shall not lose to you, Miss Stego, \nnor to anyone else."
+            "text": "On my honor as a horsegirl of the Meijiro \nfamily, I shall not lose to you, Miss Stego, \nnor to anyone else."
         },
         {
             "name": "Stay Gold",
@@ -181,6 +182,5 @@
             "name": "Stay Gold",
             "text": "May this storm decide it all, \nin this Satsuki Sho…!"
         }
-    ],
-    "title": "Before the Satsuki Sho"
+    ]
 }

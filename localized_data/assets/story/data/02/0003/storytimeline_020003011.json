@@ -11,7 +11,7 @@
         },
         {
             "name": "Narrator",
-            "text": "Many famed racers have suffered defeat in the face of their \ndream — the dream of every trainee — to reach the pinnacle of \nracing and become Derby champion."
+            "text": "Many famed racers have suffered defeat in the face of their \ndream — the dream of every horsegirl — to reach the pinnacle of \nracing and become Derby champion."
         },
         {
             "name": "Narrator",
@@ -45,67 +45,67 @@
             "text": "Wooooo!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "It's the final straight! Which racer has what it takes to stand \nvictorious?!"
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "You can do iiit!"
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "Wooow! They're all so fast!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The leader has a burst of speed! Now, the runner in second place \nadvances from the opposite side of the pack!"
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "Ah! The girl in front is gonna lose the lead!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And she takes the lead! Just like that, she pushes ahead! She widens \nthe gap between herself and her rival!"
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "Oh no, I feel so bad for her…"
         },
         {
-            "name": "Young Trainee's Mother",
+            "name": "Young Horsegirl's Mother",
             "text": "Look, she hasn't given up yet. So you shouldn't give up either. Why \ndon't you keep cheering her on?"
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "<i>Sob…</i> You can do it! Keep going!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "She's going all the way! There's the finish! She bested her rivals, \ntaking the crown in a stunning victory!"
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "Awww, she lost… She's crying…"
         },
         {
-            "name": "Young Trainee's Mother",
+            "name": "Young Horsegirl's Mother",
             "text": "Yes, it's sad after she ran so well. But look, the winner's crying too."
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "You're right… Why?"
         },
         {
-            "name": "Young Trainee's Mother",
+            "name": "Young Horsegirl's Mother",
             "text": "The Derby is the dream of every one of these racers."
         },
         {
-            "name": "Young Trainee's Mother",
+            "name": "Young Horsegirl's Mother",
             "text": "So whether they win or lose, they'll cry. Because they gave it their \nvery all to make their dream come true. They worked so hard for this."
         },
         {
-            "name": "Young Trainee",
+            "name": "Young Horsegirl",
             "text": "Dream… Derby…"
         },
         {
@@ -131,11 +131,11 @@
             "text": "And I need you and our trusty trainer to pitch in. You'd better start \npracticing your griddle skills."
         },
         {
+            "name": "Mejiro McQueen",
+            "text": "I don't like the sound of this at all… I'll have you taste it first, Trainer. \nSomeone needs to check if it's safe.",
             "choice_data_list": [
                 "Safe? Don't you mean I should check if it tastes \ngood?"
-            ],
-            "name": "Mejiro McQueen",
-            "text": "I don't like the sound of this at all… I'll have you taste it first, Trainer. \nSomeone needs to check if it's safe."
+            ]
         },
         {
             "name": "Gold Ship",
@@ -149,17 +149,17 @@
             "text": "The whole academy is frantically preparing for the festival. In the \nmidst of all the uproar, someone comes to see me."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "There you are."
         },
         {
+            "text": "Tazuna Hayakawa, assistant to the director of Tracen, approaches \nwith a big smile.",
             "choice_data_list": [
                 "You were looking for me?"
-            ],
-            "text": "Tazuna Hayakawa, assistant to the director of Tracen, approaches \nwith a big smile."
+            ]
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "I have big news♪ Your predecessor is being given an award by the \nURA."
         },
         {
@@ -172,10 +172,10 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Some make it their mission to get it. Winners get their photo and race \nrecord displayed in the Trainee Museum at the Tokyo \nRacecourse."
+            "text": "Some make it their mission to get it. Winners get their photo and race \nrecord displayed in the Horsegirl Museum at the Tokyo \nRacecourse."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "And who more fitting than him? Oguri's final race is still a favorite \namong fans."
         },
         {
@@ -188,11 +188,11 @@
             "text": "My mentor really was out of this world. Truly amazing."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "The awards ceremony will be broadcast live, so don't miss it!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "In other matters, I have a small favor to ask…"
         },
         {
@@ -207,11 +207,11 @@
             "text": "No matter how many defeats or injuries, she kept on running. This \nracer had SO much heart. <i>Sob…</i>"
         },
         {
+            "text": "Her voice shatters the silence of the library. With no one else around, \nI know who it is I'm supposed to assist.",
             "choice_data_list": [
                 "Are you the one who needs help with the \nSolefall Faire?",
                 "Are you the one who needs help with the \nSolefall Faire?"
-            ],
-            "text": "Her voice shatters the silence of the library. With no one else around, \nI know who it is I'm supposed to assist."
+            ]
         },
         {
             "name": "???",
@@ -222,11 +222,11 @@
             "text": "Wait… I didn't introduce myself! Nice to meet ya! I'm Winning Ticket!"
         },
         {
+            "name": "Winning Ticket",
+            "text": "Really though, I volunteered 'cause I had this rad idea, but now that \nI'm in the thick of prepping, I can't manage at all.",
             "choice_data_list": [
                 "I'm here to help. What do you need?"
-            ],
-            "name": "Winning Ticket",
-            "text": "Really though, I volunteered 'cause I had this rad idea, but now that \nI'm in the thick of prepping, I can't manage at all."
+            ]
         },
         {
             "name": "Winning Ticket",
@@ -287,11 +287,11 @@
             "text": "Oh, but I have to focus on the exhibit! We can't fail if we work \ntogether!"
         },
         {
+            "name": "Winning Ticket",
+            "text": "And you know, you can call me Tickezo. Easier than saying my full \nname, right?",
             "choice_data_list": [
                 "You got it, Tickezo."
-            ],
-            "name": "Winning Ticket",
-            "text": "And you know, you can call me Tickezo. Easier than saying my full \nname, right?"
+            ]
         },
         {
             "name": "Winning Ticket",

@@ -15,12 +15,12 @@
             "text": "Yeah, that's it! \nAwesome, go for it!"
         },
         {
+            "name": "Gold Ship",
+            "text": "Now when's she gonna <i>shake</i>…! \nAaah, I can't look away from this!",
             "choice_data_list": [
                 "What are you looking at……?",
                 "What are you looking at……?"
-            ],
-            "name": "Gold Ship",
-            "text": "Now when's she gonna <i>shake</i>…! \nAaah, I can't look away from this!"
+            ]
         },
         {
             "name": "Gold Ship",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "The same way trainees think about when \nto start spurting, how to make their moves."
+            "text": "The same way horsegirls think about when \nto start spurting, how to make their moves."
         },
         {
             "text": "I'm not sure I follow but it seems \nGold Ship is thinking about the race \nin her own way… I believe?"

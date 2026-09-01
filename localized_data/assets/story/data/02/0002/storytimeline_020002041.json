@@ -6,10 +6,10 @@
             "text": "…Gosh, I've really done it this time."
         },
         {
+            "text": "McQueen's injury seems to be more serious than I thought.",
             "choice_data_list": [
                 "How's it feel?"
-            ],
-            "text": "McQueen's injury seems to be more serious than I thought."
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -63,10 +63,10 @@
             "text": "…Seeing her now, I sense a mysterious power. One that will pull us all \nforward."
         },
         {
+            "text": "She's right. Having such a hard worker in their midst has done \nwonders for the rest of the team.",
             "choice_data_list": [
                 "Guess that means you can focus on getting \nbetter."
-            ],
-            "text": "She's right. Having such a hard worker in their midst has done \nwonders for the rest of the team."
+            ]
         },
         {
             "name": "Mejiro McQueen",
@@ -76,7 +76,7 @@
             "text": "Filling the hole left by McQueen's absence brings the entire team \ntogether in helping Rice train."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "<i>Pant, pant…</i>"
         },
         {
@@ -84,7 +84,7 @@
             "text": "Just keep following, just keep following…"
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Okay Rice, start following me now."
         },
         {
@@ -92,7 +92,7 @@
             "text": "Got it. Follow the leader."
         },
         {
-            "name": "Trainee with Straight-cut Bangs",
+            "name": "Horsegirl with Straight-cut Bangs",
             "text": "<i>Pant, pant…</i> Rice is so good at this."
         },
         {
@@ -143,7 +143,7 @@
             "text": "Heh. Learn to revel in this feeling, nerves and all."
         },
         {
-            "name": "Droopy-eyed Trainee",
+            "name": "Droopy-eyed Horsegirl",
             "text": "Rice, you've got this! Just think of all the training we did!"
         },
         {
@@ -159,16 +159,16 @@
             "text": "Yeah! That's what I like to hear!"
         },
         {
-            "name": "Trainee with Black Bob-cut",
+            "name": "Horsegirl with Black Bob-cut",
             "text": "We'll be cheering for you!"
         },
         {
+            "name": "Rice Shower",
+            "text": "Thanks. Okay, well, here goes!",
             "choice_data_list": [
                 "Get behind Bourbon, and don't let her get \naway!",
                 "Get behind Bourbon, and don't let her get \naway!"
-            ],
-            "name": "Rice Shower",
-            "text": "Thanks. Okay, well, here goes!"
+            ]
         },
         {
             "name": "Rice Shower",

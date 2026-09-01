@@ -2,11 +2,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Yaeno Muteki's I clan has defeated Biwa Hayahide's \nclever schemes with an all or nothing tactic～!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "In an unexpected twist, one of the favorites to win has fallen! \nThe Ha clan is no more, with the I clan completely turning \nthe tables on their crisis, leaving them the second largest clan!"
         },
         {
@@ -38,7 +38,7 @@
             "text": "Those girls will always charge in head first, relying on \nnothing but their pure strength… 'Tis what makes them \nsuch \"monsters\"…!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Oguri Cap's Ro clan continues its relentless assault! \nThey remain the leading force, as now they're starting \nto break through the frontliiiines～!"
         },
         {
@@ -58,7 +58,7 @@
             "text": "We shall withdraw for the moment and await an opportunity…!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "General Yaeno Muteki and her I clan is on the defensive! \nThey're being completely pushed back. Their army may have \ngained many soldiers, but they're being cut down one by one!"
         },
         {
@@ -70,7 +70,7 @@
             "text": "<i>Haah, Haa, Haah…</i> We must endure this. \nIf we do, we should be able to find a way out…!"
         },
         {
-            "name": "[I Clan] Trainee B",
+            "name": "[I Clan] Horsegirl B",
             "text": "But, General, this won't end well! \nIf we keep retreating… time will just run out…"
         },
         {
@@ -130,7 +130,7 @@
             "text": "Fall back! Leave this to me!"
         },
         {
-            "name": "[I Clan] Trainee A",
+            "name": "[I Clan] Horsegirl A",
             "text": "G-Generaaal～～! Thank you so much!"
         },
         {

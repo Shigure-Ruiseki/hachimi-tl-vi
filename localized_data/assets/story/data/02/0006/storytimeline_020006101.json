@@ -84,14 +84,14 @@
             "text": "As I thought, Silence Suzuka's situation seems \nto be weighing on her mind. She continues to \nbe unable to focus on running, it seems."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Trainer-san, excuse me."
         },
         {
             "text": "Tazuna-san, how may I help you?"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Yes, the [Monthly Twinkle] has requested to do an article. It \nseems they'd like to put together a special report about team <Sirius>."
         },
         {
@@ -103,18 +103,18 @@
             "text": "Being part of a special report, sounds amazing……!"
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Fufuu, well then, I've been entrusted with a questionnaire \nfor each of the team members, so I'll have them \nsent to the trainer's room later."
         },
         {
             "text": "Thank you very much, I appreciate it."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "Oh, and one more thing― truthfully, there's a former trainer \nwho's had experience overseas that happens to be on campus."
         },
         {
-            "name": "Tazuna Hayakawa",
+            "name": "Hayakawa Tazuna",
             "text": "And when I spoke with them about Silence Suzuka, \nthey said they'd love to take a look at her running."
         },
         {
@@ -265,33 +265,33 @@
             "text": "That's the way that the Suzuka-san I look up \nto runs…… ……Something like stopping Suzuka-san…… \nI can't do something like that……!"
         },
         {
+            "text": "Just like Suzuka― to catch up to \nSuzuka, Spe you need to work hard.",
             "choice_data_list": [
                 "Aim for \"Japan's #1 Uma Musume\"!",
                 "Aim for \"Japan's #1 Uma Musume\"!"
-            ],
-            "text": "Just like Suzuka― to catch up to \nSuzuka, Spe you need to work hard."
+            ]
         },
         {
+            "text": "Just like Suzuka― to catch up to \nSuzuka, Spe you need to work hard.",
             "choice_data_list": [
                 "Aim for \"Japan's #1 Uma Musume\"!",
                 "Aim for \"Japan's #1 Uma Musume\"!"
-            ],
-            "text": "Just like Suzuka― to catch up to \nSuzuka, Spe you need to work hard."
+            ]
         },
         {
             "name": "Special Week",
             "text": "Ehehe…… Yeah!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "The stands are packed here at the Hanshin Race course. With the \nMain Race approaching, the enthusiasm in the air begins to swell!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "All the attention is on the \"Golden Generation's\" \nSpecial Week and last year's champion, Mejiro Bright!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "With the [Hanshin Daishoten] being the first time these \ntwo face off, just what kind of result awaits us?!"
         },
         {
@@ -339,18 +339,18 @@
             "text": "So that's how it was. In that case, \nyou definitely have to win, don't you?"
         },
         {
+            "text": "Yeah, right now Spe has everyone's feelings backing her up. \nRoll up your sleeves and respond in kind.",
             "choice_data_list": [
                 "Run with everything you've got!",
                 "Run with everything you've got!"
-            ],
-            "text": "Yeah, right now Spe has everyone's feelings backing her up. \nRoll up your sleeves and respond in kind."
+            ]
         },
         {
+            "text": "Yeah, right now Spe has everyone's feelings backing her up. \nRoll up your sleeves and respond in kind.",
             "choice_data_list": [
                 "Run with everything you've got!",
                 "Run with everything you've got!"
-            ],
-            "text": "Yeah, right now Spe has everyone's feelings backing her up. \nRoll up your sleeves and respond in kind."
+            ]
         },
         {
             "name": "Special Week",

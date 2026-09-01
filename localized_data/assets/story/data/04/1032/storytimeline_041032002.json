@@ -2,21 +2,21 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Today is the \"Selection Race\". An important day for upcoming \ntrainees to display their blossoming running abilities to \nthe trainers present."
+            "text": "Today is the \"Selection Race\". An important day for upcoming \nhorsegirls to display their blossoming running abilities to \nthe trainers present."
         },
         {
-            "text": "I, as well, was eager to discover the potential \nof the future trainees here and scout for \none to take under my wing. Just then…"
+            "text": "I, as well, was eager to discover the potential \nof the future horsegirls here and scout for \none to take under my wing. Just then…"
         },
         {
             "name": "Veteran Trainer A",
             "text": "Color me surprised. Did you see the updated start list they \njust handed out? I wondered what was up, and it turns out \nAgnes Tachyon's been added to it…!"
         },
         {
+            "name": "Rookie Trainer A",
+            "text": "What? Agnes Tachyon!? That… talented girl, \nwho — rumour has it — is quite the hazardous presence!?",
             "choice_data_list": [
                 "(Agnes Tachyon…!?)"
-            ],
-            "name": "Rookie Trainer A",
-            "text": "What? Agnes Tachyon!? That… talented girl, \nwho — rumour has it — is quite the hazardous presence!?"
+            ]
         },
         {
             "text": "I remembered what had a happened in the infirmary a few days \nearlier, and a chill ran down the length of my spine. But—"
@@ -62,10 +62,10 @@
             "text": "But she chose not to race anyway…? \nUnderstood, thank you."
         },
         {
+            "text": "I could see that Symboli Rudolph was deeply concerned. What would \nhappen to Agnes Tachyon if she missed this race…?",
             "choice_data_list": [
                 "(… Let me go look for her)"
-            ],
-            "text": "I could see that Symboli Rudolph was deeply concerned. What would \nhappen to Agnes Tachyon if she missed this race…?"
+            ]
         },
         {
             "text": "I decided to leave the track for a \nbit and search for Agnes Tachyon."
@@ -104,7 +104,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "They get to apply their standards, pick and choose the \ntrainees they like… don't we have a right to choose as well?"
+            "text": "They get to apply their standards, pick and choose the \nhorsegirls they like… don't we have a right to choose as well?"
         },
         {
             "name": "Air Shakur",
@@ -127,11 +127,11 @@
             "text": "And, oh…? You… Well, if it isn't the \njunior trainer from the other day!"
         },
         {
+            "name": "Agnes Tachyon",
+            "text": "Have you come back voluntarily, to offer up your \nbody in the name of science? Truly, the soul of \na guinea pig! Quite, quite extraordinary!",
             "choice_data_list": [
                 "Nononono!"
-            ],
-            "name": "Agnes Tachyon",
-            "text": "Have you come back voluntarily, to offer up your \nbody in the name of science? Truly, the soul of \na guinea pig! Quite, quite extraordinary!"
+            ]
         },
         {
             "text": "I desperately managed to calm her down and explained I was there \nto try and persuade her to participate in the Selection Race."
@@ -142,7 +142,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "That race is a place for trainees to show off their potential, \njust as much as a place for trainers to find new prospects."
+            "text": "That race is a place for horsegirls to show off their potential, \njust as much as a place for trainers to find new prospects."
         },
         {
             "name": "Agnes Tachyon",
@@ -153,31 +153,31 @@
             "text": "—Now then, let us instead continue with our experiment!"
         },
         {
+            "name": "Agnes Tachyon",
+            "text": "I just so happen to have put the finishing touches to a \nneuromuscular monitor of my own invention just last night. \nA thousand times greater resolution than conventional equipment—",
             "choice_data_list": [
                 "You're really all about the experiments, huh!?",
                 "You really only care about your experiments, don't you!?"
-            ],
-            "name": "Agnes Tachyon",
-            "text": "I just so happen to have put the finishing touches to a \nneuromuscular monitor of my own invention just last night. \nA thousand times greater resolution than conventional equipment—"
+            ]
         },
         {
+            "name": "Agnes Tachyon",
+            "text": "The limits of what is possible can only by probed \nthrough rigorous experimentation. It takes time, \nand the more time the better. Am I wrong?",
             "choice_data_list": [
                 "What researching could be that important…?",
                 "What research could be so important…?"
-            ],
-            "name": "Agnes Tachyon",
-            "text": "The limits of what is possible can only by probed \nthrough rigorous experimentation. It takes time, \nand the more time the better. Am I wrong?"
+            ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "\"The potential of trainees\"."
+            "text": "\"The potential of horsegirls\"."
         },
         {
+            "name": "Agnes Tachyon",
+            "text": "More accurately, \"the physiological potential that lies dormant \nwithin the organism known as the horsegirl\". In essence,\"the \nabsolute limits of speed\"— no, what lies \"beyond the limits\".",
             "choice_data_list": [
                 "Beyond…?"
-            ],
-            "name": "Agnes Tachyon",
-            "text": "More accurately, \"the physiological potential that lies dormant \nwithin the organism known as the trainee\". In essence,\"the \nabsolute limits of speed\"— no, what lies \"beyond the limits\"."
+            ]
         },
         {
             "name": "Agnes Tachyon",
@@ -185,7 +185,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Why, even the very nature of trainees is itself \na profound question, my dear trainer."
+            "text": "Why, even the very nature of horsegirls is itself \na profound question, my dear trainer."
         },
         {
             "name": "Agnes Tachyon",
@@ -204,15 +204,15 @@
             "text": "In short, my dear, my guiding motivation is a simple one. \n\"How fast can we go?\", \"How vast is our potential?\""
         },
         {
+            "name": "Agnes Tachyon",
+            "text": "I, with this body, aim to find the outer limits \nof our potential! The outer limits of speed!",
             "choice_data_list": [
                 "That's what your research was for…!?"
-            ],
-            "name": "Agnes Tachyon",
-            "text": "I, with this body, aim to find the outer limits \nof our potential! The outer limits of speed!"
+            ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It's fair to say the the trainees who are able \nto push their performance the furthest are those \nwho pursue high-level competition."
+            "text": "It's fair to say the the horsegirls who are able \nto push their performance the furthest are those \nwho pursue high-level competition."
         },
         {
             "name": "Agnes Tachyon",

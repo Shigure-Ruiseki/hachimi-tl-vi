@@ -72,11 +72,11 @@
             "text": "If she were to lose again in the Arima Kinen, your guidance could be \ncalled into question. You'll have her run knowing that?"
         },
         {
+            "text": "That's definitely a real possibility. But I don't care.",
             "choice_data_list": [
                 "I will always put what Brian wants above all else.",
                 "I will always put what Brian wants above all else."
-            ],
-            "text": "That's definitely a real possibility. But I don't care."
+            ]
         },
         {
             "name": "Biwa Hayahide",
@@ -185,18 +185,18 @@
             "text": "Brian glares at me with piercing eyes, almost growling out the words."
         },
         {
+            "text": "When I see that glimmer in her gaze, I become sure of it.",
             "choice_data_list": [
                 "No, you're running in the Arima Kinen.",
                 "No, you're running in the Arima Kinen."
-            ],
-            "text": "When I see that glimmer in her gaze, I become sure of it."
+            ]
         },
         {
+            "text": "When I see that glimmer in her gaze, I become sure of it.",
             "choice_data_list": [
                 "No, you're running in the Arima Kinen.",
                 "No, you're running in the Arima Kinen."
-            ],
-            "text": "When I see that glimmer in her gaze, I become sure of it."
+            ]
         },
         {
             "name": "Narita Brian",
@@ -219,12 +219,12 @@
             "text": "…I see."
         },
         {
+            "name": "Narita Brian",
+            "text": "Sorry, I shouldn't have doubted you. Um… thank you.",
             "choice_data_list": [
                 "Let's win this, Brian!",
                 "Let's win this, Brian!"
-            ],
-            "name": "Narita Brian",
-            "text": "Sorry, I shouldn't have doubted you. Um… thank you."
+            ]
         },
         {
             "name": "Narita Brian",
@@ -237,7 +237,7 @@
             "text": "But even so, I believe in her. Because in that look of hers, I see only \ndetermination."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian holds an ideal spot as she enters the final straight! Will \nthis finally be her day?!"
         },
         {
@@ -245,7 +245,7 @@
             "text": "That's impeccable positioning! All that's left is to charge ahead!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "In the lead is the winner of the Kikuka Sho, Mayano Top Gun! Narita \nBrian's fiercely chasing behind!"
         },
         {
@@ -253,7 +253,7 @@
             "text": "Go, Brian! Give us that good ol' sprint we know and love!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "But it looks like she's struggling! Where's that raw power Brian is \nfamous for?"
         },
         {
@@ -286,7 +286,7 @@
             "text": "She must've realized this during the autumn Tenno Sho… and the \nhopelessness of it brought her to tears."
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian can't shorten the gap! Mayano Top Gun is unchallenged!"
         },
         {
@@ -297,10 +297,10 @@
             "text": "But she continues on — she always pushes forward."
         },
         {
+            "text": "All the pieces click into place in my mind, and I shout—",
             "choice_data_list": [
                 "You can do it, Brian!"
-            ],
-            "text": "All the pieces click into place in my mind, and I shout—"
+            ]
         },
         {
             "name": "Spectator A",
@@ -311,11 +311,11 @@
             "text": "Yeah! Keep going, Brian!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "And Mayano Top Gun wins the race! With the momentum from her \nKikuka Sho victory, she's won the Arima Kinen!"
         },
         {
-            "name": "Caster",
+            "name": "Commentator",
             "text": "Narita Brian can't hold out and finishes fourth!"
         },
         {

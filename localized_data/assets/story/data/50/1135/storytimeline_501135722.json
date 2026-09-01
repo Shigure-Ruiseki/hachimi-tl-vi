@@ -1,4 +1,5 @@
 {
+    "title": "Migrane Blues",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -9,19 +10,19 @@
             "text": "<i>Uuu～～～～nnnn…</i>"
         },
         {
+            "name": "Stay Gold",
+            "text": "I… slept too much and… My head… \nIt hurts…",
             "choice_data_list": [
                 "Ehhh…"
-            ],
-            "name": "Stay Gold",
-            "text": "I… slept too much and… My head… \nIt hurts…"
+            ]
         },
         {
+            "name": "Stay Gold",
+            "text": "Yea, I was like really sleepy from the \nmorning today. I even ended up \nskipping the entire day of class… \n<i>Fuaa…</i>",
             "choice_data_list": [
                 "That is… way too much sleep!",
                 "That is… way too much sleep!"
-            ],
-            "name": "Stay Gold",
-            "text": "Yea, I was like really sleepy from the \nmorning today. I even ended up \nskipping the entire day of class… \n<i>Fuaa…</i>"
+            ]
         },
         {
             "name": "Stay Gold",
@@ -38,6 +39,5 @@
         {
             "text": "While I was worried about Stay Gold… I \ncame to realise that there was probably \nno way she could fix this habit of hers…"
         }
-    ],
-    "title": "Migrane Blues"
+    ]
 }

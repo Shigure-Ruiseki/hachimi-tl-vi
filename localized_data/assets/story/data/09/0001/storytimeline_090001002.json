@@ -1,4 +1,5 @@
 {
+    "title": "A New Place to Call Home",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -19,7 +20,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Aaah?! A trainee! Wait, I mean… Suzuka?! \nHuh? Um, I… What?!"
+            "text": "Aaah?! A horsegirl! Wait, I mean… Suzuka?! \nHuh? Um, I… What?!"
         },
         {
             "name": "Special Week",
@@ -185,6 +186,5 @@
             "name": "Special Week",
             "text": "Okaaay…!"
         }
-    ],
-    "title": "A New Place to Call Home"
+    ]
 }

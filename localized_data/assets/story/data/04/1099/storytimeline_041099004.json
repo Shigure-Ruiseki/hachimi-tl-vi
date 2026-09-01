@@ -5,11 +5,11 @@
             "text": "I signed a contract with Hokko Tarumae and spent days \ntraining for a mock race."
         },
         {
+            "name": "Hokko Tarumae",
+            "text": "Instantaneous power, startup and stamina enhancement…… \nYes, it is indeed what I need now.",
             "choice_data_list": [
                 "Train hard and we will win!"
-            ],
-            "name": "Hokko Tarumae",
-            "text": "Instantaneous power, startup and stamina enhancement…… \nYes, it is indeed what I need now."
+            ]
         },
         {
             "name": "Hokko Tarumae",
@@ -19,7 +19,7 @@
             "text": "And a few days later―"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "―Started. Hokko Tarumae off to a good start from the inside!"
         },
         {
@@ -87,7 +87,7 @@
             "text": "(It takes knowledge, effort, and passion to keep going. But \nthat still doesn't absolutely stop the decline ……!)"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Hokko Tarumae 3, 4th― off the lead 200, 2 lengths, 3 lengths away!"
         },
         {
@@ -103,7 +103,7 @@
             "text": "(I'll be the one to make Tomakomai…… Tomakomai Shine!)"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Hokko Tarumae coming up to second! \nHokko Tarumae approaching!"
         },
         {
@@ -111,7 +111,7 @@
             "text": "Tell them aaaaaa―!"
         },
         {
-            "name": "Event Caster",
+            "name": "Event Commentator",
             "text": "Hokko Tarumae, caught! Goal in!"
         },
         {

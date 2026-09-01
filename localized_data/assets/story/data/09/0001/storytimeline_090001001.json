@@ -1,4 +1,5 @@
 {
+    "title": "Nice to Meet You!",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -23,12 +24,12 @@
         },
         {
             "name": "Special Week",
-            "text": "I'm trying to get to the Japan Trainee \nTraining Center Academy, please!"
+            "text": "I'm trying to get to the Japan Horsegirl \nTraining Center Academy, please!"
         },
         {},
         {
             "name": "Special Week",
-            "text": "Tracen Academy: Japan's best training institution \nfor trainees who aspire to enter the racing world."
+            "text": "Tracen Academy: Japan's best training institution \nfor horsegirls who aspire to enter the racing world."
         },
         {
             "name": "Special Week",
@@ -95,7 +96,7 @@
         },
         {
             "name": "Special Week",
-            "text": "—— a trainee, aren't you?!"
+            "text": "—— a horsegirl, aren't you?!"
         },
         {
             "name": "Silence Suzuka",
@@ -107,7 +108,7 @@
         },
         {
             "name": "Special Week",
-            "text": "(Whoaaa, like… <i>Whoa!</i> This is crazy! She's a trainee \nlike me, yet so different! Her tail sparkling in the setting \nsun is so prettyyy…!!)"
+            "text": "(Whoaaa, like… <i>Whoa!</i> This is crazy! She's a horsegirl \nlike me, yet so different! Her tail sparkling in the setting \nsun is so prettyyy…!!)"
         },
         {
             "name": "Silence Suzuka",
@@ -159,7 +160,7 @@
         },
         {
             "name": "Special Week",
-            "text": "I've never run together with anyone before, \nlet alone another trainee!"
+            "text": "I've never run together with anyone before, \nlet alone another horsegirl!"
         },
         {
             "name": "Special Week",
@@ -214,6 +215,5 @@
             "name": "Special Week",
             "text": "(…Though I can't even rise to my feet!)"
         }
-    ],
-    "title": "Nice to Meet You!"
+    ]
 }

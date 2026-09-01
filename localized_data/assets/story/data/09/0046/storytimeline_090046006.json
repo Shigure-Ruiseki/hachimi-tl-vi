@@ -1,4 +1,5 @@
 {
+    "title": "Is This Really It?",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -142,7 +143,7 @@
             "text": "<i>Nnngh!</i> My body's all stiff. …Perhaps I should go \nswimming for a bit. This swimwear should be fine \nfor a quick swim…"
         },
         {
-            "name": "Mysterious Sunglassed Trainees",
+            "name": "Mysterious Sunglassed Horsegirls",
             "text": "…………"
         },
         {
@@ -150,13 +151,12 @@
             "text": "……Huh?"
         },
         {
-            "name": "Mysterious Sunglassed Trainee 1",
+            "name": "Mysterious Sunglassed Horsegirl 1",
             "text": "Sta… Start the operation!"
         },
         {
             "name": "Satono Crown",
             "text": "<i>Hweeeeh!?</i>"
         }
-    ],
-    "title": "Is This Really It?"
+    ]
 }
