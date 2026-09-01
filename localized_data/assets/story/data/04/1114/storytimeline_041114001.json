@@ -1,5 +1,5 @@
 {
-    "title": "『Hứa rồi đấy nhé.』",
+    "title": "『Hứa Rồi Đấy Nhé』",
     "text_block_list": [
         {
             "text": "Dừng bước trước cổng trường, tôi khẽ chạm vào chiếc phù hiệu còn mới nguyên trên cổ áo.",
@@ -88,14 +88,14 @@
         },
         {
             "name": "Buena khi còn nhỏ",
-            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng đượcn\\onii-chan rồi nè! Thấy sao……!?",
+            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng được\nonii-chan rồi nè! Thấy sao……!?",
             "choice_data_list": [
                 "Không, không, không! Không sao đâu—thật đấy, không sao đâu!"
             ]
         },
         {
             "name": "Buena khi còn nhỏ",
-            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng đượcn\\onii-chan rồi nè! Thấy sao……!?",
+            "text": "Nhưng mà, nhưng mà……! Này nhé, em lớn rồi đó. Em cõng được\nonii-chan rồi nè! Thấy sao……!?",
             "choice_data_list": [
                 "Không, không, không! Không sao đâu—thật đấy, không sao đâu!"
             ]
