@@ -1,0 +1,226 @@
+{
+    "title": "『Chạy, Chạy, Rồi Lại Chạy』",
+    "text_block_list": [
+        {
+            "text": "Vài ngày sau chuyện xảy ra trước Tượng Ba Nữ Thần. Trong sự kiện giao lưu với fan ở Trường đua Tokyo, một trận đua biểu diễn đã được tổ chức――"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "……Oi? Này.\nCái chỗ đám Torena đang xúm lại đằng kia――"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Có một đứa tân binh lù lù ở đó kìa.\nKẻ là cái người trong lời đồn đấy à?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Hả, cái người là bạn thuở nhỏ của Buena-chan á hả!? Thiệt không,ở đâu, ở đâu vậy!? Mà nè, lập hợp đồng rồi đó hả? Ký luôn rồi á!? Cảm động ghê~~~!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, chính xác—là anh ấy đó!\nVới lại, bây giờ thì――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Vẫn chỉ đang trong giai đoạn 『hợp đồng tạm thời』 thôi."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ấy, sắp đến giờ rồi……! Phải đi chuẩn bị ra sân thôi!\nVậy Nakayama-san, Jordan-san, tớ đi trước nhé ạ."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…………Khoan đã, nghiêm túc đấy à? 『Tạm thời』 thôi á!? Thế là sao chứ ~ ! ? ! ? ! ?"
+        },
+        {
+            "name": "Bình luận viên",
+            "text": "――Nào, cuộc đua cuối cùng cũng bước vào chặng cuối! Chỉ còn 400m nữa, từ cánh ngoài lao lên là Buena Vista! Buena Vista, một cú bứt tốc cực kỳ ngoạn mục!"
+        },
+        {
+            "name": "Torena kỳ cựu",
+            "text": "Chà! Con bé đó chạy nước rút ấn tượng thật đấy……! Ở thời điểm hiện tại mà đã thế này rồi thì…… hừm, nếu được mài dũa đàng hoàng, chắc chắn sẽ tỏa sáng rực rỡ lắm đây!"
+        },
+        {
+            "name": "Torena trung cấp",
+            "text": "Nghe đồn lần này toàn nhân tố chất lượng…… Nhưng đúng là giữa dàn đó, Buena Vista vẫn vượt trội hơn hẳn nhỉ ! !"
+        },
+        {
+            "name": "Bình luận viên",
+            "text": "――Cán đích! Về nhất là Buena Vista! ! Chính là Buena Vista ! ! Cô ấy đã xuất sắc khuấy đảo khán đài, trở thành ngôi sao tỏa sáng nhất trận biểu diễn hôm nay ! !",
+            "choice_data_list": [
+                "…………"
+            ]
+        },
+        {
+            "name": "Bình luận viên",
+            "text": "Dù chưa debut, nhưng Buena Vista đã mang đến một màn trình diễn tuyệt vời, hứa hẹn sẽ tỏa sáng rực rỡ trong tương lai! Khán đài đang dành tặng cho cô ấy tràng pháo tay không ngớt !"
+        },
+        {
+            "text": "Giữa muôn vàn tiếng reo hò dậy sóng như sấm rền―― chỉ có mình tôi, lặng lẽ siết chặt nắm tay.",
+            "choice_data_list": [
+                "（Đây chính là... 『Buena Vista』 của hiện tại……）"
+            ]
+        },
+        {
+            "text": "Rực rỡ, áp đảo đến chói mắt. Nó khiến tôi thấm khía đến từng tế bào. Ngẫm lại thì―― ngày ấy, cũng chính là như thế."
+        },
+        {
+            "text": "Còn bản thân tôi khi ấy, những ngày ở trường đào tạo mà đã ngày đêm để đỗ vào... lại gian nan và khắc nghiệt hơn so với hình dung, chỉ biết chật vật trong tuyệt vọng.",
+            "choice_data_list": [
+                "（Tưởng như cái ngày trở thành Torena... vẫn còn xa xăm lắm）"
+            ]
+        },
+        {
+            "text": "Đến khi bừng tỉnh―― tôi đã đứng trước nơi mà mình từng ao ước. Dù trong lòng hổ thẹn vì sự nông cạn của bản thân, đôi mắt tôi vẫn bất giác đảo quanh tìm kiếm bóng hình em."
+        },
+        {
+            "text": "Nhưng đúng lúc ấy, từ phía sân tập, một tiếng reo hò rộ lên――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hức, hức......!\nHaaaaaaaah!!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ưggg......! Đỉnh, vãi cả chưởng~~~......!!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ha, đây mà là ứng viên cùng thế hệ đấy à......\nVán cược này bắt đầu bất lợi rồi đây......!",
+            "choice_data_list": [
+                "……！！"
+            ]
+        },
+        {
+            "text": "......Ngay cả việc động viên, khích lệ lẫn nhau mình cũng không thể. Đứng từ bên ngoài nhìn em từ xa―― trở thành một đóa hoa trên đỉnh núi cao, hoàn toàn xa tầm với."
+        },
+        {
+            "text": "Ngay cả việc có thể trở thành Torena hay không còn không chắc, tôi từ lâu đã bị bỏ lại phía sau…… Mà em đã là một vận động viên đầy triển vọng, đã bắt đầu tỏa sáng rực rỡ.",
+            "choice_data_list": [
+                "（Nhưng nghĩ lại thì…… có lẽ mọi chuyện vẫn luôn như vậy)"
+            ]
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Hà, phù...... Onii-chan, anh ở đâuuu......?\nĐừng bỏ lại Buu-chan màà......!!",
+            "choice_data_list": [
+                "Xin lỗi, anh ở đây này! Lại đây nào, Buena"
+            ]
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Hà, phù...... Onii-chan, anh ở đâuuu......?\nĐừng bỏ lại Buu-chan màà......!!",
+            "choice_data_list": [
+                "Xin lỗi, anh ở đây này! Lại đây nào, Buena"
+            ]
+        },
+        {
+            "text": "......Những ngày tháng tôi có thể nắm lấy tay em dắt đi như thế, chỉ là một khoảng thời gian vô cùng ngắn ngủi, khi em còn rất nhỏ."
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Hahaha, ahahaha!! Đằng này, đằng này cơ!!\nĐi thôi, anh――......ơ?"
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Hahaha, ahahaha!! Đằng này, đằng này cơ!!\nĐi thôi, anh――......ơ?"
+        },
+        {
+            "name": "Buena khi còn nhỏ",
+            "text": "Oa, em xin lỗi nhé! Em lỡ chạy nhanh quá mất rồi......\nLần sau em phải chạy chậm lại mới được, em xin lỗi nha.",
+            "choice_data_list": [
+                "― Kh-Không đâu...... Anh mới là người phải xin lỗi vì chạy chậm"
+            ]
+        },
+        {
+            "text": "Rất nhanh sau đó, em đã có thể lao đi nhanh hơn, nhanh hơn nữa, nhanh đến vô tận. Khác hẳn với tôi―― em là một Uma Musume sinh ra để chạy.",
+            "choice_data_list": [
+                "（……Thế nhưng――！！）"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A, thấy rồi nhé……! Hehe, gặp lại anh tốt quá rồi. Anh đến xem trận biểu diễn của em đúng không.",
+            "choice_data_list": [
+                "― Ùm. Anh đã hiểu quá rõ thực lực hiện tại của em rồi",
+                "― Ùm. Anh đã hiểu quá rõ thực lực hiện tại của em rồi"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, thế thì tốt quá rồi.\n……Vậy thì, từ ngày mai liệu tụi mình có thể bắt đầu huấn luyện chính thức được chưa nhỉ?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Để hướng tới mục tiêu trong thời gian hợp đồng tạm thời mà anh từng nói trước đây―― chính là chiến thắng tại 『Giải thi đấu theo từng hạng mục』."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Chúng mình phải cố gắng thật nhiều mới được nhỉ.\nDù sao thì, ở đó tụ họp toàn những bạn mạnh đến mức khủng khiếp――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trong số đó, người nhận được sự chú ý đặc biệt nhất là Scarlet-chan―― người đã giành chiến thắng tại 『Oka Sho』 cùng 『Shuka Sho』 và tỏa sáng với danh hiệu Double Tiara――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Cùng với Vodka-chan―― dù là một Tiara Umamusume nhưng cậu ấy đã trở thành quán quân của 『Japan Derby』, đấu trường vốn được coi là giấc mơ của mọi Umamusume."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Đối đầu với hai người đại diện cho cả một thời đại như thế, anh sẽ giúp một kẻ chưa từng debut như em giành chiến thắng. ……Đó là điều anh từng nói, đúng không?",
+            "choice_data_list": [
+                "― ……A……Đúng vậy, chắc chắn rồi……",
+                "― ……A……Đúng vậy, chắc chắn rồi……"
+            ]
+        },
+        {
+            "text": "Và rồi―― chính tôi đã cúi đầu xin em vài ngày trước, mong em hãy dựa vào điều đó để xem xét liệu có nên ký hợp đồng chính thức với tôi hay không."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Đánh giá ư…… ơ kìa, em sao? Đánh giá anh á? Nhưng mà――",
+            "choice_data_list": [
+                "― ……Buena này, em đã từ chối khá nhiều lời mời chiêu mộ rồi đúng không?",
+                "― ……Buena này, em đã từ chối khá nhiều lời mời chiêu mộ rồi đúng không?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "！ ……Anh biết rồi sao?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Bất ngờ thật đấy. Rõ ràng em nghe nói hôm nay mới là ngày đầu tiên anh nhậm chức cơ mà――",
+            "choice_data_list": [
+                "― Anh biết chứ. Vì em...... là một Uma Musume tuyệt vời mà",
+                "― Anh biết chứ. Vì em...... là một Uma Musume tuyệt vời mà"
+            ]
+        },
+        {
+            "text": "Chính vì vậy mà tôi đã bị bỏ lại đằng sau trong chớp mắt. ……Thế nhưng, dù là như vậy, tôi vẫn chẳng thể nào từ bỏ."
+        },
+        {
+            "text": "Từ cái ngày cắn răng ôm uất hận chạy về nhà sau khi nhìn em qua hàng rào―― tôi đã lao vào học như điên dại, không còn ngoảnh lại nhìn bất cứ điều gì khác."
+        },
+        {
+            "text": "Bởi vì tôi muốn đuổi kịp em. Bởi vì tôi muốn được sánh bước bên em. Không phải chỉ đơn thuần với tư cách",
+            "choice_data_list": [
+                "(Bởi vì tôi muốn trở thành một bản thân đủ xứng đáng…… để được em lựa chọn……!)",
+                "(Bởi vì tôi muốn trở thành một bản thân đủ xứng đáng…… để được em lựa chọn……!)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Đúng vậy nhỉ. Em nhất định muốn chạm tới khung cảnh tuyệt đẹp mà chị Spe từng cho em nhìn thấy khi xưa."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Vì vậy, em sẽ chọn một Torena thật hoàn hảo cho mục tiêu ấy. Em định sẽ làm như thế."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Vậy thì! Từ ngày mai phiền anh trông nom em rồi nha, Torena tạm thời của em~"
+        }
+    ]
+}
